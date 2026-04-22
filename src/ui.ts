@@ -245,7 +245,7 @@ function generateSlots(slots: Slot[], group: GroupName): void {
  * Iterates members + subunits from the registry. Used for newly-added groups
  * (e.g. K-pop) that don't ship hand-authored Bootstrap markup.
  */
-function buildSlotSkeleton(group: GroupName): HTMLElement {
+export function buildSlotSkeleton(group: GroupName): HTMLElement {
   const g = getGroup(group);
 
   const row = document.createElement('div');
