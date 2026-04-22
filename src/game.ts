@@ -130,7 +130,7 @@ export function loadSong(song: Song): void {
   const soundBase = isIOS && iosBase ? iosBase : import.meta.env.VITE_SOUND_BASE;
   const base = import.meta.env.BASE_URL;
   const resolveAudio = (path: string) =>
-    soundBase ? soundBase + path.replace(/^sound\//, '') : base + path;
+    soundBase ? soundBase + path.replace(/^sound\/(?:kpop\/)?/, '') : base + path;
   // iOS Safari can't decode Opus-in-Ogg — pass the .m4a sibling so Howler
   // falls through to AAC when Ogg isn't playable.
   const m4aPath = song.ogg.replace(/\.ogg$/, '.m4a');

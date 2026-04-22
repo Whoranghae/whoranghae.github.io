@@ -153,7 +153,7 @@ function selectSong(song: Song): void {
     if (song.cover) {
       const coverBase = import.meta.env.VITE_COVER_BASE;
       coverEl.src = coverBase
-        ? coverBase + song.cover.replace(/^css\/images\/covers\//, '')
+        ? coverBase + song.cover.replace(/^css\/images\/covers\/(?:kpop\/)?/, '')
         : import.meta.env.BASE_URL + song.cover;
       coverEl.style.display = '';
     } else {
