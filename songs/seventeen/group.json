@@ -1,0 +1,27 @@
+{
+  "slug": "seventeen",
+  "name": "Seventeen",
+  "nameNative": "세븐틴",
+  "nativeScript": "ko",
+  "members": [
+    { "id": 1,  "name": "S.Coups",  "nameNative": "에스쿱스", "color": "#F23B4C" },
+    { "id": 2,  "name": "Jeonghan", "nameNative": "정한",     "color": "#F6C62A" },
+    { "id": 3,  "name": "Joshua",   "nameNative": "조슈아",   "color": "#4CC4FF" },
+    { "id": 4,  "name": "Jun",      "nameNative": "준",       "color": "#45AE4D" },
+    { "id": 5,  "name": "Hoshi",    "nameNative": "호시",     "color": "#FF9547" },
+    { "id": 6,  "name": "Wonwoo",   "nameNative": "원우",     "color": "#8A9294" },
+    { "id": 7,  "name": "Woozi",    "nameNative": "우지",     "color": "#E9A9E8" },
+    { "id": 8,  "name": "DK",       "nameNative": "도겸",     "color": "#13E8AE" },
+    { "id": 9,  "name": "Mingyu",   "nameNative": "민규",     "color": "#DD418A" },
+    { "id": 10, "name": "The8",     "nameNative": "디에잇",   "color": "#AE58EB" },
+    { "id": 11, "name": "Seungkwan","nameNative": "승관",     "color": "#FB75E4" },
+    { "id": 12, "name": "Vernon",   "nameNative": "버논",     "color": "#0D72BA" },
+    { "id": 13, "name": "Dino",     "nameNative": "디노",     "color": "#898989" }
+  ],
+  "subunits": [
+    { "name": "Hip-Hop Unit",     "slug": "hip-hop",     "memberIds": [1, 6, 9, 12] },
+    { "name": "Performance Unit", "slug": "performance", "memberIds": [4, 5, 10, 13] },
+    { "name": "Vocal Unit",       "slug": "vocal",       "memberIds": [2, 3, 7, 8, 11] }
+  ],
+  "songs": ["pretty-u.json"]
+}

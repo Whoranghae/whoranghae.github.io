@@ -1,0 +1,168 @@
+{
+  "name": "Pretty U",
+  "ogg": "sound/kpop/pretty_u.ogg",
+  "id": "pretty-u",
+  "group": "seventeen",
+  "released": "2016-04-24",
+  "album": "FIRST ‘Love & Letter’",
+  "cover": "css/images/covers/pretty-u.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-21T04:34:39Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Seventeen yup", "lyric_hangul": "Seventeen yup", "lyric_translation": "", "range": [0.08, 3.12], "ans": []},
+    {"lyric": "Halmari maneunde", "lyric_hangul": "할 말이 많은데", "lyric_translation": "Got so much to say", "range": [3.12, 5.13], "ans": [6]},
+    {"lyric": "Jeongniga jal andwae", "lyric_hangul": "정리가 잘 안 돼", "lyric_translation": "but can’t organize myself", "range": [5.13, 6.49], "ans": [6]},
+    {"lyric": "Dowajweo S.O.S", "lyric_hangul": "도와줘 SOS", "lyric_translation": "Help me, S.O.S", "range": [6.49, 7.78], "ans": [6]},
+    "",
+    {"lyric": "Hana dul set net", "lyric_hangul": "하나 둘 셋 넷", "lyric_translation": "1, 2, 3, 4", "range": [7.78, 9.24], "ans": []},
+    "",
+    {
+      "lyric_hangul": "어떤 표현법을 써야만 내 맘이 전해질까",
+      "lyric_translation": "What kind of expression / can deliver my heart?",
+      "parts": [
+        {"lyric": "Eotteon pyohyeonbeopeul sseoyaman", "range": [9.24, 12.62], "ans": [3]},
+        {"lyric": "Nae mami jeonhaejilkka", "range": [12.62, 14.7], "ans": [3]}
+      ]
+    },
+    {"lyric": "Maeumeul kkeonaeseo neoege boksahae", "lyric_hangul": "마음을 꺼내서 너에게 복사해", "lyric_translation": "Should I take my heart out to copy", "range": [14.7, 18.26], "ans": [3]},
+    {"lyric": "Butyeoya haneungeonga", "lyric_hangul": "붙여야 하는 건가", "lyric_translation": "and paste on you?", "range": [18.26, 21.73], "ans": [3]},
+    "",
+    {"lyric": "Eoneu meotjin nale", "lyric_hangul": "어느 멋진 날에", "lyric_translation": "On one fine day", "range": [21.73, 24.16], "ans": [8]},
+    {"lyric": "Naege jjanago natanaseon", "lyric_hangul": "나에게 짠 하고 나타나선", "lyric_translation": "you magically appeared", "range": [24.16, 27.13], "ans": [8]},
+    {
+      "lyric_hangul": "내 맘을 취하고 시선을 빼앗고 넌 욕심쟁이",
+      "lyric_translation": "You took my heart and attracted my eyes, / you’re greedy",
+      "parts": [
+        {"lyric": "Nae mameul chwihago shiseoneul ppaeasgo", "range": [27.13, 31.39], "ans": [8]},
+        {"lyric": "Neon yokshimjaengi", "range": [31.39, 32.85], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Naega hago shipeotteon mareun", "lyric_hangul": "내가 하고 싶었던 말은", "lyric_translation": "What I wanted to say is", "range": [32.35, 34.39], "ans": [9, 10]},
+    "",
+    {"lyric": "Don’t take this the wrong way", "lyric_hangul": "Don't take this the wrong way", "lyric_translation": "Don’t take this the wrong way", "range": [34.39, 35.68], "ans": [12]},
+    {"lyric": "But neo malgon an boyeo", "lyric_hangul": "But 너 말곤 안 보여", "lyric_translation": "But I can’t see anything but you", "range": [35.68, 37.24], "ans": [12]},
+    {"lyric": "You’re so ice ice baby", "lyric_hangul": "Your so ice ice baby", "lyric_translation": "You’re so ice ice baby", "range": [37.24, 39.17], "ans": [12]},
+    {"lyric": "At the same time neon nal nogyeo", "lyric_hangul": "At the same time 넌 날 녹여", "lyric_translation": "At the same time you melt me down", "range": [39.17, 40.78], "ans": [12]},
+    {"lyric": "Just can’t get enough", "lyric_hangul": "Just can't get enough", "lyric_translation": "Just can’t get enough", "range": [40.78, 42.37], "ans": [12]},
+    {"lyric": "Nal neoege sumgim eopshi boyeojugo shipeo", "lyric_hangul": "날 너에게 숨김없이 보여 주고 싶어 oh", "lyric_translation": "I want to show you myself without hiding anything", "range": [42.37, 46.13], "ans": [12]},
+    "",
+    {"lyric": "Oh urin seororeul seontaekhaetgo", "lyric_hangul": "우린 서로를 선택했고", "lyric_translation": "Oh we chose each other and", "range": [46.13, 49.02], "ans": [11]},
+    {"lyric": "Nano danwiro jipjunghae", "lyric_hangul": "나노 단위로 집중해", "lyric_translation": "focus on by nano unit", "range": [49.02, 52.15], "ans": [11]},
+    {"lyric": "Neol bolttae nan sumi chaehal geot gata", "lyric_hangul": "널 볼 때 난 숨이 체할 것 같아", "lyric_translation": "When I see you, it’s breathtaking", "range": [52.15, 55.15], "ans": [11]},
+    {"lyric": "Pyeongsoen an geureoneunde", "lyric_hangul": "평소엔 안 그러는데", "lyric_translation": "Normally I’m not like this", "range": [55.15, 57.08], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "예쁜 말 모두 모아서 따다 주고 싶은데",
+      "lyric_translation": "I want to pick and gather all / the pretty words for you",
+      "parts": [
+        {"lyric": "Yeppeun mal modu moaseo", "range": [57.08, 62.04], "ans": [5]},
+        {"lyric": "Ttada jugo shipeunde", "range": [62.04, 64.69], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "너 너 너 너 앞에 서면 자꾸 들어가는 말",
+      "lyric_translation": "They stick in my / throat in front of you",
+      "parts": [
+        {"lyric": "Neoneoneoneo ape seomyeon", "range": [64.69, 69.67], "ans": [8]},
+        {"lyric": "Jakku deureoganeun mal", "range": [69.67, 70.97], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Saebyeoke mureul mashimyeonseo", "lyric_hangul": "새벽에 물을 마시면서", "lyric_translation": "I promise myself, while drinking", "range": [70.42, 73.58], "ans": [7]},
+    {"lyric": "Honja dajimhae naneun neoege", "lyric_hangul": "혼자 다짐해 나는 너에게", "lyric_translation": "a glass of water in the morning, to tell you", "range": [73.58, 77.44], "ans": [7]},
+    {"lyric": "Teok kkeutkkaji cha ollatteon geu mareul", "lyric_hangul": "턱 끝까지 차올랐던 그 말을", "lyric_translation": "I will confess what has been", "range": [77.44, 80.58], "ans": [2]},
+    {"lyric": "Naeil kkok hagesseo", "lyric_hangul": "내일 꼭 하겠어", "lyric_translation": "on the tip of my tongue tomorrow", "range": [80.58, 82.36], "ans": [2]},
+    {"lyric": "Neo yeppeuda", "lyric_hangul": "너 예쁘다", "lyric_translation": "You are pretty", "range": [82.36, 85.34], "ans": [2]},
+    "",
+    {"lyric": "Gamgieneun yak baegopeumyeon bap", "lyric_hangul": "감기에는 약 (약) 배고프면 밥", "lyric_translation": "Pills for cold, meals for hunger,", "range": [85.34, 88.08], "ans": [1]},
+    {"lyric": "Neo eneun na", "lyric_hangul": "너에는 나", "lyric_translation": "me for you", "range": [88.08, 89.75], "ans": [1]},
+    {"lyric": "Cheoreom sajeone neol chajeumyeon", "lyric_hangul": "처럼 사전에 널 찾으면", "lyric_translation": "I want to define you as me", "range": [89.75, 91.78], "ans": [1]},
+    {"lyric": "Naro jeonguidwaesseum johkettan marya", "lyric_hangul": "나로 정의됐음 좋겠단 말이야 (좋겠단 말이야)", "lyric_translation": "like this in the dictionary", "range": [91.78, 94.36], "ans": [1]},
+    {"lyric": "Geunde oneureun daeche eotteoke haeya dwae", "lyric_hangul": "근데 오늘은 대체 어떻게 해야 돼", "lyric_translation": "By the way what should I do today?", "range": [94.36, 97.55], "ans": [1]},
+    "",
+    {"lyric": "Inteonetseda mureobolkka", "lyric_hangul": "인터넷에다 물어볼까", "lyric_translation": "Should I ask the internet?", "range": [97.55, 100.67], "ans": [10]},
+    {"lyric": "Eotteon ot tto eotteon got", "lyric_hangul": "어떤 옷 또 어떤 곳", "lyric_translation": "What to wear, where to go", "range": [100.67, 103.73], "ans": [13]},
+    {"lyric": "Gongbureul ireokena haebolgeol", "lyric_hangul": "공부를 이렇게나 해 볼걸 hey huh", "lyric_translation": "I should have studied hard like this", "range": [103.73, 109.59], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Oh urin seororeul seontaekhaetgo", "lyric_hangul": "우린 서로를 선택했고", "lyric_translation": "Oh we chose each other and", "range": [109.59, 112.53], "ans": [11]},
+    {"lyric": "Nano danwiro jipjunghae", "lyric_hangul": "나노 단위로 집중해", "lyric_translation": "focus on by nano unit", "range": [112.53, 115.66], "ans": [11]},
+    {"lyric": "Neol bolttae nan sumi chaehal geonman gata", "lyric_hangul": "널 볼 때 난 숨이 체할 것만 같아", "lyric_translation": "When I see you, it’s breathtaking", "range": [115.66, 118.84], "ans": [9]},
+    {"lyric": "Pyeongsoen an geureoneunde", "lyric_hangul": "평소엔 안 그러는데", "lyric_translation": "Normally I’m not like this", "range": [118.84, 120.79], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "예쁜 말 모두 모아서 따다 주고 싶은데",
+      "lyric_translation": "I want to pick and gather all / the pretty words for you",
+      "parts": [
+        {"lyric": "Yeppeun mal modu moaseo", "range": [120.79, 125.58], "ans": [3]},
+        {"lyric": "Ttada jugo shipeunde", "range": [125.58, 127.83], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "너 너 너 너 앞에 서면 자꾸 들어가는 말",
+      "lyric_translation": "They stick in my / throat in front of you",
+      "parts": [
+        {"lyric": "Neoneoneoneo ape seomyeon", "range": [127.83, 133.15], "ans": [8]},
+        {"lyric": "Jakku deureoganeun mal", "range": [133.15, 134.45], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Saebyeoke mureul mashimyeonseo", "lyric_hangul": "새벽에 물을 마시면서", "lyric_translation": "I promise myself, while drinking", "range": [134.15, 137.6], "ans": [7]},
+    {"lyric": "Honja dajimhae naneun neoege", "lyric_hangul": "혼자 다짐해 나는 너에게 (너에게)", "lyric_translation": "a glass of water in the morning, to tell you", "range": [137.6, 141.18], "ans": [7]},
+    {"lyric": "Teok kkeutkkaji cha ollatteon geu mareul", "lyric_hangul": "턱 끝까지 차올랐던 그 말을", "lyric_translation": "I will confess what has been", "range": [141.18, 144.08], "ans": [2]},
+    {"lyric": "Naeil kkok hagesseo", "lyric_hangul": "내일 꼭 하겠어", "lyric_translation": "on the tip of my tongue tomorrow", "range": [144.08, 146.22], "ans": [2]},
+    {"lyric": "Neo yeppeuda", "lyric_hangul": "너 예쁘다", "lyric_translation": "You are pretty", "range": [146.22, 147.14], "ans": [2]},
+    "",
+    {"lyric": "I can’t take it no more", "lyric_hangul": "I can't take it no more", "lyric_translation": "I can’t take it no more", "range": [147.14, 149.02], "ans": [4]},
+    {"lyric": "Halmareun inneunde", "lyric_hangul": "할 말은 있는데", "lyric_translation": "I’ve got something to say", "range": [149.02, 150.21], "ans": [4]},
+    {"lyric": "I can’t take it no more", "lyric_hangul": "I can't take it no more", "lyric_translation": "I can’t take it no more", "range": [150.21, 151.9], "ans": [13]},
+    {"lyric": "Jigeum haryeogo hae", "lyric_hangul": "지금 하려고 해", "lyric_translation": "Right now, I’m gonna try", "range": [151.9, 153.32], "ans": [13]},
+    {"lyric": "I can’t take it no more", "lyric_hangul": "I can't take it no more", "lyric_translation": "I can’t take it no more", "range": [153.32, 154.83], "ans": [10]},
+    {"lyric": "Pyeonjireul sseuryeodaga", "lyric_hangul": "편지를 쓰려다가", "lyric_translation": "I was about to write a letter", "range": [154.83, 156.7], "ans": [10]},
+    {"lyric": "I can’t take it no more", "lyric_hangul": "I can't take it no more", "lyric_translation": "I can’t take it no more", "range": [156.7, 158.06], "ans": [6]},
+    {"lyric": "Mot chamgesseo", "lyric_hangul": "못 참겠어", "lyric_translation": "I can’t stand it", "range": [158.06, 159.62], "ans": [6]},
+    "",
+    {"lyric": "Baby you’re my lady", "lyric_hangul": "Baby you're my lady", "lyric_translation": "Baby you’re my lady", "range": [159.62, 162.13], "ans": [11]},
+    {"lyric": "Neoye maeumsogeul dallyeo ganeun junginde", "lyric_hangul": "너의 마음속을 달려가는 중인데", "lyric_translation": "I am running to your heart", "range": [162.13, 165.59], "ans": [11]},
+    {"lyric": "Baby ije geoye da wasseo", "lyric_hangul": "Baby 이제 거의 다 왔어", "lyric_translation": "Baby I’m almost there", "range": [165.59, 171.39], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "새벽에 물을 마시면서",
+      "lyric_translation": "(Oh~) I promise myself, while drinking",
+      "parts": [
+        {"lyric": "Oh~", "range": [171.39, 172.01], "ans": [11]},
+        {"lyric": "Saebyeoke mureul mashimyeonseo", "range": [171.44, 173.95], "ans": [7]}
+      ]
+    },
+    {"lyric": "Honja dajimhae naneun neoege", "lyric_hangul": "혼자 다짐해 나는 너에게", "lyric_translation": "a glass of water in the morning, to tell you", "range": [173.91, 178.03], "ans": [7]},
+    {
+      "lyric_hangul": "영화처럼 달콤하고 예쁜 그 말",
+      "lyric_translation": "Beautiful words like the / lines in a movie",
+      "parts": [
+        {"lyric": "Yeonghwacheoreom dalkomhago", "range": [178.03, 180.41], "ans": [3]},
+        {"lyric": "Yeppeun geu mal", "range": [180.41, 181.57], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "몇 날 며칠 밤새 연습 했던 그 말",
+      "lyric_translation": "The words I’ve prepared / overnight for days",
+      "parts": [
+        {"lyric": "Myeot nal myeochil bamsae", "range": [181.26, 183.08], "ans": [2]},
+        {"lyric": "Yeonseuphaetteon geu mal", "range": [183.08, 184.68], "ans": [2]}
+      ]
+    },
+    {"lyric": "Naeileun kkok du jumeogeul", "lyric_hangul": "내일은 꼭 두 주먹을 꽉 쥐고", "lyric_translation": "I want to say them to you tomorrow", "range": [184.37, 187.1], "ans": [7, 11]},
+    {"lyric": "Kkwak jwigo malhaejugo shipeo", "lyric_hangul": "말해 주고 싶어", "lyric_translation": "with my clenched fists", "range": [187.1, 189.33], "ans": [7, 11]},
+    {"lyric": "Neo yeppeuda", "lyric_hangul": "너 예쁘다", "lyric_translation": "You are pretty", "range": [189.33, 191.91], "ans": []},
+    "",
+    {"lyric": "Does she love me", "lyric_hangul": "Does she love me", "lyric_translation": "Does she love me", "range": [191.91, 193.78], "ans": [12]},
+    {"lyric": "Does she love me not", "lyric_hangul": "Does she love me not?", "lyric_translation": "Does she love me not", "range": [193.78, 195.06], "ans": [12]},
+    {"lyric": "Haru jongil sego isseo kkochimman", "lyric_hangul": "하루 종일 세고 있어 꽃잎만", "lyric_translation": "I am counting flower petals all day long", "range": [195.06, 198.14], "ans": [1]},
+    {"lyric": "Does she love me", "lyric_hangul": "Does she love me", "lyric_translation": "Does she love me", "range": [198.14, 200.11], "ans": [9]},
+    {"lyric": "Does she love me not", "lyric_hangul": "Does she love me not?", "lyric_translation": "Does she love me not", "range": [200.11, 201.24], "ans": [9]},
+    {"lyric": "Kkonibeun naege eotteon dabeul jeonhae julkka", "lyric_hangul": "꽃잎은 내게 어떤 답을 전해 줄까", "lyric_translation": "What will the petals answer to me?", "range": [201.24, 206.0], "ans": [6]}
+  ]
+}

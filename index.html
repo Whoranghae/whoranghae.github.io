@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#fb96be">
+
+<title>BubuDesuWho</title>
+
+<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+<link type="text/css" href="css/bootstrap.min.css" rel="stylesheet" />
+<link type="text/css" href="css/styles.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="sidebar" class="sidebar-collapsed">
+  <ul class="sidebar-nav">
+    <li><a class="select-info active" href="index.html">About</a></li>
+    <li><a class="select-info" href="changelog.html">Changelog</a></li>
+    <li><a class="select-info" href="stats.html">Stats</a></li>
+    <li><a class="select-info" href="bubudle.html">Bubudle</a></li>
+    <li>
+      <button id="muse-group-button" type="button" class="btn btn-primary group-button" data-value="muse"><img class="group-icon" src="css/images/muse.png"></img></button><button id="aqours-group-button" type="button" class="btn btn-primary group-button" data-value="aqours"><img class="group-icon" src="css/images/aqours.png"></img></button>
+    </li>
+    <li>
+      <button id="wug-group-button" type="button" class="btn btn-primary group-button" data-value="wug"><img class="group-icon" src="css/images/wug.png"></img></button><button id="nijigasaki-group-button" type="button" class="btn btn-primary group-button" data-value="nijigasaki"><img class="group-icon" src="css/images/nijigasaki.png"></img></button>
+    </li>
+    <li>
+      <button id="seventeen-group-button" type="button" class="btn btn-primary group-button" data-value="seventeen"><img class="group-icon" src="css/images/seventeen.png"></img></button>
+    </li>
+    <li class="has-feedback">
+      <input class="form-control" id="menu-search" autofocus></input>
+      <span class="glyphicon glyphicon-search form-control-feedback"></span>
+    </li>
+    <li class="sort-toggle-wrap">
+      <button type="button" class="sort-btn active" data-sort="date">Date</button><button type="button" class="sort-btn" data-sort="alpha">A–Z</button><button type="button" class="group-toggle-btn" id="group-toggle">Group</button>
+    </li>
+  </ul>
+</div>
+
+<div class="main">
+  <span id="menu-button" class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+
+  <nav class="navbar navbar-default">
+  <div class="container">
+  <div class="row"><div class="col-xs-10 col-xs-offset-2 col-sm-11 col-sm-offset-1 navbar-title-row">
+      <h1 class="dia-red">BubuDesu<strong>Who</strong></h1>
+      <button id="theme-toggle" type="button" class="btn btn-default" title="Switch to light mode">&#9790;</button>
+  </div></div>
+  </div>
+  </nav>
+
+  <div class="container"><div class="row"><div class="col-xs-12 col-md-10 info-content">
+
+      <p><strong>BubuDesuWho</strong> is a rebuild of and tribute to
+      <a href="https://nanodesu.moe/ganbawhoby/">the original GanbaWhoby</a> by gacha4life — a game I
+      kept coming back to long after its last update. This version extends it
+      with more groups, more songs, higher-quality audio, and a pile of new
+      features built on top.</p>
+
+      <hr>
+      <p><strong>BubuDesuWho</strong> tests your ability to recognize individual singers in
+      <span class="muse-pink">μ's</span>,
+      <span class='aqours-blue'>Aqours</span>, and
+      <span style="color:#F39800">Nijigasaki</span> songs. New to
+      Love Live? Start with the
+      <a href="https://lovelive.fandom.com/wiki/Love_Live!_Wiki">Love Live! Wiki</a>.</p>
+
+      <hr>
+      <h2>How to play</h2>
+      <ol>
+        <li>Pick a song from the menu on the left — sort by date or A–Z, filter
+        by group, or search by title</li>
+        <li>As the song plays, the time slots at the bottom highlight one at a
+        time. Each slot is (usually) a single member, subunit, or year group</li>
+        <li>Select who you think is singing</li>
+        <li>When you're done <strike>guessing</strike> choosing, hit
+        <span class='text-success'>Check</span> — or use the per-slot
+        <code>Check</code> button to verify one line at a time</li>
+        <li>Try as many times as you like until you get them all</li>
+      </ol>
+
+      <hr>
+      <h2>Controls</h2>
+      <p><code>Autoscroll</code> follows the active slot as the song plays.</p>
+      <p><code>Themed</code> toggles special per-song color themes.</p>
+      <p>The 🎨 palette button in the top-right swaps between the site's
+      theme colors and the <em>official</em> member colors (Honoka orange,
+      Chika orange, Ayumu pink, and so on).</p>
+      <p>The 🌙 / ☀ toggle next to it switches between dark and light mode.
+      Both modes are theme-aware across slots and lyrics.</p>
+      <p><code>Reveal</code> shows every answer — handy as a singer reference
+      or when you just want to listen.</p>
+      <p>You can also pick a difficulty per song. Higher difficulties add slots
+      that are <strong class='text-danger'>not</strong> guaranteed to be a
+      solo, subunit, or year group (any combination is fair game), though
+      there's never a slot where the entire song lineup sings together. Hard
+      and Insane assignments <strong class='text-danger'>may not</strong> be
+      fully accurate — nobody knows who sang what until the song is performed
+      live.</p>
+      <p>Songs with rough, unsynced timings show a <code>timing approx</code>
+      badge in the menu so you know which mappings aren't tightly aligned.</p>
+      <p>Keyboard shortcuts:</p>
+      <ul>
+        <li><code>space</code>: toggle play/pause</li>
+        <li><code>left</code>: move backwards 2 seconds</li>
+        <li><code>right</code>: move forwards 2 seconds</li>
+        <li><code>c</code>: check answers</li>
+        <li><code>ctrl+a</code>: toggle global reveal</li>
+      </ul>
+
+      <hr>
+      <h2>Lyrics</h2>
+      <p>Click the <code>Lyrics</code> button in the top-right to enable lyrics
+      mode — the current line being sung appears in romaji, and for songs
+      where they've been transcribed, the Japanese lyrics show alongside. When
+      a solo line is answered correctly or revealed, the highlight is
+      color-coded to that member. In full lyrics mode, the regular game
+      controls are replaced by buttons including <code>Download</code>, which
+      exports the lyrics as a karaoke-ready ASS file.</p>
+
+      <hr>
+      <h2>Bubudle</h2>
+      <p><a href="bubudle.html"><strong>Bubudle</strong></a> is a daily
+      Wordle-style mini-game. It plays a random lyric clip and asks you to
+      guess the singer(s), revealing progressive hints (lyric snippet → clip
+      difficulty → song difficulty → song theme) until you get it. Includes
+      streak tracking, a subunit filter, volume and seek controls, and a
+      <code>Skip</code> button when a clip has you stumped.</p>
+
+      <hr>
+      <h2>Contributing</h2>
+      <p>Spot a bad timestamp, a wrong singer, or an off difficulty? Or maybe
+      I'm just missing your favorite song? Open a
+      <a href="https://github.com/BuBuDesuWho/bubudesuwho.github.io/issues/new">GitHub
+      issue</a> — include the song title, what's wrong, and how you think it
+      should be.</p>
+      <p>Two ways to gather what to report:</p>
+      <ul>
+      <li>Flag things as you play from the <a href="bubudle.html">Bubudle</a>
+      page — <code>Bad Timestamp</code>, <code>Flag Difficulty</code>, or
+      <code>Flag Singer</code>. Flags save locally; hit <code>Export</code> to
+      download a <code>.txt</code> summary to paste or attach to the issue.</li>
+      <li>Fix it in place — while playing, click <code>Edit</code> in the
+      top-right to adjust slot timings, difficulty, and singer assignments,
+      then <code>Save Mapping</code> to download the corrected config JSON.
+      Attach that file to the issue.</li>
+      </ul>
+      <p>Looking to add a song? Chances are I couldn't find a CCL (color-coded
+      lyrics) sheet. If you have one, attach it to a GitHub issue and send it my
+      way. Or if you're interested in making your own,
+      use the <a href="submission.html">Submit Lyrics</a> page to build a
+      color-coded lyrics file, and do the same.</p>
+
+      <hr>
+      <h2>Thanks</h2>
+      <ul>
+      <li><a href="https://nanodesu.moe/ganbawhoby/"><strong>gacha4life</strong></a>
+      for the original GanbaWhoby — the game that inspired all of this. Every
+      core mechanic here started as something from that site.</li>
+      <li><strong>throwaway93257</strong> for help in voice identification —
+      this game would not be possible without his work. Check out his
+      <a href="https://www.reddit.com/r/LoveLive/search?q=music+primer&restrict_sr=on">music
+      primers</a> for in-depth Aqours song analyses. 
+      (He didn't contribute directly to this project, but I remember reading them when Sunshine was first coming out.
+      And he was invaluable to the original GanbaWhoby. I'm a big fan.)</li>
+      </li>
+      <li><a href="https://sites.google.com/view/loveliveccl/home"><strong>Love Live CCL</strong></a>,
+      <a href="https://sites.google.com/site/lovelivesunshineccl/home/aqours-albums"><strong>Love Live Sunshine CCL</strong></a>,
+      and <a href="https://sites.google.com/view/nijigakucolorcodedlyrics/home"><strong>Nijigaku Color Coded Lyrics</strong></a>
+      for the color-coded lyric sheets that make singer identification possible for μ's, Aqours, and Nijigasaki respectively.</li>
+      <li><a href="https://lovelive.fandom.com/wiki/Love_Live!_Wiki"><strong>Love Live! Wiki</strong></a>
+      for lyrics, member information, and song metadata.</li>
+      </ul>
+
+      <hr>
+      <h2>Contact</h2>
+      Please direct all bug reports, questions, concerns, and complaints to my <a href="https://github.com/BuBuDesuWho/bubudesuwho.github.io/issues/new"><strong>GitHub</strong></a>
+  </div></div></div>
+
+</div>
+
+<script type="module" src="/src/main.ts"></script>
+<script>
+  if (!('ontouchstart' in window) && !(navigator.msMaxTouchPoints > 0)) {
+    document.documentElement.classList.add('hoverable');
+  }
+</script>
+</body>
+</html>
