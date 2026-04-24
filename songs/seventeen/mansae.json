@@ -12,85 +12,137 @@
   "hidden": false,
   "slots": [],
   "lines": [
-    {"lyric": "Yeh alright", "lyric_hangul": "Yeah, alright", "lyric_translation": "Yeh Alright", "range": [0.65, 2.86], "ans": [1]},
+    {"lyric": "Yeh alright",
+      "lyric_hangul": "Yeah, alright",
+      "lyric_translation": "Yeh Alright",
+      "range": [0.65, 2.86], "ans": [1]},
     {
       "lyric_hangul": "Say the name, SEVENTEEN, yep",
       "lyric_translation": "Say the Name Seventeen Yep / Your gestures hit right at my heart",
       "parts": [
-        {"lyric": "Say the name Seventeen yep", "range": [2.86, 5.76], "ans": [1]},
-        {"lyric": "Nae mam ttaerineun gesture", "range": [5.06, 8.93], "ans": [12]}
+        {"lyric": "Say the name Seventeen yep",
+          "range": [2.86, 5.76], "ans": [1]},
+        {"lyric": "Nae mam ttaerineun gesture",
+          "range": [5.06, 8.93], "ans": [12]}
       ]
     },
     "",
-    {"lyric": "Manse samchanghaji baek beon but", "lyric_hangul": "내 맘 때리는 제스쳐, 만세, 삼창하지 백 번", "lyric_translation": "You make me say mansae a hundred times but", "range": [8.93, 13.43], "ans": [12]},
-    {"lyric": "Kkaego naseon maebeon say I’m so stupid", "lyric_hangul": "But 깨고 나선 매번 say, I'm so stupid", "lyric_translation": "After I wake up, I always say I’m so stupid", "range": [13.43, 16.12], "ans": [12]},
+    {"lyric": "Manse samchanghaji baek beon but",
+      "lyric_hangul": "내 맘 때리는 제스쳐, 만세, 삼창하지 백 번",
+      "lyric_translation": "You make me say mansae a hundred times but",
+      "range": [8.93, 13.43], "ans": [12]},
+    {"lyric": "Kkaego naseon maebeon say I’m so stupid",
+      "lyric_hangul": "But 깨고 나선 매번 say, I'm so stupid",
+      "lyric_translation": "After I wake up, I always say I’m so stupid",
+      "range": [13.43, 16.12], "ans": [12]},
     "",
     {
       "lyric_hangul": "꿈 속에선 매일 매일 (ah-ha)",
       "lyric_translation": "Every day in my dreams (Ah ha)",
       "parts": [
-        {"lyric": "Kkum sogeseon maeil maeil", "range": [16.12, 18.45], "ans": [5]},
-        {"lyric": "(Ah ha)", "range": [17.75, 18.79], "ans": []}
+        {"lyric": "Kkum sogeseon maeil maeil",
+          "range": [16.12, 18.45], "ans": [5]},
+        {"lyric": "(Ah ha)",
+          "range": [17.75, 18.79], "ans": []}
       ]
     },
-    {"lyric": "Nega nae oenpare paljjang kkiji", "lyric_hangul": "네가 내 왼팔에 팔짱 끼지", "lyric_translation": "You put your arms in mine", "range": [18.58, 20.24], "ans": [5]},
+    {"lyric": "Nega nae oenpare paljjang kkiji",
+      "lyric_hangul": "네가 내 왼팔에 팔짱 끼지",
+      "lyric_translation": "You put your arms in mine",
+      "range": [18.58, 20.24], "ans": [5]},
     {
       "lyric_hangul": "꿈만 깨면 왜 이래? (Ah-ha)",
       "lyric_translation": "But when I wake up from this dream (Ah ha)",
       "parts": [
-        {"lyric": "Kkumman kkaemyeon waeirae", "range": [20.24, 22.88], "ans": [13]},
-        {"lyric": "(Ah ha)", "range": [22.18, 23.08], "ans": []}
+        {"lyric": "Kkumman kkaemyeon waeirae",
+          "range": [20.24, 22.88], "ans": [13]},
+        {"lyric": "(Ah ha)",
+          "range": [22.18, 23.08], "ans": []}
       ]
     },
-    {"lyric": "Machi yeonghui eomneun cheolsu gachi", "lyric_hangul": "마치 영희 없는 철수 같이", "lyric_translation": "I feel like Chulsoo without Younghee", "range": [22.95, 25.09], "ans": [13]},
+    {"lyric": "Machi yeonghui eomneun cheolsu gachi",
+      "lyric_hangul": "마치 영희 없는 철수 같이",
+      "lyric_translation": "I feel like Chulsoo without Younghee",
+      "range": [22.95, 25.09], "ans": [13]},
     "",
     {
       "lyric_hangul": "어떡해! 아, 머리 속에 가득 할 말이 많은데",
       "lyric_translation": "What do I do? My head is filled / with things I wanna say",
       "parts": [
-        {"lyric": "Eotteokhae a meori soge gadeuk", "range": [25.09, 28.06], "ans": [7]},
-        {"lyric": "Halmari manheunde", "range": [28.06, 29.65], "ans": [7]}
+        {"lyric": "Eotteokhae a meori soge gadeuk",
+          "range": [25.09, 28.06], "ans": [7]},
+        {"lyric": "Halmari manheunde",
+          "range": [28.06, 29.65], "ans": [7]}
       ]
     },
     {
       "lyric_hangul": "누가 대신 말 좀 해줘",
       "lyric_translation": "Can someone say them for me? / Vernon Let’s Go",
       "parts": [
-        {"lyric": "Nuga daesin mal jom haejwo", "range": [29.65, 31.92], "ans": [7]},
-        {"lyric": "Vernon let’s go", "range": [31.22, 32.43], "ans": []}
+        {"lyric": "Nuga daesin mal jom haejwo",
+          "range": [29.65, 31.92], "ans": [7]},
+        {"lyric": "Vernon let’s go",
+          "range": [31.22, 32.43], "ans": []}
       ]
     },
     "",
-    {"lyric": "(Vernon, let's go!)", "lyric_hangul": "(Vernon, let's go!)", "lyric_translation": "", "range": [31.72, 34.47], "ans": []},
-    {"lyric": "Uh geunyeoreul noryeosseo naega", "lyric_hangul": "Uh, 그녀를 노렸어 내가", "lyric_translation": "Uh I aimed for her, If I pick one", "range": [34.47, 36.38], "ans": [12]},
-    {"lyric": "Hanbeon jjigeosseumyeon Yeah I gotta slam dunk", "lyric_hangul": "한번 찍었으면, yeah, I gotta slam dunk", "lyric_translation": "Yeah I gotta slam dunk – If you become", "range": [36.38, 37.92], "ans": [12]},
+    {"lyric": "(Vernon, let's go!)",
+      "lyric_hangul": "(Vernon, let's go!)",
+      "lyric_translation": "",
+      "range": [31.72, 34.47], "ans": []},
+    {"lyric": "Uh geunyeoreul noryeosseo naega",
+      "lyric_hangul": "Uh, 그녀를 노렸어 내가",
+      "lyric_translation": "Uh I aimed for her, If I pick one",
+      "range": [34.47, 36.38], "ans": [12]},
+    {"lyric": "Hanbeon jjigeosseumyeon Yeah I gotta slam dunk",
+      "lyric_hangul": "한번 찍었으면, yeah, I gotta slam dunk",
+      "lyric_translation": "Yeah I gotta slam dunk – If you become",
+      "range": [36.38, 37.92], "ans": [12]},
     {
       "lyric_hangul": "너만 여주가 돼줌 이건 명 작품",
       "lyric_translation": "my female star, this will become a classic / S.Coups Let’s Go",
       "parts": [
-        {"lyric": "Neoman yeojuga dwaejum igeon myeong jakpum", "range": [37.92, 40.37], "ans": [12]},
-        {"lyric": "S.Coups let’s go", "range": [39.67, 40.72], "ans": []}
+        {"lyric": "Neoman yeojuga dwaejum igeon myeong jakpum",
+          "range": [37.92, 40.37], "ans": [12]},
+        {"lyric": "S.Coups let’s go",
+          "range": [39.67, 40.72], "ans": []}
       ]
     },
-    {"lyric": "(S.Coups, let's do it!)", "lyric_hangul": "(S.Coups, let's do it!)", "lyric_translation": "", "range": [40.59, 42.8], "ans": []},
-    {"lyric": "Alssongdalssong nunbiche jjeoljjeolmae", "lyric_hangul": "알쏭달쏭 눈빛에 쩔쩔매", "lyric_translation": "I get flustered by your mysterious eyes", "range": [42.8, 44.22], "ans": [1]},
-    {"lyric": "Mal hanmadi geonnegiga wae himi deumnikka", "lyric_hangul": "말 한마디 건네기가 왜 힘이 듭니까", "lyric_translation": "Why is it so hard to say one word to you?", "range": [44.22, 46.46], "ans": [1]},
-    {"lyric": "Abeojido eomeonimkke iraesseumnikka Woo", "lyric_hangul": "아버지도 어머님께 이랬습니까? Woo", "lyric_translation": "Dad, were you like this with mom?", "range": [46.46, 49.04], "ans": [1]},
+    {"lyric": "(S.Coups, let's do it!)",
+      "lyric_hangul": "(S.Coups, let's do it!)",
+      "lyric_translation": "",
+      "range": [40.59, 42.8], "ans": []},
+    {"lyric": "Alssongdalssong nunbiche jjeoljjeolmae",
+      "lyric_hangul": "알쏭달쏭 눈빛에 쩔쩔매",
+      "lyric_translation": "I get flustered by your mysterious eyes",
+      "range": [42.8, 44.22], "ans": [1]},
+    {"lyric": "Mal hanmadi geonnegiga wae himi deumnikka",
+      "lyric_hangul": "말 한마디 건네기가 왜 힘이 듭니까",
+      "lyric_translation": "Why is it so hard to say one word to you?",
+      "range": [44.22, 46.46], "ans": [1]},
+    {"lyric": "Abeojido eomeonimkke iraesseumnikka Woo",
+      "lyric_hangul": "아버지도 어머님께 이랬습니까? Woo",
+      "lyric_translation": "Dad, were you like this with mom?",
+      "range": [46.46, 49.04], "ans": [1]},
     "",
     {
       "lyric_hangul": "무뚝뚝한 내가 이젠 평소에도 널 걱정해",
       "lyric_translation": "I used to be a cold guy / But now I worry about you all the time",
       "parts": [
-        {"lyric": "Muttukttukhan naega", "range": [49.04, 50.92], "ans": [2]},
-        {"lyric": "Ijen pyeongso edo neol geokjeonghae", "range": [50.92, 53.4], "ans": [2]}
+        {"lyric": "Muttukttukhan naega",
+          "range": [49.04, 50.92], "ans": [2]},
+        {"lyric": "Ijen pyeongso edo neol geokjeonghae",
+          "range": [50.92, 53.4], "ans": [2]}
       ]
     },
     {
       "lyric_hangul": "길을 걸을 때, baby, 위험하니까 꼭 안쪽으로 걸어",
       "lyric_translation": "When you’re walking on the street baby / It’s dangerous so walk on the inside",
       "parts": [
-        {"lyric": "Gireul georeul ttae baby", "range": [53.28, 55.51], "ans": [2]},
-        {"lyric": "Wiheomhanikka kkok anjjogeuro georeo", "range": [54.81, 57.44], "ans": [9]}
+        {"lyric": "Gireul georeul ttae baby",
+          "range": [53.28, 55.51], "ans": [2]},
+        {"lyric": "Wiheomhanikka kkok anjjogeuro georeo",
+          "range": [54.81, 57.44], "ans": [9]}
       ]
     },
     "",
@@ -98,44 +150,63 @@
       "lyric_hangul": "잠깐 소녀야, 절대 넌 다른 사람에게 녹지마",
       "lyric_translation": "Hold on girl, don’t ever / fall for someone else",
       "parts": [
-        {"lyric": "Jamkkan sonyeoya jeoldae neon", "range": [57.24, 59.98], "ans": [11]},
-        {"lyric": "Dareun saramege nokjima", "range": [59.98, 62.1], "ans": [11]}
+        {"lyric": "Jamkkan sonyeoya jeoldae neon",
+          "range": [57.24, 59.98], "ans": [11]},
+        {"lyric": "Dareun saramege nokjima",
+          "range": [59.98, 62.1], "ans": [11]}
       ]
     },
-    {"lyric": "Naega jiltu najanha", "lyric_hangul": "내가 질투 나잖아", "lyric_translation": "I’m gonna get jealous", "range": [61.78, 64.94], "ans": [11]},
+    {"lyric": "Naega jiltu najanha",
+      "lyric_hangul": "내가 질투 나잖아",
+      "lyric_translation": "I’m gonna get jealous",
+      "range": [61.78, 64.94], "ans": [11]},
     {
       "lyric_hangul": "잠깐 소녀야, 지금부터 널 내꺼라고 부를 거야",
       "lyric_translation": "Hold on girl. From now on, / I’m gonna call you mine",
       "parts": [
-        {"lyric": "Jamkkan sonyeoya jigeumbuteo", "range": [64.94, 68.34], "ans": [8]},
-        {"lyric": "Neol naekkeorago bureul geoya", "range": [68.34, 70.95], "ans": [8]}
+        {"lyric": "Jamkkan sonyeoya jigeumbuteo",
+          "range": [64.94, 68.34], "ans": [8]},
+        {"lyric": "Neol naekkeorago bureul geoya",
+          "range": [68.34, 70.95], "ans": [8]}
       ]
     },
     {
       "lyric_hangul": "소심해도 세심한걸 이제부터 나를 봐줘, my lady",
       "lyric_translation": "I may be shy but I’m very careful / From now on, look at me my lady",
       "parts": [
-        {"lyric": "Sosimhaedo sesimhangeol ijebuteo", "range": [70.95, 74.03], "ans": [3]},
-        {"lyric": "Nareul bwajwo my lady", "range": [74.03, 75.23], "ans": [3]}
+        {"lyric": "Sosimhaedo sesimhangeol ijebuteo",
+          "range": [70.95, 74.03], "ans": [3]},
+        {"lyric": "Nareul bwajwo my lady",
+          "range": [74.03, 75.23], "ans": [3]}
       ]
     },
     "",
-    {"lyric": "Manse manse manse YEH", "lyric_hangul": "만세, 만세, 만세, yeah, 만세, 만세, 만세, yeah", "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh", "range": [75.23, 79.49], "ans": []},
+    {"lyric": "Manse manse manse YEH",
+      "lyric_hangul": "만세, 만세, 만세, yeah, 만세, 만세, 만세, yeah",
+      "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh",
+      "range": [75.23, 79.49], "ans": []},
     {
       "lyric_hangul": "만세, 만세, 만세, yeah, 네가 나를 볼 때면, 워",
       "lyric_translation": "Mansae mansae mansae yeh / When you look at me",
       "parts": [
-        {"lyric": "Manse manse manse YEH", "range": [78.85, 80.37], "ans": []},
-        {"lyric": "Nega nareul bol ttaemyeon wo", "range": [81.65, 83.67], "ans": [9]}
+        {"lyric": "Manse manse manse YEH",
+          "range": [78.85, 80.37], "ans": []},
+        {"lyric": "Nega nareul bol ttaemyeon wo",
+          "range": [81.65, 83.67], "ans": [9]}
       ]
     },
-    {"lyric": "Manse manse manse YEH", "lyric_hangul": "만세, 만세, 만세, yeah, 만세, 만세, 만세, yeah", "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh", "range": [83.53, 88.34], "ans": []},
+    {"lyric": "Manse manse manse YEH",
+      "lyric_hangul": "만세, 만세, 만세, yeah, 만세, 만세, 만세, yeah",
+      "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh",
+      "range": [83.53, 88.34], "ans": []},
     {
       "lyric_hangul": "만세 만세 만세, yeah, 매일 너를 꿈 꾸지, 워",
       "lyric_translation": "Mansae mansae mansae yeh / Every day, I dream about you",
       "parts": [
-        {"lyric": "Manse manse manse YEH", "range": [88.34, 90.45], "ans": []},
-        {"lyric": "Maeil neoreul kkum kkuji wo", "range": [89.75, 92.24], "ans": [6]}
+        {"lyric": "Manse manse manse YEH",
+          "range": [88.34, 90.45], "ans": []},
+        {"lyric": "Maeil neoreul kkum kkuji wo",
+          "range": [89.75, 92.24], "ans": [6]}
       ]
     },
     "",
@@ -143,16 +214,20 @@
       "lyric_hangul": "너라는 꽃이 피었습니다, 너라는 꽃을 바라보니까",
       "lyric_translation": "A flower called you has blossomed / I’m only looking at a flower called you",
       "parts": [
-        {"lyric": "Neoraneun kkochi pieotsseumnida", "range": [91.97, 94.6], "ans": [2]},
-        {"lyric": "Neoraneun kkocheul barabonikka", "range": [93.9, 96.35], "ans": [5]}
+        {"lyric": "Neoraneun kkochi pieotsseumnida",
+          "range": [91.97, 94.6], "ans": [2]},
+        {"lyric": "Neoraneun kkocheul barabonikka",
+          "range": [93.9, 96.35], "ans": [5]}
       ]
     },
     {
       "lyric_hangul": "들었나 놨다 하지 맙시다 애가 타니까",
       "lyric_translation": "So don’t play games with me / Because I’m getting anxious",
       "parts": [
-        {"lyric": "Deureonna nwatda haji mapsida", "range": [95.94, 99.67], "ans": [10]},
-        {"lyric": "Aega tanikka", "range": [99.67, 100.66], "ans": [10]}
+        {"lyric": "Deureonna nwatda haji mapsida",
+          "range": [95.94, 99.67], "ans": [10]},
+        {"lyric": "Aega tanikka",
+          "range": [99.67, 100.66], "ans": [10]}
       ]
     },
     "",
@@ -161,17 +236,22 @@
       "lyric_hangul": "애가 타니까 너는 이 넓디 넓은 잔디밭의 제대로 된 홍일점",
       "lyric_translation": "Because I’m getting anxious / You’re the only girl / in this large field",
       "parts": [
-        {"lyric": "Aega tanikka", "range": [99.67, 100.66], "ans": [6]},
-        {"lyric": "Neoneun i neoldi neolpeun jandibatui", "range": [100.66, 103.68], "ans": [6]},
-        {"lyric": "Jedaero doen hongiljeom", "range": [103.68, 104.9], "ans": [6]}
+        {"lyric": "Aega tanikka",
+          "range": [99.67, 100.66], "ans": [6]},
+        {"lyric": "Neoneun i neoldi neolpeun jandibatui",
+          "range": [100.66, 103.68], "ans": [6]},
+        {"lyric": "Jedaero doen hongiljeom",
+          "range": [103.68, 104.9], "ans": [6]}
       ]
     },
     {
       "lyric_hangul": "내 눈에는 너뿐이야 누가 이의 있습니까, hey",
       "lyric_translation": "In my eyes, it’s only you / Does anyone object?",
       "parts": [
-        {"lyric": "Nae nuneneun neoppuniya", "range": [104.33, 105.95], "ans": [6]},
-        {"lyric": "Nuga iui itsseupnikka", "range": [105.95, 107.33], "ans": [6]}
+        {"lyric": "Nae nuneneun neoppuniya",
+          "range": [104.33, 105.95], "ans": [6]},
+        {"lyric": "Nuga iui itsseupnikka",
+          "range": [105.95, 107.33], "ans": [6]}
       ]
     },
     "",
@@ -179,16 +259,20 @@
       "lyric_hangul": "무뚝뚝한 내가 이젠 평소에도 널 걱정해",
       "lyric_translation": "I used to be a cold guy / But now I worry about you all the time",
       "parts": [
-        {"lyric": "Muttukttukhan naega", "range": [106.79, 108.79], "ans": [4]},
-        {"lyric": "Ijen pyeongso edo neol geokjeonghae", "range": [108.79, 111.37], "ans": [4]}
+        {"lyric": "Muttukttukhan naega",
+          "range": [106.79, 108.79], "ans": [4]},
+        {"lyric": "Ijen pyeongso edo neol geokjeonghae",
+          "range": [108.79, 111.37], "ans": [4]}
       ]
     },
     {
       "lyric_hangul": "길을 걸을 때, baby, 위험하니까 꼭 안쪽으로 걸어",
       "lyric_translation": "When you’re walking on the street baby / It’s dangerous so walk on the inside",
       "parts": [
-        {"lyric": "Gireul georeul ttae baby", "range": [111.1, 113.37], "ans": [4]},
-        {"lyric": "Wiheomhanikka kkok anjjogeuro georeo", "range": [112.67, 115.28], "ans": [9]}
+        {"lyric": "Gireul georeul ttae baby",
+          "range": [111.1, 113.37], "ans": [4]},
+        {"lyric": "Wiheomhanikka kkok anjjogeuro georeo",
+          "range": [112.67, 115.28], "ans": [9]}
       ]
     },
     "",
@@ -196,25 +280,34 @@
       "lyric_hangul": "잠깐 소녀야, 절대 넌 다른 사람에게 녹지마",
       "lyric_translation": "Hold on girl, don’t ever / fall for someone else",
       "parts": [
-        {"lyric": "Jamkkan sonyeoya jeoldae neon", "range": [114.48, 117.8], "ans": [11]},
-        {"lyric": "Dareun saramege nokjima", "range": [117.8, 119.96], "ans": [11]}
+        {"lyric": "Jamkkan sonyeoya jeoldae neon",
+          "range": [114.48, 117.8], "ans": [11]},
+        {"lyric": "Dareun saramege nokjima",
+          "range": [117.8, 119.96], "ans": [11]}
       ]
     },
-    {"lyric": "Naega jiltu najanha", "lyric_hangul": "내가 질투 나잖아", "lyric_translation": "I’m gonna get jealous", "range": [119.4, 122.83], "ans": [11]},
+    {"lyric": "Naega jiltu najanha",
+      "lyric_hangul": "내가 질투 나잖아",
+      "lyric_translation": "I’m gonna get jealous",
+      "range": [119.4, 122.83], "ans": [11]},
     {
       "lyric_hangul": "잠깐 소녀야, 지금부터 널 내꺼라고 부를 거야",
       "lyric_translation": "Hold on girl. From now on, / I’m gonna call you mine",
       "parts": [
-        {"lyric": "Jamkkan sonyeoya jigeumbuteo", "range": [122.83, 126.19], "ans": [8]},
-        {"lyric": "Neol naekkeorago bureul geoya", "range": [126.19, 128.61], "ans": [8]}
+        {"lyric": "Jamkkan sonyeoya jigeumbuteo",
+          "range": [122.83, 126.19], "ans": [8]},
+        {"lyric": "Neol naekkeorago bureul geoya",
+          "range": [126.19, 128.61], "ans": [8]}
       ]
     },
     {
       "lyric_hangul": "소심해도 세심한걸 이제부터 나를 봐줘, my lady",
       "lyric_translation": "I may be shy but I’m very careful / From now on, look at me my lady",
       "parts": [
-        {"lyric": "Sosimhaedo sesimhangeol ijebuteo", "range": [128.56, 131.88], "ans": [3]},
-        {"lyric": "Nareul bwajwo my lady", "range": [131.88, 133.02], "ans": [3]}
+        {"lyric": "Sosimhaedo sesimhangeol ijebuteo",
+          "range": [128.56, 131.88], "ans": [3]},
+        {"lyric": "Nareul bwajwo my lady",
+          "range": [131.88, 133.02], "ans": [3]}
       ]
     },
     "",
@@ -222,32 +315,40 @@
       "lyric_hangul": "안자고 뭐해? 너네 집 앞이야, 잠깐 나올래",
       "lyric_translation": "Why aren’t you sleeping? I’m in front of your house / Can you come out for a moment?",
       "parts": [
-        {"lyric": "Anjago mwohae neone jip apiya", "range": [133.02, 135.68], "ans": [9]},
-        {"lyric": "Jamkkan naollae", "range": [135.68, 136.66], "ans": [9]}
+        {"lyric": "Anjago mwohae neone jip apiya",
+          "range": [133.02, 135.68], "ans": [9]},
+        {"lyric": "Jamkkan naollae",
+          "range": [135.68, 136.66], "ans": [9]}
       ]
     },
     {
       "lyric_hangul": "아무리 바빠도 너를 챙겨 어디를 가도 너를 지킬 거야",
       "lyric_translation": "No matter how busy I am, I’ll take care of you / Wherever I go, I’ll protect you",
       "parts": [
-        {"lyric": "Amuri bappado neoreul chaenggyeo", "range": [135.97, 138.93], "ans": [2]},
-        {"lyric": "Eodireul gado neoreul jikil geoya", "range": [138.93, 141.49], "ans": [2]}
+        {"lyric": "Amuri bappado neoreul chaenggyeo",
+          "range": [135.97, 138.93], "ans": [2]},
+        {"lyric": "Eodireul gado neoreul jikil geoya",
+          "range": [138.93, 141.49], "ans": [2]}
       ]
     },
     {
       "lyric_hangul": "콩깍지 씐 김에 네 부드런 손에 깍지도 살며시 껴볼래, girl",
       "lyric_translation": "As long as I’m blind with love / I’ll entwine my fingers with yours girl",
       "parts": [
-        {"lyric": "Kongkkakji ssuin gime ni budeureon sone", "range": [141.3, 143.96], "ans": [1]},
-        {"lyric": "Kkakjido salmyeosi kkyeobollae girl", "range": [143.96, 146.02], "ans": [1]}
+        {"lyric": "Kongkkakji ssuin gime ni budeureon sone",
+          "range": [141.3, 143.96], "ans": [1]},
+        {"lyric": "Kkakjido salmyeosi kkyeobollae girl",
+          "range": [143.96, 146.02], "ans": [1]}
       ]
     },
     {
       "lyric_hangul": "Bad, bad, bad, bad, girl, 더 이상은 밀지마",
       "lyric_translation": "Bad Bad Bad Bad Girl / Don’t push me away anymore",
       "parts": [
-        {"lyric": "Bad bad bad bad girl", "range": [146.02, 148.57], "ans": [7]},
-        {"lyric": "Deo isangeun miljima", "range": [147.87, 150.02], "ans": [11, 8]}
+        {"lyric": "Bad bad bad bad girl",
+          "range": [146.02, 148.57], "ans": [7]},
+        {"lyric": "Deo isangeun miljima",
+          "range": [147.87, 150.02], "ans": [11, 8]}
       ]
     },
     "",
@@ -255,44 +356,63 @@
       "lyric_hangul": "잠깐 소녀야, 절대 넌 다른 사람에게 녹지마",
       "lyric_translation": "Hold on girl, don’t ever / fall for someone else",
       "parts": [
-        {"lyric": "Jamkkan sonyeoya jeoldae neon", "range": [149.77, 152.21], "ans": [7]},
-        {"lyric": "Dareun saramege nokjima", "range": [152.21, 154.25], "ans": [7]}
+        {"lyric": "Jamkkan sonyeoya jeoldae neon",
+          "range": [149.77, 152.21], "ans": [7]},
+        {"lyric": "Dareun saramege nokjima",
+          "range": [152.21, 154.25], "ans": [7]}
       ]
     },
-    {"lyric": "Naega jiltu najanha", "lyric_hangul": "내가 질투 나잖아", "lyric_translation": "I’m gonna get jealous", "range": [153.76, 157.63], "ans": [7]},
+    {"lyric": "Naega jiltu najanha",
+      "lyric_hangul": "내가 질투 나잖아",
+      "lyric_translation": "I’m gonna get jealous",
+      "range": [153.76, 157.63], "ans": [7]},
     {
       "lyric_hangul": "잠깐 소녀야, 지금부터 널 내꺼라고 부를 거야",
       "lyric_translation": "Hold on girl. From now on, / I’m gonna call you mine",
       "parts": [
-        {"lyric": "Jamkkan sonyeoya jigeumbuteo", "range": [157.63, 160.47], "ans": [7]},
-        {"lyric": "Neol naekkeorago bureul geoya", "range": [160.47, 162.87], "ans": [7]}
+        {"lyric": "Jamkkan sonyeoya jigeumbuteo",
+          "range": [157.63, 160.47], "ans": [7]},
+        {"lyric": "Neol naekkeorago bureul geoya",
+          "range": [160.47, 162.87], "ans": [7]}
       ]
     },
     {
       "lyric_hangul": "소심해도 세심한걸 이제부터 나를 봐줘, my lady",
       "lyric_translation": "I may be shy but I’m very careful / From now on, look at me my lady",
       "parts": [
-        {"lyric": "Sosimhaedo sesimhangeol ijebuteo", "range": [162.86, 166.18], "ans": [5]},
-        {"lyric": "Nareul bwajwo my lady", "range": [166.18, 167.33], "ans": [5]}
+        {"lyric": "Sosimhaedo sesimhangeol ijebuteo",
+          "range": [162.86, 166.18], "ans": [5]},
+        {"lyric": "Nareul bwajwo my lady",
+          "range": [166.18, 167.33], "ans": [5]}
       ]
     },
     "",
-    {"lyric": "Manse manse manse YEH", "lyric_hangul": "만세, 만세, 만세, yeah, 만세, 만세, 만세, yeah", "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh", "range": [167.33, 171.61], "ans": []},
+    {"lyric": "Manse manse manse YEH",
+      "lyric_hangul": "만세, 만세, 만세, yeah, 만세, 만세, 만세, yeah",
+      "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh",
+      "range": [167.33, 171.61], "ans": []},
     {
       "lyric_hangul": "만세, 만세, 만세, yeah, 네가 나를 볼 때면, 워",
       "lyric_translation": "Mansae mansae mansae yeh / When you look at me",
       "parts": [
-        {"lyric": "Manse manse manse YEH", "range": [170.97, 172.52], "ans": []},
-        {"lyric": "Nega nareul bol ttaemyeon wo", "range": [173.8, 175.66], "ans": [9]}
+        {"lyric": "Manse manse manse YEH",
+          "range": [170.97, 172.52], "ans": []},
+        {"lyric": "Nega nareul bol ttaemyeon wo",
+          "range": [173.8, 175.66], "ans": [9]}
       ]
     },
-    {"lyric": "Manse manse manse YEH", "lyric_hangul": "만세, 만세, 만세, yeah, 만세 만세 만세, yeah", "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh", "range": [175.18, 180.24], "ans": []},
+    {"lyric": "Manse manse manse YEH",
+      "lyric_hangul": "만세, 만세, 만세, yeah, 만세 만세 만세, yeah",
+      "lyric_translation": "Mansae mansae mansae yeh / Mansae mansae mansae yeh",
+      "range": [175.18, 180.24], "ans": []},
     {
       "lyric_hangul": "만세, 만세, 만세, yeah, 매일 너를 꿈 꾸지, 워",
       "lyric_translation": "Mansae mansae mansae yeh / Every day, I dream about you",
       "parts": [
-        {"lyric": "Manse manse manse YEH", "range": [179.46, 181.6], "ans": []},
-        {"lyric": "Maeil neoreul kkum kkuji wo", "range": [182.36, 187.0], "ans": [6]}
+        {"lyric": "Manse manse manse YEH",
+          "range": [179.46, 181.6], "ans": []},
+        {"lyric": "Maeil neoreul kkum kkuji wo",
+          "range": [182.36, 187.0], "ans": [6]}
       ]
     }
   ]

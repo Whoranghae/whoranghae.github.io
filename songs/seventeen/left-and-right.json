@@ -12,14 +12,19 @@
   "hidden": false,
   "slots": [],
   "lines": [
-    {"lyric": "Hana dul set net", "lyric_hangul": "하나, 둘, 셋, 넷", "lyric_translation": "One two three four", "range": [0.66, 1.95], "ans": [12]},
+    {"lyric": "Hana dul set net",
+      "lyric_hangul": "하나, 둘, 셋, 넷",
+      "lyric_translation": "One two three four",
+      "range": [0.66, 1.95], "ans": [12]},
     "",
     {
       "lyric_hangul": "Left and right, left and right",
       "lyric_translation": "Left and right / Left and right / Left and right / Left and right",
       "parts": [
-        {"lyric": "Left and right", "range": [1.95, 3.92], "ans": [12]},
-        {"lyric": "Left and right", "range": [3.22, 5.22], "ans": [1]}
+        {"lyric": "Left and right",
+          "range": [1.95, 3.92], "ans": [12]},
+        {"lyric": "Left and right",
+          "range": [3.22, 5.22], "ans": [1]}
       ]
     },
     "",
@@ -27,62 +32,116 @@
       "lyric_hangul": "Left and right",
       "lyric_translation": "Left and right / Left and right",
       "parts": [
-        {"lyric": "Left and right", "range": [5.22, 6.17], "ans": [12]},
-        {"lyric": "Left and right", "range": [5.47, 7.05], "ans": [1]}
+        {"lyric": "Left and right",
+          "range": [5.22, 6.17], "ans": [12]},
+        {"lyric": "Left and right",
+          "range": [5.47, 7.05], "ans": [1]}
       ]
     },
-    {"lyric": "Seventeen ha", "lyric_hangul": "Seventeen, ha", "lyric_translation": "Seventeen ha", "range": [7.05, 7.88], "ans": [12]},
+    {"lyric": "Seventeen ha",
+      "lyric_hangul": "Seventeen, ha",
+      "lyric_translation": "Seventeen ha",
+      "range": [7.05, 7.88], "ans": [12]},
     "",
-    {"lyric": "Itji maraya hae chulbalseone seol ttae", "lyric_hangul": "잊지 말아야 해 출발선에 설 때", "lyric_translation": "Don’t forget when you’re at the starting line", "range": [7.88, 11.02], "ans": [2]},
+    {"lyric": "Itji maraya hae chulbalseone seol ttae",
+      "lyric_hangul": "잊지 말아야 해 출발선에 설 때",
+      "lyric_translation": "Don’t forget when you’re at the starting line",
+      "range": [7.88, 11.02], "ans": [2]},
     {
       "lyric_hangul": "두 눈 부릅뜨고 고갤 들어 (come on!)",
       "lyric_translation": "Keep your eyes wide open and your chin up / Come on!",
       "parts": [
-        {"lyric": "Du nun bureubtteugo gogael deureo", "range": [11.02, 13.37], "ans": [2]},
-        {"lyric": "Come on!", "range": [12.67, 14.65], "ans": []}
+        {"lyric": "Du nun bureubtteugo gogael deureo",
+          "range": [11.02, 13.37], "ans": [2]},
+        {"lyric": "Come on!",
+          "range": [12.67, 14.65], "ans": []}
       ]
     },
     "",
-    {"lyric": "Mureup kkulkoseo chujillyeogeul eotgo namyeon", "lyric_hangul": "무릎 꿇고서 추진력을 얻고 나면", "lyric_translation": "After you get on your knees and gain momentum", "range": [14.34, 18.02], "ans": [6]},
+    {"lyric": "Mureup kkulkoseo chujillyeogeul eotgo namyeon",
+      "lyric_hangul": "무릎 꿇고서 추진력을 얻고 나면",
+      "lyric_translation": "After you get on your knees and gain momentum",
+      "range": [14.34, 18.02], "ans": [6]},
     {
       "lyric_hangul": "제일 먼저, baby, 앞서갈래 (come on!)",
       "lyric_translation": "Baby wanna go ahead first / Come on!",
       "parts": [
-        {"lyric": "Jeil meonjeo Baby apseogallae", "range": [18.02, 20.87], "ans": [6]},
-        {"lyric": "Come on!", "range": [20.3, 20.92], "ans": []}
+        {"lyric": "Jeil meonjeo Baby apseogallae",
+          "range": [18.02, 20.87], "ans": [6]},
+        {"lyric": "Come on!",
+          "range": [20.3, 20.92], "ans": []}
       ]
     },
-    {"lyric": "Chingudeul bulleo I’ma celebrate", "lyric_hangul": "친구들 불러, I'ma celebrate", "lyric_translation": "Call all our friends I’ma celebrate", "range": [20.67, 22.66], "ans": [1]},
+    {"lyric": "Chingudeul bulleo I’ma celebrate",
+      "lyric_hangul": "친구들 불러, I'ma celebrate",
+      "lyric_translation": "Call all our friends I’ma celebrate",
+      "range": [20.67, 22.66], "ans": [1]},
     "",
-    {"lyric": "Amudo mot mallyeo We party today", "lyric_hangul": "아무도 못 말려, we party today", "lyric_translation": "No one can stop us We party today", "range": [22.66, 23.77], "ans": [1]},
-    {"lyric": "Keullaimaekseu dallyeo kkorireul hwinallyeo tto", "lyric_hangul": "클라이맥스 달려 꼬리를 휘날려 또", "lyric_translation": "Run toward the climax swinging your tail again", "range": [23.77, 25.95], "ans": [1]},
-    {"lyric": "Aljana beopeollo", "lyric_hangul": "알잖아 버펄로 (oh)", "lyric_translation": "You know, like a buffalo", "range": [25.95, 27.23], "ans": [1]},
-    {"lyric": "Redeu kapet wireul ttwieo", "lyric_hangul": "레드 카펫 위를 뛰어", "lyric_translation": "Run on the red carpet", "range": [27.23, 29.3], "ans": [9]},
+    {"lyric": "Amudo mot mallyeo We party today",
+      "lyric_hangul": "아무도 못 말려, we party today",
+      "lyric_translation": "No one can stop us We party today",
+      "range": [22.66, 23.77], "ans": [1]},
+    {"lyric": "Keullaimaekseu dallyeo kkorireul hwinallyeo tto",
+      "lyric_hangul": "클라이맥스 달려 꼬리를 휘날려 또",
+      "lyric_translation": "Run toward the climax swinging your tail again",
+      "range": [23.77, 25.95], "ans": [1]},
+    {"lyric": "Aljana beopeollo",
+      "lyric_hangul": "알잖아 버펄로 (oh)",
+      "lyric_translation": "You know, like a buffalo",
+      "range": [25.95, 27.23], "ans": [1]},
+    {"lyric": "Redeu kapet wireul ttwieo",
+      "lyric_hangul": "레드 카펫 위를 뛰어",
+      "lyric_translation": "Run on the red carpet",
+      "range": [27.23, 29.3], "ans": [9]},
     "",
-    {"lyric": "Naeireun jal nagal geoya deo", "lyric_hangul": "내일은 잘 나갈 거야 더", "lyric_translation": "You’ll be better off tomorrow", "range": [29.3, 30.53], "ans": [9]},
-    {"lyric": "Hamulmyeo daegigweoneul", "lyric_hangul": "하물며 대기권을", "lyric_translation": "Pierce the atmosphere", "range": [30.53, 32.18], "ans": [9]},
-    {"lyric": "Ttulheo ttulheo ttulheo ttulheo", "lyric_hangul": "뚫어, 뚫어, 뚫어, 뚫어", "lyric_translation": "Go go go go", "range": [32.18, 33.37], "ans": [9]},
-    {"lyric": "Useobwa deo hahahaha", "lyric_hangul": "웃어봐 더, 하하하하", "lyric_translation": "Laugh louder hahahaha", "range": [33.37, 36.48], "ans": [8]},
+    {"lyric": "Naeireun jal nagal geoya deo",
+      "lyric_hangul": "내일은 잘 나갈 거야 더",
+      "lyric_translation": "You’ll be better off tomorrow",
+      "range": [29.3, 30.53], "ans": [9]},
+    {"lyric": "Hamulmyeo daegigweoneul",
+      "lyric_hangul": "하물며 대기권을",
+      "lyric_translation": "Pierce the atmosphere",
+      "range": [30.53, 32.18], "ans": [9]},
+    {"lyric": "Ttulheo ttulheo ttulheo ttulheo",
+      "lyric_hangul": "뚫어, 뚫어, 뚫어, 뚫어",
+      "lyric_translation": "Go go go go",
+      "range": [32.18, 33.37], "ans": [9]},
+    {"lyric": "Useobwa deo hahahaha",
+      "lyric_hangul": "웃어봐 더, 하하하하",
+      "lyric_translation": "Laugh louder hahahaha",
+      "range": [33.37, 36.48], "ans": [8]},
     "",
-    {"lyric": "Seumu beon deo hahahaha igeoseun", "lyric_hangul": "스무 번 더, 하하하하", "lyric_translation": "Twenty more times hahahaha", "range": [36.48, 39.24], "ans": [8]},
+    {"lyric": "Seumu beon deo hahahaha igeoseun",
+      "lyric_hangul": "스무 번 더, 하하하하",
+      "lyric_translation": "Twenty more times hahahaha",
+      "range": [36.48, 39.24], "ans": [8]},
     {
       "lyric_hangul": "이것은 결승선을 넘을 때 세리머니 시원하게 (yeah, it goes like)",
       "lyric_translation": "Crossing the finish line with a ceremony / Exhilarating Yeh it goes like",
       "parts": [
-        {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni", "range": [39.24, 42.72], "ans": [11]},
-        {"lyric": "Shiweonhage", "range": [42.72, 46.29], "ans": [11]},
-        {"lyric": "Yeh it goes like", "range": [45.59, 46.7], "ans": []}
+        {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni",
+          "range": [39.24, 42.72], "ans": [11]},
+        {"lyric": "Shiweonhage",
+          "range": [42.72, 46.29], "ans": [11]},
+        {"lyric": "Yeh it goes like",
+          "range": [45.59, 46.7], "ans": []}
       ]
     },
-    {"lyric": "Left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "Left and right / Left and right", "range": [46.49, 49.86], "ans": [5]},
+    {"lyric": "Left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "Left and right / Left and right",
+      "range": [46.49, 49.86], "ans": [5]},
     "",
     {
       "lyric_hangul": "Left and right, rip it, rip it",
       "lyric_translation": "Left and right / Rip it Rip it / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [49.86, 50.62], "ans": [5]},
-        {"lyric": "Rip it Rip it", "range": [50.62, 52.35], "ans": [5]},
-        {"lyric": "Rip it Rip it", "range": [51.65, 52.82], "ans": [1]}
+        {"lyric": "Left and right",
+          "range": [49.86, 50.62], "ans": [5]},
+        {"lyric": "Rip it Rip it",
+          "range": [50.62, 52.35], "ans": [5]},
+        {"lyric": "Rip it Rip it",
+          "range": [51.65, 52.82], "ans": [1]}
       ]
     },
     "",
@@ -90,8 +149,10 @@
       "lyric_hangul": "Left and right, left and right",
       "lyric_translation": "Left and right / Left and right / Left and right / Left and right",
       "parts": [
-        {"lyric": "Left and right", "range": [52.82, 55.14], "ans": [4]},
-        {"lyric": "Left and right", "range": [54.44, 56.32], "ans": [8]}
+        {"lyric": "Left and right",
+          "range": [52.82, 55.14], "ans": [4]},
+        {"lyric": "Left and right",
+          "range": [54.44, 56.32], "ans": [8]}
       ]
     },
     "",
@@ -99,108 +160,192 @@
       "lyric_hangul": "Left and right, rip it, rip it",
       "lyric_translation": "Left and right / Rip it Rip it / Left and right / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [56.32, 56.7], "ans": [4]},
-        {"lyric": "Rip it Rip it", "range": [56.7, 58.29], "ans": [4]},
-        {"lyric": "Left and right", "range": [57.59, 58.42], "ans": [8]},
-        {"lyric": "Rip it Rip it", "range": [58.42, 59.0], "ans": [8]}
+        {"lyric": "Left and right",
+          "range": [56.32, 56.7], "ans": [4]},
+        {"lyric": "Rip it Rip it",
+          "range": [56.7, 58.29], "ans": [4]},
+        {"lyric": "Left and right",
+          "range": [57.59, 58.42], "ans": [8]},
+        {"lyric": "Rip it Rip it",
+          "range": [58.42, 59.0], "ans": [8]}
       ]
     },
     "",
-    {"lyric": "Gibun joeul ttae geokjeong eopshi", "lyric_hangul": "기분 좋을 때 걱정 없이", "lyric_translation": "When you’re feeling good with no worries", "range": [58.99, 62.1], "ans": [7]},
+    {"lyric": "Gibun joeul ttae geokjeong eopshi",
+      "lyric_hangul": "기분 좋을 때 걱정 없이",
+      "lyric_translation": "When you’re feeling good with no worries",
+      "range": [58.99, 62.1], "ans": [7]},
     {
       "lyric_hangul": "더, 더 확실하게, follow me (yeah, it goes like)",
       "lyric_translation": "More more confidently Follow me / Yeh it goes like",
       "parts": [
-        {"lyric": "Deo deo hwakshilhage Follow me", "range": [62.1, 64.47], "ans": [7]},
-        {"lyric": "Yeh it goes like", "range": [63.77, 65.93], "ans": []}
+        {"lyric": "Deo deo hwakshilhage Follow me",
+          "range": [62.1, 64.47], "ans": [7]},
+        {"lyric": "Yeh it goes like",
+          "range": [63.77, 65.93], "ans": []}
       ]
     },
-    {"lyric": "Left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "Left and right / Left and right", "range": [65.51, 69.38], "ans": [10]},
+    {"lyric": "Left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "Left and right / Left and right",
+      "range": [65.51, 69.38], "ans": [10]},
     "",
     {
       "lyric_hangul": "Left and right, rip it, rip it (yeah, yeah, yeah, yeah)",
       "lyric_translation": "Left and right / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [69.38, 71.55], "ans": [10]},
-        {"lyric": "Rip it Rip it", "range": [71.55, 72.84], "ans": [10]}
+        {"lyric": "Left and right",
+          "range": [69.38, 71.55], "ans": [10]},
+        {"lyric": "Rip it Rip it",
+          "range": [71.55, 72.84], "ans": [10]}
       ]
     },
-    {"lyric": "I run up I run up", "lyric_hangul": "I run up, I run up, I run up", "lyric_translation": "I run up I run up", "range": [72.18, 73.12], "ans": [12]},
+    {"lyric": "I run up I run up",
+      "lyric_hangul": "I run up, I run up, I run up",
+      "lyric_translation": "I run up I run up",
+      "range": [72.18, 73.12], "ans": [12]},
     "",
     {
       "lyric_hangul": "I run up, 그 누구의 말도 안 들어",
       "lyric_translation": "I run up I run up / Don’t listen to anyone else",
       "parts": [
-        {"lyric": "I run up I run up", "range": [73.12, 73.6], "ans": [12]},
-        {"lyric": "Geu nuguye maldo an deureo", "range": [73.6, 75.22], "ans": [12]}
+        {"lyric": "I run up I run up",
+          "range": [73.12, 73.6], "ans": [12]},
+        {"lyric": "Geu nuguye maldo an deureo",
+          "range": [73.6, 75.22], "ans": [12]}
       ]
     },
-    {"lyric": "Ttanmareul tteodeureo tteodeureo", "lyric_hangul": "딴말을 떠들어 떠들어", "lyric_translation": "They talk away talk talk", "range": [75.02, 77.08], "ans": [12]},
+    {"lyric": "Ttanmareul tteodeureo tteodeureo",
+      "lyric_hangul": "딴말을 떠들어 떠들어",
+      "lyric_translation": "They talk away talk talk",
+      "range": [75.02, 77.08], "ans": [12]},
     "",
-    {"lyric": "Eojjeogojeojjeogo shikkeureoweo shwit hae", "lyric_hangul": "어쩌고저쩌고 시끄러워 쉿 해", "lyric_translation": "Whatever whatever be quiet Shh", "range": [77.08, 78.27], "ans": [12]},
-    {"lyric": "Uriege piryohan geon", "lyric_hangul": "우리에게 필요한 건", "lyric_translation": "What we need", "range": [78.27, 79.95], "ans": [13]},
-    {"lyric": "Dalkomhan naeirijana", "lyric_hangul": "달콤한 내일이잖아", "lyric_translation": "Is a sweet tomorrow", "range": [79.95, 81.56], "ans": [13]},
+    {"lyric": "Eojjeogojeojjeogo shikkeureoweo shwit hae",
+      "lyric_hangul": "어쩌고저쩌고 시끄러워 쉿 해",
+      "lyric_translation": "Whatever whatever be quiet Shh",
+      "range": [77.08, 78.27], "ans": [12]},
+    {"lyric": "Uriege piryohan geon",
+      "lyric_hangul": "우리에게 필요한 건",
+      "lyric_translation": "What we need",
+      "range": [78.27, 79.95], "ans": [13]},
+    {"lyric": "Dalkomhan naeirijana",
+      "lyric_hangul": "달콤한 내일이잖아",
+      "lyric_translation": "Is a sweet tomorrow",
+      "range": [79.95, 81.56], "ans": [13]},
     "",
-    {"lyric": "Henggarae haneul hyanghae", "lyric_hangul": "헹가래 하늘 향해", "lyric_translation": "Toss it up toward the sky", "range": [81.56, 83.43], "ans": [13]},
-    {"lyric": "Wiro wiro wiro wiro", "lyric_hangul": "위로, 위로, 위로, 위로", "lyric_translation": "Up up up up", "range": [83.43, 84.66], "ans": [13]},
-    {"lyric": "Dalligo dalligo dallyeobwado", "lyric_hangul": "달리고, 달리고, 달려봐도", "lyric_translation": "Even if we run run run", "range": [84.66, 86.5], "ans": [11]},
-    {"lyric": "Dodaeche eonje apjireunyago", "lyric_hangul": "도대체 언제 앞지르냐고?", "lyric_translation": "When can we get ahead", "range": [86.5, 88.1], "ans": [11]},
+    {"lyric": "Henggarae haneul hyanghae",
+      "lyric_hangul": "헹가래 하늘 향해",
+      "lyric_translation": "Toss it up toward the sky",
+      "range": [81.56, 83.43], "ans": [13]},
+    {"lyric": "Wiro wiro wiro wiro",
+      "lyric_hangul": "위로, 위로, 위로, 위로",
+      "lyric_translation": "Up up up up",
+      "range": [83.43, 84.66], "ans": [13]},
+    {"lyric": "Dalligo dalligo dallyeobwado",
+      "lyric_hangul": "달리고, 달리고, 달려봐도",
+      "lyric_translation": "Even if we run run run",
+      "range": [84.66, 86.5], "ans": [11]},
+    {"lyric": "Dodaeche eonje apjireunyago",
+      "lyric_hangul": "도대체 언제 앞지르냐고?",
+      "lyric_translation": "When can we get ahead",
+      "range": [86.5, 88.1], "ans": [11]},
     "",
-    {"lyric": "Dallineun geonmaneurodo chungbunhadago Yeh", "lyric_hangul": "달리는 것만으로도 충분하다고, yeah, yeah, yeah", "lyric_translation": "Running itself is tough enough Yeh", "range": [88.1, 91.39], "ans": [11]},
-    {"lyric": "Geureom mweo eojjeorago", "lyric_hangul": "그럼 뭐 어쩌라고?", "lyric_translation": "Then what should we do", "range": [91.39, 92.57], "ans": [6]},
-    {"lyric": "An ttwineun geotto bangbeobirago", "lyric_hangul": "안 뛰는 것도 방법이라고", "lyric_translation": "Not running is an answer too", "range": [92.57, 94.81], "ans": [6]},
-    {"lyric": "Amuryeom eottae Yeh yeh", "lyric_hangul": "아무렴 어때? Yeah, yeah", "lyric_translation": "Who cares what we do Yeh yeh", "range": [94.81, 97.38], "ans": [6]},
+    {"lyric": "Dallineun geonmaneurodo chungbunhadago Yeh",
+      "lyric_hangul": "달리는 것만으로도 충분하다고, yeah, yeah, yeah",
+      "lyric_translation": "Running itself is tough enough Yeh",
+      "range": [88.1, 91.39], "ans": [11]},
+    {"lyric": "Geureom mweo eojjeorago",
+      "lyric_hangul": "그럼 뭐 어쩌라고?",
+      "lyric_translation": "Then what should we do",
+      "range": [91.39, 92.57], "ans": [6]},
+    {"lyric": "An ttwineun geotto bangbeobirago",
+      "lyric_hangul": "안 뛰는 것도 방법이라고",
+      "lyric_translation": "Not running is an answer too",
+      "range": [92.57, 94.81], "ans": [6]},
+    {"lyric": "Amuryeom eottae Yeh yeh",
+      "lyric_hangul": "아무렴 어때? Yeah, yeah",
+      "lyric_translation": "Who cares what we do Yeh yeh",
+      "range": [94.81, 97.38], "ans": [6]},
     "",
-    {"lyric": "Useobwa deo hahahaha", "lyric_hangul": "웃어봐 더, 하하하하", "lyric_translation": "Laugh louder hahahaha", "range": [97.38, 100.35], "ans": [10]},
-    {"lyric": "Seumu beon deo hahahaha igeoseun", "lyric_hangul": "스무 번 더, 하하하하", "lyric_translation": "Twenty more times hahahaha", "range": [100.35, 103.44], "ans": [10]},
+    {"lyric": "Useobwa deo hahahaha",
+      "lyric_hangul": "웃어봐 더, 하하하하",
+      "lyric_translation": "Laugh louder hahahaha",
+      "range": [97.38, 100.35], "ans": [10]},
+    {"lyric": "Seumu beon deo hahahaha igeoseun",
+      "lyric_hangul": "스무 번 더, 하하하하",
+      "lyric_translation": "Twenty more times hahahaha",
+      "range": [100.35, 103.44], "ans": [10]},
     {
       "lyric_hangul": "이것은 결승선을 넘을 때 세리머니 시원하게 (yeah, it goes like)",
       "lyric_translation": "Crossing the finish line with a ceremony / Exhilarating Yeh it goes like",
       "parts": [
-        {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni", "range": [103.44, 106.62], "ans": [5]},
-        {"lyric": "Shiweonhage", "range": [106.62, 110.26], "ans": [5]},
-        {"lyric": "Yeh it goes like", "range": [109.56, 110.65], "ans": []}
+        {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni",
+          "range": [103.44, 106.62], "ans": [5]},
+        {"lyric": "Shiweonhage",
+          "range": [106.62, 110.26], "ans": [5]},
+        {"lyric": "Yeh it goes like",
+          "range": [109.56, 110.65], "ans": []}
       ]
     },
-    {"lyric": "Left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "Left and right / Left and right", "range": [110.49, 113.92], "ans": [9]},
+    {"lyric": "Left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "Left and right / Left and right",
+      "range": [110.49, 113.92], "ans": [9]},
     {
       "lyric_hangul": "Left and right, rip it, rip it",
       "lyric_translation": "Left and right / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [113.92, 114.64], "ans": [9]},
-        {"lyric": "Rip it Rip it", "range": [114.64, 116.82], "ans": [9]}
+        {"lyric": "Left and right",
+          "range": [113.92, 114.64], "ans": [9]},
+        {"lyric": "Rip it Rip it",
+          "range": [114.64, 116.82], "ans": [9]}
       ]
     },
     "",
-    {"lyric": "Left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "Left and right / Left and right", "range": [116.82, 120.35], "ans": [3]},
+    {"lyric": "Left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "Left and right / Left and right",
+      "range": [116.82, 120.35], "ans": [3]},
     {
       "lyric_hangul": "Left and right, rip it, rip it",
       "lyric_translation": "Left and right / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [120.35, 121.07], "ans": [3]},
-        {"lyric": "Rip it Rip it", "range": [121.07, 122.91], "ans": [3]}
+        {"lyric": "Left and right",
+          "range": [120.35, 121.07], "ans": [3]},
+        {"lyric": "Rip it Rip it",
+          "range": [121.07, 122.91], "ans": [3]}
       ]
     },
     "",
-    {"lyric": "Gibun joeul ttae geokjeong eopshi", "lyric_hangul": "기분 좋을 때 걱정 없이 (oh yeah)", "lyric_translation": "When you’re feeling good with no worries", "range": [122.47, 126.17], "ans": [11]},
+    {"lyric": "Gibun joeul ttae geokjeong eopshi",
+      "lyric_hangul": "기분 좋을 때 걱정 없이 (oh yeah)",
+      "lyric_translation": "When you’re feeling good with no worries",
+      "range": [122.47, 126.17], "ans": [11]},
     {
       "lyric_hangul": "더, 더 확실하게, follow me (yeah, it goes like)",
       "lyric_translation": "More more confidently Follow me / Yeh it goes like",
       "parts": [
-        {"lyric": "Deo deo hwakshilhage Follow me", "range": [126.17, 128.53], "ans": [11]},
-        {"lyric": "Yeh it goes like", "range": [127.83, 129.99], "ans": []}
+        {"lyric": "Deo deo hwakshilhage Follow me",
+          "range": [126.17, 128.53], "ans": [11]},
+        {"lyric": "Yeh it goes like",
+          "range": [127.83, 129.99], "ans": []}
       ]
     },
     "",
     "[next-col]",
-    {"lyric": "Left and right", "lyric_hangul": "Left and right (yeah), left and right (yeah)", "lyric_translation": "Left and right / Left and right", "range": [129.98, 133.09], "ans": [13]},
+    {"lyric": "Left and right",
+      "lyric_hangul": "Left and right (yeah), left and right (yeah)",
+      "lyric_translation": "Left and right / Left and right",
+      "range": [129.98, 133.09], "ans": [13]},
     "",
     {
       "lyric_hangul": "Left and right, rip it, rip it",
       "lyric_translation": "Left and right / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [132.62, 133.81], "ans": [13]},
-        {"lyric": "Rip it Rip it", "range": [133.81, 135.89], "ans": [13]}
+        {"lyric": "Left and right",
+          "range": [132.62, 133.81], "ans": [13]},
+        {"lyric": "Rip it Rip it",
+          "range": [133.81, 135.89], "ans": [13]}
       ]
     },
     "",
@@ -208,64 +353,106 @@
       "lyric_hangul": "혼자가 아니라, 우리 우리라서",
       "lyric_translation": "You’re not alone / We’re us",
       "parts": [
-        {"lyric": "Honjaga anira", "range": [135.89, 137.57], "ans": [2]},
-        {"lyric": "Uri uriraseo", "range": [137.57, 139.13], "ans": [2]}
+        {"lyric": "Honjaga anira",
+          "range": [135.89, 137.57], "ans": [2]},
+        {"lyric": "Uri uriraseo",
+          "range": [137.57, 139.13], "ans": [2]}
       ]
     },
     "",
-    {"lyric": "Geobnael piryo eopseo Yeh", "lyric_hangul": "겁낼 필요 없어 (yeah, yeah)", "lyric_translation": "So no need to be afraid Yeh", "range": [139.13, 142.47], "ans": [2]},
+    {"lyric": "Geobnael piryo eopseo Yeh",
+      "lyric_hangul": "겁낼 필요 없어 (yeah, yeah)",
+      "lyric_translation": "So no need to be afraid Yeh",
+      "range": [139.13, 142.47], "ans": [2]},
     {
       "lyric_hangul": "혼자가 아니라, 우리 우리라서",
       "lyric_translation": "You’re not alone / We’re us",
       "parts": [
-        {"lyric": "Honjaga anira", "range": [142.47, 144.08], "ans": [3]},
-        {"lyric": "Uri uriraseo", "range": [144.08, 145.61], "ans": [3]}
+        {"lyric": "Honjaga anira",
+          "range": [142.47, 144.08], "ans": [3]},
+        {"lyric": "Uri uriraseo",
+          "range": [144.08, 145.61], "ans": [3]}
       ]
     },
-    {"lyric": "Tto geokjeong eopshi dalliji Yeh", "lyric_hangul": "또 걱정 없이 달리지 (yeah, yeah)", "lyric_translation": "So we run again with no worries Yeh", "range": [145.61, 148.27], "ans": [7]},
+    {"lyric": "Tto geokjeong eopshi dalliji Yeh",
+      "lyric_hangul": "또 걱정 없이 달리지 (yeah, yeah)",
+      "lyric_translation": "So we run again with no worries Yeh",
+      "range": [145.61, 148.27], "ans": [7]},
     "",
     {
       "lyric_hangul": "So oh, oh, 열정의 세리머니",
       "lyric_translation": "So uh / Passionate ceremony",
       "parts": [
-        {"lyric": "So uh", "range": [148.27, 150.11], "ans": [8]},
-        {"lyric": "Yeoljeonge serimeoni", "range": [150.11, 153.51], "ans": [8]}
+        {"lyric": "So uh",
+          "range": [148.27, 150.11], "ans": [8]},
+        {"lyric": "Yeoljeonge serimeoni",
+          "range": [150.11, 153.51], "ans": [8]}
       ]
     },
-    {"lyric": "Neseul sego Go hae", "lyric_hangul": "넷을 세고 go 해 (하나, 둘, 셋, 넷)", "lyric_translation": "Count to four and go", "range": [153.51, 156.54], "ans": [9]},
-    {"lyric": "Left and right, left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "", "range": [156.54, 160.22], "ans": []},
-    {"lyric": "Left and right, rip it, rip it", "lyric_hangul": "Left and right, rip it, rip it", "lyric_translation": "", "range": [160.22, 162.84], "ans": []},
-    {"lyric": "Left and right, left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "", "range": [162.84, 166.59], "ans": []},
-    {"lyric": "Left and right, rip it, rip it", "lyric_hangul": "Left and right, rip it, rip it", "lyric_translation": "", "range": [166.59, 169.32], "ans": []},
-    {"lyric": "Gachi gaboja geokjeong eopshi", "lyric_hangul": "같이 가보자 걱정 없이 (ooh)", "lyric_translation": "Let’s go together with no worries", "range": [169.32, 172.64], "ans": [3]},
+    {"lyric": "Neseul sego Go hae",
+      "lyric_hangul": "넷을 세고 go 해 (하나, 둘, 셋, 넷)",
+      "lyric_translation": "Count to four and go",
+      "range": [153.51, 156.54], "ans": [9]},
+    {"lyric": "Left and right, left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "",
+      "range": [156.54, 160.22], "ans": []},
+    {"lyric": "Left and right, rip it, rip it",
+      "lyric_hangul": "Left and right, rip it, rip it",
+      "lyric_translation": "",
+      "range": [160.22, 162.84], "ans": []},
+    {"lyric": "Left and right, left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "",
+      "range": [162.84, 166.59], "ans": []},
+    {"lyric": "Left and right, rip it, rip it",
+      "lyric_hangul": "Left and right, rip it, rip it",
+      "lyric_translation": "",
+      "range": [166.59, 169.32], "ans": []},
+    {"lyric": "Gachi gaboja geokjeong eopshi",
+      "lyric_hangul": "같이 가보자 걱정 없이 (ooh)",
+      "lyric_translation": "Let’s go together with no worries",
+      "range": [169.32, 172.64], "ans": [3]},
     "",
     {
       "lyric_hangul": "더, 더 확실하게, follow me (yeah, it goes like)",
       "lyric_translation": "More more confidently Follow me / Yeh it goes like",
       "parts": [
-        {"lyric": "Deo deo hwakshilhage Follow me", "range": [172.64, 174.88], "ans": [3]},
-        {"lyric": "Yeh it goes like", "range": [174.18, 176.46], "ans": []}
+        {"lyric": "Deo deo hwakshilhage Follow me",
+          "range": [172.64, 174.88], "ans": [3]},
+        {"lyric": "Yeh it goes like",
+          "range": [174.18, 176.46], "ans": []}
       ]
     },
-    {"lyric": "Left and right", "lyric_hangul": "Left and right, left and right", "lyric_translation": "Left and right / Left and right", "range": [176.4, 179.22], "ans": [4]},
+    {"lyric": "Left and right",
+      "lyric_hangul": "Left and right, left and right",
+      "lyric_translation": "Left and right / Left and right",
+      "range": [176.4, 179.22], "ans": [4]},
     "",
     {
       "lyric_hangul": "Left and right, rip it, rip it",
       "lyric_translation": "Left and right / Rip it Rip it",
       "parts": [
-        {"lyric": "Left and right", "range": [178.99, 180.23], "ans": [4]},
-        {"lyric": "Rip it Rip it", "range": [180.23, 182.33], "ans": [4]}
+        {"lyric": "Left and right",
+          "range": [178.99, 180.23], "ans": [4]},
+        {"lyric": "Rip it Rip it",
+          "range": [180.23, 182.33], "ans": [4]}
       ]
     },
     {
       "lyric_hangul": "하나, 둘, 셋, 넷, 둘, 둘, 셋, 넷",
       "lyric_translation": "One two three four / One two three four two two three four",
       "parts": [
-        {"lyric": "Hana dul set net", "range": [182.33, 183.63], "ans": [6]},
-        {"lyric": "Hana dul set net dul dul set net", "range": [183.63, 185.91], "ans": [6]}
+        {"lyric": "Hana dul set net",
+          "range": [182.33, 183.63], "ans": [6]},
+        {"lyric": "Hana dul set net dul dul set net",
+          "range": [183.63, 185.91], "ans": [6]}
       ]
     },
     "",
-    {"lyric": "Set dul set net net dul set net", "lyric_hangul": "셋, 둘, 셋, 넷, 넷, 둘, 셋, 넷", "lyric_translation": "Three two three four four two three four", "range": [184.97, 190.13], "ans": [6]}
+    {"lyric": "Set dul set net net dul set net",
+      "lyric_hangul": "셋, 둘, 셋, 넷, 넷, 둘, 셋, 넷",
+      "lyric_translation": "Three two three four four two three four",
+      "range": [184.97, 190.13], "ans": [6]}
   ]
 }

@@ -12,231 +12,365 @@
   "hidden": false,
   "slots": [],
   "lines": [
-    {"lyric": "Ooh-ah-ah, ah-ah, yeah", "lyric_hangul": "Ooh-ah-ah, ah-ah, yeah", "lyric_translation": "", "range": [7.48, 13.23], "ans": []},
-    {"lyric": "SEVENTEEN right here", "lyric_hangul": "SEVENTEEN right here", "lyric_translation": "SEVENTEEN right here", "range": [13.23, 14.36], "ans": [7]},
+    {"lyric": "Ooh-ah-ah, ah-ah, yeah",
+      "lyric_hangul": "Ooh-ah-ah, ah-ah, yeah",
+      "lyric_translation": "",
+      "range": [7.48, 13.23], "ans": []},
+    {"lyric": "SEVENTEEN right here",
+      "lyric_hangul": "SEVENTEEN right here",
+      "lyric_translation": "SEVENTEEN right here",
+      "range": [13.23, 14.36], "ans": [7]},
     "",
-    {"lyric": "Ttangeul bogo gyesok ollatji jeongsangkkaji", "lyric_hangul": "땅을 보고 계속 올랐지 정상까지", "lyric_translation": "I looked at the ground and kept going to the top and", "range": [14.36, 17.98], "ans": [6]},
-    {"lyric": "Maneun shiryeoneun boran deushi I Always Win", "lyric_hangul": "많은 시련은 보란 듯이, I always win", "lyric_translation": "Faced everything, like I’m so proud, I always win", "range": [17.98, 21.37], "ans": [6]},
-    {"lyric": "Ganghan maeumi jungyohaji", "lyric_hangul": "강한 마음이 중요하지 (중요하지)", "lyric_translation": "It’s key that you got a strong will", "range": [21.37, 23.6], "ans": [6]},
-    {"lyric": "Miraeneun domanggaji ana naega nohki jeonkkaji", "lyric_hangul": "미래는 도망가지 않아 내가 놓기 전까지", "lyric_translation": "The future’s not going anywhere, not until I let go", "range": [23.6, 28.94], "ans": [6]},
+    {"lyric": "Ttangeul bogo gyesok ollatji jeongsangkkaji",
+      "lyric_hangul": "땅을 보고 계속 올랐지 정상까지",
+      "lyric_translation": "I looked at the ground and kept going to the top and",
+      "range": [14.36, 17.98], "ans": [6]},
+    {"lyric": "Maneun shiryeoneun boran deushi I Always Win",
+      "lyric_hangul": "많은 시련은 보란 듯이, I always win",
+      "lyric_translation": "Faced everything, like I’m so proud, I always win",
+      "range": [17.98, 21.37], "ans": [6]},
+    {"lyric": "Ganghan maeumi jungyohaji",
+      "lyric_hangul": "강한 마음이 중요하지 (중요하지)",
+      "lyric_translation": "It’s key that you got a strong will",
+      "range": [21.37, 23.6], "ans": [6]},
+    {"lyric": "Miraeneun domanggaji ana naega nohki jeonkkaji",
+      "lyric_hangul": "미래는 도망가지 않아 내가 놓기 전까지",
+      "lyric_translation": "The future’s not going anywhere, not until I let go",
+      "range": [23.6, 28.94], "ans": [6]},
     "",
     {
       "lyric_hangul": "Da-rum-da-rim-da, 구름을 타고 여기저기로 (hey)",
       "lyric_translation": "DARUMDARIMDA / hop on our cloud and get all around (hey)",
       "parts": [
-        {"lyric": "DARUMDARIMDA", "range": [28.94, 30.69], "ans": [9]},
-        {"lyric": "Gureumeul tago yeogijeogiro", "range": [30.69, 32.9], "ans": [9]},
-        {"lyric": "(Hey)", "range": [32.2, 33.01], "ans": []}
+        {"lyric": "DARUMDARIMDA",
+          "range": [28.94, 30.69], "ans": [9]},
+        {"lyric": "Gureumeul tago yeogijeogiro",
+          "range": [30.69, 32.9], "ans": [9]},
+        {"lyric": "(Hey)",
+          "range": [32.2, 33.01], "ans": []}
       ]
     },
     {
       "lyric_hangul": "Da-rum-da-rim-da, 우리들의 긍지를 높이러 (hey)",
       "lyric_translation": "DARUMDARIMDA / so that we can proudly stand tall (hey)",
       "parts": [
-        {"lyric": "DARUMDARIMDA", "range": [32.87, 34.18], "ans": [9]},
-        {"lyric": "Urideure geungjireul nopireo", "range": [34.18, 36.45], "ans": [9]},
-        {"lyric": "(Hey)", "range": [35.78, 36.5], "ans": []}
+        {"lyric": "DARUMDARIMDA",
+          "range": [32.87, 34.18], "ans": [9]},
+        {"lyric": "Urideure geungjireul nopireo",
+          "range": [34.18, 36.45], "ans": [9]},
+        {"lyric": "(Hey)",
+          "range": [35.78, 36.5], "ans": []}
       ]
     },
     {
       "lyric_hangul": "Da-rum-da-rim-da, 또 다른 세계 나아가자, go",
       "lyric_translation": "DARUMDARIMDA / let’s move on to the next world, go",
       "parts": [
-        {"lyric": "DARUMDARIMDA", "range": [36.4, 37.74], "ans": [9]},
-        {"lyric": "Tto dareun segye naagaja Go", "range": [37.74, 39.9], "ans": [9]}
+        {"lyric": "DARUMDARIMDA",
+          "range": [36.4, 37.74], "ans": [9]},
+        {"lyric": "Tto dareun segye naagaja Go",
+          "range": [37.74, 39.9], "ans": [9]}
       ]
     },
-    {"lyric": "I Rhythme matchweo", "lyric_hangul": "이 rhythm에 맞춰", "lyric_translation": "Catch this rhythm and flow", "range": [39.9, 42.18], "ans": [9]},
+    {"lyric": "I Rhythme matchweo",
+      "lyric_hangul": "이 rhythm에 맞춰",
+      "lyric_translation": "Catch this rhythm and flow",
+      "range": [39.9, 42.18], "ans": [9]},
     "",
     {
       "lyric_hangul": "Say, say, say, say 영웅본색 like this",
       "lyric_translation": "Say Say Say Say / Hero’s true colors like this",
       "parts": [
-        {"lyric": "Say Say Say Say", "range": [42.18, 43.95], "ans": [2]},
-        {"lyric": "Yeongungbonsaek Like This", "range": [43.95, 45.76], "ans": [2]}
+        {"lyric": "Say Say Say Say",
+          "range": [42.18, 43.95], "ans": [2]},
+        {"lyric": "Yeongungbonsaek Like This",
+          "range": [43.95, 45.76], "ans": [2]}
       ]
     },
-    {"lyric": "Shigangwa gonggane guaebadji anneun jase", "lyric_hangul": "시간과 공간에 구애받지 않는 자세, 자세", "lyric_translation": "A stance of being free of all time and space", "range": [45.45, 49.57], "ans": [2]},
+    {"lyric": "Shigangwa gonggane guaebadji anneun jase",
+      "lyric_hangul": "시간과 공간에 구애받지 않는 자세, 자세",
+      "lyric_translation": "A stance of being free of all time and space",
+      "range": [45.45, 49.57], "ans": [2]},
     "",
-    {"lyric": "Himeul dahago sseureojyeodo", "lyric_hangul": "힘을 다하고 쓰러져도", "lyric_translation": "If I give it my all and slip up", "range": [49.57, 52.67], "ans": [11]},
-    {"lyric": "Pogireul moreugo nalttwineun jung", "lyric_hangul": "포기를 모르고 날뛰는 중", "lyric_translation": "Don’t know how to give up, I’m running riot", "range": [52.67, 54.84], "ans": [11]},
+    {"lyric": "Himeul dahago sseureojyeodo",
+      "lyric_hangul": "힘을 다하고 쓰러져도",
+      "lyric_translation": "If I give it my all and slip up",
+      "range": [49.57, 52.67], "ans": [11]},
+    {"lyric": "Pogireul moreugo nalttwineun jung",
+      "lyric_hangul": "포기를 모르고 날뛰는 중",
+      "lyric_translation": "Don’t know how to give up, I’m running riot",
+      "range": [52.67, 54.84], "ans": [11]},
     "",
     {
       "lyric_hangul": "마치 된 것 같아 손오공",
       "lyric_translation": "Feels like I turned into SONOGONG / Feels like I turned into SONOGONG / Feels like I turned into SONOGONG",
       "parts": [
-        {"lyric": "Machi dwen geot gata sonogong", "range": [54.84, 56.07], "ans": [13]},
-        {"lyric": "Machi dwen geot gata sonogong", "range": [55.37, 56.34], "ans": [8]},
-        {"lyric": "Machi dwen geot gata sonogong", "range": [60.84, 62.24], "ans": [10]}
+        {"lyric": "Machi dwen geot gata sonogong",
+          "range": [54.84, 56.07], "ans": [13]},
+        {"lyric": "Machi dwen geot gata sonogong",
+          "range": [55.37, 56.34], "ans": [8]},
+        {"lyric": "Machi dwen geot gata sonogong",
+          "range": [60.84, 62.24], "ans": [10]}
       ]
     },
-    {"lyric": "Machi dwen geot gata sonogong", "lyric_hangul": "마치 된 것 같아 손오공", "lyric_translation": "Feels like I turned into SONOGONG", "range": [61.77, 63.37], "ans": [13]},
-    {"lyric": "Urineun shwiji ana maeil, Make it Make it", "lyric_hangul": "우리는 쉬지 않아 매일, make it, make it", "lyric_translation": "We’ll never rest, every day, Make it Make it", "range": [63.37, 66.88], "ans": [12]},
+    {"lyric": "Machi dwen geot gata sonogong",
+      "lyric_hangul": "마치 된 것 같아 손오공",
+      "lyric_translation": "Feels like I turned into SONOGONG",
+      "range": [61.77, 63.37], "ans": [13]},
+    {"lyric": "Urineun shwiji ana maeil, Make it Make it",
+      "lyric_hangul": "우리는 쉬지 않아 매일, make it, make it",
+      "lyric_translation": "We’ll never rest, every day, Make it Make it",
+      "range": [63.37, 66.88], "ans": [12]},
     "",
-    {"lyric": "Kkeutkkaji gaboja", "lyric_hangul": "끝까지 가보자 (마치 된 것 같아 손오공)", "lyric_translation": "Don’t break till we make it", "range": [66.88, 69.93], "ans": [12]},
+    {"lyric": "Kkeutkkaji gaboja",
+      "lyric_hangul": "끝까지 가보자 (마치 된 것 같아 손오공)",
+      "lyric_translation": "Don’t break till we make it",
+      "range": [66.88, 69.93], "ans": [12]},
     {
       "lyric_hangul": "I love my team, I love my crew, 여기까지 달리면서",
       "lyric_translation": "I love my team, I love my crew / We already made it this far",
       "parts": [
-        {"lyric": "I Luv My Team I Luv My Crew", "range": [69.93, 72.13], "ans": [11]},
-        {"lyric": "Yeogikkaji dallimyeonseo", "range": [72.13, 73.52], "ans": [11]}
+        {"lyric": "I Luv My Team I Luv My Crew",
+          "range": [69.93, 72.13], "ans": [11]},
+        {"lyric": "Yeogikkaji dallimyeonseo",
+          "range": [72.13, 73.52], "ans": [11]}
       ]
     },
     {
       "lyric_hangul": "I love my team, I love my crew, 계속 달릴 수 있어 더",
       "lyric_translation": "I love my team, I love my crew / We can keep running forever more",
       "parts": [
-        {"lyric": "I Luv My Team I Luv My Crew", "range": [73.23, 75.63], "ans": [11]},
-        {"lyric": "Gyesok dallil su isseo deo", "range": [75.63, 77.2], "ans": [11]}
+        {"lyric": "I Luv My Team I Luv My Crew",
+          "range": [73.23, 75.63], "ans": [11]},
+        {"lyric": "Gyesok dallil su isseo deo",
+          "range": [75.63, 77.2], "ans": [11]}
       ]
     },
     {
       "lyric_hangul": "I love my team, I love my crew, 여기까지 오르면서",
       "lyric_translation": "I love my team, I love my crew / We already made it this high",
       "parts": [
-        {"lyric": "I Luv My Team I Luv My Crew", "range": [76.89, 79.16], "ans": [2]},
-        {"lyric": "Yeogikkaji oreumyeonseo", "range": [79.16, 80.58], "ans": [2]}
+        {"lyric": "I Luv My Team I Luv My Crew",
+          "range": [76.89, 79.16], "ans": [2]},
+        {"lyric": "Yeogikkaji oreumyeonseo",
+          "range": [79.16, 80.58], "ans": [2]}
       ]
     },
-    {"lyric": "I Luv My Team geu deokbune urin", "lyric_hangul": "I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)", "lyric_translation": "I love my team, it’s all thanks to you", "range": [80.46, 84.92], "ans": [2]},
+    {"lyric": "I Luv My Team geu deokbune urin",
+      "lyric_hangul": "I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)",
+      "lyric_translation": "I love my team, it’s all thanks to you",
+      "range": [80.46, 84.92], "ans": [2]},
     "",
     {
       "lyric_hangul": "알리지 우리는 등장 중 (중), 여전히 세대를 뒤바꿈 (꿈)",
       "lyric_translation": "Listen up, we’re on our way now / Switching up the generation till now",
       "parts": [
-        {"lyric": "Alriji urineun deungjang jung", "range": [84.92, 87.12], "ans": [1]},
-        {"lyric": "Yeojeonhi sedaereul dwibakkum", "range": [87.12, 88.75], "ans": [1]}
+        {"lyric": "Alriji urineun deungjang jung",
+          "range": [84.92, 87.12], "ans": [1]},
+        {"lyric": "Yeojeonhi sedaereul dwibakkum",
+          "range": [87.12, 88.75], "ans": [1]}
       ]
     },
     {
       "lyric_hangul": "멈추지 않아 뜀박 중 (중), 발이 꼬여도 뒷박 (brrr) 쿵",
       "lyric_translation": "We’re not stopping, we’re racing now / Misstep or not, the backbeat still goes pow",
       "parts": [
-        {"lyric": "Meomchuji ana ttwimbak jung", "range": [88.47, 90.55], "ans": [1]},
-        {"lyric": "Bari kkoyeodo dwisbak kung", "range": [90.55, 92.74], "ans": [1]}
+        {"lyric": "Meomchuji ana ttwimbak jung",
+          "range": [88.47, 90.55], "ans": [1]},
+        {"lyric": "Bari kkoyeodo dwisbak kung",
+          "range": [90.55, 92.74], "ans": [1]}
       ]
     },
     "",
-    {"lyric": "WOO WOO Pull Up My geunduun", "lyric_hangul": "Ooh, ooh, pull up my 근두운", "lyric_translation": "WOO WOO, pull up on my flying cloud", "range": [92.32, 95.28], "ans": [1]},
-    {"lyric": "WOO WOO seongshilhi suhaeng jung", "lyric_hangul": "Ooh, ooh, 성실히 수행 중", "lyric_translation": "WOO WOO, be a hard worker now", "range": [95.28, 98.56], "ans": [1]},
+    {"lyric": "WOO WOO Pull Up My geunduun",
+      "lyric_hangul": "Ooh, ooh, pull up my 근두운",
+      "lyric_translation": "WOO WOO, pull up on my flying cloud",
+      "range": [92.32, 95.28], "ans": [1]},
+    {"lyric": "WOO WOO seongshilhi suhaeng jung",
+      "lyric_hangul": "Ooh, ooh, 성실히 수행 중",
+      "lyric_translation": "WOO WOO, be a hard worker now",
+      "range": [95.28, 98.56], "ans": [1]},
     "",
     {
       "lyric_hangul": "Da-rum-da-rim-da, 늘어나라 하늘로 여의봉 (hey)",
       "lyric_translation": "DARUMDARIMDA / rise way up to the sky, power pole (hey)",
       "parts": [
-        {"lyric": "DARUMDARIMDA", "range": [98.56, 100.21], "ans": [3]},
-        {"lyric": "Neureonara haneullo yeouibong", "range": [100.76, 102.97], "ans": [3]},
-        {"lyric": "(Hey)", "range": [102.34, 103.02], "ans": []}
+        {"lyric": "DARUMDARIMDA",
+          "range": [98.56, 100.21], "ans": [3]},
+        {"lyric": "Neureonara haneullo yeouibong",
+          "range": [100.76, 102.97], "ans": [3]},
+        {"lyric": "(Hey)",
+          "range": [102.34, 103.02], "ans": []}
       ]
     },
     {
       "lyric_hangul": "Da-rum-da-rim-da, 우리들의 매일은 come and go (hey)",
       "lyric_translation": "DARUMDARIMDA / every day we always come and go (hey)",
       "parts": [
-        {"lyric": "DARUMDARIMDA", "range": [102.67, 104.26], "ans": [3]},
-        {"lyric": "Urideure maeileun Come & Go", "range": [104.26, 106.47], "ans": [3]},
-        {"lyric": "(Hey)", "range": [105.89, 106.52], "ans": []}
+        {"lyric": "DARUMDARIMDA",
+          "range": [102.67, 104.26], "ans": [3]},
+        {"lyric": "Urideure maeileun Come & Go",
+          "range": [104.26, 106.47], "ans": [3]},
+        {"lyric": "(Hey)",
+          "range": [105.89, 106.52], "ans": []}
       ]
     },
     {
       "lyric_hangul": "Da-rum-da-rim-da, 모든 걸 위해 나아가자, go",
       "lyric_translation": "DARUMDARIMDA / let’s move for the sake of it all, go",
       "parts": [
-        {"lyric": "DARUMDARIMDA", "range": [106.33, 107.68], "ans": [3]},
-        {"lyric": "Modeun geol wihae naagaja Go", "range": [107.68, 109.94], "ans": [3]}
+        {"lyric": "DARUMDARIMDA",
+          "range": [106.33, 107.68], "ans": [3]},
+        {"lyric": "Modeun geol wihae naagaja Go",
+          "range": [107.68, 109.94], "ans": [3]}
       ]
     },
-    {"lyric": "I noraee matchweo", "lyric_hangul": "이 노래에 맞춰", "lyric_translation": "Catch this music and flow", "range": [109.94, 112.28], "ans": [3]},
+    {"lyric": "I noraee matchweo",
+      "lyric_hangul": "이 노래에 맞춰",
+      "lyric_translation": "Catch this music and flow",
+      "range": [109.94, 112.28], "ans": [3]},
     "",
     "[next-col]",
     {
       "lyric_hangul": "Say, say, say, say (oh, yeah) 영웅본색 like this",
       "lyric_translation": "Say Say Say Say / Hero’s true colors like this",
       "parts": [
-        {"lyric": "Say Say Say Say", "range": [112.28, 115.44], "ans": [5]},
-        {"lyric": "Yeongungbonsaek Like This", "range": [115.44, 115.8], "ans": [5]}
+        {"lyric": "Say Say Say Say",
+          "range": [112.28, 115.44], "ans": [5]},
+        {"lyric": "Yeongungbonsaek Like This",
+          "range": [115.44, 115.8], "ans": [5]}
       ]
     },
-    {"lyric": "Shigangwa gonggane guaebadji anneun jase", "lyric_hangul": "시간과 공간에 구애받지 않는 자세, 자세", "lyric_translation": "A stance of being free of all time and space", "range": [115.41, 119.59], "ans": [5]},
+    {"lyric": "Shigangwa gonggane guaebadji anneun jase",
+      "lyric_hangul": "시간과 공간에 구애받지 않는 자세, 자세",
+      "lyric_translation": "A stance of being free of all time and space",
+      "range": [115.41, 119.59], "ans": [5]},
     "",
-    {"lyric": "Himeul dahago sseureojyeodo", "lyric_hangul": "힘을 다하고 쓰러져도", "lyric_translation": "If I give it my all and slip up", "range": [119.59, 122.43], "ans": [8]},
-    {"lyric": "Pogireul moreugo nalttwineun jung", "lyric_hangul": "포기를 모르고 날뛰는 중", "lyric_translation": "Don’t know how to give up, I’m running riot", "range": [122.43, 124.82], "ans": [8]},
+    {"lyric": "Himeul dahago sseureojyeodo",
+      "lyric_hangul": "힘을 다하고 쓰러져도",
+      "lyric_translation": "If I give it my all and slip up",
+      "range": [119.59, 122.43], "ans": [8]},
+    {"lyric": "Pogireul moreugo nalttwineun jung",
+      "lyric_hangul": "포기를 모르고 날뛰는 중",
+      "lyric_translation": "Don’t know how to give up, I’m running riot",
+      "range": [122.43, 124.82], "ans": [8]},
     "",
     {
       "lyric_hangul": "마치 된 것 같아 손오공",
       "lyric_translation": "Feels like I turned into SONOGONG / Feels like I turned into SONOGONG / Feels like I turned into SONOGONG",
       "parts": [
-        {"lyric": "Machi dwen geot gata sonogong", "range": [124.82, 131.01], "ans": [13]},
-        {"lyric": "Machi dwen geot gata sonogong", "range": [130.31, 131.57], "ans": [10]},
-        {"lyric": "Machi dwen geot gata sonogong", "range": [130.87, 131.78], "ans": [2]}
+        {"lyric": "Machi dwen geot gata sonogong",
+          "range": [124.82, 131.01], "ans": [13]},
+        {"lyric": "Machi dwen geot gata sonogong",
+          "range": [130.31, 131.57], "ans": [10]},
+        {"lyric": "Machi dwen geot gata sonogong",
+          "range": [130.87, 131.78], "ans": [2]}
       ]
     },
-    {"lyric": "Machi dwen geot gata sonogong", "lyric_hangul": "마치 된 것 같아 손오공", "lyric_translation": "Feels like I turned into SONOGONG", "range": [131.78, 133.43], "ans": [10]},
-    {"lyric": "Urineun shwiji ana maeil, Make it Make it", "lyric_hangul": "우리는 쉬지 않아 매일, make it, make it", "lyric_translation": "We’ll never rest, every day, Make it Make it", "range": [133.43, 136.83], "ans": [12]},
+    {"lyric": "Machi dwen geot gata sonogong",
+      "lyric_hangul": "마치 된 것 같아 손오공",
+      "lyric_translation": "Feels like I turned into SONOGONG",
+      "range": [131.78, 133.43], "ans": [10]},
+    {"lyric": "Urineun shwiji ana maeil, Make it Make it",
+      "lyric_hangul": "우리는 쉬지 않아 매일, make it, make it",
+      "lyric_translation": "We’ll never rest, every day, Make it Make it",
+      "range": [133.43, 136.83], "ans": [12]},
     "",
-    {"lyric": "Kkeutkkaji gaboja", "lyric_hangul": "끝까지 가보자 (마치 된 것 같아 손오공)", "lyric_translation": "Don’t break till we make it", "range": [136.83, 139.84], "ans": [12]},
+    {"lyric": "Kkeutkkaji gaboja",
+      "lyric_hangul": "끝까지 가보자 (마치 된 것 같아 손오공)",
+      "lyric_translation": "Don’t break till we make it",
+      "range": [136.83, 139.84], "ans": [12]},
     {
       "lyric_hangul": "I love my team, I love my crew, 여기까지 달리면서",
       "lyric_translation": "I love my team, I love my crew / We already made it this far",
       "parts": [
-        {"lyric": "I Luv My Team I Luv My Crew", "range": [139.84, 147.09], "ans": [5]},
-        {"lyric": "Yeogikkaji dallimyeonseo", "range": [147.09, 148.52], "ans": [5]}
+        {"lyric": "I Luv My Team I Luv My Crew",
+          "range": [139.84, 147.09], "ans": [5]},
+        {"lyric": "Yeogikkaji dallimyeonseo",
+          "range": [147.09, 148.52], "ans": [5]}
       ]
     },
     {
       "lyric_hangul": "I love my team, I love my crew, 계속 달릴 수 있어 더",
       "lyric_translation": "I love my team, I love my crew / We already made it this far",
       "parts": [
-        {"lyric": "I Luv My Team I Luv My Crew", "range": [143.64, 147.02], "ans": [5]},
-        {"lyric": "Gyesok dallil su isseo deo", "range": [150.66, 152.18], "ans": [5]}
+        {"lyric": "I Luv My Team I Luv My Crew",
+          "range": [143.64, 147.02], "ans": [5]},
+        {"lyric": "Gyesok dallil su isseo deo",
+          "range": [150.66, 152.18], "ans": [5]}
       ]
     },
     {
       "lyric_hangul": "I love my team, I love my crew, 여기까지 오르면서",
       "lyric_translation": "I love my team, I love my crew / We already made it this high",
       "parts": [
-        {"lyric": "I Luv My Team I Luv My Crew", "range": [146.34, 150.52], "ans": [8]},
-        {"lyric": "Yeogikkaji oreumyeonseo", "range": [154.18, 155.62], "ans": [8]}
+        {"lyric": "I Luv My Team I Luv My Crew",
+          "range": [146.34, 150.52], "ans": [8]},
+        {"lyric": "Yeogikkaji oreumyeonseo",
+          "range": [154.18, 155.62], "ans": [8]}
       ]
     },
-    {"lyric": "I Luv My Team geu deokbune urin", "lyric_hangul": "I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)", "lyric_translation": "I love my team, it’s all thanks to you", "range": [149.8, 154.5], "ans": [8]},
+    {"lyric": "I Luv My Team geu deokbune urin",
+      "lyric_hangul": "I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)",
+      "lyric_translation": "I love my team, it’s all thanks to you",
+      "range": [149.8, 154.5], "ans": [8]},
     "",
     {
       "lyric_hangul": "진실은 때론 잔혹해 (what's that?)",
       "lyric_translation": "Sometimes the truth hurts (What’s that?)",
       "parts": [
-        {"lyric": "Jinshileun ttaeron janhokhae", "range": [154.5, 162.46], "ans": [4]},
-        {"lyric": "(What’s That?)", "range": [161.76, 163.11], "ans": [13]}
+        {"lyric": "Jinshileun ttaeron janhokhae",
+          "range": [154.5, 162.46], "ans": [4]},
+        {"lyric": "(What’s That?)",
+          "range": [161.76, 163.11], "ans": [13]}
       ]
     },
     {
       "lyric_hangul": "거짓은 때론 달콤해 (what's that?)",
       "lyric_translation": "Sometimes the lie’s sweet (What’s that?)",
       "parts": [
-        {"lyric": "Geojiseun ttaeron dalkomhae", "range": [158.06, 166.0], "ans": [4]},
-        {"lyric": "(What’s That?)", "range": [165.3, 166.65], "ans": [13]}
+        {"lyric": "Geojiseun ttaeron dalkomhae",
+          "range": [158.06, 166.0], "ans": [4]},
+        {"lyric": "(What’s That?)",
+          "range": [165.3, 166.65], "ans": [13]}
       ]
     },
     {
       "lyric_hangul": "다정함은 때론 거짓말로 (what's that?)",
       "lyric_translation": "Sometimes kind’s a kind of lie (What’s that?)",
       "parts": [
-        {"lyric": "Dajeonghameun ttaeron geojinmallo", "range": [161.56, 170.08], "ans": [4]},
-        {"lyric": "(What’s That?)", "range": [169.41, 170.13], "ans": [13]}
+        {"lyric": "Dajeonghameun ttaeron geojinmallo",
+          "range": [161.56, 170.08], "ans": [4]},
+        {"lyric": "(What’s That?)",
+          "range": [169.41, 170.13], "ans": [13]}
       ]
     },
     {
       "lyric_hangul": "나쁜 것 싹 다 모아둬 (ping하고 불 나와)",
       "lyric_translation": "Shove all the bad stuff together / Ping and out comes fire",
       "parts": [
-        {"lyric": "Nappeun geot ssak da moadweo", "range": [164.93, 172.53], "ans": [4]},
-        {"lyric": "Ping hago bul nawa", "range": [171.83, 173.68], "ans": [7]}
+        {"lyric": "Nappeun geot ssak da moadweo",
+          "range": [164.93, 172.53], "ans": [4]},
+        {"lyric": "Ping hago bul nawa",
+          "range": [171.83, 173.68], "ans": [7]}
       ]
     },
     "",
-    {"lyric": "Ener Energy gi moa aju da nawa", "lyric_hangul": "Ener-energy, 기 모아 아주 다 나와", "lyric_translation": "Ener-energy, gather your strength and out comes power", "range": [168.64, 172.24], "ans": [7]},
-    {"lyric": "Ener Energy hanbange aju balsa pa", "lyric_hangul": "Ener-energy, 한방에 아주 발사 파", "lyric_translation": "Ener-energy, one massive shot", "range": [172.24, 175.52], "ans": [7]},
-    {"lyric": "Jigeumbuteo da haneul wiro hamseong balsa", "lyric_hangul": "지금부터 다 하늘 위로 함성 발사", "lyric_translation": "Now let’s all aim our cries up to the sky", "range": [175.52, 179.27], "ans": [7]},
-    {"lyric": "I noraeneun i manhwaye endingsongida", "lyric_hangul": "이 노래는 이 만화의 엔딩송이다", "lyric_translation": "This is the cartoon’s credits song", "range": [179.27, 189.27], "ans": [7]}
+    {"lyric": "Ener Energy gi moa aju da nawa",
+      "lyric_hangul": "Ener-energy, 기 모아 아주 다 나와",
+      "lyric_translation": "Ener-energy, gather your strength and out comes power",
+      "range": [168.64, 172.24], "ans": [7]},
+    {"lyric": "Ener Energy hanbange aju balsa pa",
+      "lyric_hangul": "Ener-energy, 한방에 아주 발사 파",
+      "lyric_translation": "Ener-energy, one massive shot",
+      "range": [172.24, 175.52], "ans": [7]},
+    {"lyric": "Jigeumbuteo da haneul wiro hamseong balsa",
+      "lyric_hangul": "지금부터 다 하늘 위로 함성 발사",
+      "lyric_translation": "Now let’s all aim our cries up to the sky",
+      "range": [175.52, 179.27], "ans": [7]},
+    {"lyric": "I noraeneun i manhwaye endingsongida",
+      "lyric_hangul": "이 노래는 이 만화의 엔딩송이다",
+      "lyric_translation": "This is the cartoon’s credits song",
+      "range": [179.27, 189.27], "ans": [7]}
   ]
 }

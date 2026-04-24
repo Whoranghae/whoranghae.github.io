@@ -11,148 +11,275 @@
   "hidden": false,
   "slots": [],
   "lines": [
-    {"lyric": "Eonjena neoye gyeote isseotta neoye gyeochi", "lyric_hangul": "언제나 너의 곁에, 있었다 너의 곁이", "lyric_translation": "N/A", "range": [0.79, 4.83], "ans": [1]},
-    {"lyric": "Raneun ge jungyohae nuga mweoraedo naye yeope", "lyric_hangul": "라는 게 중요해, 누가 뭐래도 나의 옆에", "lyric_translation": "", "range": [4.83, 8.58], "ans": [1]},
+    {"lyric": "Eonjena neoye gyeote isseotta neoye gyeochi",
+      "lyric_hangul": "언제나 너의 곁에, 있었다 너의 곁이",
+      "lyric_translation": "N/A",
+      "range": [0.79, 4.83], "ans": [1]},
+    {"lyric": "Raneun ge jungyohae nuga mweoraedo naye yeope",
+      "lyric_hangul": "라는 게 중요해, 누가 뭐래도 나의 옆에",
+      "lyric_translation": "",
+      "range": [4.83, 8.58], "ans": [1]},
     {
       "lyric_hangul": "있는 넌 완벽하지, 숫자로 셀 수 없이",
       "parts": [
-        {"lyric": "Inneun neon wanbyeokhaji", "range": [8.58, 10.5], "ans": [3]},
-        {"lyric": "Sutjaro sel su eopshi Ay ya ya", "range": [10.5, 12.57], "ans": [3]}
+        {"lyric": "Inneun neon wanbyeokhaji",
+          "range": [8.58, 10.5], "ans": [3]},
+        {"lyric": "Sutjaro sel su eopshi Ay ya ya",
+          "range": [10.5, 12.57], "ans": [3]}
       ]
     },
-    {"lyric": "Deuneolji Like the sky", "lyric_hangul": "Ay-ya-ya, 드넓지 like the sky (ooh)", "lyric_translation": "", "range": [12.57, 16.94], "ans": [13]},
+    {"lyric": "Deuneolji Like the sky",
+      "lyric_hangul": "Ay-ya-ya, 드넓지 like the sky (ooh)",
+      "lyric_translation": "",
+      "range": [12.57, 16.94], "ans": [13]},
     "",
-    {"lyric": "Tteodanyeo gureum wiro Moving", "lyric_hangul": "떠다녀, 구름 위로 moving", "lyric_translation": "", "range": [16.94, 18.63], "ans": [9]},
-    {"lyric": "Uri malgoneun jeonbu Nothing", "lyric_hangul": "우리 말고는 전부 nothing", "lyric_translation": "", "range": [18.63, 20.74], "ans": [9]},
-    {"lyric": "Geop eopji igoshi dulmani inneun nagweonini", "lyric_hangul": "겁 없지 이곳이 둘만이 있는 낙원이니", "lyric_translation": "", "range": [20.74, 25.23], "ans": [9]},
+    {"lyric": "Tteodanyeo gureum wiro Moving",
+      "lyric_hangul": "떠다녀, 구름 위로 moving",
+      "lyric_translation": "",
+      "range": [16.94, 18.63], "ans": [9]},
+    {"lyric": "Uri malgoneun jeonbu Nothing",
+      "lyric_hangul": "우리 말고는 전부 nothing",
+      "lyric_translation": "",
+      "range": [18.63, 20.74], "ans": [9]},
+    {"lyric": "Geop eopji igoshi dulmani inneun nagweonini",
+      "lyric_hangul": "겁 없지 이곳이 둘만이 있는 낙원이니",
+      "lyric_translation": "",
+      "range": [20.74, 25.23], "ans": [9]},
     "",
-    {"lyric": "Sigyetbaneuri dora (Oh yeah yeah)", "lyric_hangul": "시곗바늘이 돌아, oh, yeah, yeah", "lyric_translation": "", "range": [25.23, 29.49], "ans": [4]},
-    {"lyric": "Dareun gireul georeodo (Oh yeah yeah)", "lyric_hangul": "다른 길을 걸어도, oh, yeah, yeah", "lyric_translation": "", "range": [29.49, 33.09], "ans": [4]},
-    {"lyric": "Gyeolguk jejariro doraol geoya", "lyric_hangul": "결국 제자리로 돌아올 거야", "lyric_translation": "", "range": [33.09, 37.19], "ans": [8]},
-    {"lyric": "Urin gateun shigan soge", "lyric_hangul": "우린 같은 시간 속에", "lyric_translation": "", "range": [37.19, 39.46], "ans": [8]},
+    {"lyric": "Sigyetbaneuri dora (Oh yeah yeah)",
+      "lyric_hangul": "시곗바늘이 돌아, oh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [25.23, 29.49], "ans": [4]},
+    {"lyric": "Dareun gireul georeodo (Oh yeah yeah)",
+      "lyric_hangul": "다른 길을 걸어도, oh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [29.49, 33.09], "ans": [4]},
+    {"lyric": "Gyeolguk jejariro doraol geoya",
+      "lyric_hangul": "결국 제자리로 돌아올 거야",
+      "lyric_translation": "",
+      "range": [33.09, 37.19], "ans": [8]},
+    {"lyric": "Urin gateun shigan soge",
+      "lyric_hangul": "우린 같은 시간 속에",
+      "lyric_translation": "",
+      "range": [37.19, 39.46], "ans": [8]},
     "",
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [39.46, 42.77], "ans": [6]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [39.46, 42.77], "ans": [6]},
     {
       "lyric_hangul": "눈감아도 널 생각해 (너만) 생각해 (너만)",
       "parts": [
-        {"lyric": "Nungamado neol saenggakhae (neoman)", "range": [42.77, 46.0], "ans": [6]},
-        {"lyric": "Saenggakhae (neoman)", "range": [46.0, 47.95], "ans": [6]}
+        {"lyric": "Nungamado neol saenggakhae (neoman)",
+          "range": [42.77, 46.0], "ans": [6]},
+        {"lyric": "Saenggakhae (neoman)",
+          "range": [46.0, 47.95], "ans": [6]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [47.43, 50.15], "ans": [10]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [47.43, 50.15], "ans": [10]},
     {
       "lyric_hangul": "우린 언제나 함께해 (closer) 함께해 (closer)",
       "parts": [
-        {"lyric": "Urin eonjena hamkkehae (Closer)", "range": [50.15, 53.97], "ans": [10]},
-        {"lyric": "Hamkkehae (Closer)", "range": [53.97, 55.64], "ans": [10]}
+        {"lyric": "Urin eonjena hamkkehae (Closer)",
+          "range": [50.15, 53.97], "ans": [10]},
+        {"lyric": "Hamkkehae (Closer)",
+          "range": [53.97, 55.64], "ans": [10]}
       ]
     },
     "",
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [55.24, 56.74], "ans": [2]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [55.24, 56.74], "ans": [2]},
     {
       "lyric_hangul": "시간 속에 꼭 만나 난 네게 한결같아, 같아",
       "parts": [
-        {"lyric": "Shigan soge kkok manna", "range": [56.74, 58.52], "ans": [2]},
-        {"lyric": "Nan nege hangyeolgata gata", "range": [58.52, 62.87], "ans": [2]}
+        {"lyric": "Shigan soge kkok manna",
+          "range": [56.74, 58.52], "ans": [2]},
+        {"lyric": "Nan nege hangyeolgata gata",
+          "range": [58.52, 62.87], "ans": [2]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [62.87, 64.62], "ans": [7]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [62.87, 64.62], "ans": [7]},
     {
       "lyric_hangul": "하루 온종일 너와 같은 시간을 걷네, 걷네",
       "parts": [
-        {"lyric": "Haru onjongil neowa", "range": [64.62, 66.48], "ans": [7]},
-        {"lyric": "Gateun shiganeul geotne geotne", "range": [66.48, 71.01], "ans": [7]}
+        {"lyric": "Haru onjongil neowa",
+          "range": [64.62, 66.48], "ans": [7]},
+        {"lyric": "Gateun shiganeul geotne geotne",
+          "range": [66.48, 71.01], "ans": [7]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [71.01, 74.14], "ans": [7]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [71.01, 74.14], "ans": [7]},
     "",
-    {"lyric": "Nuguegena shiganeun gatji ana (ana) ana", "lyric_hangul": "누구에게나 시간은 같지 않아 (않아) 않아", "lyric_translation": "", "range": [74.14, 81.46], "ans": [5]},
-    {"lyric": "Geu manko maneun shiganeun naegen jjalba", "lyric_hangul": "그 많고 많은 시간은 내겐 짧아", "lyric_translation": "", "range": [81.46, 87.37], "ans": [10]},
-    {"lyric": "Neoege yeongweoneul jugopa", "lyric_hangul": "너에게 영원을 주고 파", "lyric_translation": "", "range": [87.37, 89.86], "ans": [10]},
+    {"lyric": "Nuguegena shiganeun gatji ana (ana) ana",
+      "lyric_hangul": "누구에게나 시간은 같지 않아 (않아) 않아",
+      "lyric_translation": "",
+      "range": [74.14, 81.46], "ans": [5]},
+    {"lyric": "Geu manko maneun shiganeun naegen jjalba",
+      "lyric_hangul": "그 많고 많은 시간은 내겐 짧아",
+      "lyric_translation": "",
+      "range": [81.46, 87.37], "ans": [10]},
+    {"lyric": "Neoege yeongweoneul jugopa",
+      "lyric_hangul": "너에게 영원을 주고 파",
+      "lyric_translation": "",
+      "range": [87.37, 89.86], "ans": [10]},
     "",
-    {"lyric": "Yeah shwil sae eopshi budichineun gonggigachi", "lyric_hangul": "Yeah, 쉴 새 없이 부딪히는 공기같이", "lyric_translation": "", "range": [89.86, 94.07], "ans": [12]},
-    {"lyric": "Yeah inneun geudaero neoye gyeote itgopa", "lyric_hangul": "Yeah, 있는 그대로 너의 곁에 있고 파", "lyric_translation": "", "range": [94.07, 97.97], "ans": [12]},
-    {"lyric": "Geureoke unmyeongseon wireul georeoga", "lyric_hangul": "그렇게 운명선 위를 걸어가", "lyric_translation": "", "range": [97.97, 102.13], "ans": [11]},
-    {"lyric": "Urin gateun shigan soge", "lyric_hangul": "우린 같은 시간 속에", "lyric_translation": "", "range": [102.13, 104.2], "ans": [11]},
+    {"lyric": "Yeah shwil sae eopshi budichineun gonggigachi",
+      "lyric_hangul": "Yeah, 쉴 새 없이 부딪히는 공기같이",
+      "lyric_translation": "",
+      "range": [89.86, 94.07], "ans": [12]},
+    {"lyric": "Yeah inneun geudaero neoye gyeote itgopa",
+      "lyric_hangul": "Yeah, 있는 그대로 너의 곁에 있고 파",
+      "lyric_translation": "",
+      "range": [94.07, 97.97], "ans": [12]},
+    {"lyric": "Geureoke unmyeongseon wireul georeoga",
+      "lyric_hangul": "그렇게 운명선 위를 걸어가",
+      "lyric_translation": "",
+      "range": [97.97, 102.13], "ans": [11]},
+    {"lyric": "Urin gateun shigan soge",
+      "lyric_hangul": "우린 같은 시간 속에",
+      "lyric_translation": "",
+      "range": [102.13, 104.2], "ans": [11]},
     "",
     "[next-col]",
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [104.2, 107.54], "ans": [1]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [104.2, 107.54], "ans": [1]},
     {
       "lyric_hangul": "눈감아도 널 생각해 (너만) 생각해 (너만)",
       "parts": [
-        {"lyric": "Nungamado neol saenggakhae (neoman)", "range": [107.54, 110.78], "ans": [1]},
-        {"lyric": "Saenggakhae (neoman)", "range": [110.78, 112.53], "ans": [1]}
+        {"lyric": "Nungamado neol saenggakhae (neoman)",
+          "range": [107.54, 110.78], "ans": [1]},
+        {"lyric": "Saenggakhae (neoman)",
+          "range": [110.78, 112.53], "ans": [1]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [112.1, 115.41], "ans": [3]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [112.1, 115.41], "ans": [3]},
     {
       "lyric_hangul": "우린 언제나 함께해 (closer) 함께해 (closer)",
       "parts": [
-        {"lyric": "Urin eonjena hamkkehae (Closer)", "range": [115.41, 118.84], "ans": [3]},
-        {"lyric": "Hamkkehae (Closer)", "range": [118.84, 120.57], "ans": [3]}
+        {"lyric": "Urin eonjena hamkkehae (Closer)",
+          "range": [115.41, 118.84], "ans": [3]},
+        {"lyric": "Hamkkehae (Closer)",
+          "range": [118.84, 120.57], "ans": [3]}
       ]
     },
     "",
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [120.13, 121.9], "ans": [5]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [120.13, 121.9], "ans": [5]},
     {
       "lyric_hangul": "시간 속에 꼭 만나 난 네게 한결같아, 같아",
       "parts": [
-        {"lyric": "Shigan soge kkok manna", "range": [121.9, 123.4], "ans": [5]},
-        {"lyric": "Nan nege hangyeolgata gata", "range": [123.4, 127.74], "ans": [5]}
+        {"lyric": "Shigan soge kkok manna",
+          "range": [121.9, 123.4], "ans": [5]},
+        {"lyric": "Nan nege hangyeolgata gata",
+          "range": [123.4, 127.74], "ans": [5]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [127.74, 129.63], "ans": [4]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [127.74, 129.63], "ans": [4]},
     {
       "lyric_hangul": "하루 온종일 너와 같은 시간을 걷네, 걷네",
       "parts": [
-        {"lyric": "Haru onjongil neowa", "range": [129.63, 131.35], "ans": [4]},
-        {"lyric": "Gateun shiganeul geotne geotne", "range": [131.35, 136.26], "ans": [4]}
+        {"lyric": "Haru onjongil neowa",
+          "range": [129.63, 131.35], "ans": [4]},
+        {"lyric": "Gateun shiganeul geotne geotne",
+          "range": [131.35, 136.26], "ans": [4]}
       ]
     },
     "",
     {
       "lyric_hangul": "24시간 동안 널 더욱 원해",
       "parts": [
-        {"lyric": "Seumulle shigan dongan neol deouk weonhae", "range": [136.26, 139.73], "ans": [7]},
-        {"lyric": "Anya seumulle shigando bujokhane", "range": [139.03, 140.86], "ans": [11]}
+        {"lyric": "Seumulle shigan dongan neol deouk weonhae",
+          "range": [136.26, 139.73], "ans": [7]},
+        {"lyric": "Anya seumulle shigando bujokhane",
+          "range": [139.03, 140.86], "ans": [11]}
       ]
     },
-    {"lyric": "Nalkaroun barami buneun sanirado", "lyric_hangul": "날카로운 바람이 부는 산이라도", "lyric_translation": "", "range": [144.66, 149.27], "ans": [6]},
-    {"lyric": "Nan neol wihae oreunda", "lyric_hangul": "난 널 위해, 오른다", "lyric_translation": "", "range": [149.27, 151.87], "ans": [6]},
+    {"lyric": "Nalkaroun barami buneun sanirado",
+      "lyric_hangul": "날카로운 바람이 부는 산이라도",
+      "lyric_translation": "",
+      "range": [144.66, 149.27], "ans": [6]},
+    {"lyric": "Nan neol wihae oreunda",
+      "lyric_hangul": "난 널 위해, 오른다",
+      "lyric_translation": "",
+      "range": [149.27, 151.87], "ans": [6]},
     "",
-    {"lyric": "24 hours", "lyric_hangul": "24 hours, whoo", "lyric_translation": "", "range": [151.87, 154.53], "ans": [8]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours, whoo",
+      "lyric_translation": "",
+      "range": [151.87, 154.53], "ans": [8]},
     {
       "lyric_hangul": "눈감아도 널 생각해 (너만) 생각해 (너만)",
       "parts": [
-        {"lyric": "Nungamado neol saenggakhae (neoman)", "range": [154.53, 157.85], "ans": [8]},
-        {"lyric": "Saenggakhae (neoman)", "range": [158.35, 159.81], "ans": [8]}
+        {"lyric": "Nungamado neol saenggakhae (neoman)",
+          "range": [154.53, 157.85], "ans": [8]},
+        {"lyric": "Saenggakhae (neoman)",
+          "range": [158.35, 159.81], "ans": [8]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [159.48, 162.05], "ans": [13]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [159.48, 162.05], "ans": [13]},
     {
       "lyric_hangul": "우린 언제나 함께해 (closer) 함께해 (closer)",
       "parts": [
-        {"lyric": "Urin eonjena hamkkehae (Closer)", "range": [162.05, 166.02], "ans": [13]},
-        {"lyric": "Hamkkehae (Closer)", "range": [166.02, 167.79], "ans": [13]}
+        {"lyric": "Urin eonjena hamkkehae (Closer)",
+          "range": [162.05, 166.02], "ans": [13]},
+        {"lyric": "Hamkkehae (Closer)",
+          "range": [166.02, 167.79], "ans": [13]}
       ]
     },
     "",
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [167.22, 169.07], "ans": [8]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [167.22, 169.07], "ans": [8]},
     {
       "lyric_hangul": "시간 속에 꼭 만나 난 네게 한결같아, 같아",
       "parts": [
-        {"lyric": "Shigan soge kkok manna", "range": [169.07, 170.65], "ans": [8]},
-        {"lyric": "Nan nege hangyeolgata gata", "range": [170.65, 175.28], "ans": [8]}
+        {"lyric": "Shigan soge kkok manna",
+          "range": [169.07, 170.65], "ans": [8]},
+        {"lyric": "Nan nege hangyeolgata gata",
+          "range": [170.65, 175.28], "ans": [8]}
       ]
     },
-    {"lyric": "24 hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [175.28, 176.85], "ans": [2]},
+    {"lyric": "24 hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [175.28, 176.85], "ans": [2]},
     {
       "lyric_hangul": "하루 온종일 너와 같은 시간을 걷네, 걷네",
       "parts": [
-        {"lyric": "Haru onjongil neowa", "range": [176.85, 178.59], "ans": [2]},
-        {"lyric": "Gateun shiganeul geotne geotne", "range": [178.59, 182.63], "ans": [2]}
+        {"lyric": "Haru onjongil neowa",
+          "range": [176.85, 178.59], "ans": [2]},
+        {"lyric": "Gateun shiganeul geotne geotne",
+          "range": [178.59, 182.63], "ans": [2]}
       ]
     },
-    {"lyric": "24hours", "lyric_hangul": "24 hours", "lyric_translation": "", "range": [182.34, 188.0], "ans": [2]}
+    {"lyric": "24hours",
+      "lyric_hangul": "24 hours",
+      "lyric_translation": "",
+      "range": [182.34, 188.0], "ans": [2]}
   ]
 }

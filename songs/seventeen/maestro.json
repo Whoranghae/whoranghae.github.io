@@ -11,43 +11,66 @@
   "hidden": false,
   "slots": [],
   "lines": [
-    {"lyric": "SEVENTEEN Right here", "lyric_hangul": "SEVENTEEN right here", "lyric_translation": "SEVENTEEN Right here", "range": [28.77, 29.72], "ans": [1]},
+    {"lyric": "SEVENTEEN Right here",
+      "lyric_hangul": "SEVENTEEN right here",
+      "lyric_translation": "SEVENTEEN Right here",
+      "range": [28.77, 29.72], "ans": [1]},
     "",
-    {"lyric": "Shijakhaja Tuning matchweobolkka", "lyric_hangul": "시작하자 tuning, 맞춰볼까?", "lyric_translation": "Let’s get started, tuning it up", "range": [29.72, 32.48], "ans": [9]},
-    {"lyric": "Hanaye eumjeong gijune matchweo Play it", "lyric_hangul": "하나의 음정 기준에 맞춰, play it", "lyric_translation": "Play it to one standard pitch", "range": [32.48, 35.95], "ans": [9]},
+    {"lyric": "Shijakhaja Tuning matchweobolkka",
+      "lyric_hangul": "시작하자 tuning, 맞춰볼까?",
+      "lyric_translation": "Let’s get started, tuning it up",
+      "range": [29.72, 32.48], "ans": [9]},
+    {"lyric": "Hanaye eumjeong gijune matchweo Play it",
+      "lyric_hangul": "하나의 음정 기준에 맞춰, play it",
+      "lyric_translation": "Play it to one standard pitch",
+      "range": [32.48, 35.95], "ans": [9]},
     {
       "lyric_hangul": "SEVENTEEN의 스케르초, 아무래도 조금 특이해도",
       "lyric_translation": "A SEVENTEEN’s scherzo / It’s a little unconventional,",
       "parts": [
-        {"lyric": "SEVENTEENe seugereucho", "range": [35.95, 36.87], "ans": [1]},
-        {"lyric": "Amuraedo jogeum teugihaedo", "range": [36.87, 39.17], "ans": [1]}
+        {"lyric": "SEVENTEENe seugereucho",
+          "range": [35.95, 36.87], "ans": [1]},
+        {"lyric": "Amuraedo jogeum teugihaedo",
+          "range": [36.87, 39.17], "ans": [1]}
       ]
     },
     {
       "lyric_hangul": "북을 치고 줄을 튕겨, 따다라, 따다라, 따다라다 (ah, yeah)",
       "lyric_translation": "but bang the drum and bounce the string / DAT DA RA DAT DA RA DAT DA RA DA",
       "parts": [
-        {"lyric": "Bugeul chigo jureul twinggyeo", "range": [38.95, 40.97], "ans": [1]},
-        {"lyric": "DAT DA RA DAT DA RA DAT DA RA DA", "range": [40.97, 42.95], "ans": [1]}
+        {"lyric": "Bugeul chigo jureul twinggyeo",
+          "range": [38.95, 40.97], "ans": [1]},
+        {"lyric": "DAT DA RA DAT DA RA DAT DA RA DA",
+          "range": [40.97, 42.95], "ans": [1]}
       ]
     },
     "",
-    {"lyric": "Sanggwaneopji ige Classic or new thang", "lyric_hangul": "상관없지 이게 classic or new thang", "lyric_translation": "Doesn’t matter either classic or new thang", "range": [42.7, 45.06], "ans": [3]},
-    {"lyric": "Tto saeroun joapeun uri jaranginikka", "lyric_hangul": "또 새로운 조합은 우리 자랑이니까", "lyric_translation": "We take pride in our new combinations", "range": [45.06, 48.67], "ans": [3]},
+    {"lyric": "Sanggwaneopji ige Classic or new thang",
+      "lyric_hangul": "상관없지 이게 classic or new thang",
+      "lyric_translation": "Doesn’t matter either classic or new thang",
+      "range": [42.7, 45.06], "ans": [3]},
+    {"lyric": "Tto saeroun joapeun uri jaranginikka",
+      "lyric_hangul": "또 새로운 조합은 우리 자랑이니까",
+      "lyric_translation": "We take pride in our new combinations",
+      "range": [45.06, 48.67], "ans": [3]},
     {
       "lyric_hangul": "Beat부터 melody까지, mix and match가 특기니까",
       "lyric_translation": "From the beat to the melody / Mix and match, it’s our thing",
       "parts": [
-        {"lyric": "Beatbuteo Melodykkaji", "range": [48.67, 50.49], "ans": [12]},
-        {"lyric": "Mix and matchga teukkinikka", "range": [50.49, 51.79], "ans": [12]}
+        {"lyric": "Beatbuteo Melodykkaji",
+          "range": [48.67, 50.49], "ans": [12]},
+        {"lyric": "Mix and matchga teukkinikka",
+          "range": [50.49, 51.79], "ans": [12]}
       ]
     },
     {
       "lyric_hangul": "미쳐야만 정상이 돼, 세상을 바꾸는 우리니까, ah",
       "lyric_translation": "Crazy is the new normal / Because we change the world",
       "parts": [
-        {"lyric": "Michyeoyaman jeongsangi dwae", "range": [51.67, 53.62], "ans": [12]},
-        {"lyric": "Sesangeul bakkuneun urinikka", "range": [53.62, 55.41], "ans": [12]}
+        {"lyric": "Michyeoyaman jeongsangi dwae",
+          "range": [51.67, 53.62], "ans": [12]},
+        {"lyric": "Sesangeul bakkuneun urinikka",
+          "range": [53.62, 55.41], "ans": [12]}
       ]
     },
     "",
@@ -55,16 +78,20 @@
       "lyric_hangul": "뜨거운 함성 두 배로 (배로), 서로를 바라본 채로 (채로)",
       "lyric_translation": "Double the scream / Looking at each other",
       "parts": [
-        {"lyric": "Tteugeoun hamseong du baero", "range": [55.03, 58.04], "ans": [7]},
-        {"lyric": "Seororeul barabon chaero", "range": [58.04, 61.68], "ans": [7]}
+        {"lyric": "Tteugeoun hamseong du baero",
+          "range": [55.03, 58.04], "ans": [7]},
+        {"lyric": "Seororeul barabon chaero",
+          "range": [58.04, 61.68], "ans": [7]}
       ]
     },
     {
       "lyric_hangul": "나팔을 울려 세계로, you and I, you and I",
       "lyric_translation": "We play the trumpet for the world / You & I, / You & I",
       "parts": [
-        {"lyric": "Napareul ullyeo segyero", "range": [61.68, 64.23], "ans": [7]},
-        {"lyric": "You & I", "range": [64.23, 67.42], "ans": [7]}
+        {"lyric": "Napareul ullyeo segyero",
+          "range": [61.68, 64.23], "ans": [7]},
+        {"lyric": "You & I",
+          "range": [64.23, 67.42], "ans": [7]}
       ]
     },
     "",
@@ -72,127 +99,198 @@
       "lyric_hangul": "Accelerando, 절정으로 올라가자",
       "lyric_translation": "Accelerando / Rise to the top",
       "parts": [
-        {"lyric": "Accelerando", "range": [67.42, 68.72], "ans": [8]},
-        {"lyric": "Jeoljeongeuro ollagaja", "range": [68.72, 71.22], "ans": [8]}
+        {"lyric": "Accelerando",
+          "range": [67.42, 68.72], "ans": [8]},
+        {"lyric": "Jeoljeongeuro ollagaja",
+          "range": [68.72, 71.22], "ans": [8]}
       ]
     },
     {
       "lyric_hangul": "높은 곳에서 울리는 소나타 (maestro의 지휘에 맞춰)",
       "lyric_translation": "A sonata that rings out from high above / Following the maestro’s lead",
       "parts": [
-        {"lyric": "Nopeun goseseo ullineun sonata", "range": [70.54, 77.56], "ans": [8]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [76.86, 80.72], "ans": [9]}
+        {"lyric": "Nopeun goseseo ullineun sonata",
+          "range": [70.54, 77.56], "ans": [8]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [76.86, 80.72], "ans": [9]}
       ]
     },
     "",
-    {"lyric": "LALA LALA LALA LALALA", "lyric_hangul": "La-la, la-la, la-la-la-la-la", "lyric_translation": "LALA LALA LALA LALALA / LALA LALA LALA LALALA / LALA LALA LALA LALALA", "range": [80.72, 83.98], "ans": []},
-    {"lyric": "LALA LALA LALA LALALA", "lyric_hangul": "La-la, la-la, la-la-la-la-la", "lyric_translation": "LALA LALA LALA LALALA", "range": [83.77, 86.76], "ans": []},
+    {"lyric": "LALA LALA LALA LALALA",
+      "lyric_hangul": "La-la, la-la, la-la-la-la-la",
+      "lyric_translation": "LALA LALA LALA LALALA / LALA LALA LALA LALALA / LALA LALA LALA LALALA",
+      "range": [80.72, 83.98], "ans": []},
+    {"lyric": "LALA LALA LALA LALALA",
+      "lyric_hangul": "La-la, la-la, la-la-la-la-la",
+      "lyric_translation": "LALA LALA LALA LALALA",
+      "range": [83.77, 86.76], "ans": []},
     "",
     {
       "lyric_hangul": "La-la, la-la, la-la-la-la-la",
       "lyric_translation": "LALA LALA LALA LALALA / Following the maestro’s lead",
       "parts": [
-        {"lyric": "LALA LALA LALA LALALA", "range": [86.76, 88.27], "ans": []},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [88.27, 90.16], "ans": [5]}
+        {"lyric": "LALA LALA LALA LALALA",
+          "range": [86.76, 88.27], "ans": []},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [88.27, 90.16], "ans": [5]}
       ]
     },
     {
       "lyric_hangul": "Good vibe, 잃지 않고 가 절대",
       "lyric_translation": "Never lose the good vibe / Never lose the good vibe / Don’t lose the good vibe / Following the maestro’s lead",
       "parts": [
-        {"lyric": "Good vibe ilchi anko ga jeoldae", "range": [93.61, 95.3], "ans": [13]},
-        {"lyric": "Good vibe ilchi anko ga jeoldae", "range": [94.63, 95.96], "ans": [3]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [95.4, 96.71], "ans": [6]}
+        {"lyric": "Good vibe ilchi anko ga jeoldae",
+          "range": [93.61, 95.3], "ans": [13]},
+        {"lyric": "Good vibe ilchi anko ga jeoldae",
+          "range": [94.63, 95.96], "ans": [3]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [95.4, 96.71], "ans": [6]}
       ]
     },
     "",
-    {"lyric": "Good life urineun segyero", "lyric_hangul": "Good life, 우리는 세계로", "lyric_translation": "Good life, we go global", "range": [96.71, 99.85], "ans": [13]},
+    {"lyric": "Good life urineun segyero",
+      "lyric_hangul": "Good life, 우리는 세계로",
+      "lyric_translation": "Good life, we go global",
+      "range": [96.71, 99.85], "ans": [13]},
     "",
     {
       "lyric_hangul": "Good vibe, 잃지 않고 가 절대",
       "lyric_translation": "Don’t lose the good vibe / Following the maestro’s lead",
       "parts": [
-        {"lyric": "Good vibe ilchi anko ga jeoldae", "range": [99.85, 102.04], "ans": [13]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [101.34, 102.82], "ans": [10]}
+        {"lyric": "Good vibe ilchi anko ga jeoldae",
+          "range": [99.85, 102.04], "ans": [13]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [101.34, 102.82], "ans": [10]}
       ]
     },
-    {"lyric": "Rideumeul bakkweotta ireoke", "lyric_hangul": "리듬을 바꿨다", "lyric_translation": "I changed the rhythm like this", "range": [105.49, 108.53], "ans": [6]},
-    {"lyric": "Technowa joaphae mweodeunji ganeunghae", "lyric_hangul": "조합해, 뭐든지 가능해", "lyric_translation": "Mix it techno, sky is the limit", "range": [111.96, 115.57], "ans": [6]},
+    {"lyric": "Rideumeul bakkweotta ireoke",
+      "lyric_hangul": "리듬을 바꿨다",
+      "lyric_translation": "I changed the rhythm like this",
+      "range": [105.49, 108.53], "ans": [6]},
+    {"lyric": "Technowa joaphae mweodeunji ganeunghae",
+      "lyric_hangul": "조합해, 뭐든지 가능해",
+      "lyric_translation": "Mix it techno, sky is the limit",
+      "range": [111.96, 115.57], "ans": [6]},
     "",
-    {"lyric": "Jumunhae mandeureo deurilge", "lyric_hangul": "주문해, 만들어 드릴게", "lyric_translation": "Just tell me which rhythm, your wish is my command", "range": [115.57, 118.06], "ans": [6]},
-    {"lyric": "I jakpume wanseongeul hamkkehal ttae", "lyric_hangul": "이 작품의 완성을 함께할 때", "lyric_translation": "As we complete this piece together", "range": [118.06, 121.9], "ans": [4]},
-    {"lyric": "Biroso hana dweneun uril bone", "lyric_hangul": "비로소 하나 되는 우릴 보네", "lyric_translation": "I see us finally become one", "range": [121.9, 125.11], "ans": [4]},
-    {"lyric": "Bokjaphan eumjeonggwa rideumeseodo", "lyric_hangul": "복잡한 음정과 리듬에서도", "lyric_translation": "Amidst complex notes and rhythms", "range": [125.11, 127.62], "ans": [5]},
+    {"lyric": "Jumunhae mandeureo deurilge",
+      "lyric_hangul": "주문해, 만들어 드릴게",
+      "lyric_translation": "Just tell me which rhythm, your wish is my command",
+      "range": [115.57, 118.06], "ans": [6]},
+    {"lyric": "I jakpume wanseongeul hamkkehal ttae",
+      "lyric_hangul": "이 작품의 완성을 함께할 때",
+      "lyric_translation": "As we complete this piece together",
+      "range": [118.06, 121.9], "ans": [4]},
+    {"lyric": "Biroso hana dweneun uril bone",
+      "lyric_hangul": "비로소 하나 되는 우릴 보네",
+      "lyric_translation": "I see us finally become one",
+      "range": [121.9, 125.11], "ans": [4]},
+    {"lyric": "Bokjaphan eumjeonggwa rideumeseodo",
+      "lyric_hangul": "복잡한 음정과 리듬에서도",
+      "lyric_translation": "Amidst complex notes and rhythms",
+      "range": [125.11, 127.62], "ans": [5]},
     "",
     "[next-col]",
-    {"lyric": "I’ll always be with you", "lyric_hangul": "I'll always be with you", "lyric_translation": "I’ll always be with you", "range": [127.62, 129.72], "ans": [5]},
+    {"lyric": "I’ll always be with you",
+      "lyric_hangul": "I'll always be with you",
+      "lyric_translation": "I’ll always be with you",
+      "range": [127.62, 129.72], "ans": [5]},
     {
       "lyric_hangul": "Accelerando, 절정으로 올라가자",
       "lyric_translation": "Accelerando / Rise to the top",
       "parts": [
-        {"lyric": "Accelerando", "range": [129.72, 131.91], "ans": [11]},
-        {"lyric": "Jeoljeongeuro ollagaja", "range": [131.91, 134.68], "ans": [11]}
+        {"lyric": "Accelerando",
+          "range": [129.72, 131.91], "ans": [11]},
+        {"lyric": "Jeoljeongeuro ollagaja",
+          "range": [131.91, 134.68], "ans": [11]}
       ]
     },
     {
       "lyric_hangul": "높은 곳에서 울리는 소나타 (maestro의 지휘에 맞춰)",
       "lyric_translation": "A sonata that rings out from high above / Following the maestro’s lead",
       "parts": [
-        {"lyric": "Nopeun goseseo ullineun sonata", "range": [134.5, 137.9], "ans": [11]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [140.06, 143.73], "ans": [2]}
+        {"lyric": "Nopeun goseseo ullineun sonata",
+          "range": [134.5, 137.9], "ans": [11]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [140.06, 143.73], "ans": [2]}
       ]
     },
     "",
-    {"lyric": "LALA LALA LALA LALALA", "lyric_hangul": "La-la, la-la, la-la-la-la-la", "lyric_translation": "LALA LALA LALA LALALA / LALA LALA LALA LALALA", "range": [143.73, 147.15], "ans": []},
-    {"lyric": "LALA LALA LALA LALALA", "lyric_hangul": "La-la, la-la, la-la-la-la-la", "lyric_translation": "LALA LALA LALA LALALA", "range": [146.96, 150.53], "ans": []},
+    {"lyric": "LALA LALA LALA LALALA",
+      "lyric_hangul": "La-la, la-la, la-la-la-la-la",
+      "lyric_translation": "LALA LALA LALA LALALA / LALA LALA LALA LALALA",
+      "range": [143.73, 147.15], "ans": []},
+    {"lyric": "LALA LALA LALA LALALA",
+      "lyric_hangul": "La-la, la-la, la-la-la-la-la",
+      "lyric_translation": "LALA LALA LALA LALALA",
+      "range": [146.96, 150.53], "ans": []},
     "",
     {
       "lyric_hangul": "La-la, la-la, la-la-la-la-la",
       "lyric_translation": "LALA LALA LALA LALALA / Following the maestro’s lead",
       "parts": [
-        {"lyric": "LALA LALA LALA LALALA", "range": [150.53, 152.2], "ans": []},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [152.2, 153.43], "ans": [4]}
+        {"lyric": "LALA LALA LALA LALALA",
+          "range": [150.53, 152.2], "ans": []},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [152.2, 153.43], "ans": [4]}
       ]
     },
-    {"lyric": "Good vibe ilchi anko ga jeoldae", "lyric_hangul": "Good vibe, 잃지 않고 가 절대", "lyric_translation": "Never lose the good vibe", "range": [156.71, 159.98], "ans": [2]},
+    {"lyric": "Good vibe ilchi anko ga jeoldae",
+      "lyric_hangul": "Good vibe, 잃지 않고 가 절대",
+      "lyric_translation": "Never lose the good vibe",
+      "range": [156.71, 159.98], "ans": [2]},
     "",
     {
       "lyric_hangul": "Good life, 우리는 세계로",
       "lyric_translation": "Good life, we go global / Good life, we go global",
       "parts": [
-        {"lyric": "Good life urineun segyero", "range": [159.98, 161.49], "ans": [2]},
-        {"lyric": "Good life urineun segyero", "range": [160.79, 162.69], "ans": [3]}
+        {"lyric": "Good life urineun segyero",
+          "range": [159.98, 161.49], "ans": [2]},
+        {"lyric": "Good life urineun segyero",
+          "range": [160.79, 162.69], "ans": [3]}
       ]
     },
     {
       "lyric_hangul": "Good vibe, 잃지 않고 가 절대",
       "lyric_translation": "Don’t lose the good vibe / Always following the maestro’s lead / The rhythm goes DAT DA DA RAT DA / The brass goes BA BA BA RAM BA",
       "parts": [
-        {"lyric": "Good vibe ilchi anko ga jeoldae", "range": [162.69, 163.96], "ans": [2]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [163.26, 165.46], "ans": [12]},
-        {"lyric": "Rideumeun DAT DA DA RAT DA", "range": [164.76, 165.56], "ans": [10]},
-        {"lyric": "Brassneun BA BA BA RAM BA", "range": [165.56, 166.06], "ans": [10]}
+        {"lyric": "Good vibe ilchi anko ga jeoldae",
+          "range": [162.69, 163.96], "ans": [2]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [163.26, 165.46], "ans": [12]},
+        {"lyric": "Rideumeun DAT DA DA RAT DA",
+          "range": [164.76, 165.56], "ans": [10]},
+        {"lyric": "Brassneun BA BA BA RAM BA",
+          "range": [165.56, 166.06], "ans": [10]}
       ]
     },
     "",
     "",
-    {"lyric": "Johwaroun uri seororeul bwa", "lyric_hangul": "조화로운 우리 서로를 봐", "lyric_translation": "Look at us in harmony", "range": [189.63, 191.37], "ans": [10]},
+    {"lyric": "Johwaroun uri seororeul bwa",
+      "lyric_hangul": "조화로운 우리 서로를 봐",
+      "lyric_translation": "Look at us in harmony",
+      "range": [189.63, 191.37], "ans": [10]},
     {
       "lyric_hangul": "더 세게 몰아쳐, 점점 더 crescendo",
       "lyric_translation": "Push harder and harder, / rise to a crescendo",
       "parts": [
-        {"lyric": "Deo sege morachyeo jeomjeom", "range": [191.37, 194.36], "ans": [1, 3]},
-        {"lyric": "Deo Crescendo", "range": [194.36, 194.73], "ans": [1, 3]}
+        {"lyric": "Deo sege morachyeo jeomjeom",
+          "range": [191.37, 194.36], "ans": [1, 3]},
+        {"lyric": "Deo Crescendo",
+          "range": [194.36, 194.73], "ans": [1, 3]}
       ]
     },
     {
       "lyric_hangul": "마지막 악장에, 템포는 a tempo",
       "lyric_translation": "A tempo for our final movement / (Yeah yeah yeah) / Following the maestro’s lead / Following the maestro’s lead",
       "parts": [
-        {"lyric": "Majimak akjange temponeun A Tempo", "range": [194.47, 195.35], "ans": [1, 3]},
-        {"lyric": "(Yeah yeah yeah)", "range": [195.35, 196.26], "ans": [8]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [195.56, 197.17], "ans": [5]},
-        {"lyric": "Maeseuteuroye jihwie matchweo", "range": [196.47, 197.78], "ans": [7]}
+        {"lyric": "Majimak akjange temponeun A Tempo",
+          "range": [194.47, 195.35], "ans": [1, 3]},
+        {"lyric": "(Yeah yeah yeah)",
+          "range": [195.35, 196.26], "ans": [8]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [195.56, 197.17], "ans": [5]},
+        {"lyric": "Maeseuteuroye jihwie matchweo",
+          "range": [196.47, 197.78], "ans": [7]}
       ]
     }
   ]

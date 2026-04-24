@@ -12,174 +12,280 @@
   "hidden": false,
   "slots": [],
   "lines": [
-    {"lyric": "Tteoreojineun kkonipe eotteon nugudo", "lyric_hangul": "떨어지는 꽃잎에 어떤 누구도", "lyric_translation": "N/A", "range": [12.19, 15.39], "ans": [10]},
-    {"lyric": "Ttaseuhan songil hanbeon juji ana", "lyric_hangul": "따스한 손길 한번 주지 않아", "lyric_translation": "", "range": [15.39, 18.8], "ans": [10]},
-    {"lyric": "Areumdaweoseo deo apeun misoga", "lyric_hangul": "아름다워서 더 아픈 미소가", "lyric_translation": "", "range": [18.8, 22.02], "ans": [5]},
-    {"lyric": "Seulpeumeul dameun maeum gataseo", "lyric_hangul": "슬픔을 담은 마음 같아서", "lyric_translation": "", "range": [22.02, 26.19], "ans": [5]},
+    {"lyric": "Tteoreojineun kkonipe eotteon nugudo",
+      "lyric_hangul": "떨어지는 꽃잎에 어떤 누구도",
+      "lyric_translation": "N/A",
+      "range": [12.19, 15.39], "ans": [10]},
+    {"lyric": "Ttaseuhan songil hanbeon juji ana",
+      "lyric_hangul": "따스한 손길 한번 주지 않아",
+      "lyric_translation": "",
+      "range": [15.39, 18.8], "ans": [10]},
+    {"lyric": "Areumdaweoseo deo apeun misoga",
+      "lyric_hangul": "아름다워서 더 아픈 미소가",
+      "lyric_translation": "",
+      "range": [18.8, 22.02], "ans": [5]},
+    {"lyric": "Seulpeumeul dameun maeum gataseo",
+      "lyric_hangul": "슬픔을 담은 마음 같아서",
+      "lyric_translation": "",
+      "range": [22.02, 26.19], "ans": [5]},
     "",
     {
       "lyric_hangul": "흩날린 날린 바람에 떠내려",
       "parts": [
-        {"lyric": "Heunnallin nallin", "range": [26.19, 29.46], "ans": [6]},
-        {"lyric": "Barame tteonaeryeo", "range": [28.76, 30.47], "ans": [7]}
+        {"lyric": "Heunnallin nallin",
+          "range": [26.19, 29.46], "ans": [6]},
+        {"lyric": "Barame tteonaeryeo",
+          "range": [28.76, 30.47], "ans": [7]}
       ]
     },
-    {"lyric": "Heunnallineun nan", "lyric_hangul": "흩날리는 난 떨어져 마음이", "lyric_translation": "", "range": [29.96, 33.26], "ans": [6]},
-    {"lyric": "Tteoreojyeo maeumi dadareun geugoseun naege deo", "lyric_hangul": "다다른 그곳은 내게 더", "lyric_translation": "", "range": [33.26, 37.25], "ans": [7]},
-    {"lyric": "Jigeumbodaneun ama ttatteuthaji aneulkka", "lyric_hangul": "지금보다는 아마 따뜻하지 않을까?", "lyric_translation": "", "range": [37.25, 40.73], "ans": [3]},
+    {"lyric": "Heunnallineun nan",
+      "lyric_hangul": "흩날리는 난 떨어져 마음이",
+      "lyric_translation": "",
+      "range": [29.96, 33.26], "ans": [6]},
+    {"lyric": "Tteoreojyeo maeumi dadareun geugoseun naege deo",
+      "lyric_hangul": "다다른 그곳은 내게 더",
+      "lyric_translation": "",
+      "range": [33.26, 37.25], "ans": [7]},
+    {"lyric": "Jigeumbodaneun ama ttatteuthaji aneulkka",
+      "lyric_hangul": "지금보다는 아마 따뜻하지 않을까?",
+      "lyric_translation": "",
+      "range": [37.25, 40.73], "ans": [3]},
     "",
     {
       "lyric_hangul": "계절의 거친 바람, 나뭇가지 위에 내 사랑",
       "parts": [
-        {"lyric": "Gyejeore geochin baram", "range": [40.73, 42.1], "ans": [1]},
-        {"lyric": "Namutgaji wie nae sarang", "range": [42.1, 44.05], "ans": [1]}
+        {"lyric": "Gyejeore geochin baram",
+          "range": [40.73, 42.1], "ans": [1]},
+        {"lyric": "Namutgaji wie nae sarang",
+          "range": [42.1, 44.05], "ans": [1]}
       ]
     },
     {
       "lyric_hangul": "모든 걸 버텨내고 너만을 위해 살아",
       "parts": [
-        {"lyric": "Modeun geol beotyeonaego", "range": [44.05, 45.31], "ans": [1]},
-        {"lyric": "Neomaneul wihae sara", "range": [45.31, 47.44], "ans": [1]}
+        {"lyric": "Modeun geol beotyeonaego",
+          "range": [44.05, 45.31], "ans": [1]},
+        {"lyric": "Neomaneul wihae sara",
+          "range": [45.31, 47.44], "ans": [1]}
       ]
     },
     "",
     {
       "lyric_hangul": "긴 시간 속에 널 그려오다, 나 너를 만나",
       "parts": [
-        {"lyric": "Gin shigan soge", "range": [47.44, 48.43], "ans": [5]},
-        {"lyric": "Neol geuryeooda na", "range": [47.73, 49.65], "ans": [13]},
-        {"lyric": "Neoreul manna", "range": [48.95, 49.78], "ans": [5]}
+        {"lyric": "Gin shigan soge",
+          "range": [47.44, 48.43], "ans": [5]},
+        {"lyric": "Neol geuryeooda na",
+          "range": [47.73, 49.65], "ans": [13]},
+        {"lyric": "Neoreul manna",
+          "range": [48.95, 49.78], "ans": [5]}
       ]
     },
     {
       "lyric_hangul": "이 세상은 내게 의미가 있단 사실을 알게 됐어",
       "parts": [
-        {"lyric": "I sesangeun naege", "range": [49.78, 51.23], "ans": [13]},
-        {"lyric": "Uimiga ittan", "range": [50.53, 51.81], "ans": [5]},
-        {"lyric": "Sashireul alge dwaesseo", "range": [51.11, 53.08], "ans": [13]}
+        {"lyric": "I sesangeun naege",
+          "range": [49.78, 51.23], "ans": [13]},
+        {"lyric": "Uimiga ittan",
+          "range": [50.53, 51.81], "ans": [5]},
+        {"lyric": "Sashireul alge dwaesseo",
+          "range": [51.11, 53.08], "ans": [13]}
       ]
     },
     "",
     {
       "lyric_hangul": "흩날리며 떨어져 너에게로, 지금 너무 보고 싶어",
       "parts": [
-        {"lyric": "Heunnallimyeo tteoreojyeo neoegero", "range": [53.08, 57.02], "ans": [8]},
-        {"lyric": "Jigeum neomu bogo shipeo", "range": [57.02, 60.08], "ans": [8]}
+        {"lyric": "Heunnallimyeo tteoreojyeo neoegero",
+          "range": [53.08, 57.02], "ans": [8]},
+        {"lyric": "Jigeum neomu bogo shipeo",
+          "range": [57.02, 60.08], "ans": [8]}
       ]
     },
-    {"lyric": "Eonjenga mannal geoya maeumsoge pieooreuneun", "lyric_hangul": "언젠가 만날 거야, 마음속에 피어오르는", "lyric_translation": "", "range": [60.08, 67.14], "ans": [8]},
-    {"lyric": "Naneun neomane kkot naneun neomane kkot", "lyric_hangul": "나는 너만의 꽃 (나는 너만의 꽃), 나는 너만의 꽃", "lyric_translation": "", "range": [67.14, 73.18], "ans": [3]},
+    {"lyric": "Eonjenga mannal geoya maeumsoge pieooreuneun",
+      "lyric_hangul": "언젠가 만날 거야, 마음속에 피어오르는",
+      "lyric_translation": "",
+      "range": [60.08, 67.14], "ans": [8]},
+    {"lyric": "Naneun neomane kkot naneun neomane kkot",
+      "lyric_hangul": "나는 너만의 꽃 (나는 너만의 꽃), 나는 너만의 꽃",
+      "lyric_translation": "",
+      "range": [67.14, 73.18], "ans": [3]},
     {
       "lyric_hangul": "아름다운 꽃을 피워 낼 수 있다고 믿고 있으니까",
       "parts": [
-        {"lyric": "Areumdaun kkocheul piweo nael su", "range": [73.18, 77.16], "ans": [3]},
-        {"lyric": "Ittago mitgo isseunikka", "range": [77.16, 81.26], "ans": [12]}
+        {"lyric": "Areumdaun kkocheul piweo nael su",
+          "range": [73.18, 77.16], "ans": [3]},
+        {"lyric": "Ittago mitgo isseunikka",
+          "range": [77.16, 81.26], "ans": [12]}
       ]
     },
     "",
     {
       "lyric_hangul": "Fallin', fallin', fallin', fallin', fallin', fallin', yeah",
       "parts": [
-        {"lyric": "Fallin’ Fallin’ Fallin’ Fallin’", "range": [81.26, 84.02], "ans": [12]},
-        {"lyric": "Fallin’ Fallin’ yeah", "range": [84.02, 86.93], "ans": [12]}
+        {"lyric": "Fallin’ Fallin’ Fallin’ Fallin’",
+          "range": [81.26, 84.02], "ans": [12]},
+        {"lyric": "Fallin’ Fallin’ yeah",
+          "range": [84.02, 86.93], "ans": [12]}
       ]
     },
     {
       "lyric_hangul": "너에게 지금 fallin', fallin', fallin', fallin', fallin', fallin', yeah",
       "parts": [
-        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’", "range": [86.93, 89.27], "ans": [4]},
-        {"lyric": "Fallin’ Fallin’ yeah", "range": [89.27, 94.04], "ans": [4]}
+        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’",
+          "range": [86.93, 89.27], "ans": [4]},
+        {"lyric": "Fallin’ Fallin’ yeah",
+          "range": [89.27, 94.04], "ans": [4]}
       ]
     },
-    {"lyric": "Naneun neomane kkot naneun neomane kkot", "lyric_hangul": "나는 너만의 꽃 (나는 너만의 꽃), 나는 너만의 꽃", "lyric_translation": "", "range": [94.04, 99.83], "ans": [2]},
+    {"lyric": "Naneun neomane kkot naneun neomane kkot",
+      "lyric_hangul": "나는 너만의 꽃 (나는 너만의 꽃), 나는 너만의 꽃",
+      "lyric_translation": "",
+      "range": [94.04, 99.83], "ans": [2]},
     {
       "lyric_hangul": "너에게 지금 fallin', fallin', fallin', fallin', fallin', fallin', yeah",
       "parts": [
-        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’", "range": [99.83, 102.8], "ans": [9]},
-        {"lyric": "Fallin’ Fallin’ yeah", "range": [102.8, 107.35], "ans": [9]}
+        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’",
+          "range": [99.83, 102.8], "ans": [9]},
+        {"lyric": "Fallin’ Fallin’ yeah",
+          "range": [102.8, 107.35], "ans": [9]}
       ]
     },
     "",
     "[next-col]",
-    {"lyric": "Nareul bulleojun neoege Fallin’", "lyric_hangul": "나를 불러준 너에게 fallin'", "lyric_translation": "", "range": [107.35, 110.45], "ans": [7]},
-    {"lyric": "Ttatteuthan maeum hanaro", "lyric_hangul": "따뜻한 마음 하나로", "lyric_translation": "", "range": [110.45, 113.75], "ans": [7]},
-    {"lyric": "Himihaetteon miraemajeo", "lyric_hangul": "희미했던 미래마저", "lyric_translation": "", "range": [113.75, 117.58], "ans": [11]},
-    {"lyric": "Shigani jinalsurok deouk tturyeothaejyeo", "lyric_hangul": "시간이 지날수록 더욱 뚜렷해져", "lyric_translation": "", "range": [117.58, 121.54], "ans": [11]},
+    {"lyric": "Nareul bulleojun neoege Fallin’",
+      "lyric_hangul": "나를 불러준 너에게 fallin'",
+      "lyric_translation": "",
+      "range": [107.35, 110.45], "ans": [7]},
+    {"lyric": "Ttatteuthan maeum hanaro",
+      "lyric_hangul": "따뜻한 마음 하나로",
+      "lyric_translation": "",
+      "range": [110.45, 113.75], "ans": [7]},
+    {"lyric": "Himihaetteon miraemajeo",
+      "lyric_hangul": "희미했던 미래마저",
+      "lyric_translation": "",
+      "range": [113.75, 117.58], "ans": [11]},
+    {"lyric": "Shigani jinalsurok deouk tturyeothaejyeo",
+      "lyric_hangul": "시간이 지날수록 더욱 뚜렷해져",
+      "lyric_translation": "",
+      "range": [117.58, 121.54], "ans": [11]},
     "",
     {
       "lyric_hangul": "흩날린 날린 바람에 떠내려",
       "parts": [
-        {"lyric": "Heunnallin nallin", "range": [121.54, 124.15], "ans": [2]},
-        {"lyric": "Barame tteonaeryeo", "range": [123.45, 125.12], "ans": [10]}
+        {"lyric": "Heunnallin nallin",
+          "range": [121.54, 124.15], "ans": [2]},
+        {"lyric": "Barame tteonaeryeo",
+          "range": [123.45, 125.12], "ans": [10]}
       ]
     },
-    {"lyric": "Heunnallineun nan", "lyric_hangul": "흩날리는 난 떨어진 마음이", "lyric_translation": "", "range": [124.99, 127.93], "ans": [2]},
-    {"lyric": "Tteoreojin maeumi dadareun geugoseun bunmyeonghi", "lyric_hangul": "다다른 그곳은 분명히", "lyric_translation": "", "range": [127.93, 131.84], "ans": [10]},
-    {"lyric": "Sesangeseo chwegoro haengbokhan goshirago", "lyric_hangul": "세상에서 최고로 행복한 곳이라고", "lyric_translation": "", "range": [131.84, 134.98], "ans": [11]},
+    {"lyric": "Heunnallineun nan",
+      "lyric_hangul": "흩날리는 난 떨어진 마음이",
+      "lyric_translation": "",
+      "range": [124.99, 127.93], "ans": [2]},
+    {"lyric": "Tteoreojin maeumi dadareun geugoseun bunmyeonghi",
+      "lyric_hangul": "다다른 그곳은 분명히",
+      "lyric_translation": "",
+      "range": [127.93, 131.84], "ans": [10]},
+    {"lyric": "Sesangeseo chwegoro haengbokhan goshirago",
+      "lyric_hangul": "세상에서 최고로 행복한 곳이라고",
+      "lyric_translation": "",
+      "range": [131.84, 134.98], "ans": [11]},
     "",
     {
       "lyric_hangul": "내 시선은 하늘 위로 다시 피어나 너에게로",
       "parts": [
-        {"lyric": "Nae shiseoneun haneul wiro", "range": [134.98, 136.56], "ans": [13]},
-        {"lyric": "Dashi pieona neoegero", "range": [136.56, 138.26], "ans": [13]}
+        {"lyric": "Nae shiseoneun haneul wiro",
+          "range": [134.98, 136.56], "ans": [13]},
+        {"lyric": "Dashi pieona neoegero",
+          "range": [136.56, 138.26], "ans": [13]}
       ]
     },
     {
       "lyric_hangul": "이 순간을 시작으로, 너의 전부가 되고 싶어",
       "parts": [
-        {"lyric": "I sunganeul shijageuro", "range": [137.93, 140.04], "ans": [13]},
-        {"lyric": "Neoye jeonbuga dwego shipeo", "range": [140.04, 141.63], "ans": [13]}
+        {"lyric": "I sunganeul shijageuro",
+          "range": [137.93, 140.04], "ans": [13]},
+        {"lyric": "Neoye jeonbuga dwego shipeo",
+          "range": [140.04, 141.63], "ans": [13]}
       ]
     },
     "",
-    {"lyric": "Oneulmaneul sarawasseotjiman na neoreul manna", "lyric_hangul": "오늘만을 살아왔었지만, 나 너를 만나", "lyric_translation": "", "range": [141.14, 144.71], "ans": [6]},
+    {"lyric": "Oneulmaneul sarawasseotjiman na neoreul manna",
+      "lyric_hangul": "오늘만을 살아왔었지만, 나 너를 만나",
+      "lyric_translation": "",
+      "range": [141.14, 144.71], "ans": [6]},
     {
       "lyric_hangul": "그래, 모든 것에는 의미가 있단 사실을 알게 됐어",
       "parts": [
-        {"lyric": "Geurae modeun geoseneun uimiga ittan", "range": [144.71, 146.09], "ans": [6]},
-        {"lyric": "Sashireul alge dwaesseo", "range": [146.09, 148.18], "ans": [6]}
+        {"lyric": "Geurae modeun geoseneun uimiga ittan",
+          "range": [144.71, 146.09], "ans": [6]},
+        {"lyric": "Sashireul alge dwaesseo",
+          "range": [146.09, 148.18], "ans": [6]}
       ]
     },
     "",
-    {"lyric": "Kkochi pigo jineun sai sangcheo natgo nega pieo", "lyric_hangul": "꽃이 피고 지는 사이 상처 낫고 네가 피어", "lyric_translation": "", "range": [148.18, 155.06], "ans": [5]},
+    {"lyric": "Kkochi pigo jineun sai sangcheo natgo nega pieo",
+      "lyric_hangul": "꽃이 피고 지는 사이 상처 낫고 네가 피어",
+      "lyric_translation": "",
+      "range": [148.18, 155.06], "ans": [5]},
     {
       "lyric_hangul": "우리는 처음이자 마지막인, 지금을 살고 있는 거야",
       "parts": [
-        {"lyric": "Urineun cheoeumija majimagin jigeumeul", "range": [155.06, 160.18], "ans": [12]},
-        {"lyric": "Salgo inneun geoya", "range": [160.18, 162.79], "ans": [12]}
+        {"lyric": "Urineun cheoeumija majimagin jigeumeul",
+          "range": [155.06, 160.18], "ans": [12]},
+        {"lyric": "Salgo inneun geoya",
+          "range": [160.18, 162.79], "ans": [12]}
       ]
     },
     {
       "lyric_hangul": "내 모든 걸 걸어, 널 당연하다 생각하지 않아",
       "parts": [
-        {"lyric": "Nae modeun geol georeo", "range": [162.79, 165.13], "ans": [6]},
-        {"lyric": "Neol dangyeonhada saenggakhaji ana", "range": [165.13, 170.07], "ans": [6]}
+        {"lyric": "Nae modeun geol georeo",
+          "range": [162.79, 165.13], "ans": [6]},
+        {"lyric": "Neol dangyeonhada saenggakhaji ana",
+          "range": [165.13, 170.07], "ans": [6]}
       ]
     },
-    {"lyric": "Ireon nareul jinshimeuro saranghae jweosseuni", "lyric_hangul": "이런 나를 진심으로 사랑해 줬으니", "lyric_translation": "", "range": [170.07, 175.42], "ans": [9]},
+    {"lyric": "Ireon nareul jinshimeuro saranghae jweosseuni",
+      "lyric_hangul": "이런 나를 진심으로 사랑해 줬으니",
+      "lyric_translation": "",
+      "range": [170.07, 175.42], "ans": [9]},
     "",
-    {"lyric": "Heunnallimyeo tteoreojyeo neoegero", "lyric_hangul": "흩날리며 떨어져 너에게로", "lyric_translation": "", "range": [175.42, 178.91], "ans": [4]},
+    {"lyric": "Heunnallimyeo tteoreojyeo neoegero",
+      "lyric_hangul": "흩날리며 떨어져 너에게로",
+      "lyric_translation": "",
+      "range": [175.42, 178.91], "ans": [4]},
     "",
     {
       "lyric_hangul": "지금 fallin', fallin', fallin', fallin', fallin', fallin', yeah",
       "parts": [
-        {"lyric": "Jigeum Fallin’ Fallin’ Fallin’ Fallin’", "range": [178.91, 179.75], "ans": [1]},
-        {"lyric": "Fallin’ Fallin’ yeah", "range": [179.75, 185.13], "ans": [1]}
+        {"lyric": "Jigeum Fallin’ Fallin’ Fallin’ Fallin’",
+          "range": [178.91, 179.75], "ans": [1]},
+        {"lyric": "Fallin’ Fallin’ yeah",
+          "range": [179.75, 185.13], "ans": [1]}
       ]
     },
     {
       "lyric_hangul": "너에게 지금 fallin', fallin', fallin', fallin', fallin', fallin', yeah",
       "parts": [
-        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’", "range": [185.13, 187.35], "ans": [8]},
-        {"lyric": "Fallin’ Fallin’ yeah", "range": [187.35, 192.42], "ans": [8]}
+        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’",
+          "range": [185.13, 187.35], "ans": [8]},
+        {"lyric": "Fallin’ Fallin’ yeah",
+          "range": [187.35, 192.42], "ans": [8]}
       ]
     },
-    {"lyric": "Naneun neomane kkot naneun neomane kkot", "lyric_hangul": "나는 너만의 꽃 (나는 너만의 꽃), 나는 너만의 꽃", "lyric_translation": "", "range": [192.42, 198.26], "ans": [2]},
+    {"lyric": "Naneun neomane kkot naneun neomane kkot",
+      "lyric_hangul": "나는 너만의 꽃 (나는 너만의 꽃), 나는 너만의 꽃",
+      "lyric_translation": "",
+      "range": [192.42, 198.26], "ans": [2]},
     {
       "lyric_hangul": "너에게 지금 fallin', fallin', fallin', fallin', fallin', fallin', yeah",
       "parts": [
-        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’", "range": [198.26, 200.92], "ans": [4]},
-        {"lyric": "Fallin’ Fallin’ yeah", "range": [200.92, 206.4], "ans": [4]}
+        {"lyric": "Neoege jigeum Fallin’ Fallin’ Fallin’ Fallin’",
+          "range": [198.26, 200.92], "ans": [4]},
+        {"lyric": "Fallin’ Fallin’ yeah",
+          "range": [200.92, 206.4], "ans": [4]}
       ]
     }
   ]
