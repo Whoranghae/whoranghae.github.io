@@ -1,0 +1,116 @@
+{
+  "name": "THANKS (고맙다)",
+  "ogg": "sound/kpop/thanks.ogg",
+  "id": "thanks",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2018-02-05",
+  "album": "DIRECTOR’S CUT",
+  "cover": "css/images/covers/thanks.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T04:03:33Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Nan geuraetteon geot gata nega eodi itteonji", "lyric_hangul": "난 그랬던 것 같아 네가 어디 있던지", "lyric_translation": "Wherever you were", "range": [11.87, 15.25], "ans": [3]},
+    {"lyric": "Deullil ttaeramyeon gomindo eopshi ttwieo gasseotteon", "lyric_hangul": "들릴 때라면 고민도 없이 뛰어 갔었던", "lyric_translation": "If I could hear you, I would run to you without second thoughts", "range": [15.25, 18.5], "ans": [3]},
+    {"lyric": "Geuttae geuttae", "lyric_hangul": "그때 그때", "lyric_translation": "Back then, back then", "range": [18.5, 24.23], "ans": [7]},
+    "",
+    {"lyric": "Eoryeotteon nae mameun jitgujeun jangnani dayeotna bwa", "lyric_hangul": "어렸던 내 맘은 짓궂은 장난이 다였나 봐", "lyric_translation": "My young heart was only so playful back then", "range": [24.23, 30.64], "ans": [2]},
+    {"lyric": "Utneun neoreul boneun nae gibuni mwonji", "lyric_hangul": "웃는 너를 보는 내 기분이 뭔지", "lyric_translation": "When I see you smile, I felt something", "range": [30.64, 33.96], "ans": [4]},
+    {"lyric": "Baeun jeok eopseoseo", "lyric_hangul": "배운 적 없어서", "lyric_translation": "Cause I never learned any of this", "range": [33.96, 37.5], "ans": [10]},
+    "",
+    {"lyric": "Pyohyeoneul mot haesseo nae mami seotulleoseo", "lyric_hangul": "표현을 못 했어 내 맘이 서툴러서", "lyric_translation": "I couldn’t express my feelings because I was too young", "range": [37.5, 40.88], "ans": [1]},
+    {"lyric": "Neoye naeiri doego shipeoseo oneureul sarawasseo", "lyric_hangul": "너의 내일이 되고 싶어서 오늘을 살아왔어", "lyric_translation": "I wanted to be your tomorrow so I lived today", "range": [40.88, 43.8], "ans": [6]},
+    {"lyric": "Neoreul cheoeum bon nal geuttaebuteo jigeumkkaji", "lyric_hangul": "너를 처음 본 날 그때부터 지금까지", "lyric_translation": "Ever since the first day I saw you until now", "range": [43.8, 46.99], "ans": [1, 6]},
+    {"lyric": "Nae mamsogeneun neoman isseo", "lyric_hangul": "내 맘속에는 너만 있어", "lyric_translation": "In my heart, it’s only you", "range": [46.99, 50.26], "ans": [11]},
+    "",
+    {"lyric": "Ppeonhadippeonhan i mareul naega", "lyric_hangul": "뻔하디뻔한 이 말을 내가", "lyric_translation": "These typical words", "range": [50.26, 53.04], "ans": [7]},
+    {"lyric": "Ijeseoya kkeonae bojiman", "lyric_hangul": "이제서야 꺼내 보지만", "lyric_translation": "I’m only saying them now", "range": [53.04, 55.99], "ans": [7]},
+    {"lyric": "Ppeonhadippeonhan i mari jeonhaeneun jilkkayo yeah", "lyric_hangul": "뻔하디뻔한 이 말이 전해는 질까요 yeah", "lyric_translation": "But I hope these typical words will reach you", "range": [55.99, 62.69], "ans": [11]},
+    "",
+    {"lyric": "Gomabda gomabda tto gomabda ppunijiman", "lyric_hangul": "고맙다 고맙다 또 고맙다 뿐이지만", "lyric_translation": "Thank you, thank you, that’s all I can say", "range": [62.69, 68.83], "ans": [8]},
+    {"lyric": "Gidarimkkaji geuriumkkaji", "lyric_hangul": "기다림까지 그리움까지", "lyric_translation": "Even all the waiting, the longing", "range": [68.83, 72.2], "ans": [2]},
+    {"lyric": "Uri chueokkkaji", "lyric_hangul": "우리 추억까지", "lyric_translation": "And all of our memories", "range": [72.2, 74.76], "ans": [2, 8]},
+    "",
+    {
+      "lyric_hangul": "고맙다 yeah",
+      "lyric_translation": "Thank you",
+      "parts": [
+        {"lyric": "Gomabda", "range": [74.76, 77.3], "ans": [3]},
+        {"lyric": "Yeah", "range": [77.3, 80.89], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "고맙다 yeah",
+      "lyric_translation": "Thank you",
+      "parts": [
+        {"lyric": "Gomabda", "range": [80.89, 83.81], "ans": [3]},
+        {"lyric": "Yeah", "range": [83.81, 88.88], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Neomu heunhan marira nae maeumi damgilkka", "lyric_hangul": "너무 흔한 말이라 내 마음이 담길까", "lyric_translation": "Because they’re such common words", "range": [88.88, 92.39], "ans": [13]},
+    {"lyric": "Geokjeongdwaeseo haji mothaetteon mal", "lyric_hangul": "걱정돼서 하지 못했던 말", "lyric_translation": "I was worried it wouldn’t sound sincere", "range": [92.39, 95.24], "ans": [13]},
+    {"lyric": "Gomabdaneun malboda yeppeun mareul chattaga", "lyric_hangul": "고맙다는 말보다 예쁜 말을 찾다가", "lyric_translation": "I was looking for something better than just thank you", "range": [95.24, 98.7], "ans": [4, 5]},
+    {"lyric": "Gomabdago haji mothaetteon na", "lyric_hangul": "고맙다고 하지 못했던 나", "lyric_translation": "So I couldn’t tell you thank you", "range": [98.7, 102.02], "ans": [4, 5]},
+    "",
+    {"lyric": "Pyohyeoneul mot haesseo", "lyric_hangul": "표현을 못 했어", "lyric_translation": "I couldn’t express my feelings", "range": [102.02, 103.49], "ans": [12]},
+    {"lyric": "Yonggiga bujokhaeseo", "lyric_hangul": "용기가 부족해서", "lyric_translation": "Because I wasn’t brave enough", "range": [103.49, 105.07], "ans": [12]},
+    {"lyric": "Sarangiran mareul jogeumirado iljjik arattamyeon", "lyric_hangul": "사랑이란 말을 조금이라도 일찍 알았다면", "lyric_translation": "If only I knew love a little earlier", "range": [105.07, 107.82], "ans": [9]},
+    {"lyric": "Neoreul cheoeum bon nal geuttaebuteo jigeumkkaji", "lyric_hangul": "너를 처음 본 날 그때부터 지금까지", "lyric_translation": "Ever since the first day I saw you until now", "range": [107.82, 110.9], "ans": [9, 12]},
+    {"lyric": "Nae mamsogeneun neoman isseo", "lyric_hangul": "내 맘속에는 너만 있어", "lyric_translation": "In my heart, it’s only you", "range": [110.9, 114.23], "ans": [8]},
+    "",
+    "[next-col]",
+    {"lyric": "Ppeonhadippeonhan i mareul naega", "lyric_hangul": "뻔하디뻔한 이 말을 내가", "lyric_translation": "These typical words", "range": [114.23, 117.15], "ans": [7]},
+    {"lyric": "Ijeseoya kkeonae bojiman", "lyric_hangul": "이제서야 꺼내 보지만", "lyric_translation": "I’m only saying them now", "range": [117.15, 120.0], "ans": [7]},
+    {"lyric": "Ppeonhadippeonhan i mari jeonhaeneun jilkkayo yeah", "lyric_hangul": "뻔하디뻔한 이 말이 전해는 질까요 yeah", "lyric_translation": "But I hope these typical words will reach you", "range": [120.0, 126.52], "ans": [11]},
+    "",
+    {"lyric": "Gomabda gomabda tto gomabda ppunijiman", "lyric_hangul": "고맙다 고맙다 또 고맙다 뿐이지만", "lyric_translation": "Thank you, thank you, that’s all I can say", "range": [126.52, 132.82], "ans": [8]},
+    {"lyric": "Gidarimkkaji sarangi mwonji", "lyric_hangul": "기다림까지 사랑이 뭔지", "lyric_translation": "How to wait and what love is", "range": [132.82, 136.05], "ans": [5]},
+    {"lyric": "Allyeojun neoege", "lyric_hangul": "알려준 너에게", "lyric_translation": "You taught me all", "range": [136.05, 138.82], "ans": [5, 8]},
+    "",
+    {
+      "lyric_hangul": "고맙다 yeah",
+      "lyric_translation": "Thank you",
+      "parts": [
+        {"lyric": "Gomabda", "range": [138.82, 141.4], "ans": [10]},
+        {"lyric": "Yeah", "range": [141.4, 145.06], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "고맙다 yeah",
+      "lyric_translation": "Thank you",
+      "parts": [
+        {"lyric": "Gomabda", "range": [145.06, 147.8], "ans": [10]},
+        {"lyric": "Yeah", "range": [147.8, 152.7], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Nae mam byeonhaji ana jeoldae byeonhaji ana", "lyric_hangul": "내 맘 변하지 않아 절대 변하지 않아", "lyric_translation": "My heart won’t change, it won’t ever change", "range": [152.7, 155.99], "ans": [1]},
+    {"lyric": "Nega nareul jiunda haedo", "lyric_hangul": "네가 나를 지운다 해도", "lyric_translation": "Even if you erase me", "range": [155.99, 159.08], "ans": [1]},
+    {"lyric": "Urin byeonhaji ana", "lyric_hangul": "우린 변하지 않아", "lyric_translation": "We won’t change", "range": [159.08, 160.88], "ans": [3]},
+    {
+      "lyric_hangul": "서로에 맘에 새겨져 있으니까",
+      "lyric_translation": "Because we’re engraved in each other’s hearts / (Engraved)",
+      "parts": [
+        {"lyric": "Seoroe mame saegyeojyeo isseunikka", "range": [160.88, 163.9], "ans": [3]},
+        {"lyric": "(saegyeojyeo isseunikka)", "range": [163.04, 165.89], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Gomabda yeah", "lyric_hangul": "고맙다 yeah", "lyric_translation": "Thank you", "range": [167.65, 174.04], "ans": [8]},
+    {"lyric": "Gomabda yeah", "lyric_hangul": "고맙다 yeah", "lyric_translation": "Thank you", "range": [174.04, 181.04], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "너에게 너에게 전해졌음 해 이 노래가 고맙다 고맙다",
+      "lyric_translation": "I hope this reaches you, this song / Thank you / Thank you",
+      "parts": [
+        {"lyric": "Neoege neoege jeonhaejyeosseum hae i noraega", "range": [181.04, 187.48], "ans": [11]},
+        {"lyric": "Gomabda", "range": [193.14, 195.64], "ans": [7]},
+        {"lyric": "Gomabda", "range": [199.64, 203.86], "ans": [6]}
+      ]
+    },
+    ""
+  ]
+}

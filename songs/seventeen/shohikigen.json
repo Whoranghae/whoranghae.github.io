@@ -1,0 +1,72 @@
+{
+  "name": "Shohikigen",
+  "ogg": "sound/kpop/shohikigen.ogg",
+  "id": "shohikigen",
+  "group": "seventeen",
+  "language": "ja",
+  "released": "2024-11-11",
+  "album": "Shohikigen (消費期限)",
+  "cover": "css/images/covers/shohikigen.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-24T02:15:54Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Hi ga kure tobotobo kurai ie ni tsuita", "lyric_hangul": "日が暮れとぼとぼ 暗い家に着いた", "lyric_translation": "N/A", "range": [15.16, 22.6], "ans": [6]},
+    {"lyric": "Kimi wa inai yo demo nazeka atatakai", "lyric_hangul": "君はいないよ でもなぜか暖かい", "lyric_translation": "", "range": [22.6, 30.49], "ans": [6]},
+    "",
+    {"lyric": "“tadaima” toka “itadakimasu” toka", "lyric_hangul": "「ただいま」とか「いただきます」とか", "lyric_translation": "", "range": [30.49, 37.09], "ans": [13]},
+    {"lyric": "Hitori de iu no mo kimi no sei de heiki", "lyric_hangul": "ひとりで言うのも 君のせいで平気", "lyric_translation": "", "range": [37.09, 44.18], "ans": [13]},
+    "",
+    {"lyric": "Reizoko ake sukoshi nokotteta MILK", "lyric_hangul": "冷蔵庫開け 少し残ってた milk", "lyric_translation": "", "range": [44.18, 50.99], "ans": [5]},
+    {"lyric": "Nomou to shita toki futo kou omotta nda", "lyric_hangul": "飲もうとした時 ふとこう思ったんだ", "lyric_translation": "", "range": [50.99, 58.54], "ans": [5]},
+    "",
+    {"lyric": "Kanjou no shouhikigen itsu made darou?", "lyric_hangul": "感情の消費期限 いつまでだろう？", "lyric_translation": "", "range": [58.54, 65.34], "ans": [7]},
+    {"lyric": "Zutto kono kanjou no mama de itai", "lyric_hangul": "ずっとこの感情のままでいたい", "lyric_translation": "", "range": [65.34, 72.84], "ans": [7]},
+    "",
+    {"lyric": "Koko ni iru yo boku wa kawaranai kokoro de", "lyric_hangul": "ここにいるよ 僕は 変わらない心で", "lyric_translation": "", "range": [73.85, 80.55], "ans": [9]},
+    {
+      "lyric_hangul": "ここにいるよ 僕は ここに",
+      "parts": [
+        {"lyric": "Koko ni iru yo boku wa koko ni", "range": [81.19, 83.16], "ans": [9]},
+        {"lyric": "(a aiyaiya a aiyaiya aiyaiya aide)", "range": [82.46, 86.24], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Ikutsu mo no kako to mirai", "lyric_hangul": "いくつもの過去と未来", "lyric_translation": "", "range": [86.24, 89.92], "ans": [12]},
+    {"lyric": "Mienakute mo daijoubu sa", "lyric_hangul": "見えなくても大丈夫さ", "lyric_translation": "", "range": [89.92, 93.57], "ans": [12]},
+    {"lyric": "Donna hi demo mitsumeatte", "lyric_hangul": "どんな日でも 見つめあって", "lyric_translation": "", "range": [93.57, 97.13], "ans": [1]},
+    {"lyric": "Warau koto ga dekiru nara", "lyric_hangul": "笑うことができるなら", "lyric_translation": "", "range": [97.13, 101.03], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Totsuzen furidashita ame ni nureta kimi wo ryoute de", "lyric_hangul": "突然降り出した雨に 濡れた君を両手で", "lyric_translation": "", "range": [101.03, 108.34], "ans": [3]},
+    {"lyric": "Dakishimete ageru boku nara dekiru kara", "lyric_hangul": "抱きしめてあげる 僕ならできるから", "lyric_translation": "", "range": [108.34, 115.46], "ans": [3]},
+    "",
+    {"lyric": "Kanjou no shouhikigen itsu made darou?", "lyric_hangul": "感情の消費期限 いつまでだろう？", "lyric_translation": "", "range": [115.46, 122.38], "ans": [11]},
+    {"lyric": "Zutto kono kanjou no mama de itai", "lyric_hangul": "ずっとこの感情のままでいたい", "lyric_translation": "", "range": [122.38, 129.8], "ans": [11]},
+    "",
+    {"lyric": "Koko ni iru yo boku wa kawaranai kokoro de", "lyric_hangul": "ここにいるよ 僕は 変わらない心で", "lyric_translation": "", "range": [130.69, 137.63], "ans": [10]},
+    {
+      "lyric_hangul": "ここにいるよ 僕は ここに",
+      "parts": [
+        {"lyric": "Koko ni iru yo boku wa koko ni", "range": [137.63, 140.02], "ans": [10]},
+        {"lyric": "(a aiyaiya a aiyaiya aiyaiya aide)", "range": [139.32, 143.53], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Kimi e no omoi kimi e no kanjou ni wa", "lyric_hangul": "君への想い 君への感情には", "lyric_translation": "", "range": [143.53, 151.58], "ans": [2]},
+    {"lyric": "Shouhikigen nante nai itsu made mo kawaranai", "lyric_hangul": "消費期限なんてない いつまでも変わらない", "lyric_translation": "", "range": [151.58, 157.88], "ans": [2]},
+    "",
+    {"lyric": "Kanjou ni shouhikigen ga aru no nara", "lyric_hangul": "感情に消費期限があるのなら", "lyric_translation": "", "range": [157.88, 164.9], "ans": [8]},
+    {"lyric": "Ikite yuku imi nado boku ni wa nai", "lyric_hangul": "生きてゆく意味など 僕にはない", "lyric_translation": "", "range": [164.9, 172.31], "ans": [8]},
+    "",
+    {"lyric": "Koko ni iru yo boku wa kawaranai kokoro de", "lyric_hangul": "ここにいるよ 僕は 変わらない心で", "lyric_translation": "", "range": [173.37, 180.13], "ans": [4]},
+    {
+      "lyric_hangul": "ここにいるよ 僕は ここに",
+      "parts": [
+        {"lyric": "Koko ni iru yo boku wa koko ni", "range": [180.13, 182.0], "ans": [4]},
+        {"lyric": "(a aiyaiya a aiyaiya aiyaiya aide)", "range": [181.3, 187.49], "ans": []}
+      ]
+    }
+  ]
+}

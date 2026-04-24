@@ -1,0 +1,257 @@
+{
+  "name": "HOT",
+  "ogg": "sound/kpop/hot.ogg",
+  "id": "hot",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2022-05-27",
+  "album": "Face the Sun",
+  "cover": "css/images/covers/hot.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T02:46:44Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "모두 우릴 쳐다봐 (봐)",
+      "lyric_translation": "All eyes on us (us)",
+      "parts": [
+        {"lyric": "Modu uril chyeodabwa", "range": [4.33, 6.09], "ans": [9]},
+        {"lyric": "(bwa)", "range": [5.39, 6.68], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "태양 위를 달리는 마차 (계속 달려 oh)",
+      "lyric_translation": "Chariot riding across the sun (Keep riding uh)",
+      "parts": [
+        {"lyric": "Taeyang wireul dallineun macha", "range": [6.68, 8.2], "ans": [9]},
+        {"lyric": "(gyesok dallyeo Uh)", "range": [7.5, 10.05], "ans": [12]}
+      ]
+    },
+    {"lyric": "Juicy Juicy Juicy Juicy", "lyric_hangul": "Uh, juicy, juicy, uh, juicy, juicy", "lyric_translation": "Juicy juicy juicy juicy", "range": [10.05, 13.13], "ans": [10]},
+    "",
+    {
+      "lyric_hangul": "총성이 울려 퍼진 다음 (spicy 한 feelin')",
+      "lyric_translation": "When the gunshot’s all done ringin’ (That spicy feelin’)",
+      "parts": [
+        {"lyric": "Chongseongi ullyeo peojin daeum", "range": [13.13, 15.07], "ans": [12]},
+        {"lyric": "(Spicyhan Feelin’)", "range": [14.57, 15.12], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "태양을 마음에다 쏴 (I just wanna do this)",
+      "lyric_translation": "Aim and shoot the sun at your heart (I just wanna do this)",
+      "parts": [
+        {"lyric": "Taeyangeul maeumeda sswa", "range": [15.12, 16.89], "ans": [12]},
+        {"lyric": "(I just wanna do this)", "range": [16.19, 17.95], "ans": [9]}
+      ]
+    },
+    {"lyric": "Juicy Juicy", "lyric_hangul": "Uh, juicy, juicy", "lyric_translation": "Juicy juicy", "range": [17.95, 23.73], "ans": [10]},
+    "",
+    {"lyric": "Eumak sori keuge Turn up", "lyric_hangul": "음악 소리 크게 turn up (ooh, ooh)", "lyric_translation": "Turn up the music", "range": [23.73, 25.46], "ans": [7]},
+    {"lyric": "Sesangeul sajeongeopshi dallyeo", "lyric_hangul": "세상을 사정없이 달려 (ooh, ooh)", "lyric_translation": "Run across the world all fierce", "range": [25.46, 27.2], "ans": [7]},
+    {
+      "lyric_hangul": "태양을 뒤에 달고 밟아 경적 울려, 우리답게 fire (우리답게)",
+      "lyric_translation": "Sun in tow, step on it / Honk the horn, we be us and fire (we be us)",
+      "parts": [
+        {"lyric": "Taeyangeul dwie dalgo balba", "range": [27.2, 29.18], "ans": [7]},
+        {"lyric": "Gyeongjeok ullyeo uridabge Fire (uridabge)", "range": [29.18, 32.01], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "뭘 따라가려 해? (뭘 따라가려 해?)",
+      "lyric_translation": "No need to imitate",
+      "parts": [
+        {"lyric": "Mweol ttaragaryeo hae", "range": [32.01, 33.72], "ans": [6]},
+        {"lyric": "(mweol ttaragaryeo hae)", "range": [33.02, 34.17], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "우리 방식대로 더 더 (우리 방식대로 더 더)",
+      "lyric_translation": "More, more like how we do it / Say ah, HOT HOT HOT",
+      "parts": [
+        {"lyric": "Uri bangshikdaero deo deo", "range": [34.14, 35.47], "ans": [6]},
+        {"lyric": "(uri bangshikdaero deo deo)", "range": [34.77, 35.76], "ans": [4]},
+        {"lyric": "Say ah tteugeoweo tteugeoweo tteugeoweo", "range": [35.76, 36.55], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Bami eomneun nat haneureun bulgeunsaek", "lyric_hangul": "밤이 없는 낮 하늘은 붉은색", "lyric_translation": "No night just day, the sky scorched red", "range": [40.54, 44.68], "ans": [8]},
+    {
+      "lyric_hangul": "모든 세상에 빛은 하나인 듯해 (하나 된 듯이)",
+      "lyric_translation": "Like the world’s in monochrome (like it’s become one tone)",
+      "parts": [
+        {"lyric": "Modeun sesange bicheun hanain deuthae", "range": [44.68, 49.58], "ans": [8]},
+        {"lyric": "(hana dwen deushi)", "range": [48.88, 50.27], "ans": []}
+      ]
+    },
+    {"lyric": "Beokchan shimhoheubgwa rideum gwayeol Vibe", "lyric_hangul": "벅찬 심호흡과 리듬 과열 vibe", "lyric_translation": "Deep overwhelming breaths and superheated rhythm vibe", "range": [49.34, 53.91], "ans": [3]},
+    {
+      "lyric_hangul": "운명의 태양에 내일을 걸어봐 (따라오라 go)",
+      "lyric_translation": "Wager my road on the sun of fate / Follow me, go",
+      "parts": [
+        {"lyric": "Unmyeonge taeyange naeireul georeobwa", "range": [53.91, 56.57], "ans": [3]},
+        {"lyric": "Ttaraora Go", "range": [55.87, 57.39], "ans": [13]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리는 drop it like hot, hot, hot (oh, 지금 feelin' so hot)",
+      "lyric_translation": "We drop it like HOT HOT HOT / (Oh we feelin’ so HOT)",
+      "parts": [
+        {"lyric": "Urineun Drop it like HOT HOT HOT", "range": [57.39, 61.04], "ans": [1]},
+        {"lyric": "(Oh jigeum Feelin’ so HOT)", "range": [60.34, 62.1], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 노래 burnin' like hot, hot, hot, hot (boom-brr-boom-boom)",
+      "lyric_translation": "This song’s burnin like HOT HOT HOT HOT / (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "I norae Burnin’ like HOT HOT HOT HOT", "range": [61.67, 63.18], "ans": [1]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [62.48, 66.38], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우리는 drop it like hot, hot, hot (oh, 지금 feelin' so hot)",
+      "lyric_translation": "We drop it like HOT HOT HOT / (Oh we feelin’ so HOT)",
+      "parts": [
+        {"lyric": "Urineun Drop it like HOT HOT HOT", "range": [66.38, 69.78], "ans": [2]},
+        {"lyric": "(Oh jigeum Feelin’ so HOT)", "range": [69.08, 70.64], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I'm runnin' too hot, hot, hot, hot (boom-brr-boom-boom)",
+      "lyric_translation": "Yeah I’m runnin’ too HOT HOT HOT HOT / (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "Yeah I’m runnin’ too HOT HOT HOT HOT", "range": [70.25, 73.7], "ans": [2]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [73.7, 74.67], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Taeyangeul hyanghae bulbutchyeora", "lyric_hangul": "태양을 향해 불붙여라", "lyric_translation": "Face the sun, set it on fire", "range": [74.55, 79.59], "ans": [5]},
+    {
+      "lyric_hangul": "아주 뜨겁게 (boom-brr-boom-boom)",
+      "lyric_translation": "So HOT (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "Aju tteugeobge", "range": [79.59, 82.05], "ans": [5]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [82.05, 83.68], "ans": []}
+      ]
+    },
+    {"lyric": "Taeyangeul hyanghae bulbutchyeora", "lyric_hangul": "태양을 향해 불붙여라", "lyric_translation": "Face the sun, set it on fire", "range": [83.33, 87.37], "ans": [11]},
+    {"lyric": "Tteugeoweo i norae Everybody ttechang", "lyric_hangul": "뜨거워 이 노래 everybody 떼창", "lyric_translation": "This song’s sizzlin’, everybody join in", "range": [87.37, 92.8], "ans": [11]},
+    "",
+    {"lyric": "Ay napareul bureora samage", "lyric_hangul": "Ayy, 나팔을 불어라", "lyric_translation": "Ay, blow the horn", "range": [92.8, 94.46], "ans": [6]},
+    {"lyric": "Pado sairo Drive away", "lyric_hangul": "사막의 파도 사이로 drive away", "lyric_translation": "Drive away through the desert waves", "range": [94.46, 96.93], "ans": [6]},
+    {"lyric": "I don’t want uh one more chance", "lyric_hangul": "Ayy, I don't want, uh, one more chance", "lyric_translation": "I don’t want uh one more chance", "range": [96.93, 98.56], "ans": [6]},
+    {"lyric": "I sungane modeun geol georeullae", "lyric_hangul": "이 순간에 모든 걸 걸을래", "lyric_translation": "This moment, I’m goin’ all in", "range": [98.56, 101.15], "ans": [6]},
+    "",
+    "[next-col]",
+    {"lyric": "Taeyangeul hyanghae deungjigo itteon", "lyric_hangul": "태양을 향해 등지고 있던", "lyric_translation": "Shadow cast with my back to the sun", "range": [101.15, 103.21], "ans": [7]},
+    {"lyric": "Nae geurimjaneun dashi bichi dwae", "lyric_hangul": "내 그림자는 다시 빛이 돼", "lyric_translation": "Turns to light again", "range": [103.21, 105.68], "ans": [7]},
+    {"lyric": "Yeah gaseumeul tteugeobge", "lyric_hangul": "Yeah, 가슴을 뜨겁게", "lyric_translation": "Yeah, heart set on fire", "range": [105.68, 107.47], "ans": [1]},
+    {"lyric": "Geojitmal eopseo urin hwakshilhae", "lyric_hangul": "거짓말 없어 우린 확실해", "lyric_translation": "No lie, we sure", "range": [107.47, 110.01], "ans": [1]},
+    "",
+    {"lyric": "Teojil geotman gata I can’t breathe", "lyric_hangul": "터질 것만 같아 I can't breathe", "lyric_translation": "About to burst, I can’t breathe", "range": [110.01, 114.64], "ans": [5]},
+    {"lyric": "Tteugeoun shimjangi (mareul an deureo)", "lyric_hangul": "뜨거운 심장이 (말을 안 들어)", "lyric_translation": "My burning heart (won’t listen to me)", "range": [114.64, 117.96], "ans": [5]},
+    {"lyric": "Beokchan shimhoheubgwa rideum gwayeol Vibe", "lyric_hangul": "벅찬 심호흡과 리듬 과열 vibe", "lyric_translation": "Deep overwhelming breaths and superheated rhythm vibe", "range": [117.96, 122.48], "ans": [4]},
+    {
+      "lyric_hangul": "Ayy, you know what to do, hey, you know what to do",
+      "lyric_translation": "You know what to do / Hey you know what to do",
+      "parts": [
+        {"lyric": "You know what to do", "range": [122.48, 123.52], "ans": [13]},
+        {"lyric": "Hey you know what to do", "range": [123.52, 126.46], "ans": [13]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리는 drop it like hot, hot, hot (oh, 지금 feelin' so hot)",
+      "lyric_translation": "We drop it like HOT HOT HOT / (Oh we feelin’ so HOT)",
+      "parts": [
+        {"lyric": "Urineun Drop it like HOT HOT HOT", "range": [126.46, 129.69], "ans": [10]},
+        {"lyric": "(Oh jigeum Feelin’ so HOT)", "range": [128.99, 130.68], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 노래 burnin' like hot, hot, hot, hot (boom-brr-boom-boom)",
+      "lyric_translation": "This song’s burnin like HOT HOT HOT HOT / (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "I norae Burnin’ like HOT HOT HOT HOT", "range": [130.68, 131.71], "ans": [10]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [131.01, 135.03], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우리는 drop it like hot, hot, hot (oh, 지금 feelin' so hot)",
+      "lyric_translation": "We drop it like HOT HOT HOT / (Oh we feelin’ so HOT)",
+      "parts": [
+        {"lyric": "Urineun Drop it like HOT HOT HOT", "range": [135.03, 138.25], "ans": [12]},
+        {"lyric": "(Oh jigeum Feelin’ so HOT)", "range": [137.55, 139.38], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I'm runnin' too hot, hot, hot, hot (boom-brr-boom-boom)",
+      "lyric_translation": "Yeah I’m runnin’ too HOT HOT HOT HOT / (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "Yeah I’m runnin’ too HOT HOT HOT HOT", "range": [139.38, 142.68], "ans": [12]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [141.98, 143.69], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Gipeun supeul hechigoseo dallyeo", "lyric_hangul": "깊은 숲을 헤치고서 달려", "lyric_translation": "Run through the thick forest", "range": [143.69, 147.68], "ans": [2]},
+    {"lyric": "Gipeun bada wie taeyangiyeo", "lyric_hangul": "깊은 바다 위에 태양이여", "lyric_translation": "Oh, sun atop the deep ocean", "range": [147.68, 151.53], "ans": [2]},
+    {"lyric": "Urin Through the fire hangyereul dashi neomeo", "lyric_hangul": "우린 through the fire 한계를 다시 넘어", "lyric_translation": "We’ll go through the fire, jump the limit once more", "range": [151.53, 155.41], "ans": [11]},
+    {
+      "lyric_hangul": "어느새 우린 높이 올라가서 태양이 되어버릴 거야 aw!",
+      "lyric_translation": "We’ll rise high all of a sudden / And become the sun, aw!",
+      "parts": [
+        {"lyric": "Eoneusae urin nopi ollagaseo", "range": [155.41, 159.19], "ans": [8]},
+        {"lyric": "Taeyangi dweeobeoril geoya Aw!", "range": [159.19, 162.37], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리는 drop it like hot, hot, hot (oh, 지금 feelin' so hot)",
+      "lyric_translation": "We drop it like HOT HOT HOT / (Oh we feelin’ so HOT)",
+      "parts": [
+        {"lyric": "Urineun Drop it like HOT HOT HOT", "range": [161.42, 163.76], "ans": [9]},
+        {"lyric": "(Oh jigeum Feelin’ so HOT)", "range": [163.06, 165.07], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 노래 burnin' like hot, hot, hot, hot (boom-brr-boom-boom)",
+      "lyric_translation": "This song’s burnin like HOT HOT HOT HOT / (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "I norae Burnin’ like HOT HOT HOT HOT", "range": [165.07, 165.98], "ans": [9]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [165.28, 169.55], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우리는 drop it like hot, hot, hot (oh, 지금 feelin' so hot)",
+      "lyric_translation": "We drop it like HOT HOT HOT / (Oh we feelin’ so HOT)",
+      "parts": [
+        {"lyric": "Urineun Drop it like HOT HOT HOT", "range": [169.55, 172.55], "ans": [3]},
+        {"lyric": "(Oh jigeum Feelin’ so HOT)", "range": [171.85, 173.51], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I'm runnin' too hot, hot, hot, hot (boom-brr-boom-boom)",
+      "lyric_translation": "Yeah I’m runnin’ too HOT HOT HOT HOT / (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "Yeah I’m runnin’ too HOT HOT HOT HOT", "range": [173.5, 177.03], "ans": [3]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [176.33, 177.99], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Taeyangeul hyanghae bulbutchyeora", "lyric_hangul": "태양을 향해 불붙여라", "lyric_translation": "Face the sun, set it on fire", "range": [177.99, 182.42], "ans": [13]},
+    {
+      "lyric_hangul": "아주 뜨겁게 (boom-brr-boom-boom)",
+      "lyric_translation": "So HOT (Boom brr boom boom)",
+      "parts": [
+        {"lyric": "Aju tteugeobge", "range": [182.42, 184.88], "ans": [13]},
+        {"lyric": "(Boom Brr Boom Boom)", "range": [184.88, 186.49], "ans": []}
+      ]
+    },
+    {"lyric": "Taeyangeul hyanghae bulbutchyeora", "lyric_hangul": "태양을 향해 불붙여라", "lyric_translation": "Face the sun, set it on fire", "range": [186.49, 190.96], "ans": [12]},
+    {"lyric": "Tteugeoweo i norae Everybody ttechang", "lyric_hangul": "뜨거워 이 노래 everybody 떼창", "lyric_translation": "This song’s sizzlin’, everybody join in", "range": [190.96, 197.18], "ans": [12]}
+  ]
+}

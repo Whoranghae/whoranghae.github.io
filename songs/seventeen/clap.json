@@ -1,0 +1,265 @@
+{
+  "name": "CLAP (박수)",
+  "ogg": "sound/kpop/clap.ogg",
+  "id": "clap",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2017-11-06",
+  "album": "TEEN, AGE",
+  "cover": "css/images/covers/clap.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T04:03:32Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Baksu SEVENTEEN right here", "lyric_hangul": "박수 SEVENTEEN right here", "lyric_translation": "Clap SEVENTEEN right here", "range": [43.8, 50.06], "ans": [1]},
+    "",
+    {"lyric": "Gwaenchana gwaenchana ireon ildeul manjana", "lyric_hangul": "괜찮아, 괜찮아, 이런 일들 많잖아", "lyric_translation": "It’s alright, it’s alright, these things happen", "range": [50.06, 54.28], "ans": [3]},
+    {
+      "lyric_hangul": "꼬일 대로 꼬인 일들 주머니 earphone 인줄",
+      "lyric_translation": "Things get all tangled up / Like earphones in your pocket",
+      "parts": [
+        {"lyric": "Kkoil daero kkoin ildeul", "range": [54.28, 57.66], "ans": [5]},
+        {"lyric": "Jumeoni earphoneinjul", "range": [57.14, 58.89], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Yeah, 흰 티에 뭐 묻을 때 (그 담에)",
+      "lyric_translation": "Like when something stains your white shirt (and then)",
+      "parts": [
+        {"lyric": "Hin tie mwo mudeul ttae", "range": [58.89, 61.47], "ans": [9]},
+        {"lyric": "(geu dame)", "range": [60.77, 61.86], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "교통카드 잔고가 없을 때 (이럴 때)",
+      "lyric_translation": "When you have no money on your metro card (these times)",
+      "parts": [
+        {"lyric": "Gyotongkadeu jangoga eopseul ttae", "range": [61.28, 63.89], "ans": [9]},
+        {"lyric": "(ireol ttae)", "range": [63.19, 64.16], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, 꼭 이런 날에만 집 가기 전에 비 맞지",
+      "lyric_translation": "Always on days like this / It starts to rain before you go home",
+      "parts": [
+        {"lyric": "Yeah kkok ireon nareman", "range": [64.16, 66.62], "ans": [9]},
+        {"lyric": "Jib gagi jeone bi majji", "range": [66.62, 69.05], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Wae nahanteman ireona shipgo", "lyric_hangul": "왜 나한테만 이러나 싶고?", "lyric_translation": "Why does this only happen to me?", "range": [69.05, 71.16], "ans": [8]},
+    {"lyric": "Nun kkamppakhamyeon jumareun gago", "lyric_hangul": "눈 깜빡하면 주말은 가고", "lyric_translation": "Weekends disappear at the blink of an eye", "range": [71.16, 73.45], "ans": [8]},
+    {"lyric": "Igeo waenji nada shipeumyeon", "lyric_hangul": "이거 왠지 나다 싶으면", "lyric_translation": "If you think this is you", "range": [73.45, 76.36], "ans": [8]},
+    {"lyric": "Iriiriiri moyeo da", "lyric_hangul": "이리이리이리 모여 다", "lyric_translation": "Come gather here", "range": [76.36, 78.44], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "(얘들아) 지금부터",
+      "lyric_translation": "(Guys) from now on",
+      "parts": [
+        {"lyric": "(yaedeura)", "range": [78.44, 78.94], "ans": []},
+        {"lyric": "Jigeumbuteo", "range": [79.3, 81.26], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "손에 불 날 때까지, 박수, 짝짝짝짝",
+      "lyric_translation": "Clap till your hands are on fire / Clap clap clap clap",
+      "parts": [
+        {"lyric": "Sone bul nal ttaekkaji baksu", "range": [81.26, 84.52], "ans": [5]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [83.82, 85.82], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이때다 싶으면 쳐, 박수, 짝짝짝짝",
+      "lyric_translation": "When the time is right, clap your hands / Clap clap clap clap",
+      "parts": [
+        {"lyric": "Ittaeda shipeumyeon chyeo baksu", "range": [85.82, 89.31], "ans": [9]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [88.61, 90.36], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "저기 저기 이리 오지, 우리끼리 신이 나지",
+      "lyric_translation": "Over there, come here / Let’s have fun",
+      "parts": [
+        {"lyric": "Jeogi jeogi iri oji", "range": [90.36, 92.63], "ans": [4]},
+        {"lyric": "Urikkiri shini naji", "range": [92.63, 95.21], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 노래 끝까지 쳐, 박수, 짝짝짝짝",
+      "lyric_translation": "Till the song is over, clap your hands / Clap clap clap clap",
+      "parts": [
+        {"lyric": "I norae kkeutkkaji chyeo baksu", "range": [95.21, 98.94], "ans": [6]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [98.24, 100.29], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [100.29, 100.94], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [100.94, 102.7], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [102.7, 103.36], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [103.36, 104.7], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "어차피 해도 해도 안돼 쟤도 걔도 얘도",
+      "lyric_translation": "You can try but it won’t work / Not for you or you or you",
+      "parts": [
+        {"lyric": "Eochapi haedo haedo andwae", "range": [104.7, 106.14], "ans": [1]},
+        {"lyric": "Jyaedo gyaedo yaedo", "range": [106.14, 107.18], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "안 되면은 아무 말도 되지 않는 주문이라도",
+      "lyric_translation": "If it doesn’t work / Then just try saying something like casting a spell",
+      "parts": [
+        {"lyric": "An doemyeoneun amu maldo", "range": [107.18, 108.24], "ans": [1]},
+        {"lyric": "Doeji anneun jumunirado", "range": [108.24, 109.54], "ans": [1]}
+      ]
+    },
+    {"lyric": "Gimsuhanmu geobugiwa durumi", "lyric_hangul": "김수한무 거북이와 두루미", "lyric_translation": "Kimsuhanmu turtle and crane", "range": [109.54, 112.27], "ans": [12]},
+    {"lyric": "Samcheongapja dongbangsak yayayaya", "lyric_hangul": "삼천갑자 동방삭, 야야야야", "lyric_translation": "Samchungapsa dongbangsak", "range": [112.27, 114.43], "ans": [12]},
+    "",
+    "[next-col]",
+    {"lyric": "Geureol ttaega itjana", "lyric_hangul": "그럴 때가 있잖아", "lyric_translation": "You know those times", "range": [114.43, 116.18], "ans": [2]},
+    {"lyric": "Naega jagajineun gibun marya", "lyric_hangul": "내가 작아지는 기분 말야", "lyric_translation": "When you feel so small", "range": [116.18, 118.61], "ans": [2]},
+    {"lyric": "Haraneun daero haetneunde nan", "lyric_hangul": "하라는 대로 했는데 난", "lyric_translation": "When you do as you’re told", "range": [118.61, 120.76], "ans": [13]},
+    {"lyric": "Nunchiman bogo itjana", "lyric_hangul": "눈치만 보고 있잖아", "lyric_translation": "And you’re being so cautious", "range": [120.76, 123.89], "ans": [13]},
+    "",
+    {"lyric": "Wae nahanteman ireona shipgo", "lyric_hangul": "왜 나한테만 이러나 싶고?", "lyric_translation": "Why does this only happen to me?", "range": [123.89, 126.06], "ans": [7]},
+    {"lyric": "Gomine kkorin kkorireul mulgo", "lyric_hangul": "고민의 꼬린 꼬리를 물고", "lyric_translation": "Only worries keep growing", "range": [126.06, 128.52], "ans": [7]},
+    {"lyric": "Igeo waenji nada shipeumyeon", "lyric_hangul": "이거 왠지 나다 싶으면", "lyric_translation": "If you think this is you", "range": [128.52, 131.35], "ans": [7]},
+    {"lyric": "Iriiriiri moyeo da", "lyric_hangul": "이리이리이리 모여 다", "lyric_translation": "Come gather here", "range": [131.35, 133.57], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "(얘들아) 지금부터",
+      "lyric_translation": "(Guys) from now on",
+      "parts": [
+        {"lyric": "(yaedeura)", "range": [133.57, 134.07], "ans": []},
+        {"lyric": "Jigeumbuteo", "range": [134.51, 136.02], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "손에 불 날 때까지, 박수, 짝짝짝짝",
+      "lyric_translation": "Clap till your hands are on fire / Clap clap clap clap",
+      "parts": [
+        {"lyric": "Sone bul nal ttaekkaji baksu", "range": [136.02, 139.69], "ans": [1]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [138.99, 140.82], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이때다 싶으면 쳐, 박수, 짝짝짝짝",
+      "lyric_translation": "When the time is right, clap your hands / Clap clap clap clap",
+      "parts": [
+        {"lyric": "Ittaeda shipeumyeon chyeo baksu", "range": [140.82, 144.5], "ans": [6]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [143.8, 145.54], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "저기 저기 이리 오지, 우리끼리 신이 나지",
+      "lyric_translation": "Over there, come here / Let’s have fun",
+      "parts": [
+        {"lyric": "Jeogi jeogi iri oji", "range": [145.54, 147.84], "ans": [10]},
+        {"lyric": "Urikkiri shini naji", "range": [147.84, 150.64], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 노래 끝까지 쳐, 박수, 짝짝짝짝",
+      "lyric_translation": "Till the song is over, clap your hands / Clap clap clap clap",
+      "parts": [
+        {"lyric": "I norae kkeutkkaji chyeo baksu", "range": [150.64, 154.13], "ans": [2]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [153.43, 155.69], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [155.69, 156.16], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [156.16, 158.13], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [158.13, 165.81], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [165.57, 167.67], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [167.67, 168.11], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [168.11, 169.69], "ans": [2]}
+      ]
+    },
+    {"lyric": "Oneulmankeumeun yonggireul naeseo", "lyric_hangul": "오늘만큼은 용기를 내서", "lyric_translation": "Have some courage today", "range": [169.69, 174.78], "ans": [11]},
+    {"lyric": "Ibul deopgo sorijilleo", "lyric_hangul": "이불 덮고 소리질러", "lyric_translation": "Get under the blanket and scream", "range": [174.78, 177.47], "ans": [11]},
+    "",
+    {"lyric": "Dashi hanbeon deo", "lyric_hangul": "다시 한번 더", "lyric_translation": "One more time", "range": [177.47, 179.45], "ans": [8]},
+    {
+      "lyric_hangul": "손에 불을 꺼보자, 박수, 짝짝짝짝",
+      "lyric_translation": "Let’s put out that fire in your hands, clap / Clap clap clap clap",
+      "parts": [
+        {"lyric": "Sone bureul kkeoboja baksu", "range": [179.45, 182.91], "ans": [7]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [182.21, 183.29], "ans": []}
+      ]
+    },
+    {"lyric": "(Come on, baby, come, come on, baby)", "lyric_hangul": "(Come on, baby, come, come on, baby)", "lyric_translation": "", "range": [182.58, 184.13], "ans": []},
+    {
+      "lyric_hangul": "이 노래 끝나간다, 박수, 짝짝짝짝",
+      "lyric_translation": "The song is ending, clap / Clap clap clap clap",
+      "parts": [
+        {"lyric": "I norae kkeutnaganda baksu", "range": [184.13, 187.72], "ans": [5]},
+        {"lyric": "Jjakjjakjjakjjak", "range": [187.02, 188.74], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "저기 저기 이리 오지, 우리끼리 신이 나지 (이리, 이리, yeah)",
+      "lyric_translation": "Over there, come here / Let’s have fun",
+      "parts": [
+        {"lyric": "Jeogi jeogi iri oji", "range": [188.74, 192.3], "ans": [12]},
+        {"lyric": "Urikkiri shini naji", "range": [192.3, 194.28], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "다같이 일동 기립, 박수, 짝짝짝짝",
+      "lyric_translation": "Everyone stand up and clap / Clap clap clap clap",
+      "parts": [
+        {"lyric": "Dagachi ildong girib baksu", "range": [193.56, 196.95], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [196.95, 198.39], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [198.39, 199.35], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [198.65, 201.08], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, 짝짝짝짝",
+      "lyric_translation": "Woo clap clap clap clap",
+      "parts": [
+        {"lyric": "Woo", "range": [201.08, 201.74], "ans": []},
+        {"lyric": "Jjakjjakjjakjjak", "range": [201.74, 204.94], "ans": [4]}
+      ]
+    }
+  ]
+}

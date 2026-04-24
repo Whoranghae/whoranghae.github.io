@@ -2,5 +2,125 @@
   {
     "file": "seventeen/pretty-u.json",
     "cover": "css/images/covers/pretty-u.jpg"
+  },
+  {
+    "file": "seventeen/24h.json",
+    "cover": "css/images/covers/24h.jpg"
+  },
+  {
+    "file": "seventeen/boomboom.json",
+    "cover": "css/images/covers/boomboom.jpg"
+  },
+  {
+    "file": "seventeen/call-call-call.json",
+    "cover": "css/images/covers/call-call-call.jpg"
+  },
+  {
+    "file": "seventeen/clap.json",
+    "cover": "css/images/covers/clap.jpg"
+  },
+  {
+    "file": "seventeen/dont-wanna-cry.json",
+    "cover": "css/images/covers/dont-wanna-cry.jpg"
+  },
+  {
+    "file": "seventeen/dream.json",
+    "cover": "css/images/covers/dream.jpg"
+  },
+  {
+    "file": "seventeen/fallin-flower.json",
+    "cover": "css/images/covers/fallin-flower.jpg"
+  },
+  {
+    "file": "seventeen/fml.json",
+    "cover": "css/images/covers/fml.jpg"
+  },
+  {
+    "file": "seventeen/god-of-music.json",
+    "cover": "css/images/covers/god-of-music.jpg"
+  },
+  {
+    "file": "seventeen/home.json",
+    "cover": "css/images/covers/home.jpg"
+  },
+  {
+    "file": "seventeen/hot.json",
+    "cover": "css/images/covers/hot.jpg"
+  },
+  {
+    "file": "seventeen/ima.json",
+    "cover": "css/images/covers/ima.jpg"
+  },
+  {
+    "file": "seventeen/lalali.json",
+    "cover": "css/images/covers/lalali.jpg"
+  },
+  {
+    "file": "seventeen/left-and-right.json",
+    "cover": "css/images/covers/left-and-right.jpg"
+  },
+  {
+    "file": "seventeen/maestro.json",
+    "cover": "css/images/covers/maestro.jpg"
+  },
+  {
+    "file": "seventeen/mansae.json",
+    "cover": "css/images/covers/mansae.jpg"
+  },
+  {
+    "file": "seventeen/not-alone.json",
+    "cover": "css/images/covers/not-alone.jpg"
+  },
+  {
+    "file": "seventeen/power-of-love.json",
+    "cover": "css/images/covers/power-of-love.jpg"
+  },
+  {
+    "file": "seventeen/ready-to-love.json",
+    "cover": "css/images/covers/ready-to-love.jpg"
+  },
+  {
+    "file": "seventeen/rock-with-you.json",
+    "cover": "css/images/covers/rock-with-you.jpg"
+  },
+  {
+    "file": "seventeen/spell.json",
+    "cover": "css/images/covers/spell.jpg"
+  },
+  {
+    "file": "seventeen/super.json",
+    "cover": "css/images/covers/super.jpg"
+  },
+  {
+    "file": "seventeen/thanks.json",
+    "cover": "css/images/covers/thanks.jpg"
+  },
+  {
+    "file": "seventeen/very-nice.json",
+    "cover": "css/images/covers/very-nice.jpg"
+  },
+  {
+    "file": "seventeen/world.json",
+    "cover": "css/images/covers/world.jpg"
+  },
+  {
+    "file": "seventeen/shohikigen.json",
+    "cover": "css/images/covers/shohikigen.jpg"
+  },
+  {
+    "file": "seventeen/ima-jp.json",
+    "cover": "css/images/covers/ima-jp.jpg"
+  },
+  {
+    "file": "seventeen/fallin-flower-jp.json",
+    "cover": "css/images/covers/fallin-flower-jp.jpg"
+  },
+  {
+    "file": "seventeen/not-alone-jp.json",
+    "cover": "css/images/covers/not-alone-jp.jpg"
+  },
+  {
+    "file": "seventeen/power-of-love-jp.json",
+    "cover": "css/images/covers/power-of-love-jp.jpg"
   }
 ]

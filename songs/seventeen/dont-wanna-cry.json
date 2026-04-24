@@ -1,0 +1,94 @@
+{
+  "name": "Don’t Wanna Cry (울고 싶지 않아)",
+  "ogg": "sound/kpop/dont_wanna_cry.ogg",
+  "id": "dont-wanna-cry",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2017-05-22",
+  "album": "Al1",
+  "cover": "css/images/covers/dont-wanna-cry.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T04:03:32Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아", "lyric_translation": "Don’t wanna cry", "range": [7.29, 12.16], "ans": [6]},
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아", "lyric_translation": "Don’t wanna cry", "range": [12.16, 16.5], "ans": [9]},
+    "",
+    {"lyric": "Saranghaeseo, saranghandaneun mari", "lyric_hangul": "사랑해서, 사랑한다는 말이", "lyric_translation": "Because I love you, because the words I love you", "range": [18.64, 22.63], "ans": [12]},
+    {"lyric": "Bujokhaeseo, geu eotteon mareul kkeonaebwado", "lyric_hangul": "부족해서 그 어떤 말을 꺼내봐도", "lyric_translation": "Isn’t enough, no matter what I say", "range": [22.63, 27.64], "ans": [12]},
+    {"lyric": "Neo hanaman akkideon nal dugoseo eodi gan geoni", "lyric_hangul": "너 하나만 아끼던 날 두고서, 어디 간 거니?", "lyric_translation": "I loved you so much, where’d you go?", "range": [27.64, 32.91], "ans": [5]},
+    {"lyric": "Naega shireo eoeo jyeoseo meolli gan geoni", "lyric_hangul": "내가 싫어 어어 져서 멀리 간 거니? (울고 싶지 않아)", "lyric_translation": "Did you leave because you don’t like me anymore?", "range": [32.91, 37.97], "ans": [5]},
+    "",
+    {"lyric": "Jangnanchiji ma, geogi itneun geo ara", "lyric_hangul": "장난치지 마 거기 있는 거 알아", "lyric_translation": "Don’t play around, I know you’re right there", "range": [37.97, 42.15], "ans": [7]},
+    {"lyric": "Natanal geo gata, manyang gidarida", "lyric_hangul": "나타날 거 같아 마냥 기다리다", "lyric_translation": "Feels like you’ll appear, so I’m just waiting", "range": [42.15, 47.03], "ans": [7]},
+    {"lyric": "Neol chajagaya dwae chajagaya dwae", "lyric_hangul": "널 찾아가야 돼, 찾아가야 돼", "lyric_translation": "I need to find you, need to find you", "range": [47.03, 51.53], "ans": [8]},
+    {"lyric": "Jigeum ulmyeon mot bolji moreunikka", "lyric_hangul": "지금 울면 못 볼지 모르니까", "lyric_translation": "Because if I cry right now, I might not see you", "range": [51.53, 58.25], "ans": [8]},
+    "",
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh)", "lyric_translation": "Don’t wanna cry", "range": [58.25, 62.89], "ans": [4]},
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh)", "lyric_translation": "Don’t wanna cry", "range": [62.89, 67.83], "ans": [4]},
+    {"lyric": "Nunmureun manchiman", "lyric_hangul": "눈물은 많지만 (eh, eh)", "lyric_translation": "I have a lot of tears / I have a lot of tears", "range": [67.83, 72.49], "ans": [13]},
+    "",
+    {
+      "lyric_hangul": "울고 싶지 않아 (eh, eh, eh, eh)",
+      "lyric_translation": "But I don’t wanna cry / But I don’t wanna cry",
+      "parts": [
+        {"lyric": "Ulgo shipji ana", "range": [72.49, 73.94], "ans": [13]},
+        {"lyric": "Ulgo shipji ana", "range": [73.24, 79.25], "ans": [10]}
+      ]
+    },
+    {"lyric": "Nasseolji aneun gil, i giri nasseolda", "lyric_hangul": "낯설지 않은 길 이 길이 낯설다", "lyric_translation": "The path that used to be familiar, it’s now unfamiliar", "range": [79.25, 83.75], "ans": [1]},
+    {"lyric": "Aneun gil matneunji naege tto mudjiyo", "lyric_hangul": "아는 길 맞는지 내게 또 묻지요", "lyric_translation": "Is this the path I know? I ask myself", "range": [83.75, 88.85], "ans": [1]},
+    "",
+    {"lyric": "Hokshina geu saram nal chatgo itji aneulkka", "lyric_hangul": "혹시나 그 사람 날 찾고 있지 않을까", "lyric_translation": "What if she’s looking for me?", "range": [88.85, 93.49], "ans": [2]},
+    {"lyric": "Naneun jigeum neol chatgo isseoyo", "lyric_hangul": "나는 지금 널 찾고 있어요", "lyric_translation": "I’m looking for you right now", "range": [93.49, 97.57], "ans": [2]},
+    {"lyric": "Jangnanchiji ma, geogi itneun geo ara", "lyric_hangul": "장난치지 마, 거기 있는 거 알아", "lyric_translation": "Don’t play around, I know you’re right there", "range": [97.57, 102.26], "ans": [3]},
+    {"lyric": "Natanal geo gata, manyang gidarida", "lyric_hangul": "나타날 거 같아, 마냥 기다리다", "lyric_translation": "Feels like you’ll appear, so I’m just waiting", "range": [102.26, 106.91], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Neol chajagaya dwae gaya haneunde", "lyric_hangul": "널 찾아가야 돼, 가야 하는데", "lyric_translation": "I need to find you, I need to go", "range": [106.91, 111.53], "ans": [11]},
+    {"lyric": "Nunmul goyeo jeomjeom heuryeojyeo", "lyric_hangul": "눈물 고여 점점 흐려져", "lyric_translation": "But tears well up and it’s getting blurrier", "range": [111.53, 115.7], "ans": [11]},
+    {
+      "lyric_hangul": "울고 싶지 않아 (eh, eh)",
+      "lyric_translation": "Don’t wanna cry / Don’t wanna cry",
+      "parts": [
+        {"lyric": "Ulgo shipji ana", "range": [115.7, 117.25], "ans": [5]},
+        {"lyric": "Ulgo shipji ana", "range": [116.55, 120.12], "ans": [10]}
+      ]
+    },
+    "",
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh)", "lyric_translation": "Don’t wanna cry", "range": [120.12, 124.77], "ans": [5]},
+    {"lyric": "Nunmureun manchiman", "lyric_hangul": "눈물은 많지만 (eh, eh)", "lyric_translation": "I have a lot of tears", "range": [124.77, 129.7], "ans": [10]},
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh, eh, eh)", "lyric_translation": "But I don’t wanna cry", "range": [129.7, 135.76], "ans": [10]},
+    {
+      "lyric_hangul": "난 괜찮아 (안 괜찮아)",
+      "lyric_translation": "I’m alright (I’m not alright)",
+      "parts": [
+        {"lyric": "Nan gwaenchana", "range": [135.76, 137.16], "ans": [6]},
+        {"lyric": "(an gwaenchana)", "range": [136.46, 138.08], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "너 보고 싶지 않아 (너무 보고 싶어)",
+      "lyric_translation": "I don’t miss you (I miss you so much)",
+      "parts": [
+        {"lyric": "Neo bogo shipji ana", "range": [138.08, 139.91], "ans": [6]},
+        {"lyric": "(neomu bogo shipeo)", "range": [139.21, 140.63], "ans": [9]}
+      ]
+    },
+    {"lyric": "Mame eopneun maldeullo", "lyric_hangul": "맘에 없는 말들로 거짓말이라도", "lyric_translation": "With words I don’t even mean", "range": [140.09, 143.41], "ans": [9]},
+    {"lyric": "Geojitmarirado haeya dwae haeya dwae", "lyric_hangul": "해야 돼, 해야 돼", "lyric_translation": "Even if they’re lies, I need to say it", "range": [143.41, 145.58], "ans": [9]},
+    {"lyric": "Saenggakcheoreom mami mareul deudji aneunikka", "lyric_hangul": "생각처럼 맘이 말을 듣지 않으니까", "lyric_translation": "My heart won’t listen like I want", "range": [145.58, 150.36], "ans": [2]},
+    "",
+    {"lyric": "Dorawa dorawa dorawa", "lyric_hangul": "돌아와, 돌아와, 돌아와", "lyric_translation": "Come back, come back, come back", "range": [150.36, 153.72], "ans": [11]},
+    {"lyric": "Jeolbani eopneunde eotteoke hanaro sara", "lyric_hangul": "절반이 없는데 어떻게 하나로 살아?", "lyric_translation": "My other half isn’t here so how can I live as one?", "range": [153.72, 156.63], "ans": [6]},
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh, hey, hey)", "lyric_translation": "I don’t wanna cry", "range": [158.47, 163.54], "ans": []},
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh, oh-ooh, oh-ooh, yeah)", "lyric_translation": "Don’t wanna cry", "range": [163.54, 168.2], "ans": [8]},
+    "",
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아 (eh, eh, eh, eh) 울고 싶지 않아", "lyric_translation": "Don’t wanna cry", "range": [173.29, 187.64], "ans": [4]},
+    {"lyric": "Uri dashi bol ttae", "lyric_hangul": "우리 다시 볼 때 (eh, eh)", "lyric_translation": "When we see each other again", "range": [187.64, 195.78], "ans": [1]},
+    {"lyric": "(Eh, eh)", "lyric_hangul": "(Eh, eh)", "lyric_translation": "", "range": [195.78, 196.77], "ans": []},
+    {"lyric": "Ulgo shipji ana", "lyric_hangul": "울고 싶지 않아", "lyric_translation": "Don’t wanna cry", "range": [196.77, 200.95], "ans": [12]}
+  ]
+}

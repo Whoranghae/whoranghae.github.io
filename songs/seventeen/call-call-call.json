@@ -1,0 +1,199 @@
+{
+  "name": "Call Call Call (Korean Ver.)",
+  "ogg": "sound/kpop/call_call_call.ogg",
+  "id": "call-call-call",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2024-04-29",
+  "cover": "css/images/covers/call-call-call.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T02:46:47Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "SEVENTEEN", "lyric_hangul": "SEVENTEEN!", "lyric_translation": "N/A", "range": [17.38, 18.31], "ans": []},
+    "",
+    {
+      "lyric_hangul": "우린 세계, 세계, 세계, 세계, 세계, 세계, 세계",
+      "parts": [
+        {"lyric": "Urin segye segye segye segye", "range": [18.31, 19.81], "ans": [1]},
+        {"lyric": "Segye segye segye segye", "range": [19.81, 20.81], "ans": [1]}
+      ]
+    },
+    {"lyric": "Eodideunji gyesok dallyeo", "lyric_hangul": "세계 어디든지 계속 달려", "lyric_translation": "", "range": [20.09, 22.21], "ans": [1]},
+    {
+      "lyric_hangul": "우리끼리, 끼리, 끼리, 끼리, 끼리, 끼리",
+      "parts": [
+        {"lyric": "Uri kkiri kkiri", "range": [22.21, 23.29], "ans": [6]},
+        {"lyric": "Kkiri kkiri kkiri kkiri", "range": [23.29, 24.19], "ans": [6]}
+      ]
+    },
+    {"lyric": "Kkiri ramyeon mweodeunji da hal su isseo", "lyric_hangul": "끼리 라면 뭐든지 다 할 수 있어", "lyric_translation": "", "range": [23.3, 26.02], "ans": [6]},
+    {
+      "lyric_hangul": "어느 때라도 널 위해서라면 쉬지 않을 거야, ha!",
+      "parts": [
+        {"lyric": "Eoneu ttaerado neol wihaeseoramyeon", "range": [26.02, 28.46], "ans": [1]},
+        {"lyric": "Shwiji aneul geoya Ha!", "range": [28.46, 30.05], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지 마, 언제나 너에게 (뛰어갈게)",
+      "parts": [
+        {"lyric": "Geommeokji ma eonjena neoege", "range": [30.05, 32.88], "ans": [4]},
+        {"lyric": "(ttwieogalge)", "range": [32.18, 33.27], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Tuk geondeuneun saramdeuri mana", "lyric_hangul": "툭 건드는 사람들이 많아", "lyric_translation": "", "range": [33.27, 35.12], "ans": [5]},
+    {"lyric": "Bunhago yeoldo mani batjana", "lyric_hangul": "분하고 열도 많이 받잖아", "lyric_translation": "", "range": [35.12, 36.96], "ans": [5]},
+    {"lyric": "Munjega munjega dweneun sesang", "lyric_hangul": "문제가 문제가 되는 세상", "lyric_translation": "", "range": [36.96, 39.28], "ans": [13]},
+    {"lyric": "Geokjeonge kkeuchi eomneun neoye nanal", "lyric_hangul": "걱정의 끝이 없는 너의 나날", "lyric_translation": "", "range": [39.28, 40.74], "ans": [13]},
+    {"lyric": "Nuga neol seulpeuge hal ttaedo Yeah", "lyric_hangul": "누가 널 슬프게 할 때도, yeah", "lyric_translation": "", "range": [40.74, 44.83], "ans": [3]},
+    {
+      "lyric_hangul": "겁먹지 마 내가 너에게 (뛰어갈게)",
+      "parts": [
+        {"lyric": "Geommeokji ma naega neoege", "range": [44.83, 47.25], "ans": [7]},
+        {"lyric": "(ttwieogalge)", "range": [47.25, 48.0], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Eodume honja nunmul humchineun", "lyric_hangul": "어둠에 혼자 눈물 훔치는", "lyric_translation": "", "range": [47.74, 51.6], "ans": [8]},
+    {"lyric": "Neoye maeumeul amudo mollajul ttae", "lyric_hangul": "너의 마음을 아무도 몰라줄 때", "lyric_translation": "", "range": [51.6, 55.14], "ans": [8]},
+    {"lyric": "Geu eotteon nare neoye maeumi", "lyric_hangul": "그 어떤 날에 너의 마음이", "lyric_translation": "", "range": [55.14, 59.22], "ans": [2]},
+    {"lyric": "Peongkeu peongkeu nagi jeone", "lyric_hangul": "펑크, 펑크, 나기 전에 (ow!)", "lyric_translation": "", "range": [59.22, 62.37], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "지금 바로 전화해 (yeah), ah, yeah (내게 전화해)",
+      "parts": [
+        {"lyric": "Jigeum baro jeonhwahae", "range": [62.37, 65.22], "ans": [11]},
+        {"lyric": "Ah yeah (naege jeonhwahae)", "range": [64.52, 66.0], "ans": []}
+      ]
+    },
+    {"lyric": "Neul honjarago neukkyeojil ttaee geuttae", "lyric_hangul": "늘 혼자라고 느껴질 때에 그때", "lyric_translation": "", "range": [65.51, 69.84], "ans": [11]},
+    {
+      "lyric_hangul": "내게 전화해 (yeah), baby (내게 전화해)",
+      "parts": [
+        {"lyric": "Naege jeonhwahae", "range": [69.84, 71.14], "ans": [8]},
+        {"lyric": "Yeah", "range": [70.44, 72.06], "ans": []},
+        {"lyric": "Baby", "range": [71.36, 72.5], "ans": [8]},
+        {"lyric": "(naege jeonhwahae)", "range": [71.8, 73.39], "ans": []}
+      ]
+    },
+    {"lyric": "Nan neol jeoldaero weropge dujineun ana", "lyric_hangul": "난 널 절대로 외롭게 두지는 않아", "lyric_translation": "", "range": [73.02, 77.93], "ans": [8]},
+    "",
+    {"lyric": "O-O-O-Oh O-O-Oh O-O-O-Oh", "lyric_hangul": "Oh, oh, oh, oh-oh, oh, oh, oh", "lyric_translation": "", "range": [77.93, 81.47], "ans": []},
+    {"lyric": "Oh, oh, oh, oh-oh (chiring, chiring)", "lyric_hangul": "Oh, oh, oh, oh-oh (chiring, chiring)", "lyric_translation": "", "range": [81.47, 85.04], "ans": []},
+    {"lyric": "Oh, oh, oh, oh-oh, oh, oh, oh", "lyric_hangul": "Oh, oh, oh, oh-oh, oh, oh, oh", "lyric_translation": "", "range": [85.04, 89.44], "ans": []},
+    {
+      "lyric_hangul": "Chiring, chiring, chiring, chiring",
+      "parts": [
+        {"lyric": "Chiring Chiring", "range": [89.44, 90.11], "ans": []},
+        {"lyric": "O-O-O-Oh O-O-Oh", "range": [90.11, 93.5], "ans": []}
+      ]
+    },
+    {"lyric": "Chiring Chiring Chiring Chiring", "lyric_hangul": "Chiring, chiring, chiring, chiring", "lyric_translation": "", "range": [92.8, 96.78], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Chiring, chiring, hello?",
+      "parts": [
+        {"lyric": "Chiring Chiring Chiring Chiring Chiring Chiring", "range": [96.78, 98.46], "ans": [2]},
+        {"lyric": "Hello?", "range": [97.76, 98.98], "ans": [12]}
+      ]
+    },
+    "",
+    {"lyric": "Byeol bol il eomneun iyuro sangcheoneun", "lyric_hangul": "별 볼 일 없는 이유로", "lyric_translation": "", "range": [98.98, 100.55], "ans": [12]},
+    {"lyric": "Gipge paeeosseo", "lyric_hangul": "상처는 깊게 패었어", "lyric_translation": "", "range": [100.55, 102.54], "ans": [12]},
+    {
+      "lyric_hangul": "바람 지나가듯 아무렇지 않다며 한숨을 쉬었어",
+      "parts": [
+        {"lyric": "Baram jinagadeut", "range": [102.54, 104.26], "ans": [12]},
+        {"lyric": "Amureochi antamyeo hansumeul shwieosseo", "range": [104.26, 107.14], "ans": [12]}
+      ]
+    },
+    {"lyric": "Tuk geondeuneun saramdeuri mana", "lyric_hangul": "툭 건드는 사람들이 많아", "lyric_translation": "", "range": [107.14, 109.01], "ans": [10]},
+    {"lyric": "Bunhago yeoldo mani batjana", "lyric_hangul": "분하고 열도 많이 받잖아", "lyric_translation": "", "range": [109.01, 110.99], "ans": [10]},
+    {"lyric": "Jonjaega munjega dweneun sesang", "lyric_hangul": "존재가 문제가 되는 세상", "lyric_translation": "", "range": [110.99, 113.06], "ans": [13]},
+    {"lyric": "Geokjeonge kkeuchi eomneun neoye nanal", "lyric_hangul": "걱정의 끝이 없는 너의 나날", "lyric_translation": "", "range": [113.06, 115.02], "ans": [13]},
+    {"lyric": "Nuga neol seulpeuge hal ttaedo Yeah", "lyric_hangul": "누가 널 슬프게 할 때도, yeah", "lyric_translation": "", "range": [115.02, 118.46], "ans": [3]},
+    {
+      "lyric_hangul": "겁먹지 마 내가 너에게 (뛰어갈게)",
+      "parts": [
+        {"lyric": "Geommeokji ma naega neoege", "range": [118.46, 121.43], "ans": [7]},
+        {"lyric": "(ttwieogalge)", "range": [120.73, 121.8], "ans": [10]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Amudo moreuge nunmul humchineun", "lyric_hangul": "아무도 모르게 눈물 훔치는", "lyric_translation": "", "range": [121.44, 125.28], "ans": [11]},
+    {"lyric": "Neoye maeumeul nugudo mollajul ttae", "lyric_hangul": "너의 마음을 누구도 몰라줄 때", "lyric_translation": "", "range": [125.28, 129.14], "ans": [11]},
+    {"lyric": "Geu eotteon nare neoye maeumi", "lyric_hangul": "그 어떤 날에 너의 마음이", "lyric_translation": "", "range": [129.14, 133.18], "ans": [2]},
+    {"lyric": "Peongkeu peongkeu nagi jeone", "lyric_hangul": "펑크, 펑크, 나기 전에 (ow!)", "lyric_translation": "", "range": [133.18, 135.66], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "지금 바로 전화해 (yeah), ah, yeah (내게 전화해)",
+      "parts": [
+        {"lyric": "Jigeum baro jeonhwahae", "range": [135.66, 138.97], "ans": [7]},
+        {"lyric": "Ah yeah (naege jeonhwahae)", "range": [138.27, 139.84], "ans": []}
+      ]
+    },
+    {"lyric": "Ne moksorireul deullyeojul charye ije", "lyric_hangul": "네 목소리를 들려줄 차례 이제", "lyric_translation": "", "range": [139.34, 143.69], "ans": [7]},
+    {
+      "lyric_hangul": "내게 전화해 (yeah), baby (내게 전화해)",
+      "parts": [
+        {"lyric": "Naege jeonhwahae", "range": [143.69, 144.6], "ans": [8]},
+        {"lyric": "Yeah", "range": [144.6, 145.93], "ans": []},
+        {"lyric": "Baby", "range": [145.29, 146.33], "ans": [8]},
+        {"lyric": "(naege jeonhwahae)", "range": [145.63, 147.24], "ans": []}
+      ]
+    },
+    {"lyric": "Malhaejwosseumyeon hae neoege gwi giurilge", "lyric_hangul": "말해줬으면 해 너에게 귀 기울일게", "lyric_translation": "", "range": [146.99, 151.54], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "Ayy, 밤에도 낮에도 (ayy), 너만을 everyday",
+      "parts": [
+        {"lyric": "Ay bamedo najedo", "range": [151.54, 154.06], "ans": [9]},
+        {"lyric": "Neomaneul Everyday", "range": [154.06, 155.75], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "걱정해, 난 너의 SEVENTEEN",
+      "parts": [
+        {"lyric": "Geokjeonghae nan neoye", "range": [155.75, 157.41], "ans": [9]},
+        {"lyric": "SEVENTEEN", "range": [157.41, 158.62], "ans": []}
+      ]
+    },
+    {"lyric": "Baeteori daltorok neowa yaegihal su isseo", "lyric_hangul": "배터리 닳도록 너와 얘기할 수 있어", "lyric_translation": "", "range": [158.62, 162.63], "ans": [10]},
+    {"lyric": "Call me call me call me call me", "lyric_hangul": "Call me, call me, call me, call me (ow!)", "lyric_translation": "", "range": [162.63, 165.16], "ans": []},
+    "",
+    {
+      "lyric_hangul": "내게, 내게 전화해 (yeah), ah, yeah (내게 전화해)",
+      "parts": [
+        {"lyric": "Naege naege jeonhwahae", "range": [165.16, 168.54], "ans": [5]},
+        {"lyric": "Ah yeah (naege jeonhwahae)", "range": [167.84, 169.41], "ans": []}
+      ]
+    },
+    {"lyric": "Neul honjarago neukkyeojil ttaee geuttae", "lyric_hangul": "늘 혼자라고 느껴질 때에 그때", "lyric_translation": "", "range": [169.05, 173.15], "ans": [5]},
+    {
+      "lyric_hangul": "내게 전화해 (yeah), baby (내게 전화해)",
+      "parts": [
+        {"lyric": "Naege jeonhwahae", "range": [173.15, 174.71], "ans": [8]},
+        {"lyric": "Yeah", "range": [174.01, 175.03], "ans": []},
+        {"lyric": "Baby", "range": [174.49, 175.43], "ans": [8]},
+        {"lyric": "(naege jeonhwahae)", "range": [174.73, 176.3], "ans": []}
+      ]
+    },
+    {"lyric": "Nan neol jeoldaero weropge dujineun ana", "lyric_hangul": "난 널 절대로 외롭게 두지는 않아", "lyric_translation": "", "range": [176.3, 181.16], "ans": [8]},
+    "",
+    {"lyric": "O-O-O-Oh O-O-Oh O-O-O-Oh", "lyric_hangul": "Oh, oh, oh, oh-oh, oh, oh, oh", "lyric_translation": "", "range": [181.16, 184.9], "ans": []},
+    {"lyric": "Oh, oh, oh, oh-oh (chiring, chiring)", "lyric_hangul": "Oh, oh, oh, oh-oh (chiring, chiring)", "lyric_translation": "", "range": [184.9, 188.69], "ans": []},
+    {"lyric": "Oh, oh, oh, oh-oh, oh, oh, oh", "lyric_hangul": "Oh, oh, oh, oh-oh, oh, oh, oh", "lyric_translation": "", "range": [188.69, 192.42], "ans": []},
+    {
+      "lyric_hangul": "Chiring, chiring, chiring, chiring",
+      "parts": [
+        {"lyric": "Chiring Chiring", "range": [192.42, 193.4], "ans": []},
+        {"lyric": "O-O-O-Oh O-O-Oh", "range": [193.4, 194.3], "ans": []},
+        {"lyric": "Chiring Chiring Chiring Chiring", "range": [194.3, 198.64], "ans": []}
+      ]
+    }
+  ]
+}

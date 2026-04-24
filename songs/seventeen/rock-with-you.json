@@ -1,0 +1,173 @@
+{
+  "name": "Rock with you",
+  "ogg": "sound/kpop/rock_with_you.ogg",
+  "id": "rock-with-you",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2021-10-22",
+  "album": "Attacca",
+  "cover": "css/images/covers/rock-with-you.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T02:46:53Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Jigeum i noraega naega dwel su itge", "lyric_hangul": "지금 이 노래가 내가 될 수 있게", "lyric_translation": "You made this song who I am", "range": [0.42, 6.14], "ans": [3]},
+    {
+      "lyric_hangul": "만들어 준 네가 다가온다 (셋, 둘, 하나)",
+      "lyric_translation": "And here you come / Three two one",
+      "parts": [
+        {"lyric": "Mandeureo jun nega dagaonda", "range": [6.14, 9.95], "ans": [3]},
+        {"lyric": "Set dul hana", "range": [9.95, 10.95], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Mweodeunji da jugo shipeo", "lyric_hangul": "뭐든지 다 주고 싶어", "lyric_translation": "Want to give everything", "range": [10.95, 13.68], "ans": [2]},
+    {"lyric": "Naege neoman ittamyeon", "lyric_hangul": "나에게 너만 있다면", "lyric_translation": "If I can just have you", "range": [13.68, 16.78], "ans": [2]},
+    {"lyric": "Won’t let them break your heart oh no", "lyric_hangul": "Won't let them break your heart, oh no", "lyric_translation": "Won’t let them break your heart oh no", "range": [16.78, 19.51], "ans": [5]},
+    {"lyric": "Nega eopttamyeon nan amugeotto anya", "lyric_hangul": "네가 없다면 난 아무것도 아냐", "lyric_translation": "Without you I’m nothing", "range": [19.51, 23.07], "ans": [6]},
+    "",
+    {"lyric": "No words are enough for you", "lyric_hangul": "No words are enough for you", "lyric_translation": "No words are enough for you", "range": [23.07, 26.1], "ans": [9]},
+    {"lyric": "Noraetmallo damgo shipeo", "lyric_hangul": "노랫말로 담고 싶어", "lyric_translation": "Want to write it lyrical", "range": [26.1, 28.72], "ans": [9]},
+    {
+      "lyric_hangul": "So 모든 나의 감정 너로 읽고 쓰게 해줘",
+      "lyric_translation": "So let me read and write / My emotions through you",
+      "parts": [
+        {"lyric": "So, modeun naye gamjeong", "range": [28.72, 30.98], "ans": [1]},
+        {"lyric": "Neoro ilkgo sseuge haejweo", "range": [30.98, 33.54], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "I just want to love you", "lyric_hangul": "I just want to love you", "lyric_translation": "I just want to love you", "range": [33.54, 36.26], "ans": [8]},
+    {"lyric": "Neol honja duji ana nan", "lyric_hangul": "널 혼자 두지 않아 난", "lyric_translation": "Alone I don’t want to leave you", "range": [36.26, 39.84], "ans": [8]},
+    {"lyric": "I just want you, I need you", "lyric_hangul": "I just want you, I need you", "lyric_translation": "I just want you, I need you", "range": [39.84, 42.2], "ans": [10]},
+    {"lyric": "I bameun jjalbgo neon dangyeonhaji ana", "lyric_hangul": "이 밤은 짧고 넌 당연하지 않아", "lyric_translation": "The night is short can’t take you for granted", "range": [42.2, 46.69], "ans": [10]},
+    "",
+    {
+      "lyric_hangul": "I tell you, this time, I wanna rock with you",
+      "lyric_translation": "I tell you / This time I wanna rock with you",
+      "parts": [
+        {"lyric": "I tell you", "range": [46.69, 47.33], "ans": [11]},
+        {"lyric": "This time I wanna rock with you", "range": [47.33, 50.33], "ans": [11]}
+      ]
+    },
+    {"lyric": "Moonlight i bame Shine on you", "lyric_hangul": "Moonlight, 이 밤에 shine on you", "lyric_translation": "Moonlight tonight Shine on you", "range": [50.33, 53.04], "ans": [11]},
+    {"lyric": "Tonight I wanna ride with you", "lyric_hangul": "Tonight, I wanna ride with you", "lyric_translation": "Tonight I wanna ride with you", "range": [53.04, 57.09], "ans": [4]},
+    {"lyric": "Geu eodirado", "lyric_hangul": "그 어디라도", "lyric_translation": "Wherever we go", "range": [57.09, 58.89], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "Baby, hold on, baby, hold on (어디에서도)",
+      "lyric_translation": "Baby hold on Baby hold on / Wherever we are",
+      "parts": [
+        {"lyric": "Baby hold on Baby hold on", "range": [58.89, 61.3], "ans": [12]},
+        {"lyric": "Eodieseodo", "range": [60.6, 61.77], "ans": [13]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, hold on, baby, hold on (어디서라도)",
+      "lyric_translation": "Baby hold on Baby hold on / No matter where we are",
+      "parts": [
+        {"lyric": "Baby hold on Baby hold on", "range": [61.77, 63.85], "ans": [12]},
+        {"lyric": "Eodiseorado", "range": [63.15, 64.5], "ans": [13]}
+      ]
+    },
+    {"lyric": "Sesangi kkeunnadeorado", "lyric_hangul": "세상이 끝나더라도", "lyric_translation": "Even if the world is ending", "range": [64.5, 68.56], "ans": [12]},
+    {"lyric": "I wanna ride with you", "lyric_hangul": "I wanna ride with you", "lyric_translation": "I wanna ride with you", "range": [68.56, 71.93], "ans": [13]},
+    "",
+    {"lyric": "Neol wihae dalligo isseo", "lyric_hangul": "널 위해 달리고 있어", "lyric_translation": "I’m running for you", "range": [71.93, 74.66], "ans": [6]},
+    {"lyric": "Neol wihaeseoramyeon mweodeun", "lyric_hangul": "널 위해서라면 뭐든", "lyric_translation": "Do anything for you", "range": [74.66, 77.52], "ans": [6]},
+    {"lyric": "Sumi meomchul ttaekkaji nan neoman", "lyric_hangul": "숨이 멈출 때까지 난 너만", "lyric_translation": "Just you till my last breath", "range": [77.52, 81.56], "ans": [4]},
+    "",
+    {"lyric": "No words are enough for you", "lyric_hangul": "No words are enough for you", "lyric_translation": "No words are enough for you", "range": [81.56, 84.39], "ans": [7]},
+    {"lyric": "Mellodiro damgo shipeo", "lyric_hangul": "멜로디로 담고 싶어", "lyric_translation": "Want to keep it melodical", "range": [84.39, 87.49], "ans": [7]},
+    {
+      "lyric_hangul": "So 너의 모든 감정 내가 들을 수 있게 해줘",
+      "lyric_translation": "So let me listen to / All your emotions",
+      "parts": [
+        {"lyric": "So, neoye modeun gamjeong", "range": [87.49, 89.47], "ans": [10]},
+        {"lyric": "Naega deureul su itge haejweo", "range": [89.47, 92.07], "ans": [10]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "I just want to love you", "lyric_hangul": "I just want to love you", "lyric_translation": "I just want to love you", "range": [92.07, 94.97], "ans": [11]},
+    {"lyric": "Neol honja duji ana nan", "lyric_hangul": "널 혼자 두지 않아 난", "lyric_translation": "Alone I don’t want to leave you", "range": [94.97, 97.96], "ans": [11]},
+    {"lyric": "I just want you, I need you", "lyric_hangul": "I just want you, I need you", "lyric_translation": "I just want you, I need you", "range": [97.96, 100.57], "ans": [12]},
+    {"lyric": "I bameun jjalbgo neon dangyeonhaji ana", "lyric_hangul": "이 밤은 짧고 넌 당연하지 않아", "lyric_translation": "The night is short can’t take you for granted", "range": [100.57, 105.29], "ans": [12]},
+    "",
+    {
+      "lyric_hangul": "I tell you, this time, I wanna rock with you",
+      "lyric_translation": "I tell you / This time I wanna rock with you",
+      "parts": [
+        {"lyric": "I tell you", "range": [105.29, 105.87], "ans": [5]},
+        {"lyric": "This time I wanna rock with you", "range": [105.87, 109.07], "ans": [5]}
+      ]
+    },
+    {"lyric": "Moonlight i bame Shine on you", "lyric_hangul": "Moonlight, 이 밤에 shine on you", "lyric_translation": "Moonlight tonight Shine on you", "range": [109.07, 111.94], "ans": [5]},
+    {"lyric": "Tonight I wanna ride with you", "lyric_hangul": "Tonight, I wanna ride with you", "lyric_translation": "Tonight I wanna ride with you", "range": [111.94, 115.54], "ans": [13]},
+    {"lyric": "Geu eodirado", "lyric_hangul": "그 어디라도", "lyric_translation": "Wherever we go", "range": [115.54, 117.34], "ans": [13]},
+    "",
+    {
+      "lyric_hangul": "Baby, hold on, baby, hold on (어디에서도)",
+      "lyric_translation": "Baby hold on Baby hold on / Wherever we are",
+      "parts": [
+        {"lyric": "Baby hold on Baby hold on", "range": [117.34, 119.53], "ans": [2]},
+        {"lyric": "Eodieseodo", "range": [118.83, 120.26], "ans": [3]}
+      ]
+    },
+    {"lyric": "Baby hold on Baby hold on", "lyric_hangul": "Baby, hold on, baby, hold on (어디서라도)", "lyric_translation": "Baby hold on Baby hold on", "range": [120.26, 123.3], "ans": [2]},
+    {"lyric": "Fall into your eyes", "lyric_hangul": "I wanna ride with you, fall into your eyes", "lyric_translation": "Fall into your eyes", "range": [127.57, 132.78], "ans": [8]},
+    {"lyric": "Modeun sungandeuri oroji neol hyanghae isseo", "lyric_hangul": "모든 순간들이 오로지 널 향해 있어", "lyric_translation": "Every moment is pointing to you", "range": [132.78, 136.94], "ans": [8]},
+    {"lyric": "Naneun neo hanaro chungbunhae", "lyric_hangul": "나는 너 하나로 충분해", "lyric_translation": "All I ever need is you", "range": [136.94, 139.88], "ans": [8]},
+    "",
+    {"lyric": "Dangyeonhan geon hana eopseo", "lyric_hangul": "당연한 건 하나 없어", "lyric_translation": "Take nothing for granted", "range": [139.88, 142.56], "ans": [1]},
+    {"lyric": "Naege neoman isseoseo", "lyric_hangul": "나에게 너만 있어서", "lyric_translation": "You’re all I got", "range": [142.56, 145.84], "ans": [1]},
+    {"lyric": "Won’t let them break your heart oh no", "lyric_hangul": "Won't let them break your heart, oh no", "lyric_translation": "Won’t let them break your heart oh no", "range": [145.84, 150.67], "ans": [1]},
+    {
+      "lyric_hangul": "그 어디라도",
+      "lyric_translation": "No matter where we are / Wherever we go",
+      "parts": [
+        {"lyric": "Eodiseorado", "range": [150.67, 151.85], "ans": [3]},
+        {"lyric": "Geu eodirado", "range": [151.15, 152.53], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Baby, hold on, baby, hold on (어디에서도)",
+      "lyric_translation": "Baby hold on Baby hold on / Wherever we are",
+      "parts": [
+        {"lyric": "Baby hold on Baby hold on", "range": [152.53, 154.62], "ans": [9]},
+        {"lyric": "Eodieseodo", "range": [153.92, 155.46], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Baby, hold on, baby, hold on (어디서라도)",
+      "lyric_translation": "Baby hold on Baby hold on / No matter where we are",
+      "parts": [
+        {"lyric": "Baby hold on Baby hold on", "range": [155.46, 157.53], "ans": [9]},
+        {"lyric": "Eodiseorado", "range": [156.83, 158.16], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "세상이 끝나더라도",
+      "lyric_translation": "Even if the world is ending / Even if the world is ending",
+      "parts": [
+        {"lyric": "Sesangi kkeunnadeorado", "range": [158.16, 159.64], "ans": [2]},
+        {"lyric": "Sesangi kkeunnadeorado", "range": [159.64, 162.26], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I wanna rock with you",
+      "lyric_translation": "I wanna / Ride with you / I wanna rock with you",
+      "parts": [
+        {"lyric": "I wanna", "range": [162.26, 163.31], "ans": [2]},
+        {"lyric": "Ride with you", "range": [162.61, 163.82], "ans": [8]},
+        {"lyric": "I wanna rock with you", "range": [163.12, 166.52], "ans": [11]}
+      ]
+    },
+    "",
+    {"lyric": "I wanna rock with you", "lyric_hangul": "I wanna rock with you", "lyric_translation": "I wanna rock with you", "range": [168.05, 173.96], "ans": [8]},
+    {"lyric": "I wanna stay with you", "lyric_hangul": "I wanna stay with you", "lyric_translation": "I wanna stay with you", "range": [173.96, 178.3], "ans": [6]}
+  ]
+}

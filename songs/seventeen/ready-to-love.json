@@ -1,0 +1,214 @@
+{
+  "name": "Ready to love",
+  "ogg": "sound/kpop/ready_to_love.ogg",
+  "id": "ready-to-love",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2021-06-18",
+  "album": "Your Choice",
+  "cover": "css/images/covers/ready-to-love.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T02:46:53Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I’m ready to love", "lyric_hangul": "I'm ready to love, 내게 말해 줘", "lyric_translation": "I’m ready to love", "range": [0.75, 4.2], "ans": [3]},
+    {
+      "lyric_hangul": "Can we stay together? Can we stay together?",
+      "lyric_translation": "Tell me, can we stay together / Can we stay together",
+      "parts": [
+        {"lyric": "Naege malhae jweo Can we stay together", "range": [4.2, 5.86], "ans": [3]},
+        {"lyric": "Can we stay together", "range": [5.86, 7.86], "ans": [3]}
+      ]
+    },
+    {"lyric": "I’m a fool of love for you", "lyric_hangul": "I'm a fool of love for you", "lyric_translation": "I’m a fool of love for you", "range": [7.86, 10.1], "ans": [8]},
+    {"lyric": "Nae mameul ne gyeote Forever ne gyeote Forever", "lyric_hangul": "내 맘을 네 곁에 forever, 네 곁에 forever", "lyric_translation": "My heart by your side forever", "range": [10.1, 16.49], "ans": [8]},
+    "",
+    {"lyric": "Neol manna nae maeumi gyesok deo jaraseo", "lyric_hangul": "널 만나 내 마음이 계속 더 자라서, oh", "lyric_translation": "My feelings grew after I met you", "range": [16.49, 23.96], "ans": [6]},
+    {"lyric": "Uri sairan chinguroneun mojara nan", "lyric_hangul": "우리 사이란 친구로는 모자라 난 (can we?)", "lyric_translation": "Just friends that’s not enough for me", "range": [23.96, 31.38], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "처음 느낀 심장의 속도가 이리 빠른 줄 몰랐어",
+      "lyric_translation": "First time feeling my heart race / Never thought it’d beat so fast",
+      "parts": [
+        {"lyric": "Cheoeum neukkin shimjange sokdoga", "range": [31.38, 37.72], "ans": [5]},
+        {"lyric": "Iri ppareun jul mollasseo", "range": [37.72, 38.97], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "All I wanna do is run away 'cause you are my escape, babe",
+      "lyric_translation": "All I wanna do is run away / Cause you are my escape baby",
+      "parts": [
+        {"lyric": "All I wanna do is run away", "range": [38.47, 40.0], "ans": [1]},
+        {"lyric": "Cause you are my escape baby", "range": [40.0, 41.88], "ans": [1]}
+      ]
+    },
+    {"lyric": "Love has no limit daedabeul weonhae Ay", "lyric_hangul": "Love has no limit 대답을 원해, hey", "lyric_translation": "Love has no limit, I want an answer ay", "range": [41.88, 44.82], "ans": [1]},
+    "",
+    {"lyric": "I’m ready to love", "lyric_hangul": "I'm ready to love, 내게 말해 줘", "lyric_translation": "I’m ready to love", "range": [44.82, 48.27], "ans": [8]},
+    {
+      "lyric_hangul": "Can we stay together? Can we stay together?",
+      "lyric_translation": "Tell me, can we stay together / Can we stay together",
+      "parts": [
+        {"lyric": "Naege malhae jweo Can we stay together", "range": [48.27, 50.33], "ans": [8]},
+        {"lyric": "Can we stay together", "range": [50.33, 52.39], "ans": [8]}
+      ]
+    },
+    {"lyric": "I’m a fool of love for you", "lyric_hangul": "I'm a fool of love for you", "lyric_translation": "I’m a fool of love for you", "range": [51.96, 54.44], "ans": [11]},
+    {"lyric": "Nae mameul ne gyeote Forever ne gyeote Forever", "lyric_hangul": "내 맘을 네 곁에 forever, 네 곁에 forever", "lyric_translation": "My heart by your side forever", "range": [54.44, 59.16], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "세상의 반대로 run away, 내 손을 잡아",
+      "lyric_translation": "Run away to the other side of the world / Take my hand",
+      "parts": [
+        {"lyric": "Sesange bandaero Run away", "range": [59.16, 63.32], "ans": [12]},
+        {"lyric": "Nae soneul jaba", "range": [63.32, 64.31], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "계속 run away, 이제 날 믿어",
+      "lyric_translation": "Still I run away / Trust me now",
+      "parts": [
+        {"lyric": "Gyesok Run away", "range": [63.57, 64.07], "ans": [4]},
+        {"lyric": "Ije nal mideo", "range": [63.75, 67.26], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "숨이 차오를 듯이 내 맘 가득 채울 수 있게 (그럴 수 있게)",
+      "lyric_translation": "To fill my heart to the top / Like you’re short of breath (let me)",
+      "parts": [
+        {"lyric": "Sumi chaoreul deushi nae mam gadeuk", "range": [67.26, 72.88], "ans": [7]},
+        {"lyric": "Chaeul su itge (geureol su itge)", "range": [72.88, 74.38], "ans": [7]}
+      ]
+    },
+    {"lyric": "You give me purpose", "lyric_hangul": "You give me purpose", "lyric_translation": "You give me purpose", "range": [73.38, 75.77], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "Already know, yeah, 생각에 빠질 때 짓는 표정",
+      "lyric_translation": "Already know yeh / That expression lost in thought",
+      "parts": [
+        {"lyric": "Already know yeh", "range": [75.77, 76.8], "ans": [12]},
+        {"lyric": "Saenggage ppajil ttae jinneun pyojeong", "range": [76.8, 78.86], "ans": [12]}
+      ]
+    },
+    {"lyric": "Ne gibuneul puneun Secret recipe", "lyric_hangul": "네 기분을 푸는 secret recipe", "lyric_translation": "My secret recipe to make you feel better", "range": [78.86, 82.23], "ans": [12]},
+    "",
+    {
+      "lyric_hangul": "내 눈이 널 보는 순간 다 알고 있어",
+      "lyric_translation": "The moment my eyes saw you / Everything’s clear",
+      "parts": [
+        {"lyric": "Nae nuni neol boneun sungan", "range": [82.23, 84.7], "ans": [13]},
+        {"lyric": "Da algo isseo", "range": [84.7, 86.24], "ans": [13]}
+      ]
+    },
+    {"lyric": "Amu mal haji anado", "lyric_hangul": "아무 말 하지 않아도 (can we?)", "lyric_translation": "No need to say a word", "range": [86.24, 90.6], "ans": [13]},
+    "",
+    {
+      "lyric_hangul": "처음 느낀 심장의 속도가 이리 빠른 줄 몰랐어",
+      "lyric_translation": "First time feeling my heart race / Never thought it’d beat so fast",
+      "parts": [
+        {"lyric": "Cheoeum neukkin shimjange sokdoga", "range": [90.6, 96.7], "ans": [10]},
+        {"lyric": "Iri ppareun jul mollasseo", "range": [96.7, 97.98], "ans": [10]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "All I wanna do is run away 'cause you are my escape, babe",
+      "lyric_translation": "All I wanna do is run away / Cause you are my escape baby",
+      "parts": [
+        {"lyric": "All I wanna do is run away", "range": [97.48, 98.42], "ans": [9]},
+        {"lyric": "Cause you are my escape baby", "range": [98.42, 101.66], "ans": [9]}
+      ]
+    },
+    {"lyric": "Neoman junbiga dweeo isseumyeon dwae Ay", "lyric_hangul": "너만 준비가 되어 있으면 돼, hey", "lyric_translation": "Just need you to be ready ay", "range": [101.24, 104.09], "ans": [9]},
+    "",
+    {"lyric": "I’m ready to love", "lyric_hangul": "I'm ready to love, 내게 말해 줘", "lyric_translation": "I’m ready to love", "range": [104.09, 107.43], "ans": [3]},
+    {
+      "lyric_hangul": "Can we stay together? Can we stay together?",
+      "lyric_translation": "Tell me, can we stay together / Can we stay together",
+      "parts": [
+        {"lyric": "Naege malhae jweo Can we stay together", "range": [107.43, 109.09], "ans": [3]},
+        {"lyric": "Can we stay together", "range": [109.09, 111.55], "ans": [3]}
+      ]
+    },
+    {"lyric": "I’m a fool of love for you", "lyric_hangul": "I'm a fool of love for you", "lyric_translation": "I’m a fool of love for you", "range": [111.08, 113.51], "ans": [13]},
+    {"lyric": "Nae mameul ne gyeote Forever ne gyeote Forever", "lyric_hangul": "내 맘을 네 곁에 forever, 네 곁에 forever", "lyric_translation": "My heart by your side forever", "range": [113.51, 118.36], "ans": [13]},
+    "",
+    {
+      "lyric_hangul": "세상의 반대로 run away, 내 손을 잡아",
+      "lyric_translation": "Run away to the other side of the world / Take my hand",
+      "parts": [
+        {"lyric": "Sesange bandaero Run away", "range": [118.36, 122.66], "ans": [4]},
+        {"lyric": "Nae soneul jaba", "range": [122.66, 123.35], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "계속 run away, 이제 날 믿어",
+      "lyric_translation": "Still I run away / Trust me now",
+      "parts": [
+        {"lyric": "Gyesok Run away", "range": [122.45, 122.95], "ans": [2]},
+        {"lyric": "Ije nal mideo", "range": [122.77, 126.36], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "숨이 차오를 듯이 내 맘 가득 채울 수 있게 (그럴 수 있게)",
+      "lyric_translation": "To fill my heart to the top / Like you’re short of breath (let me)",
+      "parts": [
+        {"lyric": "Sumi chaoreul deushi nae mam gadeuk", "range": [126.36, 131.96], "ans": [10]},
+        {"lyric": "Chaeul su itge (geureol su itge)", "range": [131.96, 133.52], "ans": [10]}
+      ]
+    },
+    {"lyric": "You give me purpose", "lyric_hangul": "You give me purpose", "lyric_translation": "You give me purpose", "range": [132.52, 134.85], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "하루하루 쌓여 갈수록 내 감정도 더욱 커져가",
+      "lyric_translation": "With each passing day / My emotions keep growing",
+      "parts": [
+        {"lyric": "Haruharu ssayeo galsurok", "range": [134.85, 139.75], "ans": [11]},
+        {"lyric": "Nae gamjeongdo deouk keojyeoga", "range": [139.75, 141.83], "ans": [11]}
+      ]
+    },
+    {"lyric": "Deo isangeun I don’t wanna waste", "lyric_hangul": "더 이상은 I don't wanna waste", "lyric_translation": "I don’t wanna waste any more", "range": [141.33, 146.22], "ans": [8, 11]},
+    {"lyric": "Neol wihae dallilge", "lyric_hangul": "널 위해 달릴게", "lyric_translation": "I want to run for you", "range": [146.22, 148.15], "ans": [1]},
+    "",
+    {"lyric": "I’m ready to love", "lyric_hangul": "I'm ready to love, 내게 말해 줘", "lyric_translation": "I’m ready to love", "range": [148.15, 151.6], "ans": [5]},
+    {
+      "lyric_hangul": "Can we stay together? Can we stay together?",
+      "lyric_translation": "Tell me, can we stay together / Can we stay together",
+      "parts": [
+        {"lyric": "Naege malhae jweo Can we stay together", "range": [151.6, 155.16], "ans": [5]},
+        {"lyric": "Can we stay together", "range": [155.16, 155.66], "ans": [5]}
+      ]
+    },
+    {"lyric": "I’m a fool of love for you", "lyric_hangul": "I'm a fool of love for you", "lyric_translation": "I’m a fool of love for you", "range": [155.3, 157.62], "ans": [7]},
+    {"lyric": "Nae mameul ne gyeote Forever ne gyeote Forever", "lyric_hangul": "내 맘을 네 곁에 forever, 네 곁에 forever", "lyric_translation": "My heart by your side forever", "range": [157.62, 162.62], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "세상의 반대로 run away, 내 손을 잡아",
+      "lyric_translation": "Run away to the other side of the world / Take my hand",
+      "parts": [
+        {"lyric": "Sesange bandaero Run away", "range": [162.62, 166.82], "ans": [6]},
+        {"lyric": "Nae soneul jaba", "range": [166.82, 167.73], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "계속 run away, 이제 날 믿어",
+      "lyric_translation": "Still I run away / Trust me now",
+      "parts": [
+        {"lyric": "Gyesok Run away", "range": [167.03, 167.53], "ans": [4]},
+        {"lyric": "Ije nal mideo", "range": [167.37, 170.69], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "숨이 차오를 듯이 내 맘 가득 채울 수 있게 (그럴 수 있게)",
+      "lyric_translation": "To fill my heart to the top / Like you’re short of breath (let me)",
+      "parts": [
+        {"lyric": "Sumi chaoreul deushi nae mam gadeuk", "range": [170.69, 176.27], "ans": [2]},
+        {"lyric": "Chaeul su itge (geureol su itge)", "range": [176.27, 177.98], "ans": [2]}
+      ]
+    },
+    {"lyric": "You give me purpose", "lyric_hangul": "You give me purpose", "lyric_translation": "You give me purpose", "range": [176.98, 180.54], "ans": [1]}
+  ]
+}

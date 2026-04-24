@@ -1,0 +1,94 @@
+{
+  "name": "F*ck My Life",
+  "ogg": "sound/kpop/fml.ogg",
+  "id": "fml",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2023-04-24",
+  "album": "[",
+  "cover": "css/images/covers/fml.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T02:46:45Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ireon bireomeogeul sesang", "lyric_hangul": "이런 빌어먹을 세상 이런 빌어먹을 세상", "lyric_translation": "N/A", "range": [5.27, 31.76], "ans": [1]},
+    {"lyric": "Ireon bireomeogeul sesang naman honja babo dwaesseo", "lyric_hangul": "나만 혼자 바보 됐어", "lyric_translation": "", "range": [31.76, 34.75], "ans": [9]},
+    {"lyric": "Gal gireul ireun chae gal goseul ireun chae", "lyric_hangul": "갈 길을 잃은 채, 갈 곳을 잃은 채", "lyric_translation": "", "range": [34.75, 38.7], "ans": [9]},
+    {"lyric": "Naman babo dwaesseo", "lyric_hangul": "나만 바보 됐어, 나만 바보 됐어", "lyric_translation": "", "range": [38.7, 42.02], "ans": [9]},
+    "",
+    {"lyric": "Ijeobeorija ireoke useo beorija ireoke", "lyric_hangul": "잊어버리자 이렇게, 웃어버리자 이렇게", "lyric_translation": "", "range": [42.02, 48.56], "ans": [3]},
+    {"lyric": "Dwedo anneun wiroreul haebwado", "lyric_hangul": "되도 않는 위로를 해봐도", "lyric_translation": "", "range": [48.56, 52.31], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "집에 돌아가는 길에 울컥 울고 싶어 계속, 워오오, 오",
+      "parts": [
+        {"lyric": "Jipe doraganeun gire ulkeok", "range": [52.31, 56.47], "ans": [6]},
+        {"lyric": "Ulgo shibeo gyesok Wuh Uh Uh", "range": [56.47, 58.99], "ans": [6]}
+      ]
+    },
+    {"lyric": "Sarajyeo ganeun nae moseupeul dashi chatgoman shipeul ppun", "lyric_hangul": "사라져 가는 내 모습을 다시 찾고만 싶을 뿐", "lyric_translation": "", "range": [58.67, 64.63], "ans": [6]},
+    "",
+    {"lyric": "Eoril ttae manhwayeonghwae naoneun juingongeun wae", "lyric_hangul": "어릴 적 만화영화에 나오는 주인공은", "lyric_translation": "", "range": [64.63, 68.12], "ans": [5]},
+    {"lyric": "Naega dwel su eomneunji nae mameun aju geomeunsaek", "lyric_hangul": "왜 내가 될 수 없는지? 내 맘은 아주 검은색", "lyric_translation": "", "range": [68.12, 71.51], "ans": [5]},
+    "",
+    {"lyric": "Nawa haruman shimjang bakkweo jul saram eodido eomna", "lyric_hangul": "나와 하루만 심장 바꿔 줄 사람 어디도 없나", "lyric_translation": "", "range": [71.51, 76.62], "ans": [13]},
+    "",
+    {"lyric": "Ireon bireomeogeul sesang naman honja babo dwaesseo", "lyric_hangul": "이런 빌어먹을 세상 나만 혼자 바보 됐어", "lyric_translation": "", "range": [76.62, 82.9], "ans": [7]},
+    {"lyric": "Gal gireul ireun chae gal goseul ireun chae", "lyric_hangul": "갈 길을 잃은 채, 갈 곳을 잃은 채", "lyric_translation": "", "range": [82.9, 86.06], "ans": [7]},
+    {"lyric": "Naman babo dwaesseo", "lyric_hangul": "나만 바보 됐어", "lyric_translation": "", "range": [86.06, 88.85], "ans": [7]},
+    "",
+    {"lyric": "Jigeumbuteo Fight For My Life", "lyric_hangul": "지금부터 fight for my life", "lyric_translation": "", "range": [88.85, 91.71], "ans": [11]},
+    {"lyric": "Nareul wihae Fight For My Life", "lyric_hangul": "나를 위해 fight for my life", "lyric_translation": "", "range": [91.71, 96.67], "ans": [11]},
+    {"lyric": "Mudyeojimi iksukhan sesangeseo", "lyric_hangul": "무뎌짐이 익숙한 이 세상에서", "lyric_translation": "", "range": [96.67, 99.62], "ans": [12]},
+    {
+      "lyric_hangul": "이제 나는 나를 찾고 싶어",
+      "parts": [
+        {"lyric": "Ije naneun nareul chatgo shibeo", "range": [99.62, 101.09], "ans": [12]},
+        {"lyric": "Ije naneun nareul chatgo shibeo", "range": [100.39, 103.19], "ans": [11]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Jeomjeom nan jichyeoga honjaseo kkuneun kkum", "lyric_hangul": "점점 난 지쳐가 혼자서 꾸는 꿈", "lyric_translation": "", "range": [103.19, 108.77], "ans": [8]},
+    {"lyric": "Ijen neomuna jigyeoweo geumandugo shibeo", "lyric_hangul": "이젠 너무나 지겨워, 그만 두고 싶어", "lyric_translation": "", "range": [108.77, 113.82], "ans": [8]},
+    {
+      "lyric_hangul": "난 나에게 어제 나에게 부끄러운 내일이 되고 싶지 않아",
+      "parts": [
+        {"lyric": "Nan naege eoje naege bukkeureoun", "range": [113.82, 117.46], "ans": [4]},
+        {"lyric": "Naeiri dwego shipji ana", "range": [117.46, 119.57], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Dwedo anneun dajimeul haebwado", "lyric_hangul": "되도 않는 다짐을 해봐도", "lyric_translation": "", "range": [119.57, 124.55], "ans": [4]},
+    {
+      "lyric_hangul": "바보 같은 내 모습이 우스워 울고 싶어 계속, 워오오, 오",
+      "parts": [
+        {"lyric": "Babo gateun nae moseubi useuweo", "range": [124.55, 128.47], "ans": [10]},
+        {"lyric": "Ulgo shibeo gyesok Wuh Uh Uh", "range": [128.47, 130.59], "ans": [10]}
+      ]
+    },
+    "",
+    {"lyric": "Sesange mami mudyeojyeoseo naega jagajineun gibun", "lyric_hangul": "세상에 맘이 무뎌져서 내가 작아지는 기분", "lyric_translation": "", "range": [130.41, 136.5], "ans": [10]},
+    {"lyric": "Malhal su eomneun bimiri ttodashi nunmuri dweji", "lyric_hangul": "말 할 수 없는 비밀에 또 다시 눈물이 나지", "lyric_translation": "", "range": [136.5, 139.63], "ans": [13]},
+    "",
+    {"lyric": "Nan bukkeureoweoseo nuguegedo mareul mot haetji", "lyric_hangul": "난 부끄러워서 누구에게도 말을 못 했지", "lyric_translation": "", "range": [139.63, 143.99], "ans": [13]},
+    "",
+    {"lyric": "Nawa haruman shimjang bakkweo jul saram eodido eomna", "lyric_hangul": "사람 어디도 없나", "lyric_translation": "", "range": [146.6, 149.15], "ans": [12]},
+    {"lyric": "Ireon bireomeogeul sesang naman honja babo dwaesseo", "lyric_hangul": "이런 빌어먹을 세상 나만 혼자 바보 됐어", "lyric_translation": "", "range": [149.15, 154.67], "ans": [2]},
+    {"lyric": "Gal gireul ireun chae gal goseul ireun chae", "lyric_hangul": "갈 길을 잃은 채, 갈 곳을 잃은 채", "lyric_translation": "", "range": [154.67, 158.14], "ans": [2]},
+    "",
+    {"lyric": "Naman babo dwaesseo", "lyric_hangul": "나만 바보 됐어", "lyric_translation": "", "range": [158.14, 160.62], "ans": [2]},
+    {"lyric": "Jigeumbuteo Fight For My Life", "lyric_hangul": "지금부터 fight for my life", "lyric_translation": "", "range": [160.62, 163.77], "ans": [1]},
+    {"lyric": "Nareul wihae Fight For My Life", "lyric_hangul": "나를 위해 fight for my life", "lyric_translation": "", "range": [163.77, 168.61], "ans": [1]},
+    {"lyric": "Mudyeojimi iksukhan sesangeseo", "lyric_hangul": "무뎌짐이 익숙한 이 세상에서", "lyric_translation": "", "range": [168.61, 171.62], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "무뎌짐이 익숙한 이 세상에서 이제 나는 나를 찾고 싶어",
+      "parts": [
+        {"lyric": "Ije naneun nareul chatgo shibeo", "range": [192.54, 195.93], "ans": [5]},
+        {"lyric": "Mudyeojimi iksukhan sesangeseo", "range": [195.23, 200.5], "ans": [11]}
+      ]
+    }
+  ]
+}

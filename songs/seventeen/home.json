@@ -1,0 +1,108 @@
+{
+  "name": "Home",
+  "ogg": "sound/kpop/home.ogg",
+  "id": "home",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2019-01-21",
+  "album": "YOU MADE MY DAWN",
+  "cover": "css/images/covers/home.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T04:06:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Naega mwol eojjeogesseo naneun neoga eopseumyeon", "lyric_hangul": "내가 뭘 어쩌겠어 나는 네가 없으면", "lyric_translation": "What can I do? Without you", "range": [9.8, 15.25], "ans": [2]},
+    {"lyric": "Nalgeun robotcheoreom mami meomchugo neul chagawo", "lyric_hangul": "낡은 로봇처럼 맘이 멈추고 늘 차가워", "lyric_translation": "I’m just an old robot, my heart stops and it’s always cold", "range": [15.25, 20.81], "ans": [3]},
+    "",
+    {"lyric": "Urin mwol eojjeogesseo neoneun naega eopseumyeon yeh", "lyric_hangul": "우린 뭘 어쩌겠어 너는 내가 없으면 yeah, yeah", "lyric_translation": "What can we do? Without me", "range": [20.81, 26.98], "ans": [7]},
+    {"lyric": "Narang ttokgachi himdeul tende mwol eojjeogesseo uri yeh", "lyric_hangul": "나랑 똑같이 힘들 텐데 뭘 어쩌겠어 우리 yeah", "lyric_translation": "You’ll struggle just as much, so what can we do?", "range": [26.98, 32.41], "ans": [1]},
+    "",
+    {"lyric": "Baby uriye ttatteuthameul geudaero ganjikhago shipeo", "lyric_hangul": "Baby 우리의 따뜻함을 그대로 간직하고 싶어", "lyric_translation": "Baby, I want to cherish our warmth", "range": [32.41, 38.13], "ans": [5]},
+    {"lyric": "Eotteon nugurado uri sai pulji mothaeseo", "lyric_hangul": "어떤 누구라도 우리 사이 풀지 못해서", "lyric_translation": "So no one can come between us", "range": [38.13, 43.01], "ans": [10]},
+    "",
+    {"lyric": "Tell me naye neo tell me naye neo", "lyric_hangul": "Tell me 나의 너 Tell me 나의 너", "lyric_translation": "Tell me, you’re mine, tell me, I’m yours", "range": [43.01, 45.6], "ans": [13]},
+    {"lyric": "Mal jom haejwo nae aneseo", "lyric_hangul": "말 좀 해줘 내 안에서", "lyric_translation": "Tell me, you’re in me", "range": [45.6, 48.45], "ans": [13]},
+    {"lyric": "Nan ne maeum aneseo balbeodung chigo isseo", "lyric_hangul": "난 네 마음 안에서 발버둥 치고 있어", "lyric_translation": "I’m in you squirming inside", "range": [48.45, 51.38], "ans": [12]},
+    {"lyric": "Deolkeok geobi naneungeol", "lyric_hangul": "덜컥 겁이 나는 걸", "lyric_translation": "I’m suddenly afraid", "range": [51.38, 53.88], "ans": [9]},
+    "",
+    {"lyric": "Eojjeogesseo nan neoga eopseumyeon", "lyric_hangul": "어쩌겠어 난 네가 없으면", "lyric_translation": "What do I do? Without you", "range": [53.88, 59.38], "ans": [7]},
+    {
+      "lyric_hangul": "내 마음 편히 기댈 집이 없어 (Oh baby)",
+      "lyric_translation": "My heart has no home (oh baby)",
+      "parts": [
+        {"lyric": "Nae maeum pyeonhi gidael jibi eopseo", "range": [59.38, 62.33], "ans": [5]},
+        {"lyric": "(oh baby)", "range": [61.63, 62.69], "ans": [7]}
+      ]
+    },
+    {"lyric": "Nae sogeun neoreul wihae bieo isseo", "lyric_hangul": "내 속은 너를 위해 비어 있어", "lyric_translation": "I’ve kept my insides empty for you", "range": [62.33, 64.58], "ans": [4]},
+    {"lyric": "Eojji bomyeon jogeum eoryeobgetjiman", "lyric_hangul": "어찌 보면 조금 어렵겠지만", "lyric_translation": "Things might seem hard", "range": [64.58, 69.68], "ans": [8]},
+    {"lyric": "Eonjerado nan yeogi seo isseo", "lyric_hangul": "언제라도 난 여기 서 있어", "lyric_translation": "But I’ll always be here", "range": [69.68, 71.52], "ans": [11]},
+    {"lyric": "Pyeonhage saenggakhaedo dwae", "lyric_hangul": "편하게 생각해도 돼", "lyric_translation": "So don’t think too difficultly", "range": [71.52, 75.33], "ans": [11]},
+    "",
+    {"lyric": "Cause I’m your home home home home", "lyric_hangul": "'Cause I'm your home, home, home, home", "lyric_translation": "Cause I’m your home home home home", "range": [75.33, 81.08], "ans": [8]},
+    {"lyric": "Cause I’m your home home home home", "lyric_hangul": "'Cause I'm your home, home, home, home", "lyric_translation": "Cause I’m your home home home home", "range": [81.08, 86.27], "ans": [5]},
+    {"lyric": "Cause I’m your home home home home", "lyric_hangul": "'Cause I'm your home, home, home, home", "lyric_translation": "Cause I’m your home home home home", "range": [86.27, 90.85], "ans": [3]},
+    {"lyric": "Nega ul su itneun got, nega ol su itneun got", "lyric_hangul": "네가 울 수 있는 곳 네가 올 수 있는 곳", "lyric_translation": "A place you can come to, a place you can come to", "range": [90.85, 97.33], "ans": [2]},
+    "",
+    {"lyric": "Imi naneun neoye maeumeul apjireun geot gata jigeumeun", "lyric_hangul": "이미 나는 너의 마음을 앞지른 것 같아 지금은", "lyric_translation": "I think my heart has surpassed you already", "range": [97.33, 103.06], "ans": [6]},
+    {"lyric": "Geureotago ne mami jakdaneun ge anya", "lyric_hangul": "그렇다고 네 맘이 작다는 게 아냐", "lyric_translation": "But I’m not saying your heart is small", "range": [103.06, 107.35], "ans": [10]},
+    "",
+    "[next-col]",
+    {"lyric": "Bakkeun yeojeonhi chuwo shirin kokkeucheun deo", "lyric_hangul": "Yeah 밖은 여전히 추워 시린 코끝은 더", "lyric_translation": "It’s still cold outside, the tip of my nose is tingling", "range": [107.35, 110.73], "ans": [12]},
+    {"lyric": "Urireul meolliseodo dagaseoge haneun chueok", "lyric_hangul": "우리를 멀리서도 다가서게 하는 추억", "lyric_translation": "Though we’re far away, the memories bring us closer", "range": [110.73, 113.55], "ans": [12]},
+    {
+      "lyric_hangul": "네 마음에 구멍 나면 두 손으로 막아 주면 돼",
+      "lyric_translation": "If your heart has a hole / I’ll cover it with my hands",
+      "parts": [
+        {"lyric": "Ne maeume gumeong namyeon", "range": [113.55, 115.01], "ans": [9]},
+        {"lyric": "Du soneuro maga jumyeon dwae", "range": [115.01, 116.61], "ans": [9]}
+      ]
+    },
+    {"lyric": "Bin sonirado naemireo jwo naega chaeulge", "lyric_hangul": "빈손이라도 내밀어 줘 내가 채울게", "lyric_translation": "Even if your hands are empty, give them to me so I can fill them up", "range": [116.54, 119.22], "ans": [9]},
+    "",
+    {"lyric": "Tell me naye neo tell me naye neo", "lyric_hangul": "Tell me 나의 너 Tell me 나의 너", "lyric_translation": "Tell me, you’re mine, tell me, I’m yours", "range": [119.22, 122.07], "ans": [5, 8]},
+    {"lyric": "Mal jom haejwo nae aneseo", "lyric_hangul": "말 좀 해줘 내 안에서", "lyric_translation": "Tell me, you’re in me", "range": [122.07, 125.38], "ans": [5, 8]},
+    {
+      "lyric_hangul": "난 네 마음 안에서 (마음 안에서)",
+      "lyric_translation": "I’m in you",
+      "parts": [
+        {"lyric": "Nan ne maeum aneseo", "range": [125.38, 126.9], "ans": [4]},
+        {"lyric": "(maeum aneseo)", "range": [126.2, 127.22], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "발버둥 치고 있어 (치고 있어)",
+      "lyric_translation": "Squirming inside",
+      "parts": [
+        {"lyric": "Balbeodung chigo isseo", "range": [126.73, 128.32], "ans": [4]},
+        {"lyric": "(chigo isseo)", "range": [127.62, 128.38], "ans": [12]}
+      ]
+    },
+    {"lyric": "Deolkeok geobi naneungeol", "lyric_hangul": "덜컥 겁이 나는 걸", "lyric_translation": "I’m suddenly afraid", "range": [128.12, 129.93], "ans": [1, 11]},
+    "",
+    {"lyric": "Eojjeogesseo nan neoga eopseumyeon", "lyric_hangul": "어쩌겠어 난 네가 없으면", "lyric_translation": "What do I do? Without you", "range": [129.93, 135.91], "ans": [6]},
+    {
+      "lyric_hangul": "내 마음 편히 기댈 집이 없어 (Oh baby)",
+      "lyric_translation": "My heart has no home (oh baby)",
+      "parts": [
+        {"lyric": "Nae maeum pyeonhi gidael jibi eopseo", "range": [135.91, 138.68], "ans": [2]},
+        {"lyric": "(oh baby)", "range": [137.98, 139.04], "ans": [7]}
+      ]
+    },
+    {"lyric": "Nae sogeun neoreul wihae bieo isseo", "lyric_hangul": "내 속은 너를 위해 비어 있어", "lyric_translation": "I’ve kept my insides empty for you", "range": [138.39, 141.0], "ans": [4]},
+    {"lyric": "Eojji bomyeon jogeum eoryeobgetjiman", "lyric_hangul": "어찌 보면 조금 어렵겠지만", "lyric_translation": "Things might seem hard", "range": [141.0, 146.22], "ans": [7]},
+    {"lyric": "Eonjerado nan yeogi seo isseo", "lyric_hangul": "언제라도 난 여기 서 있어", "lyric_translation": "But I’ll always be here", "range": [146.22, 147.93], "ans": [8]},
+    {"lyric": "Pyeonhage saenggakhaedo dwae", "lyric_hangul": "편하게 생각해도 돼", "lyric_translation": "So don’t think too difficultly", "range": [147.93, 151.08], "ans": [8]},
+    "",
+    {"lyric": "Naneun ireoke neoreul bonaego shipji ana", "lyric_hangul": "나는 이렇게 너를 보내고 싶지 않아", "lyric_translation": "I don’t wanna let you go like this", "range": [151.08, 156.54], "ans": [11]},
+    {"lyric": "Mami buseojin chaero maeil museobgo shipji ana", "lyric_hangul": "맘이 부서진 채로 매일 무섭고 싶지 않아", "lyric_translation": "I don’t want to be scared with a broken heart", "range": [156.54, 163.29], "ans": [8]},
+    {"lyric": "Naneun neoege isseul got", "lyric_hangul": "나는 너에게 있을 곳", "lyric_translation": "I’m the place you can come to", "range": [163.29, 165.92], "ans": [1]},
+    {"lyric": "Neoneun naege isseul got", "lyric_hangul": "너는 나에게 있을 곳", "lyric_translation": "You’re the place I can go to", "range": [165.92, 171.02], "ans": [9]},
+    "",
+    {"lyric": "Cause I’m your home home home home", "lyric_hangul": "'Cause I'm your home, home, home, home (Home, home, home, home)", "lyric_translation": "Cause I’m your home home home home", "range": [173.48, 181.95], "ans": [11]},
+    {"lyric": "Cause I’m your home home home home", "lyric_hangul": "'Cause I'm your home, home, home, home", "lyric_translation": "Cause I’m your home home home home", "range": [181.95, 186.92], "ans": [13]},
+    {"lyric": "Because you’re my home home home home", "lyric_hangul": "Because you're my home, home, home, home", "lyric_translation": "Because you’re my home home home home", "range": [186.92, 191.91], "ans": [7]},
+    {"lyric": "Nega ul su itneun got, nado ul su itneun got", "lyric_hangul": "네가 울 수 있는 곳 나도 울 수 있는 곳", "lyric_translation": "A place you can come to, a place I can go to", "range": [191.91, 198.84], "ans": [3]}
+  ]
+}

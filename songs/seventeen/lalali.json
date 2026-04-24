@@ -1,0 +1,145 @@
+{
+  "name": "LALALI",
+  "ogg": "sound/kpop/lalali.ogg",
+  "id": "lalali",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2024-04-29",
+  "cover": "css/images/covers/lalali.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-23T02:46:40Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Pumhaengi eojjeondago", "lyric_hangul": "품행이 어쩐다고?", "lyric_translation": "N/A", "range": [7.95, 10.55], "ans": [12]},
+    {"lyric": "Naega ne mareul deutgennyago", "lyric_hangul": "내가 네 말을 듣겠냐고?", "lyric_translation": "", "range": [10.55, 12.36], "ans": [12]},
+    {"lyric": "Geureoke hal il eomnyago", "lyric_hangul": "그렇게 할 일 없냐고?", "lyric_translation": "", "range": [12.36, 14.32], "ans": [12]},
+    {"lyric": "Dojeohi neocheoreom mot sara", "lyric_hangul": "도저히 너처럼 못 살아", "lyric_translation": "", "range": [14.32, 16.11], "ans": [12]},
+    {
+      "lyric_hangul": "Music blasting, 창 다 깨버려",
+      "parts": [
+        {"lyric": "Music blasting", "range": [16.11, 17.09], "ans": [12]},
+        {"lyric": "Chang da kkaebeoryeo", "range": [17.09, 18.13], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "F- the neighbors, speaker 지붕 뚫어",
+      "parts": [
+        {"lyric": "Fuck the neighbors", "range": [18.13, 19.08], "ans": [12]},
+        {"lyric": "Seupigeo jibung ttulheo", "range": [19.08, 20.15], "ans": [12]}
+      ]
+    },
+    {"lyric": "Onshilhyogwa mandeuneun uri shireom", "lyric_hangul": "온실효과 만드는 우리 실험", "lyric_translation": "", "range": [19.89, 21.87], "ans": [12]},
+    {
+      "lyric_hangul": "Trying to take a snap, please no photos",
+      "parts": [
+        {"lyric": "Trying to take a snap", "range": [21.87, 23.33], "ans": [12]},
+        {"lyric": "Please no photos", "range": [23.33, 24.31], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Look at me, look at me, yeah",
+      "parts": [
+        {"lyric": "Look at me", "range": [24.31, 24.99], "ans": [9]},
+        {"lyric": "Look at me yeah", "range": [24.99, 26.1], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Bounce with me, bounce with me, yeah",
+      "parts": [
+        {"lyric": "Bounce with me", "range": [26.1, 26.99], "ans": [9]},
+        {"lyric": "Bounce with me yeah", "range": [26.99, 28.0], "ans": [9]}
+      ]
+    },
+    {"lyric": "Neukkimeun nolmyeo beoneun LALALI", "lyric_hangul": "느낌은 놀며 버는 la-la-li", "lyric_translation": "", "range": [27.5, 29.55], "ans": [9]},
+    {"lyric": "But jeon segye Fan da Love", "lyric_hangul": "But 전 세계 fan 다 L-O-V-E", "lyric_translation": "", "range": [29.55, 31.71], "ans": [9]},
+    {"lyric": "Ppumppai shipsaminbun pei", "lyric_hangul": "뿜빠이 13인분 페이", "lyric_translation": "", "range": [31.71, 33.78], "ans": [9]},
+    {"lyric": "Chungbunhi baebureum iltabaekpi", "lyric_hangul": "충분히 배부름 일타백피", "lyric_translation": "", "range": [33.78, 36.17], "ans": [9]},
+    {"lyric": "SVT can’t stop it", "lyric_hangul": "S-V-T can't stop it", "lyric_translation": "", "range": [36.17, 37.92], "ans": [9]},
+    {"lyric": "Jigubon chaeweora nae baljachwi", "lyric_hangul": "지구본 채워라 내 발자취 (발자취)", "lyric_translation": "", "range": [37.92, 40.95], "ans": [9]},
+    "",
+    {"lyric": "Malonecheoreom Free throw", "lyric_hangul": "Malone처럼 free throw (free throw)", "lyric_translation": "", "range": [40.95, 42.89], "ans": [1]},
+    {"lyric": "My team with the free smoke", "lyric_hangul": "My team with the free smoke (free smoke)", "lyric_translation": "", "range": [42.89, 44.85], "ans": [1]},
+    {"lyric": "Jeonsegi to gimpo", "lyric_hangul": "전세기 to 김포 (김포)", "lyric_translation": "", "range": [44.85, 46.4], "ans": [1]},
+    {"lyric": "Bada wi Calypso", "lyric_hangul": "바다 위 calypso", "lyric_translation": "", "range": [46.4, 47.99], "ans": [1]},
+    {"lyric": "Bari daneun daero baro naneun bulti", "lyric_hangul": "발이 닿는 대로 바로 나는 불티", "lyric_translation": "", "range": [47.99, 50.31], "ans": [12]},
+    {
+      "lyric_hangul": "Hot, 뜨거뜨거, hot, not 떡볶이",
+      "parts": [
+        {"lyric": "Hot tteugeotteugeo Hot", "range": [50.31, 51.35], "ans": [12]},
+        {"lyric": "Not tteokbokki", "range": [51.35, 51.97], "ans": [12]}
+      ]
+    },
+    {"lyric": "Hal su isseum uricheoreom haebodeunji", "lyric_hangul": "할 수 있음 우리처럼 해보든지", "lyric_translation": "", "range": [51.71, 53.68], "ans": [12]},
+    "",
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [53.68, 57.44], "ans": []},
+    {"lyric": "LALALI LALALI", "lyric_hangul": "Like, la-la-li, la-la-li", "lyric_translation": "", "range": [57.44, 61.85], "ans": [1]},
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [61.85, 65.51], "ans": []},
+    "",
+    {"lyric": "LALALI LALALI", "lyric_hangul": "Like, like, la-la-li, la-la-li", "lyric_translation": "", "range": [65.51, 69.56], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "겪어왔어 난 풍파, 우릴 막아봐 누가",
+      "parts": [
+        {"lyric": "Gyeokkeowasseo nan pungpa", "range": [72.35, 74.05], "ans": [6]},
+        {"lyric": "Uril magabwa nuga", "range": [74.05, 75.78], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "말했잖아 난 몬스터 못 즐기면 몰락",
+      "parts": [
+        {"lyric": "Malhaetjana nan monseuteo", "range": [75.78, 77.82], "ans": [6]},
+        {"lyric": "Mot jeulgimyeon mollak", "range": [77.82, 79.88], "ans": [6]}
+      ]
+    },
+    {"lyric": "Geobi namyeon dwiro mulleona neon", "lyric_hangul": "겁이 나면 뒤로 물러나 넌", "lyric_translation": "", "range": [79.62, 81.87], "ans": [6]},
+    {"lyric": "Ttwieonora uri eneojin dalleo", "lyric_hangul": "뛰어놀아 우리 에너진 달러", "lyric_translation": "", "range": [81.87, 83.73], "ans": [6]},
+    {"lyric": "Mudae wieseon amudo mot mallyeo", "lyric_hangul": "무대 위에선 아무도 못 말려", "lyric_translation": "", "range": [83.73, 85.64], "ans": [6]},
+    {"lyric": "Nan LALALI nalladanim", "lyric_hangul": "난 la-la-li, 날라다님, whoo", "lyric_translation": "", "range": [85.64, 87.73], "ans": [6]},
+    "",
+    "[next-col]",
+    {"lyric": "Hyeonjae sangtae bihaengmodeu", "lyric_hangul": "현재 상태 비행모드", "lyric_translation": "", "range": [87.73, 89.35], "ans": [1]},
+    {"lyric": "Deombindamyeon nae daedabeun kol", "lyric_hangul": "덤빈다면 내 대답은 콜", "lyric_translation": "", "range": [89.35, 91.22], "ans": [1]},
+    {"lyric": "Eojjeogojeojjeogo tto tteodeulsseokhaedo", "lyric_hangul": "어쩌고저쩌고 또 떠들썩해도", "lyric_translation": "", "range": [91.22, 93.23], "ans": [1]},
+    {"lyric": "Taedoneun kkojadweo jumeonie son", "lyric_hangul": "태도는 꽂아둬 주머니에 손", "lyric_translation": "", "range": [93.23, 95.76], "ans": [1]},
+    {"lyric": "8:2 gareuma meorie ttak dae", "lyric_hangul": "8:2 가르마 머리에 딱 대", "lyric_translation": "", "range": [95.76, 98.05], "ans": [1]},
+    {"lyric": "Neomchineun chimeul maikeue kak twe", "lyric_hangul": "넘치는 침을 마이크에 칵 퉤 (퉤)", "lyric_translation": "", "range": [98.05, 99.91], "ans": [1]},
+    {"lyric": "Shipyukdojjeum jjakdari jase jibeun chaero", "lyric_hangul": "18도쯤 짝다리 자세", "lyric_translation": "", "range": [99.91, 101.69], "ans": [1]},
+    {"lyric": "Gyeomsonhage deureo baksugalchae", "lyric_hangul": "짚은 채로 겸손하게 들어 박수갈채", "lyric_translation": "", "range": [101.69, 105.01], "ans": [1]},
+    "",
+    {"lyric": "Malonecheoreom Free throw", "lyric_hangul": "Malone처럼 free throw (free throw)", "lyric_translation": "", "range": [105.01, 106.83], "ans": [9]},
+    {"lyric": "My team with the free smoge", "lyric_hangul": "My team with the free smoke (free smoke)", "lyric_translation": "", "range": [106.83, 108.88], "ans": [9]},
+    {"lyric": "Jeonsegi to gimpo", "lyric_hangul": "전세기 to 김포 (김포)", "lyric_translation": "", "range": [108.88, 110.45], "ans": [9]},
+    {"lyric": "Bada wi Calypso", "lyric_hangul": "바다 위 calypso", "lyric_translation": "", "range": [110.45, 111.99], "ans": [9]},
+    {"lyric": "Bari daneun daero baro naneun bulti", "lyric_hangul": "발이 닿는 대로 바로 나는 불티", "lyric_translation": "", "range": [111.99, 114.35], "ans": [12]},
+    {
+      "lyric_hangul": "Hot, 뜨거뜨거, hot, not 떡볶이",
+      "parts": [
+        {"lyric": "Hot tteugeotteugeo Hot", "range": [114.35, 115.34], "ans": [12]},
+        {"lyric": "Not tteokbokki", "range": [115.34, 115.94], "ans": [12]}
+      ]
+    },
+    {"lyric": "Hal su isseum uricheoreom haebodeunji", "lyric_hangul": "할 수 있음 우리처럼 해보든지", "lyric_translation": "", "range": [115.84, 117.6], "ans": [12]},
+    "",
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [117.6, 121.66], "ans": []},
+    {"lyric": "LALALI LALALI", "lyric_hangul": "Like, like, la-la-li, la-la-li", "lyric_translation": "", "range": [121.66, 125.77], "ans": [1]},
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [125.77, 127.89], "ans": []},
+    "",
+    {"lyric": "LALALI LALALI", "lyric_hangul": "Like, like, like, la-la-li, la-la-li", "lyric_translation": "", "range": [127.89, 133.68], "ans": [1]},
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [133.68, 136.46], "ans": []},
+    "",
+    {"lyric": "Urin hago shipeun geon modu da haji", "lyric_hangul": "(Yo, yo, yo, yo) 우린 하고 싶은 건 모두 다 하지", "lyric_translation": "", "range": [136.46, 140.21], "ans": [6]},
+    {"lyric": "Yak oreuji urin nunetgashi", "lyric_hangul": "(Yo, yo, yo, yo) 약 오르지 우린 눈엣가시", "lyric_translation": "", "range": [140.21, 144.14], "ans": [6]},
+    {"lyric": "Urin hago shipeun geon modu da haji", "lyric_hangul": "(Yo, yo, yo, yo) 우린 하고 싶은 건 모두 다 하지", "lyric_translation": "", "range": [144.14, 148.31], "ans": [6]},
+    "",
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "(Yo, yo, yo, yo) 어림없지 난 la-la-li", "lyric_translation": "", "range": [148.31, 153.65], "ans": []},
+    {"lyric": "LALALI LALALI", "lyric_hangul": "Like, like, la-la-li, la-la-li", "lyric_translation": "", "range": [153.65, 157.69], "ans": [1]},
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [157.69, 161.75], "ans": []},
+    "",
+    {"lyric": "LALALI LALALI", "lyric_hangul": "Like, like, la-la-li, la-la-li", "lyric_translation": "", "range": [161.75, 165.49], "ans": [1]},
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [165.49, 167.94], "ans": []},
+    "",
+    {"lyric": "Eorimeopji nan LALALI", "lyric_hangul": "어림없지 난 la-la-li", "lyric_translation": "", "range": [167.94, 172.0], "ans": []}
+  ]
+}

@@ -18,6 +18,7 @@ import { loadConfig, loadChangelog } from './config';
 import * as player from './player';
 import { setStorage, getStorage, loadHistory } from './storage';
 import { buildMenu, highlightSongInMenu, attachInstantTip } from './ui-menu';
+import { initKofi } from './kofi';
 
 let preMuteVolume: number | null = null;
 
@@ -76,6 +77,7 @@ export async function initPlayPage(): Promise<void> {
 
   initThemeToggle();
   initPaletteToggle();
+  initKofi();
 }
 
 export function initPaletteToggle(): void {
@@ -938,6 +940,14 @@ export function switchTheme(theme: string | null): void {
   const htmlEl = document.documentElement;
   (htmlEl.className.match(themeRegex) ?? []).forEach(c => htmlEl.classList.remove(c));
   if (theme != null) htmlEl.classList.add(`theme-${theme}`);
+
+  // --play-btn-bg is defined on #player-bar.theme-*, but #kofi-button lives
+  // up in the header. Mirror the resolved value onto <html> so any element
+  // can read it via var(--play-btn-bg).
+  const bar = document.getElementById('player-bar');
+  const barBg = bar ? getComputedStyle(bar).getPropertyValue('--play-btn-bg').trim() : '';
+  if (barBg) htmlEl.style.setProperty('--play-btn-bg', barBg);
+  else htmlEl.style.removeProperty('--play-btn-bg');
 
   // wrap each word in song title with <span class="word"> for per-word theming
   const titleEl = document.getElementById('song-title');
