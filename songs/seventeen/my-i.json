@@ -1,0 +1,347 @@
+{
+  "name": "MY I\r",
+  "ogg": "sound/kpop/my_i.ogg",
+  "id": "my-i",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2017-05-22",
+  "album": "Al1",
+  "cover": "css/images/covers/my-i.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:50:13Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "안개 속 흐릿하지만 그 속에 누군가 있어",
+      "lyric_translation": "It’s unclear in the fog / But there’s someone inside",
+      "parts": [
+        {"lyric": "Angae sok heurithajiman",
+          "range": [10.08, 12.8], "ans": [4]},
+        {"lyric": "Geu soge nugunga isseo",
+          "range": [12.8, 15.17], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "날 느끼듯 익숙하지만 달라 달라 달라",
+      "lyric_translation": "It’s familiar as if they feel me but / It’s different, different, different",
+      "parts": [
+        {"lyric": "Nal neukkideut iksukhajiman",
+          "range": [15.17, 17.93], "ans": [4]},
+        {"lyric": "Dalla dalla dalla",
+          "range": [17.93, 19.99], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "오란 건지 가란 건지 흔드는 손은",
+      "lyric_translation": "Your waving hand / Not sure if you want me to come or go",
+      "parts": [
+        {"lyric": "Oran geonji garan geonji",
+          "range": [19.99, 22.43], "ans": [10]},
+        {"lyric": "Heundeuneun soneun",
+          "range": [22.43, 23.85], "ans": [10]}
+      ]
+    },
+    {"lyric": "Museun tteushilkka tell me about it",
+      "lyric_hangul": "무슨 뜻일까? Tell me about it",
+      "lyric_translation": "What does it mean, tell me about it",
+      "range": [23.41, 25.9], "ans": [10]},
+    "",
+    {
+      "lyric_hangul": "두 개의 지구가 있다면 또 다른 나일 수도 있어",
+      "lyric_translation": "If there’s two earths / It could be a different me too",
+      "parts": [
+        {"lyric": "Du gaeye jiguga itdamyeon",
+          "range": [25.9, 29.39], "ans": [4]},
+        {"lyric": "Tto dareun nail sudo isseo",
+          "range": [28.69, 31.84], "ans": [10]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "한걸음 가까이 가면 꽃길에 가시가 피어",
+      "lyric_translation": "When I take one step closer / The flower path grows thorns",
+      "parts": [
+        {"lyric": "Hangeoreum gakkai gamyeon",
+          "range": [31.32, 33.68], "ans": [4]},
+        {"lyric": "Kkotgire gashiga pieo",
+          "range": [33.68, 36.74], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "그때 넌 날 구하려 손 내밀어",
+      "lyric_translation": "Then you reach out to save me / Hey",
+      "parts": [
+        {"lyric": "Geuttae neon nal guharyeo son naemireo",
+          "range": [36.69, 40.08], "ans": [10]},
+        {"lyric": "Hey",
+          "range": [39.38, 40.88], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Shigan jinaseo neoreul mannamyeon",
+      "lyric_hangul": "(Hey!) 시간 지나서 너를 만나면",
+      "lyric_translation": "When I meet you after time passes",
+      "range": [40.88, 47.18], "ans": []},
+    {
+      "lyric_hangul": "I'll know, oh (넌 나의 미래였다)",
+      "lyric_translation": "I’ll know uh (you were my future)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [47.18, 49.07], "ans": []},
+        {"lyric": "(neon naye miraeyeotda)",
+          "range": [48.37, 50.07], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll know, oh (난 너의 어제였다)",
+      "lyric_translation": "I’ll know uh (I was your yesterday)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [50.07, 51.94], "ans": []},
+        {"lyric": "(nan neoye eojeyeotda)",
+          "range": [51.24, 52.49], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Shigan jinaseo neoreul mannamyeon",
+      "lyric_hangul": "시간 지나서 너를 만나면",
+      "lyric_translation": "When I meet you after time passes",
+      "range": [52.05, 57.9], "ans": []},
+    {
+      "lyric_hangul": "I'll know, oh (네가 날 지켜줬다)",
+      "lyric_translation": "I’ll know uh (you protected me)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [57.9, 59.75], "ans": []},
+        {"lyric": "(nega nal jikyeojwotda)",
+          "range": [59.05, 60.74], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll know, oh (난 너를 갈망했다)",
+      "lyric_translation": "I’ll know uh (I desired you) / My I",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [60.63, 61.76], "ans": []},
+        {"lyric": "(nan neoreul galmanghaetda)",
+          "range": [61.06, 63.42], "ans": [4]},
+        {"lyric": "My I",
+          "range": [62.82, 63.47], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "My I, I, I, I, I, I, I, I",
+      "lyric_hangul": "My I, I, I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [63.47, 64.48], "ans": []},
+    {"lyric": "I, I, I, I, I, I",
+      "lyric_hangul": "I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [64.48, 68.44], "ans": []},
+    {"lyric": "My I, I, I, I, I, I, I, I",
+      "lyric_hangul": "My I, I, I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [68.44, 69.64], "ans": []},
+    {"lyric": "I, I, I, I, I, I",
+      "lyric_hangul": "I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [69.64, 74.07], "ans": []},
+    "",
+    {"lyric": "Nae nalgaeppyeoye jageun nalgaeneun dodaeche",
+      "lyric_hangul": "내 날개뼈의 작은 날개는 도대체",
+      "lyric_translation": "The small wing on my wingbone",
+      "range": [74.07, 76.69], "ans": [4]},
+    {"lyric": "Eonjejjeume keojilkka",
+      "lyric_hangul": "언제쯤에 커질까?",
+      "lyric_translation": "When will it grow bigger",
+      "range": [76.69, 79.39], "ans": [4]},
+    {"lyric": "Namane barami bul ttaena",
+      "lyric_hangul": "나만의 바람이 불 때나",
+      "lyric_translation": "When my own wind blows",
+      "range": [79.39, 81.5], "ans": [4]},
+    {"lyric": "I nalgaereul pyeol suna isseulkka",
+      "lyric_hangul": "이 날개를 펼 수나 있을까?",
+      "lyric_translation": "Is that when I’ll be able to extend these wings",
+      "range": [81.5, 84.2], "ans": [4]},
+    "",
+    {"lyric": "Nuneul gamabol ttae sumeul swieo bol ttae",
+      "lyric_hangul": "눈을 감아볼 때, 숨을 쉬어 볼 때",
+      "lyric_translation": "When I close my eyes, when I breathe",
+      "range": [84.2, 86.51], "ans": [10]},
+    {"lyric": "Naega nareul sogiji aneumyeon",
+      "lyric_hangul": "내가 나를 속이지 않으면",
+      "lyric_translation": "If I don’t deceive myself",
+      "range": [86.51, 89.14], "ans": [10]},
+    {"lyric": "Banghwanghageona seulpeohaji ana",
+      "lyric_hangul": "방황하거나 슬퍼하지 않아요",
+      "lyric_translation": "I won’t be lost or sad",
+      "range": [89.14, 93.99], "ans": [10]},
+    {"lyric": "Yeah-eh, ah-ah, oh",
+      "lyric_hangul": "Yeah-eh, ah-ah, oh",
+      "lyric_translation": "",
+      "range": [93.99, 95.3], "ans": []},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "한걸음 가까이 가면 꽃길에 가시가 피어",
+      "lyric_translation": "When I take one step closer / The flower path grows thorns",
+      "parts": [
+        {"lyric": "Hangeoreum gakkai gamyeon",
+          "range": [95.3, 97.7], "ans": [4]},
+        {"lyric": "Kkotgire gashiga pieo",
+          "range": [97.7, 100.68], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "그때 넌 날 구하려 손 내밀어",
+      "lyric_translation": "Then you reach out to save me / Hey",
+      "parts": [
+        {"lyric": "Geuttae neon nal guharyeo son naemireo",
+          "range": [100.68, 104.33], "ans": [10]},
+        {"lyric": "Hey",
+          "range": [103.63, 105.22], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Shigan jinaseo neoreul mannamyeon",
+      "lyric_hangul": "(Hey!) 시간 지나서 너를 만나면",
+      "lyric_translation": "When I meet you after time passes",
+      "range": [105.22, 111.17], "ans": []},
+    {
+      "lyric_hangul": "I'll know, oh (넌 나의 미래였다)",
+      "lyric_translation": "I’ll know uh (you were my future)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [111.17, 113.27], "ans": []},
+        {"lyric": "(neon naye miraeyeotda)",
+          "range": [112.57, 114.1], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll know, oh (난 너의 어제였다)",
+      "lyric_translation": "I’ll know uh (I was your yesterday)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [114.1, 115.97], "ans": []},
+        {"lyric": "(nan neoye eojeyeotda)",
+          "range": [115.27, 116.43], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Shigan jinaseo neoreul mannamyeon",
+      "lyric_hangul": "시간 지나서 너를 만나면",
+      "lyric_translation": "When I meet you after time passes",
+      "range": [116.19, 121.9], "ans": []},
+    {
+      "lyric_hangul": "I'll know, oh (네가 날 지켜줬다)",
+      "lyric_translation": "I’ll know uh (you protected me)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [121.9, 123.72], "ans": []},
+        {"lyric": "(nega nal jikyeojwotda)",
+          "range": [123.02, 124.91], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll know, oh (난 너를 갈망했다)",
+      "lyric_translation": "I’ll know uh (I desired you) / My I / Hey",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [124.91, 126.21], "ans": []},
+        {"lyric": "(nan neoreul galmanghaetda)",
+          "range": [125.51, 127.13], "ans": [4]},
+        {"lyric": "My I",
+          "range": [126.65, 127.18], "ans": []},
+        {"lyric": "Hey",
+          "range": [127.18, 127.6], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "My I, I, I, I, I, I, I, I",
+      "lyric_hangul": "My I, I, I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [127.6, 128.48], "ans": []},
+    {"lyric": "I, I, I, I, I, I",
+      "lyric_hangul": "I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [128.48, 132.62], "ans": []},
+    {"lyric": "My I, I, I, I, I, I, I, I",
+      "lyric_hangul": "My I, I, I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [132.62, 133.64], "ans": []},
+    {"lyric": "I, I, I, I, I, I",
+      "lyric_hangul": "I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [133.64, 148.1], "ans": []},
+    {"lyric": "Shigan jinaseo neoreul mannamyeon",
+      "lyric_hangul": "(Hey!) 시간 지나서 너를 만나면",
+      "lyric_translation": "When I meet you after time passes",
+      "range": [148.1, 153.84], "ans": []},
+    {
+      "lyric_hangul": "I'll know, oh (넌 나의 미래였다)",
+      "lyric_translation": "I’ll know uh (you were my future)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [153.84, 155.81], "ans": []},
+        {"lyric": "(neon naye miraeyeotda)",
+          "range": [155.11, 156.95], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll know, oh (난 너의 어제였다)",
+      "lyric_translation": "I’ll know uh (I was your yesterday)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [156.95, 158.64], "ans": []},
+        {"lyric": "(nan neoye eojeyeotda)",
+          "range": [157.94, 158.99], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Shigan jinaseo neoreul mannamyeon",
+      "lyric_hangul": "시간 지나서 너를 만나면",
+      "lyric_translation": "When I meet you after time passes",
+      "range": [158.68, 164.7], "ans": []},
+    {
+      "lyric_hangul": "I'll know, oh (네가 날 지켜줬다)",
+      "lyric_translation": "I’ll know uh (you protected me)",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [164.7, 166.56], "ans": []},
+        {"lyric": "(nega nal jikyeojwotda)",
+          "range": [165.86, 167.54], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll know, oh (난 너를 갈망했다)",
+      "lyric_translation": "I’ll know uh (I desired you) / My I",
+      "parts": [
+        {"lyric": "I’ll know uh",
+          "range": [167.54, 168.87], "ans": []},
+        {"lyric": "(nan neoreul galmanghaetda)",
+          "range": [168.17, 170.09], "ans": [4]},
+        {"lyric": "My I",
+          "range": [169.49, 170.14], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "My I, I, I, I, I, I, I, I",
+      "lyric_hangul": "My I, I, I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [170.14, 171.37], "ans": []},
+    {"lyric": "I, I, I, I, I, I",
+      "lyric_hangul": "I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [171.37, 175.53], "ans": []},
+    {"lyric": "My I, I, I, I, I, I, I, I",
+      "lyric_hangul": "My I, I, I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [175.53, 176.03], "ans": []},
+    {"lyric": "I, I, I, I, I, I",
+      "lyric_hangul": "I, I, I, I, I, I",
+      "lyric_translation": "",
+      "range": [175.88, 180.5], "ans": []}
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "name": "Thinkin’ About You\r",
+  "ogg": "sound/kpop/thinkin_about_you.ogg",
+  "id": "thinkin-about-you",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2018-02-05",
+  "album": "DIRECTOR’S CUT",
+  "cover": "css/images/covers/thinkin-about-you.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T17:03:49Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "내게 너는 누굴까 (어떤 존재)",
+      "lyric_translation": "Who are you to me? (what kind of existence)",
+      "parts": [
+        {"lyric": "Naege neoneun nugulkka",
+          "range": [7.45, 11.11], "ans": [2]},
+        {"lyric": "(eotteon jonjae)",
+          "range": [10.41, 11.66], "ans": []}
+      ]
+    },
+    {"lyric": "Nan gyesok gomin gomin gomin haewasseo",
+      "lyric_hangul": "난 계속 고민 고민 고민 해왔어",
+      "lyric_translation": "I kept thinking and thinking",
+      "range": [10.94, 15.92], "ans": [2]},
+    {
+      "lyric_hangul": "문득 던진 생각은 (thinkin' about you)",
+      "lyric_translation": "At this sudden thought (thinkin’ about you)",
+      "parts": [
+        {"lyric": "Mundeuk deonjin saenggageun",
+          "range": [15.92, 19.51], "ans": [13]},
+        {"lyric": "(thinkin’ about you)",
+          "range": [18.81, 20.29], "ans": []}
+      ]
+    },
+    {"lyric": "Shijakhanikka kkeutnajireul ana oh oh",
+      "lyric_hangul": "시작하니까 끝나지를 않아 oh oh",
+      "lyric_translation": "I couldn’t stop thinking about it, oh oh",
+      "range": [19.72, 23.52], "ans": [13]},
+    "",
+    {"lyric": "Iyu moreul kkumeseo neol gyesok chatge dwae",
+      "lyric_hangul": "이유 모를 꿈에서 널 계속 찾게 돼",
+      "lyric_translation": "For reasons I don’t know, I keep looking for you in my dreams",
+      "range": [23.52, 28.69], "ans": [3]},
+    {"lyric": "Thinkin’ about you",
+      "lyric_hangul": "Thinkin' about you ('bout you) yeah",
+      "lyric_translation": "Thinkin’ about you",
+      "range": [28.69, 32.58], "ans": [3]},
+    {"lyric": "About you yeah",
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "About you yeah",
+      "range": [66.09, 67.77], "ans": [3]},
+    {"lyric": "I'm thinkin' about you",
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "",
+      "range": [67.77, 69.52], "ans": []},
+    {"lyric": "I'm thinkin' about",
+      "lyric_hangul": "I'm thinkin' about",
+      "lyric_translation": "",
+      "range": [69.52, 70.49], "ans": []},
+    {"lyric": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_hangul": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_translation": "",
+      "range": [70.49, 74.04], "ans": []},
+    {"lyric": "I'm thinkin' about you",
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "",
+      "range": [74.04, 76.07], "ans": []},
+    {"lyric": "And I'm thinkin' about you (about you)",
+      "lyric_hangul": "And I'm thinkin' about you (about you)",
+      "lyric_translation": "",
+      "range": [76.07, 78.26], "ans": []},
+    {"lyric": "I'm thinkin' about",
+      "lyric_hangul": "I'm thinkin' about",
+      "lyric_translation": "",
+      "range": [78.26, 78.97], "ans": []},
+    {"lyric": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_hangul": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_translation": "",
+      "range": [78.97, 82.22], "ans": []},
+    "",
+    {"lyric": "All I think about is you",
+      "lyric_hangul": "All I think about is you",
+      "lyric_translation": "All I think about is you",
+      "range": [82.22, 83.75], "ans": [6]},
+    {
+      "lyric_hangul": "힘없이 떨어지는 꽃잎은 예쁘게 피었던 우리 둘",
+      "lyric_translation": "Each falling flower petal / Our beautiful blossom",
+      "parts": [
+        {"lyric": "Himeopshi tteoreojineun kkonipeun",
+          "range": [83.75, 86.33], "ans": [6]},
+        {"lyric": "Yeppeuge pieotteon uri dul",
+          "range": [86.33, 87.57], "ans": [6]}
+      ]
+    },
+    {"lyric": "Geu moseub modu han poge yuhwa",
+      "lyric_hangul": "그 모습 모두 한 폭의 유화",
+      "lyric_translation": "Everything was part of a painting",
+      "range": [87.15, 88.95], "ans": [6]},
+    {"lyric": "Beonjigo heulleonaerineun majeodo areumdawo",
+      "lyric_hangul": "번지고 흘러내리는 마저도 아름다워",
+      "lyric_translation": "Even though it smudged and smeared, it was beautiful",
+      "range": [88.95, 91.16], "ans": [6]},
+    {"lyric": "Shiganeun banguljyeoseo tteoreojigo tteoreojigo",
+      "lyric_hangul": "시간은 방울져서 떨어지고 떨어지고",
+      "lyric_translation": "Time became drops and kept falling and falling",
+      "range": [91.16, 93.25], "ans": [1]},
+    "",
+    {"lyric": "Tteomillyeo nan deo gipi tteoreojigo tteoreojigo",
+      "lyric_hangul": "떠밀려 난 더 깊이 떨어지고 떨어지고",
+      "lyric_translation": "I was pushed and was falling deeper and deeper",
+      "range": [93.25, 95.34], "ans": [1]},
+    {
+      "lyric_hangul": "이렇게 잠겨도 넌 날 열어서 꺼내줄 수 있어",
+      "lyric_translation": "Even though I’m locked up like this / You can open me up and take me out",
+      "parts": [
+        {"lyric": "Ireoke jamgyeodo",
+          "range": [95.34, 97.16], "ans": [1]},
+        {"lyric": "Neon nal yeoreoseo kkeonaejul su isseo",
+          "range": [97.16, 99.4], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "앞에서는 바보 같았던 뒤에서만 용감했었던",
+      "lyric_translation": "I used to be a fool in front of you / Only getting brave from behind you / I used to be a fool in front of you / Only getting brave from behind you",
+      "parts": [
+        {"lyric": "Apeseoneun babo gatatteon",
+          "range": [99.04, 101.1], "ans": [5]},
+        {"lyric": "Dwieseoman yonggamhaesseotteon",
+          "range": [101.1, 102.87], "ans": [5]},
+        {"lyric": "Apeseoneun babo gatatteon",
+          "range": [102.17, 103.4], "ans": [3]},
+        {"lyric": "Dwieseoman yonggamhaesseotteon",
+          "range": [103.4, 104.3], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "그렇게 그저 그랬던 내가 yeah",
+      "lyric_translation": "I was just whatever yeah yeah / I was just whatever yeah",
+      "parts": [
+        {"lyric": "Geureoke geujeo geuraetteon naega yeah yeah",
+          "range": [103.72, 106.05], "ans": [5]},
+        {"lyric": "Geureoke geujeo geuraetteon naega yeah",
+          "range": [105.35, 107.78], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금도 그닥 다르진 않아",
+      "lyric_translation": "And I haven’t really changed now / And I haven’t really changed now",
+      "parts": [
+        {"lyric": "Jigeumdo geudak dareujin ana",
+          "range": [107.78, 110.15], "ans": [11]},
+        {"lyric": "Jigeumdo geudak dareujin ana",
+          "range": [109.45, 110.8], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "달라진 건 딱히 없지만",
+      "lyric_translation": "Nothing really changed / Nothing really changed",
+      "parts": [
+        {"lyric": "Dallajin geon ttakhi eopjiman",
+          "range": [110.2, 112.11], "ans": [11]},
+        {"lyric": "Dallajin geon ttakhi eopjiman",
+          "range": [111.41, 112.66], "ans": [8]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "그래도 그냥 오늘은 오늘은 오늘은",
+      "lyric_translation": "But still, today, today, today / But still, today, today, today",
+      "parts": [
+        {"lyric": "Geuraedo geunyang oneureun oneureun oneureun",
+          "range": [111.98, 114.61], "ans": [11]},
+        {"lyric": "Geuraedo geunyang oneureun oneureun oneureun",
+          "range": [113.91, 115.64], "ans": [8]}
+      ]
+    },
+    {"lyric": "Nae mameul neomeumyeo neoege OEOEO",
+      "lyric_hangul": "내 맘을 넘으며 너에게 oeoeo",
+      "lyric_translation": "I want to give you my heart, OEOEO / I want to give you my heart, OEOEO",
+      "range": [115.5, 119.88], "ans": [7]},
+    {"lyric": "Gipeun gieok soge uri dul moseubeun",
+      "lyric_hangul": "깊은 기억 속에 우리 둘 모습은",
+      "lyric_translation": "Deep in our memories / Deep in our memories",
+      "range": [119.68, 124.34], "ans": [7]},
+    {
+      "lyric_hangul": "어리긴 어렸지 참 예뻤던 날에",
+      "lyric_translation": "We were so young, those days were so pretty / We were so young, those days were so pretty",
+      "parts": [
+        {"lyric": "Eorigin eoryeotji cham yeppeotteon nare",
+          "range": [123.65, 126.64], "ans": [8]},
+        {"lyric": "Eorigin eoryeotji cham yeppeotteon nare",
+          "range": [125.94, 128.99], "ans": [11]}
+      ]
+    },
+    {
+      "lyric_hangul": "작은 꽃잎 하나둘 우리 추억 하나둘 하나하나 다 잊지 않고서",
+      "lyric_translation": "Each flower petal, each memory of ours / I haven’t forgotten any of them / Each flower petal, each memory of ours / I haven’t forgotten any of them",
+      "parts": [
+        {"lyric": "Jageun kkonip hanadul uri chueok hanadul",
+          "range": [128.54, 130.3], "ans": [9]},
+        {"lyric": "Hanahana da itji ankoseo",
+          "range": [130.3, 131.17], "ans": [9]},
+        {"lyric": "Jageun kkonip hanadul uri chueok hanadul",
+          "range": [130.47, 132.08], "ans": [6]},
+        {"lyric": "Hanahana da itji ankoseo",
+          "range": [131.34, 132.98], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about you / I’m thinkin’ about you",
+      "parts": [
+        {"lyric": "I’m thinkin’ about you",
+          "range": [132.81, 133.7], "ans": [12]},
+        {"lyric": "I’m thinkin’ about you",
+          "range": [133.0, 134.4], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about you / I’m thinkin’ about you",
+      "parts": [
+        {"lyric": "I’m thinkin’ about you",
+          "range": [134.4, 135.93], "ans": [12]},
+        {"lyric": "I’m thinkin’ about you",
+          "range": [135.23, 136.34], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm thinkin' about",
+      "lyric_translation": "I’m thinkin’ about / I’m thinkin’ about",
+      "parts": [
+        {"lyric": "I’m thinkin’ about",
+          "range": [136.34, 137.67], "ans": [12]},
+        {"lyric": "I’m thinkin’ about",
+          "range": [136.97, 137.92], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about I’m thinkin’ about you / I’m thinkin’ about I’m thinkin’ about you",
+      "parts": [
+        {"lyric": "I’m thinkin’ about I’m thinkin’ about you",
+          "range": [137.26, 138.69], "ans": [12]},
+        {"lyric": "I’m thinkin’ about I’m thinkin’ about you",
+          "range": [137.99, 140.99], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about you / I’m thinkin’ about you",
+      "parts": [
+        {"lyric": "I’m thinkin’ about you",
+          "range": [140.99, 142.21], "ans": [3]},
+        {"lyric": "I’m thinkin’ about you",
+          "range": [141.51, 142.68], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "And I'm thinkin' about you (about you)",
+      "lyric_translation": "And I’m thinkin’ about you (about you) / And I’m thinkin’ about you (about you)",
+      "parts": [
+        {"lyric": "And I’m thinkin’ about you (about you)",
+          "range": [142.68, 144.31], "ans": [3]},
+        {"lyric": "And I’m thinkin’ about you (about you)",
+          "range": [143.61, 145.29], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm thinkin' about",
+      "lyric_translation": "I’m thinkin’ about / I’m thinkin’ about",
+      "parts": [
+        {"lyric": "I’m thinkin’ about",
+          "range": [144.86, 146.01], "ans": [3]},
+        {"lyric": "I’m thinkin’ about",
+          "range": [145.31, 146.32], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about I’m thinkin’ about you / I’m thinkin’ about I’m thinkin’ about you",
+      "parts": [
+        {"lyric": "I’m thinkin’ about I’m thinkin’ about you",
+          "range": [146.16, 148.05], "ans": [3]},
+        {"lyric": "I’m thinkin’ about I’m thinkin’ about you",
+          "range": [147.35, 149.22], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Soljikhi dapdaphae",
+      "lyric_hangul": "솔직히 답답해",
+      "lyric_translation": "Honestly, I’m a bit frustrated",
+      "range": [149.22, 151.31], "ans": [10]},
+    {"lyric": "Naega wae ireon geonji",
+      "lyric_hangul": "내가 왜 이런 건지",
+      "lyric_translation": "Why am I acting like this?",
+      "range": [151.31, 153.4], "ans": [10]},
+    {"lyric": "Ajikkkajido moreugesseo",
+      "lyric_hangul": "아직까지도 모르겠어",
+      "lyric_translation": "I still don’t really know",
+      "range": [153.4, 156.87], "ans": [10]},
+    {"lyric": "Maeilmaeiriran shigani",
+      "lyric_hangul": "매일 매일이란 시간이",
+      "lyric_translation": "Each day that passes",
+      "range": [156.87, 159.76], "ans": [4]},
+    {"lyric": "I munjee dabeun mot jul georan geol",
+      "lyric_hangul": "이 문제에 답은 못 줄 거란 걸",
+      "lyric_translation": "Won’t give me the answer to this problem",
+      "range": [159.76, 163.04], "ans": [4]},
+    {"lyric": "Araseo naneun gyesok banbokhaeseo",
+      "lyric_hangul": "알아서 나는 계속 반복해서",
+      "lyric_translation": "So I keep repeating this",
+      "range": [163.04, 165.66], "ans": [4]},
+    "",
+    {"lyric": "Nae mameul neomeumyeo neoege OEOEO",
+      "lyric_hangul": "내 맘을 넘으며 너에게 oeoeo",
+      "lyric_translation": "I want to give you my heart, OEOEO",
+      "range": [165.66, 169.81], "ans": [7]},
+    {"lyric": "Gipeun gieok soge uri dul moseubeun",
+      "lyric_hangul": "깊은 기억 속에 우리 둘 모습은",
+      "lyric_translation": "Deep in our memories",
+      "range": [169.81, 173.74], "ans": [7]},
+    {"lyric": "Eorigin eoryeotji cham yeppeotteon nare",
+      "lyric_hangul": "어리긴 어렸지 참 예뻤던 날에",
+      "lyric_translation": "We were so young, those days were so pretty",
+      "range": [173.74, 178.35], "ans": [8]},
+    {
+      "lyric_hangul": "작은 꽃잎 하나둘 우리 추억 하나둘 하나하나 다 잊지 않고서",
+      "lyric_translation": "Each flower petal, each memory of ours / I haven’t forgotten any of them",
+      "parts": [
+        {"lyric": "Jageun kkonip hanadul uri chueok hanadul",
+          "range": [178.35, 181.42], "ans": [1]},
+        {"lyric": "Hanahana da itji ankoseo",
+          "range": [181.42, 183.08], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "I’m thinkin’ about you",
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about you",
+      "range": [182.88, 184.55], "ans": [11]},
+    {"lyric": "I’m thinkin’ about you",
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about you",
+      "range": [184.55, 186.55], "ans": [11]},
+    {"lyric": "I’m thinkin’ about",
+      "lyric_hangul": "I'm thinkin' about",
+      "lyric_translation": "I’m thinkin’ about",
+      "range": [186.55, 187.05], "ans": [11]},
+    {"lyric": "I’m thinkin’ about I’m thinkin’ about you",
+      "lyric_hangul": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about I’m thinkin’ about you",
+      "range": [186.65, 190.6], "ans": [11]},
+    {"lyric": "I’m thinkin’ about you",
+      "lyric_hangul": "I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about you",
+      "range": [190.6, 192.97], "ans": [8]},
+    {"lyric": "And I’m thinkin’ about you",
+      "lyric_hangul": "And I'm thinkin' about you",
+      "lyric_translation": "And I’m thinkin’ about you",
+      "range": [192.97, 194.9], "ans": [8]},
+    {"lyric": "I’m thinkin’ about",
+      "lyric_hangul": "I'm thinkin' about",
+      "lyric_translation": "I’m thinkin’ about",
+      "range": [194.9, 195.69], "ans": [8]},
+    {"lyric": "I’m thinkin’ about I’m thinkin’ about you",
+      "lyric_hangul": "I'm thinkin' about, I'm thinkin' about you",
+      "lyric_translation": "I’m thinkin’ about I’m thinkin’ about you",
+      "range": [195.69, 200.15], "ans": [8]}
+  ]
+}

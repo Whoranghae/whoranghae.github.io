@@ -1,0 +1,393 @@
+{
+  "name": "ROCKET\r",
+  "ogg": "sound/kpop/rocket.ogg",
+  "id": "rocket",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2017-11-06",
+  "album": "TEEN, AGE",
+  "cover": "css/images/covers/rocket.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:55:19Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ah, ah, ah, ah, ah, ah, ah, ah, ah",
+      "lyric_hangul": "Ah, ah, ah, ah, ah, ah, ah, ah, ah",
+      "lyric_translation": "",
+      "range": [0.58, 10.06], "ans": []},
+    {"lyric": "I see everybody’s aura fading",
+      "lyric_hangul": "I see everybody's aura fading",
+      "lyric_translation": "I see everybody’s aura fading",
+      "range": [10.06, 13.05], "ans": [12]},
+    {
+      "lyric_hangul": "They can't be themselves without being anxious",
+      "lyric_translation": "They can’t be themselves / Without being anxious",
+      "parts": [
+        {"lyric": "They can’t be themselves",
+          "range": [13.05, 14.43], "ans": [12]},
+        {"lyric": "Without being anxious",
+          "range": [14.43, 16.22], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "판단 당하기 무서워서 레귤러 사이 숨었어",
+      "lyric_translation": "I was afraid to be judged / So I hide amongst the regular",
+      "parts": [
+        {"lyric": "Pandan danghagi museowoseo",
+          "range": [15.86, 18.08], "ans": [12]},
+        {"lyric": "Regyulleo sai sumeosseo",
+          "range": [18.08, 20.39], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "그릇의 크기는 손에 쥐어 든 커피컵 (drop, drop, drop it)",
+      "lyric_translation": "My plate was the size of a coffee cup / Drop drop drop it",
+      "parts": [
+        {"lyric": "Geureuse keugineun sone jwieo deun keopigeob",
+          "range": [20.39, 23.43], "ans": [12]},
+        {"lyric": "Drop drop drop it",
+          "range": [22.95, 23.48], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Ttak yeogikkaji",
+      "lyric_hangul": "딱 여기까지",
+      "lyric_translation": "This is it",
+      "range": [22.57, 25.19], "ans": [3]},
+    {"lyric": "Dareun saram nori haji ankiro",
+      "lyric_hangul": "다른 사람 놀이 (놀이) 하지 (하지) 않기 (않기) 로",
+      "lyric_translation": "I won’t try to act like I’m someone else",
+      "range": [25.19, 28.33], "ans": [3]},
+    {"lyric": "Neoye eoje oneul geurigo naeireun yours",
+      "lyric_hangul": "너의 어제 오늘 그리고 내일은 yours",
+      "lyric_translation": "Your yesterday, today and tomorrow is yours",
+      "range": [28.33, 31.23], "ans": [3]},
+    {"lyric": "Shiseon ttawi don’t care anymore",
+      "lyric_hangul": "시선 따위 don't care anymore",
+      "lyric_translation": "Don’t care anymore about other’s eyes on me",
+      "range": [31.23, 33.91], "ans": [3]},
+    "",
+    {"lyric": "Yeah the stars are looking",
+      "lyric_hangul": "The stars are looking straight down on us",
+      "lyric_translation": "Yeah the stars are looking",
+      "range": [33.91, 36.67], "ans": [12]},
+    {"lyric": "Yeah I'ma build a rocket",
+      "lyric_hangul": "Yeah I'ma build a rocket",
+      "lyric_translation": "",
+      "range": [39.12, 40.54], "ans": []},
+    {"lyric": "Yeah, got me singing like",
+      "lyric_hangul": "Yeah, got me singing like",
+      "lyric_translation": "",
+      "range": [44.06, 45.52], "ans": []},
+    {"lyric": "Ooh zoom",
+      "lyric_hangul": "Ooh zoom",
+      "lyric_translation": "",
+      "range": [45.52, 48.16], "ans": []},
+    {"lyric": "Ooh zoom",
+      "lyric_hangul": "Ooh zoom",
+      "lyric_translation": "",
+      "range": [51.15, 53.49], "ans": []},
+    {"lyric": "Ooh, build a rocket with me",
+      "lyric_hangul": "Ooh, build a rocket with me",
+      "lyric_translation": "",
+      "range": [57.41, 60.61], "ans": []},
+    {"lyric": "Ooh, blast it up to the sky",
+      "lyric_hangul": "Ooh, blast it up to the sky",
+      "lyric_translation": "",
+      "range": [60.61, 63.45], "ans": []},
+    {"lyric": "Ooh, look, we fly so high",
+      "lyric_hangul": "Ooh, look, we fly so high",
+      "lyric_translation": "",
+      "range": [63.45, 66.14], "ans": []},
+    {"lyric": "Ooh, yeah so high ah",
+      "lyric_hangul": "Ooh, yeah so high ah",
+      "lyric_translation": "",
+      "range": [66.14, 68.59], "ans": []},
+    {
+      "lyric_hangul": "Yeah, will you fly with me? 벗어나 this gravity",
+      "lyric_translation": "Yeah will you fly with me / Escape this gravity",
+      "parts": [
+        {"lyric": "Yeah will you fly with me",
+          "range": [68.59, 70.78], "ans": [3]},
+        {"lyric": "Beoseona this gravity",
+          "range": [70.4, 71.34], "ans": [3]}
+      ]
+    },
+    {"lyric": "Meori biwo nirvana",
+      "lyric_hangul": "머리 비워 Nirvana",
+      "lyric_translation": "Empty your head, nirvana",
+      "range": [71.19, 72.65], "ans": [3]},
+    {"lyric": "So come as you are",
+      "lyric_hangul": "So come as you are",
+      "lyric_translation": "So come as you are",
+      "range": [72.65, 73.86], "ans": [3]},
+    {"lyric": "But question",
+      "lyric_hangul": "But question",
+      "lyric_translation": "But question",
+      "range": [73.86, 75.17], "ans": [12]},
+    {
+      "lyric_hangul": "How long you be on your phone when the moon is big and bright?",
+      "lyric_translation": "How long you be on your phone / When the moon is big and bright",
+      "parts": [
+        {"lyric": "How long you be on your phone",
+          "range": [75.17, 77.03], "ans": [3]},
+        {"lyric": "When the moon is big and bright",
+          "range": [77.03, 78.27], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Do your dance dance in the moonlight",
+      "lyric_hangul": "Do your dance dance in the moonlight?",
+      "lyric_translation": "Do your dance dance in the moonlight",
+      "range": [77.96, 79.76], "ans": [3]},
+    {
+      "lyric_hangul": "Yeah I'm down, down 너와 함께라면 어디든지",
+      "lyric_translation": "Yeah I’m down down / If I’m with you, I can go anywhere",
+      "parts": [
+        {"lyric": "Yeah I’m down down",
+          "range": [79.76, 81.04], "ans": [12]},
+        {"lyric": "Neowa hamkkeramyeon eodideunji",
+          "range": [81.04, 82.67], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "좋은 음악이 나와 너와 나 jiggy all night uh",
+      "lyric_translation": "Good music plays / You and me, jiggy all night",
+      "parts": [
+        {"lyric": "Joeun eumagi nawa",
+          "range": [82.17, 84.55], "ans": [12]},
+        {"lyric": "Neowa na jiggy all night uh",
+          "range": [84.55, 85.89], "ans": [12]}
+      ]
+    },
+    {"lyric": "Please don’t kill my vibe",
+      "lyric_hangul": "Please don't kill my vibe",
+      "lyric_translation": "Please don’t kill my vibe",
+      "range": [85.58, 87.1], "ans": [12]},
+    {"lyric": "Please don’t kill my high",
+      "lyric_hangul": "Please don't kill my high",
+      "lyric_translation": "Please don’t kill my high",
+      "range": [87.1, 88.49], "ans": [12]},
+    {
+      "lyric_hangul": "Finally I realize all along love was by my side",
+      "lyric_translation": "Finally I realize / All along love was by my side / It’s true",
+      "parts": [
+        {"lyric": "Finally I realize",
+          "range": [88.49, 90.14], "ans": [12]},
+        {"lyric": "All along love was by my side",
+          "range": [90.14, 91.34], "ans": [12]},
+        {"lyric": "It’s true",
+          "range": [91.34, 91.78], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "The stars are looking straight down on us",
+      "lyric_translation": "Straight down on us / Yeah the stars are looking / Straight down on us",
+      "parts": [
+        {"lyric": "Straight down on us",
+          "range": [91.17, 92.01], "ans": [12]},
+        {"lyric": "Yeah the stars are looking",
+          "range": [92.01, 93.11], "ans": [12]},
+        {"lyric": "Straight down on us",
+          "range": [93.11, 94.37], "ans": [12]}
+      ]
+    },
+    {"lyric": "Ujuneun kkeuchi an boyeo",
+      "lyric_hangul": "우주는 끝이 안 보여",
+      "lyric_translation": "I can’t see the end of the universe / I can’t see the end of the universe",
+      "range": [93.81, 96.07], "ans": [12]},
+    {"lyric": "Yeah Ima build a rocket",
+      "lyric_hangul": "Yeah, I'ma build a rocket",
+      "lyric_translation": "Yeah Ima build a rocket / Yeah Ima build a rocket",
+      "range": [96.01, 98.03], "ans": [3]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I'ma build a rocket 구름 뚫어 번지 launch it",
+      "lyric_translation": "Ima build a rocket to pierce through the clouds / Countdown launch it / Ima build a rocket to pierce through the clouds / Countdown launch it",
+      "parts": [
+        {"lyric": "Ima build a rocket gureum ttulheo",
+          "range": [97.67, 99.39], "ans": [3]},
+        {"lyric": "Beonji launch it",
+          "range": [99.39, 100.09], "ans": [3]},
+        {"lyric": "Ima build a rocket gureum ttulheo",
+          "range": [100.09, 100.87], "ans": [3]},
+        {"lyric": "Beonji launch it",
+          "range": [100.87, 101.73], "ans": [3]}
+      ]
+    },
+    {"lyric": "Yeah got me singing like",
+      "lyric_hangul": "Yeah, got me singing like",
+      "lyric_translation": "Yeh got me singing like / Yeah got me singing like",
+      "range": [101.41, 103.19], "ans": []},
+    {
+      "lyric_hangul": "Ooh zoom",
+      "lyric_translation": "Ooh zoom / Ooh zoom",
+      "parts": [
+        {"lyric": "Ooh",
+          "range": [102.61, 103.27], "ans": [3]},
+        {"lyric": "Zoom",
+          "range": [102.66, 103.84], "ans": []},
+        {"lyric": "Ooh",
+          "range": [103.2, 104.24], "ans": [3]},
+        {"lyric": "Zoom",
+          "range": [103.54, 105.08], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "방향키 왜 잡어 just let it roll out (roll out)",
+      "lyric_translation": "Why hold onto the handle? / Just let it roll out / Why hold onto the handle? / Just let it roll out",
+      "parts": [
+        {"lyric": "Banghyangki wae jabeo",
+          "range": [105.08, 106.2], "ans": [12]},
+        {"lyric": "Just let it roll out",
+          "range": [106.2, 107.08], "ans": [12]},
+        {"lyric": "Banghyangki wae jabeo",
+          "range": [107.08, 107.76], "ans": [12]},
+        {"lyric": "Just let it roll out",
+          "range": [107.76, 108.66], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Ooh zoom",
+      "lyric_translation": "Ooh zoom / Ooh zoom",
+      "parts": [
+        {"lyric": "Ooh",
+          "range": [108.25, 108.88], "ans": [3]},
+        {"lyric": "Zoom",
+          "range": [108.3, 109.22], "ans": []},
+        {"lyric": "Ooh",
+          "range": [108.58, 109.38], "ans": [3]},
+        {"lyric": "Zoom",
+          "range": [109.27, 110.69], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지마 but 어딜 갈진 몰라 (몰라)",
+      "lyric_translation": "Don’t be afraid / But we don’t know where we’re going / Don’t be afraid / But we don’t know where we’re going",
+      "parts": [
+        {"lyric": "Geopmeokjima",
+          "range": [110.69, 112.03], "ans": [12]},
+        {"lyric": "But eodil galjin molla",
+          "range": [112.03, 112.87], "ans": [12]},
+        {"lyric": "Geopmeokjima",
+          "range": [112.87, 113.29], "ans": [12]},
+        {"lyric": "But eodil galjin molla",
+          "range": [113.29, 114.5], "ans": [12]}
+      ]
+    },
+    "",
+    {"lyric": "Ooh build a rocket with me",
+      "lyric_hangul": "Ooh, build a rocket with me",
+      "lyric_translation": "Ooh build a rocket with me / Ooh build a rocket with me",
+      "range": [114.5, 117.66], "ans": [12]},
+    {"lyric": "Ooh blast it up to the sky",
+      "lyric_hangul": "Ooh, blast it up to the sky",
+      "lyric_translation": "Ooh blast it up to the sky / Ooh blast it up to the sky",
+      "range": [117.53, 120.47], "ans": [12]},
+    {"lyric": "Ooh look, we fly so high",
+      "lyric_hangul": "Ooh, look, we fly so high",
+      "lyric_translation": "Ooh look, we fly so high / Ooh look, we fly so high",
+      "range": [120.29, 123.23], "ans": [12]},
+    {"lyric": "Ooh yeah so high ah",
+      "lyric_hangul": "Ooh, yeah so high ah",
+      "lyric_translation": "Ooh yeah so high ah / Ooh yeah so high ah",
+      "range": [123.05, 125.93], "ans": [12]},
+    "",
+    {"lyric": "Ooh singing like",
+      "lyric_hangul": "Ooh, singing like",
+      "lyric_translation": "Ooh singing like",
+      "range": [125.93, 128.72], "ans": [3]},
+    {"lyric": "Ooh singing like",
+      "lyric_hangul": "Ooh, singing like",
+      "lyric_translation": "Ooh singing like",
+      "range": [128.72, 131.57], "ans": [3]},
+    {"lyric": "Ooh singing like",
+      "lyric_hangul": "Ooh, singing like",
+      "lyric_translation": "Ooh singing like",
+      "range": [131.57, 134.25], "ans": [3]},
+    {"lyric": "Ooh singing like",
+      "lyric_hangul": "Ooh, singing like",
+      "lyric_translation": "Ooh singing like",
+      "range": [134.25, 136.96], "ans": [3]},
+    {"lyric": "Got me singing like",
+      "lyric_hangul": "Got me singing like",
+      "lyric_translation": "Got me singing like",
+      "range": [136.96, 138.54], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "Ooh zoom",
+      "lyric_translation": "Ooh zoom",
+      "parts": [
+        {"lyric": "Ooh",
+          "range": [138.54, 139.95], "ans": [3]},
+        {"lyric": "Zoom",
+          "range": [139.25, 140.71], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "방향키 왜 잡어 just let it roll out (roll out)",
+      "lyric_translation": "Why hold onto the handle? / Just let it roll out",
+      "parts": [
+        {"lyric": "Banghyangki wae jabeo",
+          "range": [140.71, 142.77], "ans": [12]},
+        {"lyric": "Just let it roll out",
+          "range": [142.77, 144.4], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh zoom",
+      "lyric_translation": "Ooh zoom",
+      "parts": [
+        {"lyric": "Ooh",
+          "range": [143.98, 145.45], "ans": [3]},
+        {"lyric": "Zoom",
+          "range": [144.75, 146.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지마 but 어딜 갈진 몰라 (몰라)",
+      "lyric_translation": "Don’t be afraid / But we don’t know where we’re going",
+      "parts": [
+        {"lyric": "Geopmeokjima",
+          "range": [146.44, 148.06], "ans": [12]},
+        {"lyric": "But eodil galjin molla",
+          "range": [148.06, 150.18], "ans": [12]}
+      ]
+    },
+    {"lyric": "Ooh build a rocket with me",
+      "lyric_hangul": "Ooh, build a rocket with me",
+      "lyric_translation": "Ooh build a rocket with me",
+      "range": [150.18, 153.24], "ans": [12]},
+    {"lyric": "Ooh blast it up to the sky",
+      "lyric_hangul": "Ooh, blast it up to the sky",
+      "lyric_translation": "Ooh blast it up to the sky",
+      "range": [153.24, 156.18], "ans": [12]},
+    {"lyric": "Ooh look, we fly so high",
+      "lyric_hangul": "Ooh, look, we fly so high",
+      "lyric_translation": "Ooh look, we fly so high",
+      "range": [156.18, 159.11], "ans": [12]},
+    {"lyric": "Ooh yeah so high ah",
+      "lyric_hangul": "Ooh, yeah so high ah",
+      "lyric_translation": "Ooh yeah so high ah",
+      "range": [159.11, 173.31], "ans": [12]},
+    "",
+    {"lyric": "Ooh nunapi baro dalnarajana oh",
+      "lyric_hangul": "Ooh, 눈앞이 바로 달나라잖아 oh",
+      "lyric_translation": "I can see the moon right in front of me",
+      "range": [173.31, 178.75], "ans": [3]},
+    {
+      "lyric_hangul": "Ooh, 도착지가 없어도 있으면 돼 네 손만",
+      "lyric_translation": "There’s no landing pad / But I just need your hand",
+      "parts": [
+        {"lyric": "Ooh dochakjiga eopseodo",
+          "range": [178.75, 183.03], "ans": [3]},
+        {"lyric": "Isseumyeon dwae ne sonman",
+          "range": [183.03, 188.0], "ans": [3]}
+      ]
+    }
+  ]
+}

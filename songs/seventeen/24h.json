@@ -7,7 +7,7 @@
   "released": "2024-04-29",
   "cover": "css/images/covers/24h.jpg",
   "added": "2026-04",
-  "generated": "2026-04-23T02:46:42Z",
+  "generated": "2026-04-25T23:37:25Z",
   "hidden": false,
   "slots": [],
   "lines": [
@@ -232,7 +232,7 @@
       "lyric_hangul": "눈감아도 널 생각해 (너만) 생각해 (너만)",
       "parts": [
         {"lyric": "Nungamado neol saenggakhae (neoman)",
-          "range": [154.53, 157.85], "ans": [8]},
+          "range": [154.53, 158.35], "ans": [8]},
         {"lyric": "Saenggakhae (neoman)",
           "range": [158.35, 159.81], "ans": [8]}
       ]

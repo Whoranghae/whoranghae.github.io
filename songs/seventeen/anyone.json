@@ -1,0 +1,212 @@
+{
+  "name": "Anyone",
+  "ogg": "sound/kpop/anyone.ogg",
+  "id": "anyone",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2021-06-18",
+  "album": "Your Choice",
+  "cover": "css/images/covers/anyone.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I’ll never let go",
+      "lyric_hangul": "I'll never let go",
+      "lyric_translation": "N/A",
+      "range": [7.57, 10.55], "ans": [3]},
+    {"lyric": "Ga bon jeok eomneun goseseo neoye soneul",
+      "lyric_hangul": "가 본 적 없는 곳에서 너의 손을 (oh, no)",
+      "lyric_translation": "",
+      "range": [10.55, 16.69], "ans": [3]},
+    {"lyric": "I swear, I promise",
+      "lyric_hangul": "I swear, I promise",
+      "lyric_translation": "",
+      "range": [16.69, 18.85], "ans": [5]},
+    {
+      "lyric_hangul": "깊은 심장의 울림까지, 너에게 모두 주겠다고",
+      "parts": [
+        {"lyric": "Gipeun shimjange ullimkkaji",
+          "range": [18.85, 22.75], "ans": [5]},
+        {"lyric": "Neoege modu jugettago",
+          "range": [22.75, 26.07], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "We make the rules, 세상에 하나뿐인 규칙",
+      "parts": [
+        {"lyric": "We make the rules",
+          "range": [26.07, 28.46], "ans": [7]},
+        {"lyric": "Sesange hanappunin gyuchik",
+          "range": [28.46, 30.8], "ans": [7]}
+      ]
+    },
+    {"lyric": "Bakkul su eopseo Not anyone anyone",
+      "lyric_hangul": "바꿀 수 없어, not anyone, anyone",
+      "lyric_translation": "",
+      "range": [30.8, 34.55], "ans": [7]},
+    {"lyric": "Naye modeun iyureul nega gareuchyeo jweoseo",
+      "lyric_hangul": "나의 모든 이유를 네가 가르쳐 줘서",
+      "lyric_translation": "",
+      "range": [34.55, 39.03], "ans": [6]},
+    {"lyric": "Sesang eoneu goseseodo nan neorago malhae",
+      "lyric_hangul": "세상 어느 곳에서도 난 너라고 말해",
+      "lyric_translation": "",
+      "range": [39.03, 46.87], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "바꿀 수 없어, not anyone, anyone",
+      "parts": [
+        {"lyric": "Bakkul su eopseo",
+          "range": [46.87, 48.65], "ans": [8]},
+        {"lyric": "Not anyone anyone",
+          "range": [48.65, 55.24], "ans": [8]}
+      ]
+    },
+    {"lyric": "I love you, cause I",
+      "lyric_hangul": "I love you 'cause I 포기할 수 없는",
+      "lyric_translation": "",
+      "range": [55.24, 59.0], "ans": [11]},
+    {
+      "lyric_hangul": "Only you, 너라서, yeah",
+      "parts": [
+        {"lyric": "Pogihal su eomneun Only you",
+          "range": [59.0, 60.47], "ans": [11]},
+        {"lyric": "Neoraseo Yeah",
+          "range": [60.3, 61.76], "ans": [11]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Ayy, this rule, oh mine, on my mind, yeah",
+      "parts": [
+        {"lyric": "Ay, this rule O mine",
+          "range": [61.76, 64.64], "ans": [1]},
+        {"lyric": "On my mind yeh",
+          "range": [64.64, 65.97], "ans": [1]}
+      ]
+    },
+    {"lyric": "Mudae wi joyeoni eomneun juyeon dul",
+      "lyric_hangul": "무대 위 조연이 없는 주연 둘",
+      "lyric_translation": "",
+      "range": [65.97, 70.49], "ans": [1]},
+    {"lyric": "Hoheubeul nanweo gajyeo, iksukhan heureummajeo",
+      "lyric_hangul": "호흡을 나눠 가져, 익숙한 흐름마저",
+      "lyric_translation": "",
+      "range": [70.49, 74.79], "ans": [13]},
+    {"lyric": "Yeongweonhan jakpum aneseo uri hamkke hae",
+      "lyric_hangul": "영원한 작품 안에서 우리 함께 해",
+      "lyric_translation": "",
+      "range": [74.79, 78.95], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "We make the rules, 세상에 하나뿐인 규칙",
+      "parts": [
+        {"lyric": "We make the rules",
+          "range": [78.95, 80.91], "ans": [10]},
+        {"lyric": "Sesange hanappunin gyuchik",
+          "range": [80.91, 83.09], "ans": [10]}
+      ]
+    },
+    {"lyric": "Bakkul su eopseo Not anyone anyone",
+      "lyric_hangul": "바꿀 수 없어, not anyone, anyone",
+      "lyric_translation": "",
+      "range": [82.75, 86.73], "ans": [10]},
+    {"lyric": "Naye modeun iyureul nega gareuchyeo jweoseo",
+      "lyric_hangul": "나의 모든 이유를 네가 가르쳐 줘서",
+      "lyric_translation": "",
+      "range": [86.73, 91.51], "ans": [13]},
+    {"lyric": "Sesang eoneu goseseodo nan neorago malhae",
+      "lyric_hangul": "세상 어느 곳에서도 난 너라고 말해",
+      "lyric_translation": "",
+      "range": [91.51, 99.47], "ans": [6]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "바꿀 수 없어, not anyone, anyone",
+      "parts": [
+        {"lyric": "Bakkul su eopseo",
+          "range": [99.47, 100.97], "ans": [4]},
+        {"lyric": "Not anyone anyone",
+          "range": [100.97, 107.89], "ans": [4]}
+      ]
+    },
+    {"lyric": "I love you, cause I",
+      "lyric_hangul": "I love you 'cause I 포기할 수 없는",
+      "lyric_translation": "",
+      "range": [107.89, 111.83], "ans": [12]},
+    {
+      "lyric_hangul": "Only you, 너라서, yeah",
+      "parts": [
+        {"lyric": "Pogihal su eomneun Only you",
+          "range": [111.83, 112.97], "ans": [12]},
+        {"lyric": "Neoraseo Yeah",
+          "range": [112.63, 113.63], "ans": [12]}
+      ]
+    },
+    "",
+    {"lyric": "Haneul wieseo tteoreojin jageun kkot",
+      "lyric_hangul": "하늘 위에서 떨어진 작은 꽃",
+      "lyric_translation": "",
+      "range": [113.39, 117.78], "ans": [7]},
+    {
+      "lyric_hangul": "사막 한가운데서 (그대 나를 위한 선물)",
+      "parts": [
+        {"lyric": "Samak hangaundeseo",
+          "range": [117.78, 120.32], "ans": [5]},
+        {"lyric": "(geudae nareul wihan seonmul)",
+          "range": [119.62, 121.53], "ans": [9]}
+      ]
+    },
+    {"lyric": "Ne moksorie shimjangi gyesokhaeseo ttwigo isseo",
+      "lyric_hangul": "네 목소리에 심장이 계속해서 뛰고 있어",
+      "lyric_translation": "",
+      "range": [121.53, 128.18], "ans": [11]},
+    {"lyric": "Nae sarange iyuneun eopseo",
+      "lyric_hangul": "내 사랑에 이유는 없어",
+      "lyric_translation": "",
+      "range": [128.18, 131.05], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "We make the rules, 세상에 하나뿐인 규칙",
+      "parts": [
+        {"lyric": "We make the rules",
+          "range": [131.05, 133.17], "ans": [8]},
+        {"lyric": "Sesange hanappunin gyuchik",
+          "range": [133.17, 135.43], "ans": [8]}
+      ]
+    },
+    {"lyric": "Bakkul su eopseo Not anyone anyone",
+      "lyric_hangul": "바꿀 수 없어, not anyone, anyone",
+      "lyric_translation": "",
+      "range": [135.3, 139.3], "ans": [8]},
+    {"lyric": "Naye modeun iyureul nega gareuchyeo jweoseo",
+      "lyric_hangul": "나의 모든 이유를 네가 가르쳐 줘서",
+      "lyric_translation": "",
+      "range": [139.3, 143.89], "ans": [10]},
+    {"lyric": "Sesang eoneu goseseodo nan neorago malhae",
+      "lyric_hangul": "세상 어느 곳에서도 난 너라고 말해",
+      "lyric_translation": "",
+      "range": [143.89, 150.79], "ans": [4]},
+    "",
+    {"lyric": "Not anyone anyone",
+      "lyric_hangul": "Not anyone, anyone",
+      "lyric_translation": "",
+      "range": [155.12, 159.88], "ans": [3]},
+    {"lyric": "I love you, cause I",
+      "lyric_hangul": "I love you 'cause I 포기할 수 없는",
+      "lyric_translation": "",
+      "range": [159.88, 163.85], "ans": [2]},
+    {
+      "lyric_hangul": "Only you 너라서, yeah",
+      "parts": [
+        {"lyric": "Pogihal su eomneun Only you",
+          "range": [163.85, 165.41], "ans": [2]},
+        {"lyric": "Neoraseo Yeah",
+          "range": [164.49, 168.03], "ans": [2]}
+      ]
+    }
+  ]
+}

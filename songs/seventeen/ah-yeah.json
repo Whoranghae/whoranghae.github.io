@@ -1,0 +1,549 @@
+{
+  "name": "Ah Yeah\r",
+  "ogg": "sound/kpop/ah_yeah.ogg",
+  "id": "ah-yeah",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2015-05-29",
+  "album": "17 CARAT",
+  "cover": "css/images/covers/ah-yeah.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:38:17Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "A ye, a ye geunde mworaguyo?",
+      "lyric_hangul": "Ah-yeah, ah-yeah, 근데 뭐라구요?",
+      "lyric_translation": "(Ah yeah, ah yeah, but what did you say?",
+      "range": [2.84, 7.18], "ans": [12]},
+    {"lyric": "Yo $. Coup$, Here’s the baton, Man",
+      "lyric_hangul": "Yo, S.Coups, here's the baton, man",
+      "lyric_translation": "Yo $. Coup$, Here’s the baton, Man)",
+      "range": [7.18, 9.02], "ans": [12]},
+    "",
+    {"lyric": "Deungjanggwa dongsie deulleorideul badageseo",
+      "lyric_hangul": "등장과 동시에 들러리들 바닥에서",
+      "lyric_translation": "Right when I appear, all the underlings drool",
+      "range": [9.02, 11.57], "ans": [1]},
+    {"lyric": "Chim heullimyeo gijeol geu wieseo suyeonghaeyo",
+      "lyric_hangul": "침 흘리며 기절 그 위에서 수영해요",
+      "lyric_translation": "and faint – And I’ll swim in that",
+      "range": [11.57, 14.53], "ans": [1]},
+    {"lyric": "WOAH yeopguri jibangtyubeu kkigo mot tteun",
+      "lyric_hangul": "Whoa, 옆구리 지방 튜브 끼고 못 뜬",
+      "lyric_translation": "Woah, all the kids that couldn’t float with their fat tubes",
+      "range": [14.53, 17.04], "ans": [1]},
+    {
+      "lyric_hangul": "애들이 알리 있나 못 뜬 이유 절대 모름 (don't know)",
+      "lyric_translation": "There’s no way they know, they don’t know why / they won’t succeed1 – I have no thoughts to adjust",
+      "parts": [
+        {"lyric": "Aedeuri alli inna",
+          "range": [17.04, 17.77], "ans": [1]},
+        {"lyric": "Mot tteun iyu jeoldae moreum",
+          "range": [17.77, 18.77], "ans": [1]},
+        {"lyric": "(Don’t know)",
+          "range": [18.26, 18.82], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "맞출 생각 없어 네 식견에 날 맞추지 말길",
+      "lyric_translation": "to them so don’t try to fit me into your thoughts / I’ll nail your ears so hard",
+      "parts": [
+        {"lyric": "Matchul saenggak eopseo",
+          "range": [18.82, 20.28], "ans": [1]},
+        {"lyric": "Ni sikgyeone nal matchuji malgil",
+          "range": [20.28, 22.14], "ans": [1]}
+      ]
+    },
+    {"lyric": "Mak gwideul bangguseok bakhyeo bakke naojil anchi",
+      "lyric_hangul": "막 귀들 방구석 박혀 밖에 나오질 않지",
+      "lyric_translation": "that you won’t be able to come outside",
+      "range": [21.74, 24.64], "ans": [1]},
+    {
+      "lyric_hangul": "그딴 식으로 평생 우리 뒤 일팔 (일칠)",
+      "lyric_translation": "Just like that, you’ll always be behind us",
+      "parts": [
+        {"lyric": "Geuttan sigeuro pyeongsaenguri dwi ilpal",
+          "range": [24.64, 26.87], "ans": [1]},
+        {"lyric": "(ilchil)",
+          "range": [26.42, 26.92], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "광땡도 아니야 불 필요 없이 한번 듣고 끝 (ho)",
+      "lyric_translation": "It’s not even a royal flush, / don’t need to see it, just need to hear it once",
+      "parts": [
+        {"lyric": "Gwangttaengdo anyeo bul piryo eopsi",
+          "range": [26.61, 28.27], "ans": [1]},
+        {"lyric": "Hanbeon deutgo kkeut",
+          "range": [28.27, 29.22], "ans": [1]},
+        {"lyric": "(Ho)",
+          "range": [28.77, 29.27], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Ijen chulbalseon sinbalkkeun kkwak mae",
+      "lyric_hangul": "이젠 출발선 신발 끈 꽉 매",
+      "lyric_translation": "It’s the start line, tie your laces tight",
+      "range": [28.76, 31.66], "ans": [6]},
+    {"lyric": "Biseudeumhae urirang ildeung sai gangyeok",
+      "lyric_hangul": "비스듬해 우리랑 일등 사이 간격",
+      "lyric_translation": "The distance between us and #1 is not far",
+      "range": [31.66, 34.45], "ans": [6]},
+    {
+      "lyric_hangul": "해가 되던 모래주머니 양옆 (옆)",
+      "lyric_translation": "We’ll take off the sand bags",
+      "parts": [
+        {"lyric": "Haega doedeon moraejumeoni yang yeop",
+          "range": [34.45, 37.01], "ans": [6]},
+        {"lyric": "(yeop)",
+          "range": [36.51, 37.06], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "발에서 떼고 자세를 잡아, 크라우치 (달려)",
+      "lyric_translation": "that dragged us down",
+      "parts": [
+        {"lyric": "Bareseo ttego jasereul jaba keurauchi",
+          "range": [36.53, 39.47], "ans": [6]},
+        {"lyric": "(dallyeo)",
+          "range": [38.95, 39.52], "ans": []}
+      ]
+    },
+    {"lyric": "Kkoljjieseo ideungi doego",
+      "lyric_hangul": "꼴찌에서 이등이 되고",
+      "lyric_translation": "Get ready, crouch down (and run)",
+      "range": [39.17, 41.4], "ans": [6]},
+    {
+      "lyric_hangul": "비등비등한 이틈에서 일등이 되고파 (I wanna, wanna)",
+      "lyric_translation": "From last place, we became 2nd place / I wanna be #1 from this tight race",
+      "parts": [
+        {"lyric": "Bideungbideunghan iteumeseo",
+          "range": [41.4, 42.9], "ans": [6]},
+        {"lyric": "Ildeungi doegopa",
+          "range": [42.9, 44.24], "ans": [6]},
+        {"lyric": "(I Wanna Wanna)",
+          "range": [43.54, 44.38], "ans": []}
+      ]
+    },
+    {"lyric": "Mujakjeong ingi manheungeon dwaetgo",
+      "lyric_hangul": "무작정 인기 많은 건 됐고",
+      "lyric_translation": "Don’t wanna be popular without a plan",
+      "range": [44.09, 45.95], "ans": [6]},
+    {
+      "lyric_hangul": "우리 얘기로 많은 이들의 귀를 채우고파 (pull up)",
+      "lyric_translation": "Wanna fill up / many ears with our stories (pull up)",
+      "parts": [
+        {"lyric": "Uri yaegiro manheun ideurui",
+          "range": [45.95, 47.95], "ans": [6]},
+        {"lyric": "Gwireul chaeugopa",
+          "range": [47.95, 49.16], "ans": [6]},
+        {"lyric": "(Pull up)",
+          "range": [48.46, 49.29], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Hold up mwonga mugeoun ipjang",
+      "lyric_hangul": "Hold up, 뭔가 무거운 입장",
+      "lyric_translation": "Hold up, this feels a bit heavy",
+      "range": [49.22, 51.27], "ans": [9]},
+    {"lyric": "Siseon gangtal geu hu sappunsappun ttwieo nora",
+      "lyric_hangul": "시선 강탈 그 후 사뿐사뿐 뛰어놀아",
+      "lyric_translation": "After we steal all eyes, we’ll jump around lightly",
+      "range": [51.27, 54.03], "ans": [9]},
+    {
+      "lyric_hangul": "Turnt up, I don't give a what, what, what, what, what, what",
+      "lyric_translation": "Turnt up I don’t give a / What What What What What",
+      "parts": [
+        {"lyric": "Turnt up I don’t give a",
+          "range": [54.03, 56.86], "ans": [9]},
+        {"lyric": "What What What What What",
+          "range": [56.86, 57.91], "ans": [9]}
+      ]
+    },
+    {"lyric": "What you gonna say",
+      "lyric_hangul": "What you gonna say?",
+      "lyric_translation": "What you gonna say",
+      "range": [57.54, 58.51], "ans": [9]},
+    {"lyric": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_hangul": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_translation": "",
+      "range": [58.51, 63.32], "ans": []},
+    "",
+    {
+      "lyric_hangul": "근데 뭐라고요? 잘 모르겠어요 전부 다",
+      "lyric_translation": "Ah yeah, but what did you say?",
+      "parts": [
+        {"lyric": "A~ye",
+          "range": [63.32, 64.62], "ans": []},
+        {"lyric": "Geunde mworagoyo?",
+          "range": [64.62, 68.52], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_hangul": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_translation": "",
+      "range": [68.52, 72.88], "ans": []},
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(you ain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [78.35, 78.97], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [78.4, 80.57], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [80.57, 81.61], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [80.91, 82.71], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [82.66, 83.91], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [83.21, 85.64], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "I’m turnt up I’m super turnt up",
+      "lyric_hangul": "I'm turnt up, I'm super turnt up",
+      "lyric_translation": "I’m turnt up I’m super turnt up",
+      "range": [85.64, 87.47], "ans": [9]},
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [87.47, 88.24], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [87.54, 90.17], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [90.17, 91.4], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [90.7, 92.53], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [92.23, 93.68], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [92.98, 95.02], "ans": [12]}
+      ]
+    },
+    {"lyric": "I’m turnt up I’m super turnt up",
+      "lyric_hangul": "Yeah, I'm turnt up, I'm super turnt up",
+      "lyric_translation": "I’m turnt up I’m super turnt up",
+      "range": [95.02, 97.72], "ans": [6]},
+    {"lyric": "Vernon, yeah",
+      "lyric_hangul": "Vernon, yeah",
+      "lyric_translation": "",
+      "range": [97.72, 100.04], "ans": []},
+    {"lyric": "With a Mac fully loaded ah",
+      "lyric_hangul": "Pull up on your wacks with a Mac fully loaded, ah",
+      "lyric_translation": "with a Mac fully loaded ah",
+      "range": [100.04, 103.11], "ans": [12]},
+    {
+      "lyric_hangul": "퍼부어 장마철 벌집들이 불어나 내 시야를 가려, wow",
+      "lyric_translation": "Pour down like monsoon season, / beehives increase and block my vision, wow",
+      "parts": [
+        {"lyric": "Peobueo jangmacheol",
+          "range": [103.11, 105.61], "ans": [12]},
+        {"lyric": "Beoljipdeuri bureona nae siyareul garyeo Wow",
+          "range": [105.61, 109.03], "ans": [12]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "지가 뭔 소리하는지도 모르면서 짖어대는 광견들 (bow-wow)",
+      "lyric_translation": "They don’t even know what they’re saying, / all those barking rabid dogs (bow wow)",
+      "parts": [
+        {"lyric": "Jiga mwon sorihaneunjido moreumyeonseo",
+          "range": [109.03, 111.67], "ans": [12]},
+        {"lyric": "Jijeodaeneun gwanggyeondeul",
+          "range": [111.67, 113.73], "ans": [12]},
+        {"lyric": "(Bow Wow)",
+          "range": [113.03, 113.94], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, 지금 이 벌스로 치료될걸 바랄게 'cause I'm the vet', you know it",
+      "lyric_translation": "I hope you’ll be healed with this verse, / Cause I’m the vet You know it",
+      "parts": [
+        {"lyric": "Jigeum i beolseuro chiryodoelgeol baralge",
+          "range": [113.94, 115.98], "ans": [12]},
+        {"lyric": "Cause I’m the vet You know it",
+          "range": [115.98, 118.14], "ans": [12]}
+      ]
+    },
+    {"lyric": "Hold up mwonga mugeoun ipjang",
+      "lyric_hangul": "Hold up, 뭔가 무거운 입장",
+      "lyric_translation": "Hold up, this feels a bit heavy",
+      "range": [118.03, 119.86], "ans": [9]},
+    {"lyric": "Siseon gangtal geu hu sappunsappun ttwieo nora",
+      "lyric_hangul": "시선 강탈 그 후 사뿐사뿐 뛰어놀아",
+      "lyric_translation": "After we steal all eyes, we’ll jump around lightly",
+      "range": [119.86, 122.65], "ans": [9]},
+    {
+      "lyric_hangul": "Turnt up, I don't give a what, what, what, what, what, what",
+      "lyric_translation": "Turnt up I don’t give a / What What What What What",
+      "parts": [
+        {"lyric": "Turnt up I don’t give a",
+          "range": [122.65, 125.43], "ans": [9]},
+        {"lyric": "What What What What What",
+          "range": [125.43, 126.73], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "What you gonna say",
+      "lyric_hangul": "What you gonna say?",
+      "lyric_translation": "What you gonna say",
+      "range": [126.33, 127.32], "ans": [9]},
+    {"lyric": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_hangul": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_translation": "",
+      "range": [127.32, 131.94], "ans": []},
+    {
+      "lyric_hangul": "근데 뭐라고요? 잘 모르겠어요 전부 다",
+      "lyric_translation": "I don’t really know anything / Ah yeah, but what did you say?",
+      "parts": [
+        {"lyric": "Jal moreugesseoyo jeonbu da",
+          "range": [131.94, 134.95], "ans": [1]},
+        {"lyric": "A~ye",
+          "range": [134.28, 135.0], "ans": []},
+        {"lyric": "Geunde mworagoyo?",
+          "range": [135.0, 137.18], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_hangul": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_translation": "",
+      "range": [137.18, 141.79], "ans": []},
+    {
+      "lyric_hangul": "이해가 안 가요 한 번만 더 말해줄래요? 너 말이야",
+      "lyric_translation": "Ah yeah, I don’t understand, / tell me one more time, yes you",
+      "parts": [
+        {"lyric": "A~ye",
+          "range": [141.79, 142.5], "ans": []},
+        {"lyric": "Ihaega angayo",
+          "range": [141.84, 143.77], "ans": [12]},
+        {"lyric": "Hanbeonman deo malhaejullaeyo neo marya",
+          "range": [143.77, 146.81], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(you ain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [146.16, 147.39], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [146.69, 148.88], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [148.71, 150.03], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [149.33, 151.23], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [151.07, 152.46], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [151.76, 153.94], "ans": [9]}
+      ]
+    },
+    {"lyric": "I’m turnt up I’m super turnt up",
+      "lyric_hangul": "I'm turnt up, I'm super turnt up",
+      "lyric_translation": "I’m turnt up I’m super turnt up",
+      "range": [153.94, 156.12], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [156.12, 156.98], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [156.28, 158.77], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [158.77, 159.77], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [159.07, 161.45], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You ain't) Got no feel, got no feel",
+      "lyric_translation": "(youain’t) got no feel got no feel",
+      "parts": [
+        {"lyric": "(You ain’t)",
+          "range": [161.45, 162.3], "ans": []},
+        {"lyric": "Got no feel got no feel",
+          "range": [161.6, 163.56], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I'm turnt up, I'm super turnt up",
+      "lyric_translation": "I’m turnt up I’m super turnt up / Vernon yeah Pull up on you wacks",
+      "parts": [
+        {"lyric": "I’m turnt up I’m super turnt up",
+          "range": [163.56, 165.35], "ans": [6]},
+        {"lyric": "Vernon yeah Pull up on you wacks",
+          "range": [164.65, 166.38], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 길은 네가 걷지 못해 (ah-yeah)",
+      "lyric_translation": "You can’t walk this path (ah yeah)",
+      "parts": [
+        {"lyric": "I gireun nega geotji mothae",
+          "range": [165.8, 167.66], "ans": [9]},
+        {"lyric": "(a ye)",
+          "range": [166.96, 168.06], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "넌 그 정도밖에 못해 (ah-yeah)",
+      "lyric_translation": "That’s all you can do (ah yeah)",
+      "parts": [
+        {"lyric": "Neon geu jeongdo bakke mothae",
+          "range": [168.05, 169.77], "ans": [9]},
+        {"lyric": "(a ye)",
+          "range": [169.77, 170.69], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "뭔 말인지 알지",
+      "lyric_translation": "You know what I’m saying? (ah yeah)",
+      "parts": [
+        {"lyric": "Mwon marinji alji",
+          "range": [170.25, 171.94], "ans": [9]},
+        {"lyric": "(aye)",
+          "range": [171.24, 172.27], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Moreugesseo jebal singyeong jom kkeojugil barae",
+      "lyric_hangul": "Ah-yeah, 모르겠어 제발 신경 좀 꺼주길 바라",
+      "lyric_translation": "If you don’t know, then please piss off",
+      "range": [172.27, 175.51], "ans": [12]},
+    {
+      "lyric_hangul": "이 길은 네가 걷지 못해 (ah-yeah)",
+      "lyric_translation": "You can’t walk this path (ah yeah)",
+      "parts": [
+        {"lyric": "I gireun nega geotji mothae",
+          "range": [175.51, 177.49], "ans": [9]},
+        {"lyric": "(aye)",
+          "range": [176.79, 177.89], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "넌 그 정도밖에 못해 (ah-yeah)",
+      "lyric_translation": "That’s all you can do (ah yeah)",
+      "parts": [
+        {"lyric": "Neon geu jeongdo bakke mothae",
+          "range": [177.82, 179.64], "ans": [9]},
+        {"lyric": "(aye)",
+          "range": [179.64, 180.47], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "뭔 말인지 알지 Ah-yeah, one more time, say, what, what, what, what, what, what",
+      "lyric_translation": "You know what I’m saying? (ah yeah) / One more time say / What What What What What",
+      "parts": [
+        {"lyric": "Mwon marinji alji",
+          "range": [180.08, 181.94], "ans": [9]},
+        {"lyric": "Ah yeah",
+          "range": [182.57, 183.21], "ans": [12]},
+        {"lyric": "One more time say",
+          "range": [183.21, 184.83], "ans": [12]},
+        {"lyric": "What What What What What",
+          "range": [184.83, 185.55], "ans": [12]}
+      ]
+    },
+    {"lyric": "What you gonna say",
+      "lyric_hangul": "What you gonna say?",
+      "lyric_translation": "What you gonna say",
+      "range": [185.13, 185.92], "ans": [12]},
+    {"lyric": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_hangul": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_translation": "",
+      "range": [185.92, 190.75], "ans": []},
+    {
+      "lyric_hangul": "근데 뭐라고요? 잘 모르겠어요 전부 다",
+      "lyric_translation": "I don’t really know anything / Ah yeah, but what did you say? / I don’t really know anything",
+      "parts": [
+        {"lyric": "Jal moreugesseoyo jeonbu da",
+          "range": [190.75, 192.2], "ans": [1]},
+        {"lyric": "A~ye",
+          "range": [191.5, 193.5], "ans": []},
+        {"lyric": "Geunde mworagoyo?",
+          "range": [192.8, 193.79], "ans": [1]},
+        {"lyric": "Jal moreugesseoyo jeonbu da",
+          "range": [193.79, 195.81], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_hangul": "Ah (ah-yeah, ah-yeah, ah-yeah, ah-yeah), yeah",
+      "lyric_translation": "",
+      "range": [195.81, 200.61], "ans": []},
+    "",
+    {
+      "lyric_hangul": "이해가 안 가요 한 번만 더 말해줄래요?",
+      "lyric_translation": "Ah yeah, I don’t understand, / tell me one more time, yes you / Ah yeah, I don’t understand, / tell me one more time, yes you",
+      "parts": [
+        {"lyric": "A~ye",
+          "range": [200.61, 201.16], "ans": []},
+        {"lyric": "Ihaega angayo",
+          "range": [200.66, 201.23], "ans": [12]},
+        {"lyric": "Hanbeonman deo malhaejullaeyo neo marya",
+          "range": [201.23, 202.69], "ans": [12]},
+        {"lyric": "A~ye",
+          "range": [202.2, 202.88], "ans": []},
+        {"lyric": "Ihaega angayo",
+          "range": [202.39, 202.93], "ans": [12]},
+        {"lyric": "Hanbeonman deo malhaejullaeyo neo marya",
+          "range": [202.93, 203.89], "ans": [12]}
+      ]
+    },
+    "",
+    {"lyric": "I’m turnt up I’m super turnt up",
+      "lyric_hangul": "I'm turnt up, I'm super turnt up",
+      "lyric_translation": "I’m turnt up I’m super turnt up",
+      "range": [203.82, 209.0], "ans": [6]}
+  ]
+}

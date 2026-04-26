@@ -1,0 +1,256 @@
+{
+  "name": "IF you leave me\r",
+  "ogg": "sound/kpop/if_you_leave_me.ogg",
+  "id": "if-you-leave-me",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2022-05-27",
+  "album": "SEVENTEEN 4th Album ‘Face the Sun’",
+  "cover": "css/images/covers/if-you-leave-me.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:50:08Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "먼 훗날에 만약 네가 떠난다면",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "Meon hutnare manyak",
+          "range": [17.69, 20.87], "ans": [13]},
+        {"lyric": "Nega tteonandamyeon",
+          "range": [20.87, 23.75], "ans": [13]}
+      ]
+    },
+    {"lyric": "Nan ama salji mothal geoya",
+      "lyric_hangul": "난 아마 살지 못할 거야",
+      "lyric_translation": "",
+      "range": [23.75, 27.26], "ans": [13]},
+    {
+      "lyric_hangul": "먼 훗날에 아냐, 그냥 생각 안 할래",
+      "parts": [
+        {"lyric": "Meon hutnare anya,",
+          "range": [27.26, 31.22], "ans": [5]},
+        {"lyric": "Geunyang saenggak an hallae",
+          "range": [31.22, 34.74], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Jamshi tteoreojyeo isseotteon shigando",
+      "lyric_hangul": "잠시 떨어져 있었던 시간도",
+      "lyric_translation": "",
+      "range": [34.74, 38.97], "ans": [3]},
+    {
+      "lyric_hangul": "내 마음을 소란스럽게 만드는데",
+      "parts": [
+        {"lyric": "Nae maeumeul",
+          "range": [38.97, 40.95], "ans": [3]},
+        {"lyric": "Soranseureopge mandeuneunde",
+          "range": [40.95, 44.35], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ireonaji aneul irin geol aljiman",
+      "lyric_hangul": "일어나지 않을 일인 걸 알지만",
+      "lyric_translation": "",
+      "range": [44.05, 47.5], "ans": [8]},
+    {"lyric": "Sangsangmaneurodo nunmuri na",
+      "lyric_hangul": "상상만으로도 눈물이 나",
+      "lyric_translation": "",
+      "range": [47.5, 52.5], "ans": [8]},
+    "",
+    {"lyric": "IF you leave me babe oh no",
+      "lyric_hangul": "If you leave me babe oh no",
+      "lyric_translation": "",
+      "range": [52.5, 57.5], "ans": [7]},
+    {"lyric": "IF you leave me babe",
+      "lyric_hangul": "If you leave me babe",
+      "lyric_translation": "",
+      "range": [57.5, 59.92], "ans": [7]},
+    {"lyric": "Nae nunmuri biga dweeoseo naeryeo",
+      "lyric_hangul": "내 눈물이 비가 되어서 내려",
+      "lyric_translation": "",
+      "range": [59.92, 64.44], "ans": [11]},
+    {"lyric": "Sagyejeoreul meomchuji anko jamgil geoya",
+      "lyric_hangul": "사계절을 멈추지 않고 잠길 거야",
+      "lyric_translation": "",
+      "range": [64.44, 72.97], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "If you leave me (내가 뭘 할 수 있을까요)",
+      "parts": [
+        {"lyric": "IF you leave me",
+          "range": [72.97, 75.92], "ans": [10]},
+        {"lyric": "(naega mweol hal su isseulkkayo)",
+          "range": [75.22, 77.41], "ans": [13]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 모든 날에 (살아 숨 쉬는 이유는 너인데)",
+      "parts": [
+        {"lyric": "Nae modeun nare",
+          "range": [77.41, 79.88], "ans": [10]},
+        {"lyric": "(sara sum shwineun iyuneun neoinde)",
+          "range": [79.18, 82.55], "ans": [13]}
+      ]
+    },
+    {
+      "lyric_hangul": "고장 났던 (마음이) 시간들이 (내 세상이) 다시 움직이게",
+      "parts": [
+        {"lyric": "Gojang natteon",
+          "range": [82.4, 84.47], "ans": [12]},
+        {"lyric": "Maeumi",
+          "range": [83.77, 85.39], "ans": [2]},
+        {"lyric": "Shigandeuri",
+          "range": [84.69, 86.51], "ans": [12]},
+        {"lyric": "Nae sesangi",
+          "range": [85.81, 87.43], "ans": [2]},
+        {"lyric": "Dashi umjigige",
+          "range": [86.73, 91.21], "ans": [12]}
+      ]
+    },
+    "",
+    {"lyric": "Sumi teok kkeute chadorok neoege",
+      "lyric_hangul": "숨이 턱 끝에 차도록 너에게",
+      "lyric_translation": "",
+      "range": [91.21, 96.45], "ans": [6]},
+    {
+      "lyric_hangul": "달려 어두운 그림자가 내린 밤에 (넌 내게 유일해서 다른 것과 바꿀 수가 없잖아)",
+      "parts": [
+        {"lyric": "Dallyeo eoduun geurimjaga naerin bame",
+          "range": [96.45, 98.69], "ans": [6]},
+        {"lyric": "(neon naege yuilhaeseo dareun geotgwa bakkul suga eopjana)",
+          "range": [97.99, 100.95], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "내가 네 곁을 지킬게 영원한 시간으로 넌 내게 (유일해) 내 맘을 (아는)",
+      "parts": [
+        {"lyric": "Naega ne gyeoteul jigilge",
+          "range": [100.95, 106.23], "ans": [4]},
+        {"lyric": "Yeongweonhan shiganeuro",
+          "range": [106.23, 111.2], "ans": [4]},
+        {"lyric": "Neon naege",
+          "range": [110.5, 113.18], "ans": [9]},
+        {"lyric": "Yuilhae",
+          "range": [112.48, 115.16], "ans": [12]},
+        {"lyric": "Nae mameul",
+          "range": [114.46, 117.14], "ans": [9]},
+        {"lyric": "Aneun",
+          "range": [116.44, 118.46], "ans": [12]},
+        {"lyric": "Anajweo",
+          "range": [117.76, 120.44], "ans": [9]},
+        {"lyric": "Nareul",
+          "range": [119.74, 121.42], "ans": [12]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "안아줘 (나를) 더 너 없는 내일은 싫어 (I need you, I love you, only you baby)",
+      "parts": [
+        {"lyric": "Deo neo eomneun naeireun shireo",
+          "range": [121.42, 124.7], "ans": [9]},
+        {"lyric": "(I need you, I love you, only you baby)",
+          "range": [124.7, 127.9], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "너라는 세상에 나라서 무얼 줘도 아깝지가",
+      "parts": [
+        {"lyric": "Neoraneun sesange",
+          "range": [127.9, 129.82], "ans": [1]},
+        {"lyric": "Naraseo mueol jweodo akkapjiga",
+          "range": [129.82, 132.42], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ana uri idaero yeongweonhagireul",
+      "lyric_hangul": "않아 우리 이대로 영원하기를",
+      "lyric_translation": "",
+      "range": [132.4, 135.69], "ans": [1]},
+    "",
+    {"lyric": "IF you leave me babe oh no",
+      "lyric_hangul": "If you leave me babe oh no",
+      "lyric_translation": "",
+      "range": [135.69, 140.72], "ans": [2]},
+    {"lyric": "IF you leave me babe",
+      "lyric_hangul": "If you leave me babe",
+      "lyric_translation": "",
+      "range": [140.72, 143.08], "ans": [2]},
+    {"lyric": "Nae nunmuri biga dweeoseo naeryeo",
+      "lyric_hangul": "내 눈물이 비가 되어서 내려",
+      "lyric_translation": "",
+      "range": [143.08, 147.65], "ans": [8]},
+    {"lyric": "Sagyejeoreul meomchuji ango jamgil geoya",
+      "lyric_hangul": "사계절을 멈추지 않고 잠길 거야",
+      "lyric_translation": "",
+      "range": [147.65, 154.18], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "If you leave me (내가 뭘 할 수 있을까요)",
+      "parts": [
+        {"lyric": "IF you leave me",
+          "range": [154.18, 156.97], "ans": [4]},
+        {"lyric": "(naega mweol hal su isseulkkayo)",
+          "range": [156.27, 158.37], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 모든 날에 (살아 숨 쉬는 이유는 너인데)",
+      "parts": [
+        {"lyric": "Nae modeun nare",
+          "range": [158.13, 160.91], "ans": [4]},
+        {"lyric": "(sara sum shwineun iyuneun neoinde)",
+          "range": [160.21, 163.38], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "고장 났던 (마음이) 시간들이 (내 세상이) 다시 움직이게",
+      "parts": [
+        {"lyric": "Gojang natteon",
+          "range": [163.31, 165.5], "ans": [6]},
+        {"lyric": "Maeumi",
+          "range": [164.8, 165.76], "ans": [3]},
+        {"lyric": "Shigandeuri",
+          "range": [165.76, 167.47], "ans": [6]},
+        {"lyric": "Nae sesangi",
+          "range": [166.77, 168.0], "ans": [3]},
+        {"lyric": "Dashi umjigige",
+          "range": [168.79, 172.47], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Sumi teok kkeute chadorok neoege",
+      "lyric_hangul": "숨이 턱 끝에 차도록 너에게",
+      "lyric_translation": "",
+      "range": [172.47, 177.26], "ans": [1]},
+    {
+      "lyric_hangul": "달려 어두운 그림자가 내린 밤에 (넌 내게 유일해서 다른 것과 바꿀 수가 없잖아)",
+      "parts": [
+        {"lyric": "Dallyeo eoduun geurimjaga naerin bame",
+          "range": [177.26, 179.15], "ans": [1]},
+        {"lyric": "(neon naege yuilhaeseo dareun geotgwa bakkul suga eopjana)",
+          "range": [179.15, 181.77], "ans": [11]}
+      ]
+    },
+    {
+      "lyric_hangul": "내가 네 곁을 지킬게 영원한 시간으로",
+      "parts": [
+        {"lyric": "Naega ne gyeoteul jigilge",
+          "range": [181.77, 187.45], "ans": [10]},
+        {"lyric": "Yeongweonhan shiganeuro",
+          "range": [187.45, 191.97], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "너의 손을 꼭 잡고 있고 싶어 그냥 내 곁에 있어줘",
+      "parts": [
+        {"lyric": "Neoye soneul kkok japgo",
+          "range": [191.97, 198.59], "ans": [9]},
+        {"lyric": "Itgo shipeo geunyang",
+          "range": [198.59, 204.23], "ans": [9]},
+        {"lyric": "Nae gyeote isseojweo",
+          "range": [204.23, 209.79], "ans": [9]}
+      ]
+    }
+  ]
+}

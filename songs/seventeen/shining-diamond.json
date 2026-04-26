@@ -1,0 +1,508 @@
+{
+  "name": "Shining Diamond\r",
+  "ogg": "sound/kpop/shining_diamond.ogg",
+  "id": "shining-diamond",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2015-05-29",
+  "album": "17 CARAT",
+  "cover": "css/images/covers/shining-diamond.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:56:36Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "Slip into the diamond life, oh",
+      "lyric_translation": "Slip into the diamond life oh! / Slip into the diamond life oh!",
+      "parts": [
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [0.29, 1.55], "ans": [4]},
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [0.85, 2.68], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Slip into the diamond life, oh",
+      "lyric_translation": "Slip into the diamond life oh! / Slip into the diamond life oh!",
+      "parts": [
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [2.33, 3.76], "ans": [4]},
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [3.06, 4.89], "ans": [5]}
+      ]
+    },
+    {"lyric": "Slip into the diamond life oh!",
+      "lyric_hangul": "Slip into the diamond life, oh",
+      "lyric_translation": "Slip into the diamond life oh!",
+      "range": [4.39, 6.62], "ans": [4]},
+    {
+      "lyric_hangul": "Ah, ah, ah, everybody, get up",
+      "lyric_translation": "Ah ah ah ah everybody get up / Ah ah ah ah everybody get up / (Slip into the shining diamond life)",
+      "parts": [
+        {"lyric": "Ah ah ah ah everybody get up",
+          "range": [6.62, 7.75], "ans": [4]},
+        {"lyric": "Ah ah ah ah everybody get up",
+          "range": [7.05, 8.47], "ans": [5]},
+        {"lyric": "(Slip into the shining diamond life)",
+          "range": [7.77, 9.66], "ans": [11]}
+      ]
+    },
+    {"lyric": "Yeah, SEVENTEEN",
+      "lyric_hangul": "Yeah, SEVENTEEN",
+      "lyric_translation": "",
+      "range": [9.66, 12.61], "ans": []},
+    {"lyric": "Rappin' the P man, ha",
+      "lyric_hangul": "Rappin' the P man, ha",
+      "lyric_translation": "",
+      "range": [12.61, 14.79], "ans": []},
+    {"lyric": "Yeah, let me show how it's supposed to be done right now",
+      "lyric_hangul": "Yeah, let me show how it's supposed to be done right now",
+      "lyric_translation": "",
+      "range": [14.79, 16.75], "ans": []},
+    {"lyric": "Let's get it, yeah",
+      "lyric_hangul": "Let's get it, yeah",
+      "lyric_translation": "",
+      "range": [16.75, 17.34], "ans": []},
+    {"lyric": "I only got a few dollars",
+      "lyric_hangul": "I know I'm only 17, I only got a few dollars",
+      "lyric_translation": "I only got a few dollars",
+      "range": [17.34, 19.31], "ans": [12]},
+    {"lyric": "Hajiman jeonhyeo gaeuichi anha It’d be no problem",
+      "lyric_hangul": "하지만 전혀 개의치 않아, it'd be no problem",
+      "lyric_translation": "But it doesn’t matter at all, it’d be no problem",
+      "range": [19.31, 21.53], "ans": [12]},
+    {"lyric": "Imi chungbunhan sigangwa apryeok",
+      "lyric_hangul": "이미 충분한 시간과 압력",
+      "lyric_translation": "I already went through all the time and pressure",
+      "range": [21.53, 23.97], "ans": [12]},
+    {"lyric": "Modu geochyeosseuni jal bwa I’m that diamond",
+      "lyric_hangul": "모두 거쳤으니 잘 봐, I'm that diamond",
+      "lyric_translation": "So look carefully, I’m that diamond",
+      "range": [23.97, 26.01], "ans": [12]},
+    {"lyric": "Gamtanhage doel uri dandanhami",
+      "lyric_hangul": "감탄하게 될 우리 단단함이",
+      "lyric_translation": "You’ll be awed by our strength",
+      "range": [26.01, 27.92], "ans": [1]},
+    {"lyric": "Mandeureonae ganeun gimakhin i johwabomyeon",
+      "lyric_hangul": "만들어내 가는 기막힌 이 조화보면",
+      "lyric_translation": "When you look at this amazing combination",
+      "range": [27.92, 30.43], "ans": [1]},
+    {"lyric": "Neodo johahal kkeoya bunmyeong",
+      "lyric_hangul": "너도 좋아할 꺼야 분명",
+      "lyric_translation": "You’ll like us too, definitely – I’ll catch your eye",
+      "range": [30.43, 32.95], "ans": [1]},
+    {
+      "lyric_hangul": "내가 눈에 띄면 엄지 들고 붙어, uh",
+      "lyric_translation": "I’m sticking my thumb up, come gatherNow open your eyes ooh ah",
+      "parts": [
+        {"lyric": "Naega nune ttuimyeon eomji deulgo buteo uh",
+          "range": [32.95, 34.74], "ans": [1]},
+        {"lyric": "Ja nuntteobwa ooh ah",
+          "range": [34.04, 35.45], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "자 눈떠봐, ooh-ah, like Jackson, I dance around (yeah)",
+      "lyric_translation": "like Jackson I dance around (Yeh~)",
+      "parts": [
+        {"lyric": "Like Jackson I dance around",
+          "range": [35.22, 39.38], "ans": [5]},
+        {"lyric": "(Yeh~)",
+          "range": [38.68, 39.56], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이제 준비된 사람들 여기, 하나 둘 셋 넷 (everybody get up)",
+      "lyric_translation": "All you who are ready, come here / One two three four (Everybody get up)",
+      "parts": [
+        {"lyric": "Ije junbidoen saramdeul",
+          "range": [39.56, 41.38], "ans": [5]},
+        {"lyric": "Yeogi hana dul set net",
+          "range": [41.38, 44.46], "ans": [5]},
+        {"lyric": "(Everybody get up)",
+          "range": [43.93, 44.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "흙 속에 묻혀 있던 날 위로 끌어올려 (yeah)",
+      "lyric_translation": "I’ll come out / from under the dirt (yeh~)",
+      "parts": [
+        {"lyric": "Heuk soge muthyeo itdeon nal",
+          "range": [44.45, 46.71], "ans": [7]},
+        {"lyric": "Wiro kkeureoollyeo",
+          "range": [46.71, 48.42], "ans": [7]},
+        {"lyric": "(Yeh~)",
+          "range": [47.83, 48.47], "ans": []}
+      ]
+    },
+    {"lyric": "Ije bicheul nael siganiya oh oh oh oh",
+      "lyric_hangul": "이제 빛을 낼 시간이야, oh-oh-oh-oh",
+      "lyric_translation": "Now it’s time to shine oh oh oh oh",
+      "range": [48.29, 52.14], "ans": [7]},
+    {"lyric": "Shining Diamonds yeah",
+      "lyric_hangul": "Shining diamonds, yeah (aw)",
+      "lyric_translation": "Shining Diamonds yeah / Shining Diamonds yeah",
+      "range": [52.14, 55.31], "ans": [8]},
+    {
+      "lyric_hangul": "시간이 더 흘러도 약해지지 않아, we'll keep it up",
+      "lyric_translation": "Even after time passes / I won’t become weak, We’ll keep it up / Even after time passes / I won’t become weak, We’ll keep it up",
+      "parts": [
+        {"lyric": "Sigani deo heulleodo",
+          "range": [55.31, 56.25], "ans": [8]},
+        {"lyric": "Yakhaejiji anha We’ll keep it up",
+          "range": [56.25, 56.69], "ans": [8]},
+        {"lyric": "Sigani deo heulleodo",
+          "range": [56.69, 58.51], "ans": [8]},
+        {"lyric": "Yakhaejiji anha We’ll keep it up",
+          "range": [58.51, 61.0], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "지금 이 빛나는 약속을 네 손에 끼워줄게",
+      "lyric_translation": "I’ll give you this shining promise / on your finger / I’ll give you this shining promise / on your finger",
+      "parts": [
+        {"lyric": "Jigeum i binnaneun yaksogeul",
+          "range": [61.0, 62.22], "ans": [11]},
+        {"lyric": "Ne sone kkiwojulge",
+          "range": [62.22, 63.98], "ans": [11]},
+        {"lyric": "Jigeum i binnaneun yaksogeul",
+          "range": [63.98, 64.56], "ans": [11]},
+        {"lyric": "Ne sone kkiwojulge",
+          "range": [64.56, 65.85], "ans": [11]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Shining diamonds, yeah, 널 빛낼게 (aw)",
+      "lyric_translation": "Shining Diamonds yeah I’ll make you shine / Shining Diamonds yeah / Shining Diamonds yeah I’ll make you shine",
+      "parts": [
+        {"lyric": "Shining Diamonds yeah neol binnaelge",
+          "range": [65.85, 66.76], "ans": [11]},
+        {"lyric": "(Shining Diamonds yeah)",
+          "range": [66.06, 67.85], "ans": [8]},
+        {"lyric": "Shining Diamonds yeah neol binnaelge",
+          "range": [67.85, 70.16], "ans": [11]}
+      ]
+    },
+    {"lyric": "(Shining diamonds, yeah)",
+      "lyric_hangul": "(Shining diamonds, yeah)",
+      "lyric_translation": "",
+      "range": [70.16, 71.74], "ans": []},
+    {
+      "lyric_hangul": "Oh yes, I'm that diamond, 흉내 낼 수 없는 17 carat",
+      "lyric_translation": "Oh yes. I’m that Diamond. / You can’t copy this, seventeen carat",
+      "parts": [
+        {"lyric": "Oh yes. I’m that Diamond.",
+          "range": [71.74, 73.88], "ans": [6]},
+        {"lyric": "Hyungnae nael su eomneun Seventeen Carat",
+          "range": [73.88, 75.44], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "1분1초가 보석 같은, 시간을 즐겨, this is your life, hun",
+      "lyric_translation": "Each minute, each second is like a jewel / Enjoy this time, this is your life hun / (Shining Diamonds yeah)",
+      "parts": [
+        {"lyric": "Ilbunilchoga boseok gateun",
+          "range": [75.44, 77.72], "ans": [6]},
+        {"lyric": "Siganeul jeulgyeo this is your life hun",
+          "range": [77.72, 79.22], "ans": [6]},
+        {"lyric": "(Shining Diamonds yeah)",
+          "range": [78.52, 79.92], "ans": [8]}
+      ]
+    },
+    {"lyric": "(Shining diamonds, yeah)",
+      "lyric_hangul": "(Shining diamonds, yeah)",
+      "lyric_translation": "",
+      "range": [79.16, 80.58], "ans": []},
+    {
+      "lyric_hangul": "Oh yes, I'm that diamond, 흉내 낼 수 없는 17 carat",
+      "lyric_translation": "Oh yes. I’m that Diamond. / You can’t copy this, seventeen carat",
+      "parts": [
+        {"lyric": "Oh yes. I’m that Diamond.",
+          "range": [80.58, 82.74], "ans": [9]},
+        {"lyric": "Hyungnae nael su eomneun Seventeen Carat",
+          "range": [82.74, 84.34], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "1분1초가 보석 같은, 시간을 즐겨, this is your life, hun",
+      "lyric_translation": "Each minute, each second is like a jewel / Enjoy this time, this is your life hun / (Shining Diamonds yeah)",
+      "parts": [
+        {"lyric": "Ilbunilchoga boseok gateun",
+          "range": [84.34, 85.12], "ans": [9]},
+        {"lyric": "Siganeul jeulgyeo this is your life hun",
+          "range": [85.12, 86.03], "ans": [9]},
+        {"lyric": "(Shining Diamonds yeah)",
+          "range": [85.33, 86.47], "ans": [11]}
+      ]
+    },
+    {"lyric": "(Shining diamonds, yeah)",
+      "lyric_hangul": "(Shining diamonds, yeah)",
+      "lyric_translation": "",
+      "range": [86.47, 88.67], "ans": []},
+    {"lyric": "Ije deo sumgijima piharyeo hajima",
+      "lyric_hangul": "이제 더 숨기지마 피하려 하지마",
+      "lyric_translation": "Don’t hide it anymore, don’t avoid it",
+      "range": [88.67, 90.82], "ans": [7]},
+    "",
+    {"lyric": "Nan jigeum nuguboda binna",
+      "lyric_hangul": "난 지금 누구보다 빛나",
+      "lyric_translation": "I’m shining more than anyone right now",
+      "range": [90.82, 93.73], "ans": [7]},
+    {
+      "lyric_hangul": "그 어떤 누구보다 (빛나)",
+      "lyric_translation": "More than anyone else (shining)",
+      "parts": [
+        {"lyric": "Geu eotteon nuguboda",
+          "range": [93.73, 94.99], "ans": [6]},
+        {"lyric": "(binna)",
+          "range": [94.29, 95.73], "ans": [7]}
+      ]
+    },
+    {"lyric": "Gamchuryeo hajima yeah uh",
+      "lyric_hangul": "감추려 하지마, yeah, uh",
+      "lyric_translation": "Don’t try to hide it, yeah uh",
+      "range": [95.73, 97.36], "ans": [6]},
+    {"lyric": "Da piryo eomneun gamjeong",
+      "lyric_hangul": "다 필요 없는 감정",
+      "lyric_translation": "You don’t need any other emotion",
+      "range": [97.36, 99.27], "ans": [1]},
+    {
+      "lyric_hangul": "여기 상태는 최고조를 달려 (Coups)",
+      "lyric_translation": "We’re running through the climax right here (coups)",
+      "parts": [
+        {"lyric": "Yeogi sangtaeneun choegojoreul dallyeo",
+          "range": [99.27, 101.73], "ans": [1]},
+        {"lyric": "(Coups!)",
+          "range": [101.13, 101.78], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "니 몸 안에 감춘 걸 토해내 쏟아내, yeah",
+      "lyric_translation": "Throw up and spill out / all that you’ve hidden inside, yeah",
+      "parts": [
+        {"lyric": "Ni mom ane gamchun geol",
+          "range": [101.57, 102.87], "ans": [1]},
+        {"lyric": "Tohaenae ssodanae yeah",
+          "range": [102.87, 104.23], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "모두가 이 몸을 탐 내게 해, yeah",
+      "lyric_translation": "Make everyone jealous of this body",
+      "parts": [
+        {"lyric": "Moduga i momeul",
+          "range": [104.1, 106.35], "ans": [6]},
+        {"lyric": "Tam naege hae",
+          "range": [105.65, 106.94], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "자 눈떠봐, ooh-ah, like Jackson, I dance around (yeah)",
+      "lyric_translation": "Now open your eyes ooh ah / like Jackson I dance around (Yeh~)",
+      "parts": [
+        {"lyric": "Ja nuntteobwa ooh ah",
+          "range": [106.46, 108.17], "ans": [3]},
+        {"lyric": "Like Jackson I dance around",
+          "range": [108.17, 110.54], "ans": [3]},
+        {"lyric": "(Yeh)",
+          "range": [109.84, 110.67], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이제 준비된 사람들 여기, 하나 둘 셋 넷 (everybody get up)",
+      "lyric_translation": "All you who are ready, come here / One two three four (Everybody get up)",
+      "parts": [
+        {"lyric": "Ije junbidoen saramdeul",
+          "range": [110.53, 112.53], "ans": [3]},
+        {"lyric": "Yeogi hana dul set net",
+          "range": [112.53, 115.49], "ans": [3]},
+        {"lyric": "(Everybody Get Up)",
+          "range": [114.79, 115.71], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "흙 속에 묻혀 있던 날 위로 끌어올려 (yeah)",
+      "lyric_translation": "I’ll come out / from under the dirt (yeh~)",
+      "parts": [
+        {"lyric": "Heuk soge muthyeo itdeon nal",
+          "range": [115.51, 117.83], "ans": [2]},
+        {"lyric": "Wiro kkeureoollyeo",
+          "range": [117.83, 119.54], "ans": [2]},
+        {"lyric": "(Yeh)",
+          "range": [118.9, 119.59], "ans": []}
+      ]
+    },
+    {"lyric": "Ije bicheul nael siganiya oh oh oh oh",
+      "lyric_hangul": "이제 빛을 낼 시간이야, oh-oh-oh-oh",
+      "lyric_translation": "Now it’s time to shine oh oh oh oh",
+      "range": [119.4, 123.57], "ans": [2]},
+    {"lyric": "Shining Diamonds yeah",
+      "lyric_hangul": "Shining diamonds, yeah (aw)",
+      "lyric_translation": "Shining Diamonds yeah",
+      "range": [123.57, 126.35], "ans": [8]},
+    {
+      "lyric_hangul": "시간이 더 흘러도 약해지지 않아, we'll keep it up",
+      "lyric_translation": "Even after time passes / I won’t become weak, We’ll keep it up",
+      "parts": [
+        {"lyric": "Sigani deo heulleodo",
+          "range": [126.35, 128.91], "ans": [8]},
+        {"lyric": "Yakhaejiji anha We’ll keep it up",
+          "range": [128.91, 132.07], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "지금 이 빛나는 약속을 네 손에 끼워줄게",
+      "lyric_translation": "I’ll give you this shining promise / on your finger",
+      "parts": [
+        {"lyric": "Jigeum i binnaneun yaksogeul",
+          "range": [132.07, 135.03], "ans": [11]},
+        {"lyric": "Ne sone kkiwojulge",
+          "range": [135.03, 137.03], "ans": [11]}
+      ]
+    },
+    {"lyric": "Shining Diamonds yeah neol binnaelge",
+      "lyric_hangul": "Shining diamonds, yeah, 널 빛낼게 (aw)",
+      "lyric_translation": "Shining Diamonds yeah I’ll make you shine",
+      "range": [137.03, 142.47], "ans": [11]},
+    {
+      "lyric_hangul": "Slip into the diamond life, oh",
+      "lyric_translation": "Slip into the diamond life oh! / (Yeah Seventeen rappin the P man) / Slip into the diamond life oh!",
+      "parts": [
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [142.47, 143.48], "ans": [9]},
+        {"lyric": "(Yeah Seventeen rappin the P man)",
+          "range": [142.78, 144.08], "ans": [12]},
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [143.38, 144.67], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "Slip into the diamond life, oh",
+      "lyric_translation": "Slip into the diamond life oh! / (Ha Yeah Let me show you how) / Slip into the diamond life oh!",
+      "parts": [
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [144.64, 145.71], "ans": [9]},
+        {"lyric": "(Ha Yeah Let me show you how)",
+          "range": [145.01, 146.31], "ans": [12]},
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [145.61, 146.9], "ans": [10]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Slip into the diamond life, oh",
+      "lyric_translation": "Slip into the diamond life oh! / (It’s post to be done right now) / Ah ah ah ah everybody get upYeah I know I’m only 17 / Slip into the diamond life oh!",
+      "parts": [
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [146.84, 147.69], "ans": [9]},
+        {"lyric": "(It’s post to be done right now)",
+          "range": [146.99, 148.09], "ans": [12]},
+        {"lyric": "Ah ah ah ah everybody get up",
+          "range": [147.39, 148.44], "ans": [9]},
+        {"lyric": "Yeah I know I’m only 17",
+          "range": [147.84, 148.84], "ans": [12]},
+        {"lyric": "Slip into the diamond life oh!",
+          "range": [148.14, 149.0], "ans": [10]}
+      ]
+    },
+    {"lyric": "Ah ah ah ah everybody get up",
+      "lyric_hangul": "Ah, ah, ah, everybody, get up",
+      "lyric_translation": "Ah ah ah ah everybody get up",
+      "range": [149.0, 151.31], "ans": [10]},
+    {"lyric": "(Slip into the diamond life, oh) oh",
+      "lyric_hangul": "(Slip into the diamond life, oh) oh",
+      "lyric_translation": "",
+      "range": [151.31, 153.28], "ans": []},
+    {"lyric": "(Slip into the diamond life, oh) oh, whoa",
+      "lyric_hangul": "(Slip into the diamond life, oh) oh, whoa",
+      "lyric_translation": "",
+      "range": [153.28, 155.42], "ans": []},
+    {"lyric": "(Slip into the diamond life, oh) yeah, yeah, yeah",
+      "lyric_hangul": "(Slip into the diamond life, oh) yeah, yeah, yeah",
+      "lyric_translation": "",
+      "range": [155.42, 157.35], "ans": []},
+    {"lyric": "Slip into the diamond life oh!",
+      "lyric_hangul": "(Ah) slip into the shining diamond life",
+      "lyric_translation": "Slip into the diamond life oh!",
+      "range": [157.35, 158.76], "ans": [5]},
+    {"lyric": "Shining diamonds, yeah (aw)",
+      "lyric_hangul": "Shining diamonds, yeah (aw)",
+      "lyric_translation": "",
+      "range": [158.76, 161.91], "ans": []},
+    {
+      "lyric_hangul": "We gon' shine like whoa",
+      "lyric_translation": "We gon shine like Woah / (Shining Diamond yeah)",
+      "parts": [
+        {"lyric": "We gon shine like Woah~",
+          "range": [177.53, 179.92], "ans": [11]},
+        {"lyric": "(Shining Diamond yeah)",
+          "range": [179.22, 181.08], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "(Shining diamonds, yeah)",
+      "lyric_hangul": "(Shining diamonds, yeah)",
+      "lyric_translation": "",
+      "range": [181.08, 182.95], "ans": []},
+    {
+      "lyric_hangul": "Oh yes, I'm that diamond, 흉내 낼 수 없는 17 carat",
+      "lyric_translation": "Oh yes. I’m that Diamond. / You can’t copy this, seventeen carat",
+      "parts": [
+        {"lyric": "Oh yes. I’m that Diamond.",
+          "range": [182.95, 184.97], "ans": [12, 13]},
+        {"lyric": "Hyungnae nael su eomneun Seventeen Carat",
+          "range": [184.97, 186.7], "ans": [12, 13]}
+      ]
+    },
+    {
+      "lyric_hangul": "1분1초가 보석 같은, 시간을 즐겨, this is your life, hun",
+      "lyric_translation": "Each minute, each second is like a jewel / Enjoy this time, this is your life hun / (Shining Diamonds yeah)",
+      "parts": [
+        {"lyric": "Ilbunilchoga boseok gateun",
+          "range": [186.7, 188.83], "ans": [12, 13]},
+        {"lyric": "Siganeul jeulgyeo this is your life hun",
+          "range": [188.83, 190.4], "ans": [12, 13]},
+        {"lyric": "(Shining Diamonds yeah)",
+          "range": [189.7, 190.7], "ans": [8]}
+      ]
+    },
+    {"lyric": "(Shining diamonds, yeah)",
+      "lyric_hangul": "(Shining diamonds, yeah)",
+      "lyric_translation": "",
+      "range": [190.03, 191.69], "ans": []},
+    {
+      "lyric_hangul": "Oh yes, I'm that diamond, 흉내 낼 수 없는 17 carat",
+      "lyric_translation": "Oh yes. I’m that Diamond. / You can’t copy this, seventeen carat",
+      "parts": [
+        {"lyric": "Oh yes. I’m that Diamond.",
+          "range": [191.69, 193.87], "ans": [6, 9]},
+        {"lyric": "Hyungnae nael su eomneun Seventeen Carat",
+          "range": [193.87, 195.44], "ans": [6, 9]}
+      ]
+    },
+    {
+      "lyric_hangul": "1분1초가 보석 같은, 시간을 즐겨, this is your life, hun",
+      "lyric_translation": "Each minute, each second is like a jewel / Enjoy this time, this is your life hun / (Shining Diamonds yeah)",
+      "parts": [
+        {"lyric": "Ilbunilchoga boseok gateun",
+          "range": [195.44, 196.24], "ans": [6, 9]},
+        {"lyric": "Siganeul jeulgyeo this is your life hun",
+          "range": [196.24, 197.16], "ans": [6, 9]},
+        {"lyric": "(Shining Diamonds yeah)",
+          "range": [196.46, 197.6], "ans": [11]}
+      ]
+    },
+    {"lyric": "(Shining diamonds, yeah)",
+      "lyric_hangul": "(Shining diamonds, yeah)",
+      "lyric_translation": "",
+      "range": [197.6, 201.68], "ans": []}
+  ]
+}

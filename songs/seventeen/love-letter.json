@@ -1,0 +1,315 @@
+{
+  "name": "Love Letter (사랑쪽지)\r",
+  "ogg": "sound/kpop/love_letter.ogg",
+  "id": "love-letter",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2016-04-25",
+  "album": "LOVE&LETTER",
+  "cover": "css/images/covers/love-letter.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:50:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "이른 아침부터 내겐 너무나 어색한, 음",
+      "lyric_translation": "Starting early in the morning / I awkwardly mmm",
+      "parts": [
+        {"lyric": "Ireun achimbuteo",
+          "range": [1.69, 3.03], "ans": [7]},
+        {"lyric": "Naegen neomuna eosaekan Mmm",
+          "range": [3.03, 7.32], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "종이와 펜을 꺼내 들어 깊이 삼켜놨던 말을 담아 내",
+      "lyric_translation": "Take out a pen and a paper / And write down the words I had deeply swallowed",
+      "parts": [
+        {"lyric": "Jongiwa peneul kkeonae deureo",
+          "range": [7.32, 9.52], "ans": [7]},
+        {"lyric": "Gipi samkyeo nwatteon mareul damanae",
+          "range": [9.52, 14.48], "ans": [7]}
+      ]
+    },
+    {"lyric": "Geulsshiga yeppeuji motae",
+      "lyric_hangul": "글씨가 예쁘지 못해, 오",
+      "lyric_translation": "My handwriting isn’t pretty",
+      "range": [14.48, 17.95], "ans": [3]},
+    {
+      "lyric_hangul": "실망은 말아줘, 조금 서툴러도 눈 감아줘",
+      "lyric_translation": "Please don’t be disappointed / Please let it go if I suck",
+      "parts": [
+        {"lyric": "Oh shilmangeun mara jweo",
+          "range": [17.95, 20.36], "ans": [3]},
+        {"lyric": "Jogeum seotulleodo nungama jweo",
+          "range": [20.36, 24.07], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "I jjokjie chagokchagok neowa naega",
+      "lyric_hangul": "이 쪽지에 차곡차곡 너와 내가",
+      "lyric_translation": "On this letter I want to write down our story",
+      "range": [23.91, 28.45], "ans": [8]},
+    {"lyric": "Uri yaegil sseo naeryeo garyeo hae",
+      "lyric_hangul": "우리 얘길 써 내려가려 해",
+      "lyric_translation": "Every little thing about you and me",
+      "range": [28.45, 34.17], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "너와 날 사랑쪽지에 다 담아서, oh-oh (throw it in the air)",
+      "lyric_translation": "Write everything down about us on a love letter / (Throw it in the air)",
+      "parts": [
+        {"lyric": "Neowa nal sarang jjokjie da damaseo",
+          "range": [34.17, 38.02], "ans": []},
+        {"lyric": "(Throw it in the air)",
+          "range": [38.02, 39.93], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "텅 빈 하늘에 올리면 바람도 우릴 감쌀 거야",
+      "lyric_translation": "And throw it into the empty sky / The wind will embrace us",
+      "parts": [
+        {"lyric": "Teong bin haneure ollimyeon",
+          "range": [38.93, 41.39], "ans": []},
+        {"lyric": "Baramdo uril gamssal kkeoya",
+          "range": [41.39, 44.66], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "아팠던 날 들이 지워질 수 있게 널, oh-oh (throw it in the air)",
+      "lyric_translation": "So that your painful days of the past are erased / (Throw it in the air)",
+      "parts": [
+        {"lyric": "Apatteon naldeuri jiweojil su itge neol",
+          "range": [44.66, 48.79], "ans": []},
+        {"lyric": "(Throw it in the air)",
+          "range": [48.79, 50.65], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "널 꽉 안아 놓지 않을게, 늘 네 옆에 있어줄게",
+      "lyric_translation": "I will hold you tighly and never let go / I will always be by your side",
+      "parts": [
+        {"lyric": "Neol kkwak ana nochi aneulkke",
+          "range": [50.15, 52.6], "ans": []},
+        {"lyric": "Neul ni yeope isseo julkke",
+          "range": [52.6, 56.39], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "1 2 3",
+      "lyric_hangul": "One, two, three",
+      "lyric_translation": "1, 2, 3",
+      "range": [56.39, 57.66], "ans": []},
+    "",
+    {"lyric": "Pyohyeonmankeum seotun ppittulppittulhan geulsshiga",
+      "lyric_hangul": "표현만큼 서툰 삐뚤삐뚤한 글씨가",
+      "lyric_translation": "Worrying all night about my bad handwriting",
+      "range": [57.66, 60.2], "ans": [1]},
+    {"lyric": "Geokjeongdwae bamsae gominhae sseun nae mameul garilkka",
+      "lyric_hangul": "걱정돼, 밤새 고민해 쓴 내 맘을 가릴까?",
+      "lyric_translation": "Which is about as bad as how I express my feelings",
+      "range": [60.2, 62.67], "ans": [1]},
+    {"lyric": "Jeongseongkkeot pyohyeonhae bwado pyohyeoni an dwae",
+      "lyric_hangul": "정성껏 표현 해봐도 표현이 안돼",
+      "lyric_translation": "I try to sincerely express myself but I can’t get it out",
+      "range": [62.67, 65.85], "ans": [6]},
+    {
+      "lyric_hangul": "밤새 머리를 꽁꽁 싸매도 내 맘을 못 전해 (ooh)",
+      "lyric_translation": "I try to wrap my head around this all night / But I can’t deliver my feelings",
+      "parts": [
+        {"lyric": "Bamsae meorireul kkongkkong ssamaedo",
+          "range": [65.85, 67.53], "ans": [6]},
+        {"lyric": "Nae mameul mot jeonhae",
+          "range": [67.53, 68.61], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Neon ireon gominhaneun nae mameul alkka?",
+      "lyric_hangul": "넌 이런 고민하는 내 맘을 알까?",
+      "lyric_translation": "I wonder if you know how much I’m worrying",
+      "range": [68.59, 71.3], "ans": [9]},
+    {"lyric": "Jumeoni soge jjokjineun eonje jeonhalkka?",
+      "lyric_hangul": "주머니 속에 쪽지는 언제 전할까? (언제 전할까?)",
+      "lyric_translation": "When do I give you the letter in my pocket?",
+      "range": [71.3, 73.97], "ans": [9]},
+    {
+      "lyric_hangul": "무작정 다가가, 네 앞에 서서 괜히, 숨을 가다듬어",
+      "lyric_translation": "I approach you without thinking / And calm my breath",
+      "parts": [
+        {"lyric": "Mujakjeong dagaga",
+          "range": [73.97, 75.0], "ans": [12]},
+        {"lyric": "Ni ape seoseo gwaenhi sumeul gadadeumeo",
+          "range": [75.0, 77.61], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "손 좀 내밀어줄래? 자, 이거",
+      "lyric_translation": "“Can you give me your hand? / Here, this is for you”",
+      "parts": [
+        {"lyric": "“son jom naemireo jullae?",
+          "range": [77.61, 79.33], "ans": [12]},
+        {"lyric": "Ja igeo”",
+          "range": [79.33, 80.05], "ans": [12]}
+      ]
+    },
+    "",
+    {"lyric": "I jjokjie chagokchagok neowa naega",
+      "lyric_hangul": "이 쪽지에 차곡차곡 너와 내가",
+      "lyric_translation": "On this letter I want to write down our story",
+      "range": [79.9, 84.95], "ans": [11]},
+    {"lyric": "Uri yaegil sseo naeryeo garyeo hae",
+      "lyric_hangul": "우리 얘길 써 내려가려 해, ooh-whoa, baby",
+      "lyric_translation": "Every little thing about you and me",
+      "range": [84.95, 90.11], "ans": [11]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "너와 날 사랑쪽지에 다 담아서, oh-oh (throw it in the air)",
+      "lyric_translation": "Write everything down about us on a love letter / (Throw it in the air)",
+      "parts": [
+        {"lyric": "Neowa nal sarang jjokjie da damaseo",
+          "range": [90.11, 93.99], "ans": []},
+        {"lyric": "(Throw it in the air)",
+          "range": [93.99, 96.02], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "텅 빈 하늘에 올리면 바람도 우릴 감쌀 거야",
+      "lyric_translation": "And throw it into the empty sky / The wind will embrace us",
+      "parts": [
+        {"lyric": "Teong bin haneure ollimyeon",
+          "range": [95.02, 97.36], "ans": []},
+        {"lyric": "Baramdo uril gamssal kkeoya",
+          "range": [97.36, 100.64], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "아팠던 날들이 지워질 수 있게 널, oh-oh (throw it in the air)",
+      "lyric_translation": "So that your painful days of the past are erased / (Throw it in the air)",
+      "parts": [
+        {"lyric": "Apatteon naldeuri jiweojil su itge neol",
+          "range": [100.64, 104.77], "ans": []},
+        {"lyric": "(Throw it in the air)",
+          "range": [104.77, 106.75], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "널 꽉 안아 놓지 않을게, 늘 네 옆에 있어줄게",
+      "lyric_translation": "I will hold you tighly and never let go / I will always be by your side",
+      "parts": [
+        {"lyric": "Neol kkwak ana nochi aneulkke",
+          "range": [106.25, 108.6], "ans": []},
+        {"lyric": "Neul ni yeope isseo julkke",
+          "range": [108.6, 112.31], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "난 아직까지도 (oh-oh) 너에게 끝내 하지 못했던",
+      "lyric_translation": "There are still / So many things",
+      "parts": [
+        {"lyric": "Nan ajikkajido",
+          "range": [112.31, 114.41], "ans": [2]},
+        {"lyric": "Neoege kkeunnae haji motaetteon",
+          "range": [114.41, 118.05], "ans": [2]}
+      ]
+    },
+    {"lyric": "Geu manatteon maldeuri namatjiman",
+      "lyric_hangul": "그 많았던 말들이 남았지만",
+      "lyric_translation": "I ended up not able to tell you",
+      "range": [117.77, 122.91], "ans": [2]},
+    {
+      "lyric_hangul": "두 팔을 크게 벌려, 저 하늘을 걸고서 맹세해",
+      "lyric_translation": "I open my arms / And swear to the sky",
+      "parts": [
+        {"lyric": "Du pareul keuge beollyeo",
+          "range": [122.91, 125.51], "ans": [8]},
+        {"lyric": "Jeo haneureul geolgoseo maengsehae",
+          "range": [125.51, 129.39], "ans": [8]}
+      ]
+    },
+    {"lyric": "Neol dugo domanggaji ana",
+      "lyric_hangul": "널 두고 도망가지 않아",
+      "lyric_translation": "I won’t leave you and run away",
+      "range": [129.17, 132.69], "ans": [8]},
+    "",
+    {"lyric": "Neowa nal sarang jjokjie da damaseo",
+      "lyric_hangul": "너와 날 사랑쪽지에 다 담아서, 음",
+      "lyric_translation": "Write everything down about us on a love letter",
+      "range": [132.69, 137.89], "ans": [6]},
+    {"lyric": "Mmm jeo haneure ollimyeon",
+      "lyric_hangul": "저 하늘에 올리면",
+      "lyric_translation": "Mmm and raise it in that sky",
+      "range": [137.89, 140.81], "ans": [6]},
+    {
+      "lyric_hangul": "You know it can't get any better than this, babe",
+      "lyric_translation": "You know I can’t get / Any better than this babe",
+      "parts": [
+        {"lyric": "You know I can’t get",
+          "range": [140.81, 141.93], "ans": [12]},
+        {"lyric": "Any better than this babe",
+          "range": [141.93, 143.01], "ans": [12]}
+      ]
+    },
+    {"lyric": "Oh-oh, yeah",
+      "lyric_hangul": "Oh-oh, yeah",
+      "lyric_translation": "",
+      "range": [142.34, 143.43], "ans": []},
+    {"lyric": "Apatteon naldeuri jiweojil su itge neol",
+      "lyric_hangul": "아팠던 날들이 지워질 수 있게 널, oh-oh (oh)",
+      "lyric_translation": "So that your painful days of the past are erased",
+      "range": [143.43, 148.67], "ans": []},
+    {
+      "lyric_hangul": "널 꽉 안아 놓지 않을게 (hey), 늘 네 옆에 있어줄게",
+      "lyric_translation": "I will hold you tighly and never let go / I will always be by your side",
+      "parts": [
+        {"lyric": "Neol kkwak ana nochi aneulkke",
+          "range": [148.67, 151.66], "ans": []},
+        {"lyric": "Neul ni yeope isseo julkke",
+          "range": [151.66, 154.51], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "너와 날 사랑쪽지에 다 담아서, oh-oh (throw it in the air)",
+      "lyric_translation": "Write everything down about us on a love letter / (Throw it in the air)",
+      "parts": [
+        {"lyric": "Neowa nal sarang jjokjie da damaseo",
+          "range": [154.21, 158.07], "ans": []},
+        {"lyric": "(Throw it in the air)",
+          "range": [158.07, 160.08], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "텅 빈 하늘에 올리면 바람도 우릴 감쌀 거야",
+      "lyric_translation": "And throw it into the empty sky / The wind will embrace us",
+      "parts": [
+        {"lyric": "Teong bin haneure ollimyeon",
+          "range": [159.08, 161.38], "ans": []},
+        {"lyric": "Baramdo uril gamssal kkeoya",
+          "range": [161.38, 164.91], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "아팠던 날들이 지워질 수 있게 널, oh-oh (throw it in the air)",
+      "lyric_translation": "So that your painful days of the past are erased / (Throw it in the air)",
+      "parts": [
+        {"lyric": "Apatteon naldeuri jiweojil su itge neol",
+          "range": [164.91, 169.07], "ans": []},
+        {"lyric": "(Throw it in the air)",
+          "range": [169.07, 170.3], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "널 꽉 안아 놓지 않을게, 늘 네 옆에 있어줄게",
+      "lyric_translation": "I will hold you tighly and never let go / I will always be by your side",
+      "parts": [
+        {"lyric": "Neol kkwak ana nochi aneulkke",
+          "range": [169.63, 172.64], "ans": []},
+        {"lyric": "Neul ni yeope isseo julkke",
+          "range": [172.64, 179.0], "ans": []}
+      ]
+    }
+  ]
+}

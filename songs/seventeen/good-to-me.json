@@ -1,0 +1,353 @@
+{
+  "name": "Good to Me\r",
+  "ogg": "sound/kpop/good_to_me.ogg",
+  "id": "good-to-me",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2019-01-21",
+  "album": "YOU MADE MY DAWN",
+  "cover": "css/images/covers/good-to-me.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:50:07Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Han beonjeum geureon jeok itjana",
+      "lyric_hangul": "한 번쯤 그런 적 있잖아",
+      "lyric_translation": "You did this once before",
+      "range": [5.26, 8.5], "ans": [8]},
+    {"lyric": "Nunman bwado da al suga itneun",
+      "lyric_hangul": "눈만 봐도 다 알 수가 있는 (whoa, yeah)",
+      "lyric_translation": "Only by looking at your eyes I can tell",
+      "range": [8.5, 12.72], "ans": [8]},
+    {"lyric": "Mwol eojjeona shipdagado",
+      "lyric_hangul": "뭘 어쩌나 싶다가도?",
+      "lyric_translation": "Whatever may happen",
+      "range": [12.72, 15.76], "ans": [11]},
+    {"lyric": "I gamjeongeul algo shipeungeol",
+      "lyric_hangul": "이 감정을 알고 싶은걸 (oh)",
+      "lyric_translation": "I want to know this emotion",
+      "range": [15.76, 19.8], "ans": [11]},
+    "",
+    {"lyric": "Georeul ttae by my side",
+      "lyric_hangul": "걸을 때 by my side (side)",
+      "lyric_translation": "When walking by my side",
+      "range": [19.8, 21.36], "ans": [13]},
+    {"lyric": "Kkwak jabeun sondo nochigo shipjiga ana",
+      "lyric_hangul": "꽉 잡은 손도 놓치고 싶지가 않아",
+      "lyric_translation": "I don’t even want to let go of your hands",
+      "range": [21.36, 24.58], "ans": [13]},
+    {"lyric": "Seolleneun gibuneun da neoraseo maeu joa da",
+      "lyric_hangul": "설레는 기분은 다 너라서 매우 좋아 다",
+      "lyric_translation": "That flattering feeling is because of you, everything is so good",
+      "range": [24.58, 27.83], "ans": [13]},
+    {
+      "lyric_hangul": "내가 뭘 바라야 하니? 내 맘은 이미 충분히",
+      "lyric_translation": "What should I wish for honey / My heart is enough",
+      "parts": [
+        {"lyric": "Naega mwol baraya hani (honey)",
+          "range": [27.83, 29.51], "ans": [1]},
+        {"lyric": "Nae mameun imi chungbunhi",
+          "range": [29.51, 31.15], "ans": [1]}
+      ]
+    },
+    {"lyric": "Neoro neoro kkwak kkwak cha itne",
+      "lyric_hangul": "너로 너로 꽉 꽉 차 있네",
+      "lyric_translation": "It’s fully filled by you",
+      "range": [30.86, 33.68], "ans": [9]},
+    "",
+    {"lyric": "This feels so right",
+      "lyric_hangul": "This feels so right (so right)",
+      "lyric_translation": "This feels so right",
+      "range": [33.68, 35.92], "ans": [11]},
+    {"lyric": "Neoman isseumyeon da modeun ge joa",
+      "lyric_hangul": "너만 있으면, 다 모든 게 좋아",
+      "lyric_translation": "Everything is good when just you are here",
+      "range": [35.92, 41.12], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "넌 나에게 쉴 새 없이 꿀 떨어지는 damage야",
+      "lyric_translation": "You’re not going to stop me / You’re like continuous damage to me",
+      "parts": [
+        {"lyric": "Neon naege shwil sae eopshi",
+          "range": [41.12, 43.3], "ans": [12]},
+        {"lyric": "Kkul tteoreojineun damageya",
+          "range": [43.3, 44.85], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "철없이 아플 거야 난 (아야, 아야, 아야)",
+      "lyric_translation": "I’m gonna be hurt childishly / Ouch, ouch, ouch",
+      "parts": [
+        {"lyric": "Cheoreopshi apeul geoya nan",
+          "range": [44.85, 46.86], "ans": [7]},
+        {"lyric": "Aya aya aya",
+          "range": [46.16, 47.8], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "'Cause you, you're my everything, 우린 알맞아",
+      "lyric_translation": "Cause you, you’re my everything / We are a match (Ah yeh)",
+      "parts": [
+        {"lyric": "Cause you, you’re my everything",
+          "range": [47.73, 50.01], "ans": [5]},
+        {"lyric": "Urin almaja",
+          "range": [50.01, 50.92], "ans": [5]},
+        {"lyric": "(ah yeh)",
+          "range": [50.22, 51.64], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "'Cause you, you're my everyday, 너도 알잖아",
+      "lyric_translation": "Cause you, you’re my everyday / You also know it",
+      "parts": [
+        {"lyric": "Cause you, you’re my everyday",
+          "range": [51.64, 53.86], "ans": [2]},
+        {"lyric": "Neodo aljana",
+          "range": [53.86, 54.68], "ans": [2]}
+      ]
+    },
+    {"lyric": "Nan nega piryohae, neon naega piryohae",
+      "lyric_hangul": "난 네가 필요해, 넌 내가 필요해",
+      "lyric_translation": "I need you, [and] you need me",
+      "range": [54.68, 58.09], "ans": [8]},
+    {
+      "lyric_hangul": "'Cause you, you already know, everything is you, you",
+      "lyric_translation": "Cause you, you already know / Everything is you, you",
+      "parts": [
+        {"lyric": "Cause you, you already know",
+          "range": [58.09, 60.33], "ans": [3]},
+        {"lyric": "Everything is you you",
+          "range": [60.33, 62.85], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Good to me good to me ay ya ya",
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya",
+      "range": [62.85, 65.8], "ans": [7]},
+    {"lyric": "Good to me good to me ay ya ya",
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya",
+      "range": [65.8, 69.71], "ans": [10]},
+    {
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya / Ay ya ya good to me",
+      "parts": [
+        {"lyric": "Good to me good to me ay ya ya",
+          "range": [69.71, 71.12], "ans": [5]},
+        {"lyric": "Ay ya ya good to me",
+          "range": [70.42, 72.68], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Yeh nega nae mame signhaneun saie",
+      "lyric_hangul": "Yeah, 네가 내 맘에 sign하는 사이에",
+      "lyric_translation": "Yeah when you were making that sign in my heart",
+      "range": [75.88, 79.25], "ans": [9]},
+    {"lyric": "Naye banghwabyeogi muneojyeo beorin ji orae",
+      "lyric_hangul": "나의 방화벽이 무너져 버린 지 오래",
+      "lyric_translation": "It was a long time since my firewall broke down",
+      "range": [79.25, 82.66], "ans": [9]},
+    {"lyric": "Passwordneun pass neon daeche",
+      "lyric_hangul": "Password는 pass 넌 대체",
+      "lyric_translation": "Pass with the password",
+      "range": [82.66, 84.77], "ans": [13]},
+    {"lyric": "Nae daehae mwol jal algillae",
+      "lyric_hangul": "나에 대해 뭘 잘 알길래?",
+      "lyric_translation": "What in the world do you know about me?",
+      "range": [84.77, 86.45], "ans": [13]},
+    {"lyric": "Nae sogmaeum modu neoege boineunji",
+      "lyric_hangul": "내 속마음 모두 너에게 보이는지?",
+      "lyric_translation": "Are my deep feelings seen by you?",
+      "range": [86.45, 88.69], "ans": [8]},
+    "",
+    {"lyric": "Georeul ttae by my side",
+      "lyric_hangul": "걸을 때 by my side (side)",
+      "lyric_translation": "When walking by my side",
+      "range": [88.69, 89.77], "ans": [3]},
+    {"lyric": "Kkwak jabeun sondo nochigo shipjiga ana",
+      "lyric_hangul": "꽉 잡은 손도 놓치고 싶지가 않아",
+      "lyric_translation": "I don’t even want to let go of your hands",
+      "range": [89.77, 92.86], "ans": [3]},
+    {"lyric": "Seolleneun gibuneun da neoraseo maeu joa da",
+      "lyric_hangul": "설레는 기분은 다 너라서 매우 좋아 다",
+      "lyric_translation": "That flattering feeling is because of you, everything is so good",
+      "range": [92.86, 96.35], "ans": [3]},
+    {
+      "lyric_hangul": "내가 뭘 바라야 하니? 내 맘은 이미 충분히",
+      "lyric_translation": "What should I wish for honey / My heart is enough",
+      "parts": [
+        {"lyric": "Naega mwol baraya hani (honey)",
+          "range": [96.35, 98.06], "ans": [6]},
+        {"lyric": "Nae mameun imi chungbunhi",
+          "range": [98.06, 99.75], "ans": [6]}
+      ]
+    },
+    {"lyric": "Neoro neoro kkwak kkwak cha itne",
+      "lyric_hangul": "너로 너로 꽉 꽉 차 있네",
+      "lyric_translation": "It’s fully filled by you",
+      "range": [99.46, 102.22], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "This feels so right",
+      "lyric_hangul": "This feels so right (so right)",
+      "lyric_translation": "This feels so right",
+      "range": [102.22, 104.19], "ans": [8]},
+    {"lyric": "Neoman isseumyeon da modeun ge joa",
+      "lyric_hangul": "너만 있으면, 다 모든 게 좋아",
+      "lyric_translation": "Everything is good when just you are here",
+      "range": [104.19, 109.63], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "넌 나에게 쉴 새 없이 꿀 떨어지는 damage야",
+      "lyric_translation": "You’re not going to stop me / You’re like continuous damage to me",
+      "parts": [
+        {"lyric": "Neon naege shwil sae eopshi",
+          "range": [109.63, 111.97], "ans": [9]},
+        {"lyric": "Kkul tteoreojineun damageya",
+          "range": [111.97, 113.5], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "철없이 아플 거야 난 (아야, 아야, 아야)",
+      "lyric_translation": "I’m gonna be hurt childishly / Ouch, ouch, ouch",
+      "parts": [
+        {"lyric": "Cheoreopshi apeul geoya nan",
+          "range": [113.5, 115.41], "ans": [10]},
+        {"lyric": "Aya aya aya",
+          "range": [114.71, 116.38], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "'Cause you, you're my everything, 우린 알맞아",
+      "lyric_translation": "Cause you, you’re my everything / We are a match (Ah yeh)",
+      "parts": [
+        {"lyric": "Cause you, you’re my everything",
+          "range": [116.3, 118.57], "ans": [8]},
+        {"lyric": "Urin almaja",
+          "range": [118.57, 119.49], "ans": [8]},
+        {"lyric": "(ah yeh)",
+          "range": [118.79, 119.98], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "'Cause you, you're my everyday, 너도 알잖아",
+      "lyric_translation": "Cause you, you’re my everyday / You also know it",
+      "parts": [
+        {"lyric": "Cause you, you’re my everyday",
+          "range": [119.98, 122.42], "ans": [4]},
+        {"lyric": "Neodo aljana",
+          "range": [122.42, 123.23], "ans": [4]}
+      ]
+    },
+    {"lyric": "Nan nega piryohae, neon naega piryohae",
+      "lyric_hangul": "난 네가 필요해, 넌 내가 필요해",
+      "lyric_translation": "I need you, [and] you need me",
+      "range": [123.23, 126.82], "ans": [3]},
+    {
+      "lyric_hangul": "'Cause you, you already know, everything is you, you",
+      "lyric_translation": "Cause you, you already know / Everything is you, you",
+      "parts": [
+        {"lyric": "Cause you, you already know",
+          "range": [126.82, 128.89], "ans": [11]},
+        {"lyric": "Everything is you you",
+          "range": [128.89, 131.32], "ans": [11]}
+      ]
+    },
+    "",
+    {"lyric": "Good to me good to me ay ya ya",
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya",
+      "range": [131.32, 134.8], "ans": [3]},
+    {"lyric": "Good to me good to me ay ya ya",
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya",
+      "range": [134.8, 138.28], "ans": [5]},
+    {
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya / Ay ya ya good to me",
+      "parts": [
+        {"lyric": "Good to me good to me ay ya ya",
+          "range": [138.28, 139.68], "ans": [13]},
+        {"lyric": "Ay ya ya good to me",
+          "range": [138.98, 141.59], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Han beonjeum geureon jeok itjana",
+      "lyric_hangul": "한 번쯤 그런 적 있잖아",
+      "lyric_translation": "You did this once before",
+      "range": [142.72, 145.24], "ans": [2]},
+    {"lyric": "Nunman bwado da al suga itneun",
+      "lyric_hangul": "눈만 봐도 다 알 수가 있는",
+      "lyric_translation": "Only by looking at your eyes I can tell",
+      "range": [145.24, 149.67], "ans": [2]},
+    {"lyric": "Mwol eojjeona shipdagado",
+      "lyric_hangul": "뭘 어쩌나 싶다가도?",
+      "lyric_translation": "Whatever may happen",
+      "range": [149.67, 152.41], "ans": [11]},
+    {"lyric": "I gamjeongeul algo shipeungeol",
+      "lyric_hangul": "이 감정을 알고 싶은걸",
+      "lyric_translation": "I want to know this emotion",
+      "range": [152.41, 157.73], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "'Cause you, you're my everything, 우린 알맞아",
+      "lyric_translation": "Cause you, you’re my everything / We are a match (Ah yeh)",
+      "parts": [
+        {"lyric": "Cause you, you’re my everything",
+          "range": [157.73, 159.68], "ans": [7]},
+        {"lyric": "Urin almaja",
+          "range": [159.68, 160.58], "ans": [7]},
+        {"lyric": "(ah yeh)",
+          "range": [159.88, 160.99], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "'Cause you, you're my everyday, 너도 알잖아",
+      "lyric_translation": "Cause you, you’re my everyday / You also know it",
+      "parts": [
+        {"lyric": "Cause you, you’re my everyday",
+          "range": [160.92, 163.56], "ans": [3]},
+        {"lyric": "Neodo aljana",
+          "range": [163.56, 164.23], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nan nega piryohae, neon naega piryohae",
+      "lyric_hangul": "난 네가 필요해, 넌 내가 필요해",
+      "lyric_translation": "I need you, [and] you need me",
+      "range": [164.23, 167.97], "ans": [2]},
+    {
+      "lyric_hangul": "'Cause you, you already know, everything is you, you (everything is you)",
+      "lyric_translation": "Cause you, you already know / Everything is you, you",
+      "parts": [
+        {"lyric": "Cause you, you already know",
+          "range": [167.97, 170.55], "ans": [5, 11]},
+        {"lyric": "Everything is you you",
+          "range": [170.55, 173.25], "ans": [5, 11]}
+      ]
+    },
+    "",
+    {"lyric": "Good to me good to me ay ya ya",
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya",
+      "range": [172.53, 175.72], "ans": [1, 11]},
+    {"lyric": "Good to me good to me ay ya ya",
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya",
+      "range": [175.72, 179.52], "ans": [4]},
+    {
+      "lyric_hangul": "(워어어, 워어어) good to me, good to me, 아야야",
+      "lyric_translation": "Good to me good to me ay ya ya / Ay ya ya good to me",
+      "parts": [
+        {"lyric": "Good to me good to me ay ya ya",
+          "range": [179.52, 180.81], "ans": [12]},
+        {"lyric": "Ay ya ya good to me",
+          "range": [180.11, 182.97], "ans": [7]}
+      ]
+    }
+  ]
+}

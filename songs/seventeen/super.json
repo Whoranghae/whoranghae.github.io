@@ -8,7 +8,7 @@
   "album": "SEVENTEEN 10th Mini Album ‘FML’",
   "cover": "css/images/covers/super.jpg",
   "added": "2026-04",
-  "generated": "2026-04-23T03:10:41Z",
+  "generated": "2026-04-25T23:37:26Z",
   "hidden": false,
   "slots": [],
   "lines": [
@@ -196,7 +196,7 @@
       "lyric_translation": "DARUMDARIMDA / rise way up to the sky, power pole (hey)",
       "parts": [
         {"lyric": "DARUMDARIMDA",
-          "range": [98.56, 100.21], "ans": [3]},
+          "range": [98.56, 100.76], "ans": [3]},
         {"lyric": "Neureonara haneullo yeouibong",
           "range": [100.76, 102.97], "ans": [3]},
         {"lyric": "(Hey)",

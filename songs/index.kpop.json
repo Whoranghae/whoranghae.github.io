@@ -122,5 +122,1381 @@
   {
     "file": "seventeen/power-of-love-jp.json",
     "cover": "css/images/covers/power-of-love-jp.jpg"
+  },
+  {
+    "file": "seventeen/adore-u.json",
+    "cover": "css/images/covers/adore-u.jpg"
+  },
+  {
+    "file": "seventeen/fear.json",
+    "cover": "css/images/covers/fear.jpg"
+  },
+  {
+    "file": "seventeen/oh-my.json",
+    "cover": "css/images/covers/oh-my.jpg"
+  },
+  {
+    "file": "seventeen/cheers-to-youth.json",
+    "cover": "css/images/covers/cheers-to-youth.jpg"
+  },
+  {
+    "file": "seventeen/happy-ending.json",
+    "cover": "css/images/covers/happy-ending.jpg"
+  },
+  {
+    "file": "seventeen/home-run.json",
+    "cover": "css/images/covers/home-run.jpg"
+  },
+  {
+    "file": "seventeen/headliner.json",
+    "cover": "css/images/covers/headliner.jpg"
+  },
+  {
+    "file": "seventeen/april-shower.json",
+    "cover": "css/images/covers/april-shower.jpg"
+  },
+  {
+    "file": "seventeen/crush.json",
+    "cover": "css/images/covers/crush.jpg"
+  },
+  {
+    "file": "seventeen/snap-shoot.json",
+    "cover": "css/images/covers/snap-shoot.jpg"
+  },
+  {
+    "file": "seventeen/darling.json",
+    "cover": "css/images/covers/darling.jpg"
+  },
+  {
+    "file": "seventeen/anyone.json",
+    "cover": "css/images/covers/anyone.jpg"
+  },
+  {
+    "file": "seventeen/hit.json",
+    "cover": "css/images/covers/hit.jpg"
+  },
+  {
+    "file": "seventeen/fearless.json",
+    "cover": "css/images/covers/fearless.jpg"
+  },
+  {
+    "file": "seventeen/smile-flower.json",
+    "cover": "css/images/covers/smile-flower.jpg"
+  },
+  {
+    "file": "seventeen/pinwheel.json",
+    "cover": "css/images/covers/pinwheel.jpg"
+  },
+  {
+    "file": "seventeen/highlight.json",
+    "cover": "css/images/covers/highlight.jpg"
+  },
+  {
+    "file": "seventeen/healing.json",
+    "cover": "css/images/covers/healing.jpg"
+  },
+  {
+    "file": "seventeen/holiday.json",
+    "cover": "css/images/covers/holiday.jpg"
+  },
+  {
+    "file": "seventeen/hug.json",
+    "cover": "css/images/covers/hug.jpg"
+  },
+  {
+    "file": "seventeen/don-quixote.json",
+    "cover": "css/images/covers/don-quixote.jpg"
+  },
+  {
+    "file": "seventeen/20.json",
+    "cover": "css/images/covers/20.jpg"
+  },
+  {
+    "file": "seventeen/247.json",
+    "cover": "css/images/covers/247.jpg"
+  },
+  {
+    "file": "seventeen/ah-love.json",
+    "cover": "css/images/covers/ah-love.jpg"
+  },
+  {
+    "file": "seventeen/ah-yeah.json",
+    "cover": "css/images/covers/ah-yeah.jpg"
+  },
+  {
+    "file": "seventeen/ash.json",
+    "cover": "css/images/covers/ash.jpg"
+  },
+  {
+    "file": "seventeen/back-it-up.json",
+    "cover": "css/images/covers/back-it-up.jpg"
+  },
+  {
+    "file": "seventeen/bout-you.json",
+    "cover": "css/images/covers/bout-you.jpg"
+  },
+  {
+    "file": "seventeen/bring-it.json",
+    "cover": "css/images/covers/bring-it.jpg"
+  },
+  {
+    "file": "seventeen/campfire.json",
+    "cover": "css/images/covers/campfire.jpg"
+  },
+  {
+    "file": "seventeen/change-up.json",
+    "cover": "css/images/covers/change-up.jpg"
+  },
+  {
+    "file": "seventeen/cheers.json",
+    "cover": "css/images/covers/cheers.jpg"
+  },
+  {
+    "file": "seventeen/chuck.json",
+    "cover": "css/images/covers/chuck.jpg"
+  },
+  {
+    "file": "seventeen/circles.json",
+    "cover": "css/images/covers/circles.jpg"
+  },
+  {
+    "file": "seventeen/do-re-mi.json",
+    "cover": "css/images/covers/do-re-mi.jpg"
+  },
+  {
+    "file": "seventeen/domino.json",
+    "cover": "css/images/covers/domino.jpg"
+  },
+  {
+    "file": "seventeen/dont-listen-in-secret.json",
+    "cover": "css/images/covers/dont-listen-in-secret.jpg"
+  },
+  {
+    "file": "seventeen/drift-away.json",
+    "cover": "css/images/covers/drift-away.jpg"
+  },
+  {
+    "file": "seventeen/falling-for-u.json",
+    "cover": "css/images/covers/falling-for-u.jpg"
+  },
+  {
+    "file": "seventeen/fast-pace.json",
+    "cover": "css/images/covers/fast-pace.jpg"
+  },
+  {
+    "file": "seventeen/fck-my-life.json",
+    "cover": "css/images/covers/fck-my-life.jpg"
+  },
+  {
+    "file": "seventeen/flower.json",
+    "cover": "css/images/covers/flower.jpg"
+  },
+  {
+    "file": "seventeen/fronting.json",
+    "cover": "css/images/covers/fronting.jpg"
+  },
+  {
+    "file": "seventeen/good-to-me.json",
+    "cover": "css/images/covers/good-to-me.jpg"
+  },
+  {
+    "file": "seventeen/habit.json",
+    "cover": "css/images/covers/habit.jpg"
+  },
+  {
+    "file": "seventeen/hbd.json",
+    "cover": "css/images/covers/hbd.jpg"
+  },
+  {
+    "file": "seventeen/hello.json",
+    "cover": "css/images/covers/hello.jpg"
+  },
+  {
+    "file": "seventeen/hey-buddy.json",
+    "cover": "css/images/covers/hey-buddy.jpg"
+  },
+  {
+    "file": "seventeen/homerun.json",
+    "cover": "css/images/covers/homerun.jpg"
+  },
+  {
+    "file": "seventeen/i-dont-know.json",
+    "cover": "css/images/covers/i-dont-know.jpg"
+  },
+  {
+    "file": "seventeen/if-i.json",
+    "cover": "css/images/covers/if-i.jpg"
+  },
+  {
+    "file": "seventeen/if-you-leave-me.json",
+    "cover": "css/images/covers/if-you-leave-me.jpg"
+  },
+  {
+    "file": "seventeen/jam-jam.json",
+    "cover": "css/images/covers/jam-jam.jpg"
+  },
+  {
+    "file": "seventeen/lean-on-me.json",
+    "cover": "css/images/covers/lean-on-me.jpg"
+  },
+  {
+    "file": "seventeen/left-right.json",
+    "cover": "css/images/covers/left-right.jpg"
+  },
+  {
+    "file": "seventeen/let-me-hear-you-say.json",
+    "cover": "css/images/covers/let-me-hear-you-say.jpg"
+  },
+  {
+    "file": "seventeen/lie-again.json",
+    "cover": "css/images/covers/lie-again.jpg"
+  },
+  {
+    "file": "seventeen/light-a-flame.json",
+    "cover": "css/images/covers/light-a-flame.jpg"
+  },
+  {
+    "file": "seventeen/lilili-yabbay.json",
+    "cover": "css/images/covers/lilili-yabbay.jpg"
+  },
+  {
+    "file": "seventeen/love-letter.json",
+    "cover": "css/images/covers/love-letter.jpg"
+  },
+  {
+    "file": "seventeen/lucky.json",
+    "cover": "css/images/covers/lucky.jpg"
+  },
+  {
+    "file": "seventeen/march.json",
+    "cover": "css/images/covers/march.jpg"
+  },
+  {
+    "file": "seventeen/my-i.json",
+    "cover": "css/images/covers/my-i.jpg"
+  },
+  {
+    "file": "seventeen/network-love.json",
+    "cover": "css/images/covers/network-love.jpg"
+  },
+  {
+    "file": "seventeen/nice.json",
+    "cover": "css/images/covers/nice.jpg"
+  },
+  {
+    "file": "seventeen/no-fun.json",
+    "cover": "css/images/covers/no-fun.jpg"
+  },
+  {
+    "file": "seventeen/omg.json",
+    "cover": "css/images/covers/omg.jpg"
+  },
+  {
+    "file": "seventeen/popular-song.json",
+    "cover": "css/images/covers/popular-song.jpg"
+  },
+  {
+    "file": "seventeen/rocket.json",
+    "cover": "css/images/covers/rocket.jpg"
+  },
+  {
+    "file": "seventeen/run-to-you.json",
+    "cover": "css/images/covers/run-to-you.jpg"
+  },
+  {
+    "file": "seventeen/say-yes.json",
+    "cover": "css/images/covers/say-yes.jpg"
+  },
+  {
+    "file": "seventeen/second-life.json",
+    "cover": "css/images/covers/second-life.jpg"
+  },
+  {
+    "file": "seventeen/shining-diamond.json",
+    "cover": "css/images/covers/shining-diamond.jpg"
+  },
+  {
+    "file": "seventeen/all-my-love.json",
+    "cover": "css/images/covers/all-my-love.jpg"
+  },
+  {
+    "file": "seventeen/simple.json",
+    "cover": "css/images/covers/simple.jpg"
+  },
+  {
+    "file": "seventeen/space.json",
+    "cover": "css/images/covers/space.jpg"
+  },
+  {
+    "file": "seventeen/still-lonely.json",
+    "cover": "css/images/covers/still-lonely.jpg"
+  },
+  {
+    "file": "seventeen/swimming-fool.json",
+    "cover": "css/images/covers/swimming-fool.jpg"
+  },
+  {
+    "file": "seventeen/thinkin-about-you.json",
+    "cover": "css/images/covers/thinkin-about-you.jpg"
+  },
+  {
+    "file": "seventeen/trauma.json",
+    "cover": "css/images/covers/trauma.jpg"
+  },
+  {
+    "file": "seventeen/when-i-grow-up.json",
+    "cover": "css/images/covers/when-i-grow-up.jpg"
+  },
+  {
+    "file": "seventeen/without-you.json",
+    "cover": "css/images/covers/without-you.jpg"
+  },
+  {
+    "file": "twice/1-to-10.json",
+    "cover": "css/images/covers/1-to-10.jpg"
+  },
+  {
+    "file": "twice/2129.json",
+    "cover": "css/images/covers/2129.jpg"
+  },
+  {
+    "file": "twice/after-moon.json",
+    "cover": "css/images/covers/after-moon.jpg"
+  },
+  {
+    "file": "twice/alcohol-free.json",
+    "cover": "css/images/covers/alcohol-free.jpg"
+  },
+  {
+    "file": "twice/baby-blue-love.json",
+    "cover": "css/images/covers/baby-blue-love.jpg"
+  },
+  {
+    "file": "twice/basics.json",
+    "cover": "css/images/covers/basics.jpg"
+  },
+  {
+    "file": "twice/battitude.json",
+    "cover": "css/images/covers/battitude.jpg"
+  },
+  {
+    "file": "twice/bdz.json",
+    "cover": "css/images/covers/bdz.jpg"
+  },
+  {
+    "file": "twice/be-as-one.json",
+    "cover": "css/images/covers/be-as-one.jpg"
+  },
+  {
+    "file": "twice/behind-the-mask.json",
+    "cover": "css/images/covers/behind-the-mask.jpg"
+  },
+  {
+    "file": "twice/believer.json",
+    "cover": "css/images/covers/believer.jpg"
+  },
+  {
+    "file": "twice/blame-it-on-me.json",
+    "cover": "css/images/covers/blame-it-on-me.jpg"
+  },
+  {
+    "file": "twice/bloom.json",
+    "cover": "css/images/covers/bloom.jpg"
+  },
+  {
+    "file": "twice/brave.json",
+    "cover": "css/images/covers/brave.jpg"
+  },
+  {
+    "file": "twice/breakthrough.json",
+    "cover": "css/images/covers/breakthrough.jpg"
+  },
+  {
+    "file": "twice/bring-it-back.json",
+    "cover": "css/images/covers/bring-it-back.jpg"
+  },
+  {
+    "file": "twice/cactus.json",
+    "cover": "css/images/covers/cactus.jpg"
+  },
+  {
+    "file": "twice/candy-boy.json",
+    "cover": "css/images/covers/candy-boy.jpg"
+  },
+  {
+    "file": "twice/chillax.json",
+    "cover": "css/images/covers/chillax.jpg"
+  },
+  {
+    "file": "twice/crazy-stupid-love.json",
+    "cover": "css/images/covers/crazy-stupid-love.jpg"
+  },
+  {
+    "file": "twice/cruel.json",
+    "cover": "css/images/covers/cruel.jpg"
+  },
+  {
+    "file": "twice/dat-ahh-dat-ooh.json",
+    "cover": "css/images/covers/dat-ahh-dat-ooh.jpg"
+  },
+  {
+    "file": "twice/dejavu.json",
+    "cover": "css/images/covers/dejavu.jpg"
+  },
+  {
+    "file": "twice/depend-on-you.json",
+    "cover": "css/images/covers/depend-on-you.jpg"
+  },
+  {
+    "file": "twice/ding-dong.json",
+    "cover": "css/images/covers/ding-dong.jpg"
+  },
+  {
+    "file": "twice/do-it-again.json",
+    "cover": "css/images/covers/do-it-again.jpg"
+  },
+  {
+    "file": "twice/do-what-we-like.json",
+    "cover": "css/images/covers/do-what-we-like.jpg"
+  },
+  {
+    "file": "twice/dont-call-me-again.json",
+    "cover": "css/images/covers/dont-call-me-again.jpg"
+  },
+  {
+    "file": "twice/dont-give-up.json",
+    "cover": "css/images/covers/dont-give-up.jpg"
+  },
+  {
+    "file": "twice/espresso.json",
+    "cover": "css/images/covers/espresso.jpg"
+  },
+  {
+    "file": "twice/eye-eye-eyes.json",
+    "cover": "css/images/covers/eye-eye-eyes.jpg"
+  },
+  {
+    "file": "twice/fancy.json",
+    "cover": "css/images/covers/fancy.jpg"
+  },
+  {
+    "file": "twice/ffw.json",
+    "cover": "css/images/covers/ffw.jpg"
+  },
+  {
+    "file": "twice/fila.json",
+    "cover": "css/images/covers/fila.jpg"
+  },
+  {
+    "file": "twice/firework.json",
+    "cover": "css/images/covers/firework.jpg"
+  },
+  {
+    "file": "twice/first-time.json",
+    "cover": "css/images/covers/first-time.jpg"
+  },
+  {
+    "file": "twice/get-loud.json",
+    "cover": "css/images/covers/get-loud.jpg"
+  },
+  {
+    "file": "twice/girls-like-us.json",
+    "cover": "css/images/covers/girls-like-us.jpg"
+  },
+  {
+    "file": "twice/go-hard.json",
+    "cover": "css/images/covers/go-hard.jpg"
+  },
+  {
+    "file": "twice/goat.json",
+    "cover": "css/images/covers/goat.jpg"
+  },
+  {
+    "file": "twice/going-crazy.json",
+    "cover": "css/images/covers/going-crazy.jpg"
+  },
+  {
+    "file": "twice/gone.json",
+    "cover": "css/images/covers/gone.jpg"
+  },
+  {
+    "file": "twice/got-the-thrills.json",
+    "cover": "css/images/covers/got-the-thrills.jpg"
+  },
+  {
+    "file": "twice/handle-it.json",
+    "cover": "css/images/covers/handle-it.jpg"
+  },
+  {
+    "file": "twice/headphone.json",
+    "cover": "css/images/covers/headphone.jpg"
+  },
+  {
+    "file": "twice/heartbreak-avenue.json",
+    "cover": "css/images/covers/heartbreak-avenue.jpg"
+  },
+  {
+    "file": "twice/hell-in-heaven.json",
+    "cover": "css/images/covers/hell-in-heaven.jpg"
+  },
+  {
+    "file": "twice/hi-hello.json",
+    "cover": "css/images/covers/hi-hello.jpg"
+  },
+  {
+    "file": "twice/ho.json",
+    "cover": "css/images/covers/ho.jpg"
+  },
+  {
+    "file": "twice/hold-me-tight.json",
+    "cover": "css/images/covers/hold-me-tight.jpg"
+  },
+  {
+    "file": "twice/ice-cream.json",
+    "cover": "css/images/covers/ice-cream.jpg"
+  },
+  {
+    "file": "twice/icon.json",
+    "cover": "css/images/covers/icon.jpg"
+  },
+  {
+    "file": "twice/jelly-jelly.json",
+    "cover": "css/images/covers/jelly-jelly.jpg"
+  },
+  {
+    "file": "twice/kiss-my-troubles-away.json",
+    "cover": "css/images/covers/kiss-my-troubles-away.jpg"
+  },
+  {
+    "file": "twice/lalala.json",
+    "cover": "css/images/covers/lalala.jpg"
+  },
+  {
+    "file": "twice/last-waltz.json",
+    "cover": "css/images/covers/last-waltz.jpg"
+  },
+  {
+    "file": "twice/let-love-go.json",
+    "cover": "css/images/covers/let-love-go.jpg"
+  },
+  {
+    "file": "twice/like-a-fool.json",
+    "cover": "css/images/covers/like-a-fool.jpg"
+  },
+  {
+    "file": "twice/like-it-like-it.json",
+    "cover": "css/images/covers/like-it-like-it.jpg"
+  },
+  {
+    "file": "twice/look-at-me.json",
+    "cover": "css/images/covers/look-at-me.jpg"
+  },
+  {
+    "file": "twice/love-foolish.json",
+    "cover": "css/images/covers/love-foolish.jpg"
+  },
+  {
+    "file": "twice/love-line.json",
+    "cover": "css/images/covers/love-line.jpg"
+  },
+  {
+    "file": "twice/magical.json",
+    "cover": "css/images/covers/magical.jpg"
+  },
+  {
+    "file": "twice/make-me-go.json",
+    "cover": "css/images/covers/make-me-go.jpg"
+  },
+  {
+    "file": "twice/mars.json",
+    "cover": "css/images/covers/mars.jpg"
+  },
+  {
+    "file": "twice/missing-u.json",
+    "cover": "css/images/covers/missing-u.jpg"
+  },
+  {
+    "file": "twice/new-new.json",
+    "cover": "css/images/covers/new-new.jpg"
+  },
+  {
+    "file": "twice/next-page.json",
+    "cover": "css/images/covers/next-page.jpg"
+  },
+  {
+    "file": "twice/one-in-a-million.json",
+    "cover": "css/images/covers/one-in-a-million.jpg"
+  },
+  {
+    "file": "twice/one-three-two.json",
+    "cover": "css/images/covers/one-three-two.jpg"
+  },
+  {
+    "file": "twice/only.json",
+    "cover": "css/images/covers/only.jpg"
+  },
+  {
+    "file": "twice/options.json",
+    "cover": "css/images/covers/options.jpg"
+  },
+  {
+    "file": "twice/oxygen.json",
+    "cover": "css/images/covers/oxygen.jpg"
+  },
+  {
+    "file": "twice/peach-gelato.json",
+    "cover": "css/images/covers/peach-gelato.jpg"
+  },
+  {
+    "file": "twice/pit-a-pat.json",
+    "cover": "css/images/covers/pit-a-pat.jpg"
+  },
+  {
+    "file": "twice/ponytail.json",
+    "cover": "css/images/covers/ponytail.jpg"
+  },
+  {
+    "file": "twice/precious-love.json",
+    "cover": "css/images/covers/precious-love.jpg"
+  },
+  {
+    "file": "twice/push-pull.json",
+    "cover": "css/images/covers/push-pull.jpg"
+  },
+  {
+    "file": "twice/queen.json",
+    "cover": "css/images/covers/queen.jpg"
+  },
+  {
+    "file": "twice/rainbow.json",
+    "cover": "css/images/covers/rainbow.jpg"
+  },
+  {
+    "file": "twice/real-you.json",
+    "cover": "css/images/covers/real-you.jpg"
+  },
+  {
+    "file": "twice/rewind.json",
+    "cover": "css/images/covers/rewind.jpg"
+  },
+  {
+    "file": "twice/right-hand-girl.json",
+    "cover": "css/images/covers/right-hand-girl.jpg"
+  },
+  {
+    "file": "twice/rollin.json",
+    "cover": "css/images/covers/rollin.jpg"
+  },
+  {
+    "file": "twice/rush.json",
+    "cover": "css/images/covers/rush.jpg"
+  },
+  {
+    "file": "twice/say-something.json",
+    "cover": "css/images/covers/say-something.jpg"
+  },
+  {
+    "file": "twice/say-you-love-me.json",
+    "cover": "css/images/covers/say-you-love-me.jpg"
+  },
+  {
+    "file": "twice/scandal.json",
+    "cover": "css/images/covers/scandal.jpg"
+  },
+  {
+    "file": "twice/seesaw.json",
+    "cover": "css/images/covers/seesaw.jpg"
+  },
+  {
+    "file": "twice/shadow.json",
+    "cover": "css/images/covers/shadow.jpg"
+  },
+  {
+    "file": "twice/shot-clock.json",
+    "cover": "css/images/covers/shot-clock.jpg"
+  },
+  {
+    "file": "twice/shot-thru-the-heart.json",
+    "cover": "css/images/covers/shot-thru-the-heart.jpg"
+  },
+  {
+    "file": "twice/someone-like-me.json",
+    "cover": "css/images/covers/someone-like-me.jpg"
+  },
+  {
+    "file": "twice/sos.json",
+    "cover": "css/images/covers/sos.jpg"
+  },
+  {
+    "file": "twice/strawberry.json",
+    "cover": "css/images/covers/strawberry.jpg"
+  },
+  {
+    "file": "twice/stuck-in-my-head.json",
+    "cover": "css/images/covers/stuck-in-my-head.jpg"
+  },
+  {
+    "file": "twice/stuck.json",
+    "cover": "css/images/covers/stuck.jpg"
+  },
+  {
+    "file": "twice/sunset.json",
+    "cover": "css/images/covers/sunset.jpg"
+  },
+  {
+    "file": "twice/sweet-summer-day.json",
+    "cover": "css/images/covers/sweet-summer-day.jpg"
+  },
+  {
+    "file": "twice/sweet-talker.json",
+    "cover": "css/images/covers/sweet-talker.jpg"
+  },
+  {
+    "file": "twice/sweetest-obsession.json",
+    "cover": "css/images/covers/sweetest-obsession.jpg"
+  },
+  {
+    "file": "twice/takedown.json",
+    "cover": "css/images/covers/takedown.jpg"
+  },
+  {
+    "file": "twice/talk-that-talk.json",
+    "cover": "css/images/covers/talk-that-talk.jpg"
+  },
+  {
+    "file": "twice/talk.json",
+    "cover": "css/images/covers/talk.jpg"
+  },
+  {
+    "file": "twice/the-best-thing-i-ever-did.json",
+    "cover": "css/images/covers/the-best-thing-i-ever-did.jpg"
+  },
+  {
+    "file": "twice/this-is-for.json",
+    "cover": "css/images/covers/this-is-for.jpg"
+  },
+  {
+    "file": "twice/three-times-a-day.json",
+    "cover": "css/images/covers/three-times-a-day.jpg"
+  },
+  {
+    "file": "twice/touchdown.json",
+    "cover": "css/images/covers/touchdown.jpg"
+  },
+  {
+    "file": "twice/trick-it.json",
+    "cover": "css/images/covers/trick-it.jpg"
+  },
+  {
+    "file": "twice/trouble.json",
+    "cover": "css/images/covers/trouble.jpg"
+  },
+  {
+    "file": "twice/truth.json",
+    "cover": "css/images/covers/truth.jpg"
+  },
+  {
+    "file": "twice/tuk-tok.json",
+    "cover": "css/images/covers/tuk-tok.jpg"
+  },
+  {
+    "file": "twice/turn-it-up.json",
+    "cover": "css/images/covers/turn-it-up.jpg"
+  },
+  {
+    "file": "twice/turtle.json",
+    "cover": "css/images/covers/turtle.jpg"
+  },
+  {
+    "file": "twice/twenty-four-seven.json",
+    "cover": "css/images/covers/twenty-four-seven.jpg"
+  },
+  {
+    "file": "twice/up-no-more.json",
+    "cover": "css/images/covers/up-no-more.jpg"
+  },
+  {
+    "file": "twice/wallflower.json",
+    "cover": "css/images/covers/wallflower.jpg"
+  },
+  {
+    "file": "twice/when-we-were-kids.json",
+    "cover": "css/images/covers/when-we-were-kids.jpg"
+  },
+  {
+    "file": "twice/woohoo.json",
+    "cover": "css/images/covers/woohoo.jpg"
+  },
+  {
+    "file": "twice/wow.json",
+    "cover": "css/images/covers/wow.jpg"
+  },
+  {
+    "file": "twice/you-get-me.json",
+    "cover": "css/images/covers/you-get-me.jpg"
+  },
+  {
+    "file": "twice/you-in-my-heart.json",
+    "cover": "css/images/covers/you-in-my-heart.jpg"
+  },
+  {
+    "file": "twice/young-wild.json",
+    "cover": "css/images/covers/young-wild.jpg"
+  },
+  {
+    "file": "twice/candy.json",
+    "cover": "css/images/covers/candy.jpg"
+  },
+  {
+    "file": "twice/cheer-up.json",
+    "cover": "css/images/covers/cheer-up.jpg"
+  },
+  {
+    "file": "twice/conversation.json",
+    "cover": "css/images/covers/conversation.jpg"
+  },
+  {
+    "file": "twice/dance-the-night-away.json",
+    "cover": "css/images/covers/dance-the-night-away.jpg"
+  },
+  {
+    "file": "twice/feel-special.json",
+    "cover": "css/images/covers/feel-special.jpg"
+  },
+  {
+    "file": "twice/four.json",
+    "cover": "css/images/covers/four.jpg"
+  },
+  {
+    "file": "twice/heart-shaker.json",
+    "cover": "css/images/covers/heart-shaker.jpg"
+  },
+  {
+    "file": "twice/i-cant-stop-me.json",
+    "cover": "css/images/covers/i-cant-stop-me.jpg"
+  },
+  {
+    "file": "twice/i-got-you.json",
+    "cover": "css/images/covers/i-got-you.jpg"
+  },
+  {
+    "file": "twice/knock-knock.json",
+    "cover": "css/images/covers/knock-knock.jpg"
+  },
+  {
+    "file": "twice/likey.json",
+    "cover": "css/images/covers/likey.jpg"
+  },
+  {
+    "file": "twice/me-you.json",
+    "cover": "css/images/covers/me-you.jpg"
+  },
+  {
+    "file": "twice/merry-happy.json",
+    "cover": "css/images/covers/merry-happy.jpg"
+  },
+  {
+    "file": "twice/moonlight-sunrise.json",
+    "cover": "css/images/covers/moonlight-sunrise.jpg"
+  },
+  {
+    "file": "twice/moonlight.json",
+    "cover": "css/images/covers/moonlight.jpg"
+  },
+  {
+    "file": "twice/more-more.json",
+    "cover": "css/images/covers/more-more.jpg"
+  },
+  {
+    "file": "twice/one-spark.json",
+    "cover": "css/images/covers/one-spark.jpg"
+  },
+  {
+    "file": "twice/ooh-ahh.json",
+    "cover": "css/images/covers/ooh-ahh.jpg"
+  },
+  {
+    "file": "twice/queen-of-hearts.json",
+    "cover": "css/images/covers/queen-of-hearts.jpg"
+  },
+  {
+    "file": "twice/scientist.json",
+    "cover": "css/images/covers/scientist.jpg"
+  },
+  {
+    "file": "twice/set-me-free.json",
+    "cover": "css/images/covers/set-me-free.jpg"
+  },
+  {
+    "file": "twice/signal.json",
+    "cover": "css/images/covers/signal.jpg"
+  },
+  {
+    "file": "twice/strategy.json",
+    "cover": "css/images/covers/strategy.jpg"
+  },
+  {
+    "file": "twice/the-feels.json",
+    "cover": "css/images/covers/the-feels.jpg"
+  },
+  {
+    "file": "twice/tt.json",
+    "cover": "css/images/covers/tt.jpg"
+  },
+  {
+    "file": "twice/what-is-love.json",
+    "cover": "css/images/covers/what-is-love.jpg"
+  },
+  {
+    "file": "twice/yes-or-yes.json",
+    "cover": "css/images/covers/yes-or-yes.jpg"
+  },
+  {
+    "file": "stray-kids/0801.json",
+    "cover": "css/images/covers/0801.jpg"
+  },
+  {
+    "file": "stray-kids/airplane.json",
+    "cover": "css/images/covers/airplane.jpg"
+  },
+  {
+    "file": "stray-kids/another-day.json",
+    "cover": "css/images/covers/another-day.jpg"
+  },
+  {
+    "file": "stray-kids/bleep.json",
+    "cover": "css/images/covers/bleep.jpg"
+  },
+  {
+    "file": "stray-kids/blueprint.json",
+    "cover": "css/images/covers/blueprint.jpg"
+  },
+  {
+    "file": "stray-kids/ceremony.json",
+    "cover": "css/images/covers/ceremony.jpg"
+  },
+  {
+    "file": "stray-kids/cheese.json",
+    "cover": "css/images/covers/cheese.jpg"
+  },
+  {
+    "file": "stray-kids/collision.json",
+    "cover": "css/images/covers/collision.jpg"
+  },
+  {
+    "file": "stray-kids/creed.json",
+    "cover": "css/images/covers/creed.jpg"
+  },
+  {
+    "file": "stray-kids/dlc.json",
+    "cover": "css/images/covers/dlc.jpg"
+  },
+  {
+    "file": "stray-kids/domino.json",
+    "cover": "css/images/covers/domino.jpg"
+  },
+  {
+    "file": "stray-kids/easy.json",
+    "cover": "css/images/covers/easy.jpg"
+  },
+  {
+    "file": "stray-kids/fnf.json",
+    "cover": "css/images/covers/fnf.jpg"
+  },
+  {
+    "file": "stray-kids/get-lit.json",
+    "cover": "css/images/covers/get-lit.jpg"
+  },
+  {
+    "file": "stray-kids/ghost.json",
+    "cover": "css/images/covers/ghost.jpg"
+  },
+  {
+    "file": "stray-kids/go.json",
+    "cover": "css/images/covers/go.jpg"
+  },
+  {
+    "file": "stray-kids/gods-menu.json",
+    "cover": "css/images/covers/gods-menu.jpg"
+  },
+  {
+    "file": "stray-kids/gone-away.json",
+    "cover": "css/images/covers/gone-away.jpg"
+  },
+  {
+    "file": "stray-kids/gone-days.json",
+    "cover": "css/images/covers/gone-days.jpg"
+  },
+  {
+    "file": "stray-kids/half-time.json",
+    "cover": "css/images/covers/half-time.jpg"
+  },
+  {
+    "file": "stray-kids/hall-of-fame.json",
+    "cover": "css/images/covers/hall-of-fame.jpg"
+  },
+  {
+    "file": "stray-kids/haven.json",
+    "cover": "css/images/covers/haven.jpg"
+  },
+  {
+    "file": "stray-kids/in-my-head.json",
+    "cover": "css/images/covers/in-my-head.jpg"
+  },
+  {
+    "file": "stray-kids/item.json",
+    "cover": "css/images/covers/item.jpg"
+  },
+  {
+    "file": "stray-kids/mess.json",
+    "cover": "css/images/covers/mess.jpg"
+  },
+  {
+    "file": "stray-kids/mixtape-oh.json",
+    "cover": "css/images/covers/mixtape-oh.jpg"
+  },
+  {
+    "file": "stray-kids/mixtape-time-out.json",
+    "cover": "css/images/covers/mixtape-time-out.jpg"
+  },
+  {
+    "file": "stray-kids/on-track.json",
+    "cover": "css/images/covers/on-track.jpg"
+  },
+  {
+    "file": "stray-kids/pacemaker.json",
+    "cover": "css/images/covers/pacemaker.jpg"
+  },
+  {
+    "file": "stray-kids/phobia.json",
+    "cover": "css/images/covers/phobia.jpg"
+  },
+  {
+    "file": "stray-kids/phoenix.json",
+    "cover": "css/images/covers/phoenix.jpg"
+  },
+  {
+    "file": "stray-kids/red-lights.json",
+    "cover": "css/images/covers/red-lights.jpg"
+  },
+  {
+    "file": "stray-kids/s-class.json",
+    "cover": "css/images/covers/s-class.jpg"
+  },
+  {
+    "file": "stray-kids/secret-secret.json",
+    "cover": "css/images/covers/secret-secret.jpg"
+  },
+  {
+    "file": "stray-kids/silent-cry.json",
+    "cover": "css/images/covers/silent-cry.jpg"
+  },
+  {
+    "file": "stray-kids/sorry-i-love-you.json",
+    "cover": "css/images/covers/sorry-i-love-you.jpg"
+  },
+  {
+    "file": "stray-kids/ssick.json",
+    "cover": "css/images/covers/ssick.jpg"
+  },
+  {
+    "file": "stray-kids/star-lost.json",
+    "cover": "css/images/covers/star-lost.jpg"
+  },
+  {
+    "file": "stray-kids/surfin.json",
+    "cover": "css/images/covers/surfin.jpg"
+  },
+  {
+    "file": "stray-kids/ta.json",
+    "cover": "css/images/covers/ta.jpg"
+  },
+  {
+    "file": "stray-kids/the-sound.json",
+    "cover": "css/images/covers/the-sound.jpg"
+  },
+  {
+    "file": "stray-kids/the-view.json",
+    "cover": "css/images/covers/the-view.jpg"
+  },
+  {
+    "file": "stray-kids/thunderous.json",
+    "cover": "css/images/covers/thunderous.jpg"
+  },
+  {
+    "file": "stray-kids/wolfgang.json",
+    "cover": "css/images/covers/wolfgang.jpg"
+  },
+  {
+    "file": "stray-kids/slump-jp.json",
+    "cover": "css/images/covers/slump-jp.jpg"
+  },
+  {
+    "file": "stray-kids/top-jp.json",
+    "cover": "css/images/covers/top-jp.jpg"
+  },
+  {
+    "file": "stray-kids/topline.json",
+    "cover": "css/images/covers/topline.jpg"
+  },
+  {
+    "file": "stray-kids/0325.json",
+    "cover": "css/images/covers/0325.jpg"
+  },
+  {
+    "file": "stray-kids/19.json",
+    "cover": "css/images/covers/19.jpg"
+  },
+  {
+    "file": "stray-kids/3rd-eye.json",
+    "cover": "css/images/covers/3rd-eye.jpg"
+  },
+  {
+    "file": "stray-kids/alien.json",
+    "cover": "css/images/covers/alien.jpg"
+  },
+  {
+    "file": "stray-kids/awaken.json",
+    "cover": "css/images/covers/awaken.jpg"
+  },
+  {
+    "file": "stray-kids/awkward-silence.json",
+    "cover": "css/images/covers/awkward-silence.jpg"
+  },
+  {
+    "file": "stray-kids/because.json",
+    "cover": "css/images/covers/because.jpg"
+  },
+  {
+    "file": "stray-kids/behind-the-light.json",
+    "cover": "css/images/covers/behind-the-light.jpg"
+  },
+  {
+    "file": "stray-kids/boxer.json",
+    "cover": "css/images/covers/boxer.jpg"
+  },
+  {
+    "file": "stray-kids/broken-compass.json",
+    "cover": "css/images/covers/broken-compass.jpg"
+  },
+  {
+    "file": "stray-kids/chronosaurus.json",
+    "cover": "css/images/covers/chronosaurus.jpg"
+  },
+  {
+    "file": "stray-kids/close.json",
+    "cover": "css/images/covers/close.jpg"
+  },
+  {
+    "file": "stray-kids/deep-end.json",
+    "cover": "css/images/covers/deep-end.jpg"
+  },
+  {
+    "file": "stray-kids/district-9.json",
+    "cover": "css/images/covers/district-9.jpg"
+  },
+  {
+    "file": "stray-kids/doodle.json",
+    "cover": "css/images/covers/doodle.jpg"
+  },
+  {
+    "file": "stray-kids/drive.json",
+    "cover": "css/images/covers/drive.jpg"
+  },
+  {
+    "file": "stray-kids/fam.json",
+    "cover": "css/images/covers/fam.jpg"
+  },
+  {
+    "file": "stray-kids/for-you.json",
+    "cover": "css/images/covers/for-you.jpg"
+  },
+  {
+    "file": "stray-kids/get-cool.json",
+    "cover": "css/images/covers/get-cool.jpg"
+  },
+  {
+    "file": "stray-kids/grow-up.json",
+    "cover": "css/images/covers/grow-up.jpg"
+  },
+  {
+    "file": "stray-kids/grrr.json",
+    "cover": "css/images/covers/grrr.jpg"
+  },
+  {
+    "file": "stray-kids/happy.json",
+    "cover": "css/images/covers/happy.jpg"
+  },
+  {
+    "file": "stray-kids/hellevator.json",
+    "cover": "css/images/covers/hellevator.jpg"
+  },
+  {
+    "file": "stray-kids/hoodie-season.json",
+    "cover": "css/images/covers/hoodie-season.jpg"
+  },
+  {
+    "file": "stray-kids/hug-me.json",
+    "cover": "css/images/covers/hug-me.jpg"
+  },
+  {
+    "file": "stray-kids/i-am-you.json",
+    "cover": "css/images/covers/i-am-you.jpg"
+  },
+  {
+    "file": "stray-kids/i-got-it.json",
+    "cover": "css/images/covers/i-got-it.jpg"
+  },
+  {
+    "file": "stray-kids/i-hate-to-admit.json",
+    "cover": "css/images/covers/i-hate-to-admit.jpg"
+  },
+  {
+    "file": "stray-kids/icecream.json",
+    "cover": "css/images/covers/icecream.jpg"
+  },
+  {
+    "file": "stray-kids/insomnia.json",
+    "cover": "css/images/covers/insomnia.jpg"
+  },
+  {
+    "file": "stray-kids/limbo.json",
+    "cover": "css/images/covers/limbo.jpg"
+  },
+  {
+    "file": "stray-kids/love-untold.json",
+    "cover": "css/images/covers/love-untold.jpg"
+  },
+  {
+    "file": "stray-kids/lovestay.json",
+    "cover": "css/images/covers/lovestay.jpg"
+  },
+  {
+    "file": "stray-kids/maknae-on-top.json",
+    "cover": "css/images/covers/maknae-on-top.jpg"
+  },
+  {
+    "file": "stray-kids/maze-of-memories.json",
+    "cover": "css/images/covers/maze-of-memories.jpg"
+  },
+  {
+    "file": "stray-kids/mia.json",
+    "cover": "css/images/covers/mia.jpg"
+  },
+  {
+    "file": "stray-kids/miroh.json",
+    "cover": "css/images/covers/miroh.jpg"
+  },
+  {
+    "file": "stray-kids/mirror.json",
+    "cover": "css/images/covers/mirror.jpg"
+  },
+  {
+    "file": "stray-kids/miss-you.json",
+    "cover": "css/images/covers/miss-you.jpg"
+  },
+  {
+    "file": "stray-kids/my-pace.json",
+    "cover": "css/images/covers/my-pace.jpg"
+  },
+  {
+    "file": "stray-kids/my-side.json",
+    "cover": "css/images/covers/my-side.jpg"
+  },
+  {
+    "file": "stray-kids/n-s.json",
+    "cover": "css/images/covers/n-s.jpg"
+  },
+  {
+    "file": "stray-kids/piece-of-a-puzzle.json",
+    "cover": "css/images/covers/piece-of-a-puzzle.jpg"
+  },
+  {
+    "file": "stray-kids/placebo.json",
+    "cover": "css/images/covers/placebo.jpg"
+  },
+  {
+    "file": "stray-kids/question.json",
+    "cover": "css/images/covers/question.jpg"
+  },
+  {
+    "file": "stray-kids/rock.json",
+    "cover": "css/images/covers/rock.jpg"
+  },
+  {
+    "file": "stray-kids/run.json",
+    "cover": "css/images/covers/run.jpg"
+  },
+  {
+    "file": "stray-kids/scars.json",
+    "cover": "css/images/covers/scars.jpg"
+  },
+  {
+    "file": "stray-kids/side-effects.json",
+    "cover": "css/images/covers/side-effects.jpg"
+  },
+  {
+    "file": "stray-kids/spread-my-wings.json",
+    "cover": "css/images/covers/spread-my-wings.jpg"
+  },
+  {
+    "file": "stray-kids/stars-and-raindrops.json",
+    "cover": "css/images/covers/stars-and-raindrops.jpg"
+  },
+  {
+    "file": "stray-kids/streetlight.json",
+    "cover": "css/images/covers/streetlight.jpg"
+  },
+  {
+    "file": "stray-kids/tmt.json",
+    "cover": "css/images/covers/tmt.jpg"
+  },
+  {
+    "file": "stray-kids/up-all-night.json",
+    "cover": "css/images/covers/up-all-night.jpg"
+  },
+  {
+    "file": "stray-kids/victory-song.json",
+    "cover": "css/images/covers/victory-song.jpg"
+  },
+  {
+    "file": "stray-kids/voices.json",
+    "cover": "css/images/covers/voices.jpg"
+  },
+  {
+    "file": "stray-kids/wish-you-back.json",
+    "cover": "css/images/covers/wish-you-back.jpg"
+  },
+  {
+    "file": "stray-kids/yayaya.json",
+    "cover": "css/images/covers/yayaya.jpg"
+  },
+  {
+    "file": "stray-kids/zone.json",
+    "cover": "css/images/covers/zone.jpg"
+  },
+  {
+    "file": "stray-kids/24-to-25.json",
+    "cover": "css/images/covers/24-to-25.jpg"
+  },
+  {
+    "file": "stray-kids/all-in.json",
+    "cover": "css/images/covers/all-in.jpg"
+  },
+  {
+    "file": "stray-kids/any.json",
+    "cover": "css/images/covers/any.jpg"
+  },
+  {
+    "file": "stray-kids/back-door.json",
+    "cover": "css/images/covers/back-door.jpg"
+  },
+  {
+    "file": "stray-kids/christmas-evel.json",
+    "cover": "css/images/covers/christmas-evel.jpg"
+  },
+  {
+    "file": "stray-kids/winter-falls.json",
+    "cover": "css/images/covers/winter-falls.jpg"
   }
 ]

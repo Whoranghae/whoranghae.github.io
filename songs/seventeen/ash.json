@@ -1,0 +1,347 @@
+{
+  "name": "Ash\r",
+  "ogg": "sound/kpop/ash.ogg",
+  "id": "ash",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2022-05-27",
+  "album": "SEVENTEEN 4th Album ‘Face the Sun’",
+  "cover": "css/images/covers/ash.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:38:18Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Imi da tabeorin",
+      "lyric_hangul": "이미 다 타버린",
+      "lyric_translation": "N/A",
+      "range": [5.32, 7.71], "ans": [1]},
+    {"lyric": "Nunape ssayeo beorin jae Yeh",
+      "lyric_hangul": "눈앞에 쌓여 버린 재, yeah",
+      "lyric_translation": "",
+      "range": [7.71, 11.27], "ans": [1]},
+    {"lyric": "Taeyangeun tteugeopji",
+      "lyric_hangul": "Mmm, 태양은 뜨겁지",
+      "lyric_translation": "",
+      "range": [11.27, 13.55], "ans": [1]},
+    {"lyric": "Daenaje haneul wiye seomgwang",
+      "lyric_hangul": "대낮의 하늘 위의 섬광",
+      "lyric_translation": "",
+      "range": [13.55, 16.55], "ans": [1]},
+    "",
+    {"lyric": "Run Run Run",
+      "lyric_hangul": "Run, run, run",
+      "lyric_translation": "",
+      "range": [16.55, 17.85], "ans": [5]},
+    {"lyric": "Yeogineun nachimbani eomneun sahara",
+      "lyric_hangul": "여기는 나침반이 없는 사하라",
+      "lyric_translation": "",
+      "range": [17.85, 21.25], "ans": [5]},
+    {
+      "lyric_hangul": "내가 믿는 빛 한줄기를 따라가, whoo",
+      "parts": [
+        {"lyric": "Naega minneun bit",
+          "range": [21.25, 22.35], "ans": [5]},
+        {"lyric": "Hanjulgireul ttaraga Whoo",
+          "range": [22.35, 25.14], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "사막의 우산이 되어 우리가 타들어 가지 않게 지켜줄 거야",
+      "parts": [
+        {"lyric": "Samage usani dweeo",
+          "range": [25.14, 26.78], "ans": [4]},
+        {"lyric": "Uriga tadeureo gaji anke jikyeojul geoya",
+          "range": [26.78, 29.92], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Saeroun geot saeroun Form",
+      "lyric_hangul": "새로운 것 새로운 form",
+      "lyric_translation": "",
+      "range": [29.52, 32.73], "ans": [11]},
+    {"lyric": "Weroun got tteonaga New world",
+      "lyric_hangul": "외로운 곳 떠나가 new world",
+      "lyric_translation": "",
+      "range": [32.73, 35.84], "ans": [11]},
+    {"lyric": "Moksoriman namaittamyeon",
+      "lyric_hangul": "목소리만 남아있다면",
+      "lyric_translation": "",
+      "range": [35.84, 39.28], "ans": [11]},
+    {"lyric": "Seontaegeul hae Do or die",
+      "lyric_hangul": "선택을 해, do or die",
+      "lyric_translation": "",
+      "range": [39.28, 41.44], "ans": [10]},
+    "",
+    {
+      "lyric_hangul": "모든 게 다 타 버리고 남아있는 한 줌이여",
+      "parts": [
+        {"lyric": "Modeun ge da ta beorigo",
+          "range": [41.44, 43.52], "ans": [6]},
+        {"lyric": "Namainneun han jumiyeo",
+          "range": [43.52, 45.52], "ans": [6]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [45.41, 47.82], "ans": [6]},
+    {
+      "lyric_hangul": "방주를 새롭게 지어 나아가 저 세계로",
+      "parts": [
+        {"lyric": "Bangjureul saeropge jieo",
+          "range": [47.82, 49.66], "ans": [6]},
+        {"lyric": "Naaga jeo segyero",
+          "range": [49.66, 51.43], "ans": [6]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [51.43, 53.7], "ans": [6]},
+    "",
+    {"lyric": "Do or die, I’m a player",
+      "lyric_hangul": "Do or die, I'm a player, 자신 있어 game",
+      "lyric_translation": "",
+      "range": [53.7, 57.22], "ans": [3, 7]},
+    {
+      "lyric_hangul": "수만 가지 chance, 선택을 할 뿐이야",
+      "parts": [
+        {"lyric": "Jashin isseo Game suman gaji Chance",
+          "range": [57.22, 58.61], "ans": [3, 7]},
+        {"lyric": "Seontaegeul hal ppuniya",
+          "range": [58.61, 60.65], "ans": [3, 7]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [60.65, 63.49], "ans": [3, 7]},
+    {"lyric": "Ash Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [63.49, 65.2], "ans": [3, 7]},
+    "",
+    {
+      "lyric_hangul": "Ash on ash on ash on ash on ash 쌓인 가운데",
+      "parts": [
+        {"lyric": "Ash on Ash on Ash on Ash on Ash",
+          "range": [65.2, 67.34], "ans": [12]},
+        {"lyric": "Ssain gaunde",
+          "range": [67.34, 68.67], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "Metamorphosis, born in fire then I fly away",
+      "parts": [
+        {"lyric": "Metamorphosis,",
+          "range": [68.67, 69.63], "ans": [12]},
+        {"lyric": "Born in fire then I fly away",
+          "range": [69.63, 71.31], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "바람이 맞을 때 난 날을게, if it's not okay",
+      "parts": [
+        {"lyric": "Barami majeul ttae nan nareulge",
+          "range": [71.23, 73.01], "ans": [12]},
+        {"lyric": "If it’s not ok, I don’t care",
+          "range": [73.01, 74.65], "ans": [12]}
+      ]
+    },
+    {"lyric": "On the other side, a hurricane",
+      "lyric_hangul": "I don't care on the other side, a hurricane",
+      "lyric_translation": "",
+      "range": [74.49, 77.62], "ans": [12]},
+    {"lyric": "Tabeorin dwie meonjiga dweeo",
+      "lyric_hangul": "타버린 뒤에, 먼지가 되어",
+      "lyric_translation": "",
+      "range": [77.62, 80.76], "ans": [12]},
+    {"lyric": "Set me free yeah naragalge",
+      "lyric_hangul": "Set me free, yeah, 날아갈게",
+      "lyric_translation": "",
+      "range": [80.76, 83.66], "ans": [12]},
+    {"lyric": "To the sun, to the moon",
+      "lyric_hangul": "To the sun, to the moon",
+      "lyric_translation": "",
+      "range": [83.66, 86.65], "ans": [12]},
+    {"lyric": "Another world, blaze up anew",
+      "lyric_hangul": "Another world, blaze up anew",
+      "lyric_translation": "",
+      "range": [86.65, 89.67], "ans": [12]},
+    "",
+    {"lyric": "Saeroun geot saeroun Form",
+      "lyric_hangul": "새로운 것 새로운 form",
+      "lyric_translation": "",
+      "range": [89.67, 92.58], "ans": [13]},
+    {"lyric": "Weroun got tteonaga New world",
+      "lyric_hangul": "외로운 곳 떠나가 new world",
+      "lyric_translation": "",
+      "range": [92.58, 95.51], "ans": [13]},
+    {"lyric": "Moksoriman namaittamyeon",
+      "lyric_hangul": "목소리만 남아있다면",
+      "lyric_translation": "",
+      "range": [95.51, 99.09], "ans": [13]},
+    {"lyric": "Seontaegeul hae Do or die",
+      "lyric_hangul": "선택을 해, do or die",
+      "lyric_translation": "",
+      "range": [99.09, 101.75], "ans": [1]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "모든 게 다 타 버리고 남아있는 한 줌이여",
+      "parts": [
+        {"lyric": "Modeun ge da ta beorigo",
+          "range": [101.75, 103.47], "ans": [5]},
+        {"lyric": "Namainneun han jumiyeo",
+          "range": [103.47, 105.57], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [105.57, 107.64], "ans": [5]},
+    {
+      "lyric_hangul": "방주를 새롭게 지어 나아가 저 세계로",
+      "parts": [
+        {"lyric": "Bangjureul saeropge jieo",
+          "range": [107.64, 109.64], "ans": [5]},
+        {"lyric": "Naaga jeo segyero",
+          "range": [109.64, 111.61], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [111.61, 114.07], "ans": [5]},
+    "",
+    {"lyric": "Do or die, I’m a player",
+      "lyric_hangul": "Do or die, I'm a player, 자신 있어 game",
+      "lyric_translation": "",
+      "range": [114.07, 117.11], "ans": [2, 6]},
+    {
+      "lyric_hangul": "수만 가지 chance, 선택을 할 뿐이야",
+      "parts": [
+        {"lyric": "Jashin isseo Game suman gaji Chance",
+          "range": [117.11, 118.64], "ans": [2, 6]},
+        {"lyric": "Seontaegeul hal ppuniya",
+          "range": [118.64, 120.7], "ans": [2, 6]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [120.7, 123.77], "ans": [2, 6]},
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [123.77, 128.41], "ans": [2, 6]},
+    "",
+    {
+      "lyric_hangul": "매일 밤 빛나던 사막의 별 하나가",
+      "parts": [
+        {"lyric": "Maeil bam binnadeon",
+          "range": [138.53, 140.61], "ans": [3]},
+        {"lyric": "Samage byeol hanaga",
+          "range": [140.61, 144.23], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ijen naega dwel charyeya",
+      "lyric_hangul": "이젠 내가 될 차례야",
+      "lyric_translation": "",
+      "range": [144.23, 147.39], "ans": [3]},
+    {"lyric": "Seontaegeul hae Do or die",
+      "lyric_hangul": "선택을 해, do or die (skrrt, skrrt)",
+      "lyric_translation": "",
+      "range": [147.39, 149.66], "ans": [12, 13]},
+    "",
+    {
+      "lyric_hangul": "모든 게 다 타 버리고 남아있는 한 줌이여",
+      "parts": [
+        {"lyric": "Modeun ge da ta beorigo",
+          "range": [149.66, 151.52], "ans": [7]},
+        {"lyric": "Namainneun han jumiyeo",
+          "range": [151.52, 153.75], "ans": [7]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [153.75, 155.91], "ans": [7]},
+    {
+      "lyric_hangul": "방주를 새롭게 지어 나아가 저 세계로",
+      "parts": [
+        {"lyric": "Bangjureul saeropge jieo",
+          "range": [155.91, 157.69], "ans": [7]},
+        {"lyric": "Naaga jeo segyero",
+          "range": [157.69, 159.67], "ans": [7]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash",
+      "lyric_hangul": "Ash, ash, ash, ash",
+      "lyric_translation": "",
+      "range": [159.67, 162.2], "ans": [7]},
+    "",
+    {"lyric": "Do or die, I’m a player",
+      "lyric_hangul": "Do or die, I'm a player, 자신 있어 game",
+      "lyric_translation": "",
+      "range": [162.2, 165.1], "ans": [9, 10]},
+    {
+      "lyric_hangul": "수만 가지 chance, 선택을 할 뿐이야",
+      "parts": [
+        {"lyric": "Jashin isseo Game suman gaji Chance",
+          "range": [165.1, 166.64], "ans": [9, 10]},
+        {"lyric": "Seontaegeul hal ppuniya",
+          "range": [166.64, 168.51], "ans": [9, 10]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [168.51, 171.72], "ans": [9, 10]},
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [171.72, 174.22], "ans": [9, 10]},
+    "",
+    {"lyric": "Drop it Drop it now naege New world",
+      "lyric_hangul": "Drop it, drop it now 내게 new world",
+      "lyric_translation": "",
+      "range": [174.22, 175.83], "ans": [1]},
+    {"lyric": "Daeum sesangeul hyanghae Higher",
+      "lyric_hangul": "다음 세상을 향해 higher",
+      "lyric_translation": "",
+      "range": [175.83, 180.39], "ans": [1]},
+    {"lyric": "Drop it Drop it now naege New world",
+      "lyric_hangul": "Drop it, drop it now 내게 new world",
+      "lyric_translation": "",
+      "range": [180.39, 181.97], "ans": [4]},
+    {"lyric": "Daeum sesangeul hyanghae Higher",
+      "lyric_hangul": "다음 세상을 향해 higher",
+      "lyric_translation": "",
+      "range": [181.97, 185.26], "ans": [4]},
+    "",
+    {"lyric": "Neukkigo shipeo daeume gamgak",
+      "lyric_hangul": "느끼고 싶어 다음의 감각",
+      "lyric_translation": "",
+      "range": [185.26, 188.8], "ans": [8]},
+    {
+      "lyric_hangul": "미치고 싶어, 내일의 나 정말로",
+      "parts": [
+        {"lyric": "Michigo shipeo naeire na",
+          "range": [188.8, 191.12], "ans": [8]},
+        {"lyric": "Jeongmallo",
+          "range": [191.12, 192.72], "ans": [8]}
+      ]
+    },
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [192.72, 195.77], "ans": [9]},
+    {"lyric": "Ash Ash Ash Ash Ash (For ya)",
+      "lyric_hangul": "Ash, ash, ash, ash, ash (for ya)",
+      "lyric_translation": "",
+      "range": [195.77, 200.49], "ans": [9]}
+  ]
+}

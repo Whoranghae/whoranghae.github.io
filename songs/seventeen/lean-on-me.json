@@ -1,0 +1,410 @@
+{
+  "name": "Lean On Me (기대)\r",
+  "ogg": "sound/kpop/lean_on_me.ogg",
+  "id": "lean-on-me",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2016-12-05",
+  "album": "Going Seventeen",
+  "cover": "css/images/covers/lean-on-me.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "우리 마지막이 언제일지 알지 못하더라도",
+      "lyric_translation": "Even though we don’t know / When our last will be",
+      "parts": [
+        {"lyric": "Uri majimagi eonjeilji",
+          "range": [0.98, 4.4], "ans": [6]},
+        {"lyric": "Alji mothadeorado",
+          "range": [4.4, 7.27], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "행여 무슨 일이 생겨서 보지 못하더라도",
+      "lyric_translation": "Even if something happens / And we can’t see each other",
+      "parts": [
+        {"lyric": "Haengyeo museun iri saenggyeoseo",
+          "range": [7.27, 9.93], "ans": [9]},
+        {"lyric": "Boji mothadeorado",
+          "range": [9.93, 12.53], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Naege gidae gidae gidae",
+      "lyric_hangul": "내게 기대, 기대, 기대, 내게 기대, 기대, 기대",
+      "lyric_translation": "Lean on me / Lean on me",
+      "range": [12.53, 18.62], "ans": [12]},
+    {
+      "lyric_hangul": "내게 기대, 기대, 기대, 내게 기대",
+      "lyric_translation": "Lean on me / Lean on me",
+      "parts": [
+        {"lyric": "Naege gidae gidae gidae",
+          "range": [18.62, 20.92], "ans": [1]},
+        {"lyric": "Naege gidae",
+          "range": [20.92, 23.54], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "내가 네 마음에 있다면, 정말 내가 네 마음에 있다면",
+      "lyric_translation": "If I am in your heart / If I am really in your heart",
+      "parts": [
+        {"lyric": "Naega ne maeume itdamyeon",
+          "range": [23.54, 24.93], "ans": [12]},
+        {"lyric": "Jeongmal naega ne maeume itdamyeon",
+          "range": [24.93, 27.08], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "네가 어디에 있든, I will follow you",
+      "lyric_translation": "Wherever you are / I will follow you",
+      "parts": [
+        {"lyric": "Nega eodie itdeun",
+          "range": [27.08, 28.33], "ans": [12]},
+        {"lyric": "I will follow you",
+          "range": [28.33, 29.5], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "서로 일에 치여 살며 자주 못 봐도",
+      "lyric_translation": "Even if we’re so busy / That we can’t see each other often",
+      "parts": [
+        {"lyric": "Seoro ire chiyeo salmyeo",
+          "range": [29.5, 31.54], "ans": [12]},
+        {"lyric": "Jaju mot bwado",
+          "range": [31.54, 32.36], "ans": [12]}
+      ]
+    },
+    {"lyric": "Seoroege chwihae jameul cheonghamyeon",
+      "lyric_hangul": "서로에게 취해 잠을 청하면",
+      "lyric_translation": "If we get drunk on each other and fall asleep",
+      "range": [32.02, 34.82], "ans": [12]},
+    {
+      "lyric_hangul": "꿈속에선 망설이지 말고 내게 기대",
+      "lyric_translation": "In the dreams, don’t hesitate / Lean on me",
+      "parts": [
+        {"lyric": "Kkumsogeseon mangseoriji malgo",
+          "range": [34.82, 36.96], "ans": [12]},
+        {"lyric": "Naege gidae",
+          "range": [36.96, 37.74], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리 잘 참아내고 있으니 좀만 더 힘내",
+      "lyric_translation": "We are doing well / So have strength",
+      "parts": [
+        {"lyric": "Uri jal chamanaego isseuni",
+          "range": [37.53, 39.75], "ans": [12]},
+        {"lyric": "Jomman deo himnae",
+          "range": [39.75, 40.65], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "꿈에서 깨어나더라도, 정말 내가 네 마음에 있다면",
+      "lyric_translation": "Even if you wake up from your dreams / If I’m really in your heart",
+      "parts": [
+        {"lyric": "Kkumeseo kkaeeonadeorado",
+          "range": [40.65, 42.41], "ans": [12]},
+        {"lyric": "Jeongmal naega ne maeume itdamyeon",
+          "range": [42.41, 44.11], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "네가 어디에 있던, I'll be there, yeah",
+      "lyric_translation": "Wherever you are / I’ll be there",
+      "parts": [
+        {"lyric": "Nega eodie itdeon",
+          "range": [43.09, 45.76], "ans": [12]},
+        {"lyric": "I’ll be there",
+          "range": [45.76, 46.68], "ans": [12]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'll be there, 네 맘엔 항상 내가 있어",
+      "lyric_translation": "I’ll be there / I’m always in your heart",
+      "parts": [
+        {"lyric": "I’ll be there",
+          "range": [46.59, 48.0], "ans": [9]},
+        {"lyric": "Ne mamen hangsang naega isseo",
+          "range": [48.0, 51.35], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "서로 힘들 때라면 더욱 더 함께할게, my girl",
+      "lyric_translation": "When things get hard / Let’s be together even more, my girl",
+      "parts": [
+        {"lyric": "Seoro himdeul ttaeramyeon deoukdeo",
+          "range": [51.35, 54.45], "ans": [9]},
+        {"lyric": "Hamkkehalge my girl",
+          "range": [54.45, 56.57], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Oh girl neon naui jeongdap",
+      "lyric_hangul": "Oh girl, 넌 나의 정답",
+      "lyric_translation": "Oh girl, you’re my answer",
+      "range": [56.48, 58.33], "ans": [6]},
+    {
+      "lyric_hangul": "힘들 땐 손잡고 축 처진 어깨를 토닥토닥",
+      "lyric_translation": "When things get hard, let’s hold hands / I’ll pat your shoulders",
+      "parts": [
+        {"lyric": "Himdeul ttaen sonjapgo",
+          "range": [58.33, 60.37], "ans": [6]},
+        {"lyric": "Chuk cheojin eokkaereul todaktodak",
+          "range": [60.37, 62.79], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Sometimes, 삶에 지쳐 힘들 때 내게로 와",
+      "lyric_translation": "Sometimes, when you get tired from life / When things are hard, come to me",
+      "parts": [
+        {"lyric": "Sometimes salme jichyeo",
+          "range": [62.72, 64.74], "ans": [6]},
+        {"lyric": "Himdeul ttae naegero wa",
+          "range": [64.74, 67.26], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리 마지막이 언제일지 알지 못하더라도",
+      "lyric_translation": "Even though we don’t know / When our last will be",
+      "parts": [
+        {"lyric": "Uri majimagi eonjeilji",
+          "range": [67.26, 71.38], "ans": [6]},
+        {"lyric": "Alji mothadeorado",
+          "range": [71.38, 74.09], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "행여 무슨 일이 생겨서 보지 못하더라도",
+      "lyric_translation": "Even if something happens / And we can’t see each other",
+      "parts": [
+        {"lyric": "Haengyeo museun iri saenggyeoseo",
+          "range": [74.09, 76.91], "ans": [9]},
+        {"lyric": "Boji mothadeorado",
+          "range": [76.91, 79.68], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Naege gidae gidae gidae",
+      "lyric_hangul": "내게 기대, 기대, 기대, 내게 기대, 기대, 기대",
+      "lyric_translation": "Lean on me / Lean on me",
+      "range": [79.68, 85.3], "ans": [12]},
+    {
+      "lyric_hangul": "내게 기대, 기대, 기대, 내게 기대",
+      "lyric_translation": "Lean on me / Lean on me",
+      "parts": [
+        {"lyric": "Naege gidae gidae gidae",
+          "range": [85.3, 87.17], "ans": [1]},
+        {"lyric": "Naege gidaedo dwae",
+          "range": [87.17, 90.47], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Eokkaero ssollineun neoui gogae",
+      "lyric_hangul": "도 돼 어깨로 쏠리는 너의 고개",
+      "lyric_translation": "Your head is on my shoulders",
+      "range": [90.47, 93.56], "ans": [1]},
+    {
+      "lyric_hangul": "잠시라도 쉴 곳이 내가 된다는 게",
+      "lyric_translation": "I’m happy that I can give you rest / Even for just a moment",
+      "parts": [
+        {"lyric": "Jamsirado swil gosi",
+          "range": [93.56, 95.36], "ans": [1]},
+        {"lyric": "Naega doendaneun ge",
+          "range": [95.36, 96.4], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "힘든 것들을 싹 다 잊게 해줘 네가",
+      "lyric_translation": "You make me forget / All about the hard things",
+      "parts": [
+        {"lyric": "Himdeun geosdeureul ssak da",
+          "range": [96.34, 97.98], "ans": [1]},
+        {"lyric": "Ijge haejwo nega",
+          "range": [97.98, 99.29], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "행복이라 언제든 여기 비워둘게",
+      "lyric_translation": "Happiness, I’ll always keep it / Open for you",
+      "parts": [
+        {"lyric": "Haengbogira eonjedeun",
+          "range": [99.29, 100.81], "ans": [1]},
+        {"lyric": "Yeogi biwodulge",
+          "range": [100.81, 101.99], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "누가 또 울렸어 못되게 굴었어",
+      "lyric_translation": "Who made you cry? / Who bothered you?",
+      "parts": [
+        {"lyric": "Nuga tto ullyeosseo",
+          "range": [101.89, 103.31], "ans": [1]},
+        {"lyric": "Motdoege gureosseo",
+          "range": [103.31, 104.79], "ans": [1]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "하나도 한 명도 빠짐없이 얘기해줘",
+      "lyric_translation": "Tell me everything / Without leaving anything, anyone behind",
+      "parts": [
+        {"lyric": "Hanado han myeongdo",
+          "range": [104.63, 105.95], "ans": [1]},
+        {"lyric": "Ppajimeopsi yaegihaejwo",
+          "range": [105.95, 107.76], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "이야기가 길어지더라도, 밤새 계속",
+      "lyric_translation": "Even if it’s a long story / All night,",
+      "parts": [
+        {"lyric": "Iyagiga gireojideorado",
+          "range": [107.76, 109.48], "ans": [1]},
+        {"lyric": "Bamsae gyesok",
+          "range": [109.48, 110.16], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 편이 되어줄게 기대 팔베개로",
+      "lyric_translation": "I’ll be on your side / Lean on my arms",
+      "parts": [
+        {"lyric": "Ne pyeoni doeeojulge",
+          "range": [110.16, 111.7], "ans": [1]},
+        {"lyric": "Gidae palbegaero",
+          "range": [111.7, 113.71], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'll be there, 네 맘엔 항상 내가 있어",
+      "lyric_translation": "I’ll be there / I’m always in your heart",
+      "parts": [
+        {"lyric": "I’ll be there",
+          "range": [113.71, 115.04], "ans": [9]},
+        {"lyric": "Ne mamen hangsang naega isseo",
+          "range": [115.04, 118.29], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "서로 힘들 때라면 더욱 더 함께할게, my girl",
+      "lyric_translation": "When things get hard / Let’s be together even more, my girl",
+      "parts": [
+        {"lyric": "Seoro himdeul ttaeramyeon deouk deo",
+          "range": [118.29, 121.41], "ans": [9]},
+        {"lyric": "Hamkkehalge my girl",
+          "range": [121.41, 123.53], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Oh girl neon naui jeongdap",
+      "lyric_hangul": "Oh girl, 넌 나의 정답",
+      "lyric_translation": "Oh girl, you’re my answer",
+      "range": [123.45, 125.34], "ans": [6]},
+    {
+      "lyric_hangul": "힘들 땐 손잡고 축 처진 어깨를 토닥토닥",
+      "lyric_translation": "When things get hard, let’s hold hands / I’ll pat your shoulders",
+      "parts": [
+        {"lyric": "Himdeul ttaen sonjapgo",
+          "range": [125.34, 127.36], "ans": [6]},
+        {"lyric": "Chuk cheojin eokkaereul todaktodak",
+          "range": [127.36, 129.8], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Sometimes, 삶에 지쳐 힘들 때 내게로 와",
+      "lyric_translation": "Sometimes, when you get tired from life / When things are hard, come to me",
+      "parts": [
+        {"lyric": "Sometimes salme jichyeo",
+          "range": [129.8, 131.72], "ans": [6]},
+        {"lyric": "Himdeul ttae naegero wa",
+          "range": [131.72, 134.25], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "내게로 와, I know that it's so hard",
+      "lyric_translation": "Come to me / I know that it’s so hard",
+      "parts": [
+        {"lyric": "Naegero wa",
+          "range": [134.25, 135.31], "ans": [12]},
+        {"lyric": "I know that it’s so hard",
+          "range": [135.31, 137.25], "ans": [12]}
+      ]
+    },
+    {"lyric": "Nado neowa ttokgata",
+      "lyric_hangul": "나도 너와 똑같아, yeah",
+      "lyric_translation": "I feel the same way",
+      "range": [137.25, 140.22], "ans": [12]},
+    {"lyric": "Eoryeopdaneun geol jal aljiman aljiman",
+      "lyric_hangul": "어렵다는 걸 잘 알지만, 알지만",
+      "lyric_translation": "I know it’s hard",
+      "range": [140.22, 143.72], "ans": [12]},
+    "",
+    {
+      "lyric_hangul": "서로를 바라보며 한 걸음씩 천천히 걸어와",
+      "lyric_translation": "Let’s look at each other / And slowly take one step",
+      "parts": [
+        {"lyric": "Seororeul barabomyeo",
+          "range": [143.72, 145.7], "ans": [9]},
+        {"lyric": "Han georeumssik cheoncheonhi georeowa",
+          "range": [145.7, 148.27], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "왜 걱정하고 있어? 오, 오지도 않을",
+      "lyric_translation": "Why are you worried? / It won’t be bad",
+      "parts": [
+        {"lyric": "Wae geokjeonghago isseo",
+          "range": [148.27, 153.76], "ans": [1]},
+        {"lyric": "Ojido anheul",
+          "range": [153.76, 157.13], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리 마지막이 언제일지 알지 못하더라도",
+      "lyric_translation": "Even though we don’t know / When our last will be",
+      "parts": [
+        {"lyric": "Uri majimagi eonjeilji",
+          "range": [157.13, 160.69], "ans": [6]},
+        {"lyric": "Alji mothadeorado",
+          "range": [160.69, 163.35], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "행여 무슨 일이 생겨서 보지 못하더라도",
+      "lyric_translation": "Even if something happens / And we can’t see each other",
+      "parts": [
+        {"lyric": "Haengyeo museun iri saenggyeoseo",
+          "range": [163.35, 166.21], "ans": [9]},
+        {"lyric": "Boji mothadeorado",
+          "range": [166.21, 168.76], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Naege gidae gidae gidae",
+      "lyric_hangul": "내게 기대, 기대, 기대, 내게 기대, 기대, 기대",
+      "lyric_translation": "Lean on me / Lean on me",
+      "range": [168.76, 174.56], "ans": [12]},
+    {
+      "lyric_hangul": "내게 기대, 기대, 기대, 내게 기대",
+      "lyric_translation": "Lean on me / Lean on me",
+      "parts": [
+        {"lyric": "Naege gidae gidae gidae",
+          "range": [174.56, 177.8], "ans": [1]},
+        {"lyric": "Naege gidae",
+          "range": [177.8, 180.42], "ans": [1]}
+      ]
+    }
+  ]
+}

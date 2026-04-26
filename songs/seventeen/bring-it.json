@@ -1,0 +1,493 @@
+{
+  "name": "BRING IT (날 쏘고 가라)\r",
+  "ogg": "sound/kpop/bring_it.ogg",
+  "id": "bring-it",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2017-11-06",
+  "album": "TEEN, AGE",
+  "cover": "css/images/covers/bring-it.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T16:38:23Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Roger that yes sir",
+      "lyric_hangul": "Hey, roger that, yes sir",
+      "lyric_translation": "Roger that yes sir",
+      "range": [12.16, 14.9], "ans": [5]},
+    {
+      "lyric_hangul": "반드시 지켜낸다 내 사람을 건드린 것들로부터",
+      "lyric_translation": "I’ll protect them for sure / From those who try to attack my people",
+      "parts": [
+        {"lyric": "Bandeushi jikyeonaenda",
+          "range": [14.9, 16.76], "ans": [5]},
+        {"lyric": "Nae sarameul geondeurin geotteullobuteo",
+          "range": [16.76, 18.66], "ans": [5]}
+      ]
+    },
+    {"lyric": "Teokkeut hana geondeuril su eopseo",
+      "lyric_hangul": "털끝 하나 건드릴 수 없어",
+      "lyric_translation": "You can’t touch a hair on their body",
+      "range": [18.64, 20.8], "ans": [5]},
+    {"lyric": "Jashin isseumyeon geondeuryeobwara uributeo",
+      "lyric_hangul": "자신 있으면 건드려봐라 우리부터",
+      "lyric_translation": "If you think you can, try",
+      "range": [20.8, 23.14], "ans": [5]},
+    {"lyric": "Milchak buteo bureul buchyeo",
+      "lyric_hangul": "밀착 붙어 불을 붙여",
+      "lyric_translation": "Stick close to us",
+      "range": [23.14, 25.56], "ans": [5]},
+    {"lyric": "Ne apgil nae apgil da naega chaegimjyeo",
+      "lyric_hangul": "네 앞길 내 앞길 다 내가 책임져",
+      "lyric_translation": "I’ll be in charge of your future and mine",
+      "range": [25.56, 28.05], "ans": [5]},
+    {"lyric": "I goseul ssak da jeonbu jeongrihae",
+      "lyric_hangul": "Oh 이 곳을 싹 다 전부 정리해",
+      "lyric_translation": "Let’s clear out this place",
+      "range": [28.05, 30.93], "ans": [5]},
+    {
+      "lyric_hangul": "Two captains 우리가 지휘해 더더더",
+      "lyric_translation": "Two captains / We’re gonna lead more more more",
+      "parts": [
+        {"lyric": "Two captains",
+          "range": [30.93, 31.97], "ans": [5]},
+        {"lyric": "Uriga jihwihae deodeodeo",
+          "range": [31.97, 33.77], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Woo deureowa deureowa",
+      "lyric_hangul": "Woo 들어와 들어와",
+      "lyric_translation": "Woo come in, come in",
+      "range": [33.13, 35.42], "ans": [5]},
+    {"lyric": "Woo da deureowa deureowa",
+      "lyric_hangul": "Woo 다 들어와 들어와",
+      "lyric_translation": "Woo come in, come in",
+      "range": [35.42, 37.85], "ans": [5]},
+    {
+      "lyric_hangul": "붕 떠다니는 것 같지만 떠도는 걸 알아 I know",
+      "lyric_translation": "Feels like you’re floating / I know you’re floating",
+      "parts": [
+        {"lyric": "Bung tteodanineun geot gatjiman",
+          "range": [37.85, 39.56], "ans": [5]},
+        {"lyric": "Tteodoneun geol ara I know",
+          "range": [39.56, 40.78], "ans": [5]}
+      ]
+    },
+    {"lyric": "Nega gal mokjeokji imi meogeotji",
+      "lyric_hangul": "네가 갈 목적지 이미 먹었지",
+      "lyric_translation": "I already swallowed up your destination",
+      "range": [40.18, 42.23], "ans": [5]},
+    {"lyric": "Hey chwirwibongya chwirichwiribongya",
+      "lyric_hangul": "Hey 취뤼봉야 취리취리봉야",
+      "lyric_translation": "Hey",
+      "range": [42.23, 44.72], "ans": [5]},
+    {
+      "lyric_hangul": "Do not cross over this, better get out",
+      "lyric_translation": "Do not cross over this / Better get out",
+      "parts": [
+        {"lyric": "Do not cross over this",
+          "range": [44.72, 46.59], "ans": [5]},
+        {"lyric": "Better get out",
+          "range": [46.59, 47.55], "ans": [5]}
+      ]
+    },
+    {"lyric": "Hoshiujigombi deureo bwatna",
+      "lyric_hangul": "호시우지콤비 들어 봤나",
+      "lyric_translation": "Have you heard of the Hoshi Woozi combo?",
+      "range": [47.55, 49.26], "ans": [5]},
+    {
+      "lyric_hangul": "안 들어봤으면 ay Woozi tell them right now",
+      "lyric_translation": "If you haven’t / Ay Woozi tell em right now",
+      "parts": [
+        {"lyric": "An deureobwasseumyeon",
+          "range": [49.26, 50.68], "ans": [5]},
+        {"lyric": "Ay Woozi tell em right now",
+          "range": [50.68, 52.14], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "뭔가에 미친 듯 홀려 눈빛이 달아오른",
+      "lyric_translation": "As if we’re crazy / Rising in our eyes",
+      "parts": [
+        {"lyric": "Mwongae michin deut hollyeo",
+          "range": [51.84, 54.96], "ans": [7]},
+        {"lyric": "Nunbichi daraoreun",
+          "range": [54.96, 57.0], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "두 마리 맹수 먹잇감을 쫓아 날아오르지",
+      "lyric_translation": "Like two beasts / Flying to search for prey",
+      "parts": [
+        {"lyric": "Du mari maengsu",
+          "range": [56.65, 58.61], "ans": [7]},
+        {"lyric": "Meogitgameul jjocha naraoreuji",
+          "range": [58.61, 62.0], "ans": [7]}
+      ]
+    },
+    {"lyric": "We never lose a thing",
+      "lyric_hangul": "We never lose a thing (we never lose a thing)",
+      "lyric_translation": "We never lose a thing",
+      "range": [62.0, 64.39], "ans": [7]},
+    {"lyric": "Don’t worry about that",
+      "lyric_hangul": "Don't worry about that (don't worry about that)",
+      "lyric_translation": "Don’t worry about that",
+      "range": [64.39, 66.25], "ans": [7]},
+    {"lyric": "Manyak jashin ittamyeon",
+      "lyric_hangul": "만약 자신 있다면",
+      "lyric_translation": "If you think you can",
+      "range": [66.25, 68.6], "ans": [7]},
+    {"lyric": "Ay nal ssogo gara",
+      "lyric_hangul": "Ay 날 쏘고 가라",
+      "lyric_translation": "Come shoot me",
+      "range": [68.6, 72.29], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "쏴 turn right",
+      "lyric_translation": "Shoot, turn right",
+      "parts": [
+        {"lyric": "Sswa",
+          "range": [72.29, 73.55], "ans": [7]},
+        {"lyric": "Turn right",
+          "range": [73.55, 75.44], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "쏴 turn left",
+      "lyric_translation": "Shoot, turn left",
+      "parts": [
+        {"lyric": "Sswa",
+          "range": [75.44, 78.08], "ans": [7]},
+        {"lyric": "Turn left",
+          "range": [78.08, 80.12], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나가자 싸우자 이기자 hey hey",
+      "lyric_translation": "Let’s go, let’s fight, let’s win / Hey hey",
+      "parts": [
+        {"lyric": "Nagaja ssauja igija",
+          "range": [79.76, 81.94], "ans": [5]},
+        {"lyric": "Hey hey",
+          "range": [81.94, 82.64], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "나가자 싸우자 이기자 bang",
+      "lyric_translation": "Let’s go, let’s fight, let’s win brrrrr",
+      "parts": [
+        {"lyric": "Nagaja ssauja igija",
+          "range": [81.88, 84.59], "ans": [5]},
+        {"lyric": "Brrrrr",
+          "range": [83.91, 84.64], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "하나에 장전 둘에 발사 하나 둘 쏴 쏴 쏴",
+      "lyric_translation": "Load at one / Shoot and two / One, two / Shoot shoot shoot",
+      "parts": [
+        {"lyric": "Hanae jangjeon",
+          "range": [84.53, 86.5], "ans": [7]},
+        {"lyric": "Dure balsa",
+          "range": [85.8, 87.19], "ans": [5]},
+        {"lyric": "Hana dul",
+          "range": [86.74, 89.19], "ans": []},
+        {"lyric": "Sswa sswa sswa",
+          "range": [88.49, 91.66], "ans": [5]}
+      ]
+    },
+    {"lyric": "Shout out the world",
+      "lyric_hangul": "Shout out the world",
+      "lyric_translation": "Shout out the world",
+      "range": [93.42, 94.34], "ans": [5]},
+    {"lyric": "Yeogin nae guyeok",
+      "lyric_hangul": "여긴 내 구역",
+      "lyric_translation": "This is my area",
+      "range": [94.34, 95.34], "ans": [5]},
+    {"lyric": "Naega mandeun nae sesange deureonuwo",
+      "lyric_hangul": "내가 만든 내 세상에 드러누워",
+      "lyric_translation": "I’m laying in my world that I made",
+      "range": [95.34, 98.0], "ans": [5]},
+    {"lyric": "Musuhan byeoldeureul ango watji",
+      "lyric_hangul": "무수한 별들을 안고 왔지",
+      "lyric_translation": "I came with countless stars",
+      "range": [98.0, 100.47], "ans": [5]},
+    {"lyric": "Ije uriga wasseuni",
+      "lyric_hangul": "이제 우리가 왔으니 ay ay ay",
+      "lyric_translation": "Now we’re here",
+      "range": [100.47, 103.36], "ans": [5]},
+    {
+      "lyric_hangul": "불안해 하는 게 내 눈에만 보이는 거야",
+      "lyric_translation": "I can see that you’re nervous / The cool thing to do is",
+      "parts": [
+        {"lyric": "Buranhae haneun ge",
+          "range": [103.36, 104.45], "ans": [5]},
+        {"lyric": "Nae nuneman boineun geoya",
+          "range": [104.45, 105.69], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "굴하지 않고 달려가는 게 멋있는 거야",
+      "lyric_translation": "Don’t let it get to you / And keep running",
+      "parts": [
+        {"lyric": "Gulhaji anko dallyeoganeun ge",
+          "range": [105.38, 107.34], "ans": [5]},
+        {"lyric": "Meoshitneun geoya",
+          "range": [107.34, 108.0], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "우리 팀 세븐틴 계속해서 엑셀 밟아",
+      "lyric_translation": "Our team, SEVENTEEN / We’re gonna keep pressing the accelerator",
+      "parts": [
+        {"lyric": "Uri tim sebeuntin",
+          "range": [107.55, 109.25], "ans": [5]},
+        {"lyric": "Gyesokhaeseo eksel balba",
+          "range": [109.25, 110.61], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "말하는 대로 we change up 새겨들어",
+      "lyric_translation": "Just like we said / We change up, listen up",
+      "parts": [
+        {"lyric": "Malhaneun daero",
+          "range": [110.22, 111.82], "ans": [5]},
+        {"lyric": "We change up saegyeodeureo",
+          "range": [111.82, 113.04], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "뭔가에 미친 듯 홀려 눈빛이 달아오른",
+      "lyric_translation": "As if we’re crazy / Rising in our eyes",
+      "parts": [
+        {"lyric": "Mwongae michin deut hollyeo",
+          "range": [112.59, 115.51], "ans": [7]},
+        {"lyric": "Nunbichi daraoreun",
+          "range": [115.51, 117.57], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "두 마리 맹수 먹잇감을 쫓아 날아오르지",
+      "lyric_translation": "Like two beasts / Flying to search for prey",
+      "parts": [
+        {"lyric": "Du mari maengsu",
+          "range": [117.11, 119.19], "ans": [7]},
+        {"lyric": "Meogitgameul jjocha naraoreuji",
+          "range": [119.19, 122.4], "ans": [7]}
+      ]
+    },
+    {"lyric": "We never lose a thing",
+      "lyric_hangul": "We never lose a thing (we never lose a thing)",
+      "lyric_translation": "We never lose a thing",
+      "range": [122.4, 124.88], "ans": [7]},
+    {"lyric": "Don’t worry about that",
+      "lyric_hangul": "Don't worry about that (don't worry about that)",
+      "lyric_translation": "Don’t worry about that",
+      "range": [124.88, 126.99], "ans": [7]},
+    {"lyric": "Manyak jashin ittamyeon",
+      "lyric_hangul": "만약 자신 있다면",
+      "lyric_translation": "If you think you can",
+      "range": [126.99, 129.21], "ans": [7]},
+    {"lyric": "Ay nal ssogo gara",
+      "lyric_hangul": "Ay 날 쏘고 가라",
+      "lyric_translation": "Come shoot me",
+      "range": [129.21, 133.0], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "쏴 turn right",
+      "lyric_translation": "Shoot, turn right",
+      "parts": [
+        {"lyric": "Sswa",
+          "range": [133.0, 134.0], "ans": [7]},
+        {"lyric": "Turn right",
+          "range": [134.0, 137.51], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "쏴 turn left",
+      "lyric_translation": "Shoot, turn left",
+      "parts": [
+        {"lyric": "Sswa",
+          "range": [137.51, 138.79], "ans": [7]},
+        {"lyric": "Turn left",
+          "range": [138.79, 140.65], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나가자 싸우자 이기자 hey hey",
+      "lyric_translation": "Let’s go, let’s fight, let’s win / Hey hey",
+      "parts": [
+        {"lyric": "Nagaja ssauja igija",
+          "range": [140.27, 142.86], "ans": [5]},
+        {"lyric": "Hey hey",
+          "range": [142.16, 143.65], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "나가자 싸우자 이기자 bang",
+      "lyric_translation": "Let’s go, let’s fight, let’s win brrrrr",
+      "parts": [
+        {"lyric": "Nagaja ssauja igija",
+          "range": [142.72, 145.15], "ans": [5]},
+        {"lyric": "Brrrrr",
+          "range": [144.47, 145.2], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "하나에 장전 둘에 발사 하나 둘 쏴 쏴 쏴",
+      "lyric_translation": "Load at one / Shoot and two / One, two / Shoot shoot shoot",
+      "parts": [
+        {"lyric": "Hanae jangjeon",
+          "range": [144.93, 147.06], "ans": [7]},
+        {"lyric": "Dure balsa",
+          "range": [146.36, 147.85], "ans": [5]},
+        {"lyric": "Hana dul",
+          "range": [147.85, 149.72], "ans": []},
+        {"lyric": "Sswa sswa sswa",
+          "range": [149.02, 150.72], "ans": [5]}
+      ]
+    },
+    {"lyric": "Houjuuibo ballyeong",
+      "lyric_hangul": "호우주의보 발령",
+      "lyric_translation": "Heavy rain alert",
+      "range": [150.72, 153.21], "ans": [5]},
+    {"lyric": "Nuga nuga nuga yaene jom mallyeo",
+      "lyric_hangul": "누가 누가 누가 얘네 좀 말려",
+      "lyric_translation": "Someone stop them",
+      "range": [153.21, 155.49], "ans": [5]},
+    {"lyric": "Uril geondeuril suga ittamyeon",
+      "lyric_hangul": "우릴 건드릴 수가 있다면",
+      "lyric_translation": "If you can touch us",
+      "range": [155.49, 157.84], "ans": [5]},
+    {"lyric": "Meonjeo nal ssogo gara",
+      "lyric_hangul": "먼저 날 쏘고 가라",
+      "lyric_translation": "Come shoot us first",
+      "range": [157.84, 160.05], "ans": [5]},
+    "",
+    {"lyric": "Houjuuibo ballyeong",
+      "lyric_hangul": "호우주의보 발령",
+      "lyric_translation": "Heavy rain alert",
+      "range": [160.05, 162.48], "ans": [5]},
+    {"lyric": "Nuga nuga nuga yaene jom mallyeo",
+      "lyric_hangul": "누가 누가 누가 얘네 좀 말려",
+      "lyric_translation": "Someone stop them",
+      "range": [162.48, 164.83], "ans": [5]},
+    {"lyric": "Uril geondeuril suga ittamyeon",
+      "lyric_hangul": "우릴 건드릴 수가 있다면",
+      "lyric_translation": "If you can touch us",
+      "range": [164.83, 167.14], "ans": [5]},
+    {"lyric": "Meonjeo nae ham ssogo gabwara",
+      "lyric_hangul": "먼저 내 함 쏘고 가봐라",
+      "lyric_translation": "Come shoot us first",
+      "range": [167.14, 171.46], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "쏴 turn right",
+      "lyric_translation": "Shoot, turn right",
+      "parts": [
+        {"lyric": "Sswa",
+          "range": [171.46, 172.54], "ans": [7]},
+        {"lyric": "Turn right",
+          "range": [172.54, 175.91], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "쏴 turn left",
+      "lyric_translation": "Shoot, turn left",
+      "parts": [
+        {"lyric": "Sswa",
+          "range": [175.91, 177.23], "ans": [7]},
+        {"lyric": "Turn left",
+          "range": [177.23, 179.19], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나가자 싸우자 이기자 hey hey",
+      "lyric_translation": "Let’s go, let’s fight, let’s win hey hey",
+      "parts": [
+        {"lyric": "Nagaja ssauja igija",
+          "range": [178.66, 180.98], "ans": [5]},
+        {"lyric": "Hey hey",
+          "range": [180.98, 181.64], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "나가자 싸우자 이기자 bang",
+      "lyric_translation": "Let’s go, let’s fight, let’s win brrrrr",
+      "parts": [
+        {"lyric": "Nagaja ssauja igija",
+          "range": [181.07, 183.62], "ans": [5]},
+        {"lyric": "Brrrrr",
+          "range": [182.92, 183.69], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "하나에 장전 둘에 발사 하나 둘 쏴 쏴 쏴",
+      "lyric_translation": "Load at one / Shoot and two / One, two / Shoot shoot shoot",
+      "parts": [
+        {"lyric": "Hanae jangjeon",
+          "range": [183.51, 185.5], "ans": [7]},
+        {"lyric": "Dure balsa",
+          "range": [184.8, 186.17], "ans": [5]},
+        {"lyric": "Hana dul",
+          "range": [185.78, 187.39], "ans": []},
+        {"lyric": "Sswa sswa sswa",
+          "range": [186.69, 188.92], "ans": [5]}
+      ]
+    },
+    {"lyric": "Oh sswa sswa sswa",
+      "lyric_hangul": "Oh 쏴 쏴 쏴",
+      "lyric_translation": "Oh shoot shoot shoot",
+      "range": [188.92, 192.53], "ans": [5]},
+    {
+      "lyric_hangul": "하나 하면 장전 하며",
+      "lyric_translation": "Load at one / Shoot and two",
+      "parts": [
+        {"lyric": "Hana hamyeon",
+          "range": [192.53, 194.5], "ans": [5]},
+        {"lyric": "Jangjeon hamyeo",
+          "range": [193.8, 195.65], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "둘을 세면 쏴 쏴 쏴",
+      "lyric_translation": "One, two / Shoot shoot shoot",
+      "parts": [
+        {"lyric": "Dureul semyeon",
+          "range": [195.04, 196.68], "ans": [5]},
+        {"lyric": "Sswa sswa sswa",
+          "range": [196.68, 197.94], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Oh sswa sswa sswa",
+      "lyric_hangul": "Oh 쏴 쏴 쏴",
+      "lyric_translation": "Oh shoot shoot shoot",
+      "range": [197.89, 201.99], "ans": [5]},
+    {
+      "lyric_hangul": "하나 하면 장전 하며",
+      "lyric_translation": "Load at one / Shoot and two",
+      "parts": [
+        {"lyric": "Hana hamyeon",
+          "range": [201.99, 203.82], "ans": [5]},
+        {"lyric": "Jangjeon hamyeo",
+          "range": [203.12, 204.87], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "둘을 세면 쏴 쏴 쏴",
+      "lyric_translation": "One, two / Shoot shoot shoot",
+      "parts": [
+        {"lyric": "Dureul semyeon",
+          "range": [204.32, 206.0], "ans": [5]},
+        {"lyric": "Sswa sswa sswa",
+          "range": [206.0, 209.34], "ans": [5]}
+      ]
+    }
+  ]
+}

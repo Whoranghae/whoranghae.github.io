@@ -1,0 +1,366 @@
+{
+  "name": "Crush",
+  "ogg": "sound/kpop/crush.ogg",
+  "id": "crush",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2021-10-22",
+  "album": "Attacca",
+  "cover": "css/images/covers/crush.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T04:54:27Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you (ayy)",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [0.32, 1.16], "ans": [8]},
+        {"lyric": "I got a crush on you",
+          "range": [1.16, 3.18], "ans": [8]}
+      ]
+    },
+    {"lyric": "Naneun neoege Rush",
+      "lyric_hangul": "나는 너에게 rush",
+      "lyric_translation": "",
+      "range": [2.63, 4.83], "ans": [8]},
+    {
+      "lyric_hangul": "You are my crush, I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [4.83, 5.85], "ans": [5]},
+        {"lyric": "I got a crush on you",
+          "range": [5.85, 7.36], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neo malgon jeonbu da Hush Hush",
+      "lyric_hangul": "너 말곤 전부 다, hush, hush",
+      "lyric_translation": "",
+      "range": [7.36, 9.0], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "It's 조금 complicated, 날 끌어당기는 건",
+      "parts": [
+        {"lyric": "It’s jogeum Complicated",
+          "range": [9.0, 9.58], "ans": [3]},
+        {"lyric": "Nal kkeureodanggineun geon",
+          "range": [9.58, 13.57], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "아무도 흉내 낼 수 없는 너 (유일해 넌 내게 only one)",
+      "parts": [
+        {"lyric": "Amudo hyungnae nael su eomneun neo",
+          "range": [13.57, 16.83], "ans": [3]},
+        {"lyric": "(yuilhae neon naege Only one)",
+          "range": [16.13, 18.23], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Jilmunen daedabhaji mara jweo",
+      "lyric_hangul": "질문엔 대답하지 말아 줘, oh",
+      "lyric_translation": "",
+      "range": [18.13, 23.32], "ans": [2]},
+    {
+      "lyric_hangul": "눈을 보고 느껴, 천만 배는 감동적이야",
+      "parts": [
+        {"lyric": "Nuneul bogo neukkyeo",
+          "range": [23.32, 25.14], "ans": [10]},
+        {"lyric": "Cheonman baeneun gamdongjeogiya",
+          "range": [25.14, 27.36], "ans": [10]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh baby, 난 멈출 수 없어 (I'm crazy for you)",
+      "parts": [
+        {"lyric": "Oh baby nan meomchul su eopseo",
+          "range": [27.36, 30.72], "ans": [7]},
+        {"lyric": "(I’m crazy for you)",
+          "range": [30.72, 31.78], "ans": [7]}
+      ]
+    },
+    {"lyric": "Imi seoroye shimjangeun byeongnyeollo nayeoldwae",
+      "lyric_hangul": "이미 서로의 심장은 병렬로 나열돼",
+      "lyric_translation": "",
+      "range": [31.52, 35.89], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "I don't know what to do, tell me what I gotta do",
+      "parts": [
+        {"lyric": "I don’t know what to do",
+          "range": [35.89, 37.84], "ans": [12]},
+        {"lyric": "Tell me what I gotta do",
+          "range": [37.84, 39.85], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "네가 없으면 난 마음이 얼룩져 녹아 없어질 거야",
+      "parts": [
+        {"lyric": "Nega eopseumyeon nan maeumi eollukjyeo",
+          "range": [39.63, 42.31], "ans": [11]},
+        {"lyric": "Noga eopseojil geoya",
+          "range": [42.31, 43.84], "ans": [11]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you (ayy)",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [43.84, 44.87], "ans": [9]},
+        {"lyric": "I got a crush on you",
+          "range": [44.87, 46.87], "ans": [9]}
+      ]
+    },
+    {"lyric": "Naneun neoege Rush",
+      "lyric_hangul": "나는 너에게 rush",
+      "lyric_translation": "",
+      "range": [46.47, 47.88], "ans": [9]},
+    {
+      "lyric_hangul": "You are my crush, I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [47.88, 49.47], "ans": [13]},
+        {"lyric": "I got a crush on you",
+          "range": [49.47, 51.13], "ans": [13]}
+      ]
+    },
+    {"lyric": "Neo malgon jeonbu da Hush Hush",
+      "lyric_hangul": "너 말곤 전부 다, hush, hush",
+      "lyric_translation": "",
+      "range": [51.13, 52.84], "ans": [13]},
+    "",
+    {"lyric": "Jigeum i dalkomhameun yeongweonhi haerobji ana",
+      "lyric_hangul": "지금 이 달콤함은 영원히 해롭지 않아",
+      "lyric_translation": "",
+      "range": [52.84, 57.27], "ans": [5]},
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [57.27, 57.83], "ans": [4]},
+        {"lyric": "I got a crush on you",
+          "range": [57.83, 59.59], "ans": [4]}
+      ]
+    },
+    {"lyric": "Nae maeumeun Run and gun",
+      "lyric_hangul": "내 마음은 run and gun",
+      "lyric_translation": "",
+      "range": [59.59, 61.51], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "음악의 볼륨을 최대치로 올려도 우린 대화가 가능해",
+      "parts": [
+        {"lyric": "Eumage bollyumeul chwedaechiro",
+          "range": [61.51, 63.97], "ans": [1]},
+        {"lyric": "Ollyeodo urin daehwaga ganeunghae",
+          "range": [63.97, 66.41], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금 이 달콤함은 영원히 해롭지 않을 거라는 걸 알아",
+      "parts": [
+        {"lyric": "Jigeum i dalkomhameun yeongweonhi",
+          "range": [66.19, 68.51], "ans": [1]},
+        {"lyric": "Haerobji aneul georaneun geol ara",
+          "range": [68.51, 70.63], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Ojik Feello ojik Feello",
+      "lyric_hangul": "오직 feel로, 오직 feel로",
+      "lyric_translation": "",
+      "range": [70.26, 74.6], "ans": [4]},
+    {
+      "lyric_hangul": "함께 있음을 느껴 어제보다 감동적이야",
+      "parts": [
+        {"lyric": "Hamkke isseumeul neukkyeo",
+          "range": [74.6, 77.36], "ans": [9]},
+        {"lyric": "Eojeboda gamdongjeogiya",
+          "range": [77.36, 79.63], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh baby, 난 멈출 수 없어 (I'm crazy for you)",
+      "parts": [
+        {"lyric": "Oh baby nan meomchul su eopseo",
+          "range": [79.63, 83.13], "ans": [8]},
+        {"lyric": "(I’m crazy for you)",
+          "range": [83.13, 84.3], "ans": [8]}
+      ]
+    },
+    {"lyric": "Imi seoroye shimjangeun byeongnyeollo nayeoldwae",
+      "lyric_hangul": "이미 서로의 심장은 병렬로 나열돼",
+      "lyric_translation": "",
+      "range": [83.84, 88.38], "ans": [3]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I don't know what to do, tell me what I gotta do",
+      "parts": [
+        {"lyric": "I don’t know what to do",
+          "range": [88.38, 90.22], "ans": [13]},
+        {"lyric": "Tell me what I gotta do",
+          "range": [90.22, 92.24], "ans": [13]}
+      ]
+    },
+    {
+      "lyric_hangul": "네가 없으면 난 마음이 얼룩져 녹아 없어질 거야",
+      "parts": [
+        {"lyric": "Nega eopseumyeon nan maeumi eollukjyeo",
+          "range": [92.12, 94.72], "ans": [7]},
+        {"lyric": "Noga eopseojil geoya",
+          "range": [94.72, 96.41], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you (ayy)",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [96.41, 97.2], "ans": [12]},
+        {"lyric": "I got a crush on you",
+          "range": [97.2, 99.29], "ans": [12]}
+      ]
+    },
+    {"lyric": "Naneun neoege Rush",
+      "lyric_hangul": "나는 너에게 rush",
+      "lyric_translation": "",
+      "range": [98.48, 100.29], "ans": [12]},
+    {
+      "lyric_hangul": "You are my crush, I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [100.29, 101.86], "ans": [1]},
+        {"lyric": "I got a crush on you",
+          "range": [101.86, 103.08], "ans": [1]}
+      ]
+    },
+    {"lyric": "Neo malgon jeonbu da Hush Hush",
+      "lyric_hangul": "너 말곤 전부 다, hush, hush",
+      "lyric_translation": "",
+      "range": [103.04, 104.7], "ans": [1]},
+    "",
+    {"lyric": "Jigeum i dalkomhameun yeongweonhi haerobji ana",
+      "lyric_hangul": "지금 이 달콤함은 영원히 해롭지 않아",
+      "lyric_translation": "",
+      "range": [104.7, 109.59], "ans": [11]},
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [109.59, 110.22], "ans": [6]},
+        {"lyric": "I got a crush on you",
+          "range": [110.22, 111.85], "ans": [6]}
+      ]
+    },
+    {"lyric": "Nae maeumeun Run and gun",
+      "lyric_hangul": "내 마음은 run and gun",
+      "lyric_translation": "",
+      "range": [111.56, 113.97], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "알려줘 어떻게 하면 널 더 깊게 알 수 있을지",
+      "parts": [
+        {"lyric": "Allyeojweo eotteoke hamyeon",
+          "range": [113.97, 116.45], "ans": [9]},
+        {"lyric": "Neol deo gipge al su isseulji",
+          "range": [116.45, 118.87], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "알려줘 어떻게 하면 널 더 내가 믿을 수 있는 건",
+      "parts": [
+        {"lyric": "Allyeojweo eotteoke hamyeon neol deo",
+          "range": [118.47, 121.71], "ans": [9]},
+        {"lyric": "Naega mideul su inneun geon",
+          "range": [121.71, 124.85], "ans": [8]}
+      ]
+    },
+    {"lyric": "Jigeum nae nunape inneun neo",
+      "lyric_hangul": "지금 내 눈앞에 있는 너",
+      "lyric_translation": "",
+      "range": [124.53, 126.7], "ans": [8]},
+    "",
+    {"lyric": "Seororeul deo kkeureodanggyeo",
+      "lyric_hangul": "서로를 더 끌어당겨",
+      "lyric_translation": "",
+      "range": [126.7, 131.15], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you (ayy)",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [131.15, 132.03], "ans": [4]},
+        {"lyric": "I got a crush on you",
+          "range": [132.03, 134.08], "ans": [4]}
+      ]
+    },
+    {"lyric": "Naneun neoege Rush",
+      "lyric_hangul": "나는 너에게 rush",
+      "lyric_translation": "",
+      "range": [133.2, 135.68], "ans": [4]},
+    {
+      "lyric_hangul": "You are my crush, I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [135.68, 136.8], "ans": [10]},
+        {"lyric": "I got a crush on you",
+          "range": [136.8, 138.08], "ans": [10]}
+      ]
+    },
+    {"lyric": "Neo malgon jeonbu da Hush Hush",
+      "lyric_hangul": "너 말곤 전부 다, hush, hush",
+      "lyric_translation": "",
+      "range": [137.89, 140.14], "ans": [10]},
+    "",
+    {"lyric": "Jigeum i dalkomhameun yeongweonhi haerobji ana",
+      "lyric_hangul": "지금 이 달콤함은 영원히 해롭지 않아",
+      "lyric_translation": "",
+      "range": [140.14, 144.38], "ans": [13]},
+    {
+      "lyric_hangul": "You are my crush (crush), I got a crush on you",
+      "parts": [
+        {"lyric": "You are my crush",
+          "range": [144.38, 145.16], "ans": [12]},
+        {"lyric": "I got a crush on you",
+          "range": [145.16, 146.76], "ans": [12]}
+      ]
+    },
+    {"lyric": "Nae maeumeun Run and gun",
+      "lyric_hangul": "내 마음은 run and gun",
+      "lyric_translation": "",
+      "range": [146.41, 149.56], "ans": [12]},
+    "",
+    {
+      "lyric_hangul": "조금 더 내게 더 (내 맘은 타오르고 있어)",
+      "parts": [
+        {"lyric": "Jogeum deo naege deo",
+          "range": [149.56, 152.41], "ans": [2]},
+        {"lyric": "(nae mameun taoreugo isseo)",
+          "range": [151.71, 153.58], "ans": [10]}
+      ]
+    },
+    {
+      "lyric_hangul": "조금 더 내게 더 (속도를 늦출 수 없어)",
+      "parts": [
+        {"lyric": "Jogeum deo naege deo",
+          "range": [153.58, 156.76], "ans": [11]},
+        {"lyric": "(sokdoreul neutchul su eopseo)",
+          "range": [156.06, 158.06], "ans": [10]}
+      ]
+    },
+    {"lyric": "Woo uri gamjeongeun All day",
+      "lyric_hangul": "Ooh, 우리 감정은 all day",
+      "lyric_translation": "",
+      "range": [158.06, 162.09], "ans": [5]},
+    {"lyric": "Shwil teum eopshi keojigo isseo",
+      "lyric_hangul": "쉴 틈 없이 커지고 있어",
+      "lyric_translation": "",
+      "range": [162.09, 166.89], "ans": [7]}
+  ]
+}

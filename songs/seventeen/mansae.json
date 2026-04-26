@@ -8,7 +8,7 @@
   "album": "BOYS BE",
   "cover": "css/images/covers/mansae.jpg",
   "added": "2026-04",
-  "generated": "2026-04-23T04:03:33Z",
+  "generated": "2026-04-25T23:37:25Z",
   "hidden": false,
   "slots": [],
   "lines": [
@@ -16,21 +16,21 @@
       "lyric_hangul": "Yeah, alright",
       "lyric_translation": "Yeh Alright",
       "range": [0.65, 2.86], "ans": [1]},
-    {
+    {"lyric": "Say the name Seventeen yep",
       "lyric_hangul": "Say the name, SEVENTEEN, yep",
-      "lyric_translation": "Say the Name Seventeen Yep / Your gestures hit right at my heart",
+      "lyric_translation": "Say the Name Seventeen Yep",
+      "range": [2.86, 8.93], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "내 맘 때리는 제스쳐, 만세, 삼창하지 백 번",
+      "lyric_translation": "Your gestures hit right at my heart / You make me say mansae a hundred times but",
       "parts": [
-        {"lyric": "Say the name Seventeen yep",
-          "range": [2.86, 5.76], "ans": [1]},
         {"lyric": "Nae mam ttaerineun gesture",
-          "range": [5.06, 8.93], "ans": [12]}
+          "range": [8.93, 9.97], "ans": [12]},
+        {"lyric": "Manse samchanghaji baek beon but",
+          "range": [9.97, 13.43], "ans": [12]}
       ]
     },
-    "",
-    {"lyric": "Manse samchanghaji baek beon but",
-      "lyric_hangul": "내 맘 때리는 제스쳐, 만세, 삼창하지 백 번",
-      "lyric_translation": "You make me say mansae a hundred times but",
-      "range": [8.93, 13.43], "ans": [12]},
     {"lyric": "Kkaego naseon maebeon say I’m so stupid",
       "lyric_hangul": "But 깨고 나선 매번 say, I'm so stupid",
       "lyric_translation": "After I wake up, I always say I’m so stupid",

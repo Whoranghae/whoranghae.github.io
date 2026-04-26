@@ -8,7 +8,7 @@
   "album": "Heng:garæ",
   "cover": "css/images/covers/left-and-right.jpg",
   "added": "2026-04",
-  "generated": "2026-04-23T02:46:52Z",
+  "generated": "2026-04-25T23:37:20Z",
   "hidden": false,
   "slots": [],
   "lines": [
@@ -115,14 +115,16 @@
       "lyric_hangul": "스무 번 더, 하하하하",
       "lyric_translation": "Twenty more times hahahaha",
       "range": [36.48, 39.24], "ans": [8]},
+    {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni",
+      "lyric_hangul": "이것은 결승선을 넘을 때 세리머니",
+      "lyric_translation": "Crossing the finish line with a ceremony",
+      "range": [39.24, 44.64], "ans": [11]},
     {
-      "lyric_hangul": "이것은 결승선을 넘을 때 세리머니 시원하게 (yeah, it goes like)",
-      "lyric_translation": "Crossing the finish line with a ceremony / Exhilarating Yeh it goes like",
+      "lyric_hangul": "시원하게 (yeah, it goes like)",
+      "lyric_translation": "Exhilarating Yeh it goes like",
       "parts": [
-        {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni",
-          "range": [39.24, 42.72], "ans": [11]},
         {"lyric": "Shiweonhage",
-          "range": [42.72, 46.29], "ans": [11]},
+          "range": [44.64, 46.29], "ans": [11]},
         {"lyric": "Yeh it goes like",
           "range": [45.59, 46.7], "ans": []}
       ]
@@ -275,18 +277,21 @@
       "lyric_hangul": "스무 번 더, 하하하하",
       "lyric_translation": "Twenty more times hahahaha",
       "range": [100.35, 103.44], "ans": [10]},
+    {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni",
+      "lyric_hangul": "이것은 결승선을 넘을 때 세리머니",
+      "lyric_translation": "Crossing the finish line with a ceremony",
+      "range": [103.44, 108.82], "ans": [5]},
     {
-      "lyric_hangul": "이것은 결승선을 넘을 때 세리머니 시원하게 (yeah, it goes like)",
-      "lyric_translation": "Crossing the finish line with a ceremony / Exhilarating Yeh it goes like",
+      "lyric_hangul": "시원하게 (yeah, it goes like)",
+      "lyric_translation": "Exhilarating Yeh it goes like",
       "parts": [
-        {"lyric": "Gyeolseungseoneul neomeul ttae serimeoni",
-          "range": [103.44, 106.62], "ans": [5]},
         {"lyric": "Shiweonhage",
-          "range": [106.62, 110.26], "ans": [5]},
+          "range": [108.82, 110.26], "ans": [5]},
         {"lyric": "Yeh it goes like",
           "range": [109.56, 110.65], "ans": []}
       ]
     },
+    "",
     {"lyric": "Left and right",
       "lyric_hangul": "Left and right, left and right",
       "lyric_translation": "Left and right / Left and right",

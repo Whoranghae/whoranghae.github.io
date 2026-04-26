@@ -1,0 +1,312 @@
+{
+  "name": "Don Quixote",
+  "ogg": "sound/kpop/don_quixote.ogg",
+  "id": "don-quixote",
+  "group": "seventeen",
+  "language": "ko",
+  "released": "2022-05-27",
+  "album": "SEVENTEEN 4th Album ‘Face the Sun’",
+  "cover": "css/images/covers/don-quixote.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I Just wanna feel the vibes",
+      "lyric_hangul": "I just wanna feel the vibes",
+      "lyric_translation": "N/A",
+      "range": [5.02, 8.08], "ans": [7]},
+    {"lyric": "Modeun geol bultaeun bam",
+      "lyric_hangul": "모든 걸 불태운 밤",
+      "lyric_translation": "",
+      "range": [8.08, 11.38], "ans": [7]},
+    {"lyric": "Naega michyeodo joa",
+      "lyric_hangul": "내가 미쳐도 좋아",
+      "lyric_translation": "",
+      "range": [11.38, 14.1], "ans": [7]},
+    {"lyric": "Feeling like DON QUIXOTE",
+      "lyric_hangul": "Feeling like Don Quixote",
+      "lyric_translation": "",
+      "range": [14.1, 17.09], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "사람들은 손가락질해, it ain't real, it ain't real",
+      "parts": [
+        {"lyric": "Saramdeureun songarakjilhae",
+          "range": [17.09, 19.19], "ans": [12]},
+        {"lyric": "It ain’t real It ain’t real",
+          "range": [19.19, 21.16], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지 않아, it's real, it's real",
+      "parts": [
+        {"lyric": "Geommeokji ana",
+          "range": [21.16, 22.3], "ans": [12]},
+        {"lyric": "It’s real It’s real",
+          "range": [22.3, 24.37], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "미쳤다 해도 좋아, 내 모든 걸 불태운 밤",
+      "parts": [
+        {"lyric": "Michyeotta haedo joa",
+          "range": [24.37, 27.05], "ans": [2]},
+        {"lyric": "Nae modeun geol bultaeun bam",
+          "range": [27.05, 29.16], "ans": [2]}
+      ]
+    },
+    {"lyric": "So come and call me DON QUIXOTE",
+      "lyric_hangul": "So come and call me Don Quixote",
+      "lyric_translation": "",
+      "range": [29.16, 31.76], "ans": [2]},
+    "",
+    {"lyric": "Saramdeureun naega isanghadae Yeh yeh",
+      "lyric_hangul": "사람들은 내가 이상하대, yeah, yeah",
+      "lyric_translation": "",
+      "range": [31.76, 34.79], "ans": [9]},
+    {"lyric": "Ramanchaye pungchaneun wen marini Yeh",
+      "lyric_hangul": "라만차의 풍차는 웬 말이니? Yeah",
+      "lyric_translation": "",
+      "range": [34.79, 37.87], "ans": [9]},
+    {"lyric": "Teullin mal eopji geu mari da matji",
+      "lyric_hangul": "틀린 말 없지 그 말이 다 맞지?",
+      "lyric_translation": "",
+      "range": [37.87, 41.08], "ans": [1]},
+    {"lyric": "But I’m gonna live my life sanggwaneopji Yeh",
+      "lyric_hangul": "But I'm gonna live my life 상관없지, yeah",
+      "lyric_translation": "",
+      "range": [41.08, 43.87], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "끓어오른 내 속엔 ice and motivation",
+      "parts": [
+        {"lyric": "Kkeulheooreun nae sogen",
+          "range": [43.87, 44.97], "ans": [3]},
+        {"lyric": "Ice and motivation",
+          "range": [44.97, 46.81], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "새로운 나의 name tag 통제 불능이라 써 있어",
+      "parts": [
+        {"lyric": "Saeroun naye Name tag",
+          "range": [46.76, 48.36], "ans": [4]},
+        {"lyric": "Tongje bulleungira sseo isseo",
+          "range": [48.36, 50.64], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Now push for what I want, go for what I want",
+      "parts": [
+        {"lyric": "Now push for (What I want)",
+          "range": [50.41, 52.31], "ans": [2]},
+        {"lyric": "Go for (What I want)",
+          "range": [52.31, 53.77], "ans": [2]}
+      ]
+    },
+    {"lyric": "Do what (What I want)",
+      "lyric_hangul": "Do what what I want",
+      "lyric_translation": "",
+      "range": [53.27, 54.95], "ans": [2]},
+    "",
+    {"lyric": "I Just wanna feel the vibes",
+      "lyric_hangul": "I just wanna feel the vibes",
+      "lyric_translation": "",
+      "range": [54.95, 58.21], "ans": [5]},
+    {"lyric": "Modeun geol bultaeun bam",
+      "lyric_hangul": "모든 걸 불태운 밤",
+      "lyric_translation": "",
+      "range": [58.21, 61.35], "ans": [5]},
+    {"lyric": "Naega michyeodo joa",
+      "lyric_hangul": "내가 미쳐도 좋아",
+      "lyric_translation": "",
+      "range": [61.35, 64.44], "ans": [5]},
+    {"lyric": "Feeling like DON QUIXOTE",
+      "lyric_hangul": "Feeling like Don Quixote",
+      "lyric_translation": "",
+      "range": [64.44, 67.45], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "사람들은 손가락질해, it ain't real, it ain't real",
+      "parts": [
+        {"lyric": "Saramdeureun songarakjilhae",
+          "range": [67.45, 69.38], "ans": [13]},
+        {"lyric": "It ain’t real It ain’t real",
+          "range": [69.38, 71.51], "ans": [13]}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지 않아, it's real, it's real",
+      "parts": [
+        {"lyric": "Geommeokji ana",
+          "range": [71.51, 72.47], "ans": [13]},
+        {"lyric": "It’s real It’s real",
+          "range": [72.47, 74.24], "ans": [13]}
+      ]
+    },
+    {
+      "lyric_hangul": "미쳤다 해도 좋아, 내 모든 걸 불태운 밤",
+      "parts": [
+        {"lyric": "Michyeotta haedo joa",
+          "range": [74.24, 77.33], "ans": [10]},
+        {"lyric": "Nae modeun geol bultaeun bam",
+          "range": [77.33, 79.29], "ans": [10]}
+      ]
+    },
+    {"lyric": "So come and call me DON QUIXOTE",
+      "lyric_hangul": "So come and call me Don Quixote",
+      "lyric_translation": "",
+      "range": [79.2, 81.92], "ans": [13, 10]},
+    "",
+    {
+      "lyric_hangul": "Say my name, Don Quixote (두려운 게 없지)",
+      "parts": [
+        {"lyric": "Say my name",
+          "range": [81.92, 82.95], "ans": [6]},
+        {"lyric": "DON QUIXOTE",
+          "range": [82.95, 83.69], "ans": [6]},
+        {"lyric": "Duryeoun ge eopji",
+          "range": [83.69, 85.05], "ans": [6]}
+      ]
+    },
+    {"lyric": "Pay my day oneuldo naeire da geolji",
+      "lyric_hangul": "Pay my day, 오늘도 내일에 다 걸지",
+      "lyric_translation": "",
+      "range": [85.05, 87.9], "ans": [6]},
+    {"lyric": "Nan nareul ara neon nareul jal molla",
+      "lyric_hangul": "난 나를 알아, 넌 나를 잘 몰라",
+      "lyric_translation": "",
+      "range": [87.9, 90.75], "ans": [6]},
+    {
+      "lyric_hangul": "난 겁에서 태어나, 겁 없이 말 위로 또 올라타",
+      "parts": [
+        {"lyric": "Nan geopeseo taeeona",
+          "range": [90.75, 92.27], "ans": [6]},
+        {"lyric": "Geop eopshi mal wiro tto ollata",
+          "range": [92.27, 93.95], "ans": [6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "My hands up, I keep’em high",
+      "lyric_hangul": "My hands up, I keep 'em high",
+      "lyric_translation": "",
+      "range": [93.51, 96.49], "ans": [9]},
+    {"lyric": "Duryeoun geon nae soge na",
+      "lyric_hangul": "두려운 건 내 속에 나",
+      "lyric_translation": "",
+      "range": [96.49, 99.47], "ans": [9]},
+    {"lyric": "Nae modeun geol geolgesseo nan",
+      "lyric_hangul": "내 모든 걸 걸겠어 난",
+      "lyric_translation": "",
+      "range": [99.47, 103.17], "ans": [13]},
+    {"lyric": "So I’mma light it up, light it up",
+      "lyric_hangul": "So I'ma light it up, light it up",
+      "lyric_translation": "",
+      "range": [103.17, 105.56], "ans": [13]},
+    "",
+    {"lyric": "I Just wanna feel the vibes",
+      "lyric_hangul": "I just wanna feel the vibes",
+      "lyric_translation": "",
+      "range": [105.56, 108.36], "ans": [11]},
+    {"lyric": "Modeun geol bultaeun bam",
+      "lyric_hangul": "모든 걸 불태운 밤",
+      "lyric_translation": "",
+      "range": [108.36, 111.45], "ans": [11]},
+    {"lyric": "Naega michyeodo joa",
+      "lyric_hangul": "내가 미쳐도 좋아",
+      "lyric_translation": "",
+      "range": [111.45, 114.86], "ans": [11]},
+    {"lyric": "Feeling like DON QUIXOTE",
+      "lyric_hangul": "Feeling like Don Quixote",
+      "lyric_translation": "",
+      "range": [114.86, 117.53], "ans": [11]},
+    "",
+    {
+      "lyric_hangul": "사람들은 손가락질해, it ain't real, it ain't real",
+      "parts": [
+        {"lyric": "Saramdeureun songarakjilhae",
+          "range": [117.53, 119.67], "ans": [12]},
+        {"lyric": "It ain’t real It ain’t real",
+          "range": [119.67, 121.65], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지 않아, it's real, it's real",
+      "parts": [
+        {"lyric": "Geommeokji ana",
+          "range": [121.65, 122.66], "ans": [12]},
+        {"lyric": "It’s real It’s real",
+          "range": [122.66, 124.63], "ans": [12]}
+      ]
+    },
+    {
+      "lyric_hangul": "미쳤다 해도 좋아, 내 모든 걸 불태운 밤",
+      "parts": [
+        {"lyric": "Michyeotta haedo joa",
+          "range": [124.63, 126.93], "ans": [4]},
+        {"lyric": "Nae modeun geol bultaeun bam",
+          "range": [126.93, 129.51], "ans": [4]}
+      ]
+    },
+    {"lyric": "So come and call me DON QUIXOTE",
+      "lyric_hangul": "So come and call me Don Quixote",
+      "lyric_translation": "",
+      "range": [129.45, 134.14], "ans": [4, 12]},
+    {"lyric": "Yeah, Don Quixote (ooh)",
+      "lyric_hangul": "Yeah, Don Quixote (ooh)",
+      "lyric_translation": "",
+      "range": [134.14, 140.22], "ans": []},
+    "",
+    {"lyric": "I Just wanna feel the vibes",
+      "lyric_hangul": "I just wanna feel the vibes",
+      "lyric_translation": "",
+      "range": [143.08, 146.13], "ans": [8]},
+    {"lyric": "Modeun geol bultaeun bam",
+      "lyric_hangul": "모든 걸 불태운 밤",
+      "lyric_translation": "",
+      "range": [146.13, 149.32], "ans": [8]},
+    {"lyric": "Naega michyeodo joa",
+      "lyric_hangul": "내가 미쳐도 좋아",
+      "lyric_translation": "",
+      "range": [149.32, 152.45], "ans": [8]},
+    {"lyric": "Feeling like DON QUIXOTE",
+      "lyric_hangul": "Feeling like Don Quixote",
+      "lyric_translation": "",
+      "range": [152.45, 155.1], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "사람들은 손가락질해, it ain't real, it ain't real",
+      "parts": [
+        {"lyric": "Saramdeureun songarakjilhae",
+          "range": [155.1, 157.29], "ans": [1]},
+        {"lyric": "It ain’t real It ain’t real",
+          "range": [157.29, 159.3], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "겁먹지 않아, it's real, it's real",
+      "parts": [
+        {"lyric": "Geommeokji ana",
+          "range": [159.3, 160.32], "ans": [1]},
+        {"lyric": "It’s real It’s real",
+          "range": [160.32, 162.49], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "미쳤다 해도 좋아, 내 모든 걸 불태운 밤",
+      "parts": [
+        {"lyric": "Michyeotta haedo joa",
+          "range": [162.49, 164.76], "ans": [3]},
+        {"lyric": "Nae modeun geol bultaeun bam",
+          "range": [164.76, 167.17], "ans": [3]}
+      ]
+    },
+    {"lyric": "So come and call me DON QUIXOTE",
+      "lyric_hangul": "So come and call me Don Quixote",
+      "lyric_translation": "",
+      "range": [167.04, 172.0], "ans": [1, 3]}
+  ]
+}
