@@ -1,0 +1,368 @@
+{
+  "name": "CHILLAX\r",
+  "ogg": "sound/kpop/chillax.ogg",
+  "id": "chillax",
+  "group": "twice",
+  "language": "ko",
+  "released": "2018-07-09",
+  "album": "Summer Nights",
+  "cover": "css/images/covers/chillax.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "바빠, 오늘은 피곤해, 입에 붙어버린 그 말",
+      "lyric_translation": "I’m busy, I’m tired today / You say them like a habit",
+      "parts": [
+        {"lyric": "Bappa oneureun pigonhae",
+          "range": [8.82, 11.32], "ans": [1]},
+        {"lyric": "Ibe buteobeorin geu mal",
+          "range": [11.32, 13.32], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ttak iljelman shwigo shipeunde",
+      "lyric_hangul": "딱 일주일만 쉬고 싶은데",
+      "lyric_translation": "I wanna rest for just a week",
+      "range": [12.97, 14.97], "ans": [1]},
+    {"lyric": "Eodironga tuk tteonago shipeunde",
+      "lyric_hangul": "어디론가 툭 떠나고 싶은데",
+      "lyric_translation": "I just wanna go somewhere unexpectedly",
+      "range": [14.97, 17.36], "ans": [1]},
+    "",
+    {"lyric": "Naega jipsuniin jul aneunde",
+      "lyric_hangul": "내가 집순이인 줄 아는데",
+      "lyric_translation": "I know I’m a homebody",
+      "range": [17.36, 19.82], "ans": [4]},
+    {"lyric": "Nado jalhae noneun geo shwineun geo jeongmal",
+      "lyric_hangul": "나도 잘해 노는 거, 쉬는 거, 정말",
+      "lyric_translation": "I’m good at playing and resting, for real",
+      "range": [19.82, 21.77], "ans": [6]},
+    {"lyric": "Eumak teureo noko chumchuneun geo",
+      "lyric_hangul": "음악 틀어 놓고 춤추는 거",
+      "lyric_translation": "Turning on the music and dancing",
+      "range": [21.77, 23.73], "ans": [4]},
+    {"lyric": "Suda tteoldaga bam saeneun geo",
+      "lyric_hangul": "수다 떨다가 밤 새는 거",
+      "lyric_translation": "Chatting the night away",
+      "range": [23.73, 26.5], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "반짝이는 파도, 타버릴 것만 같은 태양",
+      "lyric_translation": "Sparkling waves / The burning sun",
+      "parts": [
+        {"lyric": "Banjjagineun pado",
+          "range": [26.5, 28.33], "ans": [5]},
+        {"lyric": "Tabeoril geonman gateun taeyang",
+          "range": [28.33, 30.46], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "떠날 거야 갈 거야 말리지마 갈 거야",
+      "lyric_translation": "I’m gonna leave, I’m gonna go / No one hold me back, I’m gonna go",
+      "parts": [
+        {"lyric": "Tteonal kkeoya gal kkeoya",
+          "range": [30.07, 31.79], "ans": [4]},
+        {"lyric": "Malliji ma gal kkeoya",
+          "range": [31.79, 34.26], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "여행이 아니라도 아무 생각 없이 쉴래",
+      "lyric_translation": "Even if it’s not traveling / I wanna rest with no thoughts",
+      "parts": [
+        {"lyric": "Yeohaengi anirado",
+          "range": [34.26, 36.98], "ans": [9]},
+        {"lyric": "Amu saenggak eopshi shwillae",
+          "range": [36.98, 39.32], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "지쳐 버리기 전에 나 충전이 필요해",
+      "lyric_translation": "I need to recharge / Before I get exhausted",
+      "parts": [
+        {"lyric": "Jicheo beorigi jeone na",
+          "range": [38.92, 41.36], "ans": [5]},
+        {"lyric": "Chungjeoni piryohae",
+          "range": [41.36, 43.56], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Nae mami malhae jom cheoncheonhi geotgo shipdae",
+      "lyric_hangul": "내 맘이 말해, 좀 천천히 걷고 싶대",
+      "lyric_translation": "My heart tells me, I want to walk a little slower",
+      "range": [43.54, 48.05], "ans": [5]},
+    {"lyric": "Dorabol shigani piryohae",
+      "lyric_hangul": "돌아볼 시간이 필요해",
+      "lyric_translation": "I need time to reflect",
+      "range": [48.05, 52.71], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "오늘 하루만 아무것도, 생각 안할래 아무것도",
+      "lyric_translation": "I want to think nothing / Just for today, nothing",
+      "parts": [
+        {"lyric": "Oneul haruman amugeotto",
+          "range": [52.71, 54.94], "ans": [1]},
+        {"lyric": "Saenggak anhallae amugeotto",
+          "range": [54.94, 56.89], "ans": [1]}
+      ]
+    },
+    {"lyric": "Just chill and chill and relax-lax",
+      "lyric_hangul": "Just chill and chill and relax-lax",
+      "lyric_translation": "Just chill and chill and relax-lax",
+      "range": [56.78, 59.26], "ans": []},
+    {"lyric": "Chill and chill and relax-lax",
+      "lyric_hangul": "Chill and chill and relax-lax",
+      "lyric_translation": "Chill and chill and relax-lax",
+      "range": [59.26, 61.56], "ans": []},
+    {
+      "lyric_hangul": "오늘 할 일은 내일로, 내일 할 일은 모레로",
+      "lyric_translation": "Push today’s chores to tomorrow / And tomorrow’s chores to the day after",
+      "parts": [
+        {"lyric": "Oneul hal ireun naeillo",
+          "range": [61.56, 63.83], "ans": [1]},
+        {"lyric": "Naeil hal ireun morero",
+          "range": [63.83, 65.84], "ans": [1]}
+      ]
+    },
+    {"lyric": "Just chill and chill and relax-lax",
+      "lyric_hangul": "Just chill and chill and relax-lax",
+      "lyric_translation": "Just chill and chill and relax-lax",
+      "range": [65.62, 67.98], "ans": []},
+    {"lyric": "Chill and chill and relax-lax",
+      "lyric_hangul": "Chill and chill and relax-lax",
+      "lyric_translation": "Chill and chill and relax-lax",
+      "range": [67.98, 70.61], "ans": []},
+    {"lyric": "Yeah, boy",
+      "lyric_hangul": "Yeah, boy",
+      "lyric_translation": "",
+      "range": [70.61, 72.08], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Hold on, 잠깐만 하던 거 다 멈춰봐",
+      "lyric_translation": "Hold on / Stop everything you were doing for a minute",
+      "parts": [
+        {"lyric": "Hold on",
+          "range": [72.08, 73.17], "ans": [8]},
+        {"lyric": "Jamkkanman hadeon geo da meomchweo bwa",
+          "range": [73.17, 74.68], "ans": [8]}
+      ]
+    },
+    {"lyric": "Sone deulgo itteon jeonhwagim jamshi naeryeonwa",
+      "lyric_hangul": "손에 들고 있던 전화기 잠시 내려놔",
+      "lyric_translation": "Put down the phone in your hand for a second",
+      "range": [74.34, 76.52], "ans": [7]},
+    {"lyric": "Don’t think about anything",
+      "lyric_hangul": "Don't think about anything",
+      "lyric_translation": "Don’t think about anything",
+      "range": [76.52, 79.01], "ans": [3, 9]},
+    {"lyric": "Don’t worry then you’ll be happy",
+      "lyric_hangul": "Don't worry, then you'll be happy",
+      "lyric_translation": "Don’t worry then you’ll be happy",
+      "range": [79.01, 80.88], "ans": [3, 9]},
+    "",
+    {"lyric": "Geunyang naepdweo naepdweo",
+      "lyric_hangul": "그냥 냅둬 냅둬",
+      "lyric_translation": "Just leave it, leave it be",
+      "range": [80.88, 82.3], "ans": [3]},
+    {
+      "lyric_hangul": "흘러가는 대로 잠시만 아무 생각 말고",
+      "lyric_translation": "Let it flow for a minute / Without a thought",
+      "parts": [
+        {"lyric": "Heulleoganeun daero",
+          "range": [82.3, 83.7], "ans": [8]},
+        {"lyric": "Jamshiman amu saenggak malgo",
+          "range": [83.7, 85.82], "ans": [8]}
+      ]
+    },
+    {"lyric": "Naepdweo naepdweo",
+      "lyric_hangul": "냅둬 냅둬",
+      "lyric_translation": "Leave it, leave it be",
+      "range": [85.55, 86.75], "ans": [3]},
+    {
+      "lyric_hangul": "아빠도 말했어 인생은 즐기는거라고",
+      "lyric_translation": "Dad told me that life is / Meant to be enjoyed",
+      "parts": [
+        {"lyric": "Appado malhaesseo",
+          "range": [86.75, 88.03], "ans": [7]},
+        {"lyric": "Insaengeun jeulgineungeorago",
+          "range": [88.03, 90.19], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Nae mami malhae jom cheoncheonhi geotgo shipdae",
+      "lyric_hangul": "내 맘이 말해, 좀 천천히 걷고 싶대",
+      "lyric_translation": "My heart tells me, I want to walk a little slower",
+      "range": [90.19, 94.25], "ans": [5]},
+    {"lyric": "Dorabol shigani piryohae",
+      "lyric_hangul": "돌아볼 시간이 필요해",
+      "lyric_translation": "I need time to reflect",
+      "range": [94.25, 98.96], "ans": [2]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "오늘 하루만 아무것도, 생각 안할래 아무것도",
+      "lyric_translation": "I want to think nothing / Just for today, nothing",
+      "parts": [
+        {"lyric": "Oneul haruman amugeotto",
+          "range": [98.96, 101.2], "ans": [1]},
+        {"lyric": "Saenggak anhallae amugeotto",
+          "range": [101.2, 103.14], "ans": [1]}
+      ]
+    },
+    {"lyric": "Just chill and chill and relax-lax",
+      "lyric_hangul": "Just chill and chill and relax-lax",
+      "lyric_translation": "Just chill and chill and relax-lax",
+      "range": [103.01, 105.32], "ans": []},
+    {"lyric": "Chill and chill and relax-lax",
+      "lyric_hangul": "Chill and chill and relax-lax",
+      "lyric_translation": "Chill and chill and relax-lax",
+      "range": [105.32, 107.93], "ans": []},
+    {
+      "lyric_hangul": "오늘 할 일은 내일로, 내일 할 일은 모레로",
+      "lyric_translation": "Push today’s chores to tomorrow / And tomorrow’s chores to the day after",
+      "parts": [
+        {"lyric": "Oneul hal ireun naeillo",
+          "range": [107.93, 110.06], "ans": [1]},
+        {"lyric": "Naeil hal ireun morero",
+          "range": [110.06, 112.09], "ans": [1]}
+      ]
+    },
+    {"lyric": "Just chill and chill and relax-lax",
+      "lyric_hangul": "Just chill and chill and relax-lax",
+      "lyric_translation": "Just chill and chill and relax-lax",
+      "range": [111.81, 114.03], "ans": []},
+    {"lyric": "Chill and chill and relax-lax",
+      "lyric_hangul": "Chill and chill and relax-lax",
+      "lyric_translation": "Chill and chill and relax-lax",
+      "range": [114.03, 117.36], "ans": []},
+    "",
+    {"lyric": "Gakkeumeun nado himdeureo",
+      "lyric_hangul": "가끔은 나도 힘들어 가끔은 나도",
+      "lyric_translation": "It’s hard for me sometimes, sometimes I",
+      "range": [117.36, 120.82], "ans": [4]},
+    {
+      "lyric_hangul": "아무 생각 안할래 쉴 틈 없이 달렸잖아",
+      "lyric_translation": "Don’t want to think anything / I’ve been running with no breaks",
+      "parts": [
+        {"lyric": "Gakkeumeun nado amu saenggak anhallae",
+          "range": [120.82, 123.8], "ans": [4]},
+        {"lyric": "Shwil teum eopshi dallyeotjana",
+          "range": [123.8, 125.53], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 맘이 시키는대로 복잡한 생각 미루고",
+      "lyric_translation": "Procrastinate complicated thoughts / As my mind tells me to, I wanna become lazy",
+      "parts": [
+        {"lyric": "Nae mami shikineundaero",
+          "range": [125.53, 127.19], "ans": [1]},
+        {"lyric": "Bokjapan saenggak mirugo geeulleo jeobollae",
+          "range": [127.19, 130.44], "ans": [1]}
+      ]
+    },
+    {"lyric": "Let me, let me be myself",
+      "lyric_hangul": "게을러 져볼래 let me, let me be myself",
+      "lyric_translation": "Let me, let me be myself",
+      "range": [130.44, 136.07], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "날 찾고 싶어 나도 날 돌아볼 시간이 필요해",
+      "lyric_translation": "I want to find myself / I need time to reflect back on myself",
+      "parts": [
+        {"lyric": "Nal chatgo shipeo nado nal",
+          "range": [136.07, 138.77], "ans": [2]},
+        {"lyric": "Dorabol shigani piryohae",
+          "range": [138.77, 143.25], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ooh, whoa-ah, oh, yeah",
+      "lyric_hangul": "Ooh, whoa-ah, oh, yeah",
+      "lyric_translation": "",
+      "range": [143.25, 145.29], "ans": []},
+    "",
+    {
+      "lyric_hangul": "오늘 하루만 아무것도, 생각 안할래 아무것도",
+      "lyric_translation": "I want to think nothing / Just for today, nothing",
+      "parts": [
+        {"lyric": "Oneul haruman amugeotto",
+          "range": [145.29, 147.44], "ans": [1]},
+        {"lyric": "Saenggak anhallae amugeotto",
+          "range": [147.44, 149.35], "ans": [1]}
+      ]
+    },
+    {"lyric": "Just chill and chill and relax-lax",
+      "lyric_hangul": "Just chill and chill and relax-lax",
+      "lyric_translation": "Just chill and chill and relax-lax",
+      "range": [149.29, 151.6], "ans": []},
+    {"lyric": "Chill and chill and relax-lax",
+      "lyric_hangul": "Chill and chill and relax-lax",
+      "lyric_translation": "Chill and chill and relax-lax",
+      "range": [151.6, 154.12], "ans": []},
+    {
+      "lyric_hangul": "오늘 할 일은 내일로, 내일 할 일은 모레로",
+      "lyric_translation": "Push today’s chores to tomorrow / And tomorrow’s chores to the day after",
+      "parts": [
+        {"lyric": "Oneul hal ireun naeillo",
+          "range": [154.12, 156.29], "ans": [1]},
+        {"lyric": "Naeil hal ireun morero",
+          "range": [156.29, 158.55], "ans": [1]}
+      ]
+    },
+    {"lyric": "Just chill and chill and relax-lax",
+      "lyric_hangul": "Just chill and chill and relax-lax (baby)",
+      "lyric_translation": "Just chill and chill and relax-lax",
+      "range": [158.55, 160.91], "ans": []},
+    {"lyric": "Chill and chill and relax-lax",
+      "lyric_hangul": "Chill and chill and relax-lax (oh, my God)",
+      "lyric_translation": "Chill and chill and relax-lax",
+      "range": [160.91, 163.05], "ans": []},
+    "",
+    {
+      "lyric_hangul": "바다가 있는 곳이라면 어디든 좋아",
+      "lyric_translation": "Anywhere with the sea / Works for me",
+      "parts": [
+        {"lyric": "Badaga inneun goshiramyeon",
+          "range": [163.05, 166.03], "ans": [3, 9]},
+        {"lyric": "Eodideun joa",
+          "range": [166.03, 167.54], "ans": [3, 9]}
+      ]
+    },
+    {
+      "lyric_hangul": "반짝이는 파도 치는 곳, 타버릴 것만 같은 햇살도 (I love it)",
+      "lyric_translation": "Where the sparkling waves crash / The burning sunlight",
+      "parts": [
+        {"lyric": "Banjjagineun pado chineun got",
+          "range": [167.54, 169.52], "ans": [8]},
+        {"lyric": "Tabeoril geonman gateun haessaldo",
+          "range": [169.52, 172.46], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 맘이 이끄는 곳이라면 어디든 좋아",
+      "lyric_translation": "As long as it’s where my mind takes me / Anywhere is fine",
+      "parts": [
+        {"lyric": "Nae mami ikkeuneun goshiramyeon",
+          "range": [171.5, 174.78], "ans": [3, 9]},
+        {"lyric": "Eodideun joa",
+          "range": [174.78, 176.4], "ans": [3, 9]}
+      ]
+    },
+    {
+      "lyric_hangul": "떠나고 싶어, 숨 쉬고 싶어",
+      "lyric_translation": "I want to leave, I want to breathe",
+      "parts": [
+        {"lyric": "Tteonago shipeo",
+          "range": [176.4, 177.8], "ans": [1]},
+        {"lyric": "Sum shwigo shipeo",
+          "range": [177.1, 178.58], "ans": [5]}
+      ]
+    },
+    {"lyric": "Nanana just chilllax",
+      "lyric_hangul": "나나나 just chilllax",
+      "lyric_translation": "Nanana just chilllax",
+      "range": [178.27, 182.91], "ans": [1]}
+  ]
+}

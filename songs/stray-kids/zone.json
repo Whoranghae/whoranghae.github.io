@@ -1,0 +1,341 @@
+{
+  "name": "ZONE\r",
+  "ogg": "sound/kpop/zone.ogg",
+  "id": "zone",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2022-12-21",
+  "album": "SKZ-REPLAY",
+  "cover": "css/images/covers/zone.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "여 난 매일 해 뜨면 더 level up 해",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "Yeo",
+          "range": [14.36, 29.4], "ans": [3]},
+        {"lyric": "Nan maeil hae tteumyeon deo level up hae",
+          "range": [29.25, 31.55], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Ma zone like a kingdom Odin",
+      "lyric_hangul": "Ma zone like a kingdom Odin",
+      "lyric_translation": "",
+      "range": [30.92, 32.34], "ans": [5]},
+    {"lyric": "Nae guyeogeseo noljima beoryeo meotburim sen cheokhaji ma",
+      "lyric_hangul": "내 구역에서 놀지마 버려 멋부림 센 척하지 마",
+      "lyric_translation": "",
+      "range": [32.34, 35.1], "ans": [5]},
+    {"lyric": "Geurae through that jonshim",
+      "lyric_hangul": "그래 through that 존심",
+      "lyric_translation": "",
+      "range": [35.1, 36.37], "ans": [5]},
+    {"lyric": "3RACHA make dolpung, nuga shwipge ogesseo",
+      "lyric_hangul": "3RACHA make 돌풍, 누가 쉽게 오겠어",
+      "lyric_translation": "",
+      "range": [36.37, 38.53], "ans": [5]},
+    {"lyric": "Yeogin nobody body can touch this",
+      "lyric_hangul": "여긴 nobody body can touch this",
+      "lyric_translation": "",
+      "range": [38.53, 39.73], "ans": [5]},
+    {
+      "lyric_hangul": "일단 여기에서 말할게 오지 마 여긴 우리 자리니까 whoooo",
+      "parts": [
+        {"lyric": "Ildan yeogieseo malhalge oji ma",
+          "range": [39.73, 43.42], "ans": [5]},
+        {"lyric": "Yeogin uri jarinikka whoooo",
+          "range": [43.42, 44.53], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Nuga tto uri guyeoge waseo ey",
+      "lyric_hangul": "누가 또 우리 구역에 와서 ey",
+      "lyric_translation": "",
+      "range": [44.53, 46.65], "ans": [5]},
+    {"lyric": "Haengpaereul buryeo inome jaseuk ey",
+      "lyric_hangul": "행패를 부려 이놈의 자슥 ey",
+      "lyric_translation": "",
+      "range": [46.65, 48.23], "ans": [5]},
+    {"lyric": "Hana deo neulgetgun sheikseupieoye bigeuk",
+      "lyric_hangul": "하나 더 늘겠군 셰익스피어의 비극",
+      "lyric_translation": "",
+      "range": [48.23, 50.04], "ans": [5]},
+    {"lyric": "Jigeumirado naganeun ge eottaeyo babe",
+      "lyric_hangul": "지금이라도 나가는 게 어때요 babe",
+      "lyric_translation": "",
+      "range": [50.04, 52.15], "ans": [5]},
+    {
+      "lyric_hangul": "Y'all already know that 몇 달간 밤새워서 만든 우리만의 요새를",
+      "parts": [
+        {"lyric": "Y’all already know that",
+          "range": [52.15, 53.33], "ans": [5]},
+        {"lyric": "Myeot dalgan bamsaeweoseo mandeun urimane yosaereul",
+          "range": [53.33, 55.17], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "딴 놈에게 뺏길 수는 없잖아 그래서 이 악물고 지키는 거야",
+      "parts": [
+        {"lyric": "Ttan nomege ppaetgil suneun eopjana",
+          "range": [54.75, 56.55], "ans": [5]},
+        {"lyric": "Geuraeseo i angmulgo jikineun geoya",
+          "range": [56.55, 57.85], "ans": [5]}
+      ]
+    },
+    {"lyric": "Nuga mweoraedo I will always protect",
+      "lyric_hangul": "누가 뭐래도 I will always protect",
+      "lyric_translation": "",
+      "range": [57.08, 59.71], "ans": [5]},
+    "",
+    {"lyric": "Nan maeiri jeonjaeng hangshi daegihaneun gonggyeok jase",
+      "lyric_hangul": "난 매일이 전쟁 항시 대기하는 공격 자세",
+      "lyric_translation": "",
+      "range": [59.71, 61.68], "ans": [5]},
+    {"lyric": "Ama i mareun heosero deullil sudo itgetjiman",
+      "lyric_hangul": "아마 이 말은 허세로 들릴 수도 있겠지만",
+      "lyric_translation": "",
+      "range": [61.68, 63.29], "ans": [5]},
+    {"lyric": "Da mureotteudeo beoryeo beoryeo beoryeo sanapge",
+      "lyric_hangul": "다 물어뜯어 버려 버려 버려 사납게",
+      "lyric_translation": "",
+      "range": [63.29, 65.73], "ans": [5]},
+    {
+      "lyric_hangul": "으르렁대고 재껴 매섭게 날려 잽을 뺏어",
+      "parts": [
+        {"lyric": "Eureureongdaego jaekkyeo",
+          "range": [65.73, 67.22], "ans": [5]},
+        {"lyric": "Maeseopge nallyeo jaebeul ppaeseo",
+          "range": [67.22, 68.54], "ans": [5]}
+      ]
+    },
+    {"lyric": "Nae ttangeul dashi take it back to me ttaekttaek",
+      "lyric_hangul": "내 땅을 다시 take it back to me 땍땍",
+      "lyric_translation": "",
+      "range": [67.65, 70.09], "ans": [5]},
+    {
+      "lyric_hangul": "거려봤자 I don't give a what 묵묵히 자리 지켜내 zone",
+      "parts": [
+        {"lyric": "Georyeobwatja I don’t give a what",
+          "range": [70.09, 71.55], "ans": [5]},
+        {"lyric": "Mukmukhi jari jikyeonae zone",
+          "range": [71.55, 74.24], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I look up ahead, nobody, nobody can't stop me",
+      "parts": [
+        {"lyric": "I look up ahead, nobody",
+          "range": [74.24, 76.78], "ans": [1]},
+        {"lyric": "Nobody can’t stop me",
+          "range": [76.78, 78.38], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll show you the way so follow my, follow my lead ey",
+      "parts": [
+        {"lyric": "I’ll show you the way so follow my",
+          "range": [78.38, 80.29], "ans": [1]},
+        {"lyric": "Follow my lead ey",
+          "range": [80.29, 81.41], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "야 남들과는 다르게 (다르게), 야 누구보다 새롭게",
+      "parts": [
+        {"lyric": "Ya namdeulgwaneun dareuge",
+          "range": [81.41, 83.39], "ans": [5]},
+        {"lyric": "(dareuge)",
+          "range": [82.91, 84.3], "ans": [1]},
+        {"lyric": "Ya nuguboda saeropge",
+          "range": [83.6, 85.23], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ey hold up, hold up",
+      "lyric_hangul": "Ey hold up, hold up",
+      "lyric_translation": "",
+      "range": [85.14, 86.59], "ans": [1]},
+    "",
+    {"lyric": "Can’t you see I’m in my ZONE",
+      "lyric_hangul": "Can't you see I'm in my ZONE",
+      "lyric_translation": "",
+      "range": [86.59, 94.03], "ans": [1]},
+    {
+      "lyric_hangul": "Can't you see I'm in my ZONE",
+      "parts": [
+        {"lyric": "Can’t you see I’m in my ZONE",
+          "range": [94.03, 95.85], "ans": [1]},
+        {"lyric": "(Can’t you see I’m in)",
+          "range": [95.15, 101.62], "ans": []}
+      ]
+    },
+    {"lyric": "(Can't you see I'm in)",
+      "lyric_hangul": "(Can't you see I'm in)",
+      "lyric_translation": "",
+      "range": [101.62, 103.24], "ans": []},
+    "",
+    {"lyric": "Kia Rite! Kia Rite! Kia Rite! A, upane! Ha!",
+      "lyric_hangul": "Kia Rite! Kia Rite! Kia Rite! A, upane! Ha!",
+      "lyric_translation": "",
+      "range": [103.24, 110.95], "ans": [1]},
+    {"lyric": "Kia Rite! Kia Rite! Kia Rite! Ka, upane! Ha!",
+      "lyric_hangul": "Kia Rite! Kia Rite! Kia Rite! Ka, upane! Ha!",
+      "lyric_translation": "",
+      "range": [110.95, 119.65], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Da jal ttae daraolla nae ilteo",
+      "lyric_hangul": "다 잘 때 달아올라 내 일터",
+      "lyric_translation": "",
+      "range": [119.65, 123.05], "ans": [3]},
+    {"lyric": "Eoduun doshim sok dakeunaiteu",
+      "lyric_hangul": "어두운 도심 속 다크나이트",
+      "lyric_translation": "",
+      "range": [123.05, 125.54], "ans": [3]},
+    {"lyric": "Habi denteuye banjjok SPEARBe dongjeon deonjigi nori",
+      "lyric_hangul": "하비 덴트의 반쪽 SPEARB의 동전 던지기 놀이",
+      "lyric_translation": "",
+      "range": [125.54, 128.74], "ans": [3]},
+    {"lyric": "Nae dongjeoneun baekpeuro killing nae beolseureul jugyeo",
+      "lyric_hangul": "내 동전은 백프로 killing 내 벌스를 죽여",
+      "lyric_translation": "",
+      "range": [128.74, 131.26], "ans": [3]},
+    {"lyric": "Sucheonman daejunge gwireul billyeo nae moksoril moniteo",
+      "lyric_hangul": "수천만 대중의 귀를 빌려 내 목소릴 모니터",
+      "lyric_translation": "",
+      "range": [131.26, 132.84], "ans": [3]},
+    "",
+    {"lyric": "Naega deureodo joa soricheo",
+      "lyric_hangul": "내가 들어도 좋아 소리쳐",
+      "lyric_translation": "",
+      "range": [132.84, 134.93], "ans": [3]},
+    {"lyric": "Igeoboda naeun geon eopseo nothing better",
+      "lyric_hangul": "이거보다 나은 건 없어 nothing better",
+      "lyric_translation": "",
+      "range": [134.93, 136.41], "ans": [3]},
+    {"lyric": "My zone igoseseo heeomchyeo",
+      "lyric_hangul": "My zone 이곳에서 헤엄쳐",
+      "lyric_translation": "",
+      "range": [136.41, 138.04], "ans": [3]},
+    {"lyric": "Jeulgeoumyeon dwaetji mweol deo barae deo an barae",
+      "lyric_hangul": "즐거우면 됐지 뭘 더 바래 더 안 바래",
+      "lyric_translation": "",
+      "range": [138.04, 139.46], "ans": [3]},
+    {"lyric": "Ain’t nobody do it like this nan diseu mothae",
+      "lyric_hangul": "Ain't nobody do it like this 난 디스 못해",
+      "lyric_translation": "",
+      "range": [139.46, 141.46], "ans": [3]},
+    {"lyric": "Na seuseuro diseu anin jageommulgwa pideubaek",
+      "lyric_hangul": "나 스스로 디스 아닌 작업물과 피드백",
+      "lyric_translation": "",
+      "range": [141.46, 143.49], "ans": [3]},
+    {
+      "lyric_hangul": "주고받아 매일이 난 비슷해 지겹단 의미보단 긍정의 의미야 왜냐 매일 축복받아 ey",
+      "parts": [
+        {"lyric": "Jugobada maeiri nan biseuthae",
+          "range": [143.49, 145.25], "ans": [3]},
+        {"lyric": "Jigyeopdan uimibodan geungjeonge uimiya",
+          "range": [145.25, 147.11], "ans": [3]},
+        {"lyric": "Waenya maeil chukbokbada ey",
+          "range": [147.11, 149.11], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nae gokdeureul bwara uh",
+      "lyric_hangul": "내 곡들을 봐라 uh",
+      "lyric_translation": "",
+      "range": [149.11, 151.37], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "위험해 We don't play 진지하게 한번 가보는 이번 track",
+      "parts": [
+        {"lyric": "Wiheomhae We don’t play",
+          "range": [151.37, 152.63], "ans": [3]},
+        {"lyric": "Jinjihage hanbeon gaboneun ibeon track",
+          "range": [152.63, 155.11], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "아무런 이유 없인 갈 필요 없어 아무런 이유 없인 살 필요 없어",
+      "parts": [
+        {"lyric": "Amureon iyu eopshin gal piryo eopseo",
+          "range": [155.1, 157.04], "ans": [3]},
+        {"lyric": "Amureon iyu eopshin sal piryo eopseo",
+          "range": [157.04, 158.9], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geunde naega ganeun de isseo naega saneun de isseo",
+      "lyric_hangul": "근데 내가 가는 데 있어 내가 사는 데 있어",
+      "lyric_translation": "",
+      "range": [158.66, 160.56], "ans": [3]},
+    {"lyric": "Iyuga chungbunhada mothae neomchyeo",
+      "lyric_hangul": "이유가 충분하다 못해 넘쳐",
+      "lyric_translation": "",
+      "range": [160.56, 163.01], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "I look up ahead, nobody, nobody can't stop me",
+      "parts": [
+        {"lyric": "I look up ahead, nobody",
+          "range": [163.01, 165.39], "ans": [1]},
+        {"lyric": "Nobody can’t stop me",
+          "range": [165.39, 166.97], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll show you the way so follow my, follow my lead ey",
+      "parts": [
+        {"lyric": "I’ll show you the way",
+          "range": [166.97, 168.39], "ans": [1]},
+        {"lyric": "So follow my, follow my lead ey",
+          "range": [168.39, 170.15], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "야 남들과는 다르게 (다르게), 야 누구보다 새롭게",
+      "parts": [
+        {"lyric": "Ya namdeulgwaneun dareuge",
+          "range": [170.15, 172.01], "ans": [5]},
+        {"lyric": "(dareuge)",
+          "range": [171.57, 172.92], "ans": [1]},
+        {"lyric": "Ya nuguboda saeropge",
+          "range": [172.22, 173.89], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ey hold up, hold up",
+      "lyric_hangul": "Ey hold up, hold up",
+      "lyric_translation": "",
+      "range": [173.46, 175.17], "ans": [1]},
+    "",
+    {"lyric": "Can’t you see I’m in my ZONE",
+      "lyric_hangul": "Can't you see I'm in my ZONE",
+      "lyric_translation": "",
+      "range": [175.17, 182.57], "ans": [1]},
+    {
+      "lyric_hangul": "Can't you see I'm in my ZONE",
+      "parts": [
+        {"lyric": "Can’t you see I’m in my ZONE",
+          "range": [182.57, 184.52], "ans": [1]},
+        {"lyric": "(Can’t you see I’m in)",
+          "range": [183.82, 190.04], "ans": []}
+      ]
+    },
+    {"lyric": "(Can't you see I'm in)",
+      "lyric_hangul": "(Can't you see I'm in)",
+      "lyric_translation": "",
+      "range": [190.04, 191.86], "ans": []},
+    "",
+    {"lyric": "Kia Rite! Kia Rite! Kia Rite! A, upane! Ha!",
+      "lyric_hangul": "Kia Rite! Kia Rite! Kia Rite! A, upane! Ha!",
+      "lyric_translation": "",
+      "range": [191.86, 199.2], "ans": [1]},
+    {"lyric": "Kia Rite! Kia Rite! Kia Rite! Ka, upane! Ha!",
+      "lyric_hangul": "Kia Rite! Kia Rite! Kia Rite! Ka, upane! Ha!",
+      "lyric_translation": "",
+      "range": [199.2, 208.9], "ans": [1]}
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "name": "RUSH\r",
+  "ogg": "sound/kpop/rush.ogg",
+  "id": "rush",
+  "group": "twice",
+  "language": "ko",
+  "released": "2024-02-23",
+  "album": "With YOU-th",
+  "cover": "css/images/covers/rush.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:40Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [3.03, 7.38], "ans": []},
+    {
+      "lyric_hangul": "Gotta push, push my phone 네가 알아채기 전까지",
+      "lyric_translation": "Gotta push push my phone / Until you notice",
+      "parts": [
+        {"lyric": "Gotta push push my phone",
+          "range": [7.38, 8.62], "ans": [8]},
+        {"lyric": "Nega arachaegi jeonkkaji",
+          "range": [8.62, 10.26], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "간단히 emoji",
+      "lyric_translation": "Just a simple Emoji / Exactly 5 minutes later",
+      "parts": [
+        {"lyric": "Gandanhi Emoji",
+          "range": [10.26, 10.66], "ans": [8]},
+        {"lyric": "Jeonghwaki obun dwi",
+          "range": [10.66, 11.78], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 기분을 물어? 오늘은 뭘 하는지?",
+      "lyric_translation": "Ask how I’m feeling / What I’m doing today",
+      "parts": [
+        {"lyric": "Nae gibuneul mureo",
+          "range": [13.69, 15.45], "ans": [3]},
+        {"lyric": "Oneureun mweol haneunji",
+          "range": [15.45, 17.33], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "소심하기는 'Know what we need to do",
+      "lyric_translation": "Being timid / Know what we need to do",
+      "parts": [
+        {"lyric": "Soshimhagineun",
+          "range": [17.33, 18.59], "ans": [3]},
+        {"lyric": "Know what we need to do",
+          "range": [18.59, 20.2], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I don't wanna complicate it (no)",
+      "lyric_translation": "I don’t want to complicate it",
+      "parts": [
+        {"lyric": "(I)",
+          "range": [20.2, 20.96], "ans": [6]},
+        {"lyric": "Don’t wanna complicate it",
+          "range": [20.26, 23.87], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "보고 싶은걸 알고 싶어 time and place, place",
+      "lyric_translation": "I want to know if you want to see me / Time and place, place",
+      "parts": [
+        {"lyric": "Bogo shipeungeol",
+          "range": [23.87, 25.32], "ans": [7]},
+        {"lyric": "Algo shipeo",
+          "range": [24.62, 25.97], "ans": [2]},
+        {"lyric": "Time and place place",
+          "range": [25.97, 27.82], "ans": [2]}
+      ]
+    },
+    {"lyric": "I won’t wait wait",
+      "lyric_hangul": "I won't wait, wait",
+      "lyric_translation": "I won’t wait, wait",
+      "range": [27.82, 28.73], "ans": [2]},
+    {"lyric": "Let’s misbehave-have",
+      "lyric_hangul": "Let's misbehave-have",
+      "lyric_translation": "Let’s misbehave, have",
+      "range": [28.73, 31.44], "ans": [2]},
+    {"lyric": "You know I need to",
+      "lyric_hangul": "You know I need to",
+      "lyric_translation": "You know I need to",
+      "range": [31.44, 33.23], "ans": [5]},
+    "",
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush",
+      "range": [33.23, 34.64], "ans": [4]},
+    {"lyric": "Drive me crazy and I know",
+      "lyric_hangul": "Drive me crazy and I know",
+      "lyric_translation": "Drive me crazy and I know",
+      "range": [34.64, 36.27], "ans": [4]},
+    {
+      "lyric_hangul": "I just can't get enough",
+      "lyric_translation": "I just can’t get enough / I just can’t get enough",
+      "parts": [
+        {"lyric": "I just can’t get enough",
+          "range": [36.27, 37.98], "ans": [4]},
+        {"lyric": "I just can’t get enough",
+          "range": [37.28, 39.76], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush / I need to feel your rush",
+      "parts": [
+        {"lyric": "I need to feel your rush",
+          "range": [39.76, 41.37], "ans": [9]},
+        {"lyric": "I need to feel your rush",
+          "range": [40.67, 41.86], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "When you're not next to me, I",
+      "lyric_translation": "When you’re not next to me / When you’re not next to me",
+      "parts": [
+        {"lyric": "When you’re not next to me",
+          "range": [41.86, 42.69], "ans": [9]},
+        {"lyric": "When you’re not next to me",
+          "range": [41.99, 43.64], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm running out of love (love, love, love, love)",
+      "lyric_translation": "I- I’m running out of love / (Love love love love) / I- I’m running out of love",
+      "parts": [
+        {"lyric": "I- I’m running out of love",
+          "range": [43.36, 44.75], "ans": [9]},
+        {"lyric": "(Love love love love)",
+          "range": [44.05, 46.0], "ans": [5]},
+        {"lyric": "I- I’m running out of love",
+          "range": [45.3, 46.43], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Hours and hours, 나 지금 어떡해? Baby",
+      "lyric_translation": "Hours and hours / What should I do now, baby",
+      "parts": [
+        {"lyric": "Hours and hours",
+          "range": [46.31, 47.93], "ans": [1]},
+        {"lyric": "Na jigeum eotteokae Baby",
+          "range": [47.93, 49.61], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Nunchi eopshi nega piryohae ppalli",
+      "lyric_hangul": "눈치 없이 네가 필요해 빨리",
+      "lyric_translation": "Obliviously, I need you quickly",
+      "range": [49.34, 53.04], "ans": [1]},
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush",
+      "range": [53.04, 54.62], "ans": [5]},
+    {"lyric": "Drive me crazy and I know",
+      "lyric_hangul": "Drive me crazy and I know",
+      "lyric_translation": "Drive me crazy and I know",
+      "range": [54.62, 56.16], "ans": [5]},
+    {"lyric": "I just can’t get enough",
+      "lyric_hangul": "I just can't get enough",
+      "lyric_translation": "I just can’t get enough",
+      "range": [56.16, 59.68], "ans": [5]},
+    {"lyric": "Piryohan geon mweodeun dama",
+      "lyric_hangul": "필요한 건 뭐든 담아",
+      "lyric_translation": "Pack whatever is needed",
+      "range": [59.68, 61.2], "ans": [7]},
+    {"lyric": "Uri dulmane Secret tema",
+      "lyric_hangul": "우리 둘만의 secret 테마",
+      "lyric_translation": "Our own secret theme",
+      "range": [61.2, 62.86], "ans": [7]},
+    {"lyric": "Close my eyes, turn around",
+      "lyric_hangul": "Close my eyes, turn around",
+      "lyric_translation": "Close my eyes, turn around",
+      "range": [62.86, 64.75], "ans": [6]},
+    {"lyric": "And you come hold me tight",
+      "lyric_hangul": "And you come hold me tight",
+      "lyric_translation": "And you come hold me tight",
+      "range": [64.75, 66.15], "ans": [6]},
+    "",
+    {"lyric": "9 to 9 you’re on my mind all day",
+      "lyric_hangul": "Nine to nine, you're on my mind all day",
+      "lyric_translation": "9 to 9 you’re on my mind all day",
+      "range": [66.15, 67.81], "ans": [5]},
+    {"lyric": "You’re my world and my sweet escape",
+      "lyric_hangul": "You're my world and my sweet escape",
+      "lyric_translation": "You’re my world and my sweet escape",
+      "range": [67.81, 69.11], "ans": [5]},
+    {"lyric": "Take my hand and let’s run away",
+      "lyric_hangul": "Take my hand and let's run away",
+      "lyric_translation": "Take my hand and let’s run away",
+      "range": [69.11, 71.41], "ans": [5]},
+    {"lyric": "Oh yeah let’s run away baby",
+      "lyric_hangul": "Oh, yeah, let's run away, baby",
+      "lyric_translation": "Oh yeah, let’s run away, baby",
+      "range": [71.41, 73.23], "ans": [8]},
+    {
+      "lyric_hangul": "I don't wanna complicate it (no)",
+      "lyric_translation": "I don’t want to complicate it",
+      "parts": [
+        {"lyric": "(I)",
+          "range": [73.23, 75.6], "ans": [6]},
+        {"lyric": "Don’t wanna complicate it",
+          "range": [74.9, 77.11], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "보고 싶은걸 알고 싶어 time and place, place",
+      "lyric_translation": "I want to know if you want to see me / Time and place, place",
+      "parts": [
+        {"lyric": "Bogo shipeungeol",
+          "range": [76.79, 78.24], "ans": [3]},
+        {"lyric": "Algo shipeo",
+          "range": [77.54, 78.97], "ans": [8]},
+        {"lyric": "Time and place place",
+          "range": [78.97, 80.83], "ans": [8]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "You won’t wait, wait",
+      "lyric_hangul": "I won't wait, wait",
+      "lyric_translation": "You won’t wait, wait",
+      "range": [80.83, 81.9], "ans": [8]},
+    {"lyric": "Let’s misbehave-have",
+      "lyric_hangul": "Let's misbehave-have",
+      "lyric_translation": "Let’s misbehave, have",
+      "range": [81.9, 84.32], "ans": [8]},
+    {"lyric": "You know I need to",
+      "lyric_hangul": "You know I need to",
+      "lyric_translation": "You know I need to",
+      "range": [84.32, 86.06], "ans": [5]},
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush",
+      "range": [86.06, 87.64], "ans": [2]},
+    {"lyric": "Drive me crazy and I know",
+      "lyric_hangul": "Drive me crazy and I know",
+      "lyric_translation": "Drive me crazy and I know",
+      "range": [87.64, 89.28], "ans": [2]},
+    "",
+    {"lyric": "I just can’t get enough",
+      "lyric_hangul": "I just can't get enough",
+      "lyric_translation": "I just can’t get enough",
+      "range": [89.28, 92.61], "ans": [2]},
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush",
+      "range": [92.61, 94.76], "ans": [4]},
+    {"lyric": "When you’re not next to me",
+      "lyric_hangul": "When you're not next to me, I",
+      "lyric_translation": "When you’re not next to me",
+      "range": [94.76, 96.18], "ans": [4]},
+    {
+      "lyric_hangul": "I'm running out of love",
+      "lyric_translation": "I- I’m running out of love / I’m running out of love",
+      "parts": [
+        {"lyric": "I- I’m running out of love",
+          "range": [96.18, 97.35], "ans": [4]},
+        {"lyric": "I’m running out of love",
+          "range": [96.65, 99.34], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Hours and hours, 나 지금 어떡해? Baby",
+      "lyric_translation": "Hours and hours / I’m tired now, baby / Hours and hours / I’m tired now, baby",
+      "parts": [
+        {"lyric": "Hours and hours",
+          "range": [99.34, 100.2], "ans": [9]},
+        {"lyric": "Na jigeum pigonhae Baby",
+          "range": [100.2, 101.05], "ans": [9]},
+        {"lyric": "Hours and hours",
+          "range": [100.47, 101.1], "ans": [1]},
+        {"lyric": "Na jigeum pigonhae Baby",
+          "range": [101.1, 102.49], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "눈치 없이 네가 필요해 빨리",
+      "lyric_translation": "Obliviously, I need you quickly / Obliviously, I need you quickly",
+      "parts": [
+        {"lyric": "Nunchi eopshi nega piryohae ppalli",
+          "range": [102.49, 104.8], "ans": [9]},
+        {"lyric": "Nunchi eopshi nega piryohae ppalli",
+          "range": [104.1, 105.91], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush / I need to feel your rush",
+      "parts": [
+        {"lyric": "I need to feel your rush",
+          "range": [105.91, 107.6], "ans": [1]},
+        {"lyric": "I need to feel your rush",
+          "range": [106.9, 107.95], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Drive me crazy and I know",
+      "lyric_translation": "Drive me crazy and I know / Drive me crazy and I know",
+      "parts": [
+        {"lyric": "Drive me crazy and I know",
+          "range": [107.65, 109.18], "ans": [1]},
+        {"lyric": "Drive me crazy and I know",
+          "range": [108.48, 109.41], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I just can't get enough (I just can't get enough) I... (damn, damn, damn, damn, damn, damn) I... (damn, damn, damn, damn)",
+      "lyric_translation": "I just can’t get enough / I just can’t get enough",
+      "parts": [
+        {"lyric": "I just can’t get enough",
+          "range": [109.13, 113.86], "ans": [1]},
+        {"lyric": "I just can’t get enough",
+          "range": [113.16, 125.75], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "",
+      "range": [125.75, 127.38], "ans": []},
+    {"lyric": "Drive me crazy and I know",
+      "lyric_hangul": "Drive me crazy and I know",
+      "lyric_translation": "",
+      "range": [127.38, 128.96], "ans": []},
+    {
+      "lyric_hangul": "I just can't get enough (I just can't get enough)",
+      "lyric_translation": "I just can’t get enough / I, I / I just can’t get enough",
+      "parts": [
+        {"lyric": "I just can’t get enough",
+          "range": [128.96, 131.29], "ans": [2]},
+        {"lyric": "(I, I)",
+          "range": [130.59, 131.72], "ans": [6]},
+        {"lyric": "I just can’t get enough",
+          "range": [131.02, 132.69], "ans": [1]}
+      ]
+    },
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "I need to feel your rush",
+      "range": [132.54, 134.46], "ans": [6]},
+    {"lyric": "When you're not next to me, I",
+      "lyric_hangul": "When you're not next to me, I",
+      "lyric_translation": "",
+      "range": [134.46, 136.08], "ans": []},
+    {"lyric": "I'm running out of love (I'm running out of love)",
+      "lyric_hangul": "I'm running out of love (I'm running out of love)",
+      "lyric_translation": "",
+      "range": [136.08, 139.26], "ans": []},
+    {"lyric": "I need to feel your rush",
+      "lyric_hangul": "I need to feel your rush",
+      "lyric_translation": "",
+      "range": [145.61, 147.31], "ans": []},
+    {"lyric": "Drive me crazy and I know",
+      "lyric_hangul": "Drive me crazy and I know",
+      "lyric_translation": "Drive me crazy and I know",
+      "range": [147.31, 148.87], "ans": [6]},
+    {"lyric": "I just can’t get enough",
+      "lyric_hangul": "I just can't get enough (I just can't get enough)",
+      "lyric_translation": "I just can’t get enough",
+      "range": [148.87, 156.0], "ans": [6]}
+  ]
+}

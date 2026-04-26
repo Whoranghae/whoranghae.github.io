@@ -1,0 +1,345 @@
+{
+  "name": "QUEEN\r",
+  "ogg": "sound/kpop/queen.ogg",
+  "id": "queen",
+  "group": "twice",
+  "language": "ko",
+  "released": "2020-10-26",
+  "album": "Eyes wide open",
+  "cover": "css/images/covers/queen.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:33Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "It's a show",
+      "lyric_translation": "It’s a show / (Va ra bba ba ba)",
+      "parts": [
+        {"lyric": "It’s a show",
+          "range": [4.03, 4.87], "ans": []},
+        {"lyric": "(Va ra bba ba ba)",
+          "range": [4.87, 10.4], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "But you shouldn't forget",
+      "lyric_translation": "But you shouldn’t forget / (Va ra bba ba ba)",
+      "parts": [
+        {"lyric": "But you shouldn’t forget",
+          "range": [10.4, 11.64], "ans": []},
+        {"lyric": "(Va ra bba ba ba)",
+          "range": [11.64, 12.7], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "I know what you are",
+      "lyric_translation": "I know what you are / (Va ra bba ba ba)",
+      "parts": [
+        {"lyric": "I know what you are",
+          "range": [12.7, 13.51], "ans": []},
+        {"lyric": "(Va ra bba ba ba)",
+          "range": [13.51, 15.62], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Uh, you're a queen",
+      "lyric_translation": "Uh, you’re a queen / Va ra bba ba ba / Va ra bba ba ba (Hey!)",
+      "parts": [
+        {"lyric": "Uh you’re a queen",
+          "range": [15.62, 16.09], "ans": []},
+        {"lyric": "You’re a queen (Uh)",
+          "range": [16.09, 17.6], "ans": []},
+        {"lyric": "You’re a queen (You’re a queen)",
+          "range": [17.6, 18.16], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "착각하지 마, I don't want no drama",
+      "lyric_translation": "Don’t get it wrong / I don’t want no drama",
+      "parts": [
+        {"lyric": "Chakkakaji ma",
+          "range": [18.16, 20.01], "ans": []},
+        {"lyric": "I don’t want no drama",
+          "range": [20.01, 22.63], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "또 뻔한 너의 말, 지쳤어 이제 그만",
+      "lyric_translation": "You say the same old thing / I’m sick of it, it’s time to stop",
+      "parts": [
+        {"lyric": "Tto ppeonhan neoye mal",
+          "range": [22.63, 24.19], "ans": []},
+        {"lyric": "Jicheosseo ije geuman",
+          "range": [24.19, 26.77], "ans": []}
+      ]
+    },
+    {"lyric": "Maeil ttokkateun jangmyeondeuri banbokae",
+      "lyric_hangul": "매일 똑같은 장면들이 반복해",
+      "lyric_translation": "",
+      "range": [26.74, 28.84], "ans": []},
+    {"lyric": "Aesseo gwajanghal piryoga eomneunde",
+      "lyric_hangul": "애써 과장할 필요가 없는데",
+      "lyric_translation": "The same scene repeats itself every day",
+      "range": [28.84, 31.11], "ans": []},
+    {"lyric": "Ttakttakhan pyojeong jeonghaejin daesaye",
+      "lyric_hangul": "딱딱한 표정 정해진 대사에",
+      "lyric_translation": "There’s no need to exaggerate",
+      "range": [31.11, 33.68], "ans": []},
+    {"lyric": "You don’t look like yourself neodapji ana",
+      "lyric_hangul": "You don't look like yourself, 너답지 않아",
+      "lyric_translation": "Stiff face, scripted lines",
+      "range": [33.68, 36.28], "ans": []},
+    {"lyric": "Sashireun neodo aljana",
+      "lyric_hangul": "사실은 너도 알잖아 (ah-ah-ah)",
+      "lyric_translation": "You don’t look like yourself, you’re not like yourself",
+      "range": [36.28, 40.58], "ans": []},
+    {"lyric": "Jinshiri anin yeongiya",
+      "lyric_hangul": "진실이 아닌 연기야 (ah-ah-ah)",
+      "lyric_translation": "",
+      "range": [40.58, 45.07], "ans": []},
+    {
+      "lyric_hangul": "짜여진 각본 없이, 억지로 꾸밈없이",
+      "lyric_translation": "Dazzling you, you are / You’re a queen / You’re the star / Dazzling you, you are / You’re a queen / You’re the star / Dazzling you, you are / You’re a queen",
+      "parts": [
+        {"lyric": "Jjayeojin gakbon eopshi",
+          "range": [54.54, 55.27], "ans": []},
+        {"lyric": "Eokjiro kkumimeopshi",
+          "range": [55.27, 55.64], "ans": []},
+        {"lyric": "For real",
+          "range": [55.64, 55.99], "ans": []},
+        {"lyric": "Jjayeojin gakbon eopshi",
+          "range": [55.99, 56.49], "ans": []},
+        {"lyric": "Eokjiro kkumimeopshi",
+          "range": [56.49, 57.26], "ans": []},
+        {"lyric": "For real",
+          "range": [57.26, 57.76], "ans": []},
+        {"lyric": "Jjayeojin gakbon eopshi",
+          "range": [57.6, 58.1], "ans": []},
+        {"lyric": "Eokjiro kkumimeopshi",
+          "range": [57.94, 58.62], "ans": []},
+        {"lyric": "For real",
+          "range": [58.62, 59.12], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(For real) 누가 뭐라 해도",
+      "lyric_translation": "Without any script",
+      "parts": [
+        {"lyric": "Nuga mweora haedo",
+          "range": [58.58, 59.64], "ans": []},
+        {"lyric": "Nuga mweora haedo (Hey!)",
+          "range": [59.64, 60.58], "ans": []},
+        {"lyric": "Nuga mweora haedo",
+          "range": [60.58, 61.02], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Ne moseup geu jachero",
+      "lyric_hangul": "네 모습 그 자체로 (you're a queen)",
+      "lyric_translation": "Without forcing yourself / Without any script / Without any script",
+      "range": [61.02, 63.7], "ans": []},
+    {
+      "lyric_hangul": "자연스러운 emotion, 살며시 다가와",
+      "lyric_translation": "Just by being your natural self / You’re a queen",
+      "parts": [
+        {"lyric": "Jayeonseureoun Emotion",
+          "range": [63.7, 64.9], "ans": []},
+        {"lyric": "Salmyeoshi dagawa",
+          "range": [64.9, 67.87], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "무심한 듯이 action 널 보여줘",
+      "lyric_translation": "Natural emotion",
+      "parts": [
+        {"lyric": "Mushimhan deushi Action",
+          "range": [67.87, 70.33], "ans": []},
+        {"lyric": "Neol boyeojweo (Hey!)",
+          "range": [70.33, 71.94], "ans": []}
+      ]
+    },
+    {"lyric": "Maeil ttokkateun jangmyeondeuri banbokae",
+      "lyric_hangul": "매일 똑같은 장면들이 반복해",
+      "lyric_translation": "Nonchalantly action",
+      "range": [71.94, 74.07], "ans": []},
+    {"lyric": "Aesseo gwajanghal piryoga eomneunde",
+      "lyric_hangul": "애써 과장할 필요가 없는데",
+      "lyric_translation": "Show yourself",
+      "range": [74.07, 76.46], "ans": []},
+    {"lyric": "It really doesn’t mean much to make a fuss",
+      "lyric_hangul": "It really doesn't mean much to make a fuss",
+      "lyric_translation": "",
+      "range": [76.46, 79.14], "ans": []},
+    "",
+    {"lyric": "You’ll end up being yourself, right, uh huh huh",
+      "lyric_hangul": "You'll end up being yourself, right, uh-uh-uh",
+      "lyric_translation": "The same scene repeats itself every day",
+      "range": [79.14, 81.18], "ans": []},
+    {"lyric": "Sashireun neodo aljana (Yeah yeah)",
+      "lyric_hangul": "사실은 너도 알잖아 (yeah, yeah)",
+      "lyric_translation": "There’s no need to exaggerate",
+      "range": [81.18, 86.22], "ans": []},
+    {"lyric": "Jinshiri anin yeongiya (No no no ay)",
+      "lyric_hangul": "진실이 아닌 연기야 (no, no, no, oh)",
+      "lyric_translation": "It really doesn’t mean much to make a fuss",
+      "range": [86.22, 90.51], "ans": []},
+    {
+      "lyric_hangul": "(바라빠바바) You're a, you're a, you're a, you're a queen",
+      "lyric_translation": "For real / Without forcing yourself / Whatever they say / Just by being your natural self / You’re a queen / Without forcing yourself / Whatever they say / Just by being your natural self / You’re a queen",
+      "parts": [
+        {"lyric": "You’re a queen",
+          "range": [113.36, 114.42], "ans": []},
+        {"lyric": "Va ra bba ba ba",
+          "range": [114.42, 115.56], "ans": []},
+        {"lyric": "You’re a queen",
+          "range": [115.56, 116.09], "ans": []},
+        {"lyric": "Va ra bba ba ba (Hey!)",
+          "range": [116.09, 116.54], "ans": []},
+        {"lyric": "Va ra bba ba ba (You’re a real queen)",
+          "range": [116.54, 117.6], "ans": []},
+        {"lyric": "Va ra bba ba ba",
+          "range": [117.6, 117.96], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I know, I know, 나는 너를 알아",
+      "lyric_translation": "Va ra bba ba ba / Dazzling you, you are",
+      "parts": [
+        {"lyric": "I know I know (I know)",
+          "range": [126.93, 128.15], "ans": []},
+        {"lyric": "Naneun neoreul aramanyak (aramanyak)",
+          "range": [128.15, 130.27], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "만약 아무도 모른다 해도, 이해할 수 없다 해도",
+      "lyric_translation": "You’re a queen",
+      "parts": [
+        {"lyric": "Amudo moreunda haedo (haedo)",
+          "range": [130.27, 132.6], "ans": []},
+        {"lyric": "Ihaehal su eopda haedo (Uh uh)",
+          "range": [132.6, 135.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이제 그만 drama, drama 속에서 빠져나와",
+      "lyric_translation": "I know, I know (I know) / I know you (I know)",
+      "parts": [
+        {"lyric": "Ije geuman Drama drama",
+          "range": [135.44, 136.67], "ans": []},
+        {"lyric": "Sogeseo ppajeonawa",
+          "range": [136.67, 139.61], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Uh, from now on 시작될 a true scene",
+      "lyric_translation": "Even if nobody else knows… (even if) / …nor understands (Uh uh)",
+      "parts": [
+        {"lyric": "Uh from now on",
+          "range": [139.61, 141.13], "ans": []},
+        {"lyric": "Shijakdwel A true scene",
+          "range": [140.63, 142.1], "ans": []}
+      ]
+    },
+    {"lyric": "Ne moseup geu jachero",
+      "lyric_hangul": "네 모습 그 자체로, ooh",
+      "lyric_translation": "Now get out of that",
+      "range": [142.1, 144.74], "ans": []},
+    {"lyric": "(Just a show) Yeah",
+      "lyric_hangul": "(Just a show) Yeah",
+      "lyric_translation": "",
+      "range": [144.74, 149.27], "ans": []},
+    {
+      "lyric_hangul": "(Just a show) Just a show, baby",
+      "lyric_translation": "In fact, you know it too / Real scenario / Just a show / Uh, from now on / A true scene will begin / Just by being your natural self / Just a show / Just a show",
+      "parts": [
+        {"lyric": "Just a show",
+          "range": [149.27, 151.27], "ans": []},
+        {"lyric": "Just a show (Yeah)",
+          "range": [151.27, 151.75], "ans": []},
+        {"lyric": "Just a show",
+          "range": [151.75, 152.25], "ans": []},
+        {"lyric": "Just a show baby",
+          "range": [152.08, 152.56], "ans": []},
+        {"lyric": "Just a show",
+          "range": [152.56, 153.75], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Jinjja shinario",
+      "lyric_hangul": "(Just a show) 진짜 시나리오",
+      "lyric_translation": "This is not real, it’s acting / In fact, you know it too (Yeah yeah) / Just a show",
+      "range": [153.75, 155.91], "ans": []},
+    "",
+    {
+      "lyric_hangul": "널 보여주면 되는 거야 있는 그대로",
+      "lyric_translation": "Just a show / This is not real, it’s acting (No no no ay) / Just a show baby",
+      "parts": [
+        {"lyric": "Neol boyeojumyeon dweneun",
+          "range": [155.73, 156.43], "ans": []},
+        {"lyric": "Geoya inneun geudaero",
+          "range": [156.43, 156.97], "ans": []},
+        {"lyric": "Neol boyeojumyeon dweneun",
+          "range": [156.97, 157.33], "ans": []},
+        {"lyric": "Geoya inneun geudaero",
+          "range": [157.15, 157.61], "ans": []},
+        {"lyric": "Neol boyeojumyeon dweneun",
+          "range": [157.43, 157.93], "ans": []},
+        {"lyric": "Geoya inneun geudaero (inneun geudaro)",
+          "range": [157.71, 158.21], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Juingongeun neoya",
+      "lyric_hangul": "(Just a show) 주인공은 너야",
+      "lyric_translation": "Just gotta show… / Real scenario / Real scenario",
+      "range": [158.05, 160.49], "ans": []},
+    {"lyric": "Challanhan geudae baro",
+      "lyric_hangul": "찬란한 그대 바로 (you're a queen)",
+      "lyric_translation": "…who you are / Just gotta show… / Just gotta show…",
+      "range": [160.45, 163.16], "ans": []},
+    "",
+    {
+      "lyric_hangul": "(바라빠바바) You're a, you're a, you're a, you're a queen",
+      "lyric_translation": "Just a show / …who you are / Va ra bba ba ba / Va ra bba ba ba / Va ra bba ba ba / You’re a, you’re a, you’re a / …who you are (Show who you are) / Va ra bba ba ba (Hey!) / Va ra bba ba ba (You’re a real queen) / Va ra bba ba ba / You’re a, you’re a, you’re a",
+      "parts": [
+        {"lyric": "You’re a queen",
+          "range": [177.06, 177.64], "ans": []},
+        {"lyric": "You’re a, you’re a, you’re a",
+          "range": [177.64, 178.14], "ans": []},
+        {"lyric": "You’re a queen",
+          "range": [178.14, 178.54], "ans": []},
+        {"lyric": "Va ra bba ba ba",
+          "range": [178.43, 178.93], "ans": []},
+        {"lyric": "Va ra bba ba ba (Yeah yeah yeah yeah)",
+          "range": [178.64, 179.19], "ans": []},
+        {"lyric": "Va ra bba ba ba",
+          "range": [179.19, 179.59], "ans": []},
+        {"lyric": "You’re a queen",
+          "range": [179.4, 179.9], "ans": []},
+        {"lyric": "You’re a, you’re a, you’re a",
+          "range": [179.69, 180.19], "ans": []},
+        {"lyric": "You’re a queen",
+          "range": [180.19, 180.63], "ans": []},
+        {"lyric": "Va ra bba ba ba (Hey!)",
+          "range": [180.48, 180.92], "ans": []},
+        {"lyric": "Va ra bba ba ba (Ooh)",
+          "range": [180.73, 181.23], "ans": []},
+        {"lyric": "Va ra bba ba ba (Yeah)",
+          "range": [181.02, 181.52], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Challanhan geudae baro",
+      "lyric_hangul": "(바라빠바바) 찬란한 그대 바로 (you're a queen)",
+      "lyric_translation": "You’re a queen / You’re a queen",
+      "range": [185.81, 192.23], "ans": []}
+  ]
+}

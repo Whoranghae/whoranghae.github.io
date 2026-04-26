@@ -1,0 +1,448 @@
+{
+  "name": "CHEESE\r",
+  "ogg": "sound/kpop/cheese.ogg",
+  "id": "cheese",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2021-08-23",
+  "album": "NOEASY",
+  "cover": "css/images/covers/cheese.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:04Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ttuttuttuttuttuttu utgyeo?",
+      "lyric_hangul": "뚜뚜뚜뚜뚜뚜, 웃겨?",
+      "lyric_translation": "You find DU DU DU DU DU DU funny?",
+      "range": [8.43, 10.72], "ans": [6]},
+    {"lyric": "Meoriga apeun ge utgyeo?",
+      "lyric_hangul": "머리가 아픈 게 웃겨?",
+      "lyric_translation": "What’s so funny about a headache?",
+      "range": [10.72, 12.49], "ans": [6]},
+    {"lyric": "Ageub gamseongi utgyeo?",
+      "lyric_hangul": "A급 감성이 웃겨?",
+      "lyric_translation": "What’s so funny about A-class vibes?",
+      "range": [12.49, 14.42], "ans": [6]},
+    {"lyric": "Ha CHEESE",
+      "lyric_hangul": "Ha! Cheese!",
+      "lyric_translation": "Hah, CHEESE",
+      "range": [14.42, 16.23], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "옷차림 헤어스타일 내 눈엔 폼나지",
+      "lyric_translation": "My outfit My hair / I think I look cool",
+      "parts": [
+        {"lyric": "Otcharim heeoseutail",
+          "range": [16.23, 18.49], "ans": [4]},
+        {"lyric": "Nae nunen pomnaji",
+          "range": [18.49, 20.48], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "외부인 외계인, 취급은 익숙해 난 뻔뻔하지",
+      "lyric_translation": "An outsider An alien / Treat me however you want, I’m brazen",
+      "parts": [
+        {"lyric": "Webuin wegyein",
+          "range": [20.48, 22.36], "ans": [4]},
+        {"lyric": "Chwigeubeun iksukhae nan ppeonppeonhaji",
+          "range": [22.36, 24.39], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Funny funny nal bogo useottamyeon",
+      "lyric_hangul": "Funny, funny, 날 보고 웃었다면",
+      "lyric_translation": "Funny funny If I made you laugh,",
+      "range": [24.39, 26.09], "ans": [7]},
+    {"lyric": "Deo ppangppang teojige haejulge",
+      "lyric_hangul": "더 빵빵 터지게 해줄게",
+      "lyric_translation": "This time, I’ll crack you up",
+      "range": [26.09, 28.29], "ans": [7]},
+    {"lyric": "Ttak bwado born to be gwangdae",
+      "lyric_hangul": "딱 봐도 born to be 광대",
+      "lyric_translation": "You can tell that I am born to be a clown",
+      "range": [28.29, 30.23], "ans": [7]},
+    {
+      "lyric_hangul": "다 같이 붕붕 날아볼래? (hold up)",
+      "lyric_translation": "You want to fly high with me? / Hold up",
+      "parts": [
+        {"lyric": "Da gachi bungbung narabollae?",
+          "range": [30.23, 32.11], "ans": [7]},
+        {"lyric": "Hold up",
+          "range": [31.46, 32.16], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Useubgie gudeotji pamasan chijeu",
+      "lyric_hangul": "우습기에 굳었지 파마산 치즈",
+      "lyric_translation": "Froze because it was funny Parmesan Cheese",
+      "range": [32.16, 34.26], "ans": [3]},
+    {"lyric": "Neone hanmadimyeon bunwigi freeze",
+      "lyric_hangul": "너네 한마디면 분위기 freeze",
+      "lyric_translation": "Your single word makes the mood Freeze",
+      "range": [34.26, 36.35], "ans": [3]},
+    {
+      "lyric_hangul": "개그 코드가 모자라 치즈, jeez, jeez",
+      "lyric_translation": "You have no sense of humor, Cheese / Jeez Jeez",
+      "parts": [
+        {"lyric": "Gaegeu kodeuga mojara chijeu",
+          "range": [36.35, 38.89], "ans": [3]},
+        {"lyric": "Jeez Jeez",
+          "range": [38.89, 40.01], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I love what you hate, 네가 뭐라든 재밌거든 다",
+      "lyric_translation": "I love what you hate / No matter what you say, I think they’re so funny",
+      "parts": [
+        {"lyric": "I love what you hate",
+          "range": [39.76, 42.12], "ans": [5]},
+        {"lyric": "Nega mweoradeun jaemitgeodeun da",
+          "range": [42.12, 44.24], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Thank you, I love it, 헛소리 대판 벌인다",
+      "lyric_translation": "Thank you, I love it / Here comes a big nonsense party",
+      "parts": [
+        {"lyric": "Thank you, I love it",
+          "range": [44.24, 46.05], "ans": [5]},
+        {"lyric": "Heossori daepan beorinda",
+          "range": [46.05, 48.38], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Geomji jungji yakji saekki what",
+      "lyric_hangul": "검지 (엄지), 중지 (검지), 약지, 새끼 what?",
+      "lyric_translation": "Index, middle, ring and little fingers what",
+      "range": [48.38, 52.51], "ans": [2]},
+    {"lyric": "Geomji jungji yakji saekki jeobeo what",
+      "lyric_hangul": "검지 (타), 중지 (rryah), 약지, 새끼 접어, what?",
+      "lyric_translation": "Fold your index, middle, ring and little fingers what",
+      "range": [52.51, 55.8], "ans": [2]},
+    {
+      "lyric_hangul": "씹고 뜯고 맛보다 즐길거면서, what's the matter?",
+      "lyric_translation": "You bite, chew, taste, and enjoy / What’s the matter?",
+      "parts": [
+        {"lyric": "Sshibgo tteutgo matboda jeulgil geomyeonseo",
+          "range": [55.8, 59.22], "ans": [8]},
+        {"lyric": "What’s the matter?",
+          "range": [59.22, 60.24], "ans": [8]}
+      ]
+    },
+    {"lyric": "Jeongsaek malgo insang jom pija like banjuk",
+      "lyric_hangul": "정색 말고 인상 좀 피자 like 반죽",
+      "lyric_translation": "Don’t keep a straight face, smile",
+      "range": [59.86, 63.14], "ans": [8]},
+    {"lyric": "CHEESE",
+      "lyric_hangul": "Cheese",
+      "lyric_translation": "CHEESE",
+      "range": [63.14, 64.51], "ans": []},
+    "",
+    {"lyric": "Ttuttuttuttuttuttu utgyeo?",
+      "lyric_hangul": "뚜뚜뚜뚜뚜뚜, 웃겨? (cheese)",
+      "lyric_translation": "You find DU DU DU DU DU DU funny?",
+      "range": [64.51, 66.71], "ans": [4]},
+    {"lyric": "Meoriga apeun ge utgyeo?",
+      "lyric_hangul": "머리가 아픈 게 웃겨? (cheese)",
+      "lyric_translation": "What’s so funny about a headache?",
+      "range": [66.71, 68.47], "ans": [4]},
+    {
+      "lyric_hangul": "A급 감성이 웃겨? 웃겨? Cheese",
+      "lyric_translation": "What’s so funny about A-class vibes? / Funny CHEESE",
+      "parts": [
+        {"lyric": "Ageub gamseongi utgyeo?",
+          "range": [68.47, 70.41], "ans": [4]},
+        {"lyric": "Utgyeo",
+          "range": [69.65, 71.82], "ans": [4]},
+        {"lyric": "CHEESE",
+          "range": [71.12, 72.77], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Bidulgi kkachiga utgyeo?",
+      "lyric_hangul": "비둘기 까치가 웃겨? (cheese)",
+      "lyric_translation": "What’s so funny about pigeon and magpie?",
+      "range": [72.77, 74.77], "ans": [3]},
+    {"lyric": "Kkamagwi soriga utgyeo?",
+      "lyric_hangul": "까마귀 소리가 웃겨? (cheese)",
+      "lyric_translation": "What’s so funny about cawing of a crow?",
+      "range": [74.77, 76.83], "ans": [3]},
+    {
+      "lyric_hangul": "A급 감성이 웃겨? 웃겨? Cheese",
+      "lyric_translation": "What’s so funny about A-class vibes? / Funny CHEESE",
+      "parts": [
+        {"lyric": "Ageub gamseongi utgyeo?",
+          "range": [76.83, 78.41], "ans": [3]},
+        {"lyric": "Utgyeo",
+          "range": [77.71, 79.85], "ans": [3]},
+        {"lyric": "CHEESE",
+          "range": [79.15, 80.27], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [80.27, 82.07], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, 웃어봐",
+      "lyric_translation": "Yeah yeah yeah yeah smile",
+      "parts": [
+        {"lyric": "Yeah yeah yeah yeah",
+          "range": [82.07, 83.82], "ans": []},
+        {"lyric": "Useobwa",
+          "range": [83.12, 84.25], "ans": [3]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [83.94, 85.86], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, cheese",
+      "lyric_translation": "Yeah yeah yeah CHEESE",
+      "parts": [
+        {"lyric": "Yeah yeah yeah",
+          "range": [85.86, 86.22], "ans": []},
+        {"lyric": "CHEESE",
+          "range": [87.08, 88.09], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [88.09, 89.78], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, 웃어봐",
+      "lyric_translation": "Yeah yeah yeah yeah smile",
+      "parts": [
+        {"lyric": "Yeah yeah yeah yeah",
+          "range": [89.78, 90.21], "ans": []},
+        {"lyric": "Useobwa",
+          "range": [91.46, 92.06], "ans": [3]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [91.89, 93.99], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, cheese",
+      "lyric_translation": "Yeah yeah yeah CHEESE",
+      "parts": [
+        {"lyric": "Yeah yeah yeah",
+          "range": [93.99, 95.26], "ans": []},
+        {"lyric": "CHEESE",
+          "range": [94.56, 96.38], "ans": [6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Utgiji nae georeumgeori",
+      "lyric_hangul": "웃기지 내 걸음걸이?",
+      "lyric_translation": "You think it’s funny how I walk?",
+      "range": [96.38, 98.18], "ans": [6]},
+    {"lyric": "Uriga mandeun geo da nollimgeori",
+      "lyric_hangul": "우리가 만든 거 다 놀림거리",
+      "lyric_translation": "All our hard effort is just another laughingstock to you.",
+      "range": [98.18, 100.18], "ans": [6]},
+    {"lyric": "Look, why did you say it like that?",
+      "lyric_hangul": "Look, why'd you say it like that?",
+      "lyric_translation": "Look, why did you say it like that?",
+      "range": [100.18, 101.97], "ans": [6]},
+    {
+      "lyric_hangul": "혓바닥 shotgun 장전, click-clack, bang!",
+      "lyric_translation": "My tongue shotgun loaded / Click Clack Bang",
+      "parts": [
+        {"lyric": "Hyeotbadak shotgun jangjeon",
+          "range": [101.97, 103.62], "ans": [5]},
+        {"lyric": "Click Clack Bang",
+          "range": [103.62, 104.65], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Geurae saenggakhaeyo ne mamdaero",
+      "lyric_hangul": "그래 생각해요 네 맘대로",
+      "lyric_translation": "Yeah, think whatever you want",
+      "range": [104.07, 106.75], "ans": [5]},
+    {"lyric": "Ireokungjeoreokung I don’t know",
+      "lyric_hangul": "이러쿵저러쿵, I don't know",
+      "lyric_translation": "Blah blah I don’t know",
+      "range": [106.75, 108.66], "ans": [5]},
+    {"lyric": "Do what you do, out of anjung",
+      "lyric_hangul": "Do what you do, out of 안중",
+      "lyric_translation": "Do what you do, I don’t care",
+      "range": [108.66, 109.94], "ans": [5]},
+    {"lyric": "Naega naeryeoganeun geon gyang ne gaekkum",
+      "lyric_hangul": "내가 내려가는 건 걍 네 개꿈",
+      "lyric_translation": "You wish I’d fail? Only in you dream",
+      "range": [109.94, 112.66], "ans": [5]},
+    "",
+    {"lyric": "Geomji jungji yakji saekki what",
+      "lyric_hangul": "검지 (엄지), 중지 (검지), 약지, 새끼 what?",
+      "lyric_translation": "Index, middle, ring and little fingers what",
+      "range": [112.66, 116.42], "ans": [1]},
+    {"lyric": "Geomji jungji yakji saekki jeobeo what",
+      "lyric_hangul": "검지 (타), 중지 (rryah), 약지, 새끼 접어, what?",
+      "lyric_translation": "Fold your index, middle, ring and little fingers what",
+      "range": [116.42, 119.82], "ans": [1]},
+    {
+      "lyric_hangul": "씹고 뜯고 맛보다 즐길거면서, what's the matter?",
+      "lyric_translation": "You bite, chew, taste, and enjoy / What’s the matter?",
+      "parts": [
+        {"lyric": "Sshibgo tteutgo matboda jeulgil geomyeonseo",
+          "range": [119.82, 123.21], "ans": [7]},
+        {"lyric": "What’s the matter?",
+          "range": [123.21, 124.2], "ans": [7]}
+      ]
+    },
+    {"lyric": "Jeongsaek malgo insang jom pija like banjuk",
+      "lyric_hangul": "정색 말고 인상 좀 피자 like 반죽",
+      "lyric_translation": "Don’t keep a straight face, smile",
+      "range": [123.77, 127.34], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "\"자, 하나, 둘, 셋, cheese!\"",
+      "lyric_translation": "“Now, one, two, three” / CHEESE",
+      "parts": [
+        {"lyric": "“ja hana dul set”",
+          "range": [127.34, 129.54], "ans": [8]},
+        {"lyric": "CHEESE",
+          "range": [128.84, 130.66], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Ttuttuttuttuttuttu utgyeo?",
+      "lyric_hangul": "뚜뚜뚜뚜뚜뚜, 웃겨? (cheese)",
+      "lyric_translation": "You find DU DU DU DU DU DU funny?",
+      "range": [130.66, 132.63], "ans": [2]},
+    {"lyric": "Meoriga apeun ge utgyeo?",
+      "lyric_hangul": "머리가 아픈 게 웃겨? (cheese)",
+      "lyric_translation": "What’s so funny about a headache?",
+      "range": [132.63, 134.64], "ans": [2]},
+    {
+      "lyric_hangul": "A급 감성이 웃겨? 웃겨? Cheese",
+      "lyric_translation": "What’s so funny about A-class vibes? / Funny CHEESE",
+      "parts": [
+        {"lyric": "Ageub gamseongi utgyeo?",
+          "range": [134.64, 136.34], "ans": [2]},
+        {"lyric": "Utgyeo",
+          "range": [135.62, 137.78], "ans": [2]},
+        {"lyric": "CHEESE",
+          "range": [137.08, 138.6], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Bidulgi kkachiga utgyeo?",
+      "lyric_hangul": "비둘기 까치가 웃겨? (cheese)",
+      "lyric_translation": "What’s so funny about pigeon and magpie?",
+      "range": [138.6, 140.64], "ans": [1]},
+    {"lyric": "Kkamagwi soriga utgyeo?",
+      "lyric_hangul": "까마귀 소리가 웃겨? (cheese)",
+      "lyric_translation": "What’s so funny about cawing of a crow?",
+      "range": [140.64, 142.67], "ans": [1]},
+    {
+      "lyric_hangul": "A급 감성이 웃겨? 웃겨? Cheese",
+      "lyric_translation": "What’s so funny about A-class vibes? / Funny CHEESE",
+      "parts": [
+        {"lyric": "Ageub gamseongi utgyeo?",
+          "range": [142.67, 145.48], "ans": [1]},
+        {"lyric": "Utgyeo CHEESE",
+          "range": [145.48, 146.17], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Blue Cheese",
+      "lyric_hangul": "Blue cheese",
+      "lyric_translation": "Blue Cheese",
+      "range": [146.17, 148.14], "ans": [6]},
+    {"lyric": "Cheddar Cheese",
+      "lyric_hangul": "Cheddar cheese",
+      "lyric_translation": "Cheddar Cheese",
+      "range": [148.14, 150.38], "ans": [6]},
+    {"lyric": "Parmesan Cheese",
+      "lyric_hangul": "Parmesan cheese",
+      "lyric_translation": "Parmesan Cheese",
+      "range": [150.38, 153.21], "ans": [6]},
+    {"lyric": "CHEESE",
+      "lyric_hangul": "Cheese",
+      "lyric_translation": "CHEESE",
+      "range": [153.21, 154.74], "ans": [6]},
+    "",
+    {"lyric": "Ttuttuttuttuttuttu utgyeo?",
+      "lyric_hangul": "뚜뚜뚜뚜뚜뚜 웃겨?",
+      "lyric_translation": "You find DU DU DU DU DU DU funny?",
+      "range": [154.74, 156.72], "ans": [4]},
+    {"lyric": "Meoriga apeun ge utgyeo?",
+      "lyric_hangul": "머리가 아픈 게 웃겨?",
+      "lyric_translation": "What’s so funny about a headache?",
+      "range": [156.72, 158.71], "ans": [4]},
+    {
+      "lyric_hangul": "A급 감성이 웃겨? 웃겨? Cheese",
+      "lyric_translation": "What’s so funny about A-class vibes? / Funny?! CHEESE",
+      "parts": [
+        {"lyric": "Ageub gamseongi utgyeo?",
+          "range": [158.71, 160.39], "ans": [4]},
+        {"lyric": "Utgyeo?!",
+          "range": [159.69, 161.77], "ans": [3]},
+        {"lyric": "CHEESE",
+          "range": [161.07, 162.3], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [162.3, 163.98], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, 웃어봐",
+      "lyric_translation": "Yeah yeah yeah yeah smile",
+      "parts": [
+        {"lyric": "Yeah yeah yeah yeah",
+          "range": [163.98, 165.78], "ans": []},
+        {"lyric": "Useobwa",
+          "range": [165.08, 166.24], "ans": [3]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [166.13, 168.09], "ans": []},
+    {"lyric": "Yeah yeah yeah CHEESE",
+      "lyric_hangul": "Yeah, yeah, yeah, cheese",
+      "lyric_translation": "Yeah yeah yeah CHEESE",
+      "range": [168.09, 170.13], "ans": []},
+    "",
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [170.13, 171.82], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, 웃어봐",
+      "lyric_translation": "Yeah yeah yeah yeah smile",
+      "parts": [
+        {"lyric": "Yeah yeah yeah yeah",
+          "range": [171.82, 173.78], "ans": []},
+        {"lyric": "Useobwa",
+          "range": [173.08, 174.22], "ans": [3]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah yeah yeah yeah",
+      "range": [174.17, 175.93], "ans": []},
+    {
+      "lyric_hangul": "Yeah, yeah, yeah, cheese",
+      "lyric_translation": "Yeah yeah yeah CHEESE",
+      "parts": [
+        {"lyric": "Yeah yeah yeah",
+          "range": [175.93, 176.43], "ans": []},
+        {"lyric": "CHEESE",
+          "range": [177.09, 179.83], "ans": [3]}
+      ]
+    }
+  ]
+}

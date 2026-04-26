@@ -1,0 +1,321 @@
+{
+  "name": "G.O.A.T. (MINA & DAHYUN & CHAEYOUNG)\r",
+  "ogg": "sound/kpop/goat.ogg",
+  "id": "goat",
+  "group": "twice",
+  "language": "en",
+  "released": "2025-07-11",
+  "album": "THIS IS FOR",
+  "cover": "css/images/covers/goat.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:17Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "Baby, I'm the G.O.A.T. (drip, drip, drip)",
+      "parts": [
+        {"lyric": "Baby I’m the G.O.A.T.",
+          "range": [3.39, 6.14], "ans": [6]},
+        {"lyric": "Drip drip drip",
+          "range": [6.14, 7.25], "ans": [6]}
+      ]
+    },
+    {"lyric": "Baby I’m the G.O.A.T. don’t try me",
+      "lyric_hangul": "Baby, I'm the G.O.A.T., don't try me (don't try me, can't you see?)",
+      "lyric_translation": "",
+      "range": [7.25, 11.26], "ans": [6]},
+    {
+      "lyric_hangul": "Can't you see? I'm in deep flow (yeah, drip, drip, drip, drip)",
+      "parts": [
+        {"lyric": "Don’t try me can’t you see",
+          "range": [11.26, 12.93], "ans": [7]},
+        {"lyric": "Can’t you see I’m in deep flow",
+          "range": [12.23, 15.04], "ans": [8]},
+        {"lyric": "Yeah drip drip drip drip",
+          "range": [14.34, 15.56], "ans": [7]}
+      ]
+    },
+    {"lyric": "Like a waterfall that can’t be stopped",
+      "lyric_hangul": "Like a waterfall that can't be stopped",
+      "lyric_translation": "",
+      "range": [15.56, 18.65], "ans": [8]},
+    {"lyric": "Make it rain didn’t miss a spot",
+      "lyric_hangul": "Make it rain, didn't miss a spot (miss a spot)",
+      "lyric_translation": "",
+      "range": [18.65, 21.04], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "Keeping busy, I've been out on the road (show what you came for)",
+      "parts": [
+        {"lyric": "Keeping busy I’ve been out on the road",
+          "range": [21.04, 24.79], "ans": [7]},
+        {"lyric": "Show what you came for",
+          "range": [24.09, 25.7], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "When the loneliness was taking its toll (ooh, not in my feels)",
+      "parts": [
+        {"lyric": "When the loneliness was taking its toll",
+          "range": [25.52, 28.92], "ans": [7]},
+        {"lyric": "Not in my feels",
+          "range": [28.22, 29.99], "ans": [6]}
+      ]
+    },
+    {"lyric": "Left me out hung to dry",
+      "lyric_hangul": "Left me out hung to dry (yeah, yeah)",
+      "lyric_translation": "",
+      "range": [29.99, 32.73], "ans": [8]},
+    {"lyric": "Phoenix watch me rise",
+      "lyric_hangul": "Phoenix, watch me rise (I rise, I rise)",
+      "lyric_translation": "",
+      "range": [32.73, 34.82], "ans": [8]},
+    {
+      "lyric_hangul": "Too bad that you're gone, won't see me cry",
+      "parts": [
+        {"lyric": "Too bad that you’re gone",
+          "range": [34.82, 37.34], "ans": [6]},
+        {"lyric": "Won’t see me cry",
+          "range": [37.34, 38.37], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Got me on a roll yeah I breathe fire",
+      "lyric_hangul": "Got me on a roll, yeah, I breathe fire",
+      "lyric_translation": "",
+      "range": [38.37, 40.57], "ans": [7]},
+    {"lyric": "Try to bring me low but I go higher",
+      "lyric_hangul": "Try to bring me low, but I go higher",
+      "lyric_translation": "",
+      "range": [40.57, 42.73], "ans": [7]},
+    {
+      "lyric_hangul": "'Cause I got a goal, it won't stop for you",
+      "parts": [
+        {"lyric": "Cause I got a goal it won’t stop for you",
+          "range": [42.73, 44.1], "ans": [8]},
+        {"lyric": "I got a goal it won’t stop for you",
+          "range": [43.4, 45.02], "ans": [6]}
+      ]
+    },
+    {"lyric": "Yes I am the G.O.A.T. I am tougher",
+      "lyric_hangul": "Yes, I am the G.O.A.T., I am tougher",
+      "lyric_translation": "",
+      "range": [45.02, 47.04], "ans": [8]},
+    {"lyric": "Got me on a roll yeah I breathe fire",
+      "lyric_hangul": "Got me on a roll, yeah, I breathe fire (oh)",
+      "lyric_translation": "",
+      "range": [47.04, 49.16], "ans": [7]},
+    {"lyric": "Try to bring me low but I go higher",
+      "lyric_hangul": "Try to bring me low, but I go higher (higher)",
+      "lyric_translation": "",
+      "range": [49.16, 51.38], "ans": [7]},
+    {"lyric": "Cause I got a goal it won’t stop for you",
+      "lyric_hangul": "'Cause I got a goal, it won't stop for you",
+      "lyric_translation": "",
+      "range": [51.38, 53.47], "ans": [6]},
+    "",
+    {"lyric": "Yes I am the G.O.A.T. on the top",
+      "lyric_hangul": "Yes, I am the G.O.A.T. on the top (yeah, I)",
+      "lyric_translation": "",
+      "range": [53.47, 55.62], "ans": [6]},
+    {"lyric": "Baby I’m the G.O.A.T.",
+      "lyric_hangul": "Baby, I'm the G.O.A.T. (the G.O.A.T., the G.O.A.T., the G.O.A.T.)",
+      "lyric_translation": "",
+      "range": [55.02, 58.19], "ans": [8]},
+    {"lyric": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_hangul": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_translation": "",
+      "range": [57.73, 59.3], "ans": []},
+    {"lyric": "Baby, I'm the G.O.A.T. (I'm the G.O.A.T.)",
+      "lyric_hangul": "Baby, I'm the G.O.A.T. (I'm the G.O.A.T.)",
+      "lyric_translation": "",
+      "range": [59.3, 62.01], "ans": []},
+    {"lyric": "Oh oh oh oh, oh oh oh, oh oh oh",
+      "lyric_hangul": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_translation": "",
+      "range": [62.01, 63.67], "ans": [7]},
+    {"lyric": "Baby I’m the G.O.A.T.",
+      "lyric_hangul": "Baby, I'm the G.O.A.T.",
+      "lyric_translation": "",
+      "range": [63.67, 66.61], "ans": [8]},
+    {"lyric": "Oh oh oh oh, oh oh oh, oh oh oh",
+      "lyric_hangul": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_translation": "",
+      "range": [66.61, 68.49], "ans": [7]},
+    {"lyric": "I got a goal, it won't stop for you, yes, I am the G.O.A.T. on the top",
+      "lyric_hangul": "I got a goal, it won't stop for you, yes, I am the G.O.A.T. on the top",
+      "lyric_translation": "",
+      "range": [68.49, 72.37], "ans": []},
+    {"lyric": "Baby I’m the G.O.A.T.",
+      "lyric_hangul": "Baby, I'm the G.O.A.T.",
+      "lyric_translation": "",
+      "range": [72.37, 73.61], "ans": [6]},
+    {
+      "lyric_hangul": "I got a lotta love but ain't none for you (none, none)",
+      "parts": [
+        {"lyric": "I got a lotta love but ain’t none for you",
+          "range": [73.61, 75.97], "ans": [6]},
+        {"lyric": "(None none)",
+          "range": [75.27, 76.24], "ans": [7]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "I bust a little whine, you know like I do",
+      "lyric_hangul": "I bust a little whine, you know, like I do (like I do)",
+      "lyric_translation": "",
+      "range": [76.02, 78.0], "ans": [6]},
+    {"lyric": "Make a brother wanna pull up",
+      "lyric_hangul": "Make a brother wanna pull up (pull up)",
+      "lyric_translation": "",
+      "range": [78.0, 79.76], "ans": [7]},
+    {"lyric": "Cause he know that I’m a doer",
+      "lyric_hangul": "'Cause he know that I'm a doer (doer)",
+      "lyric_translation": "",
+      "range": [79.76, 81.61], "ans": [7]},
+    {"lyric": "Make it tick tock like that clock don’t stop",
+      "lyric_hangul": "Make it tick-tock like that clock, don't stop",
+      "lyric_translation": "",
+      "range": [81.61, 84.4], "ans": [8]},
+    {"lyric": "Keep going I hit the spot yeah",
+      "lyric_hangul": "Keep going, I hit the spot, yeah",
+      "lyric_translation": "",
+      "range": [84.4, 86.63], "ans": [8]},
+    {
+      "lyric_hangul": "Bettin' you gon' like the view of (view of)",
+      "parts": [
+        {"lyric": "Betting you gon like the view of",
+          "range": [86.63, 88.37], "ans": [7]},
+        {"lyric": "(View of)",
+          "range": [87.67, 88.56], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Make your jaw drop to my future (baby, I'm a doer)",
+      "parts": [
+        {"lyric": "Make your jaw drop to my future",
+          "range": [88.5, 90.32], "ans": [7]},
+        {"lyric": "(Baby I’m a doer)",
+          "range": [89.62, 90.82], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Keeping busy, I've been out on the road (show what you came for)",
+      "parts": [
+        {"lyric": "Keeping busy I’ve been out on the road",
+          "range": [90.16, 93.73], "ans": [6]},
+        {"lyric": "Show what you came for",
+          "range": [93.03, 94.75], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "When the loneliness was taking its toll (ooh, not in my feels)",
+      "parts": [
+        {"lyric": "When the loneliness was taking its toll",
+          "range": [94.69, 97.74], "ans": [6]},
+        {"lyric": "Not in my feels",
+          "range": [97.04, 99.42], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Left me out hung to dry (dry), phoenix, watch me rise",
+      "parts": [
+        {"lyric": "Left me out hung to dry",
+          "range": [99.42, 101.19], "ans": [8]},
+        {"lyric": "(Dry)",
+          "range": [100.49, 101.83], "ans": [6]},
+        {"lyric": "Phoenix watch me rise",
+          "range": [101.13, 103.98], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Too bad that you're gone (ooh), won't see me cry",
+      "parts": [
+        {"lyric": "Too bad that you’re gone",
+          "range": [103.98, 106.35], "ans": [6]},
+        {"lyric": "Won’t see me cry",
+          "range": [106.35, 107.6], "ans": [6]}
+      ]
+    },
+    {"lyric": "Got me on a roll yeah I breathe fire",
+      "lyric_hangul": "Got me on a roll, yeah, I breathe fire (yeah, yeah, yeah, yeah)",
+      "lyric_translation": "",
+      "range": [107.6, 109.86], "ans": [8]},
+    "",
+    {"lyric": "Try to bring me low but I go higher",
+      "lyric_hangul": "Try to bring me low, but I go higher (yeah, yeah, yeah)",
+      "lyric_translation": "",
+      "range": [109.86, 111.83], "ans": [8]},
+    {"lyric": "Cause I got a goal it won’t stop for you",
+      "lyric_hangul": "'Cause I got a goal, it won't stop for you (I got a goal, won't stop for you)",
+      "lyric_translation": "",
+      "range": [111.83, 114.13], "ans": [7]},
+    {"lyric": "Yes I am the G.O.A.T. I am tougher",
+      "lyric_hangul": "Yes, I am the G.O.A.T., I am tougher (I am tougher, I'm the G.O.A.T.)",
+      "lyric_translation": "",
+      "range": [114.13, 116.18], "ans": [7]},
+    {"lyric": "Got me on a roll yeah I breathe fire",
+      "lyric_hangul": "Got me on a roll, yeah, I breathe fire",
+      "lyric_translation": "",
+      "range": [116.18, 118.37], "ans": [6]},
+    {"lyric": "Try to bring me low but I go higher",
+      "lyric_hangul": "Try to bring me low, but I go higher (oh)",
+      "lyric_translation": "",
+      "range": [118.37, 120.55], "ans": [6]},
+    {"lyric": "Cause I got a goal it won’t stop for you",
+      "lyric_hangul": "'Cause I got a goal, it won't stop for you",
+      "lyric_translation": "",
+      "range": [120.55, 122.71], "ans": [8]},
+    {"lyric": "Yes I am the G.O.A.T. on the top",
+      "lyric_hangul": "Yes, I am the G.O.A.T. on the top",
+      "lyric_translation": "",
+      "range": [122.71, 124.28], "ans": [8]},
+    {"lyric": "Baby I’m the G.O.A.T.",
+      "lyric_hangul": "Baby, I'm the G.O.A.T. (yes, I'm the G.O.A.T., I'm on the top)",
+      "lyric_translation": "",
+      "range": [124.28, 126.99], "ans": [8]},
+    "",
+    {"lyric": "Oh oh oh oh, oh oh oh, oh oh oh",
+      "lyric_hangul": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_translation": "",
+      "range": [126.99, 128.76], "ans": [7]},
+    {"lyric": "Baby, I'm the G.O.A.T. (no, no, I'm the G.O.A.T.)",
+      "lyric_hangul": "Baby, I'm the G.O.A.T. (no, no, I'm the G.O.A.T.)",
+      "lyric_translation": "",
+      "range": [128.76, 131.2], "ans": []},
+    {"lyric": "Oh oh oh oh, oh oh oh, oh oh oh",
+      "lyric_hangul": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_translation": "",
+      "range": [131.2, 132.97], "ans": [7]},
+    {"lyric": "Baby I’m the G.O.A.T.",
+      "lyric_hangul": "Baby, I'm the G.O.A.T.",
+      "lyric_translation": "",
+      "range": [132.97, 135.58], "ans": [8]},
+    {"lyric": "Oh oh oh oh, oh oh oh, oh oh oh",
+      "lyric_hangul": "Oh, oh, oh, oh, oh-oh-oh",
+      "lyric_translation": "",
+      "range": [135.58, 137.69], "ans": [7]},
+    {
+      "lyric_hangul": "'Cause I got a goal, it won't stop for you, yes, I am the G.O.A.T. on the top",
+      "parts": [
+        {"lyric": "I got a goal it won’t stop for you",
+          "range": [137.69, 139.43], "ans": [6]},
+        {"lyric": "Yes I am the G.O.A.T. on the top",
+          "range": [139.43, 141.39], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, I'm the G.O.A.T.",
+      "parts": [
+        {"lyric": "Baby I’m the G.O.A.T.",
+          "range": [141.21, 142.42], "ans": [7]},
+        {"lyric": "Baby I’m the G.O.A.T.",
+          "range": [141.81, 142.82], "ans": [6]},
+        {"lyric": "Oh oh oh oh, oh oh oh, oh oh oh",
+          "range": [142.12, 145.06], "ans": [7]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "name": "Truth\r",
+  "ogg": "sound/kpop/truth.ogg",
+  "id": "truth",
+  "group": "twice",
+  "language": "ko",
+  "released": "2015-10-20",
+  "album": "THE STORY BEGINS",
+  "cover": "css/images/covers/truth.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:52Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "두근두근 떨리네",
+      "lyric_translation": "Hmm yeah, oh oh / No oh (Alright) / What should I say? My heart is pounding",
+      "parts": [
+        {"lyric": "Hmm yeah, oh oh",
+          "range": [15.1, 15.6], "ans": [6]},
+        {"lyric": "No oh",
+          "range": [15.45, 16.1], "ans": [6]},
+        {"lyric": "(Alright)",
+          "range": [15.5, 16.5], "ans": [3]},
+        {"lyric": "Mweorago malhalkka dugeundugeun tteolline",
+          "range": [15.8, 17.14], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Meorireul mukkeulkkabwa namdeulgwa dareuge",
+      "lyric_hangul": "머리를 묶을까봐 남들과 다르게",
+      "lyric_translation": "Maybe I’ll put my hair up to look different from the others",
+      "range": [17.04, 20.36], "ans": [1]},
+    {
+      "lyric_hangul": "아무렇지 않아 했지만",
+      "lyric_translation": "I said I’m ok (That’s right)",
+      "parts": [
+        {"lyric": "Amureochi ana",
+          "range": [20.36, 22.27], "ans": [1]},
+        {"lyric": "(Uh huh)",
+          "range": [21.57, 22.93], "ans": [3]},
+        {"lyric": "Haetjiman",
+          "range": [22.32, 23.9], "ans": [1]},
+        {"lyric": "(That’s right)",
+          "range": [23.2, 24.16], "ans": [3]}
+      ]
+    },
+    {"lyric": "That's right",
+      "lyric_hangul": "That's right",
+      "lyric_translation": "",
+      "range": [23.86, 24.41], "ans": []},
+    {"lyric": "Galpangjilpang naneun heodungjidung dwego",
+      "lyric_hangul": "갈팡질팡 나는 허둥지둥 되고",
+      "lyric_translation": "But I’m stumbling around completely flustered",
+      "range": [24.41, 26.22], "ans": [7]},
+    {"lyric": "Bonamana han sen cheok",
+      "lyric_hangul": "보나마나 한 센 척",
+      "lyric_translation": "It’s obvious I’m pretending to be cool",
+      "range": [26.22, 27.91], "ans": [7]},
+    {"lyric": "Geoulbogo eolleun danjanghae",
+      "lyric_hangul": "거울보고 얼른 단장해",
+      "lyric_translation": "I look in the mirror and quickly fix my makeup",
+      "range": [27.91, 29.55], "ans": [8]},
+    {"lyric": "Hokshina majuchilkka junbihae",
+      "lyric_hangul": "혹시나 마주칠까 준비해",
+      "lyric_translation": "Getting ready just in case I bump into you",
+      "range": [29.55, 31.44], "ans": [8]},
+    {"lyric": "Mushimhan cheok haryeo haedo",
+      "lyric_hangul": "무심한 척 하려 해도",
+      "lyric_translation": "I try to act like I don’t care",
+      "range": [31.44, 32.83], "ans": [8]},
+    {"lyric": "Neomu joeun geol na eotteokae",
+      "lyric_hangul": "너무 좋은 걸 나 어떡해 아",
+      "lyric_translation": "But I like you so much, what do I do?",
+      "range": [32.83, 34.79], "ans": [8]},
+    {"lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "",
+      "range": [34.79, 35.45], "ans": []},
+    "",
+    {"lyric": "Malhalkka mareulkka",
+      "lyric_hangul": "말할까 말을까",
+      "lyric_translation": "Should I say it or not?",
+      "range": [35.45, 37.01], "ans": [4]},
+    {"lyric": "Gobaekae mareulhae",
+      "lyric_hangul": "고백해 말을해",
+      "lyric_translation": "Should I confess or not?",
+      "range": [37.01, 38.77], "ans": [4]},
+    {"lyric": "Oh baby",
+      "lyric_hangul": "Oh baby",
+      "lyric_translation": "",
+      "range": [38.77, 40.09], "ans": []},
+    {
+      "lyric_hangul": "Oh baby Oh baby",
+      "lyric_translation": "Oh baby oh baby / (But truth is)",
+      "parts": [
+        {"lyric": "Oh baby oh baby",
+          "range": [38.77, 39.81], "ans": [4]},
+        {"lyric": "(But truth is)",
+          "range": [40.81, 41.81], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "But truth is",
+      "lyric_hangul": "But Truth is",
+      "lyric_translation": "But truth is",
+      "range": [40.81, 42.3], "ans": [1]},
+    {"lyric": "Sashireun marya I just wanna be with you",
+      "lyric_hangul": "사실은 말야 I just wanna be with you",
+      "lyric_translation": "The truth is I just wanna be with you",
+      "range": [42.3, 48.79], "ans": [5]},
+    {"lyric": "In love with you",
+      "lyric_hangul": "In love with you",
+      "lyric_translation": "",
+      "range": [48.79, 50.46], "ans": []},
+    {"lyric": "In love with you In love with you",
+      "lyric_hangul": "In love with you In love with you",
+      "lyric_translation": "In love with you, in love with you",
+      "range": [48.79, 52.32], "ans": [5]},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [52.32, 56.43], "ans": []},
+    {"lyric": "Geurae jinshimiya I just wanna be with you",
+      "lyric_hangul": "그래 진심이야 I just wanna be with you",
+      "lyric_translation": "I’m being serious, I just wanna be with you",
+      "range": [56.43, 62.7], "ans": [1]},
+    {"lyric": "In love with you",
+      "lyric_hangul": "In love with you",
+      "lyric_translation": "",
+      "range": [62.7, 64.61], "ans": []},
+    "",
+    {"lyric": "In love with you In love with you",
+      "lyric_hangul": "In love with you In love with you",
+      "lyric_translation": "In love with you, in love with you",
+      "range": [62.7, 66.35], "ans": [1]},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [66.35, 70.21], "ans": []},
+    {"lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "",
+      "range": [70.21, 71.04], "ans": []},
+    {
+      "lyric_hangul": "떨려도 진정하고",
+      "lyric_translation": "(Truth) I’m shaking but I’m calm",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [71.04, 71.77], "ans": []},
+        {"lyric": "Tteollyeodo jinjeonghago",
+          "range": [71.09, 72.64], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "너에게 고백할래",
+      "lyric_translation": "(Truth) I’m gonna confess to you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [72.62, 73.37], "ans": []},
+        {"lyric": "Neoege gobaekallae",
+          "range": [72.67, 74.72], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I die for you",
+      "lyric_translation": "(Truth) Baby I’d die for you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [74.72, 75.23], "ans": []},
+        {"lyric": "Baby I die for you",
+          "range": [74.77, 78.51], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "심호흡 두 번 하고",
+      "lyric_translation": "(Truth) Take two deep breaths",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [78.51, 79.37], "ans": []},
+        {"lyric": "Shimhoheup du beon hago",
+          "range": [78.67, 79.73], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "니 귀에 속삭일게",
+      "lyric_translation": "(Truth) I’m gonna whisper in your ear",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [79.73, 80.96], "ans": []},
+        {"lyric": "Ni gwie soksagilkke",
+          "range": [80.26, 81.77], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I fight for you",
+      "lyric_translation": "(Truth) Baby I’ll fight for you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [81.72, 82.71], "ans": []},
+        {"lyric": "Baby I fight for you",
+          "range": [82.01, 84.99], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Naega nadapji antagu joahagin hanabwa Truth",
+      "lyric_hangul": "내가 나답지 않다구 좋아하긴 하나봐 Truth",
+      "lyric_translation": "I’m not myself right now, I must like you a lot, truth",
+      "range": [84.99, 92.08], "ans": [5]},
+    "",
+    {"lyric": "Malhalkka mareulkka",
+      "lyric_hangul": "말할까 말을까",
+      "lyric_translation": "Should I say it or not?",
+      "range": [92.08, 93.78], "ans": [4]},
+    {"lyric": "Gobaekae mareulhae",
+      "lyric_hangul": "고백해 말을해",
+      "lyric_translation": "Should I confess or not?",
+      "range": [93.78, 95.25], "ans": [4]},
+    {"lyric": "Oh baby",
+      "lyric_hangul": "Oh baby",
+      "lyric_translation": "",
+      "range": [95.25, 96.74], "ans": []},
+    {
+      "lyric_hangul": "Oh baby Oh baby",
+      "lyric_translation": "Oh baby oh baby / (But truth is)",
+      "parts": [
+        {"lyric": "Oh baby oh baby",
+          "range": [95.25, 96.27], "ans": [4]},
+        {"lyric": "(But truth is)",
+          "range": [97.59, 98.59], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "But truth is",
+      "lyric_hangul": "But Truth is",
+      "lyric_translation": "But truth is",
+      "range": [97.59, 98.94], "ans": [1]},
+    {"lyric": "Sashireun marya I just wanna be with you",
+      "lyric_hangul": "사실은 말야 I just wanna be with you",
+      "lyric_translation": "The truth is I just wanna be with you",
+      "range": [98.94, 105.19], "ans": [5]},
+    {"lyric": "In love with you",
+      "lyric_hangul": "In love with you",
+      "lyric_translation": "",
+      "range": [105.19, 106.95], "ans": []},
+    {"lyric": "In love with you in love with you",
+      "lyric_hangul": "In love with you In love with you",
+      "lyric_translation": "In love with you, in love with you",
+      "range": [105.19, 109.12], "ans": [5]},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [109.12, 112.82], "ans": []},
+    {"lyric": "Geurae jinshimiya I just wanna be with you",
+      "lyric_hangul": "그래 진심이야 I just wanna be with you",
+      "lyric_translation": "I’m being serious, I just wanna be with you",
+      "range": [112.82, 119.18], "ans": [1]},
+    {"lyric": "In love with you",
+      "lyric_hangul": "In love with you",
+      "lyric_translation": "",
+      "range": [119.18, 121.04], "ans": []},
+    "",
+    "[next-col]",
+    {"lyric": "In love with you in love with you",
+      "lyric_hangul": "In love with you In love with you",
+      "lyric_translation": "In love with you, in love with you",
+      "range": [119.18, 122.88], "ans": [1]},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [122.88, 126.74], "ans": []},
+    {"lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "",
+      "range": [126.74, 127.65], "ans": []},
+    {
+      "lyric_hangul": "떨려도 진정하고",
+      "lyric_translation": "(Truth) I’m shaking but I’m calm",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [127.65, 128.34], "ans": []},
+        {"lyric": "Tteollyeodo jinjeonghago",
+          "range": [127.7, 129.19], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "너에게 고백할래",
+      "lyric_translation": "(Truth) I’m gonna confess to you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [129.19, 129.91], "ans": []},
+        {"lyric": "Neoege gobaekallae",
+          "range": [129.24, 131.19], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I die for you",
+      "lyric_translation": "(Truth) Baby I’d die for you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [131.19, 131.69], "ans": []},
+        {"lyric": "Baby I die for you",
+          "range": [131.24, 134.95], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "심호흡 두 번 하고",
+      "lyric_translation": "(Truth) Take two deep breaths",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [134.95, 135.81], "ans": []},
+        {"lyric": "Shimhoheup du beon hago",
+          "range": [135.11, 136.34], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "니 귀에 속삭일게",
+      "lyric_translation": "(Truth) I’m gonna whisper in your ear",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [136.34, 137.47], "ans": []},
+        {"lyric": "Ni gwie soksagilkke",
+          "range": [136.77, 138.3], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I fight for you",
+      "lyric_translation": "(Truth) Baby I’ll fight for you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [138.14, 139.14], "ans": []},
+        {"lyric": "Baby I fight for you",
+          "range": [138.44, 141.79], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Naega baro baro baraneun soweon Yeah yeah",
+      "lyric_hangul": "내가 바로 바로 바라는 소원",
+      "lyric_translation": "My one wish is",
+      "range": [146.13, 153.18], "ans": [6]},
+    {"lyric": "Baby be my be my everything",
+      "lyric_hangul": "Baby be my be my everything",
+      "lyric_translation": "Baby be my, be my everything",
+      "range": [153.18, 155.15], "ans": [6]},
+    "",
+    {"lyric": "Eorige boyeodo seotun geot gatado",
+      "lyric_hangul": "어리게 보여도 서툰 것 같아도",
+      "lyric_translation": "I look young and clumsy but",
+      "range": [155.15, 158.6], "ans": [5]},
+    {"lyric": "Neoreul joahae geojinmari anya",
+      "lyric_hangul": "너를 좋아해 거짓말이 아냐",
+      "lyric_translation": "I like you, ain’t no lie",
+      "range": [158.6, 165.2], "ans": [5]},
+    {"lyric": "Ije soljjikalkke Yeah",
+      "lyric_hangul": "이제 솔직할게",
+      "lyric_translation": "I’ll be honest now",
+      "range": [165.2, 169.69], "ans": [5]},
+    "",
+    {"lyric": "Sashireun marya I just wanna be with you",
+      "lyric_hangul": "사실은 말야 I just wanna be with you",
+      "lyric_translation": "The truth is I just wanna be with you",
+      "range": [169.69, 175.98], "ans": [5]},
+    {"lyric": "In love with you",
+      "lyric_hangul": "In love with you",
+      "lyric_translation": "",
+      "range": [175.98, 177.67], "ans": []},
+    {"lyric": "In love with you in love with you",
+      "lyric_hangul": "In love with you In love with you",
+      "lyric_translation": "In love with you, in love with you",
+      "range": [175.98, 179.92], "ans": [5]},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [179.92, 183.72], "ans": []},
+    {"lyric": "Geurae jinshimiya I just wanna be with you",
+      "lyric_hangul": "그래 진심이야 I just wanna be with you",
+      "lyric_translation": "I’m being serious, I just wanna be with you",
+      "range": [183.72, 189.96], "ans": [1]},
+    {"lyric": "In love with you",
+      "lyric_hangul": "In love with you",
+      "lyric_translation": "",
+      "range": [189.96, 191.74], "ans": []},
+    {"lyric": "In love with you in love with you",
+      "lyric_hangul": "In love with you In love with you",
+      "lyric_translation": "In love with you, in love with you",
+      "range": [189.96, 194.06], "ans": [1]},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [194.06, 197.21], "ans": []},
+    {"lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "",
+      "range": [197.21, 198.36], "ans": []},
+    "",
+    {
+      "lyric_hangul": "떨려도 진정하고",
+      "lyric_translation": "(Truth) I’m shaking but I’m calm",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [198.36, 199.0], "ans": []},
+        {"lyric": "Tteollyeodo jinjeonghago",
+          "range": [198.41, 200.08], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "너에게 고백할래",
+      "lyric_translation": "(Truth) I’m gonna confess to you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [200.08, 200.7], "ans": []},
+        {"lyric": "Neoege gobaekallae",
+          "range": [200.13, 201.81], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I die for you",
+      "lyric_translation": "(Truth) Baby I’d die for you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [201.81, 202.32], "ans": []},
+        {"lyric": "Baby I die for you",
+          "range": [201.86, 205.65], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "심호흡 두 번 하고",
+      "lyric_translation": "(Truth) Take two deep breaths",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [205.65, 206.36], "ans": []},
+        {"lyric": "Shimhoheup du beon hago",
+          "range": [205.7, 206.93], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "니 귀에 속삭일게",
+      "lyric_translation": "(Truth) I’m gonna whisper in your ear",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [206.93, 208.02], "ans": []},
+        {"lyric": "Ni gwie soksagilkke",
+          "range": [207.32, 208.84], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I fight for you",
+      "lyric_translation": "(Truth) Baby I’ll fight for you",
+      "parts": [
+        {"lyric": "(Truth)",
+          "range": [208.84, 209.75], "ans": []},
+        {"lyric": "Baby I fight for you",
+          "range": [209.05, 211.5], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "Truth",
+      "range": [211.5, 214.0], "ans": []}
+  ]
+}

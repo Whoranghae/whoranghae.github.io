@@ -1,0 +1,443 @@
+{
+  "name": "YES or YES\r",
+  "ogg": "sound/kpop/yes_or_yes.ogg",
+  "id": "yes-or-yes",
+  "group": "twice",
+  "language": "ko",
+  "released": "2018-11-05",
+  "album": "YES or YES",
+  "cover": "css/images/covers/yes-or-yes.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:22Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Hey boy",
+      "lyric_hangul": "Hey boy",
+      "lyric_translation": "Hey boy",
+      "range": [0.39, 2.46], "ans": [6]},
+    {"lyric": "Look, I’m gonna make this simple for you",
+      "lyric_hangul": "Look, I'm gonna make this simple for you",
+      "lyric_translation": "Look, I’m gonna make this simple for you",
+      "range": [2.46, 6.19], "ans": [6]},
+    {
+      "lyric_hangul": "You got two choices... Yes or yes?",
+      "lyric_translation": "You got two choices… YES or YES? / (Ah)",
+      "parts": [
+        {"lyric": "You got two choices… YES or YES?",
+          "range": [6.19, 10.18], "ans": [6]},
+        {"lyric": "(Ah)",
+          "range": [10.18, 15.36], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Ah ah ah ah ah",
+      "lyric_hangul": "Ah ah ah ah ah",
+      "lyric_translation": "",
+      "range": [15.36, 18.71], "ans": []},
+    {
+      "lyric_hangul": "둘 중에 하나만 골라 Yes or yes?",
+      "lyric_translation": "Choose only one of the two YES or YES? / (Ah ah)",
+      "parts": [
+        {"lyric": "Dul junge hanaman golla YES or YES?",
+          "range": [18.71, 21.56], "ans": [5]},
+        {"lyric": "(Ah ah)",
+          "range": [20.86, 22.33], "ans": [9]}
+      ]
+    },
+    {"lyric": "Ah ah ah ah ah ah ah",
+      "lyric_hangul": "Ah ah ah ah ah ah ah",
+      "lyric_translation": "",
+      "range": [22.09, 26.01], "ans": []},
+    {"lyric": "Hanaman seontaekae eoseo YES or YES?",
+      "lyric_hangul": "하나만 선택해 어서 Yes or yes?",
+      "lyric_translation": "Make your choice come on YES or YES?",
+      "range": [26.01, 29.59], "ans": [1]},
+    "",
+    {"lyric": "Naega ireokedo igijeogieotteonga",
+      "lyric_hangul": "내가 이렇게도 이기적이었던가 (Ah, ah)",
+      "lyric_translation": "Since when was I so selfish?",
+      "range": [29.59, 33.51], "ans": [2]},
+    {"lyric": "Mweonga ireoke gatgo shipdeon jeok isseonna",
+      "lyric_hangul": "뭔가 이렇게 갖고 싶던 적 있었나, 있었나",
+      "lyric_translation": "Did I ever want something this eagerly?",
+      "range": [33.51, 37.51], "ans": [2]},
+    {
+      "lyric_hangul": "다 놀라, 다 놀라 내 뻔뻔함에",
+      "lyric_translation": "Everyone is surprised at how shameless I am / Come on and tell me yes",
+      "parts": [
+        {"lyric": "Da nolla nae ppeonppeonhame",
+          "range": [37.51, 39.8], "ans": [2]},
+        {"lyric": "Come on and tell me yes",
+          "range": [39.1, 41.92], "ans": []}
+      ]
+    },
+    {"lyric": "(Come on and tell me yes)",
+      "lyric_hangul": "(Come on and tell me yes)",
+      "lyric_translation": "",
+      "range": [41.92, 43.26], "ans": []},
+    "",
+    {"lyric": "Saenggakboda gwagamhaejin naye Scenario",
+      "lyric_hangul": "생각보다 과감해진 나의 Scenario (Ah, ah)",
+      "lyric_translation": "My scenario has become more daring than I thought",
+      "range": [43.26, 47.05], "ans": [6]},
+    {"lyric": "I jeongdo peullaenimyeon wanbyeokae manjokae",
+      "lyric_hangul": "이 정도 플랜이면 완벽해 만족해, 만족해",
+      "lyric_translation": "I’d say this plan is perfect, quite satisfying",
+      "range": [47.05, 50.19], "ans": [6]},
+    {
+      "lyric_hangul": "I don't care, I don't care",
+      "lyric_translation": "I don’t care no matter what others say / You better tell me yes",
+      "parts": [
+        {"lyric": "I don’t care nuga mweoraedo",
+          "range": [50.19, 52.97], "ans": [6]},
+        {"lyric": "You better tell me yes",
+          "range": [52.27, 54.12], "ans": []}
+      ]
+    },
+    {"lyric": "(You better tell me yes)",
+      "lyric_hangul": "(You better tell me yes)",
+      "lyric_translation": "",
+      "range": [55.35, 57.59], "ans": []},
+    "",
+    {"lyric": "Nae mameun jeonghaesseo YES!",
+      "lyric_hangul": "내 맘은 정했어 Yes!",
+      "lyric_translation": "I have decided YES!",
+      "range": [57.59, 60.12], "ans": [4]},
+    {"lyric": "Geureom ije ni daedabeul deureul charye",
+      "lyric_hangul": "그럼 이제 네 대답을 들을 차례",
+      "lyric_translation": "Now it’s time to hear your answer",
+      "range": [60.12, 63.35], "ans": [4]},
+    {"lyric": "Himdeulmyeon bogireul julkke neon goreugiman hae",
+      "lyric_hangul": "힘들면 보기를 줄게 넌 고르기만 해",
+      "lyric_translation": "If it’s too hard, there are examples to choose from",
+      "range": [63.35, 66.8], "ans": [9]},
+    {"lyric": "Gominhal piryodo eopge haejulkke",
+      "lyric_hangul": "고민할 필요도 없게 해줄게",
+      "lyric_translation": "You don’t have to waste your time thinking",
+      "range": [66.8, 70.24], "ans": [9]},
+    "",
+    {"lyric": "Mweol goreulji molla junbihaebwasseo",
+      "lyric_hangul": "뭘 고를지 몰라 준비해봤어",
+      "lyric_translation": "Don’t know what you’ll choose, so I prepared these options",
+      "range": [70.24, 74.52], "ans": [1]},
+    {"lyric": "Dul junge hanaman golla YES or YES?",
+      "lyric_hangul": "둘 중에 하나만 골라 Yes or yes?",
+      "lyric_translation": "Choose only one of the two YES or YES?",
+      "range": [74.52, 77.47], "ans": [8]},
+    {"lyric": "Ni maeumeul molla junbihaebwasseo",
+      "lyric_hangul": "네 마음을 몰라 준비해봤어",
+      "lyric_translation": "Don’t know what you want, so I prepared these options",
+      "range": [77.47, 81.41], "ans": [5]},
+    {"lyric": "Hanaman seontaekae eoseo YES or YES?",
+      "lyric_hangul": "하나만 선택해 어서 Yes or yes?",
+      "lyric_translation": "Make your choice come on YES or YES?",
+      "range": [81.41, 85.13], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "싫어는 싫어 나 아니면 우리?",
+      "lyric_translation": "I will say no to your no, is it me or us?",
+      "parts": [
+        {"lyric": "Shireoneun shireo",
+          "range": [85.13, 86.64], "ans": [2]},
+        {"lyric": "Na animyeon uri?",
+          "range": [85.94, 87.99], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "선택을 존중해 거절은 거절해",
+      "lyric_translation": "I respect your choice but reject your rejection",
+      "parts": [
+        {"lyric": "Seontaegeul jonjunghae",
+          "range": [87.93, 89.96], "ans": [2]},
+        {"lyric": "Geojeoreun geojeolhae",
+          "range": [89.26, 91.64], "ans": [7]}
+      ]
+    },
+    {"lyric": "Seontaekjineun hana ja seontaegeun ni mam",
+      "lyric_hangul": "선택지는 하나 자 선택은 네 맘",
+      "lyric_translation": "There is only one answer, the choice is up to you",
+      "range": [91.64, 95.12], "ans": [5]},
+    {"lyric": "It’s all up to you",
+      "lyric_hangul": "It's all up to you",
+      "lyric_translation": "It’s all up to you",
+      "range": [95.12, 99.12], "ans": [9]},
+    {"lyric": "Dul junge hanaman golla YES or YES?",
+      "lyric_hangul": "둘 중에 하나만 골라 Yes or yes?",
+      "lyric_translation": "Choose only one of the two YES or YES?",
+      "range": [99.12, 102.69], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "진심일까? (Do not guess)",
+      "lyric_translation": "Do you mean it? Do not guess",
+      "parts": [
+        {"lyric": "Jinshimilkka?",
+          "range": [102.69, 104.06], "ans": [6]},
+        {"lyric": "Do not guess",
+          "range": [103.36, 104.26], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "진심이니? (Do not ask)",
+      "lyric_translation": "Are you serious? Do not ask",
+      "parts": [
+        {"lyric": "Jinshimini?",
+          "range": [104.2, 105.82], "ans": [6]},
+        {"lyric": "Do not ask",
+          "range": [105.12, 106.05], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "애매한 좌우 말고 확실히 위아래로",
+      "lyric_translation": "Don’t give me that unsure side-to-side, / I want a sure up-and-down",
+      "parts": [
+        {"lyric": "Aemaehan jwau malgo",
+          "range": [105.58, 107.6], "ans": [1]},
+        {"lyric": "Hwakshilhi wiaraero",
+          "range": [107.6, 109.7], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "There’s no letters N & O",
+      "lyric_hangul": "There's no letters N & O",
+      "lyric_translation": "There’s no letters N & O",
+      "range": [109.17, 111.16], "ans": [7]},
+    {"lyric": "Jiweobeorillae oneulburo",
+      "lyric_hangul": "지워버릴래 오늘부로",
+      "lyric_translation": "I’ll erase them from today",
+      "range": [111.16, 113.25], "ans": [7]},
+    {"lyric": "Bokjapage gominhal piryo",
+      "lyric_hangul": "복잡하게 고민할 필요 (Uh, uh, uh)",
+      "lyric_translation": "There’s no need to think too hard",
+      "range": [113.25, 114.67], "ans": [8]},
+    {"lyric": "Eopseo jeongdabeun YES YES YO",
+      "lyric_hangul": "없어 정답은 Yes yes yo!",
+      "lyric_translation": "The answer is YES YES YO",
+      "range": [114.67, 116.24], "ans": [8]},
+    "",
+    {"lyric": "Eoptteon igishimdo jageukaneun neoye nungwa",
+      "lyric_hangul": "없던 이기심도 자극하는 너의 눈과",
+      "lyric_translation": "You bring out my hidden selfishness",
+      "range": [116.24, 119.86], "ans": [2]},
+    {"lyric": "Neol hyanghan hogishimi mannaseo",
+      "lyric_hangul": "널 향한 호기심이 만나서 (Ah, ah)",
+      "lyric_translation": "Your eyes and my curiosity about you",
+      "range": [119.86, 123.15], "ans": [2]},
+    {"lyric": "Taolla taoreunda",
+      "lyric_hangul": "타올라 (타올라) 타오른다 (타오른다)",
+      "lyric_translation": "Make my heart burning",
+      "range": [123.15, 125.76], "ans": [3]},
+    {
+      "lyric_hangul": "My heart burn, burn, burn",
+      "lyric_translation": "My heart burn burn burn / You better hurry up",
+      "parts": [
+        {"lyric": "My heart burn burn burn",
+          "range": [125.76, 127.29], "ans": [3]},
+        {"lyric": "You better hurry up",
+          "range": [126.59, 128.82], "ans": []}
+      ]
+    },
+    {"lyric": "(You better hurry up)",
+      "lyric_hangul": "(You better hurry up)",
+      "lyric_translation": "",
+      "range": [128.82, 129.93], "ans": []},
+    "",
+    "[next-col]",
+    {"lyric": "Jogeum shwipge malhajamyeon",
+      "lyric_hangul": "조금 쉽게 말하자면",
+      "lyric_translation": "To make it simple,",
+      "range": [129.93, 132.84], "ans": [4]},
+    {
+      "lyric_hangul": "넌 뭘 골라도 날 만나게 될 거야 (Waiting for you)",
+      "lyric_translation": "whatever you choose, you will be with me / Though it may seem a bit absurd",
+      "parts": [
+        {"lyric": "Neon mweol gollado nal mannage dwel kkeoya",
+          "range": [132.84, 135.43], "ans": [4]},
+        {"lyric": "(Waiting for you)",
+          "range": [134.73, 137.34], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐 좀 황당하긴 해도 억지라고 해도 (Whoa)",
+      "lyric_translation": "Though you might say I’m insisting you",
+      "parts": [
+        {"lyric": "Mweo jom hwangdanghagin haedo eokjirago haedo",
+          "range": [136.38, 140.35], "ans": [6]},
+        {"lyric": "(Oh)",
+          "range": [139.65, 140.63], "ans": [5]}
+      ]
+    },
+    {"lyric": "Jeolttae huhwehaji anke haejulkke",
+      "lyric_hangul": "절대 후회하지 않게 해줄게",
+      "lyric_translation": "I’ll make you to never regret",
+      "range": [139.88, 143.54], "ans": [6]},
+    "",
+    {"lyric": "Mweol goreulji molla junbihaebwasseo",
+      "lyric_hangul": "뭘 고를지 몰라 준비해봤어",
+      "lyric_translation": "Don’t know what you’ll choose, so I prepared these options",
+      "range": [143.54, 147.24], "ans": [1]},
+    {"lyric": "Dul junge hanaman golla YES or YES?",
+      "lyric_hangul": "둘 중에 하나만 골라 Yes or yes?",
+      "lyric_translation": "Choose only one of the two YES or YES?",
+      "range": [147.24, 150.89], "ans": [8]},
+    {"lyric": "Ni maeumeul molla junbihaebwasseo",
+      "lyric_hangul": "네 마음을 몰라 준비해봤어",
+      "lyric_translation": "Don’t know what you want, so I prepared these options",
+      "range": [150.89, 154.59], "ans": [5]},
+    {"lyric": "Hanaman seontaekae eoseo YES or YES?",
+      "lyric_hangul": "하나만 선택해 어서 Yes or yes?",
+      "lyric_translation": "Make your choice come on YES or YES?",
+      "range": [154.59, 157.95], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "싫어는 싫어 나 아니면 우리?",
+      "lyric_translation": "I will say no to your no, is it me or us?",
+      "parts": [
+        {"lyric": "Shireoneun shireo",
+          "range": [157.95, 159.66], "ans": [2]},
+        {"lyric": "Na animyeon uri?",
+          "range": [158.96, 161.07], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "선택을 존중해 거절은 거절해",
+      "lyric_translation": "I respect your choice but reject your rejection",
+      "parts": [
+        {"lyric": "Seontaegeul jonjunghae",
+          "range": [160.65, 163.0], "ans": [2]},
+        {"lyric": "Geojeoreun geojeolhae",
+          "range": [162.3, 164.65], "ans": [7]}
+      ]
+    },
+    {"lyric": "Seontaekjineun hana ja seontaegeun ni mam",
+      "lyric_hangul": "선택지는 하나 자 선택은 네 맘",
+      "lyric_translation": "There is only one answer, the choice is up to you",
+      "range": [164.65, 167.64], "ans": [5]},
+    {"lyric": "Now, it’s all up to you",
+      "lyric_hangul": "Now it's all up to you",
+      "lyric_translation": "Now, it’s all up to you",
+      "range": [167.64, 174.55], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "Maybe not (No! No!)",
+      "lyric_translation": "Maybe not (No! No!)",
+      "parts": [
+        {"lyric": "Maybe not",
+          "range": [174.55, 175.22], "ans": [8]},
+        {"lyric": "(No! No!)",
+          "range": [174.6, 175.66], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Maybe yes (No! No!)",
+      "lyric_translation": "Maybe yes (No! No!)",
+      "parts": [
+        {"lyric": "Maybe yes",
+          "range": [175.66, 177.07], "ans": [8]},
+        {"lyric": "(No! No!)",
+          "range": [176.37, 177.33], "ans": [7]}
+      ]
+    },
+    {"lyric": "Jom deo seonmyeonghage ni mameul naege boyeobwa",
+      "lyric_hangul": "좀 더 선명하게 네 맘을 내게 보여봐",
+      "lyric_translation": "Make it more clearly, show me how you feel",
+      "range": [177.06, 182.0], "ans": [5]},
+    {"lyric": "Gwi giuryeobwa museun soriga deulliji anni?",
+      "lyric_hangul": "귀 기울여봐 무슨 소리가 들리지 않니?",
+      "lyric_translation": "Open your ears. Don’t you hear it?",
+      "range": [182.0, 187.96], "ans": [1]},
+    {"lyric": "It’s! Simple! Y! E! S! Hey!",
+      "lyric_hangul": "It's simple, Y-E-S, hey!",
+      "lyric_translation": "It’s! Simple! Y! E! S! Hey!",
+      "range": [187.96, 191.19], "ans": []},
+    "",
+    {"lyric": "Dul junge hanaman golla YES or YES?",
+      "lyric_hangul": "둘 중에 하나만 골라 Yes or yes? (Hey)",
+      "lyric_translation": "Choose only one of the two YES or YES?",
+      "range": [191.19, 194.53], "ans": [2]},
+    {"lyric": "Hanaman seontaekae eoseo YES or YES? (Oh)",
+      "lyric_hangul": "하나만 선택해 어서 Yes or yes? (Oh)",
+      "lyric_translation": "Make your choice come on YES or YES?",
+      "range": [194.53, 197.86], "ans": [3, 1]},
+    {"lyric": "Hana deo botaeseo YES or YES or YES",
+      "lyric_hangul": "하나 더 보태서 Yes or yes?",
+      "lyric_translation": "Here is one more YES or YES or YES",
+      "range": [197.86, 200.89], "ans": [5]},
+    {"lyric": "Gollabwa ja seontaegeun ni mam",
+      "lyric_hangul": "골라봐 자 선택은 네 맘",
+      "lyric_translation": "Take your pick, the choice is up to you",
+      "range": [200.89, 204.87], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "뭘 고를지 몰라 준비해봤어 (Oh!)",
+      "lyric_translation": "Don’t know what you’ll choose, so I prepared these options",
+      "parts": [
+        {"lyric": "Mweol goreulji molla junbihaebwasseo",
+          "range": [204.87, 208.82], "ans": [1]},
+        {"lyric": "(Oh)",
+          "range": [208.17, 208.87], "ans": [5]}
+      ]
+    },
+    {"lyric": "Dul junge hanaman golla YES or YES? (Oh)",
+      "lyric_hangul": "둘 중에 하나만 골라 Yes or yes? (Oh, oh...)",
+      "lyric_translation": "Choose only one of the two YES or YES?",
+      "range": [208.71, 211.71], "ans": [8, 1]},
+    {
+      "lyric_hangul": "네 마음을 몰라 준비해봤어 (준비해봤어 bae)",
+      "lyric_translation": "Don’t know what you want, so I prepared these options",
+      "parts": [
+        {"lyric": "Ni maeumeul molla junbihaebwasseo",
+          "range": [211.71, 213.93], "ans": [5]},
+        {"lyric": "(junbihaebwasseo Babe)",
+          "range": [213.45, 215.6], "ans": [1]}
+      ]
+    },
+    {"lyric": "Hanaman seontaekae eoseo YES or YES?",
+      "lyric_hangul": "하나만 선택해 어서 Yes or yes? (Whoa...)",
+      "lyric_translation": "Make your choice come on YES or YES?",
+      "range": [215.15, 218.6], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "싫어는 싫어 나 아니면 우리?",
+      "lyric_translation": "I will say no to your no, is it me or us?",
+      "parts": [
+        {"lyric": "(Oh)",
+          "range": [218.6, 219.24], "ans": [5]},
+        {"lyric": "Shireoneun shireo",
+          "range": [218.65, 220.55], "ans": [2]},
+        {"lyric": "Na animyeon uri?",
+          "range": [219.85, 221.92], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "선택을 존중해 거절은 거절해 (Oh whoa)",
+      "lyric_translation": "I respect your choice but reject your rejection",
+      "parts": [
+        {"lyric": "Seontaegeul jonjunghae",
+          "range": [221.85, 223.93], "ans": [2]},
+        {"lyric": "Geojeoreun geojeolhae",
+          "range": [223.23, 225.55], "ans": [7]},
+        {"lyric": "(Oh)",
+          "range": [224.96, 225.6], "ans": [1]}
+      ]
+    },
+    {"lyric": "Seontaekjineun hana ja seontaegeun ni mam",
+      "lyric_hangul": "선택지는 하나 자 선택은 네 맘",
+      "lyric_translation": "There is only one answer, the choice is up to you",
+      "range": [225.6, 229.64], "ans": [5]},
+    {
+      "lyric_hangul": "It's all up to you (It's all up to you, ooh)",
+      "lyric_translation": "It’s all up to you",
+      "parts": [
+        {"lyric": "It’s all up to you",
+          "range": [229.64, 232.27], "ans": [9]},
+        {"lyric": "(It’s all up to you)",
+          "range": [231.57, 233.05], "ans": [5]}
+      ]
+    },
+    {"lyric": "Hanaman seontaekae eoseo YES or YES?",
+      "lyric_hangul": "하나만 선택해 어서 Yes or yes?",
+      "lyric_translation": "Make your choice come on YES or YES?",
+      "range": [233.05, 238.0], "ans": [1]}
+  ]
+}

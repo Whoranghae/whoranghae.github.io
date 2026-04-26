@@ -1,0 +1,261 @@
+{
+  "name": "Conversation\r",
+  "ogg": "sound/kpop/conversation.ogg",
+  "id": "conversation",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-06-11",
+  "album": "Taste of Love",
+  "cover": "css/images/covers/conversation.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:24Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "보란 듯 나 네 앞에 서, I'm over here by the way",
+      "lyric_translation": "As you can see, I’m in front of you / I’m over here by the way",
+      "parts": [
+        {"lyric": "Boran deut na ni ape seo",
+          "range": [0.89, 2.89], "ans": [6]},
+        {"lyric": "I’m over here by the way",
+          "range": [2.89, 5.12], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "빈 내 이 glass 널 채워줘 don't wanna wait",
+      "lyric_translation": "My empty glass fill me up with you / Don’t wanna wait",
+      "parts": [
+        {"lyric": "Bin nae i Glass neol chaeweojweo",
+          "range": [5.12, 8.12], "ans": [4]},
+        {"lyric": "Don’t wanna wait",
+          "range": [8.12, 10.17], "ans": [4]}
+      ]
+    },
+    {"lyric": "Oh my god sumgil su eopseo nae mamsogeul",
+      "lyric_hangul": "Oh my God, 숨길 수 없어 내 맘속을",
+      "lyric_translation": "Oh my god, I can’t hide my feelings",
+      "range": [10.17, 14.05], "ans": [9]},
+    {"lyric": "Thinking of you yeah",
+      "lyric_hangul": "Thinking of you, yeah, thinking of you, yeah",
+      "lyric_translation": "Thinking of you, yeah / Thinking of you, yeah",
+      "range": [14.05, 18.47], "ans": [9]},
+    "",
+    {"lyric": "Jeonhyeo yesang mot hatgetji",
+      "lyric_hangul": "전혀 예상 못 했겠지",
+      "lyric_translation": "You probably didn’t expect it why me again",
+      "range": [18.47, 21.55], "ans": [7]},
+    {"lyric": "Nae gyehwekdeul naneun haenaesseo haenaesseo Oh",
+      "lyric_hangul": "내 계획들 나는 해냈어, 해냈어, oh",
+      "lyric_translation": "I did it, I did it, oh",
+      "range": [21.55, 27.82], "ans": [7]},
+    {"lyric": "Love is all about timing",
+      "lyric_hangul": "Love is all about timing",
+      "lyric_translation": "Love is all about timing",
+      "range": [27.82, 29.84], "ans": [1]},
+    {"lyric": "Neodo deureobwatji Don’t come too late",
+      "lyric_hangul": "너도 들어봤지, don't come too late (don't come too late)",
+      "lyric_translation": "You’ve heard it before too, don’t come too late",
+      "range": [29.84, 35.72], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "Let's have a little less conversation, na-na, na-na, ayy",
+      "lyric_translation": "Let’s have a little less conversation / Na na na na, ayy",
+      "parts": [
+        {"lyric": "Let’s have a little less conversation",
+          "range": [35.72, 37.96], "ans": [2]},
+        {"lyric": "Na na na na ayy",
+          "range": [37.96, 40.24], "ans": [2]}
+      ]
+    },
+    {"lyric": "Niga deureooneun geu sungan",
+      "lyric_hangul": "네가 들어오는 그 순간, na-na, na-na, ayy",
+      "lyric_translation": "The moment you enter",
+      "range": [40.24, 44.11], "ans": [1]},
+    {
+      "lyric_hangul": "굳이 말하지 않아도 네 눈빛이 나를 불러",
+      "lyric_translation": "Without saying anything / Your eyes are calling for me",
+      "parts": [
+        {"lyric": "Guji malhaji anado",
+          "range": [44.11, 47.31], "ans": [1]},
+        {"lyric": "Ni nunppichi nal bulleo",
+          "range": [47.31, 48.89], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Just a little less conversation, na-na, na-na, ayy",
+      "lyric_translation": "Na na na na, ayy / Just a little less conversation / Na na na na, ayy",
+      "parts": [
+        {"lyric": "Na na na na ayy",
+          "range": [48.7, 49.84], "ans": [1]},
+        {"lyric": "Just a little less conversation",
+          "range": [49.84, 51.42], "ans": [1]},
+        {"lyric": "Na na na na ayy",
+          "range": [51.42, 55.02], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Tell me, did you dream about me? Don't run away",
+      "lyric_translation": "Tell me, did you dream about me? / Don’t run away",
+      "parts": [
+        {"lyric": "Tell me, did you dream about me?",
+          "range": [55.02, 57.55], "ans": [8]},
+        {"lyric": "Don’t run away",
+          "range": [57.55, 59.36], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, come close, 더 가까이, all night and day",
+      "lyric_translation": "Baby, come close, closer / All night and day",
+      "parts": [
+        {"lyric": "Baby come close deo gakkai",
+          "range": [59.36, 61.02], "ans": [4]},
+        {"lyric": "All night and day",
+          "range": [61.02, 63.89], "ans": [4]}
+      ]
+    },
+    {"lyric": "Oh my god neol japgo shipeo nae soneuro",
+      "lyric_hangul": "Oh my God, 널 잡고 싶어 내 손으로",
+      "lyric_translation": "Oh my god, I wanna hold onto you with my hands",
+      "range": [63.89, 67.79], "ans": [5]},
+    {"lyric": "Falling in you, falling in you",
+      "lyric_hangul": "Falling in you, falling in you, yeah",
+      "lyric_translation": "Falling in you, falling in you",
+      "range": [67.79, 72.49], "ans": [5]},
+    "",
+    {"lyric": "Neukkyeo bwa nae ppareun Heartbeat",
+      "lyric_hangul": "느껴봐 내 빠른 heartbeat",
+      "lyric_translation": "Feel my fast heartbeat",
+      "range": [72.49, 75.09], "ans": [1]},
+    {"lyric": "Dagawa nae sesang sogeuro geu sogeuro",
+      "lyric_hangul": "다가와 내 세상 속으로, 그 속으로, yeah",
+      "lyric_translation": "Come closer into my world, into my world",
+      "range": [75.09, 78.55], "ans": [1]},
+    {"lyric": "Nun gama ijeuryeo haedo",
+      "lyric_hangul": "눈 감아 잊으려 해도",
+      "lyric_translation": "I close my eyes trying to forget",
+      "range": [78.55, 83.9], "ans": [4]},
+    {"lyric": "Geuryeojineun neoye hyanggi Now beonjeowa",
+      "lyric_hangul": "그려지는 너의 향기 now 번져와",
+      "lyric_translation": "But the scent of you is being painted, now smudging",
+      "range": [83.9, 89.25], "ans": [4]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Let's have a little less conversation, na-na, na-na, ayy",
+      "lyric_translation": "Let’s have a little less conversation / Na na na na, ayy",
+      "parts": [
+        {"lyric": "Let’s have a little less conversation",
+          "range": [89.25, 91.83], "ans": [2]},
+        {"lyric": "Na na na na ayy",
+          "range": [91.83, 93.78], "ans": [2]}
+      ]
+    },
+    {"lyric": "Niga deureooneun geu sungan",
+      "lyric_hangul": "네가 들어오는 그 순간, na-na, na-na, ayy",
+      "lyric_translation": "The moment you enter",
+      "range": [93.78, 97.76], "ans": [3]},
+    {
+      "lyric_hangul": "굳이 말하지 않아도 네 눈빛이 나를 불러",
+      "lyric_translation": "Without saying anything / Your eyes are calling for me",
+      "parts": [
+        {"lyric": "Guji malhaji anado",
+          "range": [97.76, 101.14], "ans": [5]},
+        {"lyric": "Ni nunppichi nal bulleo",
+          "range": [101.14, 102.79], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Just a little less conversation, na-na na-na, ayy",
+      "lyric_translation": "Just a little less conversation / Na na na na, ayy / Na na na na, ayy",
+      "parts": [
+        {"lyric": "Just a little less conversation",
+          "range": [102.79, 103.91], "ans": [5]},
+        {"lyric": "Na na na na ayy",
+          "range": [103.91, 104.46], "ans": [5]},
+        {"lyric": "Na na na na ayy",
+          "range": [105.25, 109.09], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh no, I'm not waiting up for ya, just get here right away",
+      "lyric_translation": "Oh no! I’m not waiting up for ya / Just get here right away",
+      "parts": [
+        {"lyric": "Oh no I’m not waiting up for ya",
+          "range": [109.09, 112.52], "ans": [8]},
+        {"lyric": "Just get here right away",
+          "range": [111.82, 113.53], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Don't wanna talk about it, 넌 내게 퍼져와",
+      "lyric_translation": "Don’t wanna talk about it / You spread to me",
+      "parts": [
+        {"lyric": "Don’t wanna talk about it",
+          "range": [112.97, 117.16], "ans": [6]},
+        {"lyric": "Neon naege peojeowa",
+          "range": [116.46, 118.07], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh no, I'm not waiting up for ya, just get here right away",
+      "lyric_translation": "Oh no! I’m not waiting up for ya / Just get it right away",
+      "parts": [
+        {"lyric": "Oh no I’m not waiting up for ya",
+          "range": [118.07, 121.52], "ans": [7]},
+        {"lyric": "Just get here right away",
+          "range": [120.82, 122.43], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Don't wanna talk about it, 아무 말도 하지 마",
+      "lyric_translation": "Don’t wanna talk about it / Don’t say a word",
+      "parts": [
+        {"lyric": "Don’t wanna talk about it",
+          "range": [122.37, 125.27], "ans": [3]},
+        {"lyric": "Amu maldo haji ma",
+          "range": [124.57, 127.19], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Let's have a little less conversation, na-na, na-na, ayy",
+      "lyric_translation": "Let’s have a little less conversation / Na na na na, ayy",
+      "parts": [
+        {"lyric": "Let’s have a little less conversation",
+          "range": [127.19, 129.69], "ans": [5]},
+        {"lyric": "Na na na na ayy",
+          "range": [129.69, 132.39], "ans": [5]}
+      ]
+    },
+    {"lyric": "Niga deureooneun geu sungan",
+      "lyric_hangul": "네가 들어오는 그 순간, na-na, na-na, ayy",
+      "lyric_translation": "The moment you enter",
+      "range": [132.39, 136.19], "ans": [9]},
+    {
+      "lyric_hangul": "굳이 말하지 않아도 네 눈빛이 나를 불러",
+      "lyric_translation": "Without saying anything / Your eyes are calling for me",
+      "parts": [
+        {"lyric": "Guji malhaji anado",
+          "range": [136.19, 139.23], "ans": [5]},
+        {"lyric": "Ni nunppichi nal bulleo",
+          "range": [139.23, 141.03], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Just a little less conversation, na-na, na-na, ayy",
+      "lyric_translation": "Just a little less conversation / Na na na na, ayy / Na na na na, ayy",
+      "parts": [
+        {"lyric": "Just a little less conversation",
+          "range": [141.03, 142.05], "ans": [5]},
+        {"lyric": "Na na na na ayy",
+          "range": [142.05, 143.29], "ans": [5]},
+        {"lyric": "Na na na na ayy",
+          "range": [142.59, 147.0], "ans": [9]}
+      ]
+    }
+  ]
+}

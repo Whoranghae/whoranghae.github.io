@@ -1,0 +1,461 @@
+{
+  "name": "YAYAYA\r",
+  "ogg": "sound/kpop/yayaya.ogg",
+  "id": "yayaya",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2020-03-18",
+  "album": "SKZ2020",
+  "cover": "css/images/covers/yayaya.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:14Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Stray Kids",
+      "lyric_hangul": "Stray Kids",
+      "lyric_translation": "Stray Kids",
+      "range": [6.99, 10.94], "ans": [5]},
+    {"lyric": "Watch out",
+      "lyric_hangul": "Watch out",
+      "lyric_translation": "Watch out",
+      "range": [10.94, 13.89], "ans": [5]},
+    {"lyric": "2018",
+      "lyric_hangul": "2018",
+      "lyric_translation": "2018",
+      "range": [13.89, 14.94], "ans": [5]},
+    "",
+    {"lyric": "Yaya yaya yaya",
+      "lyric_hangul": "야야 야야 야야 야야 야야 야야",
+      "lyric_translation": "Yaya yaya yaya / Yaya yaya yaya",
+      "range": [14.94, 22.54], "ans": []},
+    "",
+    {"lyric": "Yayaya oneureun tto eodi gani ey",
+      "lyric_hangul": "야야야 오늘은 또 어디 가니 ey",
+      "lyric_translation": "Yayaya where are you going today?",
+      "range": [22.54, 26.1], "ans": [3]},
+    {"lyric": "Yayaya geogi gaseo mwohal geoni ey",
+      "lyric_hangul": "야야야 거기 가서 뭐할 거니 ey",
+      "lyric_translation": "Yayaya what’re you gonna do there?",
+      "range": [26.1, 30.09], "ans": [3]},
+    {"lyric": "Neon redeukapet wie itneun seutawa gateun wichi",
+      "lyric_hangul": "넌 레드카펫 위에 있는 스타와 같은 위치",
+      "lyric_translation": "You’re at the same place as the red carpet stars",
+      "range": [30.09, 33.15], "ans": [3]},
+    {
+      "lyric_hangul": "관객은 카메라맨 다들 전부 조심하길 바라니까",
+      "lyric_translation": "The audience is filled with camera men / They all expect you to be careful",
+      "parts": [
+        {"lyric": "Gwangaegeun kameramaen dadeul",
+          "range": [33.15, 34.91], "ans": [3]},
+        {"lyric": "Jeonbu joshimhagil baranikka",
+          "range": [34.91, 37.47], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "누가 필요해 I said, they the best, that's true 빨리 섭외해",
+      "lyric_translation": "You need someone / I said, they the best, that’s true, hurry and recruit them",
+      "parts": [
+        {"lyric": "Nuga piryohae",
+          "range": [37.47, 38.91], "ans": [4]},
+        {"lyric": "I said, they the best, that’s true ppalli seobwehae",
+          "range": [38.91, 40.39], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "관객들은 모두 감탄해 네가 박살 냈던 무대들을 볼 때",
+      "lyric_translation": "The audience is in awe / When they see your killer stage",
+      "parts": [
+        {"lyric": "Gwangaekdeureun modu gamtanhae",
+          "range": [40.39, 41.87], "ans": [4]},
+        {"lyric": "Nega baksal naetteon mudaedeureul bol ttae",
+          "range": [41.87, 44.17], "ans": [4]}
+      ]
+    },
+    {"lyric": "Gamsanghae neoye gojib boji mothan neoye ttolkki",
+      "lyric_hangul": "감상해 너의 고집, 보지 못한 너의 똘끼",
+      "lyric_translation": "They see your stubbornness, your unseen madness",
+      "range": [44.17, 46.36], "ans": [4]},
+    {
+      "lyric_hangul": "소식 없던 네 앤돌핀 오늘 숨김없이 show me 조심 없지 마치 골칫거리",
+      "lyric_translation": "Your quiet endorphins, show me today / Don’t be so cautious, like a headache",
+      "parts": [
+        {"lyric": "Soshik eobtteon ne endolpin oneul sumgimeopshi",
+          "range": [46.36, 49.08], "ans": [4]},
+        {"lyric": "Show me joshim eopji machi golchitgeori",
+          "range": [49.08, 51.45], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Oh eoneu sungan sarajine",
+      "lyric_hangul": "Oh 어느 순간 사라지네",
+      "lyric_translation": "People suddenly disappearing",
+      "range": [51.45, 55.16], "ans": [8]},
+    {"lyric": "Oh gabjagi tteonagane",
+      "lyric_hangul": "Oh 갑자기 떠나가네",
+      "lyric_translation": "People suddenly leaving",
+      "range": [55.16, 58.51], "ans": [7]},
+    {"lyric": "Neon meoreojijima everyday",
+      "lyric_hangul": "넌 멀어지지마 everyday",
+      "lyric_translation": "But you don’t go far away, every day",
+      "range": [58.51, 62.47], "ans": [2]},
+    {
+      "lyric_hangul": "붙잡아줘 내 손을 꼭 붙잡아줘",
+      "lyric_translation": "Hold me, hold my hand tight / Yayaya",
+      "parts": [
+        {"lyric": "Butjabajwo nae soneul kkok butjabajwo",
+          "range": [62.47, 64.85], "ans": [2]},
+        {"lyric": "Yayaya",
+          "range": [64.15, 65.31], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "야야야 내 꿈속에서 너는 잔인한 것 같아",
+      "lyric_translation": "You’re so cruel in my dreams / Yayaya",
+      "parts": [
+        {"lyric": "Nae kkumsogeseo neoneun janinhan geot gata",
+          "range": [65.31, 68.42], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [67.72, 68.9], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 눈뜨면 내 앞의 너는 사라질 것 같아",
+      "lyric_translation": "When I open my eyes, seems like you’ll disappear / Yayaya",
+      "parts": [
+        {"lyric": "Nuntteumyeon nae ape neoneun sarajil geot gata",
+          "range": [68.9, 72.11], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [71.41, 72.36], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 난 상관없어 네게 들이대고 볼래",
+      "lyric_translation": "I don’t care, I wanna go to you and look / Yayaya",
+      "parts": [
+        {"lyric": "Nan sanggwaneopseo nege deuridaego bollae",
+          "range": [72.36, 75.79], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [75.09, 75.99], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 Say what 야야야",
+      "lyric_translation": "Say what / Yayaya",
+      "parts": [
+        {"lyric": "Say what",
+          "range": [75.99, 77.2], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [76.5, 78.93], "ans": []}
+      ]
+    },
+    {"lyric": "Ya verse 2",
+      "lyric_hangul": "야 Verse 2",
+      "lyric_translation": "Ya verse 2",
+      "range": [78.93, 80.92], "ans": [6]},
+    "",
+    {"lyric": "Nan ajik duryeowo chulguga an boineun mokpyoga no",
+      "lyric_hangul": "난 아직 두려워 출구가 안 보이는 목표가 no",
+      "lyric_translation": "I’m still afraid of goals with exits I can’t see, no",
+      "range": [80.92, 84.57], "ans": [5]},
+    {"lyric": "Gyesok bwawado banghwanghae nan midji mothae deoneun narado",
+      "lyric_hangul": "계속 봐와도 방황해 난 믿지 못해 더는 나라도",
+      "lyric_translation": "I keep looking but I get lost, I can’t believe myself",
+      "range": [84.57, 88.06], "ans": [5]},
+    {"lyric": "Geuraedo da dallyeodeureo geu kkum neoreul hyanghae run",
+      "lyric_hangul": "그래도 다 달려들어 그 꿈 너를 향해 run",
+      "lyric_translation": "But still I’m running toward the dream, toward you, run",
+      "range": [88.06, 90.75], "ans": [5]},
+    {
+      "lyric_hangul": "흔들리는 동공을 감추지 못해 내 열정을 모두 분출",
+      "lyric_translation": "I can’t hide my shaking eyes / All of my passion is out",
+      "parts": [
+        {"lyric": "Heundeullineun donggongeul gamchuji mothae",
+          "range": [90.75, 92.81], "ans": [5]},
+        {"lyric": "Nae yeoljeongeul modu bunchul",
+          "range": [92.81, 94.97], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Pop, pop, pop, pop, pop tongtong twineun maeryeok",
+      "lyric_hangul": "Pop, pop, pop, pop, pop 통통 튀는 매력",
+      "lyric_translation": "Pop, pop, pop, pop, pop, popping charms",
+      "range": [94.97, 96.74], "ans": [3]},
+    {"lyric": "Dot, dot, dot, dot dangjang jeom jjigeonwa",
+      "lyric_hangul": "Dot, dot, dot, dot 당장 점 찍어놔",
+      "lyric_translation": "Dot, dot, dot, dot, put a dot on it",
+      "range": [96.74, 98.18], "ans": [3]},
+    {"lyric": "Bappa maeil bappa ppajineun ge hana eopneun neon oneuldo bappa",
+      "lyric_hangul": "바빠 매일 바빠 빠지는 게 하나 없는 넌 오늘도 바빠",
+      "lyric_translation": "Busy every day, you’re busy even today",
+      "range": [98.18, 101.78], "ans": [3]},
+    {
+      "lyric_hangul": "어디로 튈지 몰라 넌 ey 누구든 미치게 하잖아 ey",
+      "lyric_translation": "Don’t know where you’ll go / You drive everyone crazy",
+      "parts": [
+        {"lyric": "Eodiro twilji molla neon ey",
+          "range": [101.78, 103.64], "ans": [5]},
+        {"lyric": "Nugudeun michige hajana ey",
+          "range": [103.64, 105.57], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "미친 지 오래 유통기한 없네 소장가친 national treasure ey",
+      "lyric_translation": "It’s been long since I’ve gone crazy, no expiration date / Your value is worth a national treasure",
+      "parts": [
+        {"lyric": "Michin ji orae yutonggihan eopne",
+          "range": [105.57, 107.91], "ans": [5]},
+        {"lyric": "Sojanggachin national treasure ey",
+          "range": [107.35, 109.66], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Oh eoneu sungan sarajine",
+      "lyric_hangul": "Oh 어느 순간 사라지네",
+      "lyric_translation": "People suddenly disappearing",
+      "range": [109.66, 113.13], "ans": [8]},
+    {"lyric": "Oh gabjagi tteonagane",
+      "lyric_hangul": "Oh 갑자기 떠나가네",
+      "lyric_translation": "People suddenly leaving",
+      "range": [113.13, 116.64], "ans": [7]},
+    {"lyric": "Neon meoreojijima everyday",
+      "lyric_hangul": "넌 멀어지지마 everyday",
+      "lyric_translation": "But you don’t go far away, every day",
+      "range": [116.64, 120.41], "ans": [2]},
+    {
+      "lyric_hangul": "붙잡아줘 내 손을 꼭 붙잡아줘",
+      "lyric_translation": "Hold me, hold my hand tight / Yayaya",
+      "parts": [
+        {"lyric": "Butjabajwo nae soneul kkok butjabajwo",
+          "range": [120.41, 123.01], "ans": [7]},
+        {"lyric": "Yayaya",
+          "range": [122.31, 123.18], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "야야야 내 꿈속에서 너는 잔인한 것 같아",
+      "lyric_translation": "You’re so cruel in my dreams / Yayaya",
+      "parts": [
+        {"lyric": "Nae kkumsogeseo neoneun janinhan geot gata",
+          "range": [123.18, 126.61], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [125.91, 126.83], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 눈뜨면 내 앞의 너는 사라질 것 같아",
+      "lyric_translation": "When I open my eyes, seems like you’ll disappear / Yayaya",
+      "parts": [
+        {"lyric": "Nuntteumyeon nae ape neoneun sarajil geot gata",
+          "range": [126.83, 130.31], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [129.61, 130.49], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 난 상관없어 네게 들이대고 볼래",
+      "lyric_translation": "I don’t care, I wanna go to you and look / Yayaya",
+      "parts": [
+        {"lyric": "Nan sanggwaneopseo nege deuridaego bollae",
+          "range": [130.49, 133.96], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [133.26, 134.11], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 Say what 야야야",
+      "lyric_translation": "Say what / Yayaya",
+      "parts": [
+        {"lyric": "Say what",
+          "range": [133.93, 135.36], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [134.66, 138.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐 어때 whoo 널 갖기엔 아직 부족하지만",
+      "lyric_translation": "Who cares / I know I’m not good enough to have you",
+      "parts": [
+        {"lyric": "Mwo eottae woo",
+          "range": [138.51, 139.21], "ans": [8]},
+        {"lyric": "Neol gatgien ajik bujokhajiman",
+          "range": [139.21, 142.06], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐 어때 whoo 자신감 속에서 방황할 나이",
+      "lyric_translation": "Who cares / I’m at an age to get lost in confidence",
+      "parts": [
+        {"lyric": "Mwo eottae woo",
+          "range": [142.06, 142.84], "ans": [8]},
+        {"lyric": "Jashingam sogeseo an banghwanghal nai",
+          "range": [142.84, 145.76], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "어떤 것도 두렵지 않아 이건 뭐 당연하잖아",
+      "lyric_translation": "I’m not afraid of anything / That’s a given",
+      "parts": [
+        {"lyric": "Eotteon geotto duryeobji ana",
+          "range": [145.65, 147.49], "ans": [1]},
+        {"lyric": "Igeon mwo dangyeonhajana",
+          "range": [147.49, 149.45], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Can't nobody else do it like you, baby baby ah",
+      "lyric_translation": "Can’t nobody else do it like you / Baby baby ah",
+      "parts": [
+        {"lyric": "Can’t nobody else do it like you",
+          "range": [149.45, 151.81], "ans": [1]},
+        {"lyric": "Baby baby ah",
+          "range": [151.81, 152.63], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Ama igeon nae yokshimijiman",
+      "lyric_hangul": "아마 이건 내 욕심이지만 네가 이걸 듣길",
+      "lyric_translation": "This is probably my greed",
+      "range": [152.63, 155.86], "ans": [6]},
+    {
+      "lyric_hangul": "날 끝까지 지켜봐 줘 난 돼있어 모든 준비",
+      "lyric_translation": "But I hope you’ll hear this, watch over me till the end / I’m all ready",
+      "parts": [
+        {"lyric": "Nega igeol deutgil nal kkeutkkaji jikyeobwa jwo",
+          "range": [155.86, 158.38], "ans": [6]},
+        {"lyric": "Nan dwaeisseo modeun junbi",
+          "range": [158.38, 159.94], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "잘 때마다 1위 생각해 또 다른 놈들은 다 생략해",
+      "lyric_translation": "Every time I sleep, I think of being #1 / Skipping over everyone else",
+      "parts": [
+        {"lyric": "Jal ttaemada ilwi saenggakhae",
+          "range": [159.94, 161.88], "ans": [4]},
+        {"lyric": "Tto dareun nomdeureun da saengryakhae",
+          "range": [161.88, 163.72], "ans": [4]}
+      ]
+    },
+    {"lyric": "Dabdabhadago domangeul chineun naege",
+      "lyric_hangul": "답답하다고 도망을 치는 내게",
+      "lyric_translation": "Whenever I wanted to run away out of frustration",
+      "range": [163.53, 165.44], "ans": [4]},
+    {
+      "lyric_hangul": "네가 하나 알려줬어 출구 없어 no way",
+      "lyric_translation": "You taught me one thing, there’s no way / Yayaya",
+      "parts": [
+        {"lyric": "Nega hana allyeojwosseo chulgu eopseo no way",
+          "range": [165.44, 167.19], "ans": [4]},
+        {"lyric": "Yayaya",
+          "range": [166.49, 168.7], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "야야야 내 꿈속에서 너는 잔인한 것 같아",
+      "lyric_translation": "You’re so cruel in my dreams / Yayaya",
+      "parts": [
+        {"lyric": "Nae kkumsogeseo neoneun janinhan geot gata",
+          "range": [168.7, 172.09], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [171.39, 172.27], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 눈뜨면 내 앞의 너는 사라질 것 같아",
+      "lyric_translation": "When I open my eyes, seems like you’ll disappear / Yayaya",
+      "parts": [
+        {"lyric": "Nuntteumyeon nae ape neoneun sarajil geot gata",
+          "range": [172.27, 175.77], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [175.07, 175.86], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 난 상관없어 네게 들이대고 볼래",
+      "lyric_translation": "I don’t care, I wanna go to you and look / Yayaya",
+      "parts": [
+        {"lyric": "Nan sanggwaneopseo nege deuridaego bollae",
+          "range": [175.72, 179.47], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [178.77, 179.56], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 Say what",
+      "lyric_translation": "Say what / Yayaya",
+      "parts": [
+        {"lyric": "Say what",
+          "range": [179.53, 180.51], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [179.81, 181.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 One more time",
+      "lyric_translation": "One more time / Yayaya",
+      "parts": [
+        {"lyric": "One more time",
+          "range": [181.44, 183.21], "ans": [1]},
+        {"lyric": "Yayaya",
+          "range": [182.53, 183.26], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "야야야 내 꿈속에서 너는 잔인한 것 같아",
+      "lyric_translation": "You’re so cruel in my dreams / Yayaya",
+      "parts": [
+        {"lyric": "Nae kkumsogeseo neoneun janinhan geot gata",
+          "range": [183.19, 186.64], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [185.94, 186.9], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 눈뜨면 내 앞의 너는 사라질 것 같아",
+      "lyric_translation": "When I open my eyes, seems like you’ll disappear / Yayaya",
+      "parts": [
+        {"lyric": "Nuntteumyeon nae ape neoneun sarajil geot gata",
+          "range": [186.9, 190.27], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [189.57, 190.37], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 난 상관없어 네게 들이대고 볼래",
+      "lyric_translation": "I don’t care, I wanna go to you and look / Yayaya",
+      "parts": [
+        {"lyric": "Nan sanggwaneopseo nege deuridaego bollae",
+          "range": [190.37, 194.0], "ans": [3]},
+        {"lyric": "Yayaya",
+          "range": [193.3, 194.09], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 Say what",
+      "lyric_translation": "Say what / Yayaya",
+      "parts": [
+        {"lyric": "Say what",
+          "range": [193.96, 195.0], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [194.3, 195.96], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "야야야 Say what 야야야",
+      "lyric_translation": "Say what / Yayaya",
+      "parts": [
+        {"lyric": "Say what",
+          "range": [195.81, 197.12], "ans": [5]},
+        {"lyric": "Yayaya",
+          "range": [196.42, 201.0], "ans": []}
+      ]
+    }
+  ]
+}

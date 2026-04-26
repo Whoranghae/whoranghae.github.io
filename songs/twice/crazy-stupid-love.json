@@ -1,0 +1,297 @@
+{
+  "name": "CRAZY STUPID LOVE\r",
+  "ogg": "sound/kpop/crazy_stupid_love.ogg",
+  "id": "crazy-stupid-love",
+  "group": "twice",
+  "language": "ko",
+  "released": "2023-03-10",
+  "album": "READY TO BE",
+  "cover": "css/images/covers/crazy-stupid-love.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:01Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah (ooh-ooh-ooh-ooh), mmh",
+      "lyric_hangul": "Yeah (ooh-ooh-ooh-ooh), mmh",
+      "lyric_translation": "",
+      "range": [1.52, 6.42], "ans": []},
+    {
+      "lyric_hangul": "지겨운 repertory, 반복되는 conflict",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "Jigyeoun repertory",
+          "range": [6.42, 8.64], "ans": [8]},
+        {"lyric": "Banbokdweneun conflict",
+          "range": [8.64, 11.33], "ans": [8]}
+      ]
+    },
+    {"lyric": "Shijageun joatteon neowa na",
+      "lyric_hangul": "시작은 좋았던 너와 나 (oh-oh-oh)",
+      "lyric_translation": "",
+      "range": [11.33, 13.58], "ans": [8]},
+    {"lyric": "Jjalpgo ganghan seollemgwa mannam dwien",
+      "lyric_hangul": "짧고 강한 설렘과 만남 뒤엔",
+      "lyric_translation": "",
+      "range": [13.58, 17.53], "ans": [7]},
+    {"lyric": "Bujileomneun geojinmale jichyeo",
+      "lyric_hangul": "부질없는 거짓말에 지쳐 (oh, yeah)",
+      "lyric_translation": "",
+      "range": [17.53, 20.57], "ans": [7]},
+    {"lyric": "Differences between you and me",
+      "lyric_hangul": "Differences between you and me",
+      "lyric_translation": "",
+      "range": [20.57, 23.12], "ans": [6]},
+    {"lyric": "Apeurodo dallajil geon eopseo",
+      "lyric_hangul": "앞으로도 달라질 건 없어",
+      "lyric_translation": "",
+      "range": [23.12, 26.03], "ans": [6]},
+    "",
+    {"lyric": "Heuteojineun emotions jeomjeom meoreojineungeol",
+      "lyric_hangul": "흩어지는 emotions 점점 멀어지는 걸",
+      "lyric_translation": "",
+      "range": [26.03, 30.38], "ans": [5]},
+    {
+      "lyric_hangul": "Don't wanna keep the pace with your swing moods",
+      "parts": [
+        {"lyric": "Don’t wanna keep the pace",
+          "range": [30.38, 32.26], "ans": [5]},
+        {"lyric": "With your swing moods",
+          "range": [32.26, 33.57], "ans": [5]}
+      ]
+    },
+    {"lyric": "Da buseojigo dwideopin deuriweojin memories",
+      "lyric_hangul": "다 부서지고 뒤덮인 드리워진 memories",
+      "lyric_translation": "",
+      "range": [33.57, 37.65], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "No way, no, no way, I'm so done with crazy stupid",
+      "parts": [
+        {"lyric": "No way no no way",
+          "range": [37.65, 40.24], "ans": [9]},
+        {"lyric": "I’m so done with crazy stupid",
+          "range": [39.54, 41.69], "ans": [2]}
+      ]
+    },
+    {"lyric": "Love",
+      "lyric_hangul": "Lo-o-o-o-o-ove, that crazy stupid lo-love",
+      "lyric_translation": "",
+      "range": [41.69, 45.53], "ans": [2, 7]},
+    {
+      "lyric_hangul": "Oh yeah, that crazy love",
+      "parts": [
+        {"lyric": "Oh yeah, That crazy love",
+          "range": [45.53, 47.77], "ans": [3]},
+        {"lyric": "Crazy love",
+          "range": [47.51, 48.15], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Lo-o-o-o-o-ove, that crazy stupid lo-love (oh, yeah)",
+      "parts": [
+        {"lyric": "That crazy stupid love",
+          "range": [47.97, 53.06], "ans": [2, 7]},
+        {"lyric": "Love",
+          "range": [52.36, 53.69], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm so done with crazy stupid love",
+      "parts": [
+        {"lyric": "I’m so done with crazy stupid love",
+          "range": [52.77, 54.95], "ans": [4]},
+        {"lyric": "That crazy stupid love",
+          "range": [54.25, 55.42], "ans": [6, 5]}
+      ]
+    },
+    "",
+    {"lyric": "Babo gachi eoriseogeun sarang geumanallae",
+      "lyric_hangul": "바보 같이 어리석은 사랑 그만할래",
+      "lyric_translation": "",
+      "range": [54.75, 58.52], "ans": [8]},
+    {"lyric": "Hangyeolgachi byeonhameomneun nega ihae an dwae",
+      "lyric_hangul": "한결같이 변함없는 네가 이해 안 돼",
+      "lyric_translation": "",
+      "range": [58.52, 61.65], "ans": [8]},
+    {"lyric": "Jojeoli an dwae byeondeogi neomu shimhae",
+      "lyric_hangul": "조절이 안 돼, 변덕이 너무 심해",
+      "lyric_translation": "",
+      "range": [61.65, 64.68], "ans": [3]},
+    {
+      "lyric_hangul": "좀 비켜줄래? 진심 따윈 없는 듯해",
+      "parts": [
+        {"lyric": "Jom bigyeojullae?",
+          "range": [64.68, 67.13], "ans": [3]},
+        {"lyric": "Jinshim ttawin eomneun deuthae",
+          "range": [66.43, 68.7], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Deouk chagapge shigeobeorin ondo",
+      "lyric_hangul": "더욱 차갑게 식어버린 온도",
+      "lyric_translation": "",
+      "range": [68.41, 72.19], "ans": [5]},
+    {"lyric": "Can’t you see it’s over?",
+      "lyric_hangul": "Can't you see it's over?",
+      "lyric_translation": "",
+      "range": [72.19, 75.38], "ans": [5]},
+    {"lyric": "Differences between you and me",
+      "lyric_hangul": "Differences between you and me",
+      "lyric_translation": "",
+      "range": [75.38, 78.01], "ans": [9]},
+    {"lyric": "Apeurodo dallajil geon eopseo",
+      "lyric_hangul": "앞으로도 달라질 건 없어",
+      "lyric_translation": "",
+      "range": [78.01, 80.78], "ans": [9]},
+    "",
+    {"lyric": "Heuteojineun emotions jeomjeom meoreojineungeol",
+      "lyric_hangul": "흩어지는 emotions 점점 멀어지는 걸",
+      "lyric_translation": "",
+      "range": [80.78, 85.25], "ans": [1]},
+    {
+      "lyric_hangul": "Don't wanna keep the pace with your swing moods",
+      "parts": [
+        {"lyric": "Don’t wanna keep the pace",
+          "range": [85.25, 87.13], "ans": [1]},
+        {"lyric": "With your swing moods",
+          "range": [87.13, 88.49], "ans": [1]}
+      ]
+    },
+    {"lyric": "Da buseojigo dwideopin deuriweojin memories",
+      "lyric_hangul": "다 부서지고 뒤덮인 드리워진 memories",
+      "lyric_translation": "",
+      "range": [88.01, 91.71], "ans": [6]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "No way, no, no way, I'm so done with crazy stupid",
+      "parts": [
+        {"lyric": "No way no no way",
+          "range": [91.71, 95.18], "ans": [2]},
+        {"lyric": "I’m so done with crazy stupid",
+          "range": [94.48, 96.11], "ans": [5, 8]}
+      ]
+    },
+    {"lyric": "Love",
+      "lyric_hangul": "Lo-o-o-o-o-ove, that crazy stupid lo-love",
+      "lyric_translation": "",
+      "range": [96.01, 100.67], "ans": [3, 5]},
+    {"lyric": "Oh yeah, That crazy love",
+      "lyric_hangul": "Oh yeah, that crazy love",
+      "lyric_translation": "",
+      "range": [100.67, 102.99], "ans": [9]},
+    {
+      "lyric_hangul": "Lo-o-o-o-o-ove, that crazy stupid lo-love (oh, yeah)",
+      "parts": [
+        {"lyric": "Love",
+          "range": [102.99, 106.11], "ans": [2]},
+        {"lyric": "That crazy stupid love",
+          "range": [105.41, 108.59], "ans": [3, 5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm so done with crazy stupid love",
+      "parts": [
+        {"lyric": "That crazy stupid love",
+          "range": [107.89, 109.5], "ans": [2]},
+        {"lyric": "I’m so done with crazy stupid love",
+          "range": [108.8, 110.35], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "You promised me that you’d tried to be honest",
+      "lyric_hangul": "You promised me that you'd tried to be honest",
+      "lyric_translation": "",
+      "range": [110.07, 113.92], "ans": [9]},
+    {"lyric": "Done with your fake love I better be going",
+      "lyric_hangul": "Done with your fake love, I'd better be going",
+      "lyric_translation": "",
+      "range": [113.92, 117.13], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "상처 난 쓰라린 맘, all of your empty lies",
+      "parts": [
+        {"lyric": "Sangcheo nan sseurarin mam",
+          "range": [117.13, 120.08], "ans": [5]},
+        {"lyric": "All of your empty lies",
+          "range": [120.08, 121.51], "ans": [5]}
+      ]
+    },
+    {"lyric": "Gibeun hansumman jiteojyeoga",
+      "lyric_hangul": "깊은 한숨만 짙어져가",
+      "lyric_translation": "",
+      "range": [120.78, 123.85], "ans": [5]},
+    "",
+    {"lyric": "Ssaneulhan gonggi sok",
+      "lyric_hangul": "싸늘한 공기 속 (속)",
+      "lyric_translation": "",
+      "range": [123.85, 126.94], "ans": [8]},
+    {"lyric": "Ongat gamjeonge magu dwieongkyeojyeo",
+      "lyric_hangul": "온갖 감정에 마구 뒤엉켜져 (yeah, yeah)",
+      "lyric_translation": "",
+      "range": [126.94, 130.0], "ans": [8]},
+    {"lyric": "It’s too late dolikigien imi",
+      "lyric_hangul": "It's too late 돌이키기엔 이미",
+      "lyric_translation": "",
+      "range": [130.0, 134.59], "ans": [1]},
+    {"lyric": "Miryeon eopshi geuman I’ll be gone",
+      "lyric_hangul": "미련 없이, 그만, I'll be gone",
+      "lyric_translation": "",
+      "range": [134.59, 136.52], "ans": [1]},
+    "",
+    {"lyric": "Heuteojineun emotions jeomjeom meoreojineungeol",
+      "lyric_hangul": "흩어지는 emotions 점점 멀어지는 걸",
+      "lyric_translation": "",
+      "range": [136.52, 140.08], "ans": [4]},
+    {
+      "lyric_hangul": "Don't wanna keep the pace with your swing moods",
+      "parts": [
+        {"lyric": "Don’t wanna keep the pace",
+          "range": [140.08, 142.02], "ans": [4]},
+        {"lyric": "With your swing moods",
+          "range": [142.02, 143.3], "ans": [4]}
+      ]
+    },
+    {"lyric": "Da buseojigo dwideopin deuriweojin memories",
+      "lyric_hangul": "다 부서지고 뒤덮인 드리워진 memories (no way)",
+      "lyric_translation": "",
+      "range": [143.05, 146.86], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "No way, no, no way, I'm so done with crazy stupid",
+      "parts": [
+        {"lyric": "No way no no way",
+          "range": [146.86, 150.03], "ans": [3]},
+        {"lyric": "I’m so done with crazy stupid",
+          "range": [149.33, 150.92], "ans": [6, 5]}
+      ]
+    },
+    {"lyric": "Love",
+      "lyric_hangul": "Lo-o-o-o-o-ove, that crazy stupid lo-love (love)",
+      "lyric_translation": "",
+      "range": [150.91, 155.58], "ans": [6, 9]},
+    {"lyric": "Oh yeah, That crazy love",
+      "lyric_hangul": "Oh yeah, that crazy love",
+      "lyric_translation": "",
+      "range": [155.58, 157.59], "ans": [2]},
+    {
+      "lyric_hangul": "Lo-o-o-o-o-ove, that crazy stupid lo-love (oh, yeah)",
+      "parts": [
+        {"lyric": "Love",
+          "range": [157.59, 160.84], "ans": [5]},
+        {"lyric": "That crazy stupid love",
+          "range": [160.14, 162.37], "ans": [6, 9]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm so done with crazy stupid love",
+      "parts": [
+        {"lyric": "I’m so done with crazy stupid love",
+          "range": [161.87, 164.9], "ans": [1]},
+        {"lyric": "That crazy stupid love",
+          "range": [164.2, 166.15], "ans": [5]}
+      ]
+    }
+  ]
+}

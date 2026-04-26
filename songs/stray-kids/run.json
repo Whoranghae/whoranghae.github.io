@@ -1,0 +1,345 @@
+{
+  "name": "RUN\r",
+  "ogg": "sound/kpop/run.ogg",
+  "id": "run",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2022-12-21",
+  "album": "SKZ-REPLAY",
+  "cover": "css/images/covers/run.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:10Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "어딘가로 도피 중임 당당했던 내 모습은 어디",
+      "lyric_translation": "I’m in the middle of escaping to somewhere else / Where is my confident self?",
+      "parts": [
+        {"lyric": "Eodingaro dopi",
+          "range": [15.78, 16.5], "ans": [5]},
+        {"lyric": "Jungim dangdanghaetteon nae moseubeun eodi",
+          "range": [16.5, 19.83], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "All the problems and lot of things make me fool 날 겁쟁이로 만들었지",
+      "lyric_translation": "All the problems and lot of things / Make me fool, made me a coward",
+      "parts": [
+        {"lyric": "All the problems and lot of things",
+          "range": [19.83, 21.75], "ans": [5]},
+        {"lyric": "Make me fool nal geopjaengiro mandeureotji",
+          "range": [21.75, 23.92], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "날 옥죄어 와 시곗바늘 소리 점점 다가오는 듯해 저기 문틈 사이",
+      "lyric_translation": "The sound of the clock ticking suffocates me / It feels like it’s getting closer, through that crack in the door",
+      "parts": [
+        {"lyric": "Nal okjweeo wa shigyetbaneul sori",
+          "range": [23.92, 25.46], "ans": [5]},
+        {"lyric": "Jeomjeom dagaoneun deuthae jeogi munteum sai",
+          "range": [25.46, 28.12], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "보여 낭만이 가득하고 자유로워 보이고 사방이 탁 트인",
+      "lyric_translation": "I see it, a place full of romance and freedom / Wide open on all sides",
+      "parts": [
+        {"lyric": "Boyeo nangmani gadeukhago jayuroweo boigo",
+          "range": [27.93, 30.45], "ans": [5]},
+        {"lyric": "Sabangi tak teuin",
+          "range": [30.45, 31.65], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Let’s be free mukkyeoitteon paldarireul pureo",
+      "lyric_hangul": "Let's be free 묶여있던 팔다리를 풀어",
+      "lyric_translation": "Let’s be free, let loose your tied-up arms and legs",
+      "range": [31.58, 34.03], "ans": [5]},
+    {"lyric": "Nae mokcheongi teojidorok sori jilleo",
+      "lyric_hangul": "내 목청이 터지도록 소리 질러",
+      "lyric_translation": "Shout until my voice gives out",
+      "range": [34.03, 36.48], "ans": [5]},
+    {
+      "lyric_hangul": "항상 잠재워 왔던 내 상상을 이상으로 바꿔줘",
+      "lyric_translation": "My imagination that I had always put to sleep, / Change it into something beyond it",
+      "parts": [
+        {"lyric": "Hangsang jamjaeweo watteon",
+          "range": [36.48, 37.64], "ans": [5]},
+        {"lyric": "Nae sangsangeul isangeuro bakkweojweo",
+          "range": [37.64, 39.8], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "죽어라 창문 밖 보면서 내뿜던 한숨",
+      "lyric_translation": "The sighs I used to let out / While endlessly staring out the window",
+      "parts": [
+        {"lyric": "Jugeora changmun bakk bomyeonseo",
+          "range": [39.53, 41.39], "ans": [5]},
+        {"lyric": "Naeppumdeon hansum",
+          "range": [41.39, 42.37], "ans": [5]}
+      ]
+    },
+    {"lyric": "Geurae keunmam meokgo dallineun chaeseo talju",
+      "lyric_hangul": "그래 큰맘 먹고 달리는 차에서 탈주",
+      "lyric_translation": "Yeah, throw caution to the wind and escape from a moving car",
+      "range": [41.53, 44.68], "ans": [5]},
+    {
+      "lyric_hangul": "Let me be free 내 발목을 잡는 족쇄야 이제 놔줘",
+      "lyric_translation": "Let me be free, you shackles that chain my ankles / Now let me go",
+      "parts": [
+        {"lyric": "Let me be free nae balmogeul jamneun jokswaeya",
+          "range": [44.68, 47.08], "ans": [5]},
+        {"lyric": "Ije nwajweo",
+          "range": [47.08, 48.67], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "밤하늘에 떠 있는 별들 바라보며 찌푸리던 인상",
+      "lyric_translation": "With a scowling expression, I look at / The stars in the night sky",
+      "parts": [
+        {"lyric": "Bamhaneure tteo inneun byeoldeul",
+          "range": [48.67, 49.65], "ans": [5]},
+        {"lyric": "Barabomyeo jjipurideon insang",
+          "range": [49.65, 52.25], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "시끄러운 알람에 짜증만 가득한데 이제 모두 던질까",
+      "lyric_translation": "These noisy alarms do nothing but annoy me / Should I throw it all away?",
+      "parts": [
+        {"lyric": "Shikkeureoun allame jjajeungman gadeukhande",
+          "range": [52.25, 54.21], "ans": [5]},
+        {"lyric": "Ije modu deonjilkka",
+          "range": [54.21, 56.19], "ans": [5]}
+      ]
+    },
+    {"lyric": "Geunyang georeo danillae geuge eodideun",
+      "lyric_hangul": "그냥 걸어 다닐래 그게 어디든",
+      "lyric_translation": "I just want to walk around, to wherever that might be",
+      "range": [56.19, 59.23], "ans": [5]},
+    {"lyric": "Nal boneun shiseondeureseo jigeum",
+      "lyric_hangul": "날 보는 시선들에서 지금",
+      "lyric_translation": "Away from all the eyes watching me right now,",
+      "range": [59.23, 60.37], "ans": [5]},
+    {
+      "lyric_hangul": "만큼은 도착지가 어디든지 신경 안 쓰고 악쓰며 맘대로 뛰어",
+      "lyric_translation": "Without caring what my destination will be, / I’ll run with all my strength, however I want",
+      "parts": [
+        {"lyric": "Mankeumeun dochakjiga eodideunji shingyeong an sseugo",
+          "range": [60.37, 62.27], "ans": [5]},
+        {"lyric": "Aksseumyeo mamdaero ttwieo",
+          "range": [62.27, 64.66], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Let’s run",
+      "lyric_hangul": "Let's run",
+      "lyric_translation": "Let’s run",
+      "range": [64.66, 66.95], "ans": [5]},
+    {"lyric": "Eodideun summakhiji anneun goseuro ga run",
+      "lyric_hangul": "어디든 숨막히지 않는 곳으로 가 run",
+      "lyric_translation": "Wherever it is, go somewhere that isn’t stifling, run",
+      "range": [66.95, 70.83], "ans": [5]},
+    {"lyric": "Deoltteoreojin moseup da sumgigo run",
+      "lyric_hangul": "덜떨어진 모습 다 숨기고 run",
+      "lyric_translation": "Hide all the stupid parts of myself and run",
+      "range": [70.83, 74.45], "ans": [5]},
+    {"lyric": "Running on the highway",
+      "lyric_hangul": "Running on the highway",
+      "lyric_translation": "Running on the highway",
+      "range": [74.45, 77.28], "ans": [5]},
+    {"lyric": "Mokjeokjineun an jeonghallae",
+      "lyric_hangul": "목적지는 안 정할래",
+      "lyric_translation": "I don’t want to decide my destination",
+      "range": [77.28, 78.7], "ans": [5]},
+    {
+      "lyric_hangul": "그래 지구상에 나 하나 쉴 곳이 없을까 무작정 두 발로 뛰어나가지 계속 run",
+      "lyric_translation": "Is there not a single place on earth for me to rest? / Blindly run away with both feet, keep running",
+      "parts": [
+        {"lyric": "Geurae jigusange na hana shwil goshi eopseulkka",
+          "range": [78.7, 81.84], "ans": [5]},
+        {"lyric": "Mujakjeong du ballo ttwieonagaji gyesok run",
+          "range": [81.84, 84.56], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Gyesok run",
+      "lyric_hangul": "계속 run",
+      "lyric_translation": "Keep running",
+      "range": [84.56, 88.27], "ans": [5]},
+    {"lyric": "Duballo dallyeo gyesok run",
+      "lyric_hangul": "두발로 달려 계속 run",
+      "lyric_translation": "Run with both feet, keep running",
+      "range": [88.27, 90.87], "ans": [5]},
+    {"lyric": "Gyesok run",
+      "lyric_hangul": "계속 run",
+      "lyric_translation": "Keep running",
+      "range": [90.87, 94.08], "ans": [5]},
+    {"lyric": "Run run yeah",
+      "lyric_hangul": "Run run yeah",
+      "lyric_translation": "Run run yeah",
+      "range": [94.08, 95.65], "ans": [5]},
+    {"lyric": "Let’s run run yeah",
+      "lyric_hangul": "Let's run run yeah",
+      "lyric_translation": "Let’s run run yeah",
+      "range": [95.65, 96.81], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Mami ganeun daero pulliji anneun nae piro",
+      "lyric_hangul": "맘이 가는 대로 풀리지 않는 내 피로",
+      "lyric_translation": "My exhaustion won’t go away like I want it to",
+      "range": [96.81, 98.93], "ans": [5]},
+    {
+      "lyric_hangul": "식겁했지 거울 속에 내 모습은 초췌해 다시 뒤로뒤로뒤로",
+      "lyric_translation": "I freaked out, my reflection in the mirror is haggard / Again, I push, push, push",
+      "parts": [
+        {"lyric": "Shikgeophaetji geoul soge nae moseubeun chochwehae",
+          "range": [98.93, 100.15], "ans": [5]},
+        {"lyric": "Dashi dwirodwirodwiro",
+          "range": [100.15, 101.5], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "미뤄미뤄미뤄 내일 할 일들 다음으로 pass 싫어 싫어 싫어",
+      "lyric_translation": "Back, back, back the things I have to do tomorrow / Pass it on to the next time, I don’t like it, like it, like it",
+      "parts": [
+        {"lyric": "Mirweomirweomirweo naeil hal ildeul",
+          "range": [101.5, 102.67], "ans": [5]},
+        {"lyric": "Daeumeuro pass shireo shireo shireo",
+          "range": [102.67, 104.17], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Neckless 언제부터 무거웠나 어깨에 짐 쏟아내듯 처진 것 봐",
+      "lyric_translation": "Neckless, since when did it start feeling heavy / Look at how my shoulders sink as if carrying a burden",
+      "parts": [
+        {"lyric": "Neckless eonjebuteo mugeoweonna",
+          "range": [104.17, 106.07], "ans": [5]},
+        {"lyric": "Eokkaee jim ssodanaedeut cheojin geot bwa",
+          "range": [106.07, 108.49], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Now stop 잠시 넘어지자 아픈 척이라도 하면 앉아 있어도 될까",
+      "lyric_translation": "Now stop, let’s fall for a moment / If I pretend to be hurt, will I be able to sit down?",
+      "parts": [
+        {"lyric": "Now stop jamshi neomeojija",
+          "range": [108.49, 110.01], "ans": [5]},
+        {"lyric": "Apeun cheogirado hamyeon anja isseodo dwelkka",
+          "range": [110.01, 111.99], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "새롭게 시작되는 아침 누군가에게는 상쾌한 새벽 공기가 내겐 무거워",
+      "lyric_translation": "For someone else, the morning is a new start / But the fresh dawn air weighs heavy on me / Still half-asleep",
+      "parts": [
+        {"lyric": "Saeropge shijakdweneun achim nugungaegeneun",
+          "range": [111.79, 114.35], "ans": [5]},
+        {"lyric": "Sangkwaehan saebyeok gonggiga naegen mugeoweo",
+          "range": [114.35, 115.67], "ans": [5]},
+        {"lyric": "Jam deol kkaen",
+          "range": [115.67, 116.09], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "잠 덜 깬 내 정신은 몽롱해 도통 깰 생각은 안 해 눈만 되려 껌뻑",
+      "lyric_translation": "My mind is foggy / I have no intention of waking up / I just blink my eyes",
+      "parts": [
+        {"lyric": "Nae jeongshineun mongnonghae",
+          "range": [116.09, 117.47], "ans": [5]},
+        {"lyric": "Dotong kkael saenggageun an hae",
+          "range": [117.47, 119.07], "ans": [5]},
+        {"lyric": "Nunman dweryeo kkeomppeok",
+          "range": [119.07, 120.09], "ans": [5]}
+      ]
+    },
+    {"lyric": "Like a time warp hadeut eodiro tteonaseo",
+      "lyric_hangul": "Like a time warp 하듯 어디로 떠나서",
+      "lyric_translation": "Like a time warp, like going away to somewhere else",
+      "range": [119.7, 123.03], "ans": [5]},
+    {"lyric": "Neolbeun badassoge momeul naedeonjigo shipeo",
+      "lyric_hangul": "넓은 바닷속에 몸을 내던지고 싶어",
+      "lyric_translation": "I want to throw myself into the wide ocean",
+      "range": [123.03, 125.58], "ans": [5]},
+    {"lyric": "Yuyuhi heeomchyeo mijie segyero swim",
+      "lyric_hangul": "유유히 헤엄쳐 미지의 세계로 swim",
+      "lyric_translation": "Swim leisurely, into the unknown world, swim",
+      "range": [125.58, 127.55], "ans": [5]},
+    {"lyric": "Naega hangsang kkumkkudeon goseuro dream",
+      "lyric_hangul": "내가 항상 꿈꾸던 곳으로 dream",
+      "lyric_translation": "To the place I’ve always dreamed of, dream",
+      "range": [127.55, 129.65], "ans": [5]},
+    "",
+    {"lyric": "Run from my room",
+      "lyric_hangul": "Run from my room",
+      "lyric_translation": "Run from my room",
+      "range": [129.65, 130.4], "ans": [5]},
+    {"lyric": "Run from my town",
+      "lyric_hangul": "Run from my town",
+      "lyric_translation": "Run from my town",
+      "range": [130.4, 132.47], "ans": [5]},
+    {"lyric": "Run from my city",
+      "lyric_hangul": "Run from my city",
+      "lyric_translation": "Run from my city",
+      "range": [132.47, 134.1], "ans": [5]},
+    {"lyric": "Run from the world",
+      "lyric_hangul": "Run from the world",
+      "lyric_translation": "Run from the world",
+      "range": [134.1, 136.48], "ans": [5]},
+    "",
+    {"lyric": "Run from my room",
+      "lyric_hangul": "Run from my room",
+      "lyric_translation": "Run from my room",
+      "range": [136.48, 138.47], "ans": [5]},
+    {"lyric": "Run from my town",
+      "lyric_hangul": "Run from my town",
+      "lyric_translation": "Run from my town",
+      "range": [138.47, 140.18], "ans": [5]},
+    {"lyric": "Run from my city",
+      "lyric_hangul": "Run from my city",
+      "lyric_translation": "Run from my city",
+      "range": [140.18, 142.23], "ans": [5]},
+    {"lyric": "Run from the world",
+      "lyric_hangul": "Run from the world",
+      "lyric_translation": "Run from the world",
+      "range": [142.23, 146.01], "ans": [5]},
+    "",
+    {"lyric": "Du ballo dallyeo gyesok run",
+      "lyric_hangul": "두 발로 달려 계속 run",
+      "lyric_translation": "Run with both feet, keep running",
+      "range": [152.1, 156.59], "ans": [5]},
+    {"lyric": "Gyesok run",
+      "lyric_hangul": "계속 run",
+      "lyric_translation": "Keep running",
+      "range": [156.59, 157.98], "ans": [5]},
+    {"lyric": "Run run yeah",
+      "lyric_hangul": "Run run yeah",
+      "lyric_translation": "Run run yeah",
+      "range": [157.98, 159.16], "ans": [5]},
+    {"lyric": "Let’s run run yeah",
+      "lyric_hangul": "Let's run run yeah",
+      "lyric_translation": "Let’s run run yeah",
+      "range": [159.16, 160.94], "ans": [5]},
+    "",
+    {"lyric": "Gwichaneun munjeneun modu tteolchyeo beorigo",
+      "lyric_hangul": "귀찮은 문제는 모두 떨쳐 버리고",
+      "lyric_translation": "Get rid of all those annoying problems, and",
+      "range": [160.94, 164.21], "ans": [5]},
+    {"lyric": "Igoseul tteona naega weonhaneun goseuro Let me go",
+      "lyric_hangul": "이곳을 떠나 내가 원하는 곳으로 Let me go",
+      "lyric_translation": "Leave this place, go where I want to go, let me go",
+      "range": [164.21, 168.35], "ans": [5]},
+    {"lyric": "Jageun bihaenggi sok nallyeo bonaen yeoyu Fly so high",
+      "lyric_hangul": "작은 비행기 속 날려 보낸 여유 Fly so high",
+      "lyric_translation": "The carefreeness I sent off in a little plane, fly so high",
+      "range": [168.35, 172.02], "ans": [5]},
+    {"lyric": "Neomu nopaseo nae sone dajiga anneun geolkka?",
+      "lyric_hangul": "너무 높아서 내 손에 닿지가 않는 걸까?",
+      "lyric_translation": "Is it too high for my hands to reach?",
+      "range": [172.02, 179.0], "ans": [5]}
+  ]
+}

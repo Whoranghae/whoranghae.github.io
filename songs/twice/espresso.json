@@ -1,0 +1,433 @@
+{
+  "name": "ESPRESSO\r",
+  "ogg": "sound/kpop/espresso.ogg",
+  "id": "espresso",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-11-12",
+  "album": "Formula of Love: O＋T=＜3",
+  "cover": "css/images/covers/espresso.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:13Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [5.79, 8.36], "ans": [4]},
+        {"lyric": "That’s who I am",
+          "range": [8.36, 10.17], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Han mogeume neoreul kkaeweo",
+      "lyric_hangul": "한 모금에 너를 깨워",
+      "lyric_translation": "I wake you up with one sip",
+      "range": [10.17, 12.65], "ans": [1]},
+    {"lyric": "Shimjangeun ttwigo onmomeuro peojeogaji",
+      "lyric_hangul": "심장은 뛰고 온몸으로 퍼져가지",
+      "lyric_translation": "Your heart races and I spread all over your body",
+      "range": [12.65, 15.54], "ans": [1]},
+    {
+      "lyric_hangul": "단 한 번에 perfect caffeine, take it away",
+      "lyric_translation": "At once, perfect caffeine, take it away",
+      "parts": [
+        {"lyric": "Dan han beone Perfect caffeine",
+          "range": [15.54, 17.93], "ans": [1]},
+        {"lyric": "(Take it away)",
+          "range": [17.23, 18.46], "ans": [8]}
+      ]
+    },
+    {"lyric": "Jungdokdwen geot gateun neukkim Lovin’ it",
+      "lyric_hangul": "중독된 것 같은 느낌 lovin' it",
+      "lyric_translation": "It feels as if you’re addicted, lovin’ it",
+      "range": [18.19, 20.57], "ans": [1]},
+    "",
+    {"lyric": "One shot 24/7",
+      "lyric_hangul": "One shot, twenty-four seven",
+      "lyric_translation": "One shot 24/7",
+      "range": [20.57, 21.9], "ans": [5]},
+    {"lyric": "Neol michige haneun i saegeun Black",
+      "lyric_hangul": "널 미치게 하는 이 색은 black",
+      "lyric_translation": "This color that drives you crazy is black",
+      "range": [21.9, 25.46], "ans": [5]},
+    {
+      "lyric_hangul": "What you waiting for? look how beautiful",
+      "lyric_translation": "What you waiting for? / Look how beautiful",
+      "parts": [
+        {"lyric": "What",
+          "range": [25.46, 26.61], "ans": [3]},
+        {"lyric": "You waiting for",
+          "range": [25.91, 27.27], "ans": [4]},
+        {"lyric": "Look",
+          "range": [26.57, 28.09], "ans": [3]},
+        {"lyric": "How beautiful",
+          "range": [27.39, 28.32], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neomchige neomchige gadeuk damajulkke",
+      "lyric_hangul": "넘치게 넘치게 가득 담아줄게",
+      "lyric_translation": "I’ll fill it up until it spills over",
+      "range": [28.06, 31.48], "ans": [9]},
+    "",
+    {"lyric": "Deo jiteojin naye Color",
+      "lyric_hangul": "더 짙어진 나의 color",
+      "lyric_translation": "My color that’s become darker",
+      "range": [31.48, 34.14], "ans": [2]},
+    {"lyric": "Deo gipeojin Bitter flavor",
+      "lyric_hangul": "더 깊어진 bitter flavor",
+      "lyric_translation": "Bitter flavor that’s become deeper",
+      "range": [34.14, 36.08], "ans": [2]},
+    {"lyric": "Nae mameun neoman neukkil su isseo",
+      "lyric_hangul": "내 맘은 너만 느낄 수 있어",
+      "lyric_translation": "Only you can feel my heart",
+      "range": [36.08, 38.12], "ans": [6]},
+    {"lyric": "Ne shimjangeul ttwige hal na",
+      "lyric_hangul": "네 심장을 뛰게 할 나",
+      "lyric_translation": "I who will make your heart race",
+      "range": [38.12, 41.19], "ans": [6]},
+    "",
+    {"lyric": "Drip drop han bangulsshik tteoreojineun geon",
+      "lyric_hangul": "Drip, drop, 한 방울씩 떨어지는 건",
+      "lyric_translation": "Drip drop, falling down one drop each…",
+      "range": [41.19, 43.66], "ans": [5]},
+    {"lyric": "Neoreul kkaeul wanbyeokan nae Potion",
+      "lyric_hangul": "너를 깨울 완벽한 내 potion",
+      "lyric_translation": "…is my perfect potion that will wake you up",
+      "range": [43.66, 46.73], "ans": [1]},
+    {"lyric": "This, you’ve never seen before, get ready babe",
+      "lyric_hangul": "This, you've never seen before, get ready, babe",
+      "lyric_translation": "This, you’ve never seen before, get ready, babe",
+      "range": [46.73, 49.05], "ans": [5]},
+    {
+      "lyric_hangul": "Keeps you awake, 그래 더 더 더 어둡게",
+      "lyric_translation": "Keeps you awake, yes, more more more dark / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Keeps you awake geurae deo deo deo eodupge",
+          "range": [49.05, 50.56], "ans": [2]},
+        {"lyric": "(Drip)",
+          "range": [49.98, 50.96], "ans": [7]},
+        {"lyric": "Deo jinhage",
+          "range": [50.26, 51.3], "ans": [4]},
+        {"lyric": "(Drop)",
+          "range": [50.74, 51.62], "ans": [7]},
+        {"lyric": "Ajjilhage",
+          "range": [51.0, 51.67], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "때로는 달콤하게 (na, na-na-na-na)",
+      "lyric_translation": "Sometimes sweetly (Na na na na na) / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Ttaeroneun dalkomhage",
+          "range": [53.81, 55.31], "ans": [8]},
+        {"lyric": "(Na na na na na)",
+          "range": [54.61, 55.84], "ans": []},
+        {"lyric": "(Drip)",
+          "range": [55.36, 56.23], "ans": [7]},
+        {"lyric": "Deo jinhage",
+          "range": [55.54, 56.37], "ans": [9]},
+        {"lyric": "(Drop)",
+          "range": [55.93, 56.77], "ans": [7]},
+        {"lyric": "Ajjilhage",
+          "range": [56.07, 57.18], "ans": [9]}
+      ]
+    },
+    {"lyric": "Dan han beone neoye shimjangeul ttwige haneun Shot",
+      "lyric_hangul": "단 한 번에 너의 심장을 뛰게 하는 shot",
+      "lyric_translation": "Shot that makes your heart race at once",
+      "range": [59.04, 62.49], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [62.49, 65.09], "ans": [7]},
+        {"lyric": "That’s who I am",
+          "range": [65.09, 67.42], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [67.42, 70.21], "ans": [9]},
+        {"lyric": "That’s who I am",
+          "range": [70.21, 72.14], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Hanmadie ppajeodeureo",
+      "lyric_hangul": "한마디에 빠져들어",
+      "lyric_translation": "You fall with one word",
+      "range": [72.14, 75.38], "ans": [8]},
+    {"lyric": "Ijeneun dorikil su eomneun Fantasy, yeah",
+      "lyric_hangul": "이제는 돌이킬 수 없는 fantasy, yeah",
+      "lyric_translation": "Fantasy that you can’t reverse, yeah",
+      "range": [75.38, 77.45], "ans": [5, 8]},
+    {
+      "lyric_hangul": "이미 너는 이게 필요해 take it away",
+      "lyric_translation": "You already need this, take it away",
+      "parts": [
+        {"lyric": "Imi neoneun ige piryohae",
+          "range": [77.45, 80.32], "ans": [6]},
+        {"lyric": "(Take it away)",
+          "range": [79.62, 80.37], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "중독된 것 같은 느낌 lovin' it",
+      "lyric_translation": "It feels as if you’re addicted / Lovin’ it",
+      "parts": [
+        {"lyric": "Jungdokdwen geot gateun neukkim",
+          "range": [80.2, 82.45], "ans": [2, 6]},
+        {"lyric": "Lovin’ it",
+          "range": [81.75, 83.5], "ans": [2, 5, 6]}
+      ]
+    },
+    "",
+    {"lyric": "One step geudaero naege",
+      "lyric_hangul": "One step 그대로 내게",
+      "lyric_translation": "One step, like that to me",
+      "range": [82.53, 84.18], "ans": [4]},
+    {
+      "lyric_hangul": "너무 가까워지면 조금 위험해",
+      "lyric_translation": "It’s a bit dangerous if you get too close / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Neomu gakkaweojimyeon jogeum wiheomhae",
+          "range": [84.18, 85.71], "ans": [4]},
+        {"lyric": "(Drip)",
+          "range": [85.23, 85.95], "ans": []},
+        {"lyric": "Deo jinhage",
+          "range": [85.41, 86.35], "ans": [3]},
+        {"lyric": "(Drop) Na/Mo ajjilhage",
+          "range": [85.65, 88.05], "ans": [1, 3]}
+      ]
+    },
+    {"lyric": "Meomchul su eopseo samkyeobeoringeol",
+      "lyric_hangul": "멈출 수 없어 삼켜버린걸",
+      "lyric_translation": "You can’t stop, you already swallowed it",
+      "range": [89.81, 92.97], "ans": [1]},
+    "",
+    {"lyric": "Deo jiteojin naye Color",
+      "lyric_hangul": "더 짙어진 나의 color",
+      "lyric_translation": "My color that’s become darker",
+      "range": [92.97, 96.22], "ans": [9]},
+    {"lyric": "Deo gipeojin Bitter flavor",
+      "lyric_hangul": "더 깊어진 bitter flavor",
+      "lyric_translation": "Bitter flavor that’s become deeper",
+      "range": [96.22, 98.11], "ans": [9]},
+    {"lyric": "Nae mameun neoman neukkil su isseo",
+      "lyric_hangul": "내 맘은 너만 느낄 수 있어",
+      "lyric_translation": "Only you can feel my heart",
+      "range": [98.11, 100.01], "ans": [5]},
+    {"lyric": "Ni shimjangeul ttwige hal na",
+      "lyric_hangul": "네 심장을 뛰게 할 나",
+      "lyric_translation": "I who will make your heart race",
+      "range": [100.01, 103.06], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Drip drop han bangulsshik tteoreojineun geon",
+      "lyric_hangul": "Drip, drop, 한 방울씩 떨어지는 건",
+      "lyric_translation": "Drip drop, falling down one drop each…",
+      "range": [103.06, 105.56], "ans": [1]},
+    {"lyric": "Neoreul kkaeul wanbyeokan nae Potion",
+      "lyric_hangul": "너를 깨울 완벽한 내 potion",
+      "lyric_translation": "…is my perfect potion that will wake you up",
+      "range": [105.56, 108.52], "ans": [5]},
+    {"lyric": "This, you’ve never seen before, get ready babe",
+      "lyric_hangul": "This, you've never seen before, get ready, babe",
+      "lyric_translation": "This, you’ve never seen before, get ready, babe",
+      "range": [108.52, 110.98], "ans": [1]},
+    {
+      "lyric_hangul": "Keeps you awake, 그래 더 더 더 어둡게",
+      "lyric_translation": "Keeps you awake, yes, more more more dark / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Keeps you awake geurae deo deo deo eodupge",
+          "range": [110.98, 112.36], "ans": [2]},
+        {"lyric": "(Drip)",
+          "range": [111.9, 112.76], "ans": [7]},
+        {"lyric": "Deo jinhage",
+          "range": [112.06, 113.15], "ans": [4]},
+        {"lyric": "(Drop)",
+          "range": [112.69, 113.55], "ans": [7]},
+        {"lyric": "Ajjilhage",
+          "range": [112.85, 113.83], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "때로는 달콤하게 (na, na-na-na-na)",
+      "lyric_translation": "Sometimes sweetly (Na na na na na) / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Ttaeroneun dalkomhage",
+          "range": [116.21, 117.44], "ans": [8]},
+        {"lyric": "(Na na na na na)",
+          "range": [116.74, 117.8], "ans": []},
+        {"lyric": "(Drip)",
+          "range": [117.37, 118.2], "ans": [7]},
+        {"lyric": "Deo jinhage",
+          "range": [117.5, 118.43], "ans": [9]},
+        {"lyric": "(Drop)",
+          "range": [118.0, 118.83], "ans": [7]},
+        {"lyric": "Ajjilhage",
+          "range": [118.13, 118.97], "ans": [9]}
+      ]
+    },
+    {"lyric": "Dan han beone neoye shimjangeul ttwige haneun Shot",
+      "lyric_hangul": "단 한 번에 너의 심장을 뛰게 하는 shot",
+      "lyric_translation": "Shot that makes your heart race at once",
+      "range": [120.92, 124.43], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [124.43, 127.07], "ans": [3]},
+        {"lyric": "That’s who I am",
+          "range": [127.07, 129.43], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [129.43, 132.18], "ans": [8]},
+        {"lyric": "That’s who I am",
+          "range": [132.18, 134.28], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "이 세상 모든 색깔 전부 다",
+      "lyric_translation": "Every color in this world / Every color in this world, blend it",
+      "parts": [
+        {"lyric": "I sesang modeun saekkal jeonbu da",
+          "range": [134.28, 135.97], "ans": [9]},
+        {"lyric": "I sesang modeun saek jeonbu da Blend it",
+          "range": [135.27, 137.25], "ans": [8, 9]}
+      ]
+    },
+    {
+      "lyric_hangul": "하나가 되어 선명해진 black 그게 날 춤추게 해",
+      "lyric_translation": "They have become one / And black has become clear, that makes me dance",
+      "parts": [
+        {"lyric": "Hanaga dweeo seonmyeonghaejin",
+          "range": [139.49, 142.27], "ans": [1]},
+        {"lyric": "Black geuge nal chumchuge hae",
+          "range": [142.27, 144.8], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "짙어지는 이 향기 더 깊어진 우리 story, yeah",
+      "lyric_translation": "This deepening scent / Our story that has gotten deeper",
+      "parts": [
+        {"lyric": "Jiteojineun i hyanggi",
+          "range": [144.8, 146.98], "ans": [5]},
+        {"lyric": "Deo gipeojin uri Story",
+          "range": [146.98, 150.02], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'ma say it once, I'm not saying it twice",
+      "lyric_translation": "Imma say it once / I’m not saying it twice",
+      "parts": [
+        {"lyric": "Imma say it once",
+          "range": [149.89, 151.13], "ans": [7]},
+        {"lyric": "I’m not saying it twice",
+          "range": [151.13, 151.83], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Look in my eyes, 네 심장을 뛰게 할 나 (yeah)",
+      "lyric_translation": "Look in my eyes / I who will make your heart race",
+      "parts": [
+        {"lyric": "Look in my eyes",
+          "range": [151.83, 152.96], "ans": [7]},
+        {"lyric": "Ni shimjangeul ttwige hal na",
+          "range": [152.26, 154.52], "ans": [1, 6]}
+      ]
+    },
+    "",
+    {"lyric": "Drip drop han bangulsshik tteoreojineun geon",
+      "lyric_hangul": "Drip, drop, 한 방울씩 떨어지는 건",
+      "lyric_translation": "Drip drop, falling down one drop each…",
+      "range": [154.52, 156.88], "ans": [5]},
+    {"lyric": "Neoreul kkaeul wanbyeokan nae Potion",
+      "lyric_hangul": "너를 깨울 완벽한 내 potion",
+      "lyric_translation": "…is my perfect potion that will wake you up",
+      "range": [156.88, 160.0], "ans": [2]},
+    {"lyric": "This, you’ve never seen before, get ready babe",
+      "lyric_hangul": "This, you've never seen before, get ready, babe",
+      "lyric_translation": "This, you’ve never seen before, get ready, babe",
+      "range": [160.0, 162.24], "ans": [5]},
+    {
+      "lyric_hangul": "Keeps you awake, 그래 더 더 더 어둡게",
+      "lyric_translation": "Keeps you awake, yes, more more more dark / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Keeps you awake geurae deo deo deo eodupge",
+          "range": [162.24, 163.81], "ans": [2]},
+        {"lyric": "(Drip)",
+          "range": [163.33, 164.21], "ans": [7]},
+        {"lyric": "Deo jinhage",
+          "range": [163.51, 164.71], "ans": [4]},
+        {"lyric": "(Drop)",
+          "range": [164.23, 165.11], "ans": [7]},
+        {"lyric": "Ajjilhage",
+          "range": [164.41, 165.47], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "때로는 달콤하게 (na, na-na-na-na)",
+      "lyric_translation": "Sometimes sweetly (Na na na na na) / (Drip) Stronger / (Drop) Thrillingly",
+      "parts": [
+        {"lyric": "Ttaeroneun dalkomhage",
+          "range": [167.32, 168.84], "ans": [8]},
+        {"lyric": "(Na na na na na)",
+          "range": [168.14, 169.41], "ans": []},
+        {"lyric": "(Drip)",
+          "range": [168.91, 169.76], "ans": [7]},
+        {"lyric": "Deo jinhage",
+          "range": [169.11, 169.91], "ans": [9]},
+        {"lyric": "(Drop)",
+          "range": [169.46, 170.31], "ans": [7]},
+        {"lyric": "Ajjilhage",
+          "range": [169.61, 170.53], "ans": [9]}
+      ]
+    },
+    {"lyric": "Dan han beone neoye shimjangeul ttwige haneun Shot",
+      "lyric_hangul": "단 한 번에 너의 심장을 뛰게 하는 shot",
+      "lyric_translation": "Shot that makes your heart race at once",
+      "range": [172.21, 175.84], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [175.84, 178.69], "ans": [6]},
+        {"lyric": "That’s who I am",
+          "range": [178.69, 181.02], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "E-S-P-R-E-S-S-O, that's who I am",
+      "lyric_translation": "E.S.P.R.E.S.S.O / That’s who I am",
+      "parts": [
+        {"lyric": "E.S.P.R.E.S.S.O",
+          "range": [181.02, 183.82], "ans": [8]},
+        {"lyric": "That’s who I am",
+          "range": [183.82, 187.8], "ans": [8]}
+      ]
+    }
+  ]
+}

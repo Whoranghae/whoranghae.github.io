@@ -1,0 +1,407 @@
+{
+  "name": "DOMINO\r",
+  "ogg": "sound/kpop/domino.ogg",
+  "id": "domino",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2021-08-23",
+  "album": "NOEASY",
+  "cover": "css/images/covers/domino.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:04Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "도레미파솔라시도, 차례로 올라가서 커지는 scale",
+      "lyric_translation": "Do Re Mi Fa So La Ti Do / Our scale’s growing step by step",
+      "parts": [
+        {"lyric": "Doremipasollashido",
+          "range": [2.0, 2.84], "ans": [3]},
+        {"lyric": "Charyero ollagaseo keojineun scale",
+          "range": [2.84, 5.47], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "음, 시도와는 엄연히 다른 내 도전은 여럿 도장을 깨",
+      "lyric_translation": "Umm, my challenges are different than simple attempts / Beating everything I set my mind to*",
+      "parts": [
+        {"lyric": "Umm shidowaneun eomyeonhi dareun",
+          "range": [4.77, 6.63], "ans": [3]},
+        {"lyric": "Nae dojeoneun yeoreot dojangeul kkae",
+          "range": [6.63, 8.42], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "음, 가리는 거 없어 싹 다 토핑해서 씹어 먹어",
+      "lyric_translation": "Umm, I’m not picky about anything / Pile up the toppings and take a bite",
+      "parts": [
+        {"lyric": "Umm garineun geo eopseo",
+          "range": [7.92, 11.02], "ans": [3]},
+        {"lyric": "Ssak da topinghaeseo sshibeo meogeo",
+          "range": [11.02, 11.52], "ans": [3]}
+      ]
+    },
+    {"lyric": "(ttaengttaengttaeng pija) eum? peuraenchaijeu bonjeomcheoreom",
+      "lyric_hangul": "(땡땡땡 피자) 음? 프랜차이즈 본점처럼",
+      "lyric_translation": "(****** Pizza) Hm? Like the original branch of a franchise",
+      "range": [10.98, 13.45], "ans": [3]},
+    "",
+    {"lyric": "Nareul bonttanne geurae dadeul yeye jushihae",
+      "lyric_hangul": "나를 본떴네 그래 다들 예의 주시해",
+      "lyric_translation": "You all got it from me, don’t forget your manners",
+      "range": [13.45, 16.76], "ans": [2]},
+    {
+      "lyric_hangul": "시선 고정해 아닌 척 다 곁눈질로, yeah",
+      "lyric_translation": "All eyes are on me / Even if you’re just glancing while pretending not to, yeah",
+      "parts": [
+        {"lyric": "Shiseon gojeonghae",
+          "range": [16.76, 20.26], "ans": [2]},
+        {"lyric": "Anin cheok da gyeonnunjillo yeah",
+          "range": [20.26, 20.76], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I know, yeah, I know, 숨길래도 티가 나지",
+      "lyric_translation": "Yeah I know, yeah I know / Even if you try to hide it, it shows",
+      "parts": [
+        {"lyric": "Yeah I know, yeah I know",
+          "range": [19.71, 21.16], "ans": [8]},
+        {"lyric": "Sumgillaedo tiga naji",
+          "range": [21.16, 22.6], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "뱁새들의 전쟁 속에서 황새는 귀찮네",
+      "lyric_translation": "Storks can’t be bothered / In a battle between crow-tits",
+      "parts": [
+        {"lyric": "Baebsaedeure jeonjaeng",
+          "range": [22.6, 24.69], "ans": [8]},
+        {"lyric": "Sogeseo hwangsaeneun gwichanne",
+          "range": [23.99, 25.74], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Setting up my ambitions",
+      "lyric_hangul": "Setting up my ambitions",
+      "lyric_translation": "Setting up my ambitions",
+      "range": [25.73, 28.86], "ans": [1]},
+    {"lyric": "Hanadulsshik wanseongdwae I made it",
+      "lyric_hangul": "하나둘씩 완성돼, I made it",
+      "lyric_translation": "Completing them one by one, I made it",
+      "range": [28.86, 31.57], "ans": [1]},
+    {"lyric": "Now it’s time for ignition",
+      "lyric_hangul": "Now it's time for ignition",
+      "lyric_translation": "Now it’s time for ignition",
+      "range": [31.57, 33.72], "ans": [7]},
+    {"lyric": "Nabuteo shijakdwae dwittara umjigyeo domino hyogwa",
+      "lyric_hangul": "나부터 시작돼 뒤따라 움직여",
+      "lyric_translation": "I’ll start, move after me, a domino effect",
+      "range": [33.72, 37.03], "ans": [7]},
+    "",
+    {"lyric": "Oh oh oh",
+      "lyric_hangul": "도미노 효과, oh, oh, oh",
+      "lyric_translation": "Oh oh oh",
+      "range": [37.03, 39.73], "ans": [7]},
+    {
+      "lyric_hangul": "더 불을 지펴, oh, oh, no",
+      "lyric_translation": "Keep lighting the fire / Oh oh no",
+      "parts": [
+        {"lyric": "Deo bureul jipyeo",
+          "range": [39.73, 42.93], "ans": [8]},
+        {"lyric": "Oh oh no",
+          "range": [42.93, 43.43], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "모두 몰려와 now, now, 줄 세워 여기 다",
+      "lyric_translation": "Everyone come here now now / Get in line here",
+      "parts": [
+        {"lyric": "Modu mollyeowa now now",
+          "range": [42.21, 43.05], "ans": [2]},
+        {"lyric": "Jul seweo yeogi da",
+          "range": [43.05, 46.69], "ans": [2]}
+      ]
+    },
+    {"lyric": "Nugudo yeweneun eopseo",
+      "lyric_hangul": "누구도 예외는 없어",
+      "lyric_translation": "Nobody’s left out",
+      "range": [45.79, 48.14], "ans": [1]},
+    "",
+    {"lyric": "Hanbeon kkattakhamyeon DOMINO",
+      "lyric_hangul": "한번 까딱하면, domino, domino",
+      "lyric_translation": "With a flick of the finger they’re like DOMINOs",
+      "range": [48.14, 50.7], "ans": [4]},
+    {"lyric": "DOMINO DOMINO DOMINO",
+      "lyric_hangul": "Domino, domino, domino, domino, domino",
+      "lyric_translation": "DOMINO DOMINO DOMINO / DOMINO DOMINO DOMINO",
+      "range": [50.7, 54.52], "ans": []},
+    "",
+    {"lyric": "Hanbeon kkattakhamyeon DOMINO",
+      "lyric_hangul": "한번 까딱하면, domino, domino",
+      "lyric_translation": "With a flick of the finger they’re like DOMINOs",
+      "range": [53.9, 56.68], "ans": [3]},
+    {"lyric": "DOMINO DOMINO DOMINO",
+      "lyric_hangul": "Domino, domino, domino, domino, domino",
+      "lyric_translation": "DOMINO DOMINO DOMINO / DOMINO DOMINO DOMINO",
+      "range": [56.68, 59.87], "ans": []},
+    {"lyric": "DAN DAN DAN DAN",
+      "lyric_hangul": "Dan, dan, dan, dan",
+      "lyric_translation": "DAN DAN DAN DAN",
+      "range": [59.87, 61.22], "ans": [6]},
+    "",
+    {"lyric": "Play gatgo nora sonjit hanaro",
+      "lyric_hangul": "Play 갖고 놀아",
+      "lyric_translation": "Play, I play with you all, one gesture",
+      "range": [61.22, 63.2], "ans": [7]},
+    {
+      "lyric_hangul": "손짓 하나로 다 attention, pay attention",
+      "lyric_translation": "And I’ve got your attention / Pay attention",
+      "parts": [
+        {"lyric": "Da attention",
+          "range": [63.2, 64.25], "ans": [7]},
+        {"lyric": "Pay attention",
+          "range": [64.25, 67.13], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't play, 웃음기 싹 빼고",
+      "lyric_translation": "I don’t play / Without a single hint of a smile",
+      "parts": [
+        {"lyric": "I don’t play",
+          "range": [67.13, 67.63], "ans": [2]},
+        {"lyric": "Useumgi ssak ppaego",
+          "range": [67.47, 70.21], "ans": [2]}
+      ]
+    },
+    {"lyric": "Keuge ireukyeo sensation yeah",
+      "lyric_hangul": "크게 일으켜 sensation, yeah (like domino)",
+      "lyric_translation": "I cause a huge sensation, yeah",
+      "range": [69.5, 75.33], "ans": [2]},
+    {"lyric": "Blah blah",
+      "lyric_hangul": "Yah, 우르르 쾅 입김만 불어도 다 부서져, blah, blah",
+      "lyric_translation": "Blah blah",
+      "range": [78.71, 81.4], "ans": [5]},
+    "",
+    {"lyric": "Okay kkeutkkaji no jeoeo, nae byeolmyeongeun buldojeo",
+      "lyric_hangul": "Okay, 끝까지 노 저어, 내 별명은 불도저",
+      "lyric_translation": "Okay, keep rowing ’til the end, my nickname is bulldozer",
+      "range": [81.4, 84.1], "ans": [6]},
+    {"lyric": "Dadeul neomeojyeodo pobok jasero nal ttara follow",
+      "lyric_hangul": "다들 넘어져도 포복 자세로 날 따라 follow",
+      "lyric_translation": "Even if you fall, keep crawling after me, follow",
+      "range": [84.1, 87.09], "ans": [6]},
+    {
+      "lyric_hangul": "유머 한방에 주변 다 배꼽 잡아 넘어가",
+      "lyric_translation": "With one joke everyone falls over / Grasping their stomachs",
+      "parts": [
+        {"lyric": "Yumeo hanbange jubyeon",
+          "range": [87.09, 89.29], "ans": [3]},
+        {"lyric": "Da baekkob jaba neomeoga",
+          "range": [89.29, 90.12], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "아재 개그 부장님은 낄끼빠빠 빠져라",
+      "lyric_translation": "The manager with his dad jokes should get out of it / While he still can",
+      "parts": [
+        {"lyric": "Ajae gaegeu bujangnimeun",
+          "range": [89.89, 91.03], "ans": [3]},
+        {"lyric": "Kkilkkippappa ppajyeora",
+          "range": [91.03, 93.73], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Hanareul almyeon yeoreul aldeon ai",
+      "lyric_hangul": "하나를 알면 열을 알던 아이",
+      "lyric_translation": "The kid who was quick to pick everything up from one to ten",
+      "range": [93.25, 95.45], "ans": [4]},
+    {
+      "lyric_hangul": "고개 한번 까딱하면 백만 스무고개 넘어가",
+      "lyric_translation": "Is now overcoming millions of mountains / With just one tilt of the head",
+      "parts": [
+        {"lyric": "Gogae hanbeon kkattakhamyeon",
+          "range": [95.45, 98.01], "ans": [4]},
+        {"lyric": "Baekman seumugogae neomeoga",
+          "range": [98.01, 99.49], "ans": [4]}
+      ]
+    },
+    {"lyric": "Setting up my ambitions",
+      "lyric_hangul": "Setting up my ambitions",
+      "lyric_translation": "Setting up my ambitions",
+      "range": [98.9, 102.64], "ans": [7]},
+    {"lyric": "Hanadulsshik wanseongdwae I made it",
+      "lyric_hangul": "하나둘씩 완성돼, I made it",
+      "lyric_translation": "Completing them one by one, I made it",
+      "range": [102.64, 105.02], "ans": [7]},
+    {"lyric": "Now it’s time for ignition",
+      "lyric_hangul": "Now it's time for ignition",
+      "lyric_translation": "Now it’s time for ignition",
+      "range": [105.02, 107.7], "ans": [8]},
+    "",
+    "[next-col]",
+    {"lyric": "Nabuteo shijakdwae dwittara umjigyeo domino hyogwa",
+      "lyric_hangul": "나부터 시작돼 뒤따라 움직여, 도미노 효과",
+      "lyric_translation": "I’ll start, move after me, a domino effect",
+      "range": [107.7, 109.8], "ans": [8]},
+    {"lyric": "Oh oh oh",
+      "lyric_hangul": "도미노 효과, oh, oh, oh",
+      "lyric_translation": "Oh oh oh",
+      "range": [109.8, 113.72], "ans": [8]},
+    {
+      "lyric_hangul": "더 불을 지펴, oh, oh, no",
+      "lyric_translation": "Keep lighting the fire / Oh oh no",
+      "parts": [
+        {"lyric": "Deo bureul jipyeo",
+          "range": [113.72, 114.93], "ans": [2]},
+        {"lyric": "Oh oh no",
+          "range": [114.93, 116.82], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "모두 몰려와 now, now, 줄 세워 여기 다",
+      "lyric_translation": "Everyone come here now now / Get in line here",
+      "parts": [
+        {"lyric": "Modu mollyeowa now now",
+          "range": [116.24, 117.23], "ans": [1]},
+        {"lyric": "Jul seweo yeogi da",
+          "range": [117.23, 120.34], "ans": [1]}
+      ]
+    },
+    {"lyric": "Nugudo yeweneun eopseo",
+      "lyric_hangul": "누구도 예외는 없어",
+      "lyric_translation": "Nobody’s left out",
+      "range": [119.34, 121.58], "ans": [7]},
+    {"lyric": "Hanbeon kkattakhamyeon DOMINO",
+      "lyric_hangul": "한번 까딱하면, domino, domino",
+      "lyric_translation": "With a flick of the finger they’re like DOMINOs",
+      "range": [121.58, 124.04], "ans": [5]},
+    {"lyric": "DOMINO DOMINO DOMINO",
+      "lyric_hangul": "Domino, domino, domino, domino, domino",
+      "lyric_translation": "DOMINO DOMINO DOMINO / DOMINO DOMINO DOMINO",
+      "range": [124.04, 127.32], "ans": []},
+    "",
+    {"lyric": "Hanbeon kkattakhamyeon DOMINO",
+      "lyric_hangul": "한번 까딱하면, domino, domino",
+      "lyric_translation": "With a flick of the finger they’re like DOMINOs",
+      "range": [127.32, 130.22], "ans": [1]},
+    {"lyric": "DOMINO DOMINO DOMINO",
+      "lyric_hangul": "Domino, domino, domino, domino, domino",
+      "lyric_translation": "DOMINO DOMINO DOMINO / DOMINO DOMINO DOMINO",
+      "range": [130.22, 134.41], "ans": []},
+    "",
+    {"lyric": "DAN DAN DAN DAN",
+      "lyric_hangul": "Dan, dan, dan, dan",
+      "lyric_translation": "DAN DAN DAN DAN",
+      "range": [133.54, 134.79], "ans": [6]},
+    {"lyric": "Play gatgo nora sonjit hanaro",
+      "lyric_hangul": "Play 갖고 놀아",
+      "lyric_translation": "Play, I play with you all, one gesture",
+      "range": [134.79, 136.52], "ans": [5]},
+    {
+      "lyric_hangul": "손짓 하나로 다 attention, pay attention",
+      "lyric_translation": "And I’ve got your attention / Pay attention",
+      "parts": [
+        {"lyric": "Da attention",
+          "range": [136.52, 137.22], "ans": [5]},
+        {"lyric": "Pay attention",
+          "range": [137.22, 141.22], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I don't play, 웃음기 싹 빼고",
+      "lyric_translation": "I don’t play / Without a single hint of a smile",
+      "parts": [
+        {"lyric": "I don’t play",
+          "range": [140.75, 141.82], "ans": [2]},
+        {"lyric": "Useumgi ssak ppaego",
+          "range": [141.82, 143.11], "ans": [2]}
+      ]
+    },
+    {"lyric": "Keuge ireukyeo sensation yeah",
+      "lyric_hangul": "크게 일으켜 sensation, yeah (like domino)",
+      "lyric_translation": "I cause a huge sensation, yeah",
+      "range": [143.08, 147.62], "ans": [2]},
+    {"lyric": "Saljjak geondeulmyeon eokjiro twinggyeo",
+      "lyric_hangul": "살짝 건들면 억지로 튕겨",
+      "lyric_translation": "Even if you blow it off when I give you a flick",
+      "range": [147.62, 150.34], "ans": [4]},
+    {"lyric": "Bwatja ppeonhi boiji gyeolgugen sseureojyeo",
+      "lyric_hangul": "봤자 뻔히 보이지 결국엔 쓰러져",
+      "lyric_translation": "I can already tell eventually you’ll fall",
+      "range": [150.34, 154.06], "ans": [4]},
+    {"lyric": "Nareul boneun pyojeongdeureul da mot sumgyeo",
+      "lyric_hangul": "나를 보는 표정들을 다 못 숨겨",
+      "lyric_translation": "Everyone hides their expressions when they see me",
+      "range": [154.06, 156.46], "ans": [4]},
+    {
+      "lyric_hangul": "괜히 지금 맘을 시기 질투로 표현",
+      "lyric_translation": "Expressing their feelings through jealousy / Hey",
+      "parts": [
+        {"lyric": "Gwaenhi jigeum mameul shigi jilturo pyohyeon",
+          "range": [156.46, 159.95], "ans": [4, 5]},
+        {"lyric": "Hey",
+          "range": [159.25, 161.27], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hey, 끝나지 않는 내 domino",
+      "lyric_translation": "It hasn’t ended yet, my DOMINOs / Hey",
+      "parts": [
+        {"lyric": "Kkeunnaji anneun nae DOMINO",
+          "range": [161.27, 164.99], "ans": [5]},
+        {"lyric": "Hey",
+          "range": [164.99, 167.7], "ans": [5]}
+      ]
+    },
+    {"lyric": "Kkeunnaji anneun nae DOMINO",
+      "lyric_hangul": "Hey, 끝나지 않는 내 domino",
+      "lyric_translation": "It hasn’t ended yet, my DOMINOs",
+      "range": [167.7, 170.86], "ans": [5]},
+    "",
+    {"lyric": "One by one go down down down down",
+      "lyric_hangul": "One by one, go down, down, down, down",
+      "lyric_translation": "One by one, go down down down down",
+      "range": [170.86, 176.68], "ans": [6]},
+    {"lyric": "One by one they follow",
+      "lyric_hangul": "One by one, they follow",
+      "lyric_translation": "One by one they follow",
+      "range": [176.68, 181.28], "ans": [6]},
+    {"lyric": "Hanbeon kkattakhamyeon DOMINO",
+      "lyric_hangul": "한번 까딱하면, domino, domino",
+      "lyric_translation": "With a flick of the finger they’re like DOMINOs",
+      "range": [181.28, 184.1], "ans": [3]},
+    {"lyric": "DOMINO DOMINO DOMINO",
+      "lyric_hangul": "Domino, domino, domino, domino, domino",
+      "lyric_translation": "DOMINO DOMINO DOMINO / DOMINO DOMINO DOMINO",
+      "range": [184.1, 187.39], "ans": []},
+    "",
+    {"lyric": "Hanbeon kkattakhamyeon DOMINO",
+      "lyric_hangul": "한번 까딱하면, domino, domino",
+      "lyric_translation": "With a flick of the finger they’re like DOMINOs",
+      "range": [187.39, 190.03], "ans": [4]},
+    "",
+    {"lyric": "DOMINO DOMINO DOMINO",
+      "lyric_hangul": "Domino, domino, domino, domino, domino",
+      "lyric_translation": "DOMINO DOMINO DOMINO / DOMINO DOMINO DOMINO",
+      "range": [190.03, 194.29], "ans": []},
+    {
+      "lyric_hangul": "Like domino",
+      "lyric_translation": "LIKE DOMINIO / Ey, dominoes fall with one touch, one after the other / Yuh, rumble crack, with just one breath they fall apart / LIKE DOMINIO / LIKE DOMINO",
+      "parts": [
+        {"lyric": "LIKE DOMINO",
+          "range": [193.32, 194.07], "ans": [6]},
+        {"lyric": "Ey domino tuk chimyeon muneojyeo hudeudeudeudeu",
+          "range": [193.37, 194.83], "ans": [5]},
+        {"lyric": "Yuh ureureu kwang ibgimman bureodo da buseojyeo",
+          "range": [194.83, 196.29], "ans": [5]},
+        {"lyric": "LIKE DOMINO",
+          "range": [195.59, 196.74], "ans": [6]}
+      ]
+    },
+    ""
+  ]
+}

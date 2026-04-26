@@ -1,0 +1,390 @@
+{
+  "name": "LIKEY\r",
+  "ogg": "sound/kpop/likey.ogg",
+  "id": "likey",
+  "group": "twice",
+  "language": "ko",
+  "released": "2017-10-30",
+  "album": "twicetagram",
+  "cover": "css/images/covers/likey.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T22:18:57Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Hey!",
+      "lyric_hangul": "Hey!",
+      "lyric_translation": "",
+      "range": [2.84, 6.18], "ans": []},
+    {"lyric": "TWICE!",
+      "lyric_hangul": "TWICE!",
+      "lyric_translation": "",
+      "range": [6.18, 10.33], "ans": []},
+    {"lyric": "Hey!",
+      "lyric_hangul": "Hey!",
+      "lyric_translation": "",
+      "range": [10.33, 13.51], "ans": []},
+    {
+      "lyric_hangul": "설렌다, me likey, me likey, likey, likey",
+      "lyric_translation": "My heart’s fluttering, me likey / Me likey likey likey",
+      "parts": [
+        {"lyric": "Seollenda Me likey",
+          "range": [13.51, 14.69], "ans": [4]},
+        {"lyric": "Me likey likey likey",
+          "range": [14.69, 17.26], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, likey, likey, 두근두근두근 (heart, heart)",
+      "lyric_translation": "Me likey likey likey / Rub dub rub dub, heart heart",
+      "parts": [
+        {"lyric": "Me likey likey likey",
+          "range": [17.26, 19.11], "ans": [4]},
+        {"lyric": "Dugeun dugeun dugeun",
+          "range": [19.11, 20.37], "ans": [7]},
+        {"lyric": "(Heart heart)",
+          "range": [20.37, 21.96], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, me likey, likey, likey",
+      "lyric_translation": "Me likey / Me likey likey likey",
+      "parts": [
+        {"lyric": "Me likey",
+          "range": [21.63, 22.76], "ans": [5]},
+        {"lyric": "Me likey likey likey",
+          "range": [22.76, 24.49], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, likey, likey, 두근두근두근",
+      "lyric_translation": "Me likey likey likey / Rub dub rub dub",
+      "parts": [
+        {"lyric": "Me likey likey likey",
+          "range": [24.38, 26.39], "ans": [5]},
+        {"lyric": "Dugeun dugeun dugeun",
+          "range": [26.39, 27.99], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Jakku deureonaego shipji jakkuman",
+      "lyric_hangul": "자꾸 드러내고 싶지 자꾸만",
+      "lyric_translation": "I keep wanting to show you",
+      "range": [27.99, 31.34], "ans": [1]},
+    {"lyric": "Sasohan geot hanakkaji jeonbuda",
+      "lyric_hangul": "사소한 것 하나까지 전부다",
+      "lyric_translation": "Every little thing, each and every one",
+      "range": [31.34, 35.27], "ans": [1]},
+    {"lyric": "Jageun hwamyeon soge naega jeil yeppeo boigopa",
+      "lyric_hangul": "작은 화면 속에 내가 제일 예뻐 보이고파",
+      "lyric_translation": "In that small screen I want to look the prettiest",
+      "range": [35.27, 39.16], "ans": [5]},
+    {"lyric": "Ajigeun gamchweo ireon nae maeum kkukkuk",
+      "lyric_hangul": "아직은 감춰 이런 내 마음 꾹꾹",
+      "lyric_translation": "But I’m still hiding these feelings in my heart",
+      "range": [39.16, 42.19], "ans": [5]},
+    "",
+    {"lyric": "Meot burindaneun geon jeongmal gwichaneun geo",
+      "lyric_hangul": "멋 부린다는 건 정말 귀찮은 거",
+      "lyric_translation": "Getting all dolled up, is so annoying",
+      "range": [42.19, 46.21], "ans": [2]},
+    {
+      "lyric_hangul": "그렇다고 절대 대충할 수가 없는걸 (oh-oh-oh)",
+      "lyric_translation": "But I can’t just be careless",
+      "parts": [
+        {"lyric": "Geureotago jeolttae daechunghal suga eomneungeol",
+          "range": [46.21, 50.04], "ans": [2]},
+        {"lyric": "(Oh)",
+          "range": [50.04, 50.89], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "매일 가슴 뛰게 해 이건 네가 몰라야만 돼",
+      "lyric_translation": "Every day, you make my heart race / But you can’t find out",
+      "parts": [
+        {"lyric": "Maeil gaseum ttwige hae",
+          "range": [50.41, 52.14], "ans": [9]},
+        {"lyric": "Igeon niga mollayaman dwae",
+          "range": [52.14, 54.04], "ans": [9]}
+      ]
+    },
+    {"lyric": "Geureomyeonseo ppeonppeonhage",
+      "lyric_hangul": "그러면서 뻔뻔하게",
+      "lyric_translation": "So I’ll blatantly",
+      "range": [54.0, 57.63], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "BB크림 파파파, 립스틱을 맘맘마",
+      "lyric_translation": "Put on BB cream, pat pat pat / Put on lipstick, mam mam ma",
+      "parts": [
+        {"lyric": "BBkeurim papapa",
+          "range": [57.63, 59.4], "ans": [3]},
+        {"lyric": "Ripseutigeul mammamma",
+          "range": [59.4, 61.01], "ans": [3]}
+      ]
+    },
+    {"lyric": "Kamerae damabolkka yeppeuge",
+      "lyric_hangul": "카메라에 담아볼까 예쁘게",
+      "lyric_translation": "Shall I make a pretty pose for the camera?",
+      "range": [60.85, 64.67], "ans": [3]},
+    {
+      "lyric_hangul": "이거 보면 웃어줘, 그리고 꼭 눌러줘",
+      "lyric_translation": "Look at this and smile for me / And please press it",
+      "parts": [
+        {"lyric": "Igeo bomyeon useo jweo",
+          "range": [64.67, 66.62], "ans": [9]},
+        {"lyric": "Geurigo kkok nulleo jweo",
+          "range": [66.62, 68.42], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "저 밑에 앙증맞고 새빨간 (heart, heart)",
+      "lyric_translation": "On the bottom, that cute and red / Heart heart",
+      "parts": [
+        {"lyric": "Jeo mite angjeungmatgo saeppalgan",
+          "range": [68.42, 71.77], "ans": [9]},
+        {"lyric": "(Heart heart)",
+          "range": [71.07, 72.34], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Geunde joayoran mareun ppeonhae",
+      "lyric_hangul": "근데 좋아요란 말은 뻔해",
+      "lyric_translation": "But it’s so typical to say I like you",
+      "range": [71.73, 75.05], "ans": [6]},
+    {"lyric": "Nae mam pyohyeonhagien bujokande",
+      "lyric_hangul": "내 맘 표현하기엔 부족한데",
+      "lyric_translation": "It’s not enough to express my heart",
+      "range": [75.05, 79.02], "ans": [6]},
+    {"lyric": "Geunde joayo jamdo mot jado",
+      "lyric_hangul": "근데 좋아요 잠도 못 자도",
+      "lyric_translation": "But I like you, I can’t even sleep",
+      "range": [79.02, 82.36], "ans": [1]},
+    {"lyric": "Jigakage dwaedo joeungeol",
+      "lyric_hangul": "지각하게 돼도 좋은걸",
+      "lyric_translation": "I don’t care if I run late",
+      "range": [82.36, 86.2], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "설렌다, me likey, me likey, likey, likey",
+      "lyric_translation": "My heart’s fluttering, me likey / Me likey likey likey",
+      "parts": [
+        {"lyric": "Seollenda Me likey",
+          "range": [86.2, 87.33], "ans": [4]},
+        {"lyric": "Me likey likey likey",
+          "range": [87.33, 89.99], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, likey, likey, 두근두근두근 (heart, heart)",
+      "lyric_translation": "Me likey likey likey / Rub dub rub dub, heart heart",
+      "parts": [
+        {"lyric": "Me likey likey likey",
+          "range": [89.99, 91.7], "ans": [4]},
+        {"lyric": "Dugeun dugeun dugeun",
+          "range": [91.7, 93.02], "ans": [7]},
+        {"lyric": "(Heart heart)",
+          "range": [93.02, 94.58], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, me likey, likey, likey",
+      "lyric_translation": "Me likey / Me likey likey likey",
+      "parts": [
+        {"lyric": "Me likey",
+          "range": [94.25, 95.37], "ans": [5]},
+        {"lyric": "Me likey likey likey",
+          "range": [95.37, 97.09], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, likey, likey, 두근두근두근 (heart, heart)",
+      "lyric_translation": "Me likey likey likey / Rub dub rub dub, heart heart",
+      "parts": [
+        {"lyric": "Me likey likey likey",
+          "range": [97.08, 99.34], "ans": [5]},
+        {"lyric": "Dugeun dugeun dugeun",
+          "range": [98.64, 100.42], "ans": [8]},
+        {"lyric": "(Heart heart)",
+          "range": [99.72, 101.89], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Sumeul hup chama jipeoreul ollige",
+      "lyric_hangul": "숨을 훕, 참아 지퍼를 올리게",
+      "lyric_translation": "I’m holding in my breath so I can zip up",
+      "range": [101.89, 104.09], "ans": [5]},
+    {
+      "lyric_hangul": "다시 한번 허리를 훕, 으라차차차 다 입었다, baby",
+      "lyric_translation": "Pulling it over my waist once more / All done, baby",
+      "parts": [
+        {"lyric": "Dashi hanbeon heorireul hup",
+          "range": [104.09, 106.11], "ans": [2]},
+        {"lyric": "Eurachachacha da ibeotta Baby",
+          "range": [106.11, 109.04], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "세상엔 예쁜 옷이 너무나도 많고 많아",
+      "lyric_translation": "There are so many pretty clothes in this world",
+      "parts": [
+        {"lyric": "Sesangen yeppeun oshi neomunado manko mana",
+          "range": [109.04, 112.48], "ans": [2]},
+        {"lyric": "(Whoa)",
+          "range": [112.48, 113.54], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa-oh-oh-oh",
+      "lyric_hangul": "Whoa-oh-oh-oh",
+      "lyric_translation": "",
+      "range": [113.25, 115.52], "ans": []},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "BB크림 파파파, 립스틱을 맘맘마",
+      "lyric_translation": "Put on BB cream, pat pat pat / Put on lipstick, mam mam ma",
+      "parts": [
+        {"lyric": "BBkeurim papapa",
+          "range": [115.52, 117.63], "ans": [3]},
+        {"lyric": "Ripseutigeul mammamma",
+          "range": [117.63, 119.2], "ans": [3]}
+      ]
+    },
+    {"lyric": "Kamerae damabolkka yeppeuge",
+      "lyric_hangul": "카메라에 담아볼까 예쁘게",
+      "lyric_translation": "Shall I make a pretty pose for the camera?",
+      "range": [119.04, 122.82], "ans": [3]},
+    {
+      "lyric_hangul": "이거 보면 웃어줘, 그리고 꼭 눌러줘",
+      "lyric_translation": "Look at this and smile for me / And please press it",
+      "parts": [
+        {"lyric": "Igeo bomyeon useo jweo",
+          "range": [122.82, 124.8], "ans": [9]},
+        {"lyric": "Geurigo kkok nulleo jweo",
+          "range": [124.8, 126.54], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "저 밑에 앙증맞고 새빨간 (heart, heart)",
+      "lyric_translation": "On the bottom, that cute and red / Heart heart",
+      "parts": [
+        {"lyric": "Jeo mite angjeungmatgo saeppalgan",
+          "range": [126.54, 130.01], "ans": [9]},
+        {"lyric": "(Heart heart)",
+          "range": [129.31, 130.55], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Geunde joayoran mareun ppeonhae",
+      "lyric_hangul": "근데 좋아요란 말은 뻔해",
+      "lyric_translation": "But it’s so typical to say I like you",
+      "range": [130.12, 133.27], "ans": [6]},
+    {"lyric": "Nae mam pyohyeonhagien bujokande",
+      "lyric_hangul": "내 맘 표현하기엔 부족한데",
+      "lyric_translation": "It’s not enough to express my heart",
+      "range": [133.27, 137.32], "ans": [6]},
+    {"lyric": "Geunde joayo jamdo mot jado",
+      "lyric_hangul": "근데 좋아요 잠도 못 자도",
+      "lyric_translation": "But I like you, I can’t even sleep",
+      "range": [137.32, 140.52], "ans": [1]},
+    {"lyric": "Jigakage dwaedo joeungeol",
+      "lyric_hangul": "지각하게 돼도 좋은걸",
+      "lyric_translation": "I don’t care if I run late",
+      "range": [140.52, 145.94], "ans": [1]},
+    "",
+    {"lyric": "Geujeo barabogo itji",
+      "lyric_hangul": "그저 바라보고 있지",
+      "lyric_translation": "I’m just looking at you",
+      "range": [145.94, 150.26], "ans": [5]},
+    {"lyric": "Amu maldo hal su eopji Oh",
+      "lyric_hangul": "아무 말도 할 수 없지, oh",
+      "lyric_translation": "But I couldn’t say anything",
+      "range": [150.26, 153.28], "ans": [5]},
+    {"lyric": "Jogeumman deo dagawayo nae mam arajweoyo",
+      "lyric_hangul": "조금만 더 다가와요, 내 맘 알아줘요",
+      "lyric_translation": "Come a little closer, please know my heart",
+      "range": [153.28, 156.99], "ans": [1]},
+    {"lyric": "Deo isang gamchugoman shipji ana",
+      "lyric_hangul": "더 이상 감추고만 싶지 않아",
+      "lyric_translation": "I don’t wanna hide it anymore",
+      "range": [156.99, 161.68], "ans": [1]},
+    "",
+    {"lyric": "Uh oneulttara gibuni kkulkkulhae",
+      "lyric_hangul": "Uh, 오늘따라 기분이 꿀꿀해",
+      "lyric_translation": "I feel down today",
+      "range": [161.68, 163.32], "ans": [7]},
+    {"lyric": "An geureoncheokae bwado seulpeunyae",
+      "lyric_hangul": "안 그런척해 봐도 슬프냬",
+      "lyric_translation": "I try to act like I’m not but people ask if I’m sad",
+      "range": [163.32, 165.22], "ans": [7]},
+    {"lyric": "Amu baneung eomneun neo ttaeme ppijeonneunde",
+      "lyric_hangul": "아무 반응 없는 너 땜에 삐졌는데",
+      "lyric_translation": "I’m upset because you’re not reacting at all",
+      "range": [165.22, 166.18], "ans": [8]},
+    {"lyric": "Nunchi eopshi chingudeuri naorago bureune",
+      "lyric_hangul": "눈치 없이 친구들이 나오라고 부르네",
+      "lyric_translation": "And my senseless friends keep calling me to come out",
+      "range": [166.18, 169.32], "ans": [8]},
+    {"lyric": "Oh jamkkanman jamkkanman",
+      "lyric_hangul": "Ooh, 잠깐만, 잠깐만",
+      "lyric_translation": "Oh wait, wait",
+      "range": [169.32, 170.64], "ans": [7]},
+    {"lyric": "Yeollagi ijeya oneungeol Woo",
+      "lyric_hangul": "연락이 이제야 오는걸, woo",
+      "lyric_translation": "The call is coming now",
+      "range": [170.64, 172.6], "ans": [7]},
+    {"lyric": "Harujongil gibuni watta gatta",
+      "lyric_hangul": "하루 종일 기분이 왔다 갔다",
+      "lyric_translation": "All day, my mood goes back and forth",
+      "range": [172.6, 174.16], "ans": [8]},
+    {"lyric": "Uldagado dashi shinnaseo chumchune",
+      "lyric_hangul": "울다가도 다시 신나서 춤추네",
+      "lyric_translation": "Up and down, now I’m dancing",
+      "range": [174.16, 178.02], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "설렌다, me likey, me likey, likey, likey",
+      "lyric_translation": "My heart’s fluttering, me likey / Me likey likey likey",
+      "parts": [
+        {"lyric": "Seollenda Me likey",
+          "range": [189.87, 190.82], "ans": [4]},
+        {"lyric": "Me likey likey likey",
+          "range": [190.82, 193.56], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, likey, likey, 두근두근두근 (heart, heart)",
+      "lyric_translation": "Me likey likey likey / Rub dub rub dub, heart heart",
+      "parts": [
+        {"lyric": "Me likey likey likey",
+          "range": [193.56, 195.2], "ans": [4]},
+        {"lyric": "Dugeun dugeun dugeun",
+          "range": [195.2, 196.5], "ans": [7]},
+        {"lyric": "(Heart heart)",
+          "range": [196.5, 198.07], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, me likey, likey, likey",
+      "lyric_translation": "Me likey / Me likey likey likey",
+      "parts": [
+        {"lyric": "Me likey",
+          "range": [197.81, 198.88], "ans": [5]},
+        {"lyric": "Me likey likey likey",
+          "range": [198.88, 200.86], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me likey, likey, likey, 두근두근두근 (heart, heart)",
+      "lyric_translation": "Me likey likey likey / Rub dub rub dub, heart heart",
+      "parts": [
+        {"lyric": "Me likey likey likey",
+          "range": [200.86, 202.5], "ans": [5]},
+        {"lyric": "Dugeun dugeun dugeun",
+          "range": [202.5, 204.02], "ans": [8]},
+        {"lyric": "(Heart heart)",
+          "range": [203.32, 208.0], "ans": []}
+      ]
+    }
+  ]
+}

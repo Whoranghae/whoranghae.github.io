@@ -1,0 +1,355 @@
+{
+  "name": "Like It Like It\r",
+  "ogg": "sound/kpop/like_it_like_it.ogg",
+  "id": "like-it-like-it",
+  "group": "twice",
+  "language": "ko",
+  "released": "2024-12-06",
+  "album": "STRATEGY",
+  "cover": "css/images/covers/like-it-like-it.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:27Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Maybe you can’t help falling in love with me right?",
+      "lyric_hangul": "Maybe you can't help falling in love with me, right?",
+      "lyric_translation": "Maybe you can’t help falling in love with me, right?",
+      "range": [7.55, 10.21], "ans": [6]},
+    {"lyric": "Jigeum ne gamjeong mal an haedo ara da",
+      "lyric_hangul": "지금 네 감정 말 안 해도 알아 다",
+      "lyric_translation": "Even if you don’t tell me how you feel right now, I know",
+      "range": [10.21, 13.99], "ans": [6]},
+    {"lyric": "Baby I know that you can’t get me off your mind",
+      "lyric_hangul": "Baby, I know that you can't get me off your mind",
+      "lyric_translation": "Baby, I know that you can’t get me off your mind",
+      "range": [13.99, 16.66], "ans": [8]},
+    {"lyric": "I can read the sign",
+      "lyric_hangul": "I can read the sign",
+      "lyric_translation": "I can read the sign",
+      "range": [16.66, 20.33], "ans": [8]},
+    "",
+    {"lyric": "Ooh eoseolpeudaedo wanbyeokae",
+      "lyric_hangul": "Ooh, 어설프대도 완벽해",
+      "lyric_translation": "Ooh, even if you’re clumsy, you’re perfect",
+      "range": [20.33, 23.53], "ans": [1]},
+    {"lyric": "I’m lovin’ it you just can’t lie",
+      "lyric_hangul": "I'm lovin' it you, just can't lie",
+      "lyric_translation": "I’m loving it you, just can’t lie",
+      "range": [23.53, 26.53], "ans": [1]},
+    {"lyric": "Neon nae sesangeul mot beoseona No way out",
+      "lyric_hangul": "넌 내 세상을 못 벗어나, no way out",
+      "lyric_translation": "You’re my world Can’t get away, no way out",
+      "range": [26.53, 29.59], "ans": [4]},
+    {"lyric": "No way out",
+      "lyric_hangul": "No way out",
+      "lyric_translation": "No way out",
+      "range": [29.59, 31.71], "ans": [4]},
+    "",
+    {"lyric": "On your lips something sweet",
+      "lyric_hangul": "On your lips, something sweet (Your lips, something sweet)",
+      "lyric_translation": "On your lips, something sweet",
+      "range": [31.71, 35.18], "ans": [5]},
+    {"lyric": "You and I neukkyeobwa idaero",
+      "lyric_hangul": "You and I, 느껴봐 이대로 (Oh-ooh-woah, oh-oh, ooh-woah, ooh-woah)",
+      "lyric_translation": "You and I, feel it like this",
+      "range": [35.18, 39.44], "ans": [5]},
+    {"lyric": "Take my love",
+      "lyric_hangul": "Take my love",
+      "lyric_translation": "Take my love",
+      "range": [39.44, 41.39], "ans": [5]},
+    {
+      "lyric_hangul": "Hey, every time you touch me, 짜릿해 and I like it",
+      "lyric_translation": "Hey, every time you touch me / It’s thrilling and I like it",
+      "parts": [
+        {"lyric": "Hey every time you touch me",
+          "range": [41.39, 43.72], "ans": [7]},
+        {"lyric": "Jjaritae And I like it",
+          "range": [43.24, 44.99], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "The way that you're holding me tight (I like it, like it)",
+      "lyric_translation": "The way that you’re holding me tight (I like it, like it )",
+      "parts": [
+        {"lyric": "The way that you’re holding me tight",
+          "range": [44.99, 47.04], "ans": [9]},
+        {"lyric": "(I like it like it)",
+          "range": [46.34, 48.32], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "나로 가득한 your eyes (I like it, like it)",
+      "lyric_translation": "Your eyes full of me (I like it, like it)",
+      "parts": [
+        {"lyric": "Naro gadeukan Your eyes",
+          "range": [48.28, 50.04], "ans": [9]},
+        {"lyric": "(I like it like it)",
+          "range": [49.34, 51.54], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 푹 빠진 순간 (I like it, like it)",
+      "lyric_translation": "The moment you fall for me (I like it, like it)",
+      "parts": [
+        {"lyric": "Naege puk ppajin sungan",
+          "range": [51.43, 53.2], "ans": [9]},
+        {"lyric": "(I like it like it)",
+          "range": [52.5, 54.73], "ans": [3]}
+      ]
+    },
+    {"lyric": "Don’t you stop you know I like it",
+      "lyric_hangul": "Don't you stop, you know I like it",
+      "lyric_translation": "Don’t you stop, you know I like it",
+      "range": [54.38, 57.41], "ans": [9]},
+    {"lyric": "I can feel when you’re next to me",
+      "lyric_hangul": "I can feel when you're next to me",
+      "lyric_translation": "I can feel when you’re next to me",
+      "range": [57.41, 60.63], "ans": [2]},
+    {"lyric": "Neukkyeo gangnyeolhan Energy",
+      "lyric_hangul": "느껴 강렬한 energy",
+      "lyric_translation": "Feel the intense energy",
+      "range": [60.63, 64.36], "ans": [2]},
+    {
+      "lyric_hangul": "그게 난 싫지 않아 (I like it, like it)",
+      "lyric_translation": "I don’t hate that (I like it, like it)",
+      "parts": [
+        {"lyric": "Geuge nan shilchi ana",
+          "range": [64.36, 65.97], "ans": [4]},
+        {"lyric": "(I like it like it)",
+          "range": [65.27, 67.56], "ans": [3]}
+      ]
+    },
+    {"lyric": "Don’t you stop you know I like it",
+      "lyric_hangul": "Don't you stop, you know I like it",
+      "lyric_translation": "Don’t you stop, you know I like it",
+      "range": [67.56, 70.89], "ans": [4]},
+    "",
+    {"lyric": "Just like a love spell ppajeodeulji",
+      "lyric_hangul": "Just like a love spеll, 빠져들지",
+      "lyric_translation": "Just like a love spell, fall for it",
+      "range": [70.89, 73.8], "ans": [1]},
+    {"lyric": "Neon naege imi Too deep",
+      "lyric_hangul": "넌 내게 이미 too deep",
+      "lyric_translation": "You’re already in my too deep",
+      "range": [73.8, 76.77], "ans": [1]},
+    {"lyric": "Aetaneun ne maeum jongil nae saenggak jung",
+      "lyric_hangul": "애타는 네 마음 종일 내 생각 중",
+      "lyric_translation": "Your longing heart is on my mind all day",
+      "range": [76.77, 80.23], "ans": [3]},
+    {
+      "lyric_hangul": "모른척한 이유 'cause I know you're so cute, babе",
+      "lyric_translation": "The reason I pretend not to know / ‘Cause I know you’re so cute, babe",
+      "parts": [
+        {"lyric": "Moreuncheokan iyu",
+          "range": [80.23, 80.98], "ans": [3]},
+        {"lyric": "‘Cause I know you’re so cute babe",
+          "range": [80.98, 84.41], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Ooh ne on shingyeongeul jipjunghae",
+      "lyric_hangul": "Ooh, 네 온 신경을 집중해",
+      "lyric_translation": "Ooh, focus all your nerves",
+      "range": [84.41, 87.06], "ans": [5]},
+    {"lyric": "Tto hollin deut nal jjonneun Your eyes",
+      "lyric_hangul": "또 홀린 듯 날 쫓는 your eyes",
+      "lyric_translation": "Your eyes that chase me again as if possessed",
+      "range": [87.06, 90.78], "ans": [5]},
+    {"lyric": "Imi naege sarojapyeo No way out",
+      "lyric_hangul": "이미 나에게 사로잡혀, no way out",
+      "lyric_translation": "Already captivated by me, no way out",
+      "range": [90.78, 93.47], "ans": [7]},
+    {"lyric": "No way out",
+      "lyric_hangul": "No way out",
+      "lyric_translation": "No way out",
+      "range": [93.47, 95.92], "ans": [7]},
+    "",
+    "[next-col]",
+    {"lyric": "On your lips something sweet",
+      "lyric_hangul": "On your lips, something sweet (Your lips, something sweet)",
+      "lyric_translation": "On your lips, something sweet",
+      "range": [95.92, 99.04], "ans": [1]},
+    {"lyric": "You and I jeulgyeobwa idaero",
+      "lyric_hangul": "You and I, 즐겨봐 이대로 (Oh-ooh-woah, oh-oh, ooh-woah, ooh-woah)",
+      "lyric_translation": "You and I, enjoy it like this",
+      "range": [99.04, 103.37], "ans": [1]},
+    {"lyric": "Take my love",
+      "lyric_hangul": "Take my love",
+      "lyric_translation": "Take my love",
+      "range": [103.37, 105.76], "ans": [1]},
+    {
+      "lyric_hangul": "Hey, every time you touch me, 짜릿해 and I like it",
+      "lyric_translation": "Hey, every time you touch me / It’s thrilling and I like it",
+      "parts": [
+        {"lyric": "Hey every time you touch me",
+          "range": [105.76, 107.82], "ans": [6, 8]},
+        {"lyric": "Jjaritae And I like it",
+          "range": [107.24, 109.04], "ans": [6, 8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "The way that you're holding me tight (I like it, like it)",
+      "lyric_translation": "The way that you’re holding me tight (I like it, like it)",
+      "parts": [
+        {"lyric": "The way that you’re holding me tight",
+          "range": [109.04, 111.03], "ans": [2]},
+        {"lyric": "(I like it like it)",
+          "range": [110.33, 112.29], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "나로 가득한 your eyes (I like it, like it)",
+      "lyric_translation": "Your eyes are full of me (I like it, like it)",
+      "parts": [
+        {"lyric": "Naro gadeukan Your eyes",
+          "range": [112.17, 114.03], "ans": [2]},
+        {"lyric": "(I like it like it)",
+          "range": [113.33, 115.55], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 푹 빠진 순간 (I like it, like it)",
+      "lyric_translation": "The moment you fall in love with me (I like it, like it)",
+      "parts": [
+        {"lyric": "Naege puk ppajin sungan",
+          "range": [115.55, 117.2], "ans": [2]},
+        {"lyric": "(I like it like it)",
+          "range": [116.5, 118.82], "ans": [7]}
+      ]
+    },
+    {"lyric": "Don’t you stop you know I like it",
+      "lyric_hangul": "Don't you stop, you know I like it",
+      "lyric_translation": "Don’t you stop, you know I like it",
+      "range": [118.82, 121.48], "ans": [2]},
+    {"lyric": "I can feel when you’re next to me",
+      "lyric_hangul": "I can feel when you're next to me",
+      "lyric_translation": "I can feel when you’re next to me",
+      "range": [121.48, 124.56], "ans": [5]},
+    {"lyric": "Neukkyeo gangnyeolhan Energy",
+      "lyric_hangul": "느껴 강렬한 energy",
+      "lyric_translation": "Feel the intense energy",
+      "range": [124.56, 128.35], "ans": [5]},
+    {
+      "lyric_hangul": "그게 난 싫지 않아 (I like it, like it)",
+      "lyric_translation": "I don’t hate that (I like it, like it)",
+      "parts": [
+        {"lyric": "Geuge nan shilchi ana",
+          "range": [128.35, 129.96], "ans": [9]},
+        {"lyric": "(I like it like it)",
+          "range": [129.26, 131.54], "ans": [7]}
+      ]
+    },
+    {"lyric": "Don’t you stop you know I like it",
+      "lyric_hangul": "Don't you stop, you know I like it",
+      "lyric_translation": "Don’t you stop, you know I like it",
+      "range": [131.23, 136.64], "ans": [9]},
+    "",
+    {"lyric": "Keojineun seollem i gamjeongeul butjaba",
+      "lyric_hangul": "커지는 설렘 이 감정을 붙잡아",
+      "lyric_translation": "Hold on to this growing excitement",
+      "range": [136.64, 140.3], "ans": [5]},
+    {"lyric": "No way to stop it baby when it feels so right",
+      "lyric_hangul": "No way to stop it, baby, when it feels so right",
+      "lyric_translation": "No way to stop it, baby, when it feels so right",
+      "range": [140.3, 143.48], "ans": [5]},
+    {"lyric": "Jigeum i neukkim Captivatin’ can’t explain it",
+      "lyric_hangul": "지금 이 느낌 captivatin', can't explain it",
+      "lyric_translation": "Captivating this feeling right now, can’t explain it",
+      "range": [143.48, 145.52], "ans": [7]},
+    {
+      "lyric_hangul": "'Cause every time you touch, I get a rush and I like it",
+      "lyric_translation": "‘Cause every time you touch / I get a rush and I like it",
+      "parts": [
+        {"lyric": "‘Cause every time you touch",
+          "range": [145.52, 147.24], "ans": [1]},
+        {"lyric": "I get a rush and I like it",
+          "range": [147.24, 149.23], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Every time we touch, I get a rush and I like it, like it",
+      "lyric_translation": "Every time we touch / I get a rush and I like it, like it",
+      "parts": [
+        {"lyric": "Every time we touch",
+          "range": [149.23, 150.33], "ans": [8]},
+        {"lyric": "I get a rush and",
+          "range": [150.33, 151.38], "ans": [8]},
+        {"lyric": "I like it like it",
+          "range": [150.68, 152.37], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "The way that you're holding me tight (I like it, like it)",
+      "lyric_translation": "The way that you’re holding me tight (I like it, like it)",
+      "parts": [
+        {"lyric": "The way that you’re holding me tight",
+          "range": [151.83, 154.22], "ans": [6]},
+        {"lyric": "(I like it like it)",
+          "range": [153.52, 155.57], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "나로 가득한 your eyes (I like it; I like it, like it)",
+      "lyric_translation": "To me Your eyes are full (I like it, like it)",
+      "parts": [
+        {"lyric": "Naro gadeukan Your eyes",
+          "range": [155.52, 157.47], "ans": [6]},
+        {"lyric": "(I like it like it)",
+          "range": [156.77, 159.13], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 푹 빠진 순간 (That's right, I like it, like it)",
+      "lyric_translation": "The moment you fall in love with me (I like it, like it)",
+      "parts": [
+        {"lyric": "Naege puk ppajin sungan",
+          "range": [158.64, 160.93], "ans": [6]},
+        {"lyric": "(That’s right)",
+          "range": [160.23, 161.39], "ans": [7]},
+        {"lyric": "(I like it like it)",
+          "range": [160.69, 161.97], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Don't you stop, you know I like it (I like it, like it, I like it, like it)",
+      "lyric_translation": "Don’t you stop, you know I like it (I like it like it I like it like it)",
+      "parts": [
+        {"lyric": "Don’t you stop you know I like it",
+          "range": [161.97, 164.24], "ans": [6]},
+        {"lyric": "(I like it like it I like it like it)",
+          "range": [163.54, 164.92], "ans": [8]}
+      ]
+    },
+    {"lyric": "I can feel when you’re next to me",
+      "lyric_hangul": "I can feel when you're next to me (Ooh, oh, oh)",
+      "lyric_translation": "I can feel when you’re next to me",
+      "range": [164.92, 167.87], "ans": [2]},
+    {"lyric": "Neukkyeo gangnyeolhan Energy",
+      "lyric_hangul": "느껴 강렬한 energy",
+      "lyric_translation": "Feel the intense energy",
+      "range": [167.87, 171.52], "ans": [2]},
+    {
+      "lyric_hangul": "그게 난 싫지 않아 (I like it, I like it, I like it, I like it, like it)",
+      "lyric_translation": "I don’t hate that",
+      "parts": [
+        {"lyric": "Geuge nan shilchi ana",
+          "range": [171.52, 174.18], "ans": [9]},
+        {"lyric": "(I like it like it)",
+          "range": [173.48, 175.19], "ans": [3]}
+      ]
+    },
+    {"lyric": "Don’t you stop you know I like it",
+      "lyric_hangul": "Don't you stop, you know I like it",
+      "lyric_translation": "Don’t you stop, you know I like it",
+      "range": [174.47, 177.6], "ans": [9]},
+    "",
+    {"lyric": "I like it",
+      "lyric_hangul": "I like it",
+      "lyric_translation": "I like it",
+      "range": [177.6, 180.43], "ans": [3]}
+  ]
+}

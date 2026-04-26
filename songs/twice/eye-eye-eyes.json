@@ -1,0 +1,366 @@
+{
+  "name": "EYE EYE EYES\r",
+  "ogg": "sound/kpop/eye_eye_eyes.ogg",
+  "id": "eye-eye-eyes",
+  "group": "twice",
+  "language": "ko",
+  "released": "2017-05-15",
+  "album": "SIGNAL",
+  "cover": "css/images/covers/eye-eye-eyes.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:23Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "12345",
+      "lyric_translation": "1 2 3 4 5 / 1 2 3 4 5",
+      "parts": [
+        {"lyric": "1 2 3 4 5",
+          "range": [0.31, 1.32], "ans": [4]},
+        {"lyric": "1 2 3 4 5",
+          "range": [0.62, 1.62], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "네가 걸어온다 심장이 또 쿵쿵",
+      "lyric_translation": "You’re walking over to me / My heart is pounding",
+      "parts": [
+        {"lyric": "Niga georeoonda",
+          "range": [1.62, 3.45], "ans": [2]},
+        {"lyric": "Shimjangi tto kungkung",
+          "range": [2.75, 5.12], "ans": [6]}
+      ]
+    },
+    {"lyric": "6789",
+      "lyric_hangul": "6789",
+      "lyric_translation": "",
+      "range": [4.9, 6.13], "ans": []},
+    {"lyric": "Shimjangi tto kungkung",
+      "lyric_hangul": "네가 나를 본다 심장이 또 쿵쿵",
+      "lyric_translation": "My heart is pounding",
+      "range": [6.13, 9.86], "ans": [6]},
+    {
+      "lyric_hangul": "아침부터 활짝 웃는 니가 보여",
+      "lyric_translation": "I see you brightly smiling this morning / (Lalala lala lalalala lala)",
+      "parts": [
+        {"lyric": "Achimbuteo hwaljjak unneun niga boyeo",
+          "range": [9.86, 11.43], "ans": [1]},
+        {"lyric": "(Lalala lala lalalala lala)",
+          "range": [10.73, 12.04], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "손 흔들며 점점 내게 다가와",
+      "lyric_translation": "You’re waving and getting closer to me / (Lalala lala lalalala lala)",
+      "parts": [
+        {"lyric": "Son heundeulmyeo jeomjeom naege dagawa",
+          "range": [14.12, 16.43], "ans": [1]},
+        {"lyric": "(Lalala lala lalalala lala)",
+          "range": [15.73, 16.84], "ans": []}
+      ]
+    },
+    {"lyric": "Geudaero neoneun nareul jinacheo",
+      "lyric_hangul": "그대로 너는 나를 지나쳐",
+      "lyric_translation": "But then you pass me",
+      "range": [18.65, 21.02], "ans": [8]},
+    "",
+    {"lyric": "Geu aeye eokkaee neon soneul ollyeo",
+      "lyric_hangul": "그 애의 어깨에 넌 손을 올려",
+      "lyric_translation": "And put your hands on her shoulders",
+      "range": [21.02, 23.46], "ans": [8]},
+    {"lyric": "Meori sogi binggeureureu dora",
+      "lyric_hangul": "머리 속이 빙그르르 돌아",
+      "lyric_translation": "My head is spinning",
+      "range": [23.46, 25.4], "ans": [6]},
+    {"lyric": "Meori sogi binggeureu",
+      "lyric_hangul": "머리 속이 빙그르",
+      "lyric_translation": "My head is spinning",
+      "range": [25.4, 27.29], "ans": [6]},
+    {
+      "lyric_hangul": "바다 같은 eyes 헤엄칠래 yeah",
+      "lyric_translation": "I wanna swim / In your ocean-like eyes",
+      "parts": [
+        {"lyric": "Bada gateun Eye eye eyes",
+          "range": [27.29, 28.57], "ans": [1]},
+        {"lyric": "Heeomchillae Yeah yeah yeah",
+          "range": [28.57, 32.25], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Dadeul aneun geuye yeppeun nunuseum",
+      "lyric_hangul": "다들 아는 그의 예쁜 눈웃음",
+      "lyric_translation": "Everyone knows his pretty eye smile / Everyone knows his pretty eye smile",
+      "range": [32.25, 34.83], "ans": [1]},
+    {"lyric": "Na honjaman bollae Yeah yeah yeah",
+      "lyric_hangul": "나 혼자만 볼래 yeah",
+      "lyric_translation": "But I wanna see it alone / But I wanna see it alone",
+      "range": [34.69, 36.59], "ans": [1]},
+    {"lyric": "Neoye mameun I-I-Ice",
+      "lyric_hangul": "너의 맘은 ice 녹여볼래 yeah",
+      "lyric_translation": "Your heart is ice / Your heart is ice",
+      "range": [36.59, 41.45], "ans": [5]},
+    {
+      "lyric_hangul": "새빨갛게 오른 내 볼이 가라앉지를 않아",
+      "lyric_translation": "My red cheeks / Won’t calm down",
+      "parts": [
+        {"lyric": "Saeppalgake oreun nae bori",
+          "range": [47.04, 50.26], "ans": [6]},
+        {"lyric": "Garaanjireul ana",
+          "range": [50.26, 52.74], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "1 2 3 4 5",
+      "lyric_hangul": "12345",
+      "lyric_translation": "1 2 3 4 5",
+      "range": [52.74, 54.14], "ans": [4]},
+    {"lyric": "Namjadeureun mariya",
+      "lyric_hangul": "남자들은 말이야",
+      "lyric_translation": "For guys, it’s a white t-shirt and jeans",
+      "range": [54.14, 55.58], "ans": [8]},
+    "",
+    {"lyric": "Hin tie cheongbaji jel jungyohan geon gin meori",
+      "lyric_hangul": "흰 티에 청바지 젤 중요한 건 긴 머리",
+      "lyric_translation": "The most important thing is long hair",
+      "range": [55.58, 57.74], "ans": [8]},
+    {
+      "lyric_hangul": "6789",
+      "lyric_translation": "6 7 8 9 / You’re looking at me / 6 7 8 9",
+      "parts": [
+        {"lyric": "6 7 8 9",
+          "range": [57.74, 58.39], "ans": [4]},
+        {"lyric": "Niga nareul bonda",
+          "range": [57.79, 58.87], "ans": [9]},
+        {"lyric": "6 7 8 9",
+          "range": [58.27, 58.92], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geunyang mureobolkka?",
+      "lyric_hangul": "그냥 물어볼까?",
+      "lyric_translation": "Should I just ask?",
+      "range": [58.91, 60.47], "ans": [9]},
+    {"lyric": "Hey, be careful!",
+      "lyric_hangul": "Hey, be careful!",
+      "lyric_translation": "Hey, be careful!",
+      "range": [60.47, 62.02], "ans": [8]},
+    "",
+    {"lyric": "1 2 3 4 5",
+      "lyric_hangul": "12345",
+      "lyric_translation": "1 2 3 4 5",
+      "range": [62.02, 63.32], "ans": [3]},
+    {"lyric": "Shigani meomchweonna",
+      "lyric_hangul": "시간이 멈췄나",
+      "lyric_translation": "Did time stop?",
+      "range": [63.32, 64.44], "ans": [7]},
+    {"lyric": "Jeongshin jom jebal charyeo bwa kkumi aniya",
+      "lyric_hangul": "정신 좀 제발 차려봐 꿈이 아니야",
+      "lyric_translation": "Snap out of it, this isn’t a dream",
+      "range": [64.44, 66.96], "ans": [7]},
+    {"lyric": "6 7 8 9",
+      "lyric_hangul": "6789",
+      "lyric_translation": "6 7 8 9",
+      "range": [66.96, 67.87], "ans": [3]},
+    {
+      "lyric_hangul": "심장이 멈췄나 그만 좀 쳐다봐",
+      "lyric_translation": "Did my heart stop? / Stop staring at him",
+      "parts": [
+        {"lyric": "Shimjangi meomchweonna",
+          "range": [67.87, 69.64], "ans": [4]},
+        {"lyric": "Geuman jom cheodabwa",
+          "range": [68.94, 71.43], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "남자란 말에 관심도 없는데",
+      "lyric_translation": "I used to have no interest in guys / (Lalala lala lalalala lala)",
+      "parts": [
+        {"lyric": "Namjaran mare gwanshimdo eomneunde",
+          "range": [71.43, 73.04], "ans": [9]},
+        {"lyric": "(Lalala lala lalalala lala)",
+          "range": [72.34, 73.83], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "사춘기가 늦게 왔나봐",
+      "lyric_translation": "Maybe puberty hit me late / (Lalala lala lalalala lala)",
+      "parts": [
+        {"lyric": "Sachungiga neutge wanna bwa",
+          "range": [75.82, 77.51], "ans": [9]},
+        {"lyric": "(Lalala lala lalalala lala)",
+          "range": [76.81, 78.52], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Chinguga geu aen nal bunmyeong cheodabogo isseottae",
+      "lyric_hangul": "친구가 그 앤 날 분명 쳐다보고 있었대",
+      "lyric_translation": "My friend said he was definitely looking at me",
+      "range": [80.48, 82.79], "ans": [7]},
+    {"lyric": "Nuga bwado nan gwanshim eopseo boin cheok haetji",
+      "lyric_hangul": "누가 봐도 난 관심 없어 보이는 척 했지",
+      "lyric_translation": "But I pretended to have no interest",
+      "range": [82.79, 85.2], "ans": [7]},
+    {"lyric": "Tteungeumeopshi jakku saenggangna",
+      "lyric_hangul": "뜬금없이 자꾸 생각나",
+      "lyric_translation": "But I keep thinking about him",
+      "range": [85.2, 87.1], "ans": [6]},
+    {"lyric": "Amugeotto motage",
+      "lyric_hangul": "아무것도 못하게",
+      "lyric_translation": "And I can’t do anything",
+      "range": [87.1, 89.06], "ans": [6]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "바다 같은 eyes 헤엄칠래 yeah",
+      "lyric_translation": "I wanna swim / In your ocean-like eyes",
+      "parts": [
+        {"lyric": "Bada gateun Eye eye eyes",
+          "range": [89.06, 90.28], "ans": [1]},
+        {"lyric": "Heeomchillae Yeah yeah yeah",
+          "range": [90.28, 94.03], "ans": [1]}
+      ]
+    },
+    {"lyric": "Dadeul aneun geuye yeppeun nunuseum",
+      "lyric_hangul": "다들 아는 그의 예쁜 눈웃음",
+      "lyric_translation": "Everyone knows his pretty eye smile",
+      "range": [94.03, 96.36], "ans": [1]},
+    {"lyric": "Na honjaman bollae Yeah yeah yeah",
+      "lyric_hangul": "나 혼자만 볼래 yeah",
+      "lyric_translation": "But I wanna see it alone",
+      "range": [96.36, 98.42], "ans": [1]},
+    {
+      "lyric_hangul": "너의 맘은 ice 녹여볼래 yeah",
+      "lyric_translation": "But I wanna melt it / Your heart is ice / But I wanna melt it",
+      "parts": [
+        {"lyric": "Nogyeo bollae Yeah yeah yeah",
+          "range": [98.42, 99.48], "ans": [5]},
+        {"lyric": "Neoye mameun I-I-Ice",
+          "range": [99.48, 100.48], "ans": [5]},
+        {"lyric": "Nogyeo bollae Yeah yeah yeah",
+          "range": [100.48, 103.25], "ans": [5]}
+      ]
+    },
+    {"lyric": "Soshimhage saljjak tok geondeuryeodo",
+      "lyric_hangul": "소심하게 살짝 톡 건드려도",
+      "lyric_translation": "Even if I slightly touch / Even if I slightly touch",
+      "range": [103.25, 105.67], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "다 녹아 버릴걸 yeah",
+      "lyric_translation": "You’ll melt down / Oh oh oh / You’ll melt down",
+      "parts": [
+        {"lyric": "Da noga beorilkkeol Yeah yeah yeah",
+          "range": [105.65, 106.68], "ans": [5]},
+        {"lyric": "Oh oh oh",
+          "range": [106.04, 107.08], "ans": [6]},
+        {"lyric": "Da noga beorilkkeol Yeah yeah yeah",
+          "range": [106.38, 107.88], "ans": [5]}
+      ]
+    },
+    {"lyric": "12345",
+      "lyric_hangul": "12345",
+      "lyric_translation": "",
+      "range": [107.88, 108.97], "ans": []},
+    {
+      "lyric_hangul": "거의 다가갔어 밀당이 필요해",
+      "lyric_translation": "I’m almost there / I need to play it cool",
+      "parts": [
+        {"lyric": "Geoye dagagasseo",
+          "range": [108.97, 110.82], "ans": [2]},
+        {"lyric": "Mildangi piryohae",
+          "range": [110.12, 112.26], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "6 7 8 9",
+      "lyric_hangul": "6789",
+      "lyric_translation": "6 7 8 9",
+      "range": [112.26, 113.57], "ans": [3]},
+    {
+      "lyric_hangul": "너무 다 주진 마 쉽게 보이잖아",
+      "lyric_translation": "Don’t give him everything / You’ll seem too easy",
+      "parts": [
+        {"lyric": "Neomu da jujin ma",
+          "range": [113.57, 115.42], "ans": [9]},
+        {"lyric": "Shwipge boijana",
+          "range": [114.72, 116.56], "ans": [6]}
+      ]
+    },
+    {"lyric": "Naega kkumkkudeon yeonae sok wanbyeokan isanghyeonggwa",
+      "lyric_hangul": "내가 꿈꾸던 연애 속 완벽한 이상형과",
+      "lyric_translation": "He’s not even close to my ideal type",
+      "range": [116.56, 121.12], "ans": [2]},
+    "",
+    {"lyric": "Biseutajido ana geunde jakku tteoolla",
+      "lyric_hangul": "비슷하지도 않아 근데 자꾸 떠올라",
+      "lyric_translation": "But I keep thinking about him",
+      "range": [121.12, 125.51], "ans": [1]},
+    {"lyric": "Ige mweonjin mollado deuryeoda bogo shipeo",
+      "lyric_hangul": "이게 뭔진 몰라도 들여다 보고 싶어",
+      "lyric_translation": "I don’t know why but I want to look inside",
+      "range": [125.51, 130.35], "ans": [6]},
+    {"lyric": "Moreun cheok geumanhago jom deo naege dagawa",
+      "lyric_hangul": "모른 척 그만하고 좀 더 내게 다가와",
+      "lyric_translation": "Stop ignoring me and come to me",
+      "range": [130.35, 134.75], "ans": [5]},
+    {
+      "lyric_hangul": "바다 같은 eyes 헤엄칠래 yeah",
+      "lyric_translation": "I wanna swim / In your ocean-like eyes",
+      "parts": [
+        {"lyric": "Bada gateun Eye eye eyes",
+          "range": [134.75, 136.01], "ans": [1]},
+        {"lyric": "Heeomchillae Yeah yeah yeah",
+          "range": [136.01, 139.68], "ans": [1]}
+      ]
+    },
+    {"lyric": "Dadeul aneun geuye yeppeun nunuseum",
+      "lyric_hangul": "다들 아는 그의 예쁜 눈웃음",
+      "lyric_translation": "Everyone knows his pretty eye smile",
+      "range": [139.68, 142.15], "ans": [1]},
+    {"lyric": "Na honjaman bollae Yeah yeah yeah",
+      "lyric_hangul": "나 혼자만 볼래 yeah",
+      "lyric_translation": "But I wanna see it alone",
+      "range": [142.15, 144.2], "ans": [1]},
+    {
+      "lyric_hangul": "너의 맘은 ice 녹여볼래 yeah",
+      "lyric_translation": "But I wanna melt it / Your heart is ice",
+      "parts": [
+        {"lyric": "Nogyeo bollae Yeah yeah yeah",
+          "range": [144.2, 145.16], "ans": [5]},
+        {"lyric": "Neoye mameun I-I-Ice",
+          "range": [145.16, 148.72], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Soshimhage saljjak tok geondeuryeodo",
+      "lyric_hangul": "소심하게 살짝 톡 건드려도",
+      "lyric_translation": "Even if I slightly touch",
+      "range": [148.72, 151.19], "ans": [5]},
+    {"lyric": "Da noga beorilkkeol Yeah yeah yeah",
+      "lyric_hangul": "다 녹아 버릴걸 yeah",
+      "lyric_translation": "You’ll melt down",
+      "range": [151.19, 153.33], "ans": [5]},
+    {"lyric": "Nogyeo bollae Yeah yeah yeah",
+      "lyric_hangul": "너의 맘은 ice 녹여볼래 yeah",
+      "lyric_translation": "But I wanna melt it",
+      "range": [162.33, 166.97], "ans": [5]},
+    {"lyric": "Soshimhage saljjak tok geondeuryeodo",
+      "lyric_hangul": "소심하게 살짝 톡 건드려도",
+      "lyric_translation": "Even if I slightly touch",
+      "range": [166.97, 169.67], "ans": [5]},
+    {
+      "lyric_hangul": "다 녹아 버릴걸 yeah",
+      "lyric_translation": "You’ll melt down / I wanna swim / In your ocean-like eyes",
+      "parts": [
+        {"lyric": "Da noga beorilkkeol Yeah yeah yeah",
+          "range": [169.67, 170.84], "ans": [5]},
+        {"lyric": "Bada gateun Eye eye eyes",
+          "range": [170.14, 171.07], "ans": [1]},
+        {"lyric": "Heeomchillae Yeah yeah yeah",
+          "range": [171.07, 173.33], "ans": [1]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "name": "BLAME IT ON ME\r",
+  "ogg": "sound/kpop/blame_it_on_me.ogg",
+  "id": "blame-it-on-me",
+  "group": "twice",
+  "language": "ko",
+  "released": "2023-03-10",
+  "cover": "css/images/covers/blame-it-on-me.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:17:57Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "Oh, 강렬하게",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "Oh",
+          "range": [1.47, 1.97], "ans": [5]},
+        {"lyric": "Gangnyeolhage",
+          "range": [1.71, 3.22], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ikkeullin chaero gipeojyeo ga",
+      "lyric_hangul": "이끌린 채로 깊어져 가",
+      "lyric_translation": "",
+      "range": [3.22, 6.11], "ans": [5]},
+    {"lyric": "Geobuhal su eopshi hollin deushi",
+      "lyric_hangul": "거부할 수 없이 홀린 듯이",
+      "lyric_translation": "",
+      "range": [6.11, 8.85], "ans": [5]},
+    {"lyric": "We’d be wonderful together, I know",
+      "lyric_hangul": "We'd be wonderful together, I know",
+      "lyric_translation": "",
+      "range": [8.85, 11.82], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "Hey, you, 달콤하게",
+      "parts": [
+        {"lyric": "Hey you",
+          "range": [11.82, 12.67], "ans": [1]},
+        {"lyric": "Dalkomhage",
+          "range": [12.67, 14.17], "ans": [1]}
+      ]
+    },
+    {"lyric": "Nogadeureo deouk jiteojyeoga",
+      "lyric_hangul": "녹아들어 더욱 짙어져가",
+      "lyric_translation": "",
+      "range": [14.17, 16.69], "ans": [1]},
+    {"lyric": "On momeul gamssadoneun yeolgi",
+      "lyric_hangul": "온 몸을 감싸도는 열기",
+      "lyric_translation": "",
+      "range": [16.69, 20.06], "ans": [1]},
+    {
+      "lyric_hangul": "We'd be wonderful together, you know, you know (wow)",
+      "parts": [
+        {"lyric": "We’d be wonderful together,",
+          "range": [20.06, 21.3], "ans": [1]},
+        {"lyric": "You know you know",
+          "range": [21.3, 23.11], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You're so into me, you're, you're so into me",
+      "parts": [
+        {"lyric": "You’re so into me",
+          "range": [23.11, 24.1], "ans": [8]},
+        {"lyric": "You’re, you’re so into me",
+          "range": [24.1, 25.72], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "You've fallen for me, you've, you've fallen for me",
+      "parts": [
+        {"lyric": "You’ve fallen for me",
+          "range": [25.72, 26.76], "ans": [8]},
+        {"lyric": "You’ve, You’ve fallen for me",
+          "range": [26.76, 28.22], "ans": [8]}
+      ]
+    },
+    {"lyric": "Oh, you can’t escape",
+      "lyric_hangul": "Oh, you can't escape",
+      "lyric_translation": "",
+      "range": [28.22, 30.52], "ans": [4]},
+    {"lyric": "Ne modeun gamgakdeuleul jageukhae, hae",
+      "lyric_hangul": "네 모든 감각들을 자극해, 해",
+      "lyric_translation": "",
+      "range": [30.52, 33.38], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "치명적인 내 매력 속에, out of control, no",
+      "parts": [
+        {"lyric": "Chimyeongjeogin nae maeryeok soge",
+          "range": [33.38, 36.15], "ans": [9]},
+        {"lyric": "Out of control, No",
+          "range": [36.15, 38.58], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 책임들을 묻지마, 이건 내 탓이 아냐",
+      "parts": [
+        {"lyric": "Naege chaegimdeuleul mutjima",
+          "range": [38.58, 41.31], "ans": [2]},
+        {"lyric": "Igeon nae tasi anya",
+          "range": [41.31, 44.26], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Gestures, aura, and my charms",
+      "lyric_hangul": "Gestures, aura and my charms",
+      "lyric_translation": "",
+      "range": [44.26, 46.64], "ans": [6]},
+    {"lyric": "Onjongil jeongshin mot chariji",
+      "lyric_hangul": "온종일 정신 못 차리지",
+      "lyric_translation": "",
+      "range": [46.64, 49.81], "ans": [6]},
+    {"lyric": "Don’t you cry about me baby",
+      "lyric_hangul": "Don't you cry about me, baby",
+      "lyric_translation": "",
+      "range": [49.81, 52.75], "ans": [4]},
+    {"lyric": "(Don't blame it on me, yeah)",
+      "lyric_hangul": "(Don't blame it on me, yeah)",
+      "lyric_translation": "",
+      "range": [52.75, 55.15], "ans": []},
+    {"lyric": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_translation": "",
+      "range": [55.15, 58.52], "ans": []},
+    {"lyric": "Oh-oh-oh, oh, whoa-oh-oh",
+      "lyric_hangul": "Oh-oh-oh, oh, whoa-oh-oh",
+      "lyric_translation": "",
+      "range": [58.52, 60.64], "ans": []},
+    {"lyric": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_translation": "",
+      "range": [60.64, 63.72], "ans": []},
+    {
+      "lyric_hangul": "Don't blame it on me, yeah",
+      "parts": [
+        {"lyric": "Don’t blame it on me, yeah",
+          "range": [63.72, 64.43], "ans": [3]},
+        {"lyric": "Oh woah…",
+          "range": [63.91, 64.83], "ans": [5]},
+        {"lyric": "Don’t blame it on",
+          "range": [64.13, 65.56], "ans": [7]},
+        {"lyric": "(Me! Me!)",
+          "range": [64.86, 67.11], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Meomchul su eopjana",
+      "lyric_hangul": "멈출 수 없잖아",
+      "lyric_translation": "",
+      "range": [67.11, 69.85], "ans": [3]},
+    {"lyric": "Jakku kkeullijana",
+      "lyric_hangul": "자꾸 끌리잖아",
+      "lyric_translation": "",
+      "range": [69.85, 72.91], "ans": [3]},
+    {
+      "lyric_hangul": "Attractive 날 원망하진마, yeah",
+      "parts": [
+        {"lyric": "Attractive",
+          "range": [72.91, 73.87], "ans": [8]},
+        {"lyric": "Nal weonmanghajinma Yeah",
+          "range": [73.87, 75.51], "ans": [8]}
+      ]
+    },
+    {"lyric": "It’s not my fault that you fell for me",
+      "lyric_hangul": "It's not my fault that you fell (for me)",
+      "lyric_translation": "",
+      "range": [75.51, 77.76], "ans": [8]},
+    "",
+    {"lyric": "Wanjeonhi sarojaphin mind",
+      "lyric_hangul": "완전히 사로잡힌 mind",
+      "lyric_translation": "",
+      "range": [77.76, 80.06], "ans": [7]},
+    {"lyric": "Deo ppajyeo deureogago itjiman",
+      "lyric_hangul": "더 빠져 들어가고 있지만",
+      "lyric_translation": "",
+      "range": [80.06, 83.23], "ans": [7]},
+    {
+      "lyric_hangul": "Yeah, you know you can't escape",
+      "parts": [
+        {"lyric": "Yeah you know",
+          "range": [83.23, 84.19], "ans": [2]},
+        {"lyric": "You can’t escape",
+          "range": [84.19, 85.76], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ne modeun gamgakdeuleul jageukhae, hae",
+      "lyric_hangul": "네 모든 감각들을 자극해, 해",
+      "lyric_translation": "",
+      "range": [85.76, 88.36], "ans": [2]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "치명적인 내 매력 속에, out of control, no",
+      "parts": [
+        {"lyric": "Chimyeongjeogin nae maeryeok soge",
+          "range": [88.36, 91.47], "ans": [6]},
+        {"lyric": "Out of control, No",
+          "range": [91.47, 94.07], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 책임들을 묻지마, 이건 내 탓이 아냐",
+      "parts": [
+        {"lyric": "Naege chaegimdeuleul mutjima",
+          "range": [94.07, 96.58], "ans": [1]},
+        {"lyric": "Igeon nae tasi anya",
+          "range": [96.58, 99.45], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Gestures, aura, and my charms",
+      "lyric_hangul": "Gestures, aura and my charms",
+      "lyric_translation": "",
+      "range": [99.45, 102.26], "ans": [9]},
+    {"lyric": "Onjongil jeongshin mot chariji",
+      "lyric_hangul": "온종일 정신 못 차리지",
+      "lyric_translation": "",
+      "range": [102.26, 105.02], "ans": [9]},
+    {"lyric": "Don’t you cry about me baby",
+      "lyric_hangul": "Don't you cry about me, baby",
+      "lyric_translation": "",
+      "range": [105.02, 108.13], "ans": [4]},
+    {"lyric": "(Don't blame it on me, yeah)",
+      "lyric_hangul": "(Don't blame it on me, yeah)",
+      "lyric_translation": "",
+      "range": [108.13, 110.73], "ans": []},
+    {"lyric": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_translation": "",
+      "range": [110.73, 113.7], "ans": []},
+    {"lyric": "Oh-oh-oh, oh, whoa-oh-oh",
+      "lyric_hangul": "Oh-oh-oh, oh, whoa-oh-oh",
+      "lyric_translation": "",
+      "range": [113.7, 115.87], "ans": []},
+    {"lyric": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_translation": "",
+      "range": [115.87, 118.89], "ans": []},
+    {
+      "lyric_hangul": "Don't blame it on me, yeah",
+      "parts": [
+        {"lyric": "Don’t blame it on me, yeah",
+          "range": [118.89, 120.0], "ans": [7]},
+        {"lyric": "Don’t blame it on me, yeah",
+          "range": [119.3, 120.76], "ans": [3]},
+        {"lyric": "Don’t blame it on me, don’t blame it on",
+          "range": [120.06, 121.51], "ans": [8]},
+        {"lyric": "(Me!)",
+          "range": [121.11, 121.56], "ans": []}
+      ]
+    },
+    {"lyric": "Don't blame it on, don't blame it on (me!)",
+      "lyric_hangul": "Don't blame it on, don't blame it on (me!)",
+      "lyric_translation": "",
+      "range": [121.56, 124.34], "ans": []},
+    {"lyric": "Don't blame it on (me, me!)",
+      "lyric_hangul": "Don't blame it on (me, me!)",
+      "lyric_translation": "",
+      "range": [124.34, 126.85], "ans": []},
+    {"lyric": "Don't blame it on, don't blame it on (me!)",
+      "lyric_hangul": "Don't blame it on, don't blame it on (me!)",
+      "lyric_translation": "",
+      "range": [126.85, 129.58], "ans": []},
+    {"lyric": "Don't blame it on me, yeah, yeah",
+      "lyric_hangul": "Don't blame it on me, yeah, yeah",
+      "lyric_translation": "",
+      "range": [129.58, 132.17], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "parts": [
+        {"lyric": "Oh woah…",
+          "range": [132.17, 133.98], "ans": [2]},
+        {"lyric": "Oh woah…",
+          "range": [133.28, 135.91], "ans": [1]}
+      ]
+    },
+    {"lyric": "Oh-oh-oh, oh, whoa-oh-oh (yeah, yeah)",
+      "lyric_hangul": "Oh-oh-oh, oh, whoa-oh-oh (yeah, yeah)",
+      "lyric_translation": "",
+      "range": [135.41, 137.52], "ans": []},
+    {"lyric": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh",
+      "lyric_translation": "",
+      "range": [137.52, 140.4], "ans": []},
+    {
+      "lyric_hangul": "Don't blame it on me, yeah",
+      "parts": [
+        {"lyric": "Don’t blame it on me, yeah",
+          "range": [140.4, 141.47], "ans": [6]},
+        {"lyric": "Don’t blame it on me, yeah",
+          "range": [140.77, 142.99], "ans": [5]}
+      ]
+    },
+    {"lyric": "Oh woah…",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh (oh, whoa)",
+      "lyric_translation": "",
+      "range": [142.99, 146.07], "ans": [1]},
+    {"lyric": "Oh-oh-oh, oh, whoa-oh-oh (yeah, yeah)",
+      "lyric_hangul": "Oh-oh-oh, oh, whoa-oh-oh (yeah, yeah)",
+      "lyric_translation": "",
+      "range": [146.07, 148.1], "ans": []},
+    {"lyric": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh (oh, whoa)",
+      "lyric_hangul": "Oh, whoa-oh-oh, oh, whoa-oh-oh, oh (oh, whoa)",
+      "lyric_translation": "",
+      "range": [148.1, 151.33], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Don't blame it on me, yeah",
+      "parts": [
+        {"lyric": "Don’t blame it on, don’t blame it on",
+          "range": [151.33, 152.14], "ans": [7]},
+        {"lyric": "(Me!)",
+          "range": [151.64, 152.54], "ans": []},
+        {"lyric": "Don’t blame it on me, yeah",
+          "range": [151.84, 155.19], "ans": [9]}
+      ]
+    }
+  ]
+}

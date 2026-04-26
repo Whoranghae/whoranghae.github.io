@@ -1,0 +1,320 @@
+{
+  "name": "I GOT YOU\r",
+  "ogg": "sound/kpop/i_got_you.ogg",
+  "id": "i-got-you",
+  "group": "twice",
+  "language": "en",
+  "released": "2024-02-02",
+  "album": "I GOT YOU",
+  "cover": "css/images/covers/i-got-you.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T22:18:56Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "A little reckless around the edges",
+      "parts": [
+        {"lyric": "A little reckless",
+          "range": [10.18, 11.56], "ans": [6]},
+        {"lyric": "Around the edges",
+          "range": [11.56, 13.36], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Call it young, dumb love and it's just enough",
+      "parts": [
+        {"lyric": "Call it young, dumb love",
+          "range": [13.36, 14.8], "ans": [6]},
+        {"lyric": "And it’s just enough",
+          "range": [14.8, 16.02], "ans": [6]}
+      ]
+    },
+    {"lyric": "Keep me guessing",
+      "lyric_hangul": "Keep me guessing",
+      "lyric_translation": "",
+      "range": [15.84, 16.49], "ans": [6]},
+    {"lyric": "(Keep me guessing)",
+      "lyric_hangul": "(Keep me guessing)",
+      "lyric_translation": "",
+      "range": [16.49, 17.64], "ans": []},
+    {"lyric": "How the story unfolds with you",
+      "lyric_hangul": "How the story unfolds with you (You)",
+      "lyric_translation": "",
+      "range": [17.64, 21.17], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "When I'm walking into the darkness",
+      "parts": [
+        {"lyric": "When I’m walking",
+          "range": [21.17, 22.37], "ans": [2]},
+        {"lyric": "Into the darkness",
+          "range": [22.37, 24.25], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "I know you'll be right there, lighting up the flares",
+      "parts": [
+        {"lyric": "I know you’ll be right there",
+          "range": [24.25, 25.84], "ans": [2]},
+        {"lyric": "Lighting up the flares",
+          "range": [25.84, 27.19], "ans": [2]}
+      ]
+    },
+    {"lyric": "When it’s starless",
+      "lyric_hangul": "When it's starless",
+      "lyric_translation": "",
+      "range": [26.89, 28.48], "ans": [2]},
+    {
+      "lyric_hangul": "I will follow you to the moon (Moon, ayy)",
+      "parts": [
+        {"lyric": "I will follow you to the moon",
+          "range": [28.48, 31.51], "ans": [2]},
+        {"lyric": "Ayy",
+          "range": [30.81, 32.63], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "No, we’ll never fall apart",
+      "lyric_hangul": "No, we'll never fall apart (Never fall apart)",
+      "lyric_translation": "",
+      "range": [32.63, 35.46], "ans": [7]},
+    {"lyric": "Even million miles apart",
+      "lyric_hangul": "Even million miles apart (Million miles apart)",
+      "lyric_translation": "",
+      "range": [35.46, 38.0], "ans": [3]},
+    {"lyric": "We were lightning from the start",
+      "lyric_hangul": "We were lightning from the start (Lightning from the start)",
+      "lyric_translation": "",
+      "range": [38.0, 40.27], "ans": [7]},
+    {
+      "lyric_hangul": "And it keeps me going to know that Ooh",
+      "parts": [
+        {"lyric": "And it keeps me going to know that",
+          "range": [40.27, 43.69], "ans": [7]},
+        {"lyric": "Ooh",
+          "range": [54.35, 55.01], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "No matter what you got me, I got you",
+      "lyric_hangul": "No matter what, you got me I got you",
+      "lyric_translation": "",
+      "range": [45.51, 50.9], "ans": [1]},
+    {
+      "lyric_hangul": "And I wouldn't want it any other way Ooh",
+      "parts": [
+        {"lyric": "And I wouldn’t want it any other way",
+          "range": [50.9, 54.67], "ans": [1]},
+        {"lyric": "Ooh",
+          "range": [53.97, 56.34], "ans": [9]}
+      ]
+    },
+    {"lyric": "No drop of doubt, I know deep down that",
+      "lyric_hangul": "No drop of doubt, I know deep down that",
+      "lyric_translation": "",
+      "range": [56.34, 59.55], "ans": [9]},
+    {"lyric": "We'll make it through (It through)",
+      "lyric_hangul": "We'll make it through (It through)",
+      "lyric_translation": "",
+      "range": [59.55, 61.67], "ans": []},
+    {
+      "lyric_hangul": "We'll make it through (It through) Just like we always do Ayy",
+      "parts": [
+        {"lyric": "We’ll make it through, just like we always do",
+          "range": [59.55, 70.24], "ans": [9]},
+        {"lyric": "Ayy",
+          "range": [69.54, 70.68], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Every second, every minute",
+      "parts": [
+        {"lyric": "Every second",
+          "range": [70.68, 71.78], "ans": [8]},
+        {"lyric": "Every minute",
+          "range": [71.78, 72.97], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Want you close to me like you're supposed to be",
+      "parts": [
+        {"lyric": "Want you close to me",
+          "range": [72.97, 74.77], "ans": [8]},
+        {"lyric": "Like you’re supposed to be",
+          "range": [74.77, 76.15], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ain't no limit (Ain't no limit), to what I would do for you",
+      "parts": [
+        {"lyric": "Ain’t no limit",
+          "range": [76.05, 76.93], "ans": [8]},
+        {"lyric": "To what I would do for you, oh",
+          "range": [76.93, 80.29], "ans": [8]}
+      ]
+    },
+    {"lyric": "Oh, oh",
+      "lyric_hangul": "Oh, oh",
+      "lyric_translation": "",
+      "range": [80.29, 81.83], "ans": []},
+    "",
+    {
+      "lyric_hangul": "And you know, you turn my whole world upside down",
+      "parts": [
+        {"lyric": "And you know",
+          "range": [81.83, 82.24], "ans": [4]},
+        {"lyric": "You turn my whole world upside down",
+          "range": [82.24, 85.09], "ans": [4]}
+      ]
+    },
+    {"lyric": "Catch me before I ever hit the ground",
+      "lyric_hangul": "Catch me before I ever hit the ground",
+      "lyric_translation": "",
+      "range": [84.53, 87.68], "ans": [4]},
+    {"lyric": "And I’d do the same for you, oh",
+      "lyric_hangul": "And I'd do the same for you",
+      "lyric_translation": "",
+      "range": [87.68, 90.9], "ans": [5]},
+    {"lyric": "Oh, woah",
+      "lyric_hangul": "Oh, woah",
+      "lyric_translation": "",
+      "range": [90.9, 91.72], "ans": []},
+    "",
+    "[next-col]",
+    {"lyric": "No, we’ll never fall apart",
+      "lyric_hangul": "No, we'll never fall apart (No, we'll never fall a–)",
+      "lyric_translation": "",
+      "range": [91.72, 95.27], "ans": [3]},
+    {"lyric": "Even million miles apart",
+      "lyric_hangul": "Even million miles apart (Even million miles a–)",
+      "lyric_translation": "",
+      "range": [95.27, 97.72], "ans": [7]},
+    {"lyric": "We were lightning from the start",
+      "lyric_hangul": "We were lightning from the start (We were lightning from the)",
+      "lyric_translation": "",
+      "range": [97.72, 100.26], "ans": [3]},
+    {
+      "lyric_hangul": "And it keeps me going to know that Ooh",
+      "parts": [
+        {"lyric": "And it keeps me going to know that",
+          "range": [100.26, 103.76], "ans": [3]},
+        {"lyric": "Ooh",
+          "range": [114.36, 115.38], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "No matter what you got me, I got you",
+      "lyric_hangul": "No matter what, you got me I got you",
+      "lyric_translation": "",
+      "range": [105.73, 111.16], "ans": [4]},
+    {
+      "lyric_hangul": "And I wouldn't want it any other way Ooh",
+      "parts": [
+        {"lyric": "And I wouldn’t want it any other way",
+          "range": [111.16, 114.26], "ans": [4]},
+        {"lyric": "Ooh",
+          "range": [114.26, 117.03], "ans": [1]}
+      ]
+    },
+    {"lyric": "No drop of doubt, I know deep down that",
+      "lyric_hangul": "No drop of doubt, I know deep down that",
+      "lyric_translation": "",
+      "range": [117.03, 118.81], "ans": [1, 5]},
+    {"lyric": "(No drop of doubt, I know deep down that)",
+      "lyric_hangul": "(No drop of doubt, I know deep down that)",
+      "lyric_translation": "",
+      "range": [118.81, 119.82], "ans": []},
+    {"lyric": "We'll make it through (Make it through)",
+      "lyric_hangul": "We'll make it through (Make it through)",
+      "lyric_translation": "",
+      "range": [119.82, 121.62], "ans": []},
+    {
+      "lyric_hangul": "We'll make it through (Make it through) Just like we always do",
+      "parts": [
+        {"lyric": "We’ll make it through, just like we always do",
+          "range": [119.82, 123.2], "ans": [1]},
+        {"lyric": "Oh",
+          "range": [123.2, 124.27], "ans": [1]},
+        {"lyric": "Ooh",
+          "range": [123.57, 125.87], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Do-do-do, do-do, do-do, do, do",
+      "lyric_hangul": "Do-do-do, do-do, do-do, do, do",
+      "lyric_translation": "",
+      "range": [125.87, 128.49], "ans": []},
+    {"lyric": "Do-do-do, do-do, do-do, do, do",
+      "lyric_hangul": "Do-do-do, do-do, do-do, do, do",
+      "lyric_translation": "",
+      "range": [128.49, 131.35], "ans": []},
+    {"lyric": "Do-do-do, do-do, do-do, do, do",
+      "lyric_hangul": "Do-do-do, do-do, do-do, do, do",
+      "lyric_translation": "",
+      "range": [131.35, 133.74], "ans": []},
+    {"lyric": "Oh-oh",
+      "lyric_hangul": "Oh-oh",
+      "lyric_translation": "",
+      "range": [133.74, 136.03], "ans": []},
+    {"lyric": "Ooh",
+      "lyric_hangul": "Ooh",
+      "lyric_translation": "",
+      "range": [136.03, 138.89], "ans": []},
+    {"lyric": "No matter what you got me, I got you",
+      "lyric_hangul": "No matter what, you got me I got you",
+      "lyric_translation": "",
+      "range": [138.89, 143.69], "ans": [6]},
+    {
+      "lyric_hangul": "And I wouldn't want it any other way Ooh",
+      "parts": [
+        {"lyric": "And I wouldn’t want it any other way",
+          "range": [143.69, 147.11], "ans": [6]},
+        {"lyric": "Ooh",
+          "range": [147.06, 151.83], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "No drop of doubt, I know deep down that",
+      "lyric_hangul": "No drop of doubt, I know deep down that",
+      "lyric_translation": "",
+      "range": [149.64, 151.25], "ans": [5, 1]},
+    {"lyric": "(No drop of doubt, I know deep down that)",
+      "lyric_hangul": "(No drop of doubt, I know deep down that)",
+      "lyric_translation": "",
+      "range": [151.25, 152.23], "ans": []},
+    {"lyric": "We'll make it through (Through)",
+      "lyric_hangul": "We'll make it through (Through)",
+      "lyric_translation": "",
+      "range": [152.23, 154.24], "ans": []},
+    {"lyric": "We’ll make it through, just like we always do",
+      "lyric_hangul": "We'll make it through (Through) Just like we always do",
+      "lyric_translation": "",
+      "range": [152.23, 158.52], "ans": [5]},
+    {
+      "lyric_hangul": "Do-do-do, do-do, do-do, do, do (That we do)",
+      "parts": [
+        {"lyric": "Do do do do do do do",
+          "range": [158.52, 160.8], "ans": []},
+        {"lyric": "That we do",
+          "range": [160.1, 161.27], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Do-do-do, do-do, do-do, do, do (We do) Do-do-do, do-do, do-do, do, do",
+      "parts": [
+        {"lyric": "Do do do do do do do",
+          "range": [161.27, 163.78], "ans": []},
+        {"lyric": "We do",
+          "range": [163.08, 164.37], "ans": [8]},
+        {"lyric": "Do do do do do do do",
+          "range": [163.67, 166.58], "ans": []}
+      ]
+    },
+    {"lyric": "Just like we always do",
+      "lyric_hangul": "Just like we always do",
+      "lyric_translation": "",
+      "range": [165.6, 169.9], "ans": [2]}
+  ]
+}

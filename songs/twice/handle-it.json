@@ -1,0 +1,239 @@
+{
+  "name": "HANDLE IT\r",
+  "ogg": "sound/kpop/handle_it.ogg",
+  "id": "handle-it",
+  "group": "twice",
+  "language": "ko",
+  "released": "2020-10-26",
+  "album": "Eyes wide open",
+  "cover": "css/images/covers/handle-it.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:19Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Mallabeorin nae du nune barami bureo shiryeo",
+      "lyric_hangul": "말라버린 내 두 눈에",
+      "lyric_translation": "My two dry eyes are cold from the blowing wind",
+      "range": [10.07, 13.15], "ans": [6]},
+    {"lyric": "Guji aesseo chameun nunmuri heulleo",
+      "lyric_hangul": "바람이 불어 시려 굳이 애써 참은 눈물이 흘러",
+      "lyric_translation": "The tears I tried to hold back fall",
+      "range": [13.15, 20.89], "ans": [6]},
+    {"lyric": "Gwaenchaneul kkeora malhae jweo",
+      "lyric_hangul": "괜찮을 거라 말해줘",
+      "lyric_translation": "Tell me it’ll be okay",
+      "range": [20.89, 24.55], "ans": [8]},
+    {
+      "lyric_hangul": "태양이 뜨는지 지는지는 몰라도 네가 보고 싶어, oh-whoa",
+      "lyric_translation": "I don’t know whether the sun is rising or setting / I miss you",
+      "parts": [
+        {"lyric": "Taeyangi tteuneunji jineunjineun mollado",
+          "range": [24.55, 27.11], "ans": [8]},
+        {"lyric": "Niga bogo shipeo",
+          "range": [27.11, 32.05], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "그 많은 이유 변명 다 소용없단 걸 넌 더 잘 알잖아",
+      "lyric_translation": "Oh oh, those many reasons and excuses… / …are all useless, you know well",
+      "parts": [
+        {"lyric": "Oh oh geu maneun iyu byeonmyeong da",
+          "range": [32.05, 34.57], "ans": [5]},
+        {"lyric": "Soyongeoptan geol neon deo jal aljana",
+          "range": [34.57, 37.7], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "손을 얹고선 대답해봐, 모르는 척하진 마",
+      "lyric_translation": "Place your hand and answer / Don’t pretend not to know",
+      "parts": [
+        {"lyric": "Soneul eonjgoseon daedapae bwa",
+          "range": [37.7, 40.29], "ans": [5]},
+        {"lyric": "Moreuneun cheokajin ma",
+          "range": [40.29, 42.96], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "돌아갈 길을 나는 잊었어, 이젠 찾을 수도 없어",
+      "lyric_translation": "I’ve forgotten the path to return / I can’t even find it now",
+      "parts": [
+        {"lyric": "Doragal gireul naneun ijeosseo",
+          "range": [42.96, 45.66], "ans": [2]},
+        {"lyric": "Ijen chajeul sudo eopseo",
+          "range": [45.66, 48.67], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ain’t got no better way better way better way",
+      "lyric_hangul": "Ain't got no better way, better way, better way",
+      "lyric_translation": "Ain’t got no better way, better way, better way",
+      "range": [48.67, 53.21], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "'Cause I can't handle it, 아무 말도 들리지 않아",
+      "lyric_translation": "Cause I can’t handle it / I can’t hear any words",
+      "parts": [
+        {"lyric": "Cause I can’t handle it",
+          "range": [53.21, 56.89], "ans": [6]},
+        {"lyric": "Amu maldo deulliji ana",
+          "range": [56.89, 59.0], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 있을게, 너 돌아오게 될 거야",
+      "lyric_translation": "I’ll stay here / You’re going to return",
+      "parts": [
+        {"lyric": "Yeogi isseulkke",
+          "range": [59.0, 62.63], "ans": [9]},
+        {"lyric": "Neo doraoge dwel kkeoya",
+          "range": [61.93, 64.45], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh, I can't handle it, 더 멀어지지 마 내게서",
+      "lyric_translation": "Oh, I can’t handle it / Don’t get further away from me",
+      "parts": [
+        {"lyric": "Oh I can’t handle it",
+          "range": [64.45, 67.71], "ans": [1]},
+        {"lyric": "Deo meoreojiji ma naegeseo",
+          "range": [67.71, 69.81], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, come here quick, we shouldn't call it quits",
+      "lyric_translation": "Baby come here quick / We shouldn’t call it quits",
+      "parts": [
+        {"lyric": "Baby come here quick",
+          "range": [69.81, 72.59], "ans": [4]},
+        {"lyric": "We shouldn’t call it quits",
+          "range": [72.59, 74.63], "ans": [4]}
+      ]
+    },
+    {"lyric": "Cause I can’t handle it",
+      "lyric_hangul": "'Cause I can't handle it",
+      "lyric_translation": "Cause I can’t handle it",
+      "range": [74.63, 78.87], "ans": [4]},
+    "",
+    {"lyric": "Gieogi seutikeocheoreom",
+      "lyric_hangul": "기억이 스티커처럼",
+      "lyric_translation": "Like stickers, even if the memories come off",
+      "range": [81.31, 84.55], "ans": [8]},
+    {"lyric": "Tteeo naebeoryeodo jagugi namaseo deo jiteo boyeo",
+      "lyric_hangul": "떼어 내버려도, 자국이 남아서, 더 짙어 보여, no",
+      "lyric_translation": "The mark that is left makes it look thicker",
+      "range": [84.55, 91.71], "ans": [8]},
+    {"lyric": "Buri kkeojil suga eopge",
+      "lyric_hangul": "불이 꺼질 수가 없게, yeah",
+      "lyric_translation": "The fire can’t go out",
+      "range": [91.71, 95.39], "ans": [4]},
+    {
+      "lyric_hangul": "네 흔적들이 여기저기 남아있잖아, 타들어 가, 타들어 가",
+      "lyric_translation": "Since traces of you are still left here / It burns down, it burns down",
+      "parts": [
+        {"lyric": "Ni heunjeokdeuri yeogijeogi namaitjana",
+          "range": [95.39, 98.04], "ans": [4]},
+        {"lyric": "Tadeureo ga tadeureo ga",
+          "range": [98.04, 103.17], "ans": [4]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "멍이 들어 새파랗게, 가슴을 타고 자꾸 번져만 가",
+      "lyric_translation": "Bruises form, ashy pale / Climbing my chest, they just keep spreading",
+      "parts": [
+        {"lyric": "Meongi deureo saeparake",
+          "range": [103.17, 105.72], "ans": [1]},
+        {"lyric": "Gaseumeul tago jakku beonjeoman ga",
+          "range": [105.72, 108.52], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "커져 버렸어, 내 맘속에 비우는 법도 몰라",
+      "lyric_translation": "They’ve gotten bigger / I don’t know how to empty my heart",
+      "parts": [
+        {"lyric": "Keojeo beoryeosseo nae mamsoge",
+          "range": [108.52, 111.02], "ans": [1]},
+        {"lyric": "Biuneun beopdo molla",
+          "range": [111.02, 113.43], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "파도가 쓸려 없어졌던 다시 예전 그 자리로",
+      "lyric_translation": "Back to the spot… / …that got swept away by the waves",
+      "parts": [
+        {"lyric": "Padoga sseullyeo eopseojeotteon",
+          "range": [113.43, 116.59], "ans": [2]},
+        {"lyric": "Dashi yejeon geu jariro",
+          "range": [116.59, 119.18], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ain’t got no better way better way better way",
+      "lyric_hangul": "Ain't got no better way, better way, better way",
+      "lyric_translation": "Ain’t got no better way, better way, better way",
+      "range": [119.18, 124.05], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "'Cause I can't handle it, 아무 말도 들리지 않아",
+      "lyric_translation": "Cause I can’t handle it / I can’t hear any words",
+      "parts": [
+        {"lyric": "Cause I can’t handle it",
+          "range": [124.05, 127.79], "ans": [5]},
+        {"lyric": "Amu maldo deulliji ana",
+          "range": [127.79, 129.65], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 있을게, 너 돌아오게 될 거야",
+      "lyric_translation": "I’ll stay here / You’re going to return",
+      "parts": [
+        {"lyric": "Yeogi isseulkke",
+          "range": [129.65, 133.54], "ans": [6]},
+        {"lyric": "Neo doraoge dwel kkeoya",
+          "range": [132.84, 135.2], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh, I can't handle it, 더 멀어지지 마 내게서",
+      "lyric_translation": "Oh, I can’t handle it / Don’t get further away from me",
+      "parts": [
+        {"lyric": "Oh I can’t handle it",
+          "range": [135.2, 138.6], "ans": [6]},
+        {"lyric": "Deo meoreojiji ma naegeseo",
+          "range": [138.6, 140.61], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, come here quick, we shouldn't call it quits",
+      "lyric_translation": "Baby come here quick / We shouldn’t call it quits",
+      "parts": [
+        {"lyric": "Baby come here quick",
+          "range": [140.61, 143.45], "ans": [9]},
+        {"lyric": "We shouldn’t call it quits",
+          "range": [143.45, 145.74], "ans": [9]}
+      ]
+    },
+    {"lyric": "Cause I can’t handle it",
+      "lyric_hangul": "'Cause I can't handle it",
+      "lyric_translation": "Cause I can’t handle it",
+      "range": [145.74, 148.18], "ans": [9]},
+    {"lyric": "La-la-la, la-la-la-la-ah",
+      "lyric_hangul": "La-la-la, la-la-la-la-ah",
+      "lyric_translation": "",
+      "range": [148.18, 152.95], "ans": []},
+    {"lyric": "La-la-la-la, la-la-la-la-la-la-ah",
+      "lyric_hangul": "La-la-la-la, la-la-la-la-la-la-ah",
+      "lyric_translation": "",
+      "range": [152.95, 158.42], "ans": []},
+    {"lyric": "La-la-la-la, la-la-la-la-la-la-ah",
+      "lyric_hangul": "La-la-la-la, la-la-la-la-la-la-ah",
+      "lyric_translation": "",
+      "range": [158.42, 164.7], "ans": []},
+    "",
+    {"lyric": "Cause I can’t handle it",
+      "lyric_hangul": "'Cause I can't handle it",
+      "lyric_translation": "Cause I can’t handle it",
+      "range": [167.31, 171.0], "ans": [6]}
+  ]
+}

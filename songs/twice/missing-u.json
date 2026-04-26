@@ -1,0 +1,291 @@
+{
+  "name": "MISSING U\r",
+  "ogg": "sound/kpop/missing_u.ogg",
+  "id": "missing-u",
+  "group": "twice",
+  "language": "ko",
+  "released": "2017-10-30",
+  "album": "twicetagram",
+  "cover": "css/images/covers/missing-u.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:29Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "그땐 가지마 가지마 난생처음 나답지 않게 울고불고 매달렸어 Oh",
+      "lyric_translation": "Don’t go, don’t go, I said back then / For the first time in my life, it was so not me / I cried and was clingy",
+      "parts": [
+        {"lyric": "Geuttaen gaji ma gaji ma",
+          "range": [6.67, 10.03], "ans": [4]},
+        {"lyric": "Nansaengcheoeum nadapji anke",
+          "range": [10.03, 12.11], "ans": [4]},
+        {"lyric": "Ulgobulgo maedallyeosseo",
+          "range": [12.11, 15.23], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "이젠 하룻밤 하룻밤 새벽을 또 지나 네 생각에 밤새울걸",
+      "lyric_translation": "Now night after night / Even after dawn / I’ll stay up thinking about you",
+      "parts": [
+        {"lyric": "Oh ijen harutbam harutbam",
+          "range": [14.79, 18.11], "ans": [2]},
+        {"lyric": "Saebyeogeul tto jina",
+          "range": [18.11, 19.49], "ans": [2]},
+        {"lyric": "Ni saenggage bamsaeulkkeol",
+          "range": [19.49, 22.33], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "나 오늘 밤 Miss you oh, I wanna see you oh",
+      "lyric_translation": "Tonight, I miss you oh / I wanna see you oh",
+      "parts": [
+        {"lyric": "Na oneul bam Miss you oh",
+          "range": [22.33, 23.89], "ans": [3]},
+        {"lyric": "I wanna see you oh",
+          "range": [23.89, 27.15], "ans": [3]}
+      ]
+    },
+    {"lyric": "Niga animyeon ttan sarameun shireunde",
+      "lyric_hangul": "네가 아니면 딴 사람은 싫은데",
+      "lyric_translation": "I don’t want anyone else but you",
+      "range": [26.6, 30.63], "ans": [3]},
+    {
+      "lyric_hangul": "나 오늘 밤 Miss you oh, I wanna see you oh",
+      "lyric_translation": "Tonight, I miss you oh / I wanna see you oh",
+      "parts": [
+        {"lyric": "Na oneul bam Miss you oh",
+          "range": [30.63, 31.87], "ans": [7]},
+        {"lyric": "I wanna see you oh",
+          "range": [31.87, 35.13], "ans": [7]}
+      ]
+    },
+    {"lyric": "I wanna touch you, hold you",
+      "lyric_hangul": "I wanna touch you, hold you",
+      "lyric_translation": "I wanna touch you, hold you",
+      "range": [35.0, 37.24], "ans": [7]},
+    {"lyric": "You’re my everything",
+      "lyric_hangul": "You are my everything",
+      "lyric_translation": "You’re my everything",
+      "range": [37.24, 38.61], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Baby I'm missing you, Missing you",
+      "lyric_translation": "Baby I’m missing you, missing you / Baby I’m missing you, missing you",
+      "parts": [
+        {"lyric": "Baby I’m missing you, missing you",
+          "range": [38.61, 39.81], "ans": [5]},
+        {"lyric": "Baby I’m missing you, missing you",
+          "range": [39.81, 42.24], "ans": [9]}
+      ]
+    },
+    {"lyric": "Neo malgon amudo piryo eopseo",
+      "lyric_hangul": "너 말고는 아무도 필요 없어",
+      "lyric_translation": "I don’t need anything else but you",
+      "range": [42.24, 46.4], "ans": [5]},
+    {"lyric": "Baby I’m missing you, missing you",
+      "lyric_hangul": "Baby I'm missing you, Missing you",
+      "lyric_translation": "Baby I’m missing you, missing you",
+      "range": [46.4, 50.21], "ans": [1]},
+    {
+      "lyric_hangul": "날 버려두고 Baby 대체 너 어디 갔니",
+      "lyric_translation": "You left me here baby / Where did you go? / You left me here baby / Where did you go?",
+      "parts": [
+        {"lyric": "Nal beoryeodugo Baby",
+          "range": [50.21, 51.49], "ans": [1]},
+        {"lyric": "Daeche neo eodi ganni",
+          "range": [51.49, 53.25], "ans": [1]},
+        {"lyric": "Nal beoryeodugo Baby",
+          "range": [53.25, 54.98], "ans": [9]},
+        {"lyric": "Daeche neo eodi ganni",
+          "range": [54.28, 56.26], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "No No No No Baby 대체 너 어디 갔니",
+      "lyric_translation": "No no no no / Baby, where did you go? / No no no no / Baby, where did you go?",
+      "parts": [
+        {"lyric": "No no no no",
+          "range": [56.26, 59.58], "ans": [4]},
+        {"lyric": "Baby daeche neo eodi ganni",
+          "range": [59.58, 62.83], "ans": [4]},
+        {"lyric": "No no no no",
+          "range": [62.23, 62.88], "ans": [6]},
+        {"lyric": "Baby daeche neo eodi ganni",
+          "range": [62.88, 64.49], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "No No No No Baby 대체 너 어디 갔니",
+      "lyric_translation": "No no no no / Baby, where did you go? / No no no no / Baby, where did you go?",
+      "parts": [
+        {"lyric": "No no no no",
+          "range": [64.49, 67.59], "ans": [5]},
+        {"lyric": "Baby daeche neo eodi ganni",
+          "range": [67.59, 70.86], "ans": [5]},
+        {"lyric": "No no no no",
+          "range": [70.28, 70.91], "ans": [1]},
+        {"lyric": "Baby daeche neo eodi ganni",
+          "range": [70.91, 73.36], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "난 가끔 너를 원래 없었던 사람처럼 잊어보려 노력했어",
+      "lyric_translation": "Sometimes / I tried to forget you / Like you don’t even exist",
+      "parts": [
+        {"lyric": "Nan gakkeum neoreul weollae",
+          "range": [73.36, 76.02], "ans": [6]},
+        {"lyric": "Eopseotteon saramcheoreom",
+          "range": [76.02, 77.84], "ans": [6]},
+        {"lyric": "Ijeoboryeo noryeokaesseo",
+          "range": [77.84, 81.39], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "매일 밤 꿈을 꾸고 한 시간 한 번 깨고",
+      "lyric_translation": "But every night, I dreamed / Waking up every hour",
+      "parts": [
+        {"lyric": "Maeil bam kkumeul kkugo",
+          "range": [81.39, 84.17], "ans": [1]},
+        {"lyric": "Han shigan han beon kkaego",
+          "range": [84.17, 86.17], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "가슴은 찡해지고 머리는 점점 더 아파와",
+      "lyric_translation": "My heart gets sad / And my head keeps hurting",
+      "parts": [
+        {"lyric": "Gaseumeun jjinghaejigo",
+          "range": [85.77, 88.05], "ans": [1]},
+        {"lyric": "Meorineun jeomjeom deo apawa",
+          "range": [88.05, 89.87], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "나 오늘 밤 Miss you oh, I wanna see you oh",
+      "lyric_translation": "Tonight, I miss you oh / I wanna see you oh",
+      "parts": [
+        {"lyric": "Na oneul bam Miss you oh",
+          "range": [89.23, 89.73], "ans": [3]},
+        {"lyric": "I wanna see you oh",
+          "range": [89.39, 93.23], "ans": [3]}
+      ]
+    },
+    {"lyric": "Niga animyeon ttan sarameun shireunde",
+      "lyric_hangul": "네가 아니면 딴 사람은 싫은데",
+      "lyric_translation": "I don’t want anyone else but you",
+      "range": [92.88, 97.04], "ans": [3]},
+    {
+      "lyric_hangul": "나 오늘 밤 Miss you oh, I wanna see you oh",
+      "lyric_translation": "Tonight, I miss you oh / I wanna see you oh",
+      "parts": [
+        {"lyric": "Na oneul bam Miss you oh",
+          "range": [97.04, 97.9], "ans": [8]},
+        {"lyric": "I wanna see you oh",
+          "range": [97.9, 101.2], "ans": [8]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "I wanna touch you, hold you",
+      "lyric_hangul": "I wanna touch you, hold you",
+      "lyric_translation": "I wanna touch you, hold you",
+      "range": [101.08, 103.22], "ans": [8]},
+    {"lyric": "You’re my everything",
+      "lyric_hangul": "You are my everything",
+      "lyric_translation": "You are my everything",
+      "range": [103.22, 104.46], "ans": [8]},
+    {"lyric": "Baby I’m missing you, missing you",
+      "lyric_hangul": "Baby I'm missing you, Missing you",
+      "lyric_translation": "Baby I’m missing you, missing you",
+      "range": [104.46, 108.17], "ans": [9]},
+    {"lyric": "Neo malgon amudo piryo eopseo",
+      "lyric_hangul": "너 말고는 아무도 필요 없어",
+      "lyric_translation": "I don’t need anything else but you",
+      "range": [108.17, 112.64], "ans": [9]},
+    {"lyric": "Baby I’m missing you, missing you",
+      "lyric_hangul": "Baby I'm missing you, Missing you",
+      "lyric_translation": "Baby I’m missing you, missing you",
+      "range": [112.64, 116.36], "ans": [2]},
+    {
+      "lyric_hangul": "날 버려두고 Baby 대체 너 어디 갔니",
+      "lyric_translation": "You left me here baby / Where did you go?",
+      "parts": [
+        {"lyric": "Nal beoryeodugo Baby",
+          "range": [116.36, 118.64], "ans": [2]},
+        {"lyric": "Daeche neo eodi ganni",
+          "range": [118.64, 122.35], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Yo nan geuge shireo shireo yeogikkajiran mal",
+      "lyric_hangul": "난 그게 싫어 싫어 여기까지란 말",
+      "lyric_translation": "I don’t like the saying, this is it",
+      "range": [122.35, 125.9], "ans": [8]},
+    {"lyric": "Adeungbadeung kkumil kkeorago da",
+      "lyric_hangul": "아등바등 꿈일 거라고 다",
+      "lyric_translation": "I tell myself this is all a dream",
+      "range": [125.9, 127.5], "ans": [8]},
+    {"lyric": "Mideul su eomneun hyeonshire nanal",
+      "lyric_hangul": "믿을 수 없는 현실의 나날",
+      "lyric_translation": "I can’t believe this is real",
+      "range": [127.5, 129.67], "ans": [8]},
+    {"lyric": "Jameseo kkaeeo dashi ana jweo nal",
+      "lyric_hangul": "잠에서 깨어 다시 안아줘 날",
+      "lyric_translation": "Wake me up and hold me again",
+      "range": [129.67, 131.41], "ans": [8]},
+    {"lyric": "Neon naege yaksokaesseotji daechaek eopshi",
+      "lyric_hangul": "넌 내게 약속했었지 대책 없이",
+      "lyric_translation": "You promised me",
+      "range": [131.41, 133.57], "ans": [7]},
+    "",
+    {"lyric": "Nan gutge mideosseo babogachi",
+      "lyric_hangul": "난 굳게 믿었어 바보같이",
+      "lyric_translation": "And I foolishly believed",
+      "range": [133.57, 135.47], "ans": [7]},
+    {"lyric": "Tteonal ttaen yangshime gachaek eopshi",
+      "lyric_hangul": "떠날 땐 양심의 가책 없이",
+      "lyric_translation": "But when you left, you had no guilt",
+      "range": [135.47, 137.28], "ans": [7]},
+    {"lyric": "Geureon neol dashi bogo shipeo Miss you baby",
+      "lyric_hangul": "그런 널 다시 보고 싶어 Miss you baby",
+      "lyric_translation": "But still I miss you, miss you baby",
+      "range": [137.28, 139.91], "ans": [7]},
+    {
+      "lyric_hangul": "Baby I'm missing you",
+      "lyric_translation": "(Missing you oh oh oh oh / (Missing you oh oh oh oh",
+      "parts": [
+        {"lyric": "(Missing you oh oh oh oh",
+          "range": [139.91, 141.4], "ans": [1]},
+        {"lyric": "(Missing you oh oh oh oh",
+          "range": [140.7, 142.54], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Baby I'm missing you, Missing you",
+      "lyric_translation": "Missing you boy) / Missing you boy)",
+      "parts": [
+        {"lyric": "Missing you boy)",
+          "range": [142.54, 144.19], "ans": [1]},
+        {"lyric": "Missing you boy)",
+          "range": [143.49, 146.14], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby I'm missing you, Missing you",
+      "lyric_translation": "Baby I’m missing you, missing you / I don’t need anything else but you",
+      "parts": [
+        {"lyric": "Baby I’m missing you, missing you",
+          "range": [150.31, 151.75], "ans": [2]},
+        {"lyric": "Neo malgon amudo piryo eopseo",
+          "range": [151.75, 154.36], "ans": [2]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "name": "I GOT IT\r",
+  "ogg": "sound/kpop/i_got_it.ogg",
+  "id": "i-got-it",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2022-12-21",
+  "album": "SKZ-REPLAY",
+  "cover": "css/images/covers/i-got-it.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "I don't wanna get back, son, uh, 보나, 마나, 개죽 쒀, yeah",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "I don’t wanna get back son",
+          "range": [13.28, 14.97], "ans": [5]},
+        {"lyric": "Bona mana gaejuk ssweo",
+          "range": [14.97, 16.44], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "만들고서 한숨 쉬어 모두 따라가지 주변 반응에 타고선 아우성",
+      "parts": [
+        {"lyric": "Mandeulgoseo hansum shwieo",
+          "range": [16.42, 17.66], "ans": [5]},
+        {"lyric": "Modu ttaragaji jubyeon baneunge tagoseon auseong",
+          "range": [17.66, 19.62], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "한 번에 실패는 나눠 둘로 감정은 오묘하지 다 퓨전",
+      "parts": [
+        {"lyric": "Han beone shilpaeneun nanweo dullo",
+          "range": [19.62, 21.06], "ans": [5]},
+        {"lyric": "Gamjeongeun omyohaji da pyujeon",
+          "range": [21.06, 22.86], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "고개 한번 숙이고선 출력 해내 나의 활력을 다시 밧줄로 묶어",
+      "parts": [
+        {"lyric": "Gogae hanbeon sugigoseon chullyeok",
+          "range": [22.86, 24.22], "ans": [5]},
+        {"lyric": "Haenae naye hwallyeogeul dashi batjullo mukkeo",
+          "range": [24.22, 26.04], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Ayy, 배터리 닳아 꺼질 때까지, memory full of lyrics, 난 magazine",
+      "parts": [
+        {"lyric": "Baeteori dara kkeojil ttaekkaji",
+          "range": [26.04, 28.76], "ans": [5]},
+        {"lyric": "Memory full of lyrics nan magazine",
+          "range": [28.76, 30.11], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "표지에 메인이 되어야 해, 자수성가 type, idol rapper가 돼야지",
+      "parts": [
+        {"lyric": "Pyojie meini dweeoya hae",
+          "range": [30.11, 31.15], "ans": [5]},
+        {"lyric": "Jasuseongga type, idol rapperga dwaeyaji",
+          "range": [30.71, 32.66], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Salary doesn't matter, I pay for my 열정 가득 담아낸 track이니",
+      "parts": [
+        {"lyric": "Salary doesn’t matter",
+          "range": [32.66, 34.16], "ans": [5]},
+        {"lyric": "I pay for my yeoljeong gadeuk damanaen trackini",
+          "range": [34.16, 35.64], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "빡세게 작업해 뇌 속은 이미 풍부함 작업량에 배불림",
+      "parts": [
+        {"lyric": "Ppaksege jageophae nwe sogeun imi pungbuham",
+          "range": [35.48, 37.76], "ans": [5]},
+        {"lyric": "Jageomnyange baebullim",
+          "range": [37.76, 38.88], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh, look what I got 뚝 떨어진 감을 섭취한 후",
+      "parts": [
+        {"lyric": "Whoo look what I got",
+          "range": [38.88, 40.4], "ans": [5]},
+        {"lyric": "Ttuk tteoreojin gameul seopchwihan hu",
+          "range": [40.4, 41.79], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "올라가는 level, hunnit, 찍고 바로 속력 내서 꼭대길 걸어",
+      "parts": [
+        {"lyric": "Ollaganeun level, hunnit jjikgo",
+          "range": [41.79, 43.04], "ans": [5]},
+        {"lyric": "Baro songnyeok naeseo kkokdaegil georeo",
+          "range": [43.04, 44.97], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "중심부에 있던 위치 타고 추진력 얻어, I'm gonna get the top, bish",
+      "parts": [
+        {"lyric": "Jungshimbue itteon wichi tago",
+          "range": [44.97, 47.21], "ans": [5]},
+        {"lyric": "Chujillyeok eodeo I’m gonna get the top bish",
+          "range": [46.49, 48.89], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "넌 그 밑에서 내가 먹은 음식 정리하지 clean dish",
+      "parts": [
+        {"lyric": "Neon geu miteseo naega meogeun eumshik",
+          "range": [48.32, 50.58], "ans": [5]},
+        {"lyric": "Jeongnihaji clean dish",
+          "range": [50.0, 51.26], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Sicker than you, bigger than you, 기껏 해도 그저 B급 애들 데리고",
+      "parts": [
+        {"lyric": "Sicker than you",
+          "range": [51.26, 52.17], "ans": [5]},
+        {"lyric": "Bigger than you",
+          "range": [52.17, 52.81], "ans": [5]},
+        {"lyric": "Gikkeot haedo geujeo Bgeup aedeul derigo",
+          "range": [52.81, 54.59], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "지끈대는 것들 개 풀 뜯어 먹는 소리 하는 너의 생쇼",
+      "parts": [
+        {"lyric": "Jikkeundaeneun geotteul",
+          "range": [54.59, 55.51], "ans": [5]},
+        {"lyric": "Gae pul tteudeo meokneun sori haneun neoye saengshyo",
+          "range": [55.51, 57.67], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "시끄럽지 기품 1도 없는 잔소리들을 다 무료 배포",
+      "parts": [
+        {"lyric": "Shikkeureopji gipum ildo eomneun jansorideureul",
+          "range": [57.67, 59.96], "ans": [5]},
+        {"lyric": "Da muryo baepo",
+          "range": [59.96, 60.79], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "거절하는 중 쓸데없는 말들 고마 모두 됐어",
+      "parts": [
+        {"lyric": "Geojeolhaneun jung sseuldeeomneun maldeul",
+          "range": [60.79, 62.85], "ans": [5]},
+        {"lyric": "Goma modu dwaesseo",
+          "range": [62.85, 64.52], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I GOT IT dada naemsaenanikka jeonbu dwiro ppajyeo ppalli",
+      "lyric_hangul": "I got it, 닫아 냄새나니까 전부 뒤로 빠져 빨리",
+      "lyric_translation": "",
+      "range": [64.52, 67.55], "ans": [5]},
+    {
+      "lyric_hangul": "싸그리 치워 판 정리해 비켜 다 patient 아드레날린",
+      "parts": [
+        {"lyric": "Ssageuri chiweo pan jeongnihae",
+          "range": [67.55, 69.33], "ans": [5]},
+        {"lyric": "Bikyeo da patient adeurenallin",
+          "range": [69.33, 70.93], "ans": [5]}
+      ]
+    },
+    {"lyric": "Sosa ollaga (God God) nopi ollaga (God God)",
+      "lyric_hangul": "솟아 올라가 (God, God) 높이 올라가 (God, God)",
+      "lyric_translation": "",
+      "range": [70.93, 74.21], "ans": [5]},
+    {
+      "lyric_hangul": "그래, 더 궁시렁대봐 내 대답은, I got it, I got it (yo)",
+      "parts": [
+        {"lyric": "Geurae deo gungshireongdaebwa",
+          "range": [74.21, 75.96], "ans": [5]},
+        {"lyric": "Nae daedabeun I GOT IT, I GOT IT",
+          "range": [75.96, 77.23], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I GOT IT dada naemsaenanikka jeonbu dwiro ppajyeo ppalli",
+      "lyric_hangul": "I got it, 닫아 냄새나니까 전부 뒤로 빠져 빨리 (ooh)",
+      "lyric_translation": "",
+      "range": [77.17, 80.44], "ans": [5]},
+    {
+      "lyric_hangul": "싸그리 치워 판 정리해 비켜 다 patient 아드레날린 (ooh)",
+      "parts": [
+        {"lyric": "Ssageuri chiweo pan jeongnihae",
+          "range": [80.44, 82.12], "ans": [5]},
+        {"lyric": "Bikyeo da patient adeurenallin",
+          "range": [82.12, 83.9], "ans": [5]}
+      ]
+    },
+    {"lyric": "Sosa ollaga (God God) nopi ollaga (God God)",
+      "lyric_hangul": "솟아 올라가 (God, God) 높이 올라가 (God, God)",
+      "lyric_translation": "",
+      "range": [83.64, 87.09], "ans": [5]},
+    {
+      "lyric_hangul": "그래, 더 궁시렁대봐 내 대답은, I got it, I got it",
+      "parts": [
+        {"lyric": "Geurae deo gungshireongdaebwa",
+          "range": [87.09, 88.78], "ans": [5]},
+        {"lyric": "Nae daedabeun I GOT IT, I GOT IT",
+          "range": [88.78, 90.69], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Wae bulleo a pigonhadan mariya maeil inma",
+      "lyric_hangul": "왜 불러, 아? 피곤하단 말이야 매일 인마",
+      "lyric_translation": "",
+      "range": [90.69, 93.04], "ans": [5]},
+    {"lyric": "Chajawaseo malhaneun geo yeolshimhi da kkaeuchin daeum",
+      "lyric_hangul": "찾아와서 말하는 거 열심히 다 깨우친 다음",
+      "lyric_translation": "",
+      "range": [93.04, 95.52], "ans": [5]},
+    {
+      "lyric_hangul": "손가락질은 뭐 없어진대 감정이 풍부한, emotional man",
+      "parts": [
+        {"lyric": "Songarakjireun mweo eopseojindae",
+          "range": [95.52, 97.42], "ans": [5]},
+        {"lyric": "Gamjeongi pungbuhan emotional man",
+          "range": [96.8, 98.69], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "숭고한 조각상 위에 올려진 건 성은이 아닌 다 똥이던데 (ah, ah)",
+      "parts": [
+        {"lyric": "Sunggohan jogaksang wie ollyeojin geon",
+          "range": [98.69, 100.27], "ans": [5]},
+        {"lyric": "Seongeuni anin da ttongideonde",
+          "range": [100.27, 102.45], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Another, another 체급이 달러 내 운빨은 아마도 인생 끝까지",
+      "parts": [
+        {"lyric": "Another, another chegeubi dalleo",
+          "range": [102.34, 103.9], "ans": [5]},
+        {"lyric": "Nae unppareun amado insaeng kkeutkkaji",
+          "range": [103.9, 105.72], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "서둘러 갈 필요 없지 난 pace를 유지해 덩기덕 쿵덕 작업실",
+      "parts": [
+        {"lyric": "Seodulleo gal piryo eopji",
+          "range": [105.51, 107.09], "ans": [5]},
+        {"lyric": "Nan pacereul yujihae deonggideok kungdeok jageopshil",
+          "range": [107.09, 108.91], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "속에서 깨어난 나비 날개 마르기를 기다렸다 비행하지",
+      "parts": [
+        {"lyric": "Sogeseo kkaeeonan nabi nalgae",
+          "range": [108.75, 110.53], "ans": [5]},
+        {"lyric": "Mareugireul gidaryeotta bihaenghaji",
+          "range": [110.53, 111.99], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "흥미로운 인생에 부티를 더할 실력 자꾸 넘보지 마 귀찮거든 잔반 처리하기, ah",
+      "parts": [
+        {"lyric": "Heungmiroun insaenge butireul deohal shillyeok",
+          "range": [111.99, 113.31], "ans": [5]},
+        {"lyric": "Jakku neomboji ma",
+          "range": [113.31, 113.87], "ans": [5]},
+        {"lyric": "Gwichankeodeun janban cheorihagi",
+          "range": [113.87, 115.53], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Everytime 만들어 기적 날카롭게 잘라버려, yes, I'm a scissor",
+      "parts": [
+        {"lyric": "Every time mandeureo gijeok",
+          "range": [115.53, 116.59], "ans": [5]},
+        {"lyric": "Nalkaropge jallabeoryeo yes I’m a scissor",
+          "range": [116.59, 118.17], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "빌어먹을 비난에는 고개 안 숙여 빗발쳐라 손가락질해도 안 무서워",
+      "parts": [
+        {"lyric": "Bireomeogeul binaneneun gogae an sugyeo",
+          "range": [117.96, 119.7], "ans": [5]},
+        {"lyric": "Bitbalchyeora songarakjilhaedo an museoweo",
+          "range": [119.7, 121.5], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "애도 아니고 난 팔리지 않아 쪽 가담하지 위험한 도전 또 엄청난 걸 창조해",
+      "parts": [
+        {"lyric": "Aedo anigo nan palliji ana jjok gadamhaji",
+          "range": [121.15, 123.05], "ans": [5]},
+        {"lyric": "Wiheomhan dojeon tto eomcheongnan geol changjohae",
+          "range": [123.05, 125.05], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "욕심부리며 이것저것 다 해 먹어 밥그릇 뺏어 어차피 없거든 나한테 손해",
+      "parts": [
+        {"lyric": "Yokshimburimyeo igeotjeogeot da hae meogeo",
+          "range": [125.02, 126.47], "ans": [5]},
+        {"lyric": "Bapgeureut ppaeseo",
+          "range": [126.47, 127.07], "ans": [5]},
+        {"lyric": "Eochapi eopgeodeun nahante sonhae",
+          "range": [127.07, 128.5], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I GOT IT dada naemsaenanikka jeonbu dwiro ppajyeo ppalli",
+      "lyric_hangul": "I got it, 닫아 냄새나니까 전부 뒤로 빠져 빨리",
+      "lyric_translation": "",
+      "range": [128.5, 131.62], "ans": [5]},
+    {
+      "lyric_hangul": "싸그리 치워 판 정리해 비켜 다 patient 아드레날린",
+      "parts": [
+        {"lyric": "Ssageuri chiweo pan jeongnihae",
+          "range": [131.62, 133.31], "ans": [5]},
+        {"lyric": "Bikyeo da patient adeurenallin",
+          "range": [133.31, 134.93], "ans": [5]}
+      ]
+    },
+    {"lyric": "Sosa ollaga (God God) nopi ollaga (God God)",
+      "lyric_hangul": "솟아 올라가 (God, God) 높이 올라가 (God, God)",
+      "lyric_translation": "",
+      "range": [134.93, 138.25], "ans": [5]},
+    {
+      "lyric_hangul": "그래, 더 궁시렁대봐 내 대답은, I got it, I got it (yo)",
+      "parts": [
+        {"lyric": "Geurae deo gungshireongdaebwa",
+          "range": [138.25, 139.96], "ans": [5]},
+        {"lyric": "Nae daedabeun I GOT IT, I GOT IT",
+          "range": [139.96, 141.21], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I GOT IT dada naemsaenanikka jeonbu dwiro ppajyeo ppalli",
+      "lyric_hangul": "I got it, 닫아 냄새나니까 전부 뒤로 빠져 빨리 (ooh)",
+      "lyric_translation": "",
+      "range": [141.16, 144.44], "ans": [5]},
+    {
+      "lyric_hangul": "싸그리 치워 판 정리해 비켜 다 patient 아드레날린 (ooh)",
+      "parts": [
+        {"lyric": "Ssageuri chiweo pan jeongnihae",
+          "range": [144.44, 146.12], "ans": [5]},
+        {"lyric": "Bikyeo da patient adeurenallin",
+          "range": [146.12, 147.92], "ans": [5]}
+      ]
+    },
+    {"lyric": "Sosa ollaga (God God) nopi ollaga (God God)",
+      "lyric_hangul": "솟아 올라가 (God, God) 높이 올라가 (God, God)",
+      "lyric_translation": "",
+      "range": [147.71, 151.04], "ans": [5]},
+    {
+      "lyric_hangul": "그래, 더 궁시렁대봐 내 대답은, I got it, I got it",
+      "parts": [
+        {"lyric": "Geurae deo gungshireongdaebwa",
+          "range": [151.04, 152.78], "ans": [5]},
+        {"lyric": "Nae daedabeun I GOT IT, I GOT IT",
+          "range": [152.78, 153.84], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Hello neomu ppareun geo animnikka",
+      "lyric_hangul": "Hello, 너무 빠른 거 아닙니까",
+      "lyric_translation": "",
+      "range": [153.84, 156.68], "ans": [5]},
+    {
+      "lyric_hangul": "천천히 하면 랩 못해서 그런 거지 넌 백날",
+      "parts": [
+        {"lyric": "Cheoncheonhi hamyeon raep mothaeseo",
+          "range": [156.68, 158.44], "ans": [5]},
+        {"lyric": "Geureon geoji neon baengnal",
+          "range": [158.44, 160.17], "ans": [5]}
+      ]
+    },
+    {"lyric": "Shikkeureoun sori ttaekttaek hago gwi apa jukgetta ya",
+      "lyric_hangul": "시끄러운 소리 땍땍 하고 귀 아파 죽겠다, 야",
+      "lyric_translation": "",
+      "range": [160.17, 163.46], "ans": [5]},
+    {"lyric": "Ijen neo byeolloya nae mame byeollo ya",
+      "lyric_hangul": "이젠 너 별로야 내 맘에 별로, 야",
+      "lyric_translation": "",
+      "range": [163.46, 168.92], "ans": [5]}
+  ]
+}

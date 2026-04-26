@@ -1,0 +1,305 @@
+{
+  "name": "LOVE FOOLISH\r",
+  "ogg": "sound/kpop/love_foolish.ogg",
+  "id": "love-foolish",
+  "group": "twice",
+  "language": "ko",
+  "released": "2019-09-23",
+  "album": "Feel Special",
+  "cover": "css/images/covers/love-foolish.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:27Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Maeil maeil ne ireumeul bulleosseo",
+      "lyric_hangul": "매일 매일 네 이름을 불렀어",
+      "lyric_translation": "I called your name every day",
+      "range": [16.59, 20.17], "ans": [1]},
+    {"lyric": "Cheon beonjeum cheonman beonjeum",
+      "lyric_hangul": "천 번쯤 천만 번쯤",
+      "lyric_translation": "A thousand times, ten million times",
+      "range": [20.17, 24.72], "ans": [1]},
+    {"lyric": "Neoye gwie daki jeone Cut and rewind",
+      "lyric_hangul": "너의 귀에 닿기 전에 cut and rewind",
+      "lyric_translation": "Cut and rewind before it reaches your ears",
+      "range": [24.72, 30.7], "ans": [6]},
+    {"lyric": "Why can’t you be mine yeah",
+      "lyric_hangul": "Why can't you be mine? Yeah",
+      "lyric_translation": "Why can’t you be mine yeah",
+      "range": [30.7, 33.13], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Ooh 나를 빙빙 돌게 만든 건 it's you",
+      "lyric_translation": "(Ooh) who makes me spin",
+      "parts": [
+        {"lyric": "(Ooh)",
+          "range": [33.13, 36.08], "ans": [8]},
+        {"lyric": "Nareul bingbing dolge mandeun geon",
+          "range": [35.38, 39.24], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Just round and round and round and around you",
+      "lyric_translation": "(It’s you) Just round and round and round and",
+      "parts": [
+        {"lyric": "(It’s you)",
+          "range": [39.24, 40.42], "ans": [8]},
+        {"lyric": "Just round and round and round and",
+          "range": [39.72, 43.6], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "매일 반복되는 midnight promise",
+      "lyric_translation": "(Around you) Repeated everyday Midnight promise",
+      "parts": [
+        {"lyric": "(Around you)",
+          "range": [43.6, 45.09], "ans": [8]},
+        {"lyric": "Maeil banbokdweneun Midnight promise",
+          "range": [44.39, 46.04], "ans": [2]}
+      ]
+    },
+    {"lyric": "I don’t know what to do",
+      "lyric_hangul": "I don't know what to do",
+      "lyric_translation": "I don’t know what to do",
+      "range": [45.92, 49.58], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "(Crazy love) I love you, love you, hate, foolish",
+      "lyric_translation": "(Crazy love) I love you, love you, hate, foolish",
+      "parts": [
+        {"lyric": "(Crazy love)",
+          "range": [49.58, 50.57], "ans": []},
+        {"lyric": "I love you, love you, hate, foolish",
+          "range": [49.87, 53.87], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Crazy love) I love you, make me feel so high",
+      "lyric_translation": "(Crazy love) I love you / Make me feel so high",
+      "parts": [
+        {"lyric": "(Crazy love)",
+          "range": [53.87, 54.38], "ans": []},
+        {"lyric": "I love you",
+          "range": [53.92, 56.54], "ans": [8]},
+        {"lyric": "Make me feel so high",
+          "range": [55.84, 58.45], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Love) I love you, love you, hate, foolish",
+      "lyric_translation": "(Love) I love you, love you, hate, foolish",
+      "parts": [
+        {"lyric": "(Love)",
+          "range": [58.42, 59.56], "ans": []},
+        {"lyric": "I love you, love you, hate, foolish",
+          "range": [58.86, 62.2], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Crazy love) I hate you, make me so bad",
+      "lyric_translation": "(Crazy love) I hate you / Make me so bad",
+      "parts": [
+        {"lyric": "(Crazy love)",
+          "range": [62.2, 62.97], "ans": []},
+        {"lyric": "I hate you",
+          "range": [62.27, 64.94], "ans": [8]},
+        {"lyric": "Make me so bad",
+          "range": [64.24, 66.24], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Isanghae nege ppajyeodeulsurok",
+      "lyric_hangul": "이상해 네게 빠져들수록",
+      "lyric_translation": "It’s weird the more I fall for you,",
+      "range": [66.0, 70.19], "ans": [1]},
+    {"lyric": "Mianhae neoreul miweohage dwae",
+      "lyric_hangul": "미안해 너를 미워하게 돼",
+      "lyric_translation": "I’m sorry. I hate you more",
+      "range": [70.19, 74.85], "ans": [1]},
+    {"lyric": "Nado nal moreugesseo seolmyeongi andwae",
+      "lyric_hangul": "나도 날 모르겠어 설명이 안돼",
+      "lyric_translation": "I don’t know what’s going on, I can’t explain it",
+      "range": [74.85, 78.68], "ans": [5]},
+    {
+      "lyric_hangul": "갇혔어 이 낯선 감정 속 미로에",
+      "lyric_translation": "I’m trapped in a labyrinth of strange emotions / (Umm)",
+      "parts": [
+        {"lyric": "Gachyeosseo i nasseon gamjeong sok miroe",
+          "range": [78.68, 83.76], "ans": [5]},
+        {"lyric": "(Umm)",
+          "range": [83.06, 84.07], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Hmm) 어김없이 끌려들어 yes me",
+      "lyric_translation": "Yeah, I’m the one who’s always dragged Yes me / (Umm Umm)",
+      "parts": [
+        {"lyric": "Eogimeopshi kkeullyeodeureo Yes me",
+          "range": [84.07, 87.15], "ans": [7]},
+        {"lyric": "(Umm umm)",
+          "range": [87.15, 87.75], "ans": [7]}
+      ]
+    },
+    {"lyric": "I want to give you permission, That’s me",
+      "lyric_hangul": "(Hmm-hmm) I want to give you permission, that's me",
+      "lyric_translation": "I want to give you permission, That’s me",
+      "range": [87.75, 91.54], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "내가 많이 아니 너를 많이 아니",
+      "lyric_translation": "Do I know a lot? / Do I know you a lot?",
+      "parts": [
+        {"lyric": "Naega mani ani",
+          "range": [91.54, 93.84], "ans": [3]},
+        {"lyric": "Neoreul mani ani",
+          "range": [93.84, 96.24], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "말하지 않을래 for myself 할수록 해로워 toxic love",
+      "lyric_translation": "I’d rather not say For myself / The more you do, the more harmful it is Toxic love",
+      "parts": [
+        {"lyric": "Malhaji aneullae For myself",
+          "range": [96.24, 98.28], "ans": [3]},
+        {"lyric": "Halsurok haeroweo Toxic love",
+          "range": [98.28, 100.3], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "You 네가 기쁠 때 난 슬퍼져",
+      "lyric_translation": "(You) When you’re happy, I’m sad",
+      "parts": [
+        {"lyric": "(You)",
+          "range": [100.04, 100.92], "ans": [9]},
+        {"lyric": "Nega gippeul ttae nan seulpeojyeo",
+          "range": [100.92, 104.5], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "It's so ironic-ronic-ronic, yeah, it's true",
+      "lyric_translation": "(It’s so) Ironic ronic ronic",
+      "parts": [
+        {"lyric": "(It’s so)",
+          "range": [104.5, 108.09], "ans": [9]},
+        {"lyric": "Ironic ronic ronic",
+          "range": [107.39, 110.18], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "역시 달콤한 건 위험했어",
+      "lyric_translation": "(Yeah it’s true) The sweet ones were dangerous in the end",
+      "parts": [
+        {"lyric": "(Yeah it’s true)",
+          "range": [110.18, 111.41], "ans": [9]},
+        {"lyric": "Yeokshi dalkomhan geon wiheomhaesseo",
+          "range": [110.71, 113.36], "ans": [4]}
+      ]
+    },
+    {"lyric": "I know, I was a fool",
+      "lyric_hangul": "I know, I was a fool",
+      "lyric_translation": "I know I was a fool",
+      "range": [113.36, 116.21], "ans": [9]},
+    "",
+    {"lyric": "Isanghae nege ppajyeodeulsurok",
+      "lyric_hangul": "이상해 네게 빠져들수록",
+      "lyric_translation": "It’s weird the more I fall for you,",
+      "range": [116.21, 120.37], "ans": [1]},
+    {"lyric": "Mianhae neoreul miweohage dwae",
+      "lyric_hangul": "미안해 너를 미워하게 돼",
+      "lyric_translation": "I’m sorry. I hate you more",
+      "range": [120.37, 124.92], "ans": [1]},
+    {"lyric": "Nado nal moreugesseo seolmyeongi andwae",
+      "lyric_hangul": "나도 날 모르겠어 설명이 안돼",
+      "lyric_translation": "I don’t know what’s going on, I can’t explain it",
+      "range": [124.92, 128.82], "ans": [5]},
+    {"lyric": "Gachyeosseo i nasseon gamjeong sok miroe",
+      "lyric_hangul": "갇혔어 이 낯선 감정 속 미로에",
+      "lyric_translation": "I’m trapped in a labyrinth of strange emotions",
+      "range": [128.82, 133.94], "ans": [5]},
+    "",
+    {"lyric": "Nuneul gamgoseo",
+      "lyric_hangul": "눈을 감고서",
+      "lyric_translation": "With one’s eyes closed",
+      "range": [133.94, 142.06], "ans": [6]},
+    {"lyric": "Neol geurigiman haedo I’m excited",
+      "lyric_hangul": "널 그리기만 해도 I'm excited",
+      "lyric_translation": "Just by drawing you I’m excited",
+      "range": [142.06, 146.33], "ans": [6]},
+    {
+      "lyric_hangul": "My foolish heart, ooh, yeah",
+      "lyric_translation": "My foolish heart (Ooh yeah)",
+      "parts": [
+        {"lyric": "My foolish heart",
+          "range": [146.33, 148.59], "ans": [6]},
+        {"lyric": "(Ooh yeah)",
+          "range": [148.59, 150.89], "ans": [1]}
+      ]
+    },
+    {"lyric": "I love you, love you, hate, foolish",
+      "lyric_hangul": "I love you, love you, hate, foolish",
+      "lyric_translation": "I love you, love you, hate, foolish",
+      "range": [150.89, 153.68], "ans": [2]},
+    "",
+    {"lyric": "Isanghae nege ppajyeodeulsurok",
+      "lyric_hangul": "이상해 네게 빠져들수록",
+      "lyric_translation": "It’s weird the more I fall for you,",
+      "range": [153.68, 157.72], "ans": [1]},
+    {"lyric": "Mianhae neoreul miweohage dwae",
+      "lyric_hangul": "미안해 너를 미워하게 돼",
+      "lyric_translation": "I’m sorry. I hate you more",
+      "range": [157.72, 162.12], "ans": [1]},
+    {"lyric": "Nado nal moreugesseo seolmyeongi andwae",
+      "lyric_hangul": "나도 날 모르겠어 설명이 안돼",
+      "lyric_translation": "I don’t know what’s going on, I can’t explain it",
+      "range": [162.12, 166.28], "ans": [5]},
+    {"lyric": "Gachyeosseo i nasseon gamjeong sok miroe",
+      "lyric_hangul": "갇혔어 이 낯선 감정 속 미로에",
+      "lyric_translation": "I’m trapped in a labyrinth of strange emotions",
+      "range": [166.28, 170.57], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "(Crazy love) I love you, love you, hate, foolish",
+      "lyric_translation": "(Love) I love you, love you, hate, foolish",
+      "parts": [
+        {"lyric": "(Love)",
+          "range": [170.57, 171.87], "ans": []},
+        {"lyric": "I love you, love you, hate, foolish",
+          "range": [171.17, 174.94], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Crazy love) I love you, I love–",
+      "lyric_translation": "(Crazy love) I love you",
+      "parts": [
+        {"lyric": "(Crazy love)",
+          "range": [174.94, 175.43], "ans": []},
+        {"lyric": "I love you",
+          "range": [176.12, 179.52], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Love) I love you, love you, hate, foolish",
+      "lyric_translation": "(Love) I love you, love you, hate, foolish",
+      "parts": [
+        {"lyric": "(Love)",
+          "range": [179.52, 180.62], "ans": []},
+        {"lyric": "I love you, love you, hate, foolish",
+          "range": [179.92, 183.76], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Crazy love) I hate you",
+      "lyric_translation": "(Crazy love) I hate you",
+      "parts": [
+        {"lyric": "(Crazy love)",
+          "range": [183.76, 185.5], "ans": []},
+        {"lyric": "I hate you",
+          "range": [184.8, 187.46], "ans": [8]}
+      ]
+    }
+  ]
+}

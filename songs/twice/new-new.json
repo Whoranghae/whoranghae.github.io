@@ -1,0 +1,341 @@
+{
+  "name": "NEW NEW\r",
+  "ogg": "sound/kpop/new_new.ogg",
+  "id": "new-new",
+  "group": "twice",
+  "language": "ko",
+  "released": "2024-02-23",
+  "album": "With YOU-th",
+  "cover": "css/images/covers/new-new.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:29Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "It’s a new day",
+      "lyric_hangul": "It's a new day",
+      "lyric_translation": "N/A",
+      "range": [7.04, 9.36], "ans": [1]},
+    {
+      "lyric_hangul": "너만이 가진 빛으로 불러줄 때, oh yeah",
+      "parts": [
+        {"lyric": "Neomani gajin bicheuro",
+          "range": [9.36, 11.14], "ans": [1]},
+        {"lyric": "Bulleojul ttae Oh yeah",
+          "range": [11.14, 14.79], "ans": [1]}
+      ]
+    },
+    {"lyric": "Feeling so fresh",
+      "lyric_hangul": "Feeling so fresh",
+      "lyric_translation": "",
+      "range": [14.79, 16.95], "ans": [6]},
+    {
+      "lyric_hangul": "널 가득 느껴갈수록 새로워진 날 마주해 난",
+      "parts": [
+        {"lyric": "Neol gadeuk neukkyeogalsurok",
+          "range": [16.95, 19.01], "ans": [6]},
+        {"lyric": "Saeroweojin nal majuhae nan",
+          "range": [19.01, 23.49], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Now, I can hear you calling (you calling)",
+      "parts": [
+        {"lyric": "Now I can hear you calling",
+          "range": [23.49, 25.06], "ans": [2]},
+        {"lyric": "(You calling)",
+          "range": [24.36, 25.3], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Sending out that big loving (come, get it)",
+      "parts": [
+        {"lyric": "Sending out that big loving",
+          "range": [25.3, 26.92], "ans": [2]},
+        {"lyric": "(Come get it)",
+          "range": [26.22, 27.18], "ans": [8]}
+      ]
+    },
+    {"lyric": "Think I did me some growing up",
+      "lyric_hangul": "Think I did me some growing up",
+      "lyric_translation": "",
+      "range": [27.18, 28.66], "ans": [7]},
+    {
+      "lyric_hangul": "Everyday, I been showing up (that's right)",
+      "parts": [
+        {"lyric": "Everyday I been showing up",
+          "range": [28.66, 30.95], "ans": [7]},
+        {"lyric": "(That’s right)",
+          "range": [30.25, 31.08], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "다시 태어나 새로 (you want it), 달려가 너에게로 (let's go)",
+      "parts": [
+        {"lyric": "Dashi taeeona saero",
+          "range": [31.08, 32.68], "ans": [3]},
+        {"lyric": "(You want it)",
+          "range": [31.98, 33.41], "ans": [8]},
+        {"lyric": "Dallyeoga neoegero",
+          "range": [32.71, 34.6], "ans": [3]},
+        {"lyric": "(Let’s go)",
+          "range": [33.92, 34.65], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "새로운 설렘이 스며와, it's all I need (it's all I need)",
+      "parts": [
+        {"lyric": "Saeroun seollemi seumyeowa",
+          "range": [34.65, 36.43], "ans": [5]},
+        {"lyric": "It’s all I need",
+          "range": [36.43, 37.52], "ans": [5]},
+        {"lyric": "(It’s all I need)",
+          "range": [36.82, 38.17], "ans": [8]}
+      ]
+    },
+    {"lyric": "Got that new, new, new, got that fresh, fresh, fresh",
+      "lyric_hangul": "Got that new, new, new, got that fresh, fresh, fresh",
+      "lyric_translation": "",
+      "range": [53.26, 57.49], "ans": []},
+    {"lyric": "Every single thing I do (all that I do)",
+      "lyric_hangul": "Every single thing I do (all that I do)",
+      "lyric_translation": "",
+      "range": [61.85, 65.21], "ans": []},
+    {"lyric": "Every single thing I do (all that I do)",
+      "lyric_hangul": "Every single thing I do (all that I do)",
+      "lyric_translation": "",
+      "range": [77.16, 80.2], "ans": []},
+    {"lyric": "I do it all because of you, giving that new, new",
+      "lyric_hangul": "I do it all because of you, giving that new, new",
+      "lyric_translation": "",
+      "range": [80.2, 84.71], "ans": []},
+    "",
+    {"lyric": "So good, I don’t hesitate",
+      "lyric_hangul": "So good, I don't hesitate",
+      "lyric_translation": "",
+      "range": [84.71, 86.09], "ans": [8]},
+    {"lyric": "Cause I’m ’bout to blow your mind",
+      "lyric_hangul": "'Cause I'm 'bout to blow your mind",
+      "lyric_translation": "",
+      "range": [86.09, 88.36], "ans": [8]},
+    {"lyric": "Better hold tight, it’s a tidal wave",
+      "lyric_hangul": "Bettеr hold tight, it's a tidal wave (yeah)",
+      "lyric_translation": "",
+      "range": [88.36, 90.11], "ans": [8]},
+    {"lyric": "Nolla i sunganeul notchigi jeone (Let’s go)",
+      "lyric_hangul": "놀라 이 순간을 놓치기 전에 (let's go)",
+      "lyric_translation": "",
+      "range": [90.11, 92.15], "ans": [8]},
+    {"lyric": "Take it, take it, it’s a new thing",
+      "lyric_hangul": "Takе it, take it, it's a new thing",
+      "lyric_translation": "",
+      "range": [92.15, 94.53], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "You’re here with me, it’s a good thing",
+      "lyric_hangul": "You're here with me, it's a good thing",
+      "lyric_translation": "",
+      "range": [94.53, 95.67], "ans": [2]},
+    {"lyric": "Nal byeonhwashigin neoin geol",
+      "lyric_hangul": "날 변화시킨 너인 걸",
+      "lyric_translation": "",
+      "range": [95.67, 98.6], "ans": [7]},
+    {"lyric": "New uri hamkkeramyeon",
+      "lyric_hangul": "(Hehe) new, 우리 함께라면",
+      "lyric_translation": "",
+      "range": [98.6, 99.8], "ans": [7]},
+    {"lyric": "Stepping in the breeze ssodajineun bit",
+      "lyric_hangul": "Stepping in the breeze, 쏟아지는 빛",
+      "lyric_translation": "",
+      "range": [99.8, 103.02], "ans": [6]},
+    {
+      "lyric_hangul": "따스함에 더 가까이, baby, ain't nobody like you",
+      "parts": [
+        {"lyric": "Ttaseuhame deo gakkai",
+          "range": [103.02, 104.02], "ans": [6]},
+        {"lyric": "Baby, ain’t nobody like you",
+          "range": [104.02, 105.46], "ans": [6]},
+        {"lyric": "Ttaseuhame deo gakkai",
+          "range": [105.46, 106.46], "ans": [6]},
+        {"lyric": "Baby, ain’t nobody like you",
+          "range": [106.46, 107.38], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Meomchweobeorin gateun sesang sok",
+      "lyric_hangul": "(Oh, whoa) 멈춰버린 같은 세상 속",
+      "lyric_translation": "",
+      "range": [106.74, 111.12], "ans": [1]},
+    "",
+    {"lyric": "Neoro inhae oneuldo dallajeo Oh ireoke",
+      "lyric_hangul": "너로 인해 오늘도 달라져, oh, 이렇게 (whoo)",
+      "lyric_translation": "",
+      "range": [111.12, 114.56], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "Got that new, new, new, got that fresh, fresh, fresh",
+      "parts": [
+        {"lyric": "Got that new, new, new",
+          "range": [114.56, 116.12], "ans": [4]},
+        {"lyric": "Got that fresh, fresh, fresh",
+          "range": [116.12, 117.49], "ans": [4]},
+        {"lyric": "Got that new, new, new",
+          "range": [116.79, 117.99], "ans": [3]},
+        {"lyric": "Got that fresh, fresh, fresh",
+          "range": [117.99, 118.72], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Feel that beat, beat, beat, 매일 새롭게",
+      "parts": [
+        {"lyric": "Feel that beat, beat, beat",
+          "range": [118.72, 120.2], "ans": [4]},
+        {"lyric": "Maeil saeropge",
+          "range": [120.2, 121.38], "ans": [4]},
+        {"lyric": "Feel that beat, beat, beat",
+          "range": [120.68, 122.52], "ans": [3]},
+        {"lyric": "Maeil saeropge",
+          "range": [122.52, 123.34], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Every single thing I do (all that I do)",
+      "parts": [
+        {"lyric": "Every single thing I do",
+          "range": [123.34, 124.35], "ans": [1]},
+        {"lyric": "(All that I do)",
+          "range": [123.65, 124.77], "ans": [9]},
+        {"lyric": "Every single thing I do",
+          "range": [124.07, 126.29], "ans": [1]},
+        {"lyric": "(All that I do)",
+          "range": [125.59, 127.06], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "너로 완성되는 꿈 (yeah, yeah)",
+      "parts": [
+        {"lyric": "Neoro wanseongdweneun kkum",
+          "range": [127.06, 127.85], "ans": [1]},
+        {"lyric": "Cause I know you’re making me shine",
+          "range": [127.15, 128.69], "ans": [3]},
+        {"lyric": "Neoro wanseongdweneun kkum",
+          "range": [127.99, 130.54], "ans": [1]},
+        {"lyric": "Yeah yeah",
+          "range": [129.84, 130.89], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "It’s something, it’s something new",
+      "lyric_hangul": "It's something, it's something new",
+      "lyric_translation": "",
+      "range": [130.89, 133.47], "ans": [9]},
+    {
+      "lyric_hangul": "새로운 나로 또 변해가, look into my eyes, baby",
+      "parts": [
+        {"lyric": "Saeroun naro tto byeonhaega",
+          "range": [133.47, 135.73], "ans": [6]},
+        {"lyric": "Look into my eyes baby",
+          "range": [135.73, 138.29], "ans": [6]}
+      ]
+    },
+    {"lyric": "Feeling so, feeling so good",
+      "lyric_hangul": "Feeling so, feeling so good",
+      "lyric_translation": "",
+      "range": [138.29, 141.25], "ans": [9]},
+    {
+      "lyric_hangul": "몰랐던 너와 날 찾아가, and we ain't stoppin' for no one",
+      "parts": [
+        {"lyric": "Mollatteon neowa nal chajaga",
+          "range": [141.25, 143.45], "ans": [5]},
+        {"lyric": "And we ain’t stoppin’ for no one",
+          "range": [143.45, 145.65], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Got that new, new, new, got that fresh, fresh, fresh (oh, whoa)",
+      "parts": [
+        {"lyric": "Got that new, new, new",
+          "range": [145.42, 148.12], "ans": [4]},
+        {"lyric": "Got that fresh, fresh, fresh",
+          "range": [148.12, 150.13], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Feel that beat, beat, beat, 매일 새롭게 (whoa, whoa, whoa)",
+      "parts": [
+        {"lyric": "Feel that beat, beat, beat",
+          "range": [149.63, 152.09], "ans": [4]},
+        {"lyric": "Maeil saeropge",
+          "range": [152.09, 154.44], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Every single thing I do (all that I do)",
+      "parts": [
+        {"lyric": "Every single thing I do",
+          "range": [153.97, 156.02], "ans": [1]},
+        {"lyric": "(All that I do)",
+          "range": [155.32, 157.71], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "너로 완성되는 꿈 ('cause I know you're making me shine)",
+      "parts": [
+        {"lyric": "Neoro wanseongdweneun kkum",
+          "range": [157.71, 159.38], "ans": [1]},
+        {"lyric": "Cause I know you’re making me shine",
+          "range": [158.68, 162.03], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "끝없이 새로워져 like brand new days (널 닿은 순간)",
+      "parts": [
+        {"lyric": "Kkeudeopshi saeroweojeo Like brand new days",
+          "range": [162.03, 163.68], "ans": [5]},
+        {"lyric": "Neol daeun sungan",
+          "range": [163.12, 164.08], "ans": [3]},
+        {"lyric": "Kkeudeopshi saeroweojeo Like brand new days",
+          "range": [163.38, 165.36], "ans": [5]},
+        {"lyric": "Neol daeun sungan",
+          "range": [164.66, 165.83], "ans": [3]}
+      ]
+    },
+    {"lyric": "Machi cheoeum gateun seollemeul neukkyeo",
+      "lyric_hangul": "마치 처음 같은 설렘을 느껴 (oh, yeah)",
+      "lyric_translation": "",
+      "range": [165.83, 169.56], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "Every single thing I do (all that I do)",
+      "parts": [
+        {"lyric": "Every single thing I do",
+          "range": [169.2, 170.41], "ans": [2]},
+        {"lyric": "(All that I do)",
+          "range": [169.71, 170.81], "ans": [9]},
+        {"lyric": "Every single thing I do",
+          "range": [170.11, 172.41], "ans": [2]},
+        {"lyric": "(All that I do)",
+          "range": [171.71, 173.22], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "I do it all because of you, giving that new, new (hehehe)",
+      "parts": [
+        {"lyric": "I do it all because of you",
+          "range": [172.34, 174.57], "ans": [2]},
+        {"lyric": "Giving that new new",
+          "range": [173.87, 174.9], "ans": [4]},
+        {"lyric": "I do it all because of you",
+          "range": [175.46, 177.32], "ans": [2]},
+        {"lyric": "Giving that new new",
+          "range": [176.62, 179.66], "ans": [4]}
+      ]
+    },
+    ""
+  ]
+}

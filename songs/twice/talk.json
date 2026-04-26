@@ -1,0 +1,346 @@
+{
+  "name": "TALK (NAYEON & JIHYO)\r",
+  "ogg": "sound/kpop/talk.ogg",
+  "id": "talk",
+  "group": "twice",
+  "language": "en",
+  "released": "2025-07-11",
+  "album": "THIS IS FOR",
+  "cover": "css/images/covers/talk.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:49Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah",
+      "lyric_hangul": "Yeah",
+      "lyric_translation": "",
+      "range": [0.5, 2.53], "ans": []},
+    {"lyric": "Mm, mm",
+      "lyric_hangul": "Mm, mm",
+      "lyric_translation": "",
+      "range": [2.53, 6.15], "ans": []},
+    {"lyric": "Yeah umm talk to me talk to me",
+      "lyric_hangul": "Talk to me, talk to me",
+      "lyric_translation": "",
+      "range": [6.15, 8.82], "ans": [5]},
+    "",
+    {"lyric": "Why my messages ain’t goin through tonight",
+      "lyric_hangul": "Why my messages ain't goin' through tonight?",
+      "lyric_translation": "",
+      "range": [8.82, 13.77], "ans": [1]},
+    {"lyric": "Got me panicking I want you by my side",
+      "lyric_hangul": "Got me panicking, I want you by my side",
+      "lyric_translation": "",
+      "range": [13.77, 18.16], "ans": [1]},
+    {
+      "lyric_hangul": "'Cause I'm not better alone, not better alone, ooh",
+      "parts": [
+        {"lyric": "Cause I’m not better alone",
+          "range": [18.16, 20.25], "ans": [5]},
+        {"lyric": "Not better alone ooh",
+          "range": [20.25, 23.33], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, pick up the phone, I'm missin' your tone, ooh",
+      "parts": [
+        {"lyric": "Baby pick up the phone",
+          "range": [23.33, 25.06], "ans": [5]},
+        {"lyric": "I’m missin your tone oh",
+          "range": [25.06, 26.47], "ans": [5]}
+      ]
+    },
+    {"lyric": "Now I’m having flashbacks",
+      "lyric_hangul": "Now I'm having flashbacks, whoa",
+      "lyric_translation": "",
+      "range": [26.38, 28.96], "ans": [5]},
+    "",
+    {"lyric": "Feel like I’m on replay",
+      "lyric_hangul": "I feel like I'm on replay",
+      "lyric_translation": "",
+      "range": [28.96, 31.04], "ans": [1]},
+    {
+      "lyric_hangul": "Every sound, every word, like a DJ, ah, yeah",
+      "parts": [
+        {"lyric": "Every sound every word",
+          "range": [31.04, 32.23], "ans": [1]},
+        {"lyric": "Like a DJ ah yeah",
+          "range": [32.23, 34.14], "ans": [1]}
+      ]
+    },
+    {"lyric": "Easier to just say that you care no no",
+      "lyric_hangul": "Easier to just say that you care, no, no",
+      "lyric_translation": "",
+      "range": [34.14, 38.45], "ans": [1]},
+    {"lyric": "Now I gotta replay",
+      "lyric_hangul": "Now I gotta replay",
+      "lyric_translation": "",
+      "range": [38.45, 40.67], "ans": [5]},
+    {"lyric": "All the times that you went did me dirty no no",
+      "lyric_hangul": "All the times that you went, and did me dirty, no, no",
+      "lyric_translation": "",
+      "range": [40.67, 43.88], "ans": [5]},
+    {
+      "lyric_hangul": "If the roles were reversed, would you still put me first, mm?",
+      "parts": [
+        {"lyric": "If the roles were reversed",
+          "range": [43.88, 45.56], "ans": [5]},
+        {"lyric": "Would you still put me first",
+          "range": [45.56, 47.1], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Why can't you just talk, talk, talk, talk, talk, talk, talk to me?",
+      "parts": [
+        {"lyric": "Why can’t you just talk talk talk talk",
+          "range": [46.8, 48.42], "ans": [1]},
+        {"lyric": "Talk talk talk to me",
+          "range": [48.04, 49.97], "ans": [1]},
+        {"lyric": "Baby know that you can talk",
+          "range": [49.27, 50.68], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Baby, know that you can talk)",
+      "lyric_hangul": "(Baby, know that you can talk)",
+      "lyric_translation": "",
+      "range": [50.68, 51.46], "ans": []},
+    {
+      "lyric_hangul": "You ain't gotta walk, walk, walk, walk, walk, walk, walk on me",
+      "parts": [
+        {"lyric": "You ain’t gotta walk walk walk walk",
+          "range": [51.46, 53.52], "ans": [1]},
+        {"lyric": "Walk walk walk on me",
+          "range": [53.52, 54.53], "ans": [1]},
+        {"lyric": "Trust me you ain’t gotta walk",
+          "range": [53.83, 55.32], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Trust me, you ain't gotta walk)",
+      "lyric_hangul": "(Trust me, you ain't gotta walk)",
+      "lyric_translation": "",
+      "range": [55.28, 56.86], "ans": []},
+    {
+      "lyric_hangul": "Always gon' love you down, stuck around, don't be actin' shady",
+      "parts": [
+        {"lyric": "Always gon love you down",
+          "range": [56.86, 58.85], "ans": [1]},
+        {"lyric": "Stuck around don’t be actin shady",
+          "range": [58.85, 62.28], "ans": [1]}
+      ]
+    },
+    {"lyric": "Talk talk talk talk talk talk talk to me",
+      "lyric_hangul": "Talk, talk, talk, talk, talk, talk, talk to me",
+      "lyric_translation": "",
+      "range": [62.28, 64.66], "ans": [5]},
+    {"lyric": "Talk to me talk to me",
+      "lyric_hangul": "Talk to me, talk to me",
+      "lyric_translation": "",
+      "range": [64.66, 68.04], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "We were friends, first of all, don't you lie, use your eyes, call me right to ya",
+      "parts": [
+        {"lyric": "We were friends first of all don’t you lie",
+          "range": [68.04, 69.97], "ans": [5]},
+        {"lyric": "Read your eyes call me right to you",
+          "range": [69.97, 73.37], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Just cut me some slack, ain't stupid like that, ah, yeah",
+      "parts": [
+        {"lyric": "Just cut me some slack",
+          "range": [73.37, 74.8], "ans": [5]},
+        {"lyric": "Ain’t stupid like that ah yeah",
+          "range": [74.8, 77.57], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I could feel everything, over time, overthink",
+      "parts": [
+        {"lyric": "I could feel everything",
+          "range": [77.57, 79.3], "ans": [1]},
+        {"lyric": "Over time overthink",
+          "range": [79.3, 80.43], "ans": [1]}
+      ]
+    },
+    {"lyric": "I can see through ya",
+      "lyric_hangul": "I can see through ya, uh-huh",
+      "lyric_translation": "",
+      "range": [80.26, 83.75], "ans": [1]},
+    {"lyric": "A woman’s intuition ain’t never wrong no",
+      "lyric_hangul": "A woman's intuition ain't never wrong, no",
+      "lyric_translation": "",
+      "range": [83.75, 87.03], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Feel like I’m on replay",
+      "lyric_hangul": "I feel like I'm on replay (replay)",
+      "lyric_translation": "",
+      "range": [87.03, 88.58], "ans": [5]},
+    {
+      "lyric_hangul": "Every sound, every word, like a DJ, ah, yeah (ah, yeah)",
+      "parts": [
+        {"lyric": "Every sound every word",
+          "range": [88.58, 89.83], "ans": [5]},
+        {"lyric": "Like a DJ ah yeah",
+          "range": [89.83, 92.01], "ans": [5]}
+      ]
+    },
+    {"lyric": "Easier to just say that you care no",
+      "lyric_hangul": "Easier to just say that you care, no, no (that you care, no, no)",
+      "lyric_translation": "",
+      "range": [91.84, 96.06], "ans": [5]},
+    {"lyric": "Now I gotta replay",
+      "lyric_hangul": "Now I gotta replay (ah, yeah)",
+      "lyric_translation": "",
+      "range": [96.06, 98.22], "ans": [1]},
+    {"lyric": "All the times that you went did me dirty no no",
+      "lyric_hangul": "All the times that you went, and did me dirty, no, no (no, no)",
+      "lyric_translation": "",
+      "range": [98.22, 101.57], "ans": [1]},
+    {
+      "lyric_hangul": "If the roles were reversed, would you still put me first, mm?",
+      "parts": [
+        {"lyric": "If the roles were reversed",
+          "range": [101.57, 103.11], "ans": [1]},
+        {"lyric": "Would you still put me first",
+          "range": [103.11, 104.63], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Why can't you just talk, talk, talk, talk, talk, talk, talk to me?",
+      "parts": [
+        {"lyric": "Why can’t you just talk talk talk talk",
+          "range": [104.28, 106.02], "ans": [5]},
+        {"lyric": "Talk talk talk to me",
+          "range": [105.62, 107.52], "ans": [5]},
+        {"lyric": "Baby know that you can talk",
+          "range": [106.82, 108.26], "ans": [1]}
+      ]
+    },
+    {"lyric": "(Baby, know that you can talk)",
+      "lyric_hangul": "(Baby, know that you can talk)",
+      "lyric_translation": "",
+      "range": [108.26, 109.21], "ans": []},
+    {
+      "lyric_hangul": "You ain't gotta walk, walk, walk, walk, walk, walk, walk on me",
+      "parts": [
+        {"lyric": "You ain’t gotta walk walk walk walk",
+          "range": [109.21, 111.13], "ans": [5]},
+        {"lyric": "Walk walk walk on me",
+          "range": [110.21, 112.26], "ans": [5]},
+        {"lyric": "Trust me you ain’t gotta walk",
+          "range": [111.56, 112.95], "ans": [1]}
+      ]
+    },
+    {"lyric": "(Trust me, you ain't gotta walk)",
+      "lyric_hangul": "(Trust me, you ain't gotta walk)",
+      "lyric_translation": "",
+      "range": [112.89, 114.51], "ans": []},
+    {
+      "lyric_hangul": "Always gon' love you down, stuck around, don't be actin' shady (no shady)",
+      "parts": [
+        {"lyric": "Always gon love you down",
+          "range": [114.51, 116.77], "ans": [5]},
+        {"lyric": "Stuck around don’t be actin shady",
+          "range": [116.77, 120.02], "ans": [5]}
+      ]
+    },
+    {"lyric": "Talk talk talk talk talk talk talk to me",
+      "lyric_hangul": "Talk, talk, talk, talk, talk, talk, talk to me",
+      "lyric_translation": "",
+      "range": [120.02, 122.59], "ans": [1]},
+    {"lyric": "Talk to me talk to me",
+      "lyric_hangul": "Talk to me, talk to me (yeah)",
+      "lyric_translation": "",
+      "range": [122.59, 125.26], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "Yes, I got a couple questions, don't let me be ignored",
+      "parts": [
+        {"lyric": "Yes I got a couple questions",
+          "range": [125.26, 128.24], "ans": [1]},
+        {"lyric": "Don’t let me be ignored",
+          "range": [128.24, 129.99], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "You're supposed to be the man for me, the one I adore",
+      "parts": [
+        {"lyric": "You’re supposed to be the man for me",
+          "range": [129.99, 132.55], "ans": [1]},
+        {"lyric": "The one I adored",
+          "range": [132.55, 135.2], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I gave you all of me, so tell me what it be, oh, yeah",
+      "parts": [
+        {"lyric": "I gave you all of me",
+          "range": [135.2, 137.86], "ans": [5]},
+        {"lyric": "So tell me what it be oh yeah",
+          "range": [137.86, 141.27], "ans": [5]}
+      ]
+    },
+    {"lyric": "If you acting crazy promise you I’m gonna know",
+      "lyric_hangul": "If you're acting crazy, I promise you, I'm gonna know",
+      "lyric_translation": "",
+      "range": [141.27, 144.39], "ans": [1]},
+    {"lyric": "Hello",
+      "lyric_hangul": "Hello?",
+      "lyric_translation": "",
+      "range": [144.39, 145.15], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Why can't you just talk, talk, talk, talk, talk, talk, talk to me?",
+      "parts": [
+        {"lyric": "Why can’t you just talk talk talk talk",
+          "range": [145.15, 146.83], "ans": [1]},
+        {"lyric": "Talk talk talk to me",
+          "range": [146.43, 148.35], "ans": [1]},
+        {"lyric": "Baby know that you can talk",
+          "range": [147.65, 149.07], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Baby, know that you can talk)",
+      "lyric_hangul": "(Baby, know that you can talk)",
+      "lyric_translation": "",
+      "range": [149.07, 149.71], "ans": []},
+    {
+      "lyric_hangul": "You ain't gotta walk, walk, walk, walk, walk, walk, walk on me",
+      "parts": [
+        {"lyric": "You ain’t gotta walk walk walk walk",
+          "range": [149.71, 151.89], "ans": [1]},
+        {"lyric": "Walk walk walk on me",
+          "range": [150.95, 152.04], "ans": [1]},
+        {"lyric": "Trust me you ain’t gotta walk",
+          "range": [151.54, 152.09], "ans": [5]}
+      ]
+    },
+    {"lyric": "(You ain't gotta walk on me, no, trust me, you ain't gotta walk, yeah, no, no, no)",
+      "lyric_hangul": "(You ain't gotta walk on me, no, trust me, you ain't gotta walk, yeah, no, no, no)",
+      "lyric_translation": "",
+      "range": [151.57, 155.48], "ans": []},
+    {
+      "lyric_hangul": "Always gon' love you down (down), stuck around ('round), don't be actin' shady (ooh)",
+      "parts": [
+        {"lyric": "Always gon love you down",
+          "range": [155.48, 157.66], "ans": [1]},
+        {"lyric": "Stuck around don’t be actin shady",
+          "range": [157.66, 160.91], "ans": [1]}
+      ]
+    },
+    {"lyric": "Talk talk talk talk talk talk talk to me",
+      "lyric_hangul": "Talk, talk, talk, talk, talk, talk, talk to me (talk)",
+      "lyric_translation": "",
+      "range": [160.91, 163.0], "ans": [5]},
+    {"lyric": "Talk to me talk to me",
+      "lyric_hangul": "(Talk to me, talk to me, baby) talk to me, talk to me",
+      "lyric_translation": "",
+      "range": [163.0, 168.0], "ans": [1]}
+  ]
+}

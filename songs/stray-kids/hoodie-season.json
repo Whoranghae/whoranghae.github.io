@@ -1,0 +1,348 @@
+{
+  "name": "Hoodie Season\r",
+  "ogg": "sound/kpop/hoodie_season.ogg",
+  "id": "hoodie-season",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2019-12-09",
+  "album": "Clé : LEVANTER",
+  "cover": "css/images/covers/hoodie-season.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:09Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "선선하게 불어오는 가을 바람도 차가워지고 내 두 손은 주머니 속으로",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "Seonseonhage bureooneun gaeul baramdo",
+          "range": [4.84, 7.68], "ans": [8]},
+        {"lyric": "Chagawojigo nae du soneun jumeoni sogeuro",
+          "range": [7.68, 10.36], "ans": [8]}
+      ]
+    },
+    {"lyric": "Ppalgang norang chorok saekkkare namudeuldo",
+      "lyric_hangul": "빨강 노랑 초록 색깔의 나무들도",
+      "lyric_translation": "",
+      "range": [10.2, 12.21], "ans": [8]},
+    {"lyric": "Ijeneun gureumsaege hudeureul ibeun namudeullo",
+      "lyric_hangul": "이제는 구름색의 후드를 입은 나무들로 oh",
+      "lyric_translation": "",
+      "range": [12.21, 16.07], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "해가 빨리 지면 길어지는 밤 길어지는 밤과 달리 짧아진 나의 꿀잠",
+      "parts": [
+        {"lyric": "Haega ppalli jimyeon gireojineun bam",
+          "range": [16.07, 18.15], "ans": [3]},
+        {"lyric": "Gireojineun bamgwa dalli jjalbajin naye kkuljam",
+          "range": [17.25, 20.97], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "이불 밖은 추워도 돼 보리 보리 쌀쌀해도 잠자리 적정 온도 유지해줄래",
+      "parts": [
+        {"lyric": "Ibul bakkeun chuwodo dwae",
+          "range": [20.26, 22.78], "ans": [3]},
+        {"lyric": "Bori bori ssalssalhaedo jamjari jeokjeong ondo yujihaejullae",
+          "range": [22.78, 26.86], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "떨어진 낙엽을 밟으며 내가 밟아온 그 길을 돌아봐, yeah, ayy",
+      "parts": [
+        {"lyric": "Tteoreojin nagyeobeul balbeumyeo",
+          "range": [26.31, 31.79], "ans": [2]},
+        {"lyric": "Naega balbaon geu gireul dorabwa yeah",
+          "range": [31.79, 37.59], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "내리는 눈이 쌓여가면 내가 가는 길을 새로 만들어가",
+      "parts": [
+        {"lyric": "Naerineun nuni ssahyeogamyeon",
+          "range": [36.66, 41.88], "ans": [7]},
+        {"lyric": "Naega ganeun gireul saero mandeureoga",
+          "range": [41.88, 47.18], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "바람 불어 내 옷을 건드려 바람막이 후드를 걸쳐",
+      "parts": [
+        {"lyric": "Baram bureo nae oseul geondeuryeo",
+          "range": [47.18, 50.86], "ans": [1]},
+        {"lyric": "Barammagi hudeureul geolchyeo",
+          "range": [50.86, 53.3], "ans": [1]}
+      ]
+    },
+    {"lyric": "Moja nulleo sseugo teong bin jumeoni sok",
+      "lyric_hangul": "모자 눌러 쓰고 텅 빈 주머니 속",
+      "lyric_translation": "",
+      "range": [52.93, 55.5], "ans": [1]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [55.5, 58.38], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "살짝 큰 어깨 라인과 긴 소매 긴 기장 하얀 티가 후드 속에",
+      "parts": [
+        {"lyric": "Saljjak keun eokkae laingwa gin somae",
+          "range": [58.38, 61.46], "ans": [8]},
+        {"lyric": "Gin gijang hayan tiga hudeu soge",
+          "range": [61.46, 64.14], "ans": [8]}
+      ]
+    },
+    {"lyric": "Sae shinbareul shingo baby how do I look",
+      "lyric_hangul": "새 신발을 신고, baby, how do I look",
+      "lyric_translation": "",
+      "range": [63.62, 66.28], "ans": [8]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [66.28, 69.18], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "후디후디 내겐 쉼터 같지, boogie, boogie 이어폰 꼽고, dance groovy, groovy",
+      "parts": [
+        {"lyric": "Hudihudi naegen shwimteo gatji boogie boogie",
+          "range": [69.18, 72.96], "ans": [4]},
+        {"lyric": "Ieopon kkobgo dance groovy groovy",
+          "range": [72.62, 74.38], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "모자를 쓰고 나는 이제, block the world Oh, shoot, 날이 쌀쌀하네 마침 덮어, hood",
+      "parts": [
+        {"lyric": "Mojareul sseugo naneun ije block the world",
+          "range": [73.89, 77.11], "ans": [4]},
+        {"lyric": "Oh shoot nari ssalssalhane machim deopeo hood",
+          "range": [77.11, 79.61], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Cheongseungmajeun gaeuri neomeoganeun taiming",
+      "lyric_hangul": "청승맞은 가을이 넘어가는 타이밍",
+      "lyric_translation": "",
+      "range": [79.21, 82.18], "ans": [5]},
+    {"lyric": "Nagyeob daeshin golmokgireun nungwa barame chaji",
+      "lyric_hangul": "낙엽 대신 골목길은 눈과 바람의 차지",
+      "lyric_translation": "",
+      "range": [82.18, 85.02], "ans": [5]},
+    {"lyric": "Ssalssalhan gyeoure igeotman ibgien chubjiman",
+      "lyric_hangul": "쌀쌀한 겨울에 이것만 입기엔 춥지만",
+      "lyric_translation": "",
+      "range": [85.02, 87.13], "ans": [5]},
+    {"lyric": "Jeompeo ane ineoneun yeojeonhi kkalkkeumhan hudi",
+      "lyric_hangul": "점퍼 안에 이너는 여전히 깔끔한 후디",
+      "lyric_translation": "",
+      "range": [87.13, 90.2], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "떨어진 낙엽을 밟으며 내가 밟아온 그 길을 돌아봐, yeah, ayy",
+      "parts": [
+        {"lyric": "Tteoreojin nagyeobeul balbeumyeo",
+          "range": [90.2, 95.8], "ans": [8]},
+        {"lyric": "Naega balbaon geu gireul dorabwa yeah",
+          "range": [95.8, 101.46], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "내리는 눈이 쌓여가면 내가 가는 길을 새로 만들어가",
+      "parts": [
+        {"lyric": "Naerineun nuni ssahyeogamyeon",
+          "range": [100.49, 105.93], "ans": [1]},
+        {"lyric": "Naega ganeun gireul saero mandeureoga",
+          "range": [105.93, 111.47], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "바람 불어 내 옷을 건드려 바람막이 후드를 걸쳐",
+      "parts": [
+        {"lyric": "Baram bureo nae oseul geondeuryeo",
+          "range": [111.47, 114.85], "ans": [7]},
+        {"lyric": "Barammagi hudeureul geolchyeo",
+          "range": [114.85, 117.39], "ans": [7]}
+      ]
+    },
+    {"lyric": "Moja nulleo sseugo teong bin jumeoni sok",
+      "lyric_hangul": "모자 눌러 쓰고 텅 빈 주머니 속",
+      "lyric_translation": "",
+      "range": [117.08, 119.58], "ans": [7]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [119.58, 122.33], "ans": [7]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "살짝 큰 어깨 라인과 긴 소매 긴 기장 하얀 티가 후드 속에",
+      "parts": [
+        {"lyric": "Saljjak keun eokkae laingwa gin somae",
+          "range": [122.33, 125.49], "ans": [2]},
+        {"lyric": "Gin gijang hayan tiga hudeu soge",
+          "range": [125.49, 128.13], "ans": [2]}
+      ]
+    },
+    {"lyric": "Sae shinbareul shingo baby how do I look",
+      "lyric_hangul": "새 신발을 신고, baby, how do I look",
+      "lyric_translation": "",
+      "range": [127.84, 130.31], "ans": [2]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [130.31, 132.9], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "Hey baby, I'll make you my lover, ayy 가을에 겨울바람 느낄 때",
+      "parts": [
+        {"lyric": "Hey baby, I’ll make you my lover ey",
+          "range": [132.9, 136.54], "ans": [1]},
+        {"lyric": "Gaeure gyeoulbaram neukkil ttae",
+          "range": [136.54, 138.94], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh-ah, ooh-ah 따뜻하게 안아 줄래 낙엽 낙엽처럼, we gon' fall in love",
+      "parts": [
+        {"lyric": "Ooh ah, ooh ah",
+          "range": [138.57, 140.91], "ans": [1]},
+        {"lyric": "Ttatteuthage ana jullae",
+          "range": [140.17, 143.34], "ans": [1]},
+        {"lyric": "Nagyeob nagyeobcheoreom we gon fall in love",
+          "range": [143.34, 144.17], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Achime hwanggeumib meorikarak da nallyeottaga",
+      "lyric_hangul": "아침에 황금잎 머리카락 다 날렸다가",
+      "lyric_translation": "",
+      "range": [143.52, 145.95], "ans": [6]},
+    {"lyric": "Shigani heulleoseo talsaek geochyeo ijeneun baekbal",
+      "lyric_hangul": "시간이 흘러서 탈색 거쳐 이제는 백발",
+      "lyric_translation": "",
+      "range": [145.95, 148.93], "ans": [6]},
+    {
+      "lyric_hangul": "잎에 쌓이던 추억들이 눈의 쌓여 내 발자국도 새로운 색깔",
+      "parts": [
+        {"lyric": "Ipe ssahideon chueokdeuri",
+          "range": [148.93, 152.16], "ans": [6]},
+        {"lyric": "Nune ssahyeo nae baljagukdo saeroun saekkkal",
+          "range": [152.16, 154.56], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Jib ape namureul bwatteoni nado deongdara himi ppajyeo",
+      "lyric_hangul": "집 앞에 나무를 봤더니 나도 덩달아 힘이 빠져",
+      "lyric_translation": "",
+      "range": [154.03, 156.58], "ans": [3]},
+    {"lyric": "Gitteolcheoreom gabyeobge deureoollyeotteon ipeun eodiro gasseo",
+      "lyric_hangul": "깃털처럼 가볍게 들어올렸던 잎은 어디로 갔어",
+      "lyric_translation": "",
+      "range": [156.58, 158.96], "ans": [3]},
+    {
+      "lyric_hangul": "그래 너 좀 쉬어도 돼 추운 날 다 버티고 또 만나길 바라 산불도 조심하고",
+      "parts": [
+        {"lyric": "Geurae neo jom shwieodo dwae",
+          "range": [158.96, 161.48], "ans": [3]},
+        {"lyric": "Chuun nal da beotigo tto mannagil bara sanbuldo joshimhago",
+          "range": [161.48, 165.36], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "바람 불어 내 옷을 건드려 바람막이 후드를 걸쳐",
+      "parts": [
+        {"lyric": "Baram bureo nae oseul geondeuryeo",
+          "range": [164.98, 168.46], "ans": [1]},
+        {"lyric": "Barammagi hudeureul geolchyeo",
+          "range": [168.46, 170.76], "ans": [1]}
+      ]
+    },
+    {"lyric": "Moja nulleo sseugo teong bin jumeoni sok",
+      "lyric_hangul": "모자 눌러 쓰고 텅 빈 주머니 속",
+      "lyric_translation": "",
+      "range": [170.6, 173.01], "ans": [1]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [173.01, 175.7], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "살짝 큰 어깨 라인과 긴 소매 긴 기장 하얀 티가 후드 속에",
+      "parts": [
+        {"lyric": "Saljjak keun eokkae laingwa gin somae",
+          "range": [175.7, 178.78], "ans": [8]},
+        {"lyric": "Gin gijang hayan tiga hudeu soge",
+          "range": [178.78, 181.42], "ans": [8]}
+      ]
+    },
+    {"lyric": "Sae shinbareul shingo baby how do I look",
+      "lyric_hangul": "새 신발을 신고, baby, how do I look",
+      "lyric_translation": "",
+      "range": [180.97, 183.63], "ans": [8]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [183.63, 188.68], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "너와 함께해 이 겨울도 콜록거려도 너 하나면",
+      "parts": [
+        {"lyric": "Neowa hamkkehae i gyeouldo",
+          "range": [197.0, 200.1], "ans": [7]},
+        {"lyric": "Kollokgeoryeodo neo hanamyeon",
+          "range": [200.1, 202.68], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "첫눈도 내 후드 위에 살포시 내려와 앉는다",
+      "parts": [
+        {"lyric": "Cheonnundo nae hudeu wie",
+          "range": [201.96, 205.22], "ans": [7]},
+        {"lyric": "Salposhi naeryeowa anneunda",
+          "range": [205.22, 208.1], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "바람 불어 내 옷을 건드려 바람막이 후드를 걸쳐",
+      "parts": [
+        {"lyric": "Baram bureo nae oseul geondeuryeo",
+          "range": [207.63, 210.99], "ans": [4]},
+        {"lyric": "Barammagi hudeureul geolchyeo",
+          "range": [210.99, 213.45], "ans": [4]}
+      ]
+    },
+    {"lyric": "Moja nulleo sseugo teong bin jumeoni sok",
+      "lyric_hangul": "모자 눌러 쓰고 텅 빈 주머니 속",
+      "lyric_translation": "",
+      "range": [213.08, 215.52], "ans": [4]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [215.52, 218.37], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "살짝 큰 어깨 라인과 긴 소매 긴 기장 하얀 티가 후드 속에",
+      "parts": [
+        {"lyric": "Saljjak keun eokkae laingwa gin somae",
+          "range": [218.37, 221.44], "ans": [5]},
+        {"lyric": "Gin gijang hayan tiga hudeu soge",
+          "range": [221.44, 224.08], "ans": [5]}
+      ]
+    },
+    {"lyric": "Sae shinbareul shingo baby how do I look",
+      "lyric_hangul": "새 신발을 신고, baby, how do I look",
+      "lyric_translation": "",
+      "range": [223.74, 226.09], "ans": [5]},
+    {"lyric": "Du son mattaha dangdanghae geodneun georeumdo",
+      "lyric_hangul": "두 손 맞닿아 당당해 걷는 걸음도",
+      "lyric_translation": "",
+      "range": [226.09, 232.0], "ans": [5]}
+  ]
+}

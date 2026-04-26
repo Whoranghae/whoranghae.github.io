@@ -1,0 +1,410 @@
+{
+  "name": "CREED\r",
+  "ogg": "sound/kpop/creed.ogg",
+  "id": "creed",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2025-08-22",
+  "album": "Stray Kids The 4th Album “KARMA”",
+  "cover": "css/images/covers/creed.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "I give life to my words (yeah, I'm doin' what I say)",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "I give life to my words",
+          "range": [11.21, 13.6], "ans": [7]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [12.9, 14.57], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I reach heights from the dirt (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I reach heights from the dirt",
+          "range": [14.23, 16.17], "ans": [7]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [15.47, 17.54], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "You know I bite the way I bark (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "You know I bite the way I bark",
+          "range": [17.47, 18.82], "ans": [7]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [18.12, 19.59], "ans": [1]},
+        {"lyric": "(Doing what I say, doing what I say)",
+          "range": [19.59, 20.62], "ans": [1]}
+      ]
+    },
+    {"lyric": "(What I say) doin' what I say, (what I say) doin' what I say",
+      "lyric_hangul": "(What I say) doin' what I say, (what I say) doin' what I say",
+      "lyric_translation": "",
+      "range": [20.38, 23.26], "ans": []},
+    "",
+    {
+      "lyric_hangul": "It's so easy to make us better, we got the right timing",
+      "parts": [
+        {"lyric": "It’s so easy to make us better,",
+          "range": [23.26, 25.57], "ans": [6]},
+        {"lyric": "We got the right timing",
+          "range": [25.57, 26.87], "ans": [6]}
+      ]
+    },
+    {"lyric": "Dan 1choye nangbido eopji time is diamonds",
+      "lyric_hangul": "단 일초의 낭비도 없지, time is diamonds",
+      "lyric_translation": "",
+      "range": [26.87, 29.29], "ans": [6]},
+    {
+      "lyric_hangul": "This slaps, 우리는 흐름을 직감해 타고 올라가지, plane",
+      "parts": [
+        {"lyric": "This slaps urineun heureumeul jikkamhae",
+          "range": [29.29, 31.65], "ans": [6]},
+        {"lyric": "Tago ollagaji plane",
+          "range": [31.65, 32.67], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "No arguments (뚜뚜뚜), 투박한 음악으로 해줬지, proved it, I said",
+      "parts": [
+        {"lyric": "No arguments tubakhan eumageuro haejweotji",
+          "range": [32.4, 34.58], "ans": [6]},
+        {"lyric": "Proved it, I said",
+          "range": [34.58, 35.84], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "One day, we'll become the ones that they wanna be like",
+      "parts": [
+        {"lyric": "One day, we’ll become the onet",
+          "range": [35.84, 37.52], "ans": [5]},
+        {"lyric": "That they wanna be like",
+          "range": [37.52, 38.66], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Bring it back, 모두가 혼절해 차지 기가 휴대폰처럼, yeah",
+      "parts": [
+        {"lyric": "Bring it back moduga honjeolhae",
+          "range": [38.65, 39.87], "ans": [5]},
+        {"lyric": "Chaji giga hyudaeponcheoreom yeah",
+          "range": [39.87, 41.7], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "한번 더 해, 등반을 가져와, 우주선 비행기 안 맞아 이젠",
+      "parts": [
+        {"lyric": "Hanbeon deo hae deungbaneul gajyeowa",
+          "range": [41.7, 43.36], "ans": [5]},
+        {"lyric": "Ujuseon bihaenggi an maja ijen",
+          "range": [43.36, 44.66], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "척이나 해, 괜찮은 듯 해봤자, 모두 뒤에선 땀이나 빼",
+      "parts": [
+        {"lyric": "Cheogina hae, gwaenchaneun deut haebwatja",
+          "range": [44.32, 46.45], "ans": [5]},
+        {"lyric": "Modu dwieseon ttamina ppae",
+          "range": [46.45, 47.79], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh, lord, we're following our creed to make us lit, huh",
+      "parts": [
+        {"lyric": "Oh lord, we’re following our creed",
+          "range": [47.79, 49.85], "ans": [4]},
+        {"lyric": "To make us lit huh",
+          "range": [49.85, 50.89], "ans": [4]}
+      ]
+    },
+    {"lyric": "I ain’t trippin’, mopsseul jangaemuren pagureu slide, jump",
+      "lyric_hangul": "I ain't trippin', 몹쓸 장애물엔 파쿠르 slide, jump",
+      "lyric_translation": "",
+      "range": [50.89, 53.82], "ans": [4]},
+    {"lyric": "Clear your mind, i gisereul mora levitate",
+      "lyric_hangul": "Clear your mind, 이 기세를 몰아 levitate",
+      "lyric_translation": "",
+      "range": [53.82, 56.71], "ans": [7]},
+    {
+      "lyric_hangul": "절대 가지 않아 빠른 길, 'cause we make our own road, huh",
+      "parts": [
+        {"lyric": "Jeoldae gaji ana ppareun gil,",
+          "range": [56.71, 58.13], "ans": [7]},
+        {"lyric": "’cause we make our own road huh",
+          "range": [58.13, 60.08], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "We're always the same, no change, 같은 생각이 역시, huh",
+      "parts": [
+        {"lyric": "We’re always the same, no change,",
+          "range": [60.08, 61.7], "ans": [8]},
+        {"lyric": "Gateun saenggagi yeokshi huh",
+          "range": [61.7, 63.12], "ans": [8]}
+      ]
+    },
+    {"lyric": "Shwipgo ppareun geon akmaga mandeun hyanggiroun kkot",
+      "lyric_hangul": "쉽고 빠른 건 악마가 만든 향기로운 꽃 (creed, creed, creed, creed)",
+      "lyric_translation": "",
+      "range": [63.0, 66.04], "ans": [8]},
+    {"lyric": "Hadeon daero haji midneun geudaero jikjin",
+      "lyric_hangul": "하던 대로 하지 믿는 그대로 직진, we just (hoo, hoo, hoo, hoo)",
+      "lyric_translation": "",
+      "range": [66.04, 70.37], "ans": [8]},
+    {
+      "lyric_hangul": "최고 속력, speed up",
+      "parts": [
+        {"lyric": "We just",
+          "range": [70.37, 70.87], "ans": [8]},
+        {"lyric": "(hoo hoo hoo hoo)",
+          "range": [70.4, 71.64], "ans": []},
+        {"lyric": "Chwego sognyeok speed up",
+          "range": [71.03, 71.69], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I give life to my words (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I give life to my words",
+          "range": [71.27, 73.58], "ans": [4]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [72.88, 74.59], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "I reach heights from the dirt (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I reach heights from the dirt",
+          "range": [74.25, 76.16], "ans": [4]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [75.46, 77.55], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "You know I bite the way I bark (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "You know I bite the way I bark",
+          "range": [77.17, 79.64], "ans": [4]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [78.94, 80.53], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "My creed will never fall apart (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "My creed will never fall apart",
+          "range": [80.14, 82.05], "ans": [4]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [81.35, 83.56], "ans": [7]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I give life to my words (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I give life to my words",
+          "range": [83.07, 85.63], "ans": [2]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [84.93, 86.56], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I reach heights from the dirt (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I reach heights from the dirt",
+          "range": [86.23, 88.16], "ans": [2]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [87.46, 89.54], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "You know I bite the way I bark (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "You know I bite the way I bark",
+          "range": [89.14, 90.83], "ans": [2]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [90.13, 91.58], "ans": [5]},
+        {"lyric": "(Doing what I say, doing what I say)",
+          "range": [91.58, 92.84], "ans": [5]}
+      ]
+    },
+    {"lyric": "(What I say) Doing what I say, (what I say) doin' what I say",
+      "lyric_hangul": "(What I say) Doing what I say, (what I say) doin' what I say",
+      "lyric_translation": "",
+      "range": [92.84, 96.74], "ans": []},
+    "",
+    {
+      "lyric_hangul": "거짓이 드러나 모든 척, 있는 그대로 보여지는 컷",
+      "parts": [
+        {"lyric": "Geojisi deureona modeun cheok",
+          "range": [96.74, 99.03], "ans": [4]},
+        {"lyric": "Inneun geudaero boyeojineun keot",
+          "range": [99.03, 100.56], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "스스로 파버릴 무덤과 덫, 뻔한 재미와 자극보단 진정성",
+      "parts": [
+        {"lyric": "Seuseuro pabeoril mudeomgwa deot",
+          "range": [100.5, 102.05], "ans": [4]},
+        {"lyric": "Ppeonhan jaemiwa jageukbodan jinjeongseong",
+          "range": [102.05, 103.62], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "적은 대로 보여주는 것, 내뱉은 대로 보여주는 것",
+      "parts": [
+        {"lyric": "Jeogeun daero boyeojuneun geot",
+          "range": [103.62, 105.01], "ans": [6]},
+        {"lyric": "Naebaeteun daero boyeojuneun geot",
+          "range": [105.01, 106.34], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "허풍 떨듯 허세 가득 들은 호주머니는 찢긴 지 오래전",
+      "parts": [
+        {"lyric": "Heopung tteoldeut heose gadeuk deureun",
+          "range": [106.34, 108.03], "ans": [6]},
+        {"lyric": "Hojumeonineun jjitgin ji oraejeon",
+          "range": [108.03, 109.43], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "멋진 놈이 되기 위해 미친 듯이 가리지 않고 뛰어들었어",
+      "parts": [
+        {"lyric": "Meotjin nomi dwegi wihae michin",
+          "range": [109.43, 110.94], "ans": [3]},
+        {"lyric": "Deushi gariji anko ttwieodeureosseo",
+          "range": [110.94, 112.23], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "현실의 벽이 높다 한들 내 포부는 무릎 한번 안 꿇었어",
+      "parts": [
+        {"lyric": "Hyeonshire byeoki nopda handeul nae",
+          "range": [112.23, 113.83], "ans": [3]},
+        {"lyric": "Pobuneun mureup hanbeon an kkureosseo",
+          "range": [113.83, 115.21], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "수없이 써 내려갈 업적들에 잉크 메마를 일 없는 펜촉",
+      "parts": [
+        {"lyric": "Sueopshi sseo naeryeogal eopjeokdeule ingkeu",
+          "range": [115.04, 117.1], "ans": [3]},
+        {"lyric": "Memareul il eomneun penchok",
+          "range": [117.1, 118.41], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "조급할 필요 없는 my pace, 오늘도 나를 더 재촉 (yuh)",
+      "parts": [
+        {"lyric": "Jogeuphal piryo eomneun my pace",
+          "range": [118.41, 119.93], "ans": [3]},
+        {"lyric": "Oneuldo nareul deo jaechok",
+          "range": [119.93, 121.58], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "I keep my creed in my heart",
+      "lyric_hangul": "I keep my creed in my heart",
+      "lyric_translation": "",
+      "range": [121.45, 124.49], "ans": [2]},
+    {"lyric": "’Cause holding on to it won’t work at all yeah",
+      "lyric_hangul": "'Cause holding on to it won't work at all, yeah",
+      "lyric_translation": "",
+      "range": [124.49, 127.72], "ans": [2]},
+    {"lyric": "I’ll make sure I get what I want",
+      "lyric_hangul": "I'll make sure I get what I want (what I want, what I want)",
+      "lyric_translation": "",
+      "range": [127.72, 130.62], "ans": [7]},
+    {"lyric": "My creed, it keeps me breathing uh uh yeah",
+      "lyric_hangul": "My creed, it keeps me breathing, uh, uh, yeah",
+      "lyric_translation": "",
+      "range": [130.62, 132.9], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "I give life to my words (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I give life to my words",
+          "range": [132.9, 135.09], "ans": [1]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [134.39, 136.06], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "I reach heights from the dirt (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I reach heights from the dirt",
+          "range": [135.74, 137.67], "ans": [1]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [136.97, 139.14], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "You know I bite the way I bark (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "You know I bite the way I bark",
+          "range": [139.14, 141.04], "ans": [1]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [140.34, 142.15], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "My creed will never fall apart (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "My creed will never fall apart",
+          "range": [142.15, 143.56], "ans": [1]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [142.86, 145.04], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I give life to my words (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I give life to my words",
+          "range": [144.67, 147.11], "ans": [2]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [146.41, 148.07], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "I reach heights from the dirt (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "I reach heights from the dirt",
+          "range": [147.72, 149.69], "ans": [2]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [148.99, 151.06], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "You know I bite the way I bark (yeah, I'm doin' what I say)",
+      "parts": [
+        {"lyric": "You know I bite the way I bark",
+          "range": [150.64, 152.32], "ans": [2]},
+        {"lyric": "(Yeah I’m doing what I say)",
+          "range": [151.62, 153.07], "ans": [3]},
+        {"lyric": "(Doing what I say, doing what I say)",
+          "range": [153.07, 154.29], "ans": [3]}
+      ]
+    },
+    {"lyric": "(What I say) doin' what I say, (what I say) doin' what I say",
+      "lyric_hangul": "(What I say) doin' what I say, (what I say) doin' what I say",
+      "lyric_translation": "",
+      "range": [154.29, 157.25], "ans": []}
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "name": "Mixtape : OH (애)\r",
+  "ogg": "sound/kpop/mixtape_oh.ogg",
+  "id": "mixtape-oh",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2021-06-26",
+  "album": "Mixtape : OH",
+  "cover": "css/images/covers/mixtape-oh.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "내 손이 네게 닿을 때, 서로의 눈빛에",
+      "lyric_translation": "When I get my hands on you / When I set my eyes on you",
+      "parts": [
+        {"lyric": "Nae soni nege daeul ttae",
+          "range": [9.55, 11.73], "ans": [5]},
+        {"lyric": "Seoroye nunbiche",
+          "range": [11.73, 12.89], "ans": [5]}
+      ]
+    },
+    {"lyric": "Cheoeum neukkyeobon gamjeonge sumi cha",
+      "lyric_hangul": "처음 느껴본 감정에 숨이 차",
+      "lyric_translation": "I get breathless and I’ve never felt this way before",
+      "range": [12.76, 15.78], "ans": [5]},
+    {
+      "lyric_hangul": "이건 설명이 안 돼, 절대 그저 그런 게",
+      "lyric_translation": "I can’t explain this / It feels so different",
+      "parts": [
+        {"lyric": "Igeon seolmyeongi an dwae",
+          "range": [15.78, 17.15], "ans": [5]},
+        {"lyric": "Jeoldae geujeo geureon ge",
+          "range": [17.15, 18.36], "ans": [5]}
+      ]
+    },
+    {"lyric": "Anin geol ara deo yokshimnanikka",
+      "lyric_hangul": "아닌 걸 알아 더 욕심나니까",
+      "lyric_translation": "So I want it more",
+      "range": [18.03, 20.76], "ans": [5]},
+    "",
+    {"lyric": "Geunyang nan ttereul sseugo shipeo cham eoieopge",
+      "lyric_hangul": "그냥 난 떼를 쓰고 싶어 참 어이없게",
+      "lyric_translation": "I just want to whine",
+      "range": [20.76, 23.5], "ans": [4]},
+    {"lyric": "Gyesanjeogin saenggakdeureun da meomchullae",
+      "lyric_hangul": "계산적인 생각들은 다 멈출래",
+      "lyric_translation": "I’ll stop being calculative",
+      "range": [23.5, 26.36], "ans": [4]},
+    {
+      "lyric_hangul": "거짓말을 한 것처럼 들키고 싶어 이 설렘도",
+      "lyric_translation": "I want you to notice how I am feeling / As if you would notice that I was lying",
+      "parts": [
+        {"lyric": "Geojitmareul han geotcheoreom",
+          "range": [26.36, 27.93], "ans": [4]},
+        {"lyric": "Deulkigo shipeo i seollemdo",
+          "range": [27.93, 29.71], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geujeo ne gyeote hyanggicheoreom maemdolgi shireo",
+      "lyric_hangul": "그저 네 곁에 향기처럼 맴돌기 싫어",
+      "lyric_translation": "I don’t want to just be around you like the scent",
+      "range": [29.28, 32.61], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "I thought I knew, 다 아는 듯이 당당했지만",
+      "lyric_translation": "I thought I knew / I was so confident that I knew everything",
+      "parts": [
+        {"lyric": "I thought I knew",
+          "range": [32.61, 35.18], "ans": [1]},
+        {"lyric": "Da aneun deushi dangdanghaetjiman",
+          "range": [35.18, 37.98], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "But I didn't know, with you, 다가갈수록 왜 더 어려워지는데",
+      "lyric_translation": "But I didn’t know, with you / As I get close to you, it gets more complicated",
+      "parts": [
+        {"lyric": "But I didn’t know, with you",
+          "range": [37.98, 40.49], "ans": [1]},
+        {"lyric": "Dagagalsurok wae deo eoryeoweojineunde",
+          "range": [40.49, 44.3], "ans": [1]}
+      ]
+    },
+    {"lyric": "Hal mareul junbihaedo eodingaro sarajigo",
+      "lyric_hangul": "할 말을 준비해도 어딘가로 사라지고",
+      "lyric_translation": "Even when I have something to say, my head goes blank",
+      "range": [44.3, 50.16], "ans": [8]},
+    {"lyric": "Gyeolguk heossoriman neureonochyo gyesok",
+      "lyric_hangul": "결국 헛소리만 늘어놓죠 계속",
+      "lyric_translation": "At the end of the day, I’m saying just meaningless words",
+      "range": [50.16, 52.64], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "너의 그 손을 잡으면 자꾸만 내가 어리게만 보여",
+      "lyric_translation": "When I hold your hand / I feel like being a baby again",
+      "parts": [
+        {"lyric": "Neoye geu soneul jabeumyeon",
+          "range": [52.64, 56.14], "ans": [2]},
+        {"lyric": "Jakkuman naega eorigeman boyeo",
+          "range": [56.14, 59.46], "ans": [2]}
+      ]
+    },
+    {"lyric": "Nal geureoke boji mallago nadabji anke eorigwangeul buryeo",
+      "lyric_hangul": "날 그렇게 보지 말라고, 나답지 않게 어리광을 부려",
+      "lyric_translation": "And I go whining and saying, “Don’t look at me like that”",
+      "range": [59.46, 64.38], "ans": [2]},
+    {"lyric": "Neowa du nuneul matchugoseo han georeum deo negero",
+      "lyric_hangul": "너와 두 눈을 맞추고서 한 걸음 더 네게로",
+      "lyric_translation": "I look you in the eye and take one step closer to you",
+      "range": [64.38, 70.78], "ans": [7]},
+    {
+      "lyric_hangul": "계획을 세워봐도 여전히 네 앞에 서면 나는 애야",
+      "lyric_translation": "No matter how much I plan and prepare / When I’m with you, I’m just a baby / Ey (I’m a)",
+      "parts": [
+        {"lyric": "Gyehwegeul seweobwado",
+          "range": [70.78, 73.12], "ans": [7]},
+        {"lyric": "Yeojeonhi ne ape seomyeon naneun aeya",
+          "range": [73.12, 75.73], "ans": [7]},
+        {"lyric": "Ey",
+          "range": [75.09, 75.78], "ans": [6]},
+        {"lyric": "(aeya)",
+          "range": [75.78, 77.85], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Can I call you baby?",
+      "lyric_translation": "Can I call you baby? / Ey (I’m a)",
+      "parts": [
+        {"lyric": "Can I call you baby?",
+          "range": [80.08, 81.63], "ans": []},
+        {"lyric": "Ey",
+          "range": [81.07, 82.03], "ans": [6]},
+        {"lyric": "(aeya)",
+          "range": [81.33, 83.17], "ans": [1]}
+      ]
+    },
+    {"lyric": "Sarang apeseon baby",
+      "lyric_hangul": "사랑 앞에선, baby",
+      "lyric_translation": "In front of love, I’m just a baby",
+      "range": [85.43, 87.19], "ans": []},
+    "",
+    {"lyric": "Ara igeon ttesseundago dweneun geo anin geo",
+      "lyric_hangul": "알아 이건 떼쓴다고 되는 거 아닌 거",
+      "lyric_translation": "I know I shouldn’t whine about it",
+      "range": [87.19, 89.74], "ans": [3]},
+    {"lyric": "Jal ara igeon deo nae meorissok neoga daraneun geo",
+      "lyric_hangul": "잘 알아 이건 더 내 머릿속 너가 다라는 거",
+      "lyric_translation": "I know it well that you’re everything in my mind",
+      "range": [89.74, 92.65], "ans": [3]},
+    {
+      "lyric_hangul": "내 맘이 널 원해, 네 맘을 더 원해",
+      "lyric_translation": "My heart wants you / I want your love",
+      "parts": [
+        {"lyric": "Nae mami neol weonhae",
+          "range": [92.65, 94.11], "ans": [3]},
+        {"lyric": "Ne mameul deo weonhae",
+          "range": [94.11, 95.46], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 맘은 꽤 독해, 너만이 해독제",
+      "lyric_translation": "This feeling is so toxic / You’re the only antidote",
+      "parts": [
+        {"lyric": "I mameun kkwae dokhae",
+          "range": [95.46, 96.86], "ans": [3]},
+        {"lyric": "Neomani haedokje",
+          "range": [96.86, 98.43], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Nae maeumeun hwakshilhande tto mamdaero andwenikka",
+      "lyric_hangul": "내 마음은 확실한데 또 맘대로 안되니까",
+      "lyric_translation": "I’m sure about my feelings but I can’t control them",
+      "range": [98.43, 100.62], "ans": [3]},
+    {
+      "lyric_hangul": "어리숙한 표현 행동 매너 보기엔 아직 애니까",
+      "lyric_translation": "The way I talk to you, treat you, and behave towards you / Is so immature",
+      "parts": [
+        {"lyric": "Eorisukhan pyohyeon haengdong maeneo bogien",
+          "range": [100.62, 103.13], "ans": [3]},
+        {"lyric": "Ajik aenikka",
+          "range": [103.13, 103.77], "ans": [3]}
+      ]
+    },
+    {"lyric": "Eoreunseureoun saram eoreunseureoun sarang",
+      "lyric_hangul": "어른스러운 사람, 어른스러운 사랑, 어른스러운 남자",
+      "lyric_translation": "Mature person, Mature love",
+      "range": [103.73, 105.9], "ans": [3]},
+    {
+      "lyric_hangul": "쉬울 것 같았던 것들, 네 앞에선 모든 게 어렵다",
+      "lyric_translation": "Mature man, I thought it would be easy / Everything is difficult in front of you",
+      "parts": [
+        {"lyric": "Eoreunseureoun namja shwiul geot gatatteon geotteul",
+          "range": [105.9, 108.34], "ans": [3]},
+        {"lyric": "Ne apeseon modeun ge eoryeobda",
+          "range": [108.34, 109.3], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I thought I knew, 다 아는 듯이 당당했지만",
+      "lyric_translation": "I thought I knew / I was so confident that I knew everything",
+      "parts": [
+        {"lyric": "I thought I knew",
+          "range": [109.1, 111.51], "ans": [7]},
+        {"lyric": "Da aneun deushi dangdanghaetjiman",
+          "range": [111.51, 114.17], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "But I didn't know, with you, 다가갈수록 왜 더 어려워지는데",
+      "lyric_translation": "But I didn’t know, with you / As I get close to you, it gets more complicated",
+      "parts": [
+        {"lyric": "But I didn’t know, with you",
+          "range": [114.17, 116.83], "ans": [7]},
+        {"lyric": "Dagagalsurok wae deo eoryeoweojineunde",
+          "range": [116.83, 120.74], "ans": [7]}
+      ]
+    },
+    {"lyric": "Hal mareul junbihaedo eodingaro sarajigo",
+      "lyric_hangul": "할 말을 준비해도 어딘가로 사라지고",
+      "lyric_translation": "Even when I have something to say, my head goes blank",
+      "range": [120.74, 126.56], "ans": [1]},
+    {"lyric": "Gyeolguk heossoriman neureonochyo gyesok",
+      "lyric_hangul": "결국 헛소리만 늘어놓죠 계속",
+      "lyric_translation": "At the end of the day, I’m saying just meaningless words",
+      "range": [126.56, 128.97], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "너의 그 손을 잡으면 자꾸만 내가 어리게만 보여",
+      "lyric_translation": "When I hold your hand / I feel like being a baby again",
+      "parts": [
+        {"lyric": "Neoye geu soneul jabeumyeon",
+          "range": [128.97, 132.51], "ans": [8]},
+        {"lyric": "Jakkuman naega eorigeman boyeo",
+          "range": [132.51, 135.82], "ans": [8]}
+      ]
+    },
+    {"lyric": "Nal geureoke boji mallago nadabji anke eorigwangeul buryeo",
+      "lyric_hangul": "날 그렇게 보지 말라고, 나답지 않게 어리광을 부려",
+      "lyric_translation": "And I go whining and saying, “Don’t look at me like that”",
+      "range": [135.82, 140.9], "ans": [8]},
+    {"lyric": "Neowa du nuneul matchugoseo han georeum deo negero",
+      "lyric_hangul": "너와 두 눈을 맞추고서 한 걸음 더 네게로",
+      "lyric_translation": "I look you in the eye and take one step closer to you",
+      "range": [140.9, 147.03], "ans": [2]},
+    {
+      "lyric_hangul": "계획을 세워봐도 여전히 네 앞에 서면 나는 애야",
+      "lyric_translation": "No matter how much I plan and prepare / When I’m with you, I’m just a baby",
+      "parts": [
+        {"lyric": "Gyehwegeul seweobwado",
+          "range": [147.03, 149.57], "ans": [2]},
+        {"lyric": "Yeojeonhi ne ape seomyeon naneun aeya",
+          "range": [149.57, 153.17], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "What should I do?",
+      "lyric_hangul": "What should I do?",
+      "lyric_translation": "What should I do?",
+      "range": [153.08, 158.18], "ans": [4]},
+    {"lyric": "Geujeo chakgagilkka",
+      "lyric_hangul": "그저 착각일까?",
+      "lyric_translation": "Am I under the illusion?",
+      "range": [158.18, 163.51], "ans": [4]},
+    {
+      "lyric_hangul": "쉽게 끝이 날까? (Oh, na-na-na-na, what should I do?)",
+      "lyric_translation": "Will this end easily? / (Oh na na na na what should I do)",
+      "parts": [
+        {"lyric": "Shwipge kkeuchi nalkka",
+          "range": [163.51, 169.67], "ans": [5]},
+        {"lyric": "(Oh na na na na what should I do)",
+          "range": [168.97, 170.13], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "더 가까이 (oh, na-na-na-na, what should I do?)",
+      "lyric_translation": "Closer (Oh na na na na what should I do)",
+      "parts": [
+        {"lyric": "Deo gakkai",
+          "range": [169.45, 170.48], "ans": [5]},
+        {"lyric": "(Oh na na na na what should I do)",
+          "range": [169.78, 172.78], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "다가가 네게로 닿고 싶어",
+      "lyric_translation": "I want to come to you and get to you / (Baby) / (I want to come to you and get to you)",
+      "parts": [
+        {"lyric": "Dagaga negero dako shipeo",
+          "range": [172.54, 173.73], "ans": [6]},
+        {"lyric": "(aeya)",
+          "range": [173.25, 174.13], "ans": [1]},
+        {"lyric": "(dagaga negero dako shipeo)",
+          "range": [173.43, 177.13], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "계획을 세워봐도 여전히 네 앞에 서면 나는",
+      "lyric_translation": "No matter how much I plan and prepare / When I’m with you, I’m just a",
+      "parts": [
+        {"lyric": "Gyehwegeul seweobwado",
+          "range": [179.59, 182.23], "ans": [2]},
+        {"lyric": "Yeojeonhi ne ape seomyeon naneun",
+          "range": [182.23, 184.89], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Neowa du nuneul matchugoseo han georeum deo negero",
+      "lyric_hangul": "너와 두 눈을 맞추고서 한 걸음 더 네게로",
+      "lyric_translation": "I look you in the eye and take one step closer to you",
+      "range": [184.7, 191.0], "ans": [1]},
+    {
+      "lyric_hangul": "계획을 세워봐도 여전히 네 앞에 서면 나는 애야",
+      "lyric_translation": "No matter how much I plan and prepare / When I’m with you, I’m just a baby / Ey (I’m a)",
+      "parts": [
+        {"lyric": "Gyehwegeul seweobwado",
+          "range": [191.0, 193.1], "ans": [7]},
+        {"lyric": "Yeojeonhi ne ape seomyeon naneun aeya",
+          "range": [193.1, 195.75], "ans": [7]},
+        {"lyric": "Ey",
+          "range": [195.11, 195.8], "ans": [6]},
+        {"lyric": "(aeya)",
+          "range": [195.8, 197.87], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Can I call you baby?",
+      "lyric_translation": "Can I call you baby? / Ey (I’m a)",
+      "parts": [
+        {"lyric": "Can I call you baby?",
+          "range": [200.14, 201.48], "ans": []},
+        {"lyric": "Ey",
+          "range": [201.0, 201.88], "ans": [6]},
+        {"lyric": "(aeya)",
+          "range": [201.18, 203.14], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "사랑 앞에선 애야",
+      "lyric_translation": "In front of love / I’m just a baby",
+      "parts": [
+        {"lyric": "Sarang apeseon",
+          "range": [205.24, 206.86], "ans": []},
+        {"lyric": "Aeya",
+          "range": [206.55, 209.73], "ans": [5]}
+      ]
+    }
+  ]
+}

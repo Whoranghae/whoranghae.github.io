@@ -1,0 +1,501 @@
+{
+  "name": "Shot thru the heart\r",
+  "ogg": "sound/kpop/shot_thru_the_heart.ogg",
+  "id": "shot-thru-the-heart",
+  "group": "twice",
+  "language": "ko",
+  "released": "2018-07-09",
+  "album": "Summer Nights",
+  "cover": "css/images/covers/shot-thru-the-heart.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:42Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Whoa whoa",
+      "lyric_hangul": "Whoa whoa",
+      "lyric_translation": "Whoa whoa",
+      "range": [1.75, 3.17], "ans": [5]},
+    {"lyric": "You got me shot through the heart",
+      "lyric_hangul": "You got me shot through the heart",
+      "lyric_translation": "You got me shot through the heart",
+      "range": [3.17, 5.04], "ans": [6]},
+    {
+      "lyric_hangul": "Whoa whoa ah",
+      "lyric_translation": "Whoa whoa (Here we go)",
+      "parts": [
+        {"lyric": "Whoa whoa",
+          "range": [5.04, 6.39], "ans": [5]},
+        {"lyric": "(Here we go)",
+          "range": [5.69, 6.78], "ans": [8]}
+      ]
+    },
+    {"lyric": "Here we go!",
+      "lyric_hangul": "Here we go!",
+      "lyric_translation": "",
+      "range": [6.45, 8.35], "ans": []},
+    "",
+    {"lyric": "Jakkuman nuni ga neoege nan",
+      "lyric_hangul": "자꾸만 눈이 가 너에게 난",
+      "lyric_translation": "My eyes keep going to you",
+      "range": [8.35, 11.27], "ans": [1]},
+    {"lyric": "Nal bwado gwanshim eomneun cheok haneun geon",
+      "lyric_hangul": "날 봐도 관심 없는 척 하는 건",
+      "lyric_translation": "Why is it that you’re acting like",
+      "range": [11.27, 14.51], "ans": [1]},
+    {
+      "lyric_hangul": "일부러 너 그래? 난 아무렇지 않는데 oh yeah (oh yeah, oh yeah)",
+      "lyric_translation": "You’re uninterested when you see me / Are you doing that on purpose? I’m fine oh yeah",
+      "parts": [
+        {"lyric": "Ilbureo neo geurae?",
+          "range": [14.51, 16.73], "ans": [1]},
+        {"lyric": "Nan amureochi anneunde Oh yeah",
+          "range": [16.73, 21.66], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Gatgo shipeun geon da gajin nande",
+      "lyric_hangul": "갖고 싶은 건 다 가진 난데 (가진 난데)",
+      "lyric_translation": "I’ve got everything I want",
+      "range": [21.66, 25.04], "ans": [4]},
+    {"lyric": "Eomneun ge hana eomneun nainde",
+      "lyric_hangul": "없는 게 하나 없는 나인데 (없는 나인데)",
+      "lyric_translation": "I’ve got it all",
+      "range": [25.04, 27.99], "ans": [4]},
+    {
+      "lyric_hangul": "뭔가 2% 부족해 이런 적 처음이야, oh yeah",
+      "lyric_translation": "But I’m lacking something / This is the first time oh yeah",
+      "parts": [
+        {"lyric": "Mweonga ipuro bujokae",
+          "range": [27.99, 29.85], "ans": [4]},
+        {"lyric": "Ireon jeok cheoeumiya Oh yeah",
+          "range": [29.85, 34.65], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "So come on, 눈을 맞추면",
+      "lyric_translation": "(So come on) When you meet eyes with me",
+      "parts": [
+        {"lyric": "(So come on)",
+          "range": [34.65, 35.91], "ans": [5]},
+        {"lyric": "Nuneul matchumyeon",
+          "range": [35.21, 36.61], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Come on, 모두 돌아봐",
+      "lyric_translation": "(Come on) Everyone look around",
+      "parts": [
+        {"lyric": "(Come on)",
+          "range": [36.61, 37.41], "ans": [5]},
+        {"lyric": "Modu dora bwa",
+          "range": [36.71, 38.21], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ne chingudeuldo da ttokkatae",
+      "lyric_hangul": "네 친구들도 다 똑같애",
+      "lyric_translation": "Your friends are the same too",
+      "range": [37.93, 41.49], "ans": [3]},
+    {
+      "lyric_hangul": "So come on, 그런 너라서",
+      "lyric_translation": "(So come on) Because you’re like that",
+      "parts": [
+        {"lyric": "(So come on)",
+          "range": [41.49, 42.48], "ans": [1]},
+        {"lyric": "Geureon neoraseo",
+          "range": [41.78, 43.09], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Come on, 더 갖고 싶어",
+      "lyric_translation": "(Come on) I want you more",
+      "parts": [
+        {"lyric": "(Come on)",
+          "range": [43.09, 44.36], "ans": [1]},
+        {"lyric": "Deo gatgo shipeo",
+          "range": [43.66, 44.85], "ans": [9]}
+      ]
+    },
+    {"lyric": "Jakkuman kkeullige dwae",
+      "lyric_hangul": "자꾸만 끌리게 돼",
+      "lyric_translation": "I’m more attracted to you",
+      "range": [44.58, 47.6], "ans": [9]},
+    "",
+    {"lyric": "I’ll tell you something",
+      "lyric_hangul": "I'll tell you something",
+      "lyric_translation": "I’ll tell you something",
+      "range": [47.6, 48.55], "ans": [6]},
+    {"lyric": "My heart eonje buteo ireoke",
+      "lyric_hangul": "My heart 언제부터 이렇게",
+      "lyric_translation": "My heart since when was it",
+      "range": [48.55, 51.85], "ans": [5]},
+    {"lyric": "Your heart algopa ni maeumi",
+      "lyric_hangul": "Your heart 알고파 네 마음이",
+      "lyric_translation": "Your heart I wanna know your heart",
+      "range": [51.85, 55.15], "ans": [5]},
+    {
+      "lyric_hangul": "Hot hot hot 뜨겁게 (아이야)",
+      "lyric_translation": "Hot hot hot hot",
+      "parts": [
+        {"lyric": "Hot hot hot tteugeopge",
+          "range": [55.15, 57.05], "ans": [7]},
+        {"lyric": "(aiya)",
+          "range": [56.35, 57.93], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neo ttaeme Hot hot hot tteollyeowa",
+      "lyric_hangul": "너 땜에 hot hot hot 떨려와",
+      "lyric_translation": "Because of you hot hot hot I’m trembling",
+      "range": [57.75, 60.38], "ans": [7]},
+    {"lyric": "Na dapji anke",
+      "lyric_hangul": "나 답지 않게",
+      "lyric_translation": "Unlike myself",
+      "range": [60.38, 61.52], "ans": [3]},
+    "",
+    {"lyric": "My heart nae mameun hwakshilhande",
+      "lyric_hangul": "My heart 내 맘은 확실한데",
+      "lyric_translation": "My heart I know my heart for sure",
+      "range": [61.52, 64.92], "ans": [2]},
+    {"lyric": "Your heart galsurok moreugesseo",
+      "lyric_hangul": "Your heart 갈수록 모르겠어",
+      "lyric_translation": "Your heart is becoming unclearer",
+      "range": [64.92, 68.33], "ans": [2]},
+    {
+      "lyric_hangul": "Hot hot hot 뜨겁게 (아이야)",
+      "lyric_translation": "Hot hot hot hot",
+      "parts": [
+        {"lyric": "Hot hot hot tteugeopge",
+          "range": [68.33, 70.42], "ans": [8]},
+        {"lyric": "(aiya)",
+          "range": [69.72, 71.35], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neo ttaeme hot hot hot tteollyeowa",
+      "lyric_hangul": "너 땜에 hot hot hot 떨려와",
+      "lyric_translation": "Because of you hot hot hot I’m trembling",
+      "range": [70.88, 73.74], "ans": [8]},
+    {
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "parts": [
+        {"lyric": "Teukbyeolhan neoegeman",
+          "range": [73.74, 75.24], "ans": [9]},
+        {"lyric": "(Whoa whoa)",
+          "range": [74.54, 75.7], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa whoa",
+      "lyric_hangul": "Whoa whoa",
+      "lyric_translation": "",
+      "range": [75.7, 77.02], "ans": []},
+    {
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "parts": [
+        {"lyric": "Teukbyeolhan neoegeman",
+          "range": [77.02, 78.39], "ans": [1]},
+        {"lyric": "(Whoa whoa oh)",
+          "range": [77.69, 79.33], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa whoa ah",
+      "lyric_hangul": "Whoa whoa ah",
+      "lyric_translation": "",
+      "range": [79.33, 82.08], "ans": []},
+    "",
+    {
+      "lyric_hangul": "날 좀 봐봐 나 여깄잖아 냉냉한 네 마음 얼음 같아",
+      "lyric_translation": "Look at me, I’m here / Your cold heart is like ice",
+      "parts": [
+        {"lyric": "Nal jom bwabwa na yeogitjana",
+          "range": [82.08, 83.56], "ans": [7]},
+        {"lyric": "Naengnaenghan ni maeum eoreum gata",
+          "range": [83.56, 85.37], "ans": [7]}
+      ]
+    },
+    {"lyric": "Naega nogyeo julkke sareureu",
+      "lyric_hangul": "내가 녹여줄게 사르르",
+      "lyric_translation": "I’ll melt you slowly",
+      "range": [85.37, 88.95], "ans": [7]},
+    {
+      "lyric_hangul": "딴 애들은 날 보는데 왜 너만 날 모른 체해",
+      "lyric_translation": "Other guys are looking at me / So why do you act like you don’t know me",
+      "parts": [
+        {"lyric": "Ttan aedeureun nal boneunde",
+          "range": [88.95, 90.27], "ans": [8]},
+        {"lyric": "Wae neoman nal moreun chehae",
+          "range": [90.27, 92.03], "ans": [8]}
+      ]
+    },
+    {"lyric": "Neujeo beorigi jeone Open your heart",
+      "lyric_hangul": "늦어 버리기 전에 open your heart",
+      "lyric_translation": "Before it’s too late, open your heart",
+      "range": [91.99, 95.03], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "So come on, 다가와 내게",
+      "lyric_translation": "(So come on) Come to me",
+      "parts": [
+        {"lyric": "(So come on)",
+          "range": [95.03, 96.18], "ans": [5]},
+        {"lyric": "Dagawa naege",
+          "range": [95.48, 96.91], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Come on, 조금씩 내게",
+      "lyric_translation": "(Come on) Slowly to me",
+      "parts": [
+        {"lyric": "(Come on)",
+          "range": [96.55, 97.8], "ans": [5]},
+        {"lyric": "Jogeumsshik naege",
+          "range": [97.1, 98.63], "ans": [6]}
+      ]
+    },
+    {"lyric": "Neon mweonde nae maeumeul deo tteollige hae",
+      "lyric_hangul": "넌 뭔데 내 마음을 더 떨리게 해",
+      "lyric_translation": "Who are you and why do you make my heart tremble more",
+      "range": [98.36, 101.85], "ans": [6]},
+    {
+      "lyric_hangul": "So come on, 네 마음 내게",
+      "lyric_translation": "(So come on) Your heart to me",
+      "parts": [
+        {"lyric": "(So come on)",
+          "range": [101.85, 103.1], "ans": [1]},
+        {"lyric": "Ni maeum naege",
+          "range": [102.4, 103.63], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Come on, 조금씩 내게",
+      "lyric_translation": "(Come on) Little by little, to me",
+      "parts": [
+        {"lyric": "(Come on)",
+          "range": [103.23, 104.54], "ans": [1]},
+        {"lyric": "Jogeumsshik naege",
+          "range": [103.84, 105.31], "ans": [9]}
+      ]
+    },
+    {"lyric": "Ijen jom dagawa",
+      "lyric_hangul": "이젠 좀 다가와",
+      "lyric_translation": "Now come to me",
+      "range": [105.15, 107.64], "ans": [9]},
+    "",
+    "[next-col]",
+    {"lyric": "I’ll tell you something",
+      "lyric_hangul": "I'll tell you something",
+      "lyric_translation": "I’ll tell you something",
+      "range": [107.64, 109.0], "ans": [6]},
+    {"lyric": "My heart eonje buteo ireoke",
+      "lyric_hangul": "My heart 언제 부터 이렇게",
+      "lyric_translation": "My heart since when was it",
+      "range": [109.0, 112.46], "ans": [5]},
+    {"lyric": "Your heart algopa ni maeumi",
+      "lyric_hangul": "Your heart 알고파 네 마음이",
+      "lyric_translation": "Your heart I wanna know your heart",
+      "range": [112.46, 115.87], "ans": [5]},
+    {
+      "lyric_hangul": "Hot hot hot 뜨겁게 (아이야)",
+      "lyric_translation": "Hot hot hot hot",
+      "parts": [
+        {"lyric": "Hot hot hot tteugeopge",
+          "range": [115.87, 117.63], "ans": [7]},
+        {"lyric": "(aiya)",
+          "range": [117.63, 118.33], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neo ttaeme Hot hot hot tteollyeowa",
+      "lyric_hangul": "너 땜에 hot hot hot 떨려와",
+      "lyric_translation": "Because of you hot hot hot I’m trembling",
+      "range": [118.21, 120.98], "ans": [7]},
+    {"lyric": "Na dapji anke",
+      "lyric_hangul": "나 답지 않게",
+      "lyric_translation": "Unlike myself",
+      "range": [120.98, 122.55], "ans": [3]},
+    "",
+    {"lyric": "My heart nae mameun hwakshilhande",
+      "lyric_hangul": "My heart 내 맘은 확실한데",
+      "lyric_translation": "My heart I know my heart for sure",
+      "range": [122.55, 125.81], "ans": [2]},
+    {"lyric": "Your heart galsurok moreugesseo",
+      "lyric_hangul": "Your heart 갈수록 모르겠어",
+      "lyric_translation": "Your heart is becoming unclearer",
+      "range": [125.81, 129.24], "ans": [2]},
+    {
+      "lyric_hangul": "Hot hot hot 뜨겁게 (아이야)",
+      "lyric_translation": "Hot hot hot hot",
+      "parts": [
+        {"lyric": "Hot hot hot tteugeopge",
+          "range": [129.24, 130.82], "ans": [8]},
+        {"lyric": "(aiya)",
+          "range": [130.12, 131.68], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neo ttaeme hot hot hot tteollyeowa",
+      "lyric_hangul": "너 땜에 hot hot hot 떨려와",
+      "lyric_translation": "Because of you hot hot hot I’m trembling",
+      "range": [131.61, 134.57], "ans": [8]},
+    {"lyric": "Teukbyeolhan neoegeman",
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "range": [134.57, 136.63], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "처음 느껴지는 이 기분 higher, higher, 자꾸만",
+      "lyric_translation": "This new feeling / Higher higher keeps on",
+      "parts": [
+        {"lyric": "Cheoeum neukkyeojineun i gibun",
+          "range": [136.63, 140.56], "ans": [6]},
+        {"lyric": "Higher higher jakkuman",
+          "range": [140.56, 142.69], "ans": [6]}
+      ]
+    },
+    {"lyric": "Neol gatgo shipeun i mam Higher",
+      "lyric_hangul": "널 갖고 싶은 이 맘 higher",
+      "lyric_translation": "This feeling that I want you higher",
+      "range": [142.69, 147.19], "ans": [6]},
+    {"lyric": "Eotteoke haeya dwae",
+      "lyric_hangul": "어떻게 해야 돼",
+      "lyric_translation": "What should I do",
+      "range": [147.19, 149.22], "ans": [6]},
+    {"lyric": "Lalalalalala lalalalala",
+      "lyric_hangul": "Lalalalalala lalalalala",
+      "lyric_translation": "",
+      "range": [149.22, 152.53], "ans": []},
+    {"lyric": "Lalalalalala lalalalala",
+      "lyric_hangul": "Lalalalalala lalalalala",
+      "lyric_translation": "",
+      "range": [152.53, 155.19], "ans": []},
+    "",
+    {
+      "lyric_hangul": "날 설레게 해 미치게 해 너는 뭘 원하는건데",
+      "lyric_translation": "It makes my heart flutter, it makes me crazy / What is it that you want",
+      "parts": [
+        {"lyric": "Nal seollege hae michige hae",
+          "range": [155.19, 157.71], "ans": [1]},
+        {"lyric": "Neoneun mweol weonhaneungeonde",
+          "range": [157.71, 159.41], "ans": [1]}
+      ]
+    },
+    {"lyric": "Naege dagawa jweo",
+      "lyric_hangul": "내게 다가와줘",
+      "lyric_translation": "Come to me",
+      "range": [158.75, 161.15], "ans": [1]},
+    "",
+    {"lyric": "I’ll tell you something",
+      "lyric_hangul": "I'll tell you something",
+      "lyric_translation": "I’ll tell you something",
+      "range": [161.15, 162.21], "ans": [6]},
+    {"lyric": "My heart eonje buteo ireoke",
+      "lyric_hangul": "My heart 언제 부터 이렇게",
+      "lyric_translation": "My heart since when was it",
+      "range": [162.21, 165.69], "ans": [5]},
+    {"lyric": "Your heart algopa ni maeumi",
+      "lyric_hangul": "Your heart 알고파 네 마음이",
+      "lyric_translation": "Your heart I wanna know your heart",
+      "range": [165.69, 168.76], "ans": [5]},
+    {
+      "lyric_hangul": "Hot hot hot 뜨겁게 (아이야)",
+      "lyric_translation": "Hot hot hot hot",
+      "parts": [
+        {"lyric": "Hot hot hot tteugeopge",
+          "range": [168.76, 170.8], "ans": [7]},
+        {"lyric": "(aiya)",
+          "range": [170.1, 172.06], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neo ttaeme Hot hot hot tteollyeowa",
+      "lyric_hangul": "너 땜에 hot hot hot 떨려와",
+      "lyric_translation": "Because of you hot hot hot I’m trembling",
+      "range": [171.48, 174.65], "ans": [7]},
+    {"lyric": "Na dapji anke",
+      "lyric_hangul": "나 답지 않게",
+      "lyric_translation": "Unlike myself",
+      "range": [174.65, 176.02], "ans": [3]},
+    "",
+    {"lyric": "My heart nae mameun hwakshilhande",
+      "lyric_hangul": "My heart 내 맘은 확실한데",
+      "lyric_translation": "My heart I know my heart for sure",
+      "range": [176.02, 179.31], "ans": [2]},
+    {"lyric": "Your heart galsurok moreugesseo",
+      "lyric_hangul": "Your heart 갈수록 모르겠어",
+      "lyric_translation": "Your heart is becoming unclearer",
+      "range": [179.31, 182.72], "ans": [2]},
+    {
+      "lyric_hangul": "Hot hot hot 뜨겁게 (아이야)",
+      "lyric_translation": "Hot hot hot hot",
+      "parts": [
+        {"lyric": "Hot hot hot tteugeopge",
+          "range": [182.72, 184.52], "ans": [8]},
+        {"lyric": "(aiya)",
+          "range": [183.82, 185.47], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neo ttaeme hot hot hot tteollyeowa",
+      "lyric_hangul": "너 땜에 hot hot hot 떨려와",
+      "lyric_translation": "Because of you hot hot hot I’m trembling",
+      "range": [185.19, 188.17], "ans": [8]},
+    {
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "parts": [
+        {"lyric": "Teukbyeolhan neoegeman",
+          "range": [188.17, 189.38], "ans": [9]},
+        {"lyric": "(Whoa whoa)",
+          "range": [188.68, 190.05], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa whoa",
+      "lyric_hangul": "Whoa whoa",
+      "lyric_translation": "",
+      "range": [190.05, 191.44], "ans": []},
+    {
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "parts": [
+        {"lyric": "Teukbyeolhan neoegeman",
+          "range": [191.44, 192.72], "ans": [4]},
+        {"lyric": "(Whoa whoa)",
+          "range": [192.02, 193.71], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa whoa ah",
+      "lyric_hangul": "Whoa whoa ah",
+      "lyric_translation": "",
+      "range": [193.71, 194.15], "ans": []},
+    {
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "parts": [
+        {"lyric": "Teukbyeolhan neoegeman",
+          "range": [194.15, 195.88], "ans": [3]},
+        {"lyric": "(Whoa whoa)",
+          "range": [195.18, 196.5], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa whoa",
+      "lyric_hangul": "Whoa whoa",
+      "lyric_translation": "",
+      "range": [196.5, 198.08], "ans": []},
+    {
+      "lyric_hangul": "특별한 너에게만",
+      "lyric_translation": "Only because you’re special",
+      "parts": [
+        {"lyric": "Teukbyeolhan neoegeman",
+          "range": [198.08, 199.45], "ans": [1]},
+        {"lyric": "(Whoa whoa oh)",
+          "range": [198.75, 199.76], "ans": [5]}
+      ]
+    },
+    {"lyric": "Whoa whoa ah",
+      "lyric_hangul": "Whoa whoa ah",
+      "lyric_translation": "",
+      "range": [199.76, 201.18], "ans": []},
+    "",
+    {"lyric": "You got me shot through the heart",
+      "lyric_hangul": "You got me shot through the heart",
+      "lyric_translation": "You got me shot through the heart",
+      "range": [201.18, 205.11], "ans": [6]}
+  ]
+}

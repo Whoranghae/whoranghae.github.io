@@ -1,0 +1,321 @@
+{
+  "name": "0801\r",
+  "ogg": "sound/kpop/0801.ogg",
+  "id": "0801",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2025-08-22",
+  "album": "KARMA",
+  "cover": "css/images/covers/0801.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:13Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I know that you’re holding on",
+      "lyric_hangul": "I know that you're holdin' on",
+      "lyric_translation": "I know that you’re holding on",
+      "range": [9.92, 13.43], "ans": [7]},
+    {"lyric": "You say that you’re ok when you’re not",
+      "lyric_hangul": "You say that you're okay when you're not, hm",
+      "lyric_translation": "You say that you’re ok when you’re not",
+      "range": [13.43, 18.34], "ans": [7]},
+    {"lyric": "But when you’re stuck inside the dark",
+      "lyric_hangul": "But when you're stuck inside the dark",
+      "lyric_translation": "But when you’re stuck inside the dark",
+      "range": [18.34, 22.07], "ans": [5]},
+    {
+      "lyric_hangul": "Just know that I'm right here waitin', let's go and see the light",
+      "lyric_translation": "Just know that I’m right here waiting / Let’s go and see the light",
+      "parts": [
+        {"lyric": "Just know that I’m right here waiting",
+          "range": [22.07, 24.66], "ans": [5]},
+        {"lyric": "Let’s go and see the light",
+          "range": [24.66, 27.62], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Yunanhi chuweotteon gyeoure dashi",
+      "lyric_hangul": "유난히 추웠던 겨울에 다시 (다시)",
+      "lyric_translation": "Just like spring returns",
+      "range": [27.62, 32.13], "ans": [6]},
+    {"lyric": "Bomi oneun geotcheoreom",
+      "lyric_hangul": "봄이 오는 것처럼 (oh, whoa, whoa)",
+      "lyric_translation": "After a bitter winter",
+      "range": [32.13, 36.09], "ans": [6]},
+    {"lyric": "Yunanhi memallatteon ttange kkochi",
+      "lyric_hangul": "유난히 메말랐던 땅에 꽃이 (꽃이)",
+      "lyric_translation": "Just like flowers bloom on land",
+      "range": [36.09, 40.18], "ans": [4]},
+    {"lyric": "Pieonaneun geotcheoreom",
+      "lyric_hangul": "피어나는 것처럼",
+      "lyric_translation": "That once was particularly dry",
+      "range": [40.18, 43.05], "ans": [4]},
+    "",
+    {"lyric": "I know how it feels to be alone",
+      "lyric_hangul": "I know how it feels to be alone",
+      "lyric_translation": "I know how it feels to be alone",
+      "range": [43.05, 47.67], "ans": [8]},
+    {"lyric": "I’ve wandered astray, oh I’ve been lost",
+      "lyric_hangul": "I've wandered astray, oh, I've been lost",
+      "lyric_translation": "I’ve wandered astray, oh I’ve been lost",
+      "range": [47.67, 52.1], "ans": [8]},
+    {"lyric": "Let out all your tears, I’ll keep you close",
+      "lyric_hangul": "Let out all your tears, I'll keep you close",
+      "lyric_translation": "Let out all your tears, I’ll keep you close",
+      "range": [52.1, 56.49], "ans": [7]},
+    {"lyric": "Hold on to my hands, don’t give up",
+      "lyric_hangul": "Hold on to my hands, don't give up",
+      "lyric_translation": "Hold on to my hands, don’t give up",
+      "range": [56.49, 60.11], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "꽃처럼 특별한 널 위해, 햇살이 되어 줄게",
+      "lyric_translation": "For you, who’s as special as a flower / I’ll be your sunshine",
+      "parts": [
+        {"lyric": "Kkotcheoreom teukbyeolhan neol wihae",
+          "range": [60.11, 63.81], "ans": [1]},
+        {"lyric": "Haessari dweeo julge",
+          "range": [63.81, 66.28], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "It's gonna be okay, I'm right here",
+      "lyric_translation": "It’s gonna be ok / I’m right here",
+      "parts": [
+        {"lyric": "It’s gonna be ok",
+          "range": [66.28, 68.32], "ans": [1]},
+        {"lyric": "I’m right here",
+          "range": [68.32, 70.11], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "힘들 때 널 위로해 줄게, 널 위해서 평생",
+      "lyric_translation": "I’ll comfort you when you’re having a hard time / For the rest of my life",
+      "parts": [
+        {"lyric": "Himdeul ttae neol wirohae julge",
+          "range": [70.11, 72.58], "ans": [2]},
+        {"lyric": "Neol wihaeseo pyeongsaeng",
+          "range": [72.58, 74.65], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "노래 불러 줄게, I'm right here, yeah",
+      "lyric_translation": "I’ll sing for you / I’m right here yeah",
+      "parts": [
+        {"lyric": "Norae bulleo julge",
+          "range": [74.5, 77.0], "ans": [2]},
+        {"lyric": "I’m right here yeah",
+          "range": [77.0, 80.53], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [80.53, 84.77], "ans": [8]},
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [84.77, 89.16], "ans": [8]},
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [89.16, 93.46], "ans": [4]},
+    {
+      "lyric_hangul": "I'll stay forever, I'm right here",
+      "lyric_translation": "I’ll STAY forever, I’m right here",
+      "parts": [
+        {"lyric": "I’ll STAY forever",
+          "range": [93.46, 95.8], "ans": [4]},
+        {"lyric": "I’m right here",
+          "range": [95.1, 97.71], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Jal hago isseo raneun mareul subaek beon deureodo",
+      "lyric_hangul": "\"잘 하고 있어\" 라는 말을 수백 번 들어도",
+      "lyric_translation": "Even if you hear a hundred “You’re doing good”",
+      "range": [97.71, 100.94], "ans": [3]},
+    {
+      "lyric_hangul": "내 맘대로 안되는 날들이 분명 있는 것도 너무나 잘 알고 있는 걸",
+      "lyric_translation": "I know so well that there are still days / When nothing seems to go your way",
+      "parts": [
+        {"lyric": "Nae mamdaero andweneun naldeuri",
+          "range": [100.94, 103.12], "ans": [3]},
+        {"lyric": "Bunmyeong inneun geotto neomuna jal algo inneun geol",
+          "range": [103.12, 105.72], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "힘들다고 그냥 외쳐, 속 시원한 채 나와 함께 달려",
+      "lyric_translation": "Just shout it out and let it all go / Then run with me, feeling that sweet relief",
+      "parts": [
+        {"lyric": "Himdeuldago geunyang wechyeo",
+          "range": [105.72, 107.68], "ans": [3]},
+        {"lyric": "Sok shiweonhan chae nawa hamkke dallyeo",
+          "range": [107.68, 110.05], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "한 가지만 약속해 줘 절대 잊지 마, 혼자가 아닌 걸",
+      "lyric_translation": "Just promise me one thing / Never forget that you’re not alone",
+      "parts": [
+        {"lyric": "Han gajiman yaksokhae jweo jeoldae itji ma",
+          "range": [110.05, 112.47], "ans": [3]},
+        {"lyric": "Honjaga anin geol",
+          "range": [112.47, 113.23], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "I know how it feels to be alone",
+      "lyric_hangul": "I know how it feels to be alone",
+      "lyric_translation": "I know how it feels to be alone",
+      "range": [112.61, 117.55], "ans": [5]},
+    {"lyric": "I’ve wandered astray, oh I’ve been lost",
+      "lyric_hangul": "I've wandered astray, oh, I've been lost",
+      "lyric_translation": "I’ve wandered astray, oh I’ve been lost",
+      "range": [117.55, 121.88], "ans": [5]},
+    {"lyric": "Let out all your tears, I’ll keep you close",
+      "lyric_hangul": "Let out all your tears, I'll keep you close",
+      "lyric_translation": "Let out all your tears, I’ll keep you close",
+      "range": [121.88, 126.07], "ans": [1]},
+    {"lyric": "Hold on to my hands, don’t give up",
+      "lyric_hangul": "Hold on to my hands, don't give up",
+      "lyric_translation": "Hold on to my hands, don’t give up",
+      "range": [126.07, 130.29], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "You're doing great, okay? Bloomin' in the rain",
+      "lyric_translation": "You’re doing great, ok? / Blooming in the rain",
+      "parts": [
+        {"lyric": "You’re doing great, ok?",
+          "range": [130.29, 133.75], "ans": [6]},
+        {"lyric": "Blooming in the rain",
+          "range": [133.75, 135.93], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll always stay, right here, all day",
+      "lyric_translation": "I’ll always STAY / Right here, all day",
+      "parts": [
+        {"lyric": "I’ll always STAY",
+          "range": [135.93, 138.15], "ans": [6]},
+        {"lyric": "Right here, all day",
+          "range": [138.15, 140.18], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You're doing great, bloomin' in the rain",
+      "lyric_translation": "You’re doing great / Blooming in the rain",
+      "parts": [
+        {"lyric": "You’re doing great",
+          "range": [140.18, 142.51], "ans": [5]},
+        {"lyric": "Blooming in the rain",
+          "range": [142.51, 144.75], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll always stay, right here",
+      "lyric_translation": "I’ll always STAY / Right here",
+      "parts": [
+        {"lyric": "I’ll always STAY",
+          "range": [144.75, 146.84], "ans": [5]},
+        {"lyric": "Right here",
+          "range": [146.84, 147.82], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "꽃처럼 특별한 널 위해, 햇살이 되어 줄게",
+      "lyric_translation": "For you, who’s as special as a flower / I’ll be your sunshine",
+      "parts": [
+        {"lyric": "Kkotcheoreom teukbyeolhan neol wihae",
+          "range": [147.82, 151.12], "ans": [2]},
+        {"lyric": "Haessari dweeo julge",
+          "range": [151.12, 153.57], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "It's gonna be okay, I'm right here",
+      "lyric_translation": "It’s gonna be ok / I’m right here",
+      "parts": [
+        {"lyric": "It’s gonna be ok",
+          "range": [153.57, 155.6], "ans": [2]},
+        {"lyric": "I’m right here",
+          "range": [155.6, 157.45], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "힘들 때 널 위로해 줄게, 널 위해서 평생",
+      "lyric_translation": "I’ll comfort you when you’re having a hard time / For the rest of my life",
+      "parts": [
+        {"lyric": "Himdeul ttae neol wirohae julge",
+          "range": [157.45, 159.93], "ans": [7]},
+        {"lyric": "Neol wihaeseo pyeongsaeng",
+          "range": [159.93, 162.11], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "노래 불러 줄게, I'm right here, yeah",
+      "lyric_translation": "I’ll sing for you / I’m right here yeah",
+      "parts": [
+        {"lyric": "Norae bulleo julge",
+          "range": [162.11, 164.28], "ans": [7]},
+        {"lyric": "I’m right here yeah",
+          "range": [164.28, 167.99], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [167.5, 171.92], "ans": [4]},
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [171.92, 176.49], "ans": [4]},
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [176.49, 180.66], "ans": [8]},
+    {
+      "lyric_hangul": "I'll stay forever, I'm right here",
+      "lyric_translation": "I’ll STAY forever, I’m right here",
+      "parts": [
+        {"lyric": "I’ll STAY forever",
+          "range": [180.66, 181.79], "ans": [8]},
+        {"lyric": "I’m right here",
+          "range": [182.9, 184.82], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [184.82, 189.33], "ans": [3]},
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [189.33, 193.95], "ans": [3]},
+    {"lyric": "I’ll STAY forever, oh I’ll STAY here",
+      "lyric_hangul": "I'll stay forever, oh, I'll stay here",
+      "lyric_translation": "I’ll STAY forever, oh I’ll STAY here",
+      "range": [193.95, 197.94], "ans": [6]},
+    {
+      "lyric_hangul": "I'll stay forever, I'm right here",
+      "lyric_translation": "I’ll STAY forever, I’m right here",
+      "parts": [
+        {"lyric": "I’ll STAY forever",
+          "range": [197.94, 200.45], "ans": [6]},
+        {"lyric": "I’m right here",
+          "range": [199.75, 204.03], "ans": [1]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "name": "Mixtape : Time Out\r",
+  "ogg": "sound/kpop/mixtape_time_out.ogg",
+  "id": "mixtape-time-out",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2022-08-01",
+  "album": "Mixtape : Time Out",
+  "cover": "css/images/covers/mixtape-time-out.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:09Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Oh",
+      "lyric_hangul": "Oh",
+      "lyric_translation": "",
+      "range": [20.58, 23.0], "ans": []},
+    {
+      "lyric_hangul": "Oh Yeah-eh-eh",
+      "lyric_translation": "Oh / Yeah",
+      "parts": [
+        {"lyric": "Oh",
+          "range": [20.58, 23.0], "ans": [1]},
+        {"lyric": "Yeah",
+          "range": [23.0, 27.04], "ans": [1]}
+      ]
+    },
+    {"lyric": "Oh woah yeah",
+      "lyric_hangul": "Oh-whoa, yeah",
+      "lyric_translation": "Oh woah yeah",
+      "range": [27.04, 28.67], "ans": [1]},
+    {"lyric": "1 2 3 Let’s Go!",
+      "lyric_hangul": "One, two, three, let's go!",
+      "lyric_translation": "1 2 3 Let’s Go!",
+      "range": [28.67, 29.86], "ans": [6]},
+    "",
+    {"lyric": "Breathe kkaekkeuthan gonggireul mashyeo",
+      "lyric_hangul": "Breathe 깨끗한 공기를 마셔",
+      "lyric_translation": "Breathe in the clean air",
+      "range": [29.86, 33.76], "ans": [7]},
+    {"lyric": "I can feel it in my heart",
+      "lyric_hangul": "I can feel it in my heart",
+      "lyric_translation": "I can feel it in my heart",
+      "range": [33.76, 36.81], "ans": [7]},
+    {"lyric": "Naebaeteun hansume baero deurikyeo",
+      "lyric_hangul": "내뱉은 한숨의 배로 들이켜",
+      "lyric_translation": "Breathe in twice as much as the sigh I let out",
+      "range": [36.81, 39.94], "ans": [7]},
+    {"lyric": "Umcheurin mom ireukyeo seweo",
+      "lyric_hangul": "움츠린 몸 일으켜 세워",
+      "lyric_translation": "Raise myself up",
+      "range": [39.94, 43.02], "ans": [7]},
+    "",
+    {"lyric": "Jinan ireun jinagan daero",
+      "lyric_hangul": "지난 일은 지나간 대로",
+      "lyric_translation": "Let the past be the past",
+      "range": [43.02, 45.68], "ans": [8]},
+    {"lyric": "Huhweneun gwageoe mudeodun chaero",
+      "lyric_hangul": "후회는 과거에 묻어둔 채로",
+      "lyric_translation": "Leave regrets in the past",
+      "range": [45.68, 48.41], "ans": [8]},
+    {"lyric": "Apman bogoseo dallyeo",
+      "lyric_hangul": "앞만 보고서 달려",
+      "lyric_translation": "Only look forward while running",
+      "range": [48.41, 51.56], "ans": [8]},
+    {"lyric": "Oh oh oh oh",
+      "lyric_hangul": "Oh, oh-oh-oh-oh-oh",
+      "lyric_translation": "Oh oh oh oh",
+      "range": [51.56, 53.99], "ans": [8]},
+    "",
+    {"lyric": "Ppeong ttullin haeandoro wireul dallineun geoya",
+      "lyric_hangul": "뻥 뚫린 해안도로 위를 달리는 거야",
+      "lyric_translation": "Drive down the open coastal road",
+      "range": [53.99, 57.54], "ans": [3]},
+    {"lyric": "Teong biweonocha meorissoge jabgeotteureul da bomb hey",
+      "lyric_hangul": "텅 비워놓자 머릿속의 잡것들을 다 bomb, hey",
+      "lyric_translation": "Let all the distracting thoughts go, everything bomb hey",
+      "range": [57.54, 60.69], "ans": [3]},
+    {"lyric": "Nobody can touch me",
+      "lyric_hangul": "Nobody can touch me",
+      "lyric_translation": "Nobody can touch me",
+      "range": [60.69, 62.76], "ans": [6]},
+    {"lyric": "Oneul bameun bamsaedo pigonhal li eopji",
+      "lyric_hangul": "오늘 밤은 밤새도 피곤할 리 없지",
+      "lyric_translation": "I won’t be tired tonight even if I stay up all night",
+      "range": [62.76, 68.46], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "So come on, let's go 떠나 다 미루고",
+      "lyric_translation": "So come on / Let’s go, leave everything behind",
+      "parts": [
+        {"lyric": "So come on",
+          "range": [68.46, 70.38], "ans": [5]},
+        {"lyric": "Let’s go tteona da mirugo",
+          "range": [70.38, 72.36], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "어디든 가자 여기서 멀리로 run to (run to), run to (run to)",
+      "lyric_translation": "Wherever it may be, somewhere far from here run to (run to) / Run to (run to)",
+      "parts": [
+        {"lyric": "Eodideun gaja yeogiseo meolliro run to",
+          "range": [72.08, 75.71], "ans": [5]},
+        {"lyric": "(run to)",
+          "range": [75.01, 76.81], "ans": []},
+        {"lyric": "Run to",
+          "range": [76.11, 77.08], "ans": [5]},
+        {"lyric": "(run to)",
+          "range": [76.94, 78.08], "ans": []}
+      ]
+    },
+    {"lyric": "Pureuge pyeolchyeojin eodingaro oh oh",
+      "lyric_hangul": "푸르게 펼쳐진 어딘가로, oh, oh",
+      "lyric_translation": "Somewhere refreshing and wide open oh oh",
+      "range": [77.94, 80.62], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "So come on, pack up 필요한 건 텅 빈 머리",
+      "lyric_translation": "So come on / Pack up, all you need is an empty mind",
+      "parts": [
+        {"lyric": "So come on",
+          "range": [80.62, 82.2], "ans": [1]},
+        {"lyric": "Pack up piryohan geon teong bin meori",
+          "range": [82.2, 84.5], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "살랑이는 바람 따라가자 we run to (run to), run to (run to)",
+      "lyric_translation": "Let’s follow the gentle breeze, we run to (run to) / Run to (run to)",
+      "parts": [
+        {"lyric": "Sallangineun baram ttaragaja we run to",
+          "range": [84.5, 87.65], "ans": [1]},
+        {"lyric": "(run to)",
+          "range": [86.95, 88.73], "ans": []},
+        {"lyric": "Run to",
+          "range": [88.11, 89.12], "ans": [1]},
+        {"lyric": "(run to)",
+          "range": [88.78, 90.05], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "복잡히 꼬여버린 생각은 버리고 go time out (one, two, three, four)",
+      "lyric_translation": "Throw away all your tangled, complicated thoughts and go / Time Out / (1 2 3 4)",
+      "parts": [
+        {"lyric": "Bokjabhi kkoyeobeorin saenggageun beorigo go",
+          "range": [89.98, 93.32], "ans": [7]},
+        {"lyric": "Time Out",
+          "range": [93.32, 95.0], "ans": [7]},
+        {"lyric": "(1 2 3 4)",
+          "range": [94.3, 95.06], "ans": [4]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "안 내면 술래 비기면 또 해 손 들어 가위바위보",
+      "lyric_translation": "If you don’t play, you’re It, if we tie, we’ll do it all over again / Put your hands up, rock paper scissors",
+      "parts": [
+        {"lyric": "An naemyeon sullae bigimyeon tto hae",
+          "range": [95.06, 96.89], "ans": [4]},
+        {"lyric": "Son deureo gawibawibo",
+          "range": [96.89, 98.07], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "도로 위 톨게이트 지나서 휴게소 가 맘껏 사 들고",
+      "lyric_translation": "Drive past the tollgate and stop by the rest area / Buy everything you want",
+      "parts": [
+        {"lyric": "Doro wi tolgeiteu jinaseo hyugeso ga",
+          "range": [98.07, 100.1], "ans": [4]},
+        {"lyric": "Mamkkeot sa deulgo",
+          "range": [100.1, 101.23], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "풀장이든 바다와 바람과 파란 sky 팔랑거려 내 맘 알아",
+      "lyric_translation": "A swimming pool or the sea, the wind and blue sky / You know how my heart is fluttering",
+      "parts": [
+        {"lyric": "Puljangideun badawa baramgwa paran sky",
+          "range": [101.23, 102.87], "ans": [5]},
+        {"lyric": "Pallanggeoryeo nae mam ara",
+          "range": [102.87, 104.04], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "날씨도 풀렸다 하늘 좀 봐라, 자잘한 고민은 다 날리고 (가자)",
+      "lyric_translation": "The weather is warm look at the sky / Blow away all your small worries and let’s go",
+      "parts": [
+        {"lyric": "Nalsshido pullyeotta haneul jom bwara",
+          "range": [104.04, 105.46], "ans": [5]},
+        {"lyric": "Jajalhan gomineun da nalligo gaja",
+          "range": [105.46, 107.3], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Go, let the stress fly away",
+      "lyric_hangul": "Go, let the stress fly away",
+      "lyric_translation": "Go, let the stress fly away",
+      "range": [106.76, 109.44], "ans": [6]},
+    {"lyric": "Don’t worry ’bout tomorrow",
+      "lyric_hangul": "Don't worry 'bout tomorrow",
+      "lyric_translation": "Don’t worry ’bout tomorrow",
+      "range": [109.44, 112.56], "ans": [6]},
+    {"lyric": "So we’ll just have some fun right now",
+      "lyric_hangul": "So we'll just have some fun right now",
+      "lyric_translation": "So we’ll just have some fun right now",
+      "range": [112.56, 116.2], "ans": [6]},
+    {"lyric": "Jipyeongseone seogyang baegyeong sama jaba pose",
+      "lyric_hangul": "지평선에 석양 배경 삼아 잡아 pose",
+      "lyric_translation": "With the sunset on the horizon as the backdrop, pose",
+      "range": [116.2, 118.41], "ans": [2]},
+    "",
+    {"lyric": "Ppeong ttullin haeandoro wireul dallineun geoya",
+      "lyric_hangul": "뻥 뚫린 해안도로 위를 달리는 거야",
+      "lyric_translation": "Drive down the open coastal road",
+      "range": [118.41, 121.94], "ans": [3]},
+    {"lyric": "Teong biweonocha meorissoge jabgeotteureul da bomb hey",
+      "lyric_hangul": "텅 비워놓자 머릿속의 잡것들을 다 bomb, hey",
+      "lyric_translation": "Let all the distracting thoughts go, everything bomb hey",
+      "range": [121.94, 125.31], "ans": [3]},
+    {"lyric": "Nobody can touch me",
+      "lyric_hangul": "Nobody can touch me",
+      "lyric_translation": "Nobody can touch me",
+      "range": [125.31, 127.44], "ans": [6]},
+    {"lyric": "Oneul bameun bamsaedo pigonhal li eopji",
+      "lyric_hangul": "오늘 밤은 밤새도 피곤할 리 없지",
+      "lyric_translation": "I won’t be tired tonight even if I stay up all night",
+      "range": [127.44, 131.03], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "Oh, oh-oh-oh (망설일 필요 없어)",
+      "lyric_translation": "Oh oh oh oh / No need to hesitate",
+      "parts": [
+        {"lyric": "Oh oh oh oh",
+          "range": [131.03, 132.94], "ans": [1, 5]},
+        {"lyric": "Mangseoril piryo eopseo",
+          "range": [132.24, 134.07], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh, oh-oh-oh ('cause this is our time)",
+      "lyric_translation": "Oh oh oh oh / ’Cause this is our time",
+      "parts": [
+        {"lyric": "Oh oh oh oh",
+          "range": [134.07, 135.88], "ans": [1, 5]},
+        {"lyric": "’Cause this is our time",
+          "range": [135.18, 136.92], "ans": [6]}
+      ]
+    },
+    {"lyric": "Oh oh oh oh oh oh",
+      "lyric_hangul": "Oh, oh-oh-oh-oh-oh",
+      "lyric_translation": "Oh oh oh oh oh oh",
+      "range": [136.91, 139.54], "ans": [1, 5]},
+    {"lyric": "Modeun jimeun naeryeodugoseo here we go",
+      "lyric_hangul": "모든 짐은 내려두고서 here we go",
+      "lyric_translation": "Lay all your worries down, here we go",
+      "range": [139.54, 144.94], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "So come on, let's go 떠나 다 미루고",
+      "lyric_translation": "So come on / Let’s go, leave everything behind",
+      "parts": [
+        {"lyric": "So come on",
+          "range": [146.59, 148.33], "ans": [2]},
+        {"lyric": "Let’s go tteona da mirugo",
+          "range": [148.33, 150.31], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "어디든 가자 여기서 멀리로 run to (run to), run to (run to)",
+      "lyric_translation": "Wherever it may be, somewhere far from here run to (run to) / Run to (run to)",
+      "parts": [
+        {"lyric": "Eodideun gaja yeogiseo meolliro run to",
+          "range": [150.27, 153.7], "ans": [2]},
+        {"lyric": "(run to)",
+          "range": [153.0, 154.78], "ans": []},
+        {"lyric": "Run to",
+          "range": [154.08, 155.13], "ans": [2]},
+        {"lyric": "(run to)",
+          "range": [154.93, 156.12], "ans": []}
+      ]
+    },
+    {"lyric": "Pureuge pyeolchyeojin eodingaro oh oh",
+      "lyric_hangul": "푸르게 펼쳐진 어딘가로, oh, oh",
+      "lyric_translation": "Somewhere refreshing and wide open oh oh",
+      "range": [155.87, 158.59], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "So come on, pack up 필요한 건 텅 빈 머리",
+      "lyric_translation": "So come on / Pack up, all you need is an empty mind",
+      "parts": [
+        {"lyric": "So come on",
+          "range": [158.59, 160.21], "ans": [8]},
+        {"lyric": "Pack up piryohan geon teong bin meori",
+          "range": [160.21, 162.48], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "살랑이는 바람 따라가자 we run to (run to), run to (run to)",
+      "lyric_translation": "Let’s follow the gentle breeze we run to (run to) / Run to (run to)",
+      "parts": [
+        {"lyric": "Sallangineun baram ttaragaja we run to",
+          "range": [162.48, 165.65], "ans": [8]},
+        {"lyric": "(run to)",
+          "range": [164.95, 166.83], "ans": []},
+        {"lyric": "Run to",
+          "range": [166.13, 167.12], "ans": [8]},
+        {"lyric": "(run to)",
+          "range": [166.9, 167.91], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "복잡히 꼬여버린 생각은 버리고 go time out",
+      "lyric_translation": "Throw away all your tangled, complicated thoughts and go / Time Out",
+      "parts": [
+        {"lyric": "Bokjabhi kkoyeobeorin saenggageun beorigo go",
+          "range": [167.71, 170.65], "ans": [1]},
+        {"lyric": "Time Out",
+          "range": [170.65, 175.0], "ans": [1]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "name": "Phoenix\r",
+  "ogg": "sound/kpop/phoenix.ogg",
+  "id": "phoenix",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2025-08-22",
+  "album": "Stray Kids The 4th Album “KARMA”",
+  "cover": "css/images/covers/phoenix.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:12Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I know it’s not over",
+      "lyric_hangul": "I know it's not over",
+      "lyric_translation": "N/A",
+      "range": [6.4, 13.14], "ans": [6]},
+    {
+      "lyric_hangul": "고통을 집어삼켜, whoa, 나를 깨워, oh",
+      "parts": [
+        {"lyric": "Gotongeul jibeosamkyeo",
+          "range": [13.14, 15.93], "ans": [6]},
+        {"lyric": "Nareul kkaeweo oh",
+          "range": [15.93, 20.18], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Jinagan naldeure ppajyeo, dwideopigo",
+      "lyric_hangul": "지나간 날들에 빠져, 뒤덮이고",
+      "lyric_translation": "",
+      "range": [20.18, 23.68], "ans": [5]},
+    {"lyric": "Georeum hal su eomneun nare beyeodo",
+      "lyric_hangul": "걸음 할 수 없는 날에 베여도",
+      "lyric_translation": "",
+      "range": [23.68, 27.14], "ans": [5]},
+    {"lyric": "Geueullin sangcheol dwirohae nan naraoreul naeillo ga",
+      "lyric_hangul": "그을린 상철 뒤로해 난 날아오를 내일로 가",
+      "lyric_translation": "",
+      "range": [27.14, 31.42], "ans": [5]},
+    {"lyric": "You know I won’t give up",
+      "lyric_hangul": "You know I won't give up, yeah",
+      "lyric_translation": "",
+      "range": [31.42, 35.82], "ans": [5]},
+    "",
+    {"lyric": "We’re gonna rise up again",
+      "lyric_hangul": "We're gonna rise up again",
+      "lyric_translation": "",
+      "range": [35.82, 39.67], "ans": [1]},
+    {"lyric": "Like the birds flying high",
+      "lyric_hangul": "Like the birds flyin' high",
+      "lyric_translation": "",
+      "range": [39.67, 43.06], "ans": [1]},
+    {"lyric": "Just spread them wings out again",
+      "lyric_hangul": "Just spread them wings out again",
+      "lyric_translation": "",
+      "range": [43.06, 46.31], "ans": [7]},
+    {
+      "lyric_hangul": "Touch the sky, feel the air when we glide",
+      "parts": [
+        {"lyric": "Touch the sky, feel the air when we glide",
+          "range": [46.31, 48.68], "ans": [7]},
+        {"lyric": "Oh ayo",
+          "range": [47.98, 49.63], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Oh, ay-oh) reborn with our music life",
+      "parts": [
+        {"lyric": "Reborn with our music life",
+          "range": [49.63, 52.46], "ans": [4]},
+        {"lyric": "Oh ayo",
+          "range": [51.76, 53.05], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) rebirth, rebirth",
+      "parts": [
+        {"lyric": "Rebirth rebirth",
+          "range": [53.05, 56.21], "ans": [7]},
+        {"lyric": "Oh ayo",
+          "range": [55.51, 56.63], "ans": []}
+      ]
+    },
+    {"lyric": "We’ll run through the endless fire",
+      "lyric_hangul": "(Oh, ay-oh) we'll run through the endless fire",
+      "lyric_translation": "",
+      "range": [56.63, 60.26], "ans": [3]},
+    {"lyric": "We ain’t gonna die, I’m fine",
+      "lyric_hangul": "We ain't gonna die, I'm fine",
+      "lyric_translation": "",
+      "range": [60.26, 61.84], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "Like a phoenix light up the night, I'm reborn with fire",
+      "parts": [
+        {"lyric": "Like a Phoenix",
+          "range": [61.84, 63.3], "ans": [8]},
+        {"lyric": "Light up the night",
+          "range": [63.3, 63.88], "ans": [8]},
+        {"lyric": "I’m reborn with fire",
+          "range": [63.88, 65.3], "ans": [8]},
+        {"lyric": "Light up the night",
+          "range": [64.6, 65.62], "ans": [4]},
+        {"lyric": "I’m reborn with fire",
+          "range": [65.62, 66.6], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I can't stop the fight, livin' like a phoenix",
+      "parts": [
+        {"lyric": "I can’t stop the fight living",
+          "range": [66.6, 68.68], "ans": [8]},
+        {"lyric": "I can’t stop the fight living",
+          "range": [67.98, 70.52], "ans": [4]}
+      ]
+    },
+    {"lyric": "Light up the night, I'm reborn with fire",
+      "lyric_hangul": "Light up the night, I'm reborn with fire",
+      "lyric_translation": "",
+      "range": [70.52, 73.64], "ans": []},
+    {
+      "lyric_hangul": "I can't stop the fight, livin' like a phoenix",
+      "parts": [
+        {"lyric": "Like a Phoenix",
+          "range": [73.64, 75.35], "ans": [8]},
+        {"lyric": "Like a Phoenix",
+          "range": [74.65, 76.87], "ans": [4]},
+        {"lyric": "Oh ayo",
+          "range": [76.17, 77.68], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Oh, ay-oh) 난 다시 깨어나",
+      "parts": [
+        {"lyric": "Nan dashi kkaeeona",
+          "range": [77.68, 80.55], "ans": [8]},
+        {"lyric": "Oh ayo",
+          "range": [79.85, 81.26], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) rebirth, rebirth",
+      "parts": [
+        {"lyric": "Rebirth rebirth",
+          "range": [81.26, 84.34], "ans": [8]},
+        {"lyric": "Oh ayo",
+          "range": [83.64, 84.89], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) 난 다시 깨어나",
+      "parts": [
+        {"lyric": "Nan dashi kkaeeona",
+          "range": [84.89, 87.6], "ans": [3]},
+        {"lyric": "Oh ayo",
+          "range": [86.9, 88.23], "ans": []}
+      ]
+    },
+    {"lyric": "Like a Phoenix",
+      "lyric_hangul": "(Oh, ay-oh) like a phoenix",
+      "lyric_translation": "",
+      "range": [88.23, 91.48], "ans": [3]},
+    "",
+    {"lyric": "Neoye daeum dangyeneun mweoya",
+      "lyric_hangul": "너의 다음 단계는 뭐야?",
+      "lyric_translation": "",
+      "range": [91.48, 92.73], "ans": [4]},
+    {"lyric": "Mudneundamyeon geugeon nae tto dareun doyak",
+      "lyric_hangul": "묻는다면 그건 내 또 다른 도약",
+      "lyric_translation": "",
+      "range": [92.73, 94.45], "ans": [4]},
+    {"lyric": "Meomchuji anko deo dalliji bulsshireul salliji",
+      "lyric_hangul": "멈추지 않고 더 달리지 불씨를 살리지",
+      "lyric_translation": "",
+      "range": [94.45, 96.71], "ans": [4]},
+    {"lyric": "Mae sungane I’m loyal",
+      "lyric_hangul": "매 순간에, I'm loyal",
+      "lyric_translation": "",
+      "range": [96.71, 97.92], "ans": [4]},
+    "",
+    "[next-col]",
+    {"lyric": "Deoukdeo geochilge naeshwineun sum",
+      "lyric_hangul": "더욱더 거칠게 내쉬는 숨",
+      "lyric_translation": "",
+      "range": [97.92, 99.63], "ans": [3]},
+    {"lyric": "Onshil sok hwachoro gadeukhan supsok",
+      "lyric_hangul": "온실 속 화초로 가득한 숲속",
+      "lyric_translation": "",
+      "range": [99.63, 101.41], "ans": [3]},
+    {"lyric": "Japchoro jitbalphyeodo kkoteul piugo",
+      "lyric_hangul": "잡초로 짓밟혀도 꽃을 피우고",
+      "lyric_translation": "",
+      "range": [101.41, 103.5], "ans": [3]},
+    {"lyric": "Bibarame momeul matgyeo chuneun chum right now",
+      "lyric_hangul": "비바람에 몸을 맡겨 추는 춤 right now",
+      "lyric_translation": "",
+      "range": [103.5, 106.56], "ans": [3]},
+    "",
+    {"lyric": "We’re gonna rise up again",
+      "lyric_hangul": "We're gonna rise up again",
+      "lyric_translation": "",
+      "range": [106.56, 110.02], "ans": [1]},
+    {"lyric": "Like the birds flying high",
+      "lyric_hangul": "Like the birds flyin' high",
+      "lyric_translation": "",
+      "range": [110.02, 113.52], "ans": [1]},
+    {"lyric": "Just spread them wings out again",
+      "lyric_hangul": "Just spread them wings out again",
+      "lyric_translation": "",
+      "range": [113.52, 116.59], "ans": [2]},
+    {
+      "lyric_hangul": "Touch the sky, feel the air when we glide",
+      "parts": [
+        {"lyric": "Touch the sky, feel the air when we glide",
+          "range": [116.59, 119.26], "ans": [2]},
+        {"lyric": "Oh ayo",
+          "range": [118.56, 120.11], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Oh, ay-oh) reborn with our music life",
+      "parts": [
+        {"lyric": "Reborn with our music life",
+          "range": [120.11, 123.06], "ans": [5]},
+        {"lyric": "Oh ayo",
+          "range": [122.36, 123.55], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) rebirth, rebirth",
+      "parts": [
+        {"lyric": "Rebirth rebirth",
+          "range": [123.55, 126.74], "ans": [2]},
+        {"lyric": "Oh ayo",
+          "range": [126.04, 127.02], "ans": []}
+      ]
+    },
+    {"lyric": "We’ll run through the endless fire",
+      "lyric_hangul": "(Oh, ay-oh) we'll run through the endless fire",
+      "lyric_translation": "",
+      "range": [127.02, 130.64], "ans": [6]},
+    {"lyric": "We ain’t gonna die, I’m fine",
+      "lyric_hangul": "We ain't gonna die, I'm fine",
+      "lyric_translation": "",
+      "range": [130.64, 132.33], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Like a phoenix light up the night, I'm reborn with fire",
+      "parts": [
+        {"lyric": "Light up the night",
+          "range": [132.33, 133.01], "ans": [2]},
+        {"lyric": "I’m reborn with fire",
+          "range": [133.01, 134.28], "ans": [2]},
+        {"lyric": "Like a Phoenix",
+          "range": [133.58, 134.99], "ans": [7]},
+        {"lyric": "Light up the night",
+          "range": [134.99, 135.44], "ans": [7]},
+        {"lyric": "I’m reborn with fire",
+          "range": [135.44, 136.64], "ans": [7]},
+        {"lyric": "Like a Phoenix",
+          "range": [135.94, 137.28], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I can't stop the fight, livin' like a phoenix",
+      "parts": [
+        {"lyric": "I can’t stop the fight living",
+          "range": [137.28, 138.83], "ans": [2]},
+        {"lyric": "I can’t stop the fight living",
+          "range": [138.13, 139.84], "ans": [7]},
+        {"lyric": "Like a Phoenix",
+          "range": [139.14, 141.15], "ans": [6]}
+      ]
+    },
+    {"lyric": "Light up the night, I'm reborn with fire",
+      "lyric_hangul": "Light up the night, I'm reborn with fire",
+      "lyric_translation": "",
+      "range": [141.15, 144.2], "ans": []},
+    "",
+    {
+      "lyric_hangul": "I can't stop the fight, livin' like a phoenix",
+      "parts": [
+        {"lyric": "Like a Phoenix",
+          "range": [144.2, 145.93], "ans": [2]},
+        {"lyric": "Oh ayo",
+          "range": [145.23, 146.88], "ans": []},
+        {"lyric": "Like a Phoenix",
+          "range": [146.18, 148.26], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) 난 다시 깨어나",
+      "parts": [
+        {"lyric": "Nan dashi kkaeeona",
+          "range": [148.26, 151.11], "ans": [1]},
+        {"lyric": "Oh ayo",
+          "range": [150.41, 151.89], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) rebirth, rebirth",
+      "parts": [
+        {"lyric": "Rebirth rebirth",
+          "range": [151.89, 154.89], "ans": [1]},
+        {"lyric": "Oh ayo",
+          "range": [154.19, 155.37], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Oh, ay-oh) 난 다시 깨어나",
+      "parts": [
+        {"lyric": "Nan dashi kkaeeona",
+          "range": [155.37, 158.2], "ans": [8]},
+        {"lyric": "Oh ayo",
+          "range": [157.5, 158.79], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Like a Phoenix",
+      "lyric_hangul": "(Oh, ay-oh) like a phoenix Like a phoenix Like a phoenix",
+      "lyric_translation": "",
+      "range": [158.79, 178.28], "ans": [8]}
+  ]
+}

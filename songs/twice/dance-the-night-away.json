@@ -1,0 +1,351 @@
+{
+  "name": "Dance The Night Away\r",
+  "ogg": "sound/kpop/dance_the_night_away.ogg",
+  "id": "dance-the-night-away",
+  "group": "twice",
+  "language": "ko",
+  "released": "2018-07-09",
+  "album": "Summer Nights",
+  "cover": "css/images/covers/dance-the-night-away.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T22:18:55Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "You and me in the moonlight (ah-ah-ah-ah)",
+      "lyric_translation": "Lalalalalalala lalalalalalala / Lalalalalalala lalalalalalala / You and me in the moonlight",
+      "parts": [
+        {"lyric": "Lalalalalalala lalalalalalala",
+          "range": [8.42, 10.92], "ans": [6]},
+        {"lyric": "You and me in the moonlight",
+          "range": [10.92, 12.68], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Byeol kkot chukje yeollin bam",
+      "lyric_hangul": "별 꽃 축제 열린 밤 (ah-ah-ah-ah-ah)",
+      "lyric_translation": "On this festive night of shining stars",
+      "range": [12.68, 16.08], "ans": [1]},
+    {
+      "lyric_hangul": "파도 소리를 틀고 춤을 추는 이 순간",
+      "lyric_translation": "The moment we start dancing / To the sound of waves",
+      "parts": [
+        {"lyric": "Pado sorireul teulgo",
+          "range": [16.08, 18.3], "ans": [4]},
+        {"lyric": "Chumeul chuneun i sungan",
+          "range": [18.3, 20.76], "ans": [4]}
+      ]
+    },
+    {"lyric": "I neukkim jeongmal ttagya",
+      "lyric_hangul": "이 느낌 정말 딱야 (ah-ah-ah-ah-ah)",
+      "lyric_translation": "This feeling is just so right",
+      "range": [20.76, 24.35], "ans": [4]},
+    "",
+    {"lyric": "Badaya uriwa gachi nora",
+      "lyric_hangul": "바다야 우리와 같이 놀아, 아",
+      "lyric_translation": "Hello sea, play with us",
+      "range": [24.35, 28.63], "ans": [3]},
+    {"lyric": "Barama neodo ijjogeuro wa",
+      "lyric_hangul": "바람아 너도 이쪽으로 와, 와",
+      "lyric_translation": "Hello wind, come on over",
+      "range": [28.63, 32.65], "ans": [3]},
+    {
+      "lyric_hangul": "달빛 조명 아래서, 너와 나와 세상과",
+      "lyric_translation": "Under the moonlight / You and me and the world",
+      "parts": [
+        {"lyric": "Dalppit jomyeong araeseo",
+          "range": [32.65, 34.66], "ans": [2]},
+        {"lyric": "Neowa nawa sesanggwa",
+          "range": [34.66, 37.18], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "다 같이, party all night long, yeah, it's good",
+      "lyric_translation": "Together we party all night long / Yeah, it’s good",
+      "parts": [
+        {"lyric": "Da gachi Party all night long",
+          "range": [37.18, 38.44], "ans": [2]},
+        {"lyric": "Yeah, it’s good",
+          "range": [38.44, 40.61], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "If you wanna have some fun, 짭짤한 공기처럼",
+      "lyric_translation": "If you wanna have some fun / Like the salty air",
+      "parts": [
+        {"lyric": "If you wanna have some fun",
+          "range": [40.61, 42.98], "ans": [9]},
+        {"lyric": "Jjapjjalhan gonggicheoreom",
+          "range": [42.98, 44.93], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 순간의 특별한, 행복을 놓치지마",
+      "lyric_translation": "This moment is special / Don’t miss the pleasure of it",
+      "parts": [
+        {"lyric": "I sungane teukbyeolhan",
+          "range": [44.93, 46.94], "ans": [9]},
+        {"lyric": "Haengbogeul notchiji ma",
+          "range": [46.94, 49.18], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "One, two, three, let's go, 저 우주 위로",
+      "lyric_translation": "One, two, three, let’s go / Dance like we’re",
+      "parts": [
+        {"lyric": "One, two, three, let’s go",
+          "range": [49.18, 51.3], "ans": [6]},
+        {"lyric": "Jeo uju wiro",
+          "range": [51.3, 53.03], "ans": [6]}
+      ]
+    },
+    {"lyric": "Naragal deut chumchureo ga Hey",
+      "lyric_hangul": "날아갈 듯 춤추러 가, hey",
+      "lyric_translation": "Flying to the top of the world, hey",
+      "range": [53.03, 55.82], "ans": [6]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [55.82, 59.86], "ans": [6]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [59.86, 63.58], "ans": [8]},
+    "",
+    {"lyric": "One, two, three, let’s go",
+      "lyric_hangul": "Yeah, one, two, three, let's go",
+      "lyric_translation": "One, two, three, let’s go",
+      "range": [63.58, 67.08], "ans": [5]},
+    {"lyric": "Jeo bada geonneo deullil deut sori jilleo",
+      "lyric_hangul": "저 바다 건너 들릴 듯 소리 질러",
+      "lyric_translation": "Shout out to the other side of the sea",
+      "range": [67.08, 72.01], "ans": [5]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [72.01, 73.28], "ans": [5]},
+    "",
+    {"lyric": "Dance the night away",
+      "lyric_hangul": "Dance the night away",
+      "lyric_translation": "Dance the night away",
+      "range": [73.28, 75.38], "ans": [7]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away (whoo)",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [75.38, 77.35], "ans": [7]},
+    {"lyric": "Dance the night away",
+      "lyric_hangul": "Dance the night away",
+      "lyric_translation": "Dance the night away",
+      "range": [77.35, 79.04], "ans": [8]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [79.04, 81.65], "ans": [8]},
+    "",
+    {"lyric": "You and me in this cool night",
+      "lyric_hangul": "You and me in this cool night (ah-ah-ah-ah)",
+      "lyric_translation": "You and me in this cool night",
+      "range": [81.65, 86.05], "ans": [4]},
+    {"lyric": "Miso jinneun banjjok dal",
+      "lyric_hangul": "미소 짓는 반쪽 달 (ah-ah-ah-ah-ah, hey)",
+      "lyric_translation": "The half-moon is smiling",
+      "range": [86.05, 89.77], "ans": [4]},
+    {
+      "lyric_hangul": "그 언젠가 너와 나 저 달 뒷면으로 가",
+      "lyric_translation": "Someday you and I / Will reach the moon’s far side",
+      "parts": [
+        {"lyric": "Geu eonjenga neowa na",
+          "range": [89.77, 91.53], "ans": [9]},
+        {"lyric": "Jeo dal dwinmyeoneuro ga",
+          "range": [91.53, 94.1], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "파티를 열기로 약속, yeah, it's good (hey)",
+      "lyric_translation": "And promise to party / Yeah it’s good",
+      "parts": [
+        {"lyric": "Patireul yeolgiro yaksok",
+          "range": [94.1, 96.51], "ans": [9]},
+        {"lyric": "Yeah, it’s good",
+          "range": [96.51, 97.99], "ans": [9]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "If you wanna have some fun, 은빛 모래알처럼",
+      "lyric_translation": "If you wanna have some fun / Like the silver sand",
+      "parts": [
+        {"lyric": "If you wanna have some fun",
+          "range": [97.99, 100.79], "ans": [6]},
+        {"lyric": "Eunppit moraealcheoreom",
+          "range": [100.79, 102.15], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 순간의 특별한, 행복을 놓치지 마",
+      "lyric_translation": "This moment is special / Don’t miss the pleasure of it",
+      "parts": [
+        {"lyric": "I sungane teukbyeolhan",
+          "range": [102.15, 104.03], "ans": [6]},
+        {"lyric": "Haengbogeul notchiji ma",
+          "range": [104.03, 106.08], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "One, two, three, let's go, 저 우주 위로",
+      "lyric_translation": "One, two, three, let’s go / Dance like we’re",
+      "parts": [
+        {"lyric": "One, two, three, let’s go",
+          "range": [106.08, 108.26], "ans": [1]},
+        {"lyric": "Jeo uju wiro",
+          "range": [108.26, 110.03], "ans": [1]}
+      ]
+    },
+    {"lyric": "Naragal deut chumchureo ga Hey",
+      "lyric_hangul": "날아갈 듯 춤추러 가, hey",
+      "lyric_translation": "Flying to the top of the world, hey",
+      "range": [110.03, 112.63], "ans": [1]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [112.63, 116.6], "ans": [1]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away (hey)",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [116.6, 120.7], "ans": [3]},
+    "",
+    {"lyric": "One, two, three, let’s go",
+      "lyric_hangul": "Yeah, one, two, three, let's go",
+      "lyric_translation": "One, two, three, let’s go",
+      "range": [120.7, 124.22], "ans": [2]},
+    {"lyric": "Jeo bada geonneo deullil deut sori jilleo",
+      "lyric_hangul": "저 바다 건너 들릴 듯 소리 질러 (yeah)",
+      "lyric_translation": "Shout out to the other side of the sea",
+      "range": [124.22, 128.89], "ans": [2]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [128.89, 130.02], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "오늘이 마지막인 듯 소리 질러 저 멀리",
+      "lyric_translation": "Shout out loud / Like today is the last day",
+      "parts": [
+        {"lyric": "Oneuri majimagin deut",
+          "range": [130.02, 132.24], "ans": [7]},
+        {"lyric": "Sori jilleo jeo meolli",
+          "range": [132.24, 134.26], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "끝없이 날아오를 듯 힘껏 뛰어 더 높이",
+      "lyric_translation": "Jump up high / Like soaring beyond limits",
+      "parts": [
+        {"lyric": "Kkeudeopshi naraoreul deut",
+          "range": [134.16, 136.32], "ans": [7]},
+        {"lyric": "Himkkeot ttwieo deo nopi",
+          "range": [136.32, 138.48], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "오늘이 마지막인 듯 소리 질러 저 멀리",
+      "lyric_translation": "Shout out loud / Like today is the last day",
+      "parts": [
+        {"lyric": "Oneuri majimagin deut",
+          "range": [138.3, 140.4], "ans": [6]},
+        {"lyric": "Sori jilleo jeo meolli",
+          "range": [140.4, 142.48], "ans": [6]}
+      ]
+    },
+    {"lyric": "Ssodajineun byeolppitgwa",
+      "lyric_hangul": "쏟아지는 별빛과",
+      "lyric_translation": "Under the falling starlight",
+      "range": [142.48, 145.59], "ans": [1]},
+    {
+      "lyric_hangul": "Oh, let's dance the night away (yeah, yeah, yeah)",
+      "lyric_translation": "Let’s dance the night away",
+      "parts": [
+        {"lyric": "Let’s dance the night away",
+          "range": [145.59, 146.88], "ans": [5]},
+        {"lyric": "(Yeah yeah yeah)",
+          "range": [146.18, 149.31], "ans": [1]}
+      ]
+    },
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [149.31, 152.76], "ans": [6]},
+    "",
+    {"lyric": "One, two, three, let’s go",
+      "lyric_hangul": "Yeah, one, two, three, let's go",
+      "lyric_translation": "One, two, three, let’s go",
+      "range": [152.76, 156.93], "ans": [5]},
+    {"lyric": "Jeo bada geonneo deullil deut sori jilleo",
+      "lyric_hangul": "저 바다 건너 들릴 듯 소리 질러 (yeah)",
+      "lyric_translation": "Shout out to the other side of the sea",
+      "range": [156.93, 161.51], "ans": [5]},
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [161.51, 163.65], "ans": [5]},
+    "",
+    {"lyric": "Yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah",
+      "range": [163.65, 165.82], "ans": [5]},
+    {"lyric": "Yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah",
+      "range": [165.82, 167.77], "ans": [5]},
+    {"lyric": "Yeah yeah yeah",
+      "lyric_hangul": "Yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah",
+      "range": [167.77, 169.56], "ans": [5]},
+    "",
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [169.56, 171.73], "ans": [1]},
+    {
+      "lyric_hangul": "Let's dance the night away (yeah, yeah, yeah)",
+      "lyric_translation": "Let’s dance the night away",
+      "parts": [
+        {"lyric": "Let’s dance the night away",
+          "range": [171.73, 173.28], "ans": [1]},
+        {"lyric": "(Yeah yeah yeah)",
+          "range": [172.58, 173.94], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Let's dance the night away (yeah, yeah, yeah)",
+      "lyric_translation": "Let’s dance the night away",
+      "parts": [
+        {"lyric": "Let’s dance the night away",
+          "range": [173.94, 175.41], "ans": [1]},
+        {"lyric": "(Yeah yeah yeah)",
+          "range": [174.71, 176.43], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Let's dance the night away (yeah, yeah, yeah)",
+      "lyric_translation": "Let’s dance the night away",
+      "parts": [
+        {"lyric": "Let’s dance the night away",
+          "range": [175.93, 177.54], "ans": [1]},
+        {"lyric": "(Yeah yeah yeah)",
+          "range": [176.84, 178.59], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Let’s dance the night away",
+      "lyric_hangul": "Let's dance the night away",
+      "lyric_translation": "Let’s dance the night away",
+      "range": [177.84, 181.0], "ans": [8]}
+  ]
+}

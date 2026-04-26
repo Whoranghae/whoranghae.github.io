@@ -1,0 +1,302 @@
+{
+  "name": "Ghost\r",
+  "ogg": "sound/kpop/ghost.ogg",
+  "id": "ghost",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2025-08-22",
+  "album": "KARMA",
+  "cover": "css/images/covers/ghost.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:12Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "I've been doing this my whole life, stuck inside my head, \"Got no time\"",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "I’ve been doing this my whole life",
+          "range": [3.99, 6.05], "ans": [4]},
+        {"lyric": "Stuck inside my head “got no time”",
+          "range": [6.05, 8.46], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I just wanna reach that prime time, oh, whoa-oh",
+      "parts": [
+        {"lyric": "I just wanna reach that prime time",
+          "range": [8.46, 10.01], "ans": [4]},
+        {"lyric": "Oh woah",
+          "range": [10.01, 12.16], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Don't wanna see another deadline, there's no day and night, yeah",
+      "parts": [
+        {"lyric": "Don’t wanna see another deadline",
+          "range": [12.16, 14.56], "ans": [7]},
+        {"lyric": "There’s no day and night yeah",
+          "range": [14.56, 16.53], "ans": [7]}
+      ]
+    },
+    {"lyric": "I can feel my body getting light",
+      "lyric_hangul": "I can feel my body getting light",
+      "lyric_translation": "",
+      "range": [15.72, 18.63], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Yeah, I just don't know what to say, 'cause to this day, I'm still astray",
+      "parts": [
+        {"lyric": "Yeah I just don’t know what to say",
+          "range": [18.63, 20.91], "ans": [6]},
+        {"lyric": "’Cause to this day I’m still astray",
+          "range": [20.91, 22.76], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I just don't think I can make it, endless rain, I'm still in pain",
+      "parts": [
+        {"lyric": "Yeah I just don’t think I can make it",
+          "range": [22.76, 25.17], "ans": [6]},
+        {"lyric": "Endless rain, I’m still in pain",
+          "range": [25.17, 26.91], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I know I wanna feel the rays of sunlight, fill my empty space",
+      "parts": [
+        {"lyric": "I know I wanna feel the rays of sunlight",
+          "range": [26.91, 29.65], "ans": [2]},
+        {"lyric": "Fill my empty space",
+          "range": [29.65, 30.76], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I just don't know what to say, I lost my way, way, way, way",
+      "parts": [
+        {"lyric": "Yeah I just don’t know what to say",
+          "range": [30.76, 32.82], "ans": [2]},
+        {"lyric": "I lost my way way way way",
+          "range": [32.82, 35.66], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I feel like I'm a ghost, I'm out of my mind",
+      "parts": [
+        {"lyric": "I feel like I’m a ghost, I’m out of my mind",
+          "range": [35.66, 38.31], "ans": [1]},
+        {"lyric": "(I feel like I’m a ghost, I’m out of my mind",
+          "range": [37.61, 39.55], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't know why I'm lost in space and time",
+      "parts": [
+        {"lyric": "I don’t know why I’m lost in space and time",
+          "range": [39.55, 42.06], "ans": [1]},
+        {"lyric": "I don’t know why I’m lost in space and time",
+          "range": [41.36, 43.95], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I feel like I'm a ghost, I'll say that I'm fine, I'm fine",
+      "parts": [
+        {"lyric": "I feel like I’m a ghost, I’ll say that I’m fine",
+          "range": [43.95, 46.22], "ans": [8]},
+        {"lyric": "I feel like I’m a ghost",
+          "range": [45.52, 46.69], "ans": [7]},
+        {"lyric": "I’ll say that I’m fine I’m fine)",
+          "range": [46.69, 48.38], "ans": [7]}
+      ]
+    },
+    {"lyric": "I’m fine, I’m done",
+      "lyric_hangul": "I'm done",
+      "lyric_translation": "",
+      "range": [48.38, 50.81], "ans": [8]},
+    {
+      "lyric_hangul": "남들은 내가 떴대, 지금 난 그저 붕 떠 있는데",
+      "parts": [
+        {"lyric": "Namdeureun naega tteottae",
+          "range": [50.81, 52.17], "ans": [3]},
+        {"lyric": "Jigeum nan geujeo bung tteo inneunde",
+          "range": [52.17, 53.96], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "여태껏 겪은 난류와는 차원이 다른 버뮤다 삼각지대",
+      "parts": [
+        {"lyric": "Yeotaekkeot gyeokkeun nallyuwaneun",
+          "range": [53.96, 55.76], "ans": [3]},
+        {"lyric": "Chaweoni dareun beomyuda samgakjidae",
+          "range": [55.76, 57.98], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "나 자신을 위함과 해함이 공존케 하는 그들의 기대",
+      "parts": [
+        {"lyric": "Na jashineul wihamgwa haehami",
+          "range": [57.77, 59.99], "ans": [3]},
+        {"lyric": "Gongjonke haneun geudeure gidae",
+          "range": [59.99, 61.86], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "나, 너 그 누구도 만족 못한다면, 이제 어디 기대",
+      "parts": [
+        {"lyric": "Na, neo geu nugudo manjog mothandamyeon",
+          "range": [61.86, 64.69], "ans": [3]},
+        {"lyric": "Ije eodi gidae",
+          "range": [64.69, 66.62], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I ain't got no energy, I'm feeling dead inside",
+      "parts": [
+        {"lyric": "I ain’t got no energy",
+          "range": [66.62, 68.63], "ans": [5]},
+        {"lyric": "I’m feeling dead inside",
+          "range": [68.63, 70.61], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Too much of this, too much of that, I'm overloaded this time",
+      "parts": [
+        {"lyric": "Too much of this, too much of that",
+          "range": [70.61, 72.67], "ans": [5]},
+        {"lyric": "I’m overloaded this time",
+          "range": [72.67, 74.05], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Yeah, I just don't know what to say, 'cause to this day, I'm still astray",
+      "parts": [
+        {"lyric": "Yeah I just don’t know what to say",
+          "range": [74.05, 75.07], "ans": [1]},
+        {"lyric": "’Cause to this day I’m still astray",
+          "range": [75.07, 76.36], "ans": [1]},
+        {"lyric": "Yeah I just don’t know what to say",
+          "range": [75.66, 77.04], "ans": [5]},
+        {"lyric": "’Cause to this day I’m still astray",
+          "range": [77.04, 77.94], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Yeah, I just don't think I can make it, endless rain, I'm still in pain",
+      "parts": [
+        {"lyric": "Yeah I just don’t think I can make it",
+          "range": [77.94, 78.92], "ans": [1]},
+        {"lyric": "Endless rain, I’m still in pain",
+          "range": [78.92, 80.15], "ans": [1]},
+        {"lyric": "Yeah I just don’t think I can make it",
+          "range": [79.45, 81.12], "ans": [5]},
+        {"lyric": "Endless rain, I’m still in pain",
+          "range": [81.12, 81.88], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I know I wanna feel the rays of sunlight, fill my empty space",
+      "parts": [
+        {"lyric": "I know I wanna feel the rays of sunlight",
+          "range": [81.88, 83.4], "ans": [8]},
+        {"lyric": "Fill my empty space",
+          "range": [83.4, 84.35], "ans": [8]},
+        {"lyric": "I know I wanna feel the rays of sunlight",
+          "range": [83.65, 85.24], "ans": [4]},
+        {"lyric": "Fill my empty space",
+          "range": [85.24, 85.85], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yeah, I just don't know what to say, I lost my way, way, way, way",
+      "parts": [
+        {"lyric": "Yeah I just don’t know what to say",
+          "range": [85.85, 86.93], "ans": [8]},
+        {"lyric": "I lost my way way way way",
+          "range": [86.93, 88.1], "ans": [8]},
+        {"lyric": "Yeah I just don’t know what to say",
+          "range": [87.4, 89.37], "ans": [4]},
+        {"lyric": "I lost my way",
+          "range": [89.37, 90.75], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "I feel like I’m a ghost, I’m out of my mind",
+      "lyric_hangul": "I feel like I'm a ghost, I'm out of my mind",
+      "lyric_translation": "",
+      "range": [90.75, 94.52], "ans": [7]},
+    "",
+    {"lyric": "I don’t know why I’m lost in space and time",
+      "lyric_hangul": "I don't know why I'm lost in space and time",
+      "lyric_translation": "",
+      "range": [94.52, 98.68], "ans": [7]},
+    {"lyric": "I feel like I’m a ghost, I’ll say that I’m fine",
+      "lyric_hangul": "I feel like I'm a ghost, I'll say that I'm fine, I'm fine",
+      "lyric_translation": "",
+      "range": [98.68, 103.33], "ans": [2]},
+    {"lyric": "I’m fine, I’m done",
+      "lyric_hangul": "I'm done",
+      "lyric_translation": "",
+      "range": [103.33, 106.28], "ans": [2]},
+    {"lyric": "Rendezvous with the déjà vu",
+      "lyric_hangul": "Rendezvous with the déjà vu",
+      "lyric_translation": "",
+      "range": [106.28, 109.99], "ans": [6]},
+    "",
+    {"lyric": "Repeated blues yeah the world’s so cruel",
+      "lyric_hangul": "Repeated blues, yeah, the world's so cruel",
+      "lyric_translation": "",
+      "range": [109.99, 113.93], "ans": [6]},
+    {"lyric": "Howling “boo” when the time is due",
+      "lyric_hangul": "Howling, \"Boo\" when the time is due",
+      "lyric_translation": "",
+      "range": [113.93, 117.85], "ans": [6]},
+    {
+      "lyric_hangul": "I don't know what to say, just pray that I'm okay",
+      "parts": [
+        {"lyric": "I don’t know what to say",
+          "range": [117.85, 119.39], "ans": [6]},
+        {"lyric": "Just pray that I’m okay",
+          "range": [119.39, 122.57], "ans": [6]}
+      ]
+    },
+    {"lyric": "(I feel like I'm a ghost, I'm out of my mind)",
+      "lyric_hangul": "(I feel like I'm a ghost, I'm out of my mind)",
+      "lyric_translation": "",
+      "range": [122.57, 126.65], "ans": []},
+    {"lyric": "(I don't know why I'm lost in space and time)",
+      "lyric_hangul": "(I don't know why I'm lost in space and time)",
+      "lyric_translation": "",
+      "range": [126.65, 130.56], "ans": []},
+    {"lyric": "(I feel like I'm a ghost, I'll say that I'm fine, I'm fine)",
+      "lyric_hangul": "(I feel like I'm a ghost, I'll say that I'm fine, I'm fine)",
+      "lyric_translation": "",
+      "range": [130.56, 136.56], "ans": []},
+    {"lyric": "Yeah, I just don't know what to say, 'cause to this day, I'm still astray",
+      "lyric_hangul": "Yeah, I just don't know what to say, 'cause to this day, I'm still astray",
+      "lyric_translation": "",
+      "range": [136.56, 141.05], "ans": []},
+    {"lyric": "Yeah, I just don't think I can make it, endless rain, I'm still in pain",
+      "lyric_hangul": "Yeah, I just don't think I can make it, endless rain, I'm still in pain",
+      "lyric_translation": "",
+      "range": [141.05, 144.57], "ans": []},
+    {"lyric": "I know I wanna feel the rays of sunlight, fill my empty space",
+      "lyric_hangul": "I know I wanna feel the rays of sunlight, fill my empty space",
+      "lyric_translation": "",
+      "range": [144.57, 148.72], "ans": []},
+    {"lyric": "Yeah, I just don't know what to say, I lost my way",
+      "lyric_hangul": "Yeah, I just don't know what to say, I lost my way",
+      "lyric_translation": "",
+      "range": [148.72, 153.0], "ans": []}
+  ]
+}

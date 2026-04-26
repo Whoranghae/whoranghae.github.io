@@ -1,0 +1,293 @@
+{
+  "name": "TURTLE (거북이)\r",
+  "ogg": "sound/kpop/turtle.ogg",
+  "id": "turtle",
+  "group": "twice",
+  "language": "ko",
+  "released": "2017-10-30",
+  "album": "twicetagram",
+  "cover": "css/images/covers/turtle.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:54Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "처음엔 아무 느낌 없었는데",
+      "lyric_translation": "Oh wow oh hmm / At first, I didn’t feel anything",
+      "parts": [
+        {"lyric": "Oh wow oh hmm",
+          "range": [9.62, 11.63], "ans": [1]},
+        {"lyric": "Cheoeumen amu neukkim eopseonneunde",
+          "range": [10.93, 13.53], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Maeil tigyeong daemyeonseo uri",
+      "lyric_hangul": "매일 티격 대면서",
+      "lyric_translation": "Every day, we argued",
+      "range": [13.53, 15.98], "ans": [9]},
+    {"lyric": "Shilchineun ananna bwa",
+      "lyric_hangul": "우리 싫지는 않았나 봐",
+      "lyric_translation": "But I guess we didn’t hate each other",
+      "range": [15.98, 20.05], "ans": [9]},
+    {"lyric": "Gakkeum ppanhi nareul barabol ttaemyeon",
+      "lyric_hangul": "가끔 빤히 나를 바라볼 때면",
+      "lyric_translation": "Sometimes, when you stare at me",
+      "range": [20.05, 24.04], "ans": [2]},
+    {
+      "lyric_hangul": "어색해질까 봐 괜히 딴청만 부렸어",
+      "lyric_translation": "I’m afraid things’ll get awkward / So I just stare at the floor",
+      "parts": [
+        {"lyric": "Eosaekaejilkka bwa",
+          "range": [24.04, 27.3], "ans": [2]},
+        {"lyric": "Gwaenhi ttancheongman buryeosseo",
+          "range": [27.3, 29.42], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Niga nareul joahaneun geo",
+      "lyric_hangul": "네가 나를 좋아하는 거 다 알아",
+      "lyric_translation": "I know you like me",
+      "range": [29.3, 32.79], "ans": [8]},
+    {"lyric": "I mean it",
+      "lyric_hangul": "I mean it",
+      "lyric_translation": "",
+      "range": [39.85, 41.22], "ans": []},
+    {"lyric": "Yojeum ttara jakkuman deo meotjeo boyeo",
+      "lyric_hangul": "요즘 따라 자꾸만 더 멋져 보여",
+      "lyric_translation": "You look even more handsome these days",
+      "range": [80.68, 84.76], "ans": [2]},
+    {"lyric": "Han beonsshik yeollak eopseumyeon",
+      "lyric_hangul": "한 번씩 연락 없으면",
+      "lyric_translation": "Whenever you don’t call me",
+      "range": [84.76, 88.08], "ans": [2]},
+    {"lyric": "Gwaenseure seounhaejeo",
+      "lyric_hangul": "괜스레 서운해져",
+      "lyric_translation": "I get upset for no reason",
+      "range": [88.08, 90.94], "ans": [2]},
+    {"lyric": "Hokshi naega neomu apseogan geolkka",
+      "lyric_hangul": "혹시 내가 너무 앞서간 걸까",
+      "lyric_translation": "Am I being too forward?",
+      "range": [90.94, 95.98], "ans": [6]},
+    {
+      "lyric_hangul": "조급해지면 난 괜한 투정을 부려",
+      "lyric_translation": "Whenever I feel impatient / I keep whining for no reason",
+      "parts": [
+        {"lyric": "Jogeupaejimyeon nan",
+          "range": [95.98, 98.02], "ans": [6]},
+        {"lyric": "Gwaenhan tujeongeul buryeo",
+          "range": [98.02, 100.22], "ans": [6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Niga nareul joahaneun geo",
+      "lyric_hangul": "네가 나를 좋아하는 거 다 알아",
+      "lyric_translation": "I know you like me",
+      "range": [100.22, 103.55], "ans": [7]},
+    {
+      "lyric_hangul": "근데 그거 알아",
+      "lyric_translation": "But did you know? / But did you know?",
+      "parts": [
+        {"lyric": "Da ara geunde geugeo ara",
+          "range": [103.55, 104.68], "ans": [8]},
+        {"lyric": "Da ara geunde geugeo ara",
+          "range": [103.98, 105.66], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "너보다 내가 너를",
+      "lyric_translation": "I think I like you / I think I like you",
+      "parts": [
+        {"lyric": "Neoboda naega neoreul jom deo",
+          "range": [105.66, 106.83], "ans": [6]},
+        {"lyric": "Neoboda naega neoreul jom deo",
+          "range": [106.13, 108.16], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "좀 더 좋아하는 것 같아",
+      "lyric_translation": "A little more / A little more",
+      "parts": [
+        {"lyric": "Joahaneun geot gata",
+          "range": [107.71, 109.03], "ans": [6]},
+        {"lyric": "Joahaneun geot gata",
+          "range": [108.65, 110.75], "ans": [9]}
+      ]
+    },
+    {"lyric": "I mean it",
+      "lyric_hangul": "I mean it",
+      "lyric_translation": "",
+      "range": [110.75, 111.75], "ans": []},
+    "",
+    {"lyric": "I mean it nae mami neoboda apseoga",
+      "lyric_hangul": "I mean it 내 마음이 너보다 앞서가",
+      "lyric_translation": "I mean it, my heart goes faster than you / I mean it, my heart goes faster than you",
+      "range": [110.75, 115.63], "ans": [5]},
+    {"lyric": "Oh no oh no oh no hangsang",
+      "lyric_hangul": "Oh no Oh no Oh no 항상",
+      "lyric_translation": "Oh no oh no oh no, always / Oh no oh no oh no, always",
+      "range": [115.63, 120.28], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "늘 이렇게 곁에 내 옆에 있어 줄래",
+      "lyric_translation": "Always by my side / Will you stay? / Always by my side / Will you stay?",
+      "parts": [
+        {"lyric": "Neul ireoke gyeote",
+          "range": [120.28, 121.4], "ans": [1]},
+        {"lyric": "Nae yeope isseo jullae",
+          "range": [121.4, 122.04], "ans": [1]},
+        {"lyric": "Neul ireoke gyeote",
+          "range": [122.04, 123.4], "ans": [1]},
+        {"lyric": "Nae yeope isseo jullae",
+          "range": [123.4, 124.74], "ans": [1]}
+      ]
+    },
+    {"lyric": "Jogeum neurimyeon mweo eottae",
+      "lyric_hangul": "조금 느리면 뭐 어때",
+      "lyric_translation": "Who cares if you’re slow? / Who cares if you’re slow?",
+      "range": [124.74, 127.02], "ans": [1]},
+    "",
+    {"lyric": "Na ireoke gidarilkke",
+      "lyric_hangul": "나 이렇게 기다릴게",
+      "lyric_translation": "I’ll wait for you / I’ll wait for you",
+      "range": [126.79, 130.02], "ans": [1]},
+    {"lyric": "Pungseoncheoreom keojineun mami",
+      "lyric_hangul": "풍선처럼 커지는 맘이",
+      "lyric_translation": "My heart grows like a balloon / My heart grows like a balloon",
+      "range": [130.02, 133.5], "ans": [4]},
+    {
+      "lyric_hangul": "펑 펑 터지진 않을까",
+      "lyric_translation": "I’m afraid it’ll burst / I’m afraid it’ll burst",
+      "parts": [
+        {"lyric": "Peong peong",
+          "range": [133.04, 134.27], "ans": [3]},
+        {"lyric": "Teojijin aneulkka",
+          "range": [133.57, 134.9], "ans": [4]},
+        {"lyric": "Peong peong",
+          "range": [134.26, 135.3], "ans": [3]},
+        {"lyric": "Teojijin aneulkka",
+          "range": [134.6, 136.58], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Nae mami jakku mak geurae",
+      "lyric_hangul": "내 맘이 자꾸 막 그래",
+      "lyric_translation": "My heart keeps doing that / My heart keeps doing that",
+      "range": [136.58, 139.85], "ans": [4]},
+    {
+      "lyric_hangul": "널 보면 막 그래",
+      "lyric_translation": "Whenever I see you / Bababa baraba baya / Whenever I see you",
+      "parts": [
+        {"lyric": "Neol bomyeon mak geurae",
+          "range": [139.85, 141.02], "ans": [1]},
+        {"lyric": "Bababa baraba baya",
+          "range": [140.32, 141.62], "ans": [4]},
+        {"lyric": "Neol bomyeon mak geurae",
+          "range": [140.92, 142.23], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "I’m in love with you",
+      "lyric_hangul": "I'm in love with you",
+      "lyric_translation": "I’m in love with you",
+      "range": [142.23, 144.83], "ans": [5]},
+    {"lyric": "Jogeumman deo seodulleo jweo",
+      "lyric_hangul": "조금만 더 서둘러줘",
+      "lyric_translation": "Please hurry",
+      "range": [144.83, 147.48], "ans": [9]},
+    "",
+    {"lyric": "Urin hal iri maneunde",
+      "lyric_hangul": "우린 할 일이 많은데",
+      "lyric_translation": "There’s so much we have to do",
+      "range": [147.48, 150.55], "ans": [2]},
+    {
+      "lyric_hangul": "늘 이렇게 곁에 내 옆에 있어 줄래",
+      "lyric_translation": "Always by my side / Will you stay?",
+      "parts": [
+        {"lyric": "Neul ireoke gyeote",
+          "range": [150.55, 152.72], "ans": [1]},
+        {"lyric": "(Oh)",
+          "range": [152.02, 153.38], "ans": [5]},
+        {"lyric": "Nae yeope isseo jullae",
+          "range": [152.68, 155.16], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Jogeum neurimyeon mweo eottae",
+      "lyric_hangul": "조금 느리면 뭐 어때",
+      "lyric_translation": "Who cares if you’re slow?",
+      "range": [155.16, 157.18], "ans": [1]},
+    {
+      "lyric_hangul": "나 이렇게 기다릴게",
+      "lyric_translation": "I’ll wait for you",
+      "parts": [
+        {"lyric": "Na ireoke gidarilkke",
+          "range": [157.18, 158.68], "ans": [1]},
+        {"lyric": "(gidarilkke)",
+          "range": [158.36, 160.62], "ans": [5]}
+      ]
+    },
+    {"lyric": "Pungseoncheoreom keojineun mami",
+      "lyric_hangul": "풍선처럼 커지는 맘이",
+      "lyric_translation": "My heart grows like a balloon",
+      "range": [160.62, 163.41], "ans": [4]},
+    {
+      "lyric_hangul": "펑 펑 터지진 않을까",
+      "lyric_translation": "I’m afraid it’ll burst",
+      "parts": [
+        {"lyric": "Peong peong",
+          "range": [163.41, 164.59], "ans": [3]},
+        {"lyric": "Teojijin aneulkka",
+          "range": [164.59, 166.81], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Nae mami jakku mak geurae",
+      "lyric_hangul": "내 맘이 자꾸 막 그래",
+      "lyric_translation": "My heart keeps doing that",
+      "range": [166.81, 170.14], "ans": [4]},
+    {
+      "lyric_hangul": "널 보면 막 그래",
+      "lyric_translation": "Whenever I see you / Bababa baraba baya",
+      "parts": [
+        {"lyric": "Neol bomyeon mak geurae",
+          "range": [170.14, 171.57], "ans": [6]},
+        {"lyric": "Bababa baraba baya",
+          "range": [170.87, 174.56], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "항상 내 마음이 앞서",
+      "lyric_translation": "My heart always goes ahead / Bababa baraba baya / Bababa baraba baya / Bababa baraba baya",
+      "parts": [
+        {"lyric": "Hangsang nae maeumi apseo",
+          "range": [174.56, 175.44], "ans": [8]},
+        {"lyric": "Bababa baraba baya",
+          "range": [174.74, 176.31], "ans": [6]},
+        {"lyric": "Bababa baraba baya",
+          "range": [175.61, 176.91], "ans": [3]},
+        {"lyric": "Bababa baraba baya",
+          "range": [176.21, 179.16], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "토끼와 거북이처럼",
+      "lyric_translation": "Like the hare and tortoise / Bababa baraba baya / Like the hare and tortoise / Bababa baraba baya",
+      "parts": [
+        {"lyric": "Tokkiwa geobugicheoreom",
+          "range": [184.72, 185.94], "ans": [3]},
+        {"lyric": "Bababa baraba baya",
+          "range": [185.24, 186.02], "ans": [8]},
+        {"lyric": "Tokkiwa geobugicheoreom",
+          "range": [186.02, 187.16], "ans": [7]},
+        {"lyric": "Bababa baraba baya",
+          "range": [186.46, 189.34], "ans": [3]}
+      ]
+    },
+    ""
+  ]
+}

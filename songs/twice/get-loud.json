@@ -1,0 +1,371 @@
+{
+  "name": "GET LOUD\r",
+  "ogg": "sound/kpop/get_loud.ogg",
+  "id": "get-loud",
+  "group": "twice",
+  "language": "ko",
+  "released": "2019-09-23",
+  "album": "Feel Special",
+  "cover": "css/images/covers/get-loud.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:15Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Hey!",
+      "lyric_hangul": "Hey!",
+      "lyric_translation": "",
+      "range": [2.06, 2.73], "ans": []},
+    {"lyric": "Might get-get-get loud",
+      "lyric_hangul": "Might get-get-get loud",
+      "lyric_translation": "",
+      "range": [2.73, 4.53], "ans": []},
+    {
+      "lyric_hangul": "Hey, hey, hey, hey!",
+      "lyric_translation": "Hey (Might get loud) / Hey hey hey hey (Might get loud)",
+      "parts": [
+        {"lyric": "Hey",
+          "range": [4.53, 5.06], "ans": []},
+        {"lyric": "(Might get loud)",
+          "range": [4.58, 5.89], "ans": [5]},
+        {"lyric": "Hey hey hey hey",
+          "range": [5.19, 6.54], "ans": []},
+        {"lyric": "(Might get loud)",
+          "range": [5.84, 6.99], "ans": [5]}
+      ]
+    },
+    {"lyric": "Might get-get-get loud",
+      "lyric_hangul": "Might get-get-get loud",
+      "lyric_translation": "",
+      "range": [6.54, 8.17], "ans": []},
+    "",
+    {
+      "lyric_hangul": "발밑에 보인 그 선 앞 굳이 넘겠단 말 (Get-get-get loud)",
+      "lyric_translation": "I’ll pass the line in front of me at my feet / (Get loud)",
+      "parts": [
+        {"lyric": "Balmite boin geu seon ap guji neomgettan mal",
+          "range": [8.17, 11.41], "ans": [5]},
+        {"lyric": "(Get loud)",
+          "range": [11.41, 12.21], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neomu wiheomhan jangnan geuman keunil na",
+      "lyric_hangul": "너무 위험한 장난 그만 큰일 나",
+      "lyric_translation": "Stop with the too dangerous jokes? There’ll be big trouble",
+      "range": [11.75, 15.49], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "내 눈엔 절벽 끝인데 한 걸음 떼면 넌? Get down",
+      "lyric_translation": "In my eyes, it’s the end of the cliff. / If you take one step? Get down",
+      "parts": [
+        {"lyric": "Nae nunen jeolbyeok kkeuchinde",
+          "range": [15.49, 18.35], "ans": [1]},
+        {"lyric": "Han georeum ttemyeon neon? Get down",
+          "range": [18.35, 20.25], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "너무 아슬한 상황 정말 큰일 나 (Might get-get-get loud)",
+      "lyric_translation": "It’s very close call, there’ll really be big trouble / (Might get loud)",
+      "parts": [
+        {"lyric": "Neomu aseulhan sanghwang jeongmal keunil na",
+          "range": [19.77, 23.47], "ans": [3]},
+        {"lyric": "(Might get loud)",
+          "range": [23.47, 24.25], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Hwaryeohage pojangi doen geojinmal",
+      "lyric_hangul": "화려하게 포장이 된 거짓말",
+      "lyric_translation": "The lavishly packed lies",
+      "range": [23.43, 27.36], "ans": [4]},
+    {"lyric": "Gwanshimbatgo shipeonna bwa",
+      "lyric_hangul": "관심받고 싶었나 봐",
+      "lyric_translation": "You must be looking to get attention",
+      "range": [27.36, 31.5], "ans": [4]},
+    {"lyric": "Shwipge sseo naeryeogan neoye geochin mal",
+      "lyric_hangul": "쉽게 써 내려간 너의 거친 말",
+      "lyric_translation": "It’s easy to write your harsh worlds",
+      "range": [31.5, 35.87], "ans": [2]},
+    {"lyric": "Nungiljocha akkapjana",
+      "lyric_hangul": "눈길조차 아깝잖아 (Yeah, yeah)",
+      "lyric_translation": "Even sparing a glance is waste",
+      "range": [35.87, 39.81], "ans": [2]},
+    "",
+    {"lyric": "Witaerobge seweoga neoye domino",
+      "lyric_hangul": "위태롭게 세워가 너의 도미노 (Ooh-woah-oh-oh, yeah-eh-eh-eh)",
+      "lyric_translation": "Your domino stands dangerously",
+      "range": [39.81, 43.91], "ans": [8]},
+    {
+      "lyric_hangul": "많은 시선이 모여 너의 등 뒤로 (너의 뒤로, ooh-woah-oh-oh)",
+      "lyric_translation": "Gathering many stares / To your back",
+      "parts": [
+        {"lyric": "Maneun shiseoni moyeo",
+          "range": [43.91, 46.38], "ans": [8]},
+        {"lyric": "Neoye deung dwiro neoye dwiro",
+          "range": [45.68, 48.1], "ans": [1, 8]}
+      ]
+    },
+    {"lyric": "Han beonjjeumeun dorabwa jalmottwen gillo",
+      "lyric_hangul": "한 번쯤은 돌아봐 잘못된 길로 (Yeah-eh-eh-eh, ooh-woah-oh-oh)",
+      "lyric_translation": "Turn around for once, to the road where things went wrong",
+      "range": [47.91, 51.9], "ans": [7]},
+    {
+      "lyric_hangul": "결국 너 혼자 남아 길 잃은 미로 (길을 잃어)",
+      "lyric_translation": "In the end you’re left alone / Lost your way in a maze",
+      "parts": [
+        {"lyric": "Gyeolguk neo honja nama",
+          "range": [51.9, 53.95], "ans": [7]},
+        {"lyric": "Gil ireun miro gireul ireo",
+          "range": [53.25, 55.55], "ans": [1, 7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "발밑에 보인 그 선 앞 굳이 넘겠단 말 (Get-get-get loud)",
+      "lyric_translation": "I’ll pass the line in front of me at my feet / (Get loud)",
+      "parts": [
+        {"lyric": "Balmite boin geu seon ap guji neomgettan mal",
+          "range": [55.55, 59.45], "ans": [5]},
+        {"lyric": "(Get loud)",
+          "range": [59.45, 60.23], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neomu wiheomhan jangnan geuman keunil na",
+      "lyric_hangul": "너무 위험한 장난 그만 큰일 나",
+      "lyric_translation": "Stop with the too dangerous jokes? There’ll be big trouble",
+      "range": [59.64, 63.45], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "내 눈엔 절벽 끝인데 한 걸음 떼면 넌? Get down",
+      "lyric_translation": "In my eyes, it’s the end of the cliff. / If you take one step? Get down",
+      "parts": [
+        {"lyric": "Nae nunen jeolbyeok kkeuchinde",
+          "range": [63.45, 66.33], "ans": [1]},
+        {"lyric": "Han georeum ttemyeon neon? Get down",
+          "range": [66.33, 68.27], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "너무 아슬한 상황 정말 큰일 나 (Might get-get-get loud)",
+      "lyric_translation": "It’s very close call, there’ll really be big trouble / (Might get loud)",
+      "parts": [
+        {"lyric": "Neomu aseulhan sanghwang jeongmal keunil na",
+          "range": [68.27, 71.86], "ans": [3]},
+        {"lyric": "(Might get loud)",
+          "range": [71.16, 72.24], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Eotteon seutoriga doedeon neoegen",
+      "lyric_hangul": "어떤 스토리가 되던 너에겐",
+      "lyric_translation": "What kind of story happens to you",
+      "range": [71.97, 75.88], "ans": [6]},
+    {
+      "lyric_hangul": "상관없지 그렇겠지 (그렇겠지)",
+      "lyric_translation": "It doesn’t matter right? (Right?)",
+      "parts": [
+        {"lyric": "Sanggwaneopsji geureoketji",
+          "range": [75.88, 79.68], "ans": [6]},
+        {"lyric": "(geureochi)",
+          "range": [78.98, 79.81], "ans": [1]}
+      ]
+    },
+    {"lyric": "Nega sson hwasalchogeun gyeolguk nege",
+      "lyric_hangul": "네가 쏜 화살촉은 결국 네게",
+      "lyric_translation": "You don’t know what the arrowheads you shot",
+      "range": [79.57, 83.87], "ans": [4]},
+    {
+      "lyric_hangul": "돌아올지 모르겠지 (모르겠지)",
+      "lyric_translation": "Will return to you in the end (You don’t know)",
+      "parts": [
+        {"lyric": "Doraolji moreugetji",
+          "range": [83.87, 87.68], "ans": [4]},
+        {"lyric": "(moreuji)",
+          "range": [86.98, 88.18], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Witaerobge seweoga neoye domino",
+      "lyric_hangul": "위태롭게 세워가 너의 도미노 (Ooh-woah-oh-oh, yeah-eh-eh-eh)",
+      "lyric_translation": "Your domino stands dangerously",
+      "range": [88.18, 92.13], "ans": [8]},
+    {
+      "lyric_hangul": "많은 시선이 모여 너의 등 뒤로 (너의 뒤로, ooh-woah-oh-oh)",
+      "lyric_translation": "Gathering many stares / To your back",
+      "parts": [
+        {"lyric": "Maneun shiseoni moyeo",
+          "range": [92.13, 94.4], "ans": [8]},
+        {"lyric": "Neoye deung dwiro neoye dwiro",
+          "range": [93.7, 96.1], "ans": [1, 8]}
+      ]
+    },
+    {"lyric": "Han beonjjeumeun dorabwa jalmottwen gillo",
+      "lyric_hangul": "한 번쯤은 돌아봐 잘못된 길로 (Yeah-eh-eh-eh, ooh-woah-oh-oh)",
+      "lyric_translation": "Turn around for once, to the road where things went wrong",
+      "range": [95.63, 100.18], "ans": [7]},
+    {
+      "lyric_hangul": "결국 너 혼자 남아 길 잃은 미로 (길을 잃어)",
+      "lyric_translation": "In the end you’re left alone / Lost your way in a maze",
+      "parts": [
+        {"lyric": "Gyeolguk neo honja nama",
+          "range": [100.18, 101.95], "ans": [7]},
+        {"lyric": "Gil ireun miro gireul ireo",
+          "range": [101.25, 103.54], "ans": [1, 7]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "발밑에 보인 그 선 앞 굳이 넘겠단 말 (Get-get-get loud)",
+      "lyric_translation": "I’ll pass the line in front of me at my feet / (Get loud)",
+      "parts": [
+        {"lyric": "Balmite boin geu seon ap guji neomgettan mal",
+          "range": [103.54, 107.44], "ans": [5]},
+        {"lyric": "(Get loud)",
+          "range": [107.44, 108.28], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neomu wiheomhan jangnan geuman keunil na",
+      "lyric_hangul": "너무 위험한 장난 그만 큰일 나",
+      "lyric_translation": "Stop with the too dangerous jokes? There’ll be big trouble",
+      "range": [107.72, 111.77], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "내 눈엔 절벽 끝인데 한 걸음 떼면 넌? Get down",
+      "lyric_translation": "In my eyes, it’s the end of the cliff. / If you take one step? Get down",
+      "parts": [
+        {"lyric": "Nae nunen jeolbyeok kkeuchinde",
+          "range": [111.77, 114.31], "ans": [1]},
+        {"lyric": "Han georeum ttemyeon neon? Get down",
+          "range": [114.31, 116.5], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "너무 아슬한 상황 정말 큰일 나 (Might get-get-get loud)",
+      "lyric_translation": "It’s very close call, there’ll really be big trouble / (Might get loud)",
+      "parts": [
+        {"lyric": "Neomu aseulhan sanghwang jeongmal keunil na",
+          "range": [116.5, 119.83], "ans": []},
+        {"lyric": "(Might get loud)",
+          "range": [119.13, 121.46], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ooh-yeah, ooh-yeah, ooh-yeah",
+      "lyric_hangul": "Ooh-yeah, ooh-yeah, ooh-yeah",
+      "lyric_translation": "",
+      "range": [121.46, 127.7], "ans": []},
+    "",
+    {"lyric": "Geumbang amulmyeon doeneun sangcheoil ppun",
+      "lyric_hangul": "금방 아물면 되는 상처일 뿐",
+      "lyric_translation": "In no time the scars will be healed",
+      "range": [127.7, 130.07], "ans": [8]},
+    {"lyric": "Geunyang seuchyeo jinagal iril ppun",
+      "lyric_hangul": "그냥 스쳐 지나갈 일일 뿐",
+      "lyric_translation": "It’s just something that’s passing through",
+      "range": [130.07, 132.64], "ans": [8]},
+    {"lyric": "Hey-yeah, hey-yeah",
+      "lyric_hangul": "Hey-yeah, hey-yeah",
+      "lyric_translation": "",
+      "range": [132.64, 135.56], "ans": []},
+    {"lyric": "Oh yeah",
+      "lyric_hangul": "Oh yeah",
+      "lyric_translation": "",
+      "range": [135.56, 136.8], "ans": []},
+    "",
+    {
+      "lyric_hangul": "끝이 없이 세워가 너의 도미노 (Oh 너의 도미노)",
+      "lyric_translation": "Your domino will carry on standing (Oh dominoes)",
+      "parts": [
+        {"lyric": "Kkeuchi eopshi seweoga neoye domino",
+          "range": [136.8, 139.45], "ans": [3]},
+        {"lyric": "(oh neoye domino)",
+          "range": [138.75, 140.45], "ans": [5]}
+      ]
+    },
+    {"lyric": "Meomchuji aneum mireo neomeojyeo dwiro",
+      "lyric_hangul": "멈추지 않음 밀어 넘어져 뒤로 (Yeah, ooh-woah-oh-oh)",
+      "lyric_translation": "Push without stopping, fall back behind",
+      "range": [140.45, 144.53], "ans": [4]},
+    {"lyric": "Naye sonkkeute daa neoye domino",
+      "lyric_hangul": "나의 손끝에 닿아 너의 도미노 (Yeah-eh-eh-eh, ooh-woah-oh-oh)",
+      "lyric_translation": "Your dominoes at my fingertips",
+      "range": [144.53, 148.33], "ans": [8]},
+    {
+      "lyric_hangul": "결국 누가 이길까 정해진 결론 (뻔한 결론, oh-woah)",
+      "lyric_translation": "At the end who will win / Is predetermined",
+      "parts": [
+        {"lyric": "Gyeolguk nuga igilkka jeonghaejin gyeollon",
+          "range": [148.33, 151.42], "ans": [7]},
+        {"lyric": "Ppeonhan gyeollon",
+          "range": [150.72, 152.12], "ans": [2, 7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "발밑에 보인 그 선 앞 굳이 넘겠단 말 (Get-get-get loud)",
+      "lyric_translation": "I’ll pass the line in front of me at my feet / (Get loud)",
+      "parts": [
+        {"lyric": "Balmite boin geu seon ap guji neomgettan mal",
+          "range": [152.12, 155.41], "ans": [5]},
+        {"lyric": "(Get loud)",
+          "range": [155.41, 156.67], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neomu wiheomhan jangnan geuman keunil na",
+      "lyric_hangul": "너무 위험한 장난 그만 큰일 나 (그만 큰일 나 oh)",
+      "lyric_translation": "Stop with the too dangerous jokes? There’ll be big trouble",
+      "range": [156.67, 160.42], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "내 눈엔 절벽 끝인데 한 걸음 떼면 넌? Get down (Yeah, yeah, yeah, get down)",
+      "lyric_translation": "In my eyes, it’s the end of the cliff. / If you take one step? Get down",
+      "parts": [
+        {"lyric": "Nae nunen jeolbyeok kkeuchinde",
+          "range": [160.42, 163.14], "ans": [1]},
+        {"lyric": "Han georeum ttemyeon neon? Get down",
+          "range": [163.14, 165.63], "ans": [1]}
+      ]
+    },
+    {"lyric": "Neomu aseulhan sanghwang jeongmal keunil na",
+      "lyric_hangul": "너무 아슬한 상황 정말 큰일 나 (I'm ready to get loud)",
+      "lyric_translation": "It’s very close call, there’ll really be big trouble",
+      "range": [164.71, 168.52], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "발밑에 그어진 선 앞 (Might get-get-get loud)",
+      "lyric_translation": "The line drawn in front of my feet / (Might get loud)",
+      "parts": [
+        {"lyric": "Balmite geueojin seon ap",
+          "range": [168.52, 171.79], "ans": [2]},
+        {"lyric": "(Might get loud)",
+          "range": [171.09, 172.33], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neomeooneun geu sungan kyeojineun shinho",
+      "lyric_hangul": "넘어오는 그 순간 켜지는 signal",
+      "lyric_translation": "The moment it’s crossed, the sign lights on",
+      "range": [172.33, 175.89], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "참는 건 여기까지야 (Hey, hey, might get-get-get loud)",
+      "lyric_translation": "I can only hold back until here / (Might get loud)",
+      "parts": [
+        {"lyric": "Chamneun geon yeogikkajiya",
+          "range": [175.89, 179.42], "ans": [8]},
+        {"lyric": "(Might get loud)",
+          "range": [178.72, 180.47], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "맘이 조각난 순간 마지막 경고 (Might get-get-get loud)",
+      "lyric_translation": "The moment my heart breaks into pieces is last warning / (Might get loud)",
+      "parts": [
+        {"lyric": "Mami jogaknan sungan majimak gyeonggo",
+          "range": [180.47, 183.8], "ans": [8]},
+        {"lyric": "(Might get loud)",
+          "range": [183.1, 187.0], "ans": [5]}
+      ]
+    }
+  ]
+}

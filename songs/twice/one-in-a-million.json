@@ -1,0 +1,281 @@
+{
+  "name": "ONE IN A MILLION\r",
+  "ogg": "sound/kpop/one_in_a_million.ogg",
+  "id": "one-in-a-million",
+  "group": "twice",
+  "language": "ko",
+  "released": "2016-10-24",
+  "album": "TWICEcoaster: LANE 1",
+  "cover": "css/images/covers/one-in-a-million.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:30Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "You gotta know that you’re / One in a million",
+      "parts": [
+        {"lyric": "You gotta know that you’re",
+          "range": [5.41, 7.14], "ans": [8]},
+        {"lyric": "One in a million",
+          "range": [7.14, 10.97], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "짜증이 계속되는 날이면 날 찾아와봐요",
+      "lyric_translation": "When you keep getting annoyed / Look for me",
+      "parts": [
+        {"lyric": "Jjajeungi gyesokdweneun narimyeon",
+          "range": [10.97, 13.13], "ans": [7]},
+        {"lyric": "Nal chajawa bwayo",
+          "range": [13.13, 16.09], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "행복으로 가득한 날에도 나를 찾아와줘요",
+      "lyric_translation": "Even on days filled with happiness / Come to me",
+      "parts": [
+        {"lyric": "Haengbogeuro gadeukan naredo",
+          "range": [16.09, 18.83], "ans": [3]},
+        {"lyric": "Nareul chajawa jweoyo",
+          "range": [18.83, 20.93], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Geudae gweropineun modeun geotteul",
+      "lyric_hangul": "그대 괴롭히는 모든 것들",
+      "lyric_translation": "All the things that bother you",
+      "range": [20.93, 23.37], "ans": [4]},
+    {"lyric": "Geudaereul apeugo jichige haneun geotteul",
+      "lyric_hangul": "그대를 아프고 지치게 하는 것들",
+      "lyric_translation": "All the things that hurt you and make you tired",
+      "range": [23.37, 27.15], "ans": [4]},
+    {"lyric": "Da naegero gajeowa naege matgyeo bwayo Yeah",
+      "lyric_hangul": "다 나-아-아에게로 가져와 내게 맡겨봐요, yeah",
+      "lyric_translation": "Bring them to me trust them with me",
+      "range": [27.15, 32.24], "ans": [9]},
+    "",
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [32.24, 33.83], "ans": [5]},
+    {"lyric": "Mideo bwayo geudaen teukbyeolhangeol",
+      "lyric_hangul": "믿어봐요 그댄 특별한걸",
+      "lyric_translation": "Believe that you are special",
+      "range": [33.83, 37.66], "ans": [5]},
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [37.66, 39.17], "ans": [5]},
+    {"lyric": "Sesange dan han saram ppuningeol",
+      "lyric_hangul": "세상에 단 한 사람뿐인걸",
+      "lyric_translation": "You’re the only one in the world",
+      "range": [39.17, 42.19], "ans": [5]},
+    {"lyric": "Geudaeneun Masterpiece",
+      "lyric_hangul": "그대는 masterpiece (masterpiece)",
+      "lyric_translation": "You’re a masterpiece",
+      "range": [42.19, 45.27], "ans": [1]},
+    {"lyric": "Inneun geudaerodo wanbyeokangeolyo",
+      "lyric_hangul": "있는 그대로도 완벽한걸요",
+      "lyric_translation": "You’re perfect the way you are",
+      "range": [45.27, 48.11], "ans": [1]},
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [48.11, 49.98], "ans": [1]},
+    {"lyric": "Mideoyo geudaen teukbyeolhangeolyo",
+      "lyric_hangul": "믿어요 그댄 특별한걸요",
+      "lyric_translation": "I believe that you’re special",
+      "range": [49.98, 55.34], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "아무 소용없죠 화내고 기분을 망치는 일",
+      "lyric_translation": "There’s no use to get angry / When things ruin your mood",
+      "parts": [
+        {"lyric": "Amu soyongeopjo hwanaego",
+          "range": [58.94, 61.5], "ans": [8]},
+        {"lyric": "Gibuneul mangchineun il",
+          "range": [61.5, 64.23], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "생각한 대로 풀리지 않을 땐 잠시 take a deep breath",
+      "lyric_translation": "When things don’t go as planned / Take a deep breath for a moment",
+      "parts": [
+        {"lyric": "Saenggakandaero pulliji aneul ttaen",
+          "range": [64.23, 67.86], "ans": [9]},
+        {"lyric": "Jamsi Take a deep breath",
+          "range": [67.86, 68.97], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Geu nuga mworaedo heundeulliji malgo",
+      "lyric_hangul": "그 누가 뭐래도 흔들리지 말고",
+      "lyric_translation": "Whatever anyone says, don’t be shaken",
+      "range": [68.97, 74.78], "ans": [6]},
+    {
+      "lyric_hangul": "큰 소리로 외쳐봐 세상 단 하나뿐인 목소리로, yeah",
+      "lyric_translation": "Shout out loud to the world / With your one and only voice",
+      "parts": [
+        {"lyric": "Keun soriro wecheo bwa sesang",
+          "range": [74.78, 77.18], "ans": [4]},
+        {"lyric": "Dan hanappunin moksoriro Yeah",
+          "range": [77.18, 80.02], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [80.02, 81.9], "ans": [5]},
+    {"lyric": "Mideo bwayo geudaen teukbyeolhangeol",
+      "lyric_hangul": "믿어봐요 그댄 특별한걸",
+      "lyric_translation": "Believe that you are special",
+      "range": [81.9, 85.56], "ans": [5]},
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [85.56, 87.21], "ans": [5]},
+    {"lyric": "Sesange dan han saram ppuningeol",
+      "lyric_hangul": "세상에 단 한 사람뿐인걸",
+      "lyric_translation": "You’re the only one in the world",
+      "range": [87.21, 90.62], "ans": [5]},
+    {"lyric": "Geudaeneun Masterpiece",
+      "lyric_hangul": "그대는 masterpiece (masterpiece)",
+      "lyric_translation": "You’re a masterpiece",
+      "range": [90.62, 92.91], "ans": [1]},
+    {"lyric": "Inneun geudaerodo wanbyeokangeolyo",
+      "lyric_hangul": "있는 그대로도 완벽한걸요",
+      "lyric_translation": "You’re perfect the way you are",
+      "range": [92.91, 96.36], "ans": [1]},
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [96.36, 97.89], "ans": [1]},
+    {"lyric": "Mideoyo geudaen teukbyeolhangeolyo",
+      "lyric_hangul": "믿어요 그댄 특별한걸요",
+      "lyric_translation": "I believe that you’re special",
+      "range": [97.89, 101.46], "ans": [1]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "You gotta know that you’re / One in a million",
+      "parts": [
+        {"lyric": "You gotta know that you’re",
+          "range": [101.46, 103.12], "ans": [8]},
+        {"lyric": "One in a million",
+          "range": [103.12, 104.6], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "아주 특별한 존재가 되어 살아간다는 게 어떤 의미일까, 하",
+      "lyric_translation": "What does it mean to live / As a very special existence?",
+      "parts": [
+        {"lyric": "Aju teukbyeolhan jonjaega dweeo",
+          "range": [104.6, 108.24], "ans": [7]},
+        {"lyric": "Saragandaneun ge eotteon euimiilkka",
+          "range": [108.24, 111.78], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Geu nuga mworaedo heundeulliji malgo",
+      "lyric_hangul": "그 누가 뭐래도 흔들리지 말고",
+      "lyric_translation": "Whatever anyone says, don’t be shaken",
+      "range": [111.51, 117.61], "ans": [6]},
+    {
+      "lyric_hangul": "큰 소리로 외쳐봐 세상 단 하나뿐인 목소리로, oh",
+      "lyric_translation": "Shout out loud to the world / With your one and only voice",
+      "parts": [
+        {"lyric": "Keun soriro wecheo bwa sesang",
+          "range": [117.61, 119.59], "ans": [2]},
+        {"lyric": "Dan hanappunin moksoriro Oh",
+          "range": [119.59, 125.42], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [125.42, 127.21], "ans": [5]},
+    {"lyric": "Mideo bwayo geudaen teukbyeolhangeol",
+      "lyric_hangul": "믿어봐요 그댄 특별한걸",
+      "lyric_translation": "Believe that you are special",
+      "range": [127.21, 130.98], "ans": [5]},
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [130.98, 132.5], "ans": [5]},
+    {"lyric": "Sesange dan han saram ppuningeol",
+      "lyric_hangul": "세상에 단 한 사람뿐인걸",
+      "lyric_translation": "You’re the only one in the world",
+      "range": [132.5, 135.96], "ans": [5]},
+    {"lyric": "Geudaeneun Masterpiece",
+      "lyric_hangul": "그대는 masterpiece (masterpiece)",
+      "lyric_translation": "You’re a masterpiece",
+      "range": [135.96, 138.55], "ans": [1]},
+    {"lyric": "Inneun geudaerodo wanbyeokangeolyo",
+      "lyric_hangul": "있는 그대로도 완벽한걸요",
+      "lyric_translation": "You’re perfect the way you are",
+      "range": [138.55, 141.35], "ans": [1]},
+    {"lyric": "One in a million",
+      "lyric_hangul": "One in a million",
+      "lyric_translation": "One in a million",
+      "range": [141.35, 143.16], "ans": [1]},
+    {"lyric": "Mideoyo geudaen teukbyeolhangeolyo",
+      "lyric_hangul": "믿어요 그댄 특별한걸요",
+      "lyric_translation": "I believe that you’re special",
+      "range": [143.16, 146.79], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "You gotta know that you’re / One in a million",
+      "parts": [
+        {"lyric": "You gotta know that you’re",
+          "range": [146.79, 148.49], "ans": []},
+        {"lyric": "One in a million",
+          "range": [148.49, 149.43], "ans": []}
+      ]
+    },
+    {"lyric": "(You gotta know that you’re one in a million)",
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "(You gotta know that you’re / One in a million)",
+      "range": [149.39, 152.23], "ans": [5]},
+    {
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "You gotta know that you’re / One in a million / (Just one person yeah)",
+      "parts": [
+        {"lyric": "You gotta know that you’re",
+          "range": [152.23, 153.31], "ans": []},
+        {"lyric": "One in a million",
+          "range": [153.31, 154.38], "ans": []},
+        {"lyric": "(han saram ppuningeolyo Yeah)",
+          "range": [153.68, 154.75], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "You gotta know that you’re / One in a million / (You’re very special yeah)",
+      "parts": [
+        {"lyric": "You gotta know that you’re",
+          "range": [157.39, 158.51], "ans": []},
+        {"lyric": "One in a million",
+          "range": [158.51, 159.5], "ans": []},
+        {"lyric": "(geudaen aju teukbyeolhan geolyo Yeah)",
+          "range": [158.8, 160.03], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "You gotta know that you're one in a million",
+      "lyric_translation": "You gotta know that you’re / One in a million",
+      "parts": [
+        {"lyric": "You gotta know that you’re",
+          "range": [162.68, 164.48], "ans": []},
+        {"lyric": "One in a million",
+          "range": [164.48, 167.44], "ans": []}
+      ]
+    }
+  ]
+}

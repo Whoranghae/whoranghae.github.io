@@ -1,0 +1,306 @@
+{
+  "name": "SOS\r",
+  "ogg": "sound/kpop/sos.ogg",
+  "id": "sos",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-06-11",
+  "album": "Taste of Love",
+  "cover": "css/images/covers/sos.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:42Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Gipeun neupe ppajeobeoryeosseo",
+      "lyric_hangul": "깊은 늪에 빠져버렸어",
+      "lyric_translation": "I’ve fallen into a deep swamp",
+      "range": [9.01, 12.67], "ans": [6]},
+    {"lyric": "Ijen dorikil suga eopseo",
+      "lyric_hangul": "이젠 돌이킬 수가 없어",
+      "lyric_translation": "So I can’t turn back anymore",
+      "range": [12.67, 16.87], "ans": [6]},
+    {"lyric": "Witaeroun summan shwigo isseo",
+      "lyric_hangul": "위태로운 숨만 쉬고 있어",
+      "lyric_translation": "I’m just breathing dangerous breaths",
+      "range": [16.87, 20.96], "ans": [7]},
+    {"lyric": "Ppalli ireon nal guhaejweo eoseo",
+      "lyric_hangul": "빨리 이런 날 구해줘, 어서",
+      "lyric_translation": "Hurry and save me, come on",
+      "range": [20.96, 24.36], "ans": [7]},
+    "",
+    {"lyric": "Oh apeun geol almyeonseodo",
+      "lyric_hangul": "Oh, 아픈 걸 알면서도",
+      "lyric_translation": "Oh, I know it hurts",
+      "range": [24.36, 27.59], "ans": [5]},
+    {"lyric": "Heoujeokdaelsurok deo deo gipsugi",
+      "lyric_hangul": "허우적댈수록 더, 더 깊숙이",
+      "lyric_translation": "The more you struggle the deeper you go",
+      "range": [27.59, 32.67], "ans": [5]},
+    {"lyric": "Deo heeo naoji motago",
+      "lyric_hangul": "더 헤어 나오지 못하고",
+      "lyric_translation": "The harder it gets to get out",
+      "range": [32.67, 35.71], "ans": [1]},
+    {
+      "lyric_hangul": "나는 슬픔으로 물들어, 날 구해줘",
+      "lyric_translation": "I’m colored with grief / Save me / SOS",
+      "parts": [
+        {"lyric": "Naneun seulpeumeuro muldeureo",
+          "range": [35.71, 39.17], "ans": [1]},
+        {"lyric": "Nal guhaejweo",
+          "range": [39.17, 40.23], "ans": [1]},
+        {"lyric": "SOS",
+          "range": [39.53, 40.84], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh, baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [40.84, 45.31], "ans": [9]},
+    {
+      "lyric_hangul": "S.O.S, I like ya like that",
+      "lyric_translation": "SOS, I like ya like that / SOS",
+      "parts": [
+        {"lyric": "SOS, I like ya like that",
+          "range": [45.31, 48.42], "ans": [8]},
+        {"lyric": "SOS",
+          "range": [47.72, 48.57], "ans": [4]}
+      ]
+    },
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh baby, you gotta, you gotta save me again (uh-huh)",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [48.51, 56.38], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "You know I just can't stop it when my heart skyrockets for you",
+      "lyric_translation": "You know, I just can’t stop it / When my heart skyrockets for you",
+      "parts": [
+        {"lyric": "You know I just can’t stop it",
+          "range": [56.38, 59.02], "ans": [2]},
+        {"lyric": "When my heart skyrockets for you",
+          "range": [59.02, 61.6], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "I know it's gonna hurt, but I'm already into you",
+      "lyric_translation": "I know it’s gonna hurt / But I’m already into you / SOS",
+      "parts": [
+        {"lyric": "I know it’s gonna hurt",
+          "range": [61.6, 62.58], "ans": [3]},
+        {"lyric": "But I’m already into you",
+          "range": [62.58, 64.75], "ans": [3]},
+        {"lyric": "SOS",
+          "range": [64.05, 65.04], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [64.55, 69.56], "ans": [5]},
+    {
+      "lyric_hangul": "S.O.S, I like ya like that",
+      "lyric_translation": "SOS, I like ya like that",
+      "parts": [
+        {"lyric": "SOS, I like ya like that",
+          "range": [69.56, 72.09], "ans": [7]},
+        {"lyric": "(I like ya like that)",
+          "range": [71.39, 72.95], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "용기 내보려고 해, 모든 걸 바꾸는 feeling",
+      "lyric_translation": "I’m trying to muster courage / Feeling of changing everything",
+      "parts": [
+        {"lyric": "Yonggi naeboryeogo hae",
+          "range": [72.95, 74.69], "ans": [8]},
+        {"lyric": "(hae)",
+          "range": [74.25, 75.43], "ans": [7]},
+        {"lyric": "Modeun geol bakkuneun Feeling",
+          "range": [75.43, 77.11], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "그 이상을 초월해, 넘어설래 (ah, ah, ah)",
+      "lyric_translation": "It’s beyond that / I wanna go beyond that",
+      "parts": [
+        {"lyric": "Geu isangeul choweolhae",
+          "range": [77.11, 78.67], "ans": [8]},
+        {"lyric": "Neomeoseollae",
+          "range": [78.67, 80.92], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Baby when you reach out to me, oh now",
+      "lyric_hangul": "Baby, when you reach out to me, oh now",
+      "lyric_translation": "Baby, when you reach out to me, oh now",
+      "range": [80.58, 83.22], "ans": [6]},
+    {
+      "lyric_hangul": "절대 놓치지 않을 거야, 난 손을 잡아줘",
+      "lyric_translation": "I’m never going to let go of it / Hold my hand",
+      "parts": [
+        {"lyric": "Jeolttae notchiji aneul kkeoya nan",
+          "range": [83.22, 86.26], "ans": [6]},
+        {"lyric": "Soneul jabajweo",
+          "range": [86.26, 88.62], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Oh apeun geol almyeonseodo",
+      "lyric_hangul": "Oh, 아픈 걸 알면서도",
+      "lyric_translation": "Oh, I know it hurts",
+      "range": [88.62, 91.53], "ans": [1]},
+    {"lyric": "Heoujeokdaelsurok deo deo gipsugi",
+      "lyric_hangul": "허우적댈수록 더, 더 깊숙이",
+      "lyric_translation": "The more you struggle the deeper you go",
+      "range": [91.53, 96.58], "ans": [1]},
+    {"lyric": "Deo heeo naoji motago",
+      "lyric_hangul": "더 헤어 나오지 못하고",
+      "lyric_translation": "The harder it gets to get out",
+      "range": [96.58, 99.53], "ans": [5]},
+    {
+      "lyric_hangul": "나는 슬픔으로 부서져, 날 구해줘",
+      "lyric_translation": "I’m broken by grief / Save me / SOS",
+      "parts": [
+        {"lyric": "Naneun seulpeumeuro buseojeo",
+          "range": [99.53, 103.17], "ans": [5]},
+        {"lyric": "Nal guhaejweo",
+          "range": [103.17, 104.16], "ans": [5]},
+        {"lyric": "SOS",
+          "range": [103.46, 104.51], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh, baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [104.51, 109.42], "ans": [4]},
+    {
+      "lyric_hangul": "S.O.S, I like ya like that",
+      "lyric_translation": "SOS, I like ya like that / SOS",
+      "parts": [
+        {"lyric": "SOS, I like ya like that",
+          "range": [109.42, 112.37], "ans": [3]},
+        {"lyric": "SOS",
+          "range": [111.67, 112.53], "ans": [9]}
+      ]
+    },
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [112.53, 116.88], "ans": [9]},
+    {"lyric": "You gotta save me again",
+      "lyric_hangul": "You gotta save me again",
+      "lyric_translation": "You gotta save me again",
+      "range": [116.88, 119.87], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "Uh, 멀리서 흐릿하게 울려댄 차가웠던 신호 사이렌",
+      "lyric_translation": "Ringing in the blurry distance / The cold signal siren",
+      "parts": [
+        {"lyric": "Meolliseo heuritage ullyeodaen",
+          "range": [119.87, 123.09], "ans": [8]},
+        {"lyric": "Chagaweotteon shinho sairen",
+          "range": [123.09, 125.19], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "But I now, 이제 깨달아 내 모든 맘이 너를 향해가",
+      "lyric_translation": "But I now / I’ve now realised my entire heart goes out to you",
+      "parts": [
+        {"lyric": "But I now",
+          "range": [125.19, 126.44], "ans": [6]},
+        {"lyric": "Ije kkaedara nae modeun mami neoreul hyanghaega",
+          "range": [125.74, 130.06], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "달라질 거야 내 전부 as long as I'm with you",
+      "lyric_translation": "My everything will change / As long as I’m with you",
+      "parts": [
+        {"lyric": "Dallajil kkeoya nae jeonbu",
+          "range": [130.06, 132.14], "ans": [3]},
+        {"lyric": "As long as I’m with you",
+          "range": [131.44, 134.52], "ans": [1, 3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Can you hear me now?",
+      "lyric_translation": "Can you hear me now? / SOS",
+      "parts": [
+        {"lyric": "Can you hear me now",
+          "range": [134.52, 136.41], "ans": [2]},
+        {"lyric": "SOS",
+          "range": [135.71, 136.57], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh, baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [136.57, 141.36], "ans": [5]},
+    {
+      "lyric_hangul": "S.O.S, I like ya like that",
+      "lyric_translation": "SOS, I like ya like that / SOS",
+      "parts": [
+        {"lyric": "SOS, I like ya like that",
+          "range": [141.36, 143.73], "ans": [2]},
+        {"lyric": "SOS",
+          "range": [143.03, 144.55], "ans": [1]}
+      ]
+    },
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [144.55, 149.03], "ans": [1]},
+    {"lyric": "You gotta save me again",
+      "lyric_hangul": "You gotta save me again",
+      "lyric_translation": "You gotta save me again",
+      "range": [149.03, 152.15], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "You know I just can't stop it when my heart skyrockets for you",
+      "lyric_translation": "You know, I just can’t stop it / When my heart skyrockets for you",
+      "parts": [
+        {"lyric": "You know I just can’t stop it",
+          "range": [152.15, 154.97], "ans": [9]},
+        {"lyric": "When my heart skyrockets for you",
+          "range": [154.97, 157.65], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "I know it's gonna hurt, but I'm already into you",
+      "lyric_translation": "I know it’s gonna hurt / But I’m already into you / SOS",
+      "parts": [
+        {"lyric": "I know it’s gonna hurt",
+          "range": [157.65, 158.77], "ans": [4]},
+        {"lyric": "But I’m already into you",
+          "range": [158.77, 160.59], "ans": [4]},
+        {"lyric": "SOS",
+          "range": [160.1, 160.64], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Oh baby, you gotta, you gotta save me again",
+      "lyric_hangul": "S.O.S, oh baby, you gotta, you gotta save me again",
+      "lyric_translation": "Oh baby, you gotta, you gotta save me again",
+      "range": [160.64, 165.36], "ans": [6]},
+    {
+      "lyric_hangul": "S.O.S, I like ya like that S.O.S",
+      "lyric_translation": "SOS, I like ya like that / SOS",
+      "parts": [
+        {"lyric": "SOS, I like ya like that",
+          "range": [165.36, 168.12], "ans": [7]},
+        {"lyric": "(I like ya like that)",
+          "range": [167.43, 168.42], "ans": [1]},
+        {"lyric": "SOS",
+          "range": [168.17, 173.0], "ans": [9]}
+      ]
+    }
+  ]
+}

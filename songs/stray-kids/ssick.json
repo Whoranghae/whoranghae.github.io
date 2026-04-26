@@ -1,0 +1,408 @@
+{
+  "name": "SSICK (씩)\r",
+  "ogg": "sound/kpop/ssick.ogg",
+  "id": "ssick",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2021-08-23",
+  "album": "NOEASY",
+  "cover": "css/images/covers/ssick.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:05Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Come on",
+      "lyric_hangul": "Come on",
+      "lyric_translation": "Come on",
+      "range": [11.07, 12.26], "ans": [2]},
+    {"lyric": "Everybody look at me",
+      "lyric_hangul": "Everybody look at me",
+      "lyric_translation": "Everybody look at me",
+      "range": [12.26, 14.11], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "미소 지어 씩, 넘어왔죠 픽",
+      "lyric_translation": "Smile with a smirk like ssick / Now haven’t I made you fall for me?",
+      "parts": [
+        {"lyric": "Miso jieo sshik",
+          "range": [14.11, 15.17], "ans": [3]},
+        {"lyric": "Neomeowatjyo pik",
+          "range": [15.17, 16.56], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 친구도 날 pick, 두 세 번쯤 튕 튕겨",
+      "lyric_translation": "Your friends all pick me / They act like they haven’t two or three times",
+      "parts": [
+        {"lyric": "Ne chingudo nal pick",
+          "range": [16.56, 17.56], "ans": [3]},
+        {"lyric": "Du se beonjjeum twing twinggyeo",
+          "range": [17.56, 19.86], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "머리가 핑핑핑, 트리플 악셀 피겨",
+      "lyric_translation": "Their heads all spin spin spin / Triple axel like figure skating",
+      "parts": [
+        {"lyric": "Meoriga pingpingping",
+          "range": [19.75, 21.43], "ans": [3]},
+        {"lyric": "Teuripeul aksel pigyeo",
+          "range": [21.43, 22.71], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "넘어갈 듯 말 듯 한 아찔한 경계선을 지켜",
+      "lyric_translation": "Stay right on that thrilling border / Between falling for me or not",
+      "parts": [
+        {"lyric": "Neomeogal deut mal deuthan",
+          "range": [22.61, 23.91], "ans": [3]},
+        {"lyric": "Ajjilhan gyeonggyeseoneul jikyeo",
+          "range": [23.91, 25.47], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Hathan cheokhaneun gatjadeureun shinggeoweo",
+      "lyric_hangul": "핫한 척하는 가짜들은 싱거워",
+      "lyric_translation": "Those fakes pretending to be hot are all bland",
+      "range": [25.04, 27.98], "ans": [8]},
+    {"lyric": "Nal udaehaneun gashikdeureun jigyeoweo",
+      "lyric_hangul": "날 우대하는 가식들은 지겨워",
+      "lyric_translation": "I’m sick of their fronts acting like they’re giving me a hand",
+      "range": [27.98, 30.9], "ans": [8]},
+    {"lyric": "Bikyeo meolmiga na jinjeolmeoriga na",
+      "lyric_hangul": "비켜, 멀미가 나 진절머리가 나",
+      "lyric_translation": "Get out of my way, I’m getting motion sick, I’m sick of it",
+      "range": [30.9, 33.84], "ans": [3]},
+    {"lyric": "Seon neomji ma ajik urira bureuji ma neowa nal",
+      "lyric_hangul": "선 넘지 마, 아직 우리라 부르지 마 너와 날",
+      "lyric_translation": "Don’t cross the line, don’t even say ‘we’ yet about you and I",
+      "range": [33.84, 36.68], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "잠깐 실례할게, 끊이질 않는 전화벨",
+      "lyric_translation": "Excuse me for a bit / My phone is ringing off the hook",
+      "parts": [
+        {"lyric": "Jamkkan shillyehalge",
+          "range": [36.68, 38.53], "ans": [7]},
+        {"lyric": "Kkeunijil anneun jeonhwabel",
+          "range": [38.53, 41.75], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "겸손은 내 두 손과 함께 주머니 속으로",
+      "lyric_translation": "I’ll put my humility in my pocket / Right along with my two hands",
+      "parts": [
+        {"lyric": "Gyeomsoneun nae du songwa hamkke",
+          "range": [41.75, 44.79], "ans": [7]},
+        {"lyric": "Jumeoni sogeuro",
+          "range": [44.79, 46.74], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm so sick (sick, sick)",
+      "lyric_translation": "I’m so sick / I’m so sick",
+      "parts": [
+        {"lyric": "I’m so sick",
+          "range": [46.74, 48.66], "ans": [2]},
+        {"lyric": "I’m so sick",
+          "range": [47.96, 52.41], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Me so sick (sick, sick)",
+      "lyric_translation": "Sick sick / Me so* sick / Sick sick",
+      "parts": [
+        {"lyric": "Sick Sick",
+          "range": [52.41, 52.99], "ans": [6]},
+        {"lyric": "Me so sick",
+          "range": [52.99, 55.9], "ans": [6]},
+        {"lyric": "Sick Sick",
+          "range": [55.9, 57.24], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Hollin geot gattae",
+      "lyric_hangul": "홀린 것 같대",
+      "lyric_translation": "They say feel like they’ve fallen",
+      "range": [57.24, 58.81], "ans": [6]},
+    {
+      "lyric_hangul": "When I'm with the mic, with the mic",
+      "lyric_translation": "With the mic, with the mic, / When I’m with the mic, with the mic,",
+      "parts": [
+        {"lyric": "With the mic, with the mic",
+          "range": [58.81, 59.41], "ans": [1]},
+        {"lyric": "When I’m with the mic, with the mic",
+          "range": [59.41, 61.19], "ans": [1]}
+      ]
+    },
+    {"lyric": "Gyeonggo in the night, in the night",
+      "lyric_hangul": "경고 in the night, in the night (I'm so sick)",
+      "lyric_translation": "Warning in the night, in the night",
+      "range": [61.19, 65.77], "ans": [1]},
+    {"lyric": "With the mic, with the mic",
+      "lyric_hangul": "With the mic, with the mic",
+      "lyric_translation": "",
+      "range": [65.77, 67.3], "ans": []},
+    {"lyric": "Ibkkorineun hanjjokman ollyeo sshik",
+      "lyric_hangul": "입꼬리는 한쪽만 올려 (씩)",
+      "lyric_translation": "One corner of my mouth up in a smirk like ssick",
+      "range": [67.3, 69.68], "ans": [6]},
+    "",
+    {"lyric": "Feel good, da mongnonghan mood",
+      "lyric_hangul": "Feel good, 다 몽롱한 mood",
+      "lyric_translation": "Feel good, everyone’s in a dreamy mood",
+      "range": [69.68, 72.34], "ans": [4]},
+    {
+      "lyric_hangul": "아슬하게 피해 가는 위험 수준 (warning, danger)",
+      "lyric_translation": "Barely avoiding the dangerous level / (Warning, danger)",
+      "parts": [
+        {"lyric": "Aseulhage pihae ganeun wiheom sujun",
+          "range": [72.34, 75.41], "ans": [4]},
+        {"lyric": "(Warning, danger)",
+          "range": [74.71, 76.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "여기고 저기고, 날 불러, 빠바바 빨리 뛰는 심장",
+      "lyric_translation": "Everyone calling me from here and there / My heart’s pounding fast",
+      "parts": [
+        {"lyric": "Yeogigo jeogigo nal bulleo",
+          "range": [75.87, 77.33], "ans": [5]},
+        {"lyric": "Ppa baba ppalli ttwineun shimjang",
+          "range": [77.33, 78.28], "ans": [5]}
+      ]
+    },
+    {"lyric": "Him ppajige maljangnan haneun aedeureun da gara shwit",
+      "lyric_hangul": "힘 빠지게 말장난 하는 애들은 다 가라, 쉿",
+      "lyric_translation": "Everyone wasting energy joking around can just go, shh",
+      "range": [77.8, 81.1], "ans": [5]},
+    "",
+    {"lyric": "I’m a player, i bunwigireul bakkul game changer",
+      "lyric_hangul": "I'm a player, 이 분위기를 바꿀 game changer",
+      "lyric_translation": "I’m a player, here to change the vibes, a game changer",
+      "range": [81.1, 83.9], "ans": [7]},
+    {
+      "lyric_hangul": "안 베껴, 촌티 나는 스타일에 나는 back off",
+      "lyric_translation": "I don’t copy anyone else, from all those lame styles / I just back off",
+      "parts": [
+        {"lyric": "An bekkyeo chonti naneun seutaire",
+          "range": [83.9, 86.58], "ans": [7]},
+        {"lyric": "Naneun back off",
+          "range": [86.58, 87.34], "ans": [7]}
+      ]
+    },
+    {"lyric": "Pi kkeulke mandeuneun i bame moreun cheok ssaeng",
+      "lyric_hangul": "피 끓게 만드는 이 밤에 모른 척 쌩",
+      "lyric_translation": "On a night that’s got everyone’s blood boiling",
+      "range": [86.94, 89.99], "ans": [5]},
+    {"lyric": "Hago jinachil su eopji nal bureugi bappeudae",
+      "lyric_hangul": "하고 지나칠 수 없지, 날 부르기 바쁘대",
+      "lyric_translation": "Nobody can just pass by, they’re all busy calling me",
+      "range": [89.99, 93.09], "ans": [5]},
+    "",
+    {"lyric": "Oh yeah I know",
+      "lyric_hangul": "Oh, yeah, I know",
+      "lyric_translation": "Oh yeah I know",
+      "range": [93.09, 95.07], "ans": [1]},
+    {"lyric": "That I don’t have anything special",
+      "lyric_hangul": "That I don't have anything special",
+      "lyric_translation": "That I don’t have anything special",
+      "range": [95.07, 98.14], "ans": [6]},
+    {"lyric": "But yeah did you know?",
+      "lyric_hangul": "But, yeah, did you know?",
+      "lyric_translation": "But yeah did you know?",
+      "range": [98.14, 100.74], "ans": [1]},
+    {"lyric": "That I myself am really special yeah yeah",
+      "lyric_hangul": "That I myself, am really special, yeah, yeah",
+      "lyric_translation": "That I myself am really special yeah yeah",
+      "range": [100.74, 103.91], "ans": [6]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "잠깐 실례할게, 끊이질 않는 전화벨",
+      "lyric_translation": "Excuse me for a bit / My phone is ringing off the hook",
+      "parts": [
+        {"lyric": "Jamkkan shillyehalge",
+          "range": [103.91, 106.25], "ans": [8]},
+        {"lyric": "Kkeunijil anneun jeonhwabel",
+          "range": [106.25, 109.56], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "겸손은 내 두 손과 함께 주머니 속으로",
+      "lyric_translation": "I’ll put my humility in my pocket / Right along with my two hands",
+      "parts": [
+        {"lyric": "Gyeomsoneun nae du songwa hamkke",
+          "range": [109.56, 112.56], "ans": [8]},
+        {"lyric": "Jumeoni sogeuro",
+          "range": [112.56, 114.65], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "I’m so sick",
+      "lyric_hangul": "I'm so sick (sick, sick)",
+      "lyric_translation": "I’m so sick / I’m so sick",
+      "range": [114.65, 120.15], "ans": [4]},
+    {
+      "lyric_hangul": "Me so sick (sick, sick)",
+      "lyric_translation": "Me so* sick / Sick sick",
+      "parts": [
+        {"lyric": "Me so sick",
+          "range": [120.15, 122.36], "ans": [2]},
+        {"lyric": "Sick Sick",
+          "range": [121.66, 125.0], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "씩 하는 순간에 휙, 시선들이 다 freeze",
+      "lyric_translation": "The moment I smirk like ssick / Their gazes lock on me and freeze",
+      "parts": [
+        {"lyric": "Sshik haneun sungane hwik",
+          "range": [126.74, 128.75], "ans": [2]},
+        {"lyric": "Shiseondeuri da freeze",
+          "range": [128.75, 130.88], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Me so sick and legendary",
+      "lyric_translation": "Sick sick / Me so* sick / Me so* sick and legendary",
+      "parts": [
+        {"lyric": "Sick Sick",
+          "range": [130.88, 131.67], "ans": [6]},
+        {"lyric": "Me so sick",
+          "range": [131.17, 132.07], "ans": [4]},
+        {"lyric": "Me so sick and legendary",
+          "range": [131.37, 132.79], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "어느 때도, unstoppable",
+      "lyric_translation": "No matter when I’m / Unstoppable",
+      "parts": [
+        {"lyric": "Eoneu ttaedo",
+          "range": [132.79, 134.06], "ans": [8]},
+        {"lyric": "Unstoppable",
+          "range": [134.06, 135.28], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "밝게 더, 밝게 더, 웃어, cheese",
+      "lyric_translation": "Smiling brighter and brighter / CHEESE!",
+      "parts": [
+        {"lyric": "Balkge deo balkge deo useo",
+          "range": [135.28, 137.51], "ans": [8]},
+        {"lyric": "Cheese",
+          "range": [137.51, 137.9], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "태어났을 때도 sick, 그래, 울지 않고 씩",
+      "lyric_translation": "From the time I was born I’ve been sick / Never cried and just smirked like ssick",
+      "parts": [
+        {"lyric": "Taeeonasseul ttaedo sick",
+          "range": [137.9, 138.8], "ans": [3]},
+        {"lyric": "Geurae ulji anko sshik",
+          "range": [138.8, 140.7], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "첫걸음마도 sick, 내 소식도 so sick",
+      "lyric_translation": "Sick sick / Even my first steps were sick / Every bit of news about me is so sick",
+      "parts": [
+        {"lyric": "Sick Sick",
+          "range": [140.61, 141.38], "ans": [6]},
+        {"lyric": "Cheotgeoreummado sick",
+          "range": [140.68, 142.39], "ans": [3]},
+        {"lyric": "Nae soshikdo so sick",
+          "range": [142.39, 143.38], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "졸업장 받고 씩, 무대 위에서 sick",
+      "lyric_translation": "Got my diploma and smirked like ssick / On stage I’m sick",
+      "parts": [
+        {"lyric": "Joreobjang batgo sshik",
+          "range": [143.32, 145.04], "ans": [3]},
+        {"lyric": "Mudae wieseo sick",
+          "range": [145.04, 146.32], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "상 받고 나서 씩, 우린 그래왔다, you see?",
+      "lyric_translation": "Won awards and smirked like ssick / That’s what we’ve done! / You see?",
+      "parts": [
+        {"lyric": "Sang batgo naseo sshik",
+          "range": [146.32, 147.28], "ans": [3]},
+        {"lyric": "Urin geuraewatta",
+          "range": [147.28, 149.38], "ans": [3]},
+        {"lyric": "You see?",
+          "range": [148.68, 151.37], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "I’m so sick",
+      "lyric_hangul": "I'm so sick (sick, sick)",
+      "lyric_translation": "I’m so sick",
+      "range": [151.37, 154.06], "ans": [6]},
+    {"lyric": "Sick Sick",
+      "lyric_hangul": "Me so sick (sick, sick)",
+      "lyric_translation": "Sick sick",
+      "range": [154.06, 161.69], "ans": [6]},
+    {
+      "lyric_hangul": "홀린 것 같대",
+      "lyric_translation": "They say feel like they’ve fallen / They say feel like they’ve fallen",
+      "parts": [
+        {"lyric": "Hollin geot gattae",
+          "range": [161.69, 163.19], "ans": [2]},
+        {"lyric": "Hollin geot gattae",
+          "range": [162.49, 163.44], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "When I'm with the mic, with the mic",
+      "lyric_translation": "When I’m with the mic, with the mic, / With the mic, with the mic,",
+      "parts": [
+        {"lyric": "When I’m with the mic, with the mic",
+          "range": [163.42, 164.59], "ans": [1]},
+        {"lyric": "With the mic, with the mic",
+          "range": [164.59, 165.65], "ans": [1]}
+      ]
+    },
+    {"lyric": "Gyeonggo in the night, in the night",
+      "lyric_hangul": "경고 in the night, in the night (I'm so sick)",
+      "lyric_translation": "Warning in the night, in the night",
+      "range": [165.65, 170.26], "ans": [1]},
+    {"lyric": "With the mic, with the mic",
+      "lyric_hangul": "With the mic, with the mic",
+      "lyric_translation": "",
+      "range": [170.26, 172.22], "ans": []},
+    {"lyric": "Ibkkorineun hanjjokman ollyeo sshik",
+      "lyric_hangul": "입꼬리는 한쪽만 올려 (씩)",
+      "lyric_translation": "One corner of my mouth up in a smirk like ssick",
+      "range": [172.22, 174.64], "ans": [4]},
+    "",
+    {"lyric": "Dumttarantta dumttarantta",
+      "lyric_hangul": "둠따란따, 둠따란따",
+      "lyric_translation": "Dumttarantta dumttarantta",
+      "range": [174.64, 177.75], "ans": []},
+    {"lyric": "Dumttarantta dum sick",
+      "lyric_hangul": "둠따란따 둠 (sick)",
+      "lyric_translation": "Dumttarantta dum sick",
+      "range": [177.75, 180.43], "ans": []},
+    {"lyric": "Dumttarantta dum dumttarantta",
+      "lyric_hangul": "둠따란따, 둠둠따란따",
+      "lyric_translation": "Dumttarantta dum dumttarantta",
+      "range": [180.43, 183.34], "ans": []},
+    {"lyric": "Dumttadumttadum sshik",
+      "lyric_hangul": "둠따둠따둠 (씩)",
+      "lyric_translation": "Dumttadumttadum ssick",
+      "range": [183.34, 187.6], "ans": []}
+  ]
+}

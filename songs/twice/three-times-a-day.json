@@ -1,0 +1,304 @@
+{
+  "name": "THREE TIMES A DAY (하루에 세번)\r",
+  "ogg": "sound/kpop/three_times_a_day.ogg",
+  "id": "three-times-a-day",
+  "group": "twice",
+  "language": "ko",
+  "released": "2017-05-15",
+  "album": "SIGNAL",
+  "cover": "css/images/covers/three-times-a-day.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:50Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Mweohagillae jongil yeollagi eomneunji",
+      "lyric_hangul": "뭐하길래 종일 연락이 없는지",
+      "lyric_translation": "What are you doing? I haven’t heard from you all day",
+      "range": [8.58, 14.64], "ans": [1]},
+    {"lyric": "Bappeuda gillae jeonhwa haryeoda chamasseo",
+      "lyric_hangul": "바쁘다 길래 전화 하려다 참았어",
+      "lyric_translation": "You said you’re busy so I was gonna call but I didn’t",
+      "range": [14.64, 20.91], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "통화 한번 하는 게 그렇게 어렵니",
+      "lyric_translation": "Is it that hard / To have one phone conversation?",
+      "parts": [
+        {"lyric": "Tonghwa hanbeon haneun ge",
+          "range": [20.91, 23.03], "ans": [7]},
+        {"lyric": "Geureoke eoryeomni",
+          "range": [23.03, 24.65], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "그깟 몇 글자 쓰는 게 손가락 아프니",
+      "lyric_translation": "Does it hurt your fingers / To type in a few words?",
+      "parts": [
+        {"lyric": "Geukkat myeot geulja sseuneun ge",
+          "range": [24.47, 26.39], "ans": [9]},
+        {"lyric": "Sonkkarak apeuni",
+          "range": [26.39, 28.22], "ans": [9]}
+      ]
+    },
+    {"lyric": "Nae saenggak najido anni",
+      "lyric_hangul": "내 생각 나지도 않니",
+      "lyric_translation": "Don’t you even think about me?",
+      "range": [28.22, 33.82], "ans": [8]},
+    "",
+    {"lyric": "Chinguga joeumyeon chingurang sagwieo",
+      "lyric_hangul": "친구가 좋으면 친구랑 사귀어",
+      "lyric_translation": "If you like your friends so much, date your friends",
+      "range": [33.82, 37.44], "ans": [4]},
+    {"lyric": "Nolgiman hamyeonseo wae bappeuncheokae",
+      "lyric_hangul": "놀기만 하면서 왜 바쁜척해",
+      "lyric_translation": "All you do is play so why pretend to be so busy?",
+      "range": [37.44, 40.76], "ans": [3]},
+    {"lyric": "Maneun geo an barae butagiya",
+      "lyric_hangul": "많은 거 안 바래 부탁이야",
+      "lyric_translation": "I don’t want much, please",
+      "range": [40.76, 46.07], "ans": [2]},
+    "",
+    {"lyric": "Cheot beonjjae ije ireonattago",
+      "lyric_hangul": "첫 번째 이제 일어났다고",
+      "lyric_translation": "First, tell me you woke up",
+      "range": [46.07, 49.49], "ans": [5]},
+    {"lyric": "Du beonjjae eodi jom nagandago",
+      "lyric_hangul": "두 번째 어디 좀 나간다고",
+      "lyric_translation": "Second, tell me if you’re going somewhere",
+      "range": [49.49, 52.58], "ans": [5]},
+    {"lyric": "Se beonjjae jamdeulgi jeone Good night",
+      "lyric_hangul": "세 번째 잠들기 전에 good night",
+      "lyric_translation": "Third, tell me good night before you go to bed",
+      "range": [52.58, 56.12], "ans": [1]},
+    {"lyric": "Deodo malgo naega weonhaneun geon",
+      "lyric_hangul": "더도 말고 내가 원하는 건",
+      "lyric_translation": "Nothing more, this is what I want",
+      "range": [56.12, 58.92], "ans": [1]},
+    "",
+    {"lyric": "Harue se beon ttak se beon",
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day, three times a day",
+      "range": [58.92, 62.28], "ans": [9]},
+    {"lyric": "Geuge mweoga daedanhae geugeotto motae",
+      "lyric_hangul": "그게 뭐가 대단해 그것도 못해",
+      "lyric_translation": "What’s so hard about that? Can’t you do it?",
+      "range": [62.28, 65.48], "ans": [5]},
+    {"lyric": "Harue se beon ttak se beon",
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day, three times a day",
+      "range": [65.48, 68.7], "ans": [1]},
+    {"lyric": "Yeollak jom hae baboya",
+      "lyric_hangul": "연락 좀 해 바보야",
+      "lyric_translation": "Please contact me, you fool",
+      "range": [68.7, 72.5], "ans": [6]},
+    "",
+    {"lyric": "Deo deo deo saenggagi jakku manajigo",
+      "lyric_hangul": "더 더 더 생각이 자꾸 많아지고 (Hoo)",
+      "lyric_translation": "I keep getting more and more thoughts",
+      "range": [72.5, 77.66], "ans": [1]},
+    {"lyric": "Nae sangsangnyeogeun jeom jeom jeom",
+      "lyric_hangul": "내 상상력은 점 점 점",
+      "lyric_translation": "My imagination keeps growing",
+      "range": [77.66, 80.77], "ans": [8]},
+    {
+      "lyric_hangul": "해피엔딩관 멀어지고 (So bad)",
+      "lyric_translation": "Getting farther away from a happy ending (so bad)",
+      "parts": [
+        {"lyric": "Haepiendinggwan meoreojigo",
+          "range": [80.77, 82.89], "ans": [8]},
+        {"lyric": "(So bad)",
+          "range": [82.19, 84.26], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "통화 한번 하는 게 그렇게 어렵니",
+      "lyric_translation": "Is it that hard / To have one phone conversation?",
+      "parts": [
+        {"lyric": "Tonghwa hanbeon haneun ge",
+          "range": [84.26, 86.2], "ans": [7]},
+        {"lyric": "Geureoke eoryeomni",
+          "range": [86.2, 87.78], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "그깟 몇 글자 쓰는 게 손가락 아프니",
+      "lyric_translation": "Does it hurt your fingers / To type in a few words?",
+      "parts": [
+        {"lyric": "Geukkat myeot geulja sseuneun ge",
+          "range": [87.62, 89.5], "ans": [7]},
+        {"lyric": "Sonkkarak apeuni",
+          "range": [89.5, 91.35], "ans": [7]}
+      ]
+    },
+    {"lyric": "Nae saenggak najido anni",
+      "lyric_hangul": "내 생각 나지도 않니",
+      "lyric_translation": "Don’t you even think about me?",
+      "range": [91.35, 97.35], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Naboda geimi deo jaeminna bwa",
+      "lyric_hangul": "나보다 게임이 더 재밌나 봐",
+      "lyric_translation": "I guess video games are more fun than me",
+      "range": [97.35, 100.78], "ans": [4]},
+    {"lyric": "Na eopshi honjaga deo pyeonhanga bwa",
+      "lyric_hangul": "나 없이 혼자가 더 편한가 봐",
+      "lyric_translation": "I guess being alone is better than being with me",
+      "range": [100.78, 104.17], "ans": [3]},
+    {"lyric": "Neoege dodaeche naneun mweoya",
+      "lyric_hangul": "너에게 도대체 나는 뭐야",
+      "lyric_translation": "What am I to you?",
+      "range": [104.17, 109.56], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "첫 번째 이제 일어났다고",
+      "lyric_translation": "First, tell me you woke up",
+      "parts": [
+        {"lyric": "Cheot beonjjae",
+          "range": [109.56, 110.75], "ans": []},
+        {"lyric": "Ije ireonattago",
+          "range": [110.05, 112.67], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "두 번째 어디 좀 나간다고",
+      "lyric_translation": "Second, tell me if you’re going somewhere",
+      "parts": [
+        {"lyric": "Du beonjjae",
+          "range": [112.67, 113.88], "ans": []},
+        {"lyric": "Eodi jom nagandago",
+          "range": [113.18, 115.76], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "세 번째 잠들기 전에 good night",
+      "lyric_translation": "Third, tell me good night before you go to bed",
+      "parts": [
+        {"lyric": "Se beonjjae",
+          "range": [115.76, 117.11], "ans": []},
+        {"lyric": "Jamdeulgi jeone Good night",
+          "range": [116.41, 119.42], "ans": [1]}
+      ]
+    },
+    {"lyric": "Deodo malgo naega weonhaneun geon",
+      "lyric_hangul": "더도 말고 내가 원하는 건",
+      "lyric_translation": "Nothing more, this is what I want",
+      "range": [119.42, 122.11], "ans": [5]},
+    "",
+    {"lyric": "Harue se beon ttak se beon",
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day, three times a day",
+      "range": [122.11, 125.45], "ans": [9]},
+    {"lyric": "Geuge mweoga daedanhae geugeotto motae",
+      "lyric_hangul": "그게 뭐가 대단해 그것도 못해",
+      "lyric_translation": "What’s so hard about that? Can’t you do it?",
+      "range": [125.45, 128.64], "ans": [5]},
+    {"lyric": "Harue se beon ttak se beon",
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day, three times a day",
+      "range": [128.64, 132.18], "ans": [8]},
+    {"lyric": "Yeollak jom hae baboya",
+      "lyric_hangul": "연락 좀 해 바보야",
+      "lyric_translation": "Please contact me, you fool",
+      "range": [132.18, 135.25], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "널 만나도 난 항상 외로워",
+      "lyric_translation": "Even though I’m dating you, I’m always lonely / (Are we really dating?)",
+      "parts": [
+        {"lyric": "Neol mannado nan hangsang weroweo",
+          "range": [135.25, 138.79], "ans": [1]},
+        {"lyric": "(sagwineun geo manni)",
+          "range": [138.79, 140.43], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이건 너무해 있을 때 잘해",
+      "lyric_translation": "This is too much, you better treat me well while you have me / (Treat me well while you have me)",
+      "parts": [
+        {"lyric": "Igeon neomuhae isseul ttae jalhae",
+          "range": [141.72, 144.25], "ans": [5]},
+        {"lyric": "(isseul ttae jalhae)",
+          "range": [143.55, 144.9], "ans": []}
+      ]
+    },
+    {"lyric": "Tteonagi jeone",
+      "lyric_hangul": "떠나기 전에",
+      "lyric_translation": "Before I leave you",
+      "range": [145.33, 148.98], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "첫 번째 이제 일어났다고",
+      "lyric_translation": "First, tell me you woke up",
+      "parts": [
+        {"lyric": "Cheot beonjjae",
+          "range": [148.98, 150.23], "ans": []},
+        {"lyric": "Ije ireonattago",
+          "range": [149.53, 152.05], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "두 번째 어디 좀 나간다고",
+      "lyric_translation": "Second, tell me if you’re going somewhere",
+      "parts": [
+        {"lyric": "Du beonjjae",
+          "range": [152.05, 153.38], "ans": []},
+        {"lyric": "Eodi jom nagandago",
+          "range": [152.68, 155.13], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "세 번째 잠들기 전에 good night",
+      "lyric_translation": "Third, tell me good night before you go to bed",
+      "parts": [
+        {"lyric": "Se beonjjae",
+          "range": [155.13, 156.64], "ans": []},
+        {"lyric": "Jamdeulgi jeone Good night",
+          "range": [155.94, 158.77], "ans": [1]}
+      ]
+    },
+    {"lyric": "Deodo malgo naega weonhaneun geon se beon",
+      "lyric_hangul": "더도 말고 내가 원하는 건",
+      "lyric_translation": "Nothing more, this is what I want, three times",
+      "range": [158.77, 161.72], "ans": [2]},
+    "",
+    {"lyric": "Harue se beon ttak se beon",
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day, three times a day",
+      "range": [161.72, 164.95], "ans": [9]},
+    {"lyric": "Geuge mweoga daedanhae geugeotto motae",
+      "lyric_hangul": "그게 뭐가 대단해 그것도 못해",
+      "lyric_translation": "What’s so hard about that? Can’t you do it?",
+      "range": [164.95, 168.06], "ans": [6]},
+    {"lyric": "Harue se beon ttak se beon",
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day, three times a day",
+      "range": [168.06, 171.46], "ans": [8]},
+    {
+      "lyric_hangul": "연락 좀 해 바보야",
+      "lyric_translation": "Please contact me, you fool / Baby hoo",
+      "parts": [
+        {"lyric": "Yeollak jom hae baboya",
+          "range": [171.46, 173.43], "ans": [5]},
+        {"lyric": "Baby hoo",
+          "range": [172.73, 175.94], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "하루에 세 번 딱 세 번",
+      "lyric_translation": "Just three times a day / Three times yeah",
+      "parts": [
+        {"lyric": "Harue se beon",
+          "range": [180.85, 182.99], "ans": [9]},
+        {"lyric": "Se beon Yeah",
+          "range": [184.87, 185.25], "ans": [1]}
+      ]
+    },
+    {"lyric": "Yeollak jom hae baboya",
+      "lyric_hangul": "연락 좀 해 바보야",
+      "lyric_translation": "Please contact me, you fool",
+      "range": [184.26, 188.86], "ans": [1]}
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "name": "Voices\r",
+  "ogg": "sound/kpop/voices.ogg",
+  "id": "voices",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2020-03-18",
+  "album": "SKZ2020",
+  "cover": "css/images/covers/voices.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:15Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "더 이상은 듣기 싫은 차가운 목소리 귀를 막아도",
+      "lyric_translation": "Don’t hear the cold voices anymore / I’m covering my ears",
+      "parts": [
+        {"lyric": "Deo isangeun deutgi shireun",
+          "range": [14.81, 18.51], "ans": [4]},
+        {"lyric": "Chagaun moksori gwireul magado",
+          "range": [18.51, 21.19], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "아무런 소용없이 따가운 시선들이 내 앞을 가로막죠",
+      "lyric_translation": "But it’s no use, the piercing looks / Block my way",
+      "parts": [
+        {"lyric": "Amureon soyongeopshi ttagaun shiseondeuri",
+          "range": [20.73, 24.63], "ans": [4]},
+        {"lyric": "Nae apeul garomakjyo",
+          "range": [24.63, 26.95], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "다 때려 부숴 날 어둠에 가두고 괴롭히던 것들의 출처",
+      "lyric_translation": "I’m breaking it all down / All the sources of things / That trapped me in darkness and tortured me",
+      "parts": [
+        {"lyric": "Da ttaeryeo buswo",
+          "range": [26.95, 28.63], "ans": [3]},
+        {"lyric": "Nal eodume gadugo",
+          "range": [28.63, 29.81], "ans": [3]},
+        {"lyric": "Gwerobhideon geotteure chulcheo",
+          "range": [29.81, 31.01], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "벗어나려 애쓰지만 출구를 찾기 전까지는 답이 없어",
+      "lyric_translation": "I try to escape but there’s no answer / Till I find the exit",
+      "parts": [
+        {"lyric": "Beoseonaryeo aesseujiman chulgureul chatgi",
+          "range": [30.63, 33.0], "ans": [3]},
+        {"lyric": "Jeonkkajineun dabi eopseo",
+          "range": [33.0, 34.12], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "날 위하는 척 내 꿈을 무시하는 목소리들",
+      "lyric_translation": "Voices that act like they’re for me but really / They ignore my dreams",
+      "parts": [
+        {"lyric": "Nal wihaneun cheok",
+          "range": [33.63, 35.41], "ans": [3]},
+        {"lyric": "Nae kkumeul mushihaneun moksorideul",
+          "range": [35.41, 37.35], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "이젠 상처받기 싫어서 두 귀를 막고 내 길을 걸어",
+      "lyric_translation": "I don’t wanna get hurt again / So I’m covering my ears and walking on my path",
+      "parts": [
+        {"lyric": "Ijen sangcheobatgi shireoseo",
+          "range": [36.76, 38.4], "ans": [3]},
+        {"lyric": "Du gwireul makgo nae gireul georeo",
+          "range": [38.4, 40.52], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Now they’ve been going around",
+      "lyric_hangul": "Now they've been going around",
+      "lyric_translation": "Now they’ve been going around",
+      "range": [40.15, 40.93], "ans": [7]},
+    {
+      "lyric_hangul": "내 머릿속에 돌아 나를 어지럽게 하네 Go away hey",
+      "lyric_translation": "It’s in my head, making me dizzy, go away hey",
+      "parts": [
+        {"lyric": "Nae meorissoge dora nareul eojireobge hane",
+          "range": [40.93, 45.94], "ans": [7]},
+        {"lyric": "Go away hey",
+          "range": [45.24, 46.93], "ans": [6]}
+      ]
+    },
+    {"lyric": "Nal gwerobhineun moksorie",
+      "lyric_hangul": "날 괴롭히는 목소리에",
+      "lyric_translation": "Voices that torture me",
+      "range": [46.76, 49.4], "ans": [5]},
+    {"lyric": "Ttodashi wechinda",
+      "lyric_hangul": "또다시 외친다",
+      "lyric_translation": "Make me shout out again",
+      "range": [49.4, 51.91], "ans": [5]},
+    "",
+    {"lyric": "Step out of them voices",
+      "lyric_hangul": "Step out of them voices",
+      "lyric_translation": "Step out of them voices",
+      "range": [51.91, 54.65], "ans": [1]},
+    {"lyric": "Nae du gwireul makgo ttodashi wechilge",
+      "lyric_hangul": "내 두 귀를 막고 또다시 외칠게",
+      "lyric_translation": "I’ll cover my ears and shout out again",
+      "range": [54.65, 58.26], "ans": [8]},
+    {"lyric": "Step out of them voices",
+      "lyric_hangul": "Step out of them voices",
+      "lyric_translation": "Step out of them voices",
+      "range": [58.26, 61.19], "ans": [5]},
+    {"lyric": "Break free from the voices in my head",
+      "lyric_hangul": "Break free from the voices in my head",
+      "lyric_translation": "Break free from the voices in my head",
+      "range": [61.19, 64.15], "ans": [7]},
+    "",
+    {"lyric": "Gwitgae maemdora",
+      "lyric_hangul": "귓가에 맴돌아",
+      "lyric_translation": "Lingering in my ears",
+      "range": [64.15, 67.44], "ans": [4]},
+    {"lyric": "Can’t hear my voices",
+      "lyric_hangul": "Can't hear my voices",
+      "lyric_translation": "Can’t hear my voices",
+      "range": [67.44, 70.75], "ans": [6]},
+    {"lyric": "Geu soriga deullyeowa",
+      "lyric_hangul": "그 소리가 들려와",
+      "lyric_translation": "I hear that sound",
+      "range": [70.75, 73.76], "ans": [4]},
+    {"lyric": "Modeun ge dabdabhae",
+      "lyric_hangul": "모든 게 답답해",
+      "lyric_translation": "It all feels so frustrating",
+      "range": [73.76, 75.5], "ans": [3]},
+    {"lyric": "Kkeutkkaji deullyeooneun geu sorie gwi maga nan",
+      "lyric_hangul": "끝까지 들려오는 그 소리에 귀 막아 난",
+      "lyric_translation": "I hear it till the end and I’m covering my ears",
+      "range": [75.5, 80.38], "ans": [5]},
+    "",
+    {"lyric": "Stop mamdaero nareul pandanhaneun sorideul",
+      "lyric_hangul": "Stop 맘대로 나를 판단하는 소리들",
+      "lyric_translation": "Stop, all the sounds that judge me",
+      "range": [80.38, 83.93], "ans": [4]},
+    {"lyric": "Cheunggansoeumcheoreom jjajeungman nageodeun",
+      "lyric_hangul": "층간소음처럼 짜증만 나거든",
+      "lyric_translation": "It annoys me like noisy neighbors",
+      "range": [83.93, 86.92], "ans": [4]},
+    {"lyric": "Eonjebuteonga ireon jansoriman deullyeo",
+      "lyric_hangul": "언제부턴가 이런 잔소리만 들려",
+      "lyric_translation": "I keep hearing these nagging sounds from some point",
+      "range": [86.92, 90.27], "ans": [4]},
+    {"lyric": "Shikkeureo ijeneun I don’t wanna hear no more",
+      "lyric_hangul": "시끄러 이제는 I don't wanna hear no more",
+      "lyric_translation": "It’s noisy, I don’t wanna hear no more",
+      "range": [90.27, 92.94], "ans": [4]},
+    {
+      "lyric_hangul": "구제 불능 엉터리 난 네, 얘기에 절대 속지 않지 uh",
+      "lyric_translation": "I’m a mess, impossible to save / I won’t ever be deceived by those words",
+      "parts": [
+        {"lyric": "Guje bulleung eongteori nan ne",
+          "range": [92.94, 94.99], "ans": [5]},
+        {"lyric": "Yaegie jeoldae sokji anchi uh",
+          "range": [94.99, 96.48], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "궁금하지도 않은 말 뻔뻔히 해봤자 하품만 연발해 번번이",
+      "lyric_translation": "I’m not even curious, it’s so obvious / It’ll just make me yawn each time",
+      "parts": [
+        {"lyric": "Gunggeumhajido aneun mal ppeonppeonhi",
+          "range": [96.23, 98.15], "ans": [5]},
+        {"lyric": "Haebwatja hapumman yeonbalhae beonbeoni",
+          "range": [98.15, 99.77], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "왜 그리 얘기만 해 speakers 톤 업 돼서 또 언성을 높여",
+      "lyric_translation": "Why do you keep talking, the speakers / Are turning up so your voice turns up too",
+      "parts": [
+        {"lyric": "Wae geuri yaegiman hae speakers",
+          "range": [99.06, 100.87], "ans": [5]},
+        {"lyric": "Ton eob dwaeseo tto eonseongeul nopyeo",
+          "range": [100.87, 102.87], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "이젠 신경 안 써 Don't care no more 됐어 날 내버려 둬",
+      "lyric_translation": "I don’t care anymore, don’t care no more / Just leave me alone",
+      "parts": [
+        {"lyric": "Ijen shingyeong an sseo don’t care no more",
+          "range": [102.67, 104.49], "ans": [5]},
+        {"lyric": "Dwaesseo nal naebeoryeo dwo",
+          "range": [104.49, 105.98], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Now they’ve been going around",
+      "lyric_hangul": "Now they've been going around",
+      "lyric_translation": "Now they’ve been going around",
+      "range": [104.98, 106.49], "ans": [8]},
+    {
+      "lyric_hangul": "내 머릿속에 돌아 나를 어지럽게 하네 Go away hey",
+      "lyric_translation": "It’s in my head, making me dizzy, go away hey",
+      "parts": [
+        {"lyric": "Nae meorissoge dora nareul eojireobge hane",
+          "range": [106.49, 111.54], "ans": [8]},
+        {"lyric": "Go away hey",
+          "range": [110.84, 112.53], "ans": [6]}
+      ]
+    },
+    {"lyric": "Nal gwerobhineun moksorie",
+      "lyric_hangul": "날 괴롭히는 목소리에",
+      "lyric_translation": "Voices that torture me",
+      "range": [112.49, 114.82], "ans": [7]},
+    {"lyric": "Ttodashi wechinda",
+      "lyric_hangul": "또다시 외친다",
+      "lyric_translation": "Make me shout out again",
+      "range": [114.82, 119.13], "ans": [7]},
+    "",
+    {"lyric": "Step out of them voices",
+      "lyric_hangul": "Step out of them voices",
+      "lyric_translation": "Step out of them voices",
+      "range": [119.13, 121.68], "ans": [1]},
+    {"lyric": "Nae du gwireul makgo ttodashi wechilge",
+      "lyric_hangul": "내 두 귀를 막고 또다시 외칠게",
+      "lyric_translation": "I’ll cover my ears and shout out again",
+      "range": [121.68, 125.47], "ans": [8]},
+    {"lyric": "Step out of them voices",
+      "lyric_hangul": "Step out of them voices",
+      "lyric_translation": "Step out of them voices",
+      "range": [125.47, 128.34], "ans": [5]},
+    {"lyric": "Break free from the voices in my head",
+      "lyric_hangul": "Break free from the voices in my head",
+      "lyric_translation": "Break free from the voices in my head",
+      "range": [128.34, 131.4], "ans": [7]},
+    "",
+    {"lyric": "Gwitgae maemdora",
+      "lyric_hangul": "귓가에 맴돌아",
+      "lyric_translation": "Lingering in my ears",
+      "range": [131.4, 134.86], "ans": [4]},
+    {"lyric": "Can’t hear my voices",
+      "lyric_hangul": "Can't hear my voices",
+      "lyric_translation": "Can’t hear my voices",
+      "range": [134.86, 137.74], "ans": [6]},
+    {"lyric": "Geu soriga deullyeowa",
+      "lyric_hangul": "그 소리가 들려와",
+      "lyric_translation": "I hear that sound",
+      "range": [137.74, 141.06], "ans": [4]},
+    {"lyric": "Modeun ge dabdabhae",
+      "lyric_hangul": "모든 게 답답해",
+      "lyric_translation": "It all feels so frustrating",
+      "range": [141.06, 142.67], "ans": [3]},
+    {"lyric": "Kkeutkkaji deullyeooneun geu sorie gwi maga nan",
+      "lyric_hangul": "끝까지 들려오는 그 소리에 귀 막아 난",
+      "lyric_translation": "I hear it till the end and I’m covering my ears",
+      "range": [142.67, 146.25], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "No more No more 나를 바꿔 놓으려 하지 마",
+      "lyric_translation": "No more, no more / Don’t try to change me",
+      "parts": [
+        {"lyric": "No more, no more",
+          "range": [146.25, 150.77], "ans": [2]},
+        {"lyric": "Nareul bakkwo noeuryeo haji ma",
+          "range": [150.77, 152.65], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "No voice No voice 날 더는 어지럽게 하지 마",
+      "lyric_translation": "No voice, no voice / Stop making me so dizzy",
+      "parts": [
+        {"lyric": "No voice, no voice",
+          "range": [152.65, 156.87], "ans": [2]},
+        {"lyric": "Nal deoneun eojireobge haji ma",
+          "range": [156.87, 158.93], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Ya jabsaenggageun da jibeochiwo da ne meottaero hae",
+      "lyric_hangul": "야 잡생각은 다 집어치워 다 네 멋대로 해",
+      "lyric_translation": "Put away all other thoughts, do whatever you want",
+      "range": [158.38, 161.48], "ans": [5]},
+    {
+      "lyric_hangul": "야 속지마 너도 아닌 건 알잖아 제발 네 멋대로 해",
+      "lyric_translation": "Don’t be deceived, you know that’s not true / Please just do whatever you want",
+      "parts": [
+        {"lyric": "Ya sokjima neodo anin geon aljana",
+          "range": [161.48, 164.54], "ans": [3]},
+        {"lyric": "Jebal ne meottaero hae",
+          "range": [164.54, 165.38], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ijen geumanhaejwo jebal",
+      "lyric_hangul": "이젠 그만해줘 제발",
+      "lyric_translation": "Just stop it now, please",
+      "range": [164.57, 166.28], "ans": [5]},
+    {"lyric": "Shwibge saenggakhallae nan",
+      "lyric_hangul": "쉽게 생각할래 난",
+      "lyric_translation": "I wanna think simple thoughts",
+      "range": [166.28, 167.91], "ans": [3]},
+    {"lyric": "Modu shingyeong sseul piryoneun eopseunikka",
+      "lyric_hangul": "모두 신경 쓸 필요는 없으니까",
+      "lyric_translation": "No need to care about everything",
+      "range": [167.91, 169.43], "ans": [3, 5]},
+    {"lyric": "There’s so many voices",
+      "lyric_hangul": "There's so many voices",
+      "lyric_translation": "There’s so many voices",
+      "range": [169.43, 173.51], "ans": [1]},
+    "",
+    {"lyric": "Step out of them voices",
+      "lyric_hangul": "Step out of them voices",
+      "lyric_translation": "Step out of them voices",
+      "range": [183.07, 188.96], "ans": [5]},
+    {"lyric": "Step out of them voices",
+      "lyric_hangul": "Step out of them voices",
+      "lyric_translation": "Step out of them voices",
+      "range": [188.96, 195.24], "ans": [1]},
+    {"lyric": "There’s so many voices",
+      "lyric_hangul": "There's so many voices",
+      "lyric_translation": "There’s so many voices",
+      "range": [195.24, 200.0], "ans": [6]}
+  ]
+}

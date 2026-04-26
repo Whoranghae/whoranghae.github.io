@@ -1,0 +1,351 @@
+{
+  "name": "Hall of Fame (위인전)\r",
+  "ogg": "sound/kpop/hall_of_fame.ogg",
+  "id": "hall-of-fame",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2023-06-02",
+  "album": "★★★★★ (5-STAR)",
+  "cover": "css/images/covers/hall-of-fame.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I write my name into the stars right now",
+      "lyric_hangul": "I write my name into the stars right now",
+      "lyric_translation": "N/A",
+      "range": [10.59, 13.65], "ans": [7]},
+    {"lyric": "On gaelleorie nal namgyeo",
+      "lyric_hangul": "온 갤러리에 날 남겨",
+      "lyric_translation": "",
+      "range": [13.65, 16.64], "ans": [7]},
+    {"lyric": "Nal jungshimeuro doraga sunlight",
+      "lyric_hangul": "날 중심으로 돌아가 sunlight",
+      "lyric_translation": "",
+      "range": [16.64, 20.35], "ans": [7]},
+    {"lyric": "Oh Galileo dashi jaebalgyeon yeah I’m the spotlight",
+      "lyric_hangul": "Oh, Galileo, 다시 재발견, yeah, I'm the spotlight",
+      "lyric_translation": "",
+      "range": [20.35, 24.4], "ans": [8]},
+    "",
+    {"lyric": "Cry natgwa bam dwaedo fly eodil gado bada hwandae gamdang",
+      "lyric_hangul": "Cry, 낮과 밤 돼도 fly, 어딜 가도 받아 환대 감당",
+      "lyric_translation": "",
+      "range": [24.4, 27.84], "ans": [5]},
+    {"lyric": "Andwejin ana tteottteothan nae baljagugeun bakjedwego daeum",
+      "lyric_hangul": "안되진 않아 떳떳한 내 발자국은 박제되고 다음 (yeah)",
+      "lyric_translation": "",
+      "range": [27.84, 30.62], "ans": [5]},
+    {"lyric": "Seonmanghaetteon geu jarie nan olla",
+      "lyric_hangul": "선망했던 그 자리에 난 올라",
+      "lyric_translation": "",
+      "range": [30.62, 33.04], "ans": [8]},
+    {"lyric": "Ibi yeol gaerado seolmyeonghagi neomu bappa",
+      "lyric_hangul": "입이 열 개라도 설명하기 너무 바빠",
+      "lyric_translation": "",
+      "range": [33.04, 36.41], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "위대한 이 역사 유성펜으로 써 내려가, ayy",
+      "parts": [
+        {"lyric": "Widaehan i yeoksa",
+          "range": [36.41, 37.29], "ans": [3]},
+        {"lyric": "Yuseongpeneuro sseo naeryeoga ey",
+          "range": [37.29, 39.25], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "전 세계로 전파 시차를 무시하는 prime time, ayy",
+      "parts": [
+        {"lyric": "Jeon segero jeonpa",
+          "range": [39.07, 40.91], "ans": [3]},
+        {"lyric": "Shichareul mushihaneun prime time ey",
+          "range": [40.27, 43.01], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "머리 위에 떠오르는 idea는 Thomas Edison의 전구",
+      "parts": [
+        {"lyric": "Meori wie tteooreuneun aidieoneun",
+          "range": [42.02, 45.06], "ans": [3]},
+        {"lyric": "Thomas Edisone jeongu",
+          "range": [45.06, 45.56], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nae paceye kkeut ganeumhal ttaejjeum imi jujadeure seondu",
+      "lyric_hangul": "내 pace의 끝 가늠할 때쯤 이미 주자들의 선두",
+      "lyric_translation": "",
+      "range": [44.92, 48.42], "ans": [3]},
+    "",
+    {"lyric": "Pump pump jjigeonaeji wiinjeon",
+      "lyric_hangul": "Pump, pump, 찍어내지 위인전",
+      "lyric_translation": "",
+      "range": [48.42, 50.74], "ans": [4]},
+    {
+      "lyric_hangul": "I'm gonna stomp, stomp, 내 발자국, Armstrong (I'm strong)",
+      "parts": [
+        {"lyric": "I’m gonna stomp stomp nae baljaguk Armstrong",
+          "range": [50.74, 53.3], "ans": [4]},
+        {"lyric": "(I’m strong)",
+          "range": [52.6, 54.43], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "정점을 찍는 업적 (woo)",
+      "parts": [
+        {"lyric": "Jeongjeomeul jjingneun eopjeok",
+          "range": [54.43, 56.9], "ans": [4]},
+        {"lyric": "(whoo)",
+          "range": [56.2, 57.22], "ans": []}
+      ]
+    },
+    {"lyric": "Ibi tteok beoreojige mandeuneun gwanggyeong legendary",
+      "lyric_hangul": "입이 떡 벌어지게 만드는 광경 legendary",
+      "lyric_translation": "",
+      "range": [56.69, 59.98], "ans": [5]},
+    "",
+    {"lyric": "Hear the people call my name",
+      "lyric_hangul": "Hear the people call my name",
+      "lyric_translation": "",
+      "range": [59.98, 63.3], "ans": [1]},
+    {"lyric": "Here I’m on the Hall of Fame",
+      "lyric_hangul": "Here, I'm on the Hall of Fame",
+      "lyric_translation": "",
+      "range": [63.3, 66.01], "ans": [1]},
+    {
+      "lyric_hangul": "Unveil the rumbling trails of \"hustling\"",
+      "parts": [
+        {"lyric": "Unveil the rumbling",
+          "range": [66.01, 67.53], "ans": [1]},
+        {"lyric": "Trails of “hustling”",
+          "range": [67.53, 69.25], "ans": [1]}
+      ]
+    },
+    {"lyric": "Jjigeo wiinjeon",
+      "lyric_hangul": "찍어 위인전",
+      "lyric_translation": "",
+      "range": [68.98, 71.89], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "Shaking the industry, quaking reality",
+      "parts": [
+        {"lyric": "Shaking the industry",
+          "range": [71.89, 73.9], "ans": [6]},
+        {"lyric": "Quaking reality",
+          "range": [73.9, 75.0], "ans": [6]}
+      ]
+    },
+    {"lyric": "Making it iconic",
+      "lyric_hangul": "Making it iconic",
+      "lyric_translation": "",
+      "range": [75.0, 77.2], "ans": [6]},
+    "",
+    {"lyric": "I stack it up now (now)",
+      "lyric_hangul": "I stack it up now (now)",
+      "lyric_translation": "",
+      "range": [77.2, 79.22], "ans": [8]},
+    {"lyric": "Deo ssaha ollyeo ppaegokhan nae ilgijanggwa (now)",
+      "lyric_hangul": "더 쌓아 올려 빼곡한 내 일기장과 (now)",
+      "lyric_translation": "",
+      "range": [79.22, 82.0], "ans": [8]},
+    {"lyric": "Girokdeureun making new history now",
+      "lyric_hangul": "기록들은 making new history now",
+      "lyric_translation": "",
+      "range": [82.0, 85.16], "ans": [8]},
+    {"lyric": "Bichi naneun i jari bal",
+      "lyric_hangul": "빛이 나는 이 자리 발",
+      "lyric_translation": "",
+      "range": [85.16, 87.32], "ans": [2]},
+    {
+      "lyric_hangul": "딛고 고개 빳빳이 들어 이젠, nah, nah",
+      "parts": [
+        {"lyric": "Ditgo gogae ppatppashi",
+          "range": [87.32, 89.1], "ans": [2]},
+        {"lyric": "Deureo ijen nah nah",
+          "range": [89.1, 90.28], "ans": [2]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Call me Shakespeare, I'm filling out my papers",
+      "parts": [
+        {"lyric": "Call me Shakespeare",
+          "range": [90.05, 91.61], "ans": [4]},
+        {"lyric": "I’m filling out my papers",
+          "range": [91.61, 92.73], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "즐겨 고비와의 battle, 이 게임판의 승부를 뒤집을 faker",
+      "parts": [
+        {"lyric": "Jeulgyeo gobiwaye battle",
+          "range": [92.73, 94.21], "ans": [4]},
+        {"lyric": "I geimpane seungbureul dwijibeul Faker",
+          "range": [94.21, 96.28], "ans": [4]}
+      ]
+    },
+    {"lyric": "Einsteindo suchihwa mothaneun paeteon",
+      "lyric_hangul": "Einstein도 수치화 못하는 패턴",
+      "lyric_translation": "",
+      "range": [96.28, 98.97], "ans": [4]},
+    {"lyric": "Daeum dangeneun hweolsshin nopji jigeum sujune geodeupjegop",
+      "lyric_hangul": "다음 단계는 훨씬 높지 지금 수준의 거듭제곱",
+      "lyric_translation": "",
+      "range": [98.97, 102.48], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "Immortal like Hawking, in black holes, I'm walking",
+      "parts": [
+        {"lyric": "Immortal like Hawking",
+          "range": [102.48, 103.88], "ans": [6]},
+        {"lyric": "In black holes I’m walking",
+          "range": [103.88, 105.19], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "My scribbles and doodles, they're permanent markings",
+      "parts": [
+        {"lyric": "My scribbles and doodles",
+          "range": [105.19, 106.75], "ans": [6]},
+        {"lyric": "They’re permanent markings",
+          "range": [106.75, 108.24], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "꽉 채워 적어 my fate (fate), 어차피 this is my way (way)",
+      "parts": [
+        {"lyric": "Kkwak chaeweo jeogeo my fate",
+          "range": [108.24, 109.34], "ans": [3]},
+        {"lyric": "(fate)",
+          "range": [109.12, 110.24], "ans": []},
+        {"lyric": "Eochapi This is my way",
+          "range": [109.7, 110.9], "ans": [5]},
+        {"lyric": "(way)",
+          "range": [110.6, 110.98], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "저 너머 세상도 뒤흔드는 난 동서남북 Grand Slam",
+      "parts": [
+        {"lyric": "Jeo neomeo sesangdo dwiheundeuneun nan",
+          "range": [110.82, 113.46], "ans": [3]},
+        {"lyric": "Dongseonambuk Grand Slam",
+          "range": [112.84, 114.24], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Pump pump jjigeonaeji wiinjeon",
+      "lyric_hangul": "Pump, pump, 찍어내지 위인전",
+      "lyric_translation": "",
+      "range": [113.91, 116.75], "ans": [2]},
+    {
+      "lyric_hangul": "I'm gonna stomp, stomp, 내 발자국, Armstrong (I'm strong)",
+      "parts": [
+        {"lyric": "I’m gonna stomp stomp nae baljaguk Armstrong",
+          "range": [116.75, 119.29], "ans": [2]},
+        {"lyric": "(I’m strong)",
+          "range": [118.59, 120.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "정점을 찍는 업적 (woo)",
+      "parts": [
+        {"lyric": "Jeongjeomeul jjingneun eopjeok",
+          "range": [120.44, 122.91], "ans": [2]},
+        {"lyric": "(whoo)",
+          "range": [122.21, 123.15], "ans": []}
+      ]
+    },
+    {"lyric": "Ibi tteok beoreojige mandeuneun gwanggyeong legendary",
+      "lyric_hangul": "입이 떡 벌어지게 만드는 광경 legendary",
+      "lyric_translation": "",
+      "range": [122.78, 126.45], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "That's one small step for man, one giant leap for mankind",
+      "parts": [
+        {"lyric": "“That’s one small step for man",
+          "range": [126.45, 128.43], "ans": []},
+        {"lyric": "One giant leap for mankind”",
+          "range": [128.43, 132.49], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I want more, the Hall of Fame",
+      "parts": [
+        {"lyric": "I want more",
+          "range": [132.49, 134.17], "ans": [7]},
+        {"lyric": "The Hall of Fame",
+          "range": [134.17, 137.7], "ans": [7]}
+      ]
+    },
+    {"lyric": "Numerous records I’ll make ’em always",
+      "lyric_hangul": "Numerous records, I'll make 'em always",
+      "lyric_translation": "",
+      "range": [137.7, 143.99], "ans": [7]},
+    "",
+    {"lyric": "Hear the people call my name",
+      "lyric_hangul": "Hear the people call my name",
+      "lyric_translation": "",
+      "range": [143.99, 147.2], "ans": [1]},
+    {"lyric": "Here I’m on the Hall of Fame",
+      "lyric_hangul": "Here, I'm on the Hall of Fame",
+      "lyric_translation": "",
+      "range": [147.2, 150.0], "ans": [1]},
+    {
+      "lyric_hangul": "Unveil the rumbling trails of \"hustling\"",
+      "parts": [
+        {"lyric": "Unveil the rumbling",
+          "range": [150.0, 151.54], "ans": [1]},
+        {"lyric": "Trails of “hustling”",
+          "range": [151.54, 153.22], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "찍어 위인전",
+      "parts": [
+        {"lyric": "Jjigeo wiinjeon",
+          "range": [152.95, 154.07], "ans": [6]},
+        {"lyric": "’Cause you know I’m",
+          "range": [154.07, 155.44], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "('Cause you know I'm) shaking the industry, quaking reality",
+      "parts": [
+        {"lyric": "Shaking the industry",
+          "range": [155.44, 157.04], "ans": [6]},
+        {"lyric": "Quaking reality",
+          "range": [157.04, 159.26], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Making it iconic (정점을 찍어 stomp, stomp)",
+      "parts": [
+        {"lyric": "Making it iconic",
+          "range": [159.26, 161.61], "ans": [6]},
+        {"lyric": "Jeongjeomeul jjigeo stomp stomp",
+          "range": [160.91, 162.27], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Shaking the industry, quaking reality",
+      "parts": [
+        {"lyric": "Shaking the industry",
+          "range": [162.01, 163.89], "ans": [2]},
+        {"lyric": "Quaking reality",
+          "range": [163.89, 164.89], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ibi tteok beoreojige mandeuneun gwanggyeong legendary",
+      "lyric_hangul": "입이 떡 벌어지게 만드는 광경 legendary",
+      "lyric_translation": "",
+      "range": [164.75, 171.0], "ans": [5]}
+  ]
+}

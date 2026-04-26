@@ -1,0 +1,365 @@
+{
+  "name": "SCIENTIST\r",
+  "ogg": "sound/kpop/scientist.ogg",
+  "id": "scientist",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-11-12",
+  "album": "Formula of Love: O＋T=＜3",
+  "cover": "css/images/covers/scientist.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T22:19:03Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah",
+      "lyric_hangul": "Yeah",
+      "lyric_translation": "Yeah",
+      "range": [2.47, 5.54], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "왜 자꾸 날 연구해? 아인슈타인도 아니고",
+      "lyric_translation": "Why do you keep studying me? / You are no Einstein",
+      "parts": [
+        {"lyric": "Wae jakku nal yeonguhae",
+          "range": [5.54, 7.02], "ans": [6]},
+        {"lyric": "Ainshutaindo anigo",
+          "range": [7.02, 10.1], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "왜 그렇게 각을 재? Sine, cosine도 아니고",
+      "lyric_translation": "Why do you measure angles? / This is no sine or cosine",
+      "parts": [
+        {"lyric": "Wae geureoke gageul jae",
+          "range": [10.1, 11.64], "ans": [2]},
+        {"lyric": "Sine, cosine-do anigo",
+          "range": [11.3, 14.06], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "밀고 당기는 게, 내 스타일은 더 아니고",
+      "lyric_translation": "Pushing and pulling / That’s not quite my style",
+      "parts": [
+        {"lyric": "Milgo danggineun ge",
+          "range": [14.06, 15.92], "ans": [8]},
+        {"lyric": "Nae seutaireun deo anigo",
+          "range": [15.22, 17.97], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "알아보다 말 거면 눈에 밟히지나 마 좀 제발",
+      "lyric_translation": "If you’re gonna give up in the middle / You’d better stay away from my heart",
+      "parts": [
+        {"lyric": "Araboda mal geomyeon",
+          "range": [17.97, 19.68], "ans": [8]},
+        {"lyric": "Nune balpijina ma jom jebal",
+          "range": [19.68, 22.24], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Neon saenggagi mana munjeya munje",
+      "lyric_hangul": "넌 생각이 많아, 문제야 문제",
+      "lyric_translation": "You think too much, that’s your problem",
+      "range": [22.24, 27.38], "ans": [4]},
+    {"lyric": "Meorissogman deuryeodabomyeon mweo hae",
+      "lyric_hangul": "머릿속만 들여다보면 뭐 해? (뭐 해?)",
+      "lyric_translation": "Being stuck in your head will do no good",
+      "range": [27.38, 31.24], "ans": [4]},
+    {"lyric": "Gak jael shigane dap nael shigane",
+      "lyric_hangul": "각 잴 시간에, 답 낼 시간에",
+      "lyric_translation": "Quit wasting time measuring angles, finding answers",
+      "range": [31.24, 35.45], "ans": [9]},
+    {"lyric": "Better make a move",
+      "lyric_hangul": "Better make a move",
+      "lyric_translation": "Better make a move",
+      "range": [35.45, 38.35], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "Love ain't a science, don't need no license",
+      "lyric_translation": "Love ain’t a science / Don’t need no license",
+      "parts": [
+        {"lyric": "Love ain’t a science",
+          "range": [38.35, 39.89], "ans": [1]},
+        {"lyric": "Don’t need no license",
+          "range": [39.89, 41.75], "ans": [1]}
+      ]
+    },
+    {"lyric": "Meori ssamaego gominhalsurok Minus",
+      "lyric_hangul": "머리 싸매고 고민할수록 minus",
+      "lyric_translation": "The more you sit there thinking, it’s a minus",
+      "range": [41.64, 46.48], "ans": [1]},
+    {
+      "lyric_hangul": "Don't try to be a genius, why so serious?",
+      "lyric_translation": "Don’t try to be a genius / Why so serious?",
+      "parts": [
+        {"lyric": "Don’t try to be a genius",
+          "range": [46.48, 48.56], "ans": [5]},
+        {"lyric": "Why so serious?",
+          "range": [48.56, 50.74], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "맘이 가는 대로 (ooh-ah), 맘이 시킨 대로",
+      "lyric_translation": "Follow your heart (Wooah)",
+      "parts": [
+        {"lyric": "Mami ganeun daero",
+          "range": [50.74, 53.71], "ans": [5]},
+        {"lyric": "(Wooah)",
+          "range": [53.01, 54.34], "ans": []}
+      ]
+    },
+    {"lyric": "Mami shikin daero What u, what u waiting for?",
+      "lyric_hangul": "What you, what you waiting for?",
+      "lyric_translation": "Let your heart lead you What u, what u waiting for?",
+      "range": [54.34, 56.49], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "그래 뭘 알아냈어 그동안 나에 대해?",
+      "lyric_translation": "So what’d you find out / about me so far?",
+      "parts": [
+        {"lyric": "Geurae mweol aranaesseo?",
+          "range": [56.49, 57.93], "ans": [6]},
+        {"lyric": "Geudongan naye daehae",
+          "range": [57.93, 60.73], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "다음 과목은 뭐야? So what's the next class, then? (Yeah, yeah)",
+      "lyric_translation": "What’s the next subject? / So what’s the next class, then?",
+      "parts": [
+        {"lyric": "Daeum gwamogeun mweoya?",
+          "range": [60.73, 62.97], "ans": [3]},
+        {"lyric": "So what’s the next class, then?",
+          "range": [62.97, 65.19], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "백날 연구해봤자 이런 식이면 failure",
+      "lyric_translation": "Keep doing it this way / And it’ll only end in failure",
+      "parts": [
+        {"lyric": "Baengal yeonguhaebwatja",
+          "range": [64.78, 66.94], "ans": [6]},
+        {"lyric": "Ireon shigimyeon Failure",
+          "range": [66.94, 68.95], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "분 단위로 바뀌어대는, 내 맘은 못 풀어낼걸",
+      "lyric_translation": "My mind changes every minute / You’ll never figure it out",
+      "parts": [
+        {"lyric": "Bun danwiro bakkwieodaeneun",
+          "range": [68.95, 70.75], "ans": [3]},
+        {"lyric": "Nae mameun mot pureonaelgeol",
+          "range": [70.75, 73.35], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Neon saenggagi mana munjeya munje",
+      "lyric_hangul": "넌 생각이 많아, 문제야 문제",
+      "lyric_translation": "You think too much, that’s your problem",
+      "range": [73.35, 78.35], "ans": [2]},
+    {"lyric": "Meorissogman deuryeodabomyeon mweo hae",
+      "lyric_hangul": "머릿속만 들여다보면 뭐 해? (뭐 해?)",
+      "lyric_translation": "Being stuck in your head will do no good",
+      "range": [78.35, 82.46], "ans": [2]},
+    {"lyric": "Gak jael shigane dap nael shigane",
+      "lyric_hangul": "각 잴 시간에, 답 낼 시간에",
+      "lyric_translation": "Quit wasting time measuring angles, finding answers",
+      "range": [82.46, 86.42], "ans": [7]},
+    {"lyric": "Better make a move",
+      "lyric_hangul": "Better make a move",
+      "lyric_translation": "Better make a move",
+      "range": [86.42, 89.29], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Love ain't a science, don't need no license",
+      "lyric_translation": "Love ain’t a science / Don’t need no license",
+      "parts": [
+        {"lyric": "Love ain’t a science",
+          "range": [89.29, 90.89], "ans": [5]},
+        {"lyric": "Don’t need no license",
+          "range": [90.89, 92.63], "ans": [5]}
+      ]
+    },
+    {"lyric": "Meori ssamaego gominhalsurok Minus",
+      "lyric_hangul": "머리 싸매고 고민할수록 minus",
+      "lyric_translation": "The more you sit there thinking, it’s a minus",
+      "range": [92.63, 97.42], "ans": [5]},
+    {
+      "lyric_hangul": "Don't try to be a genius, why so serious?",
+      "lyric_translation": "Don’t try to be a genius / Why so serious?",
+      "parts": [
+        {"lyric": "Don’t try to be a genius",
+          "range": [97.42, 99.52], "ans": [4]},
+        {"lyric": "Why so serious?",
+          "range": [99.52, 101.94], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "맘이 가는 대로 (ooh-ah), 맘이 시킨 대로",
+      "lyric_translation": "Follow your heart (Wooah)",
+      "parts": [
+        {"lyric": "Mami ganeun daero",
+          "range": [101.94, 104.69], "ans": [4]},
+        {"lyric": "(Wooah)",
+          "range": [103.99, 105.34], "ans": []}
+      ]
+    },
+    {"lyric": "Mami shikin daero What u, what u waiting for?",
+      "lyric_hangul": "What you, what you waiting for?",
+      "lyric_translation": "Let your heart lead you What u, what u waiting for?",
+      "range": [105.34, 107.26], "ans": [4]},
+    "",
+    "[next-col]",
+    {"lyric": "You got a crush on me",
+      "lyric_hangul": "(Ooh) You got a crush on me",
+      "lyric_translation": "You got a crush on me",
+      "range": [107.26, 109.41], "ans": [7]},
+    {"lyric": "You’re gonna fall for me",
+      "lyric_hangul": "(Ooh) You're gonna fall for me",
+      "lyric_translation": "You’re gonna fall for me",
+      "range": [109.41, 111.52], "ans": [7]},
+    {"lyric": "Sarang apeseo ironi museun soyong,",
+      "lyric_hangul": "(Ah-ooh) 사랑 앞에서 이론이 무슨 소용",
+      "lyric_translation": "Theory is no good when it comes to love",
+      "range": [111.52, 113.91], "ans": [7]},
+    {
+      "lyric_hangul": "It's all useless (uh-huh)",
+      "lyric_translation": "It’s all useless, uh-huh",
+      "parts": [
+        {"lyric": "It’s all useless",
+          "range": [113.91, 114.95], "ans": [7]},
+        {"lyric": "(Uh-huh)",
+          "range": [114.25, 115.59], "ans": []}
+      ]
+    },
+    {"lyric": "Iron ppasakan Genius ainshutain",
+      "lyric_hangul": "이론 빠삭한 genius 아인슈타인",
+      "lyric_translation": "Rather than Mr. Know-all Genius Einstein",
+      "range": [115.59, 117.48], "ans": [8]},
+    {"lyric": "Bodan buldojeo Curious Frankenstein",
+      "lyric_hangul": "보단 불도저 curious 프랑켄슈타인",
+      "lyric_translation": "More like a bulldozer Curious Frankenstein",
+      "range": [117.48, 119.87], "ans": [8]},
+    {"lyric": "Cheoreom doljinhae seotunde meotjine",
+      "lyric_hangul": "처럼 돌진해, 서툰데 멋지네",
+      "lyric_translation": "Charge forward, clumsy yet fascinating",
+      "range": [119.87, 121.97], "ans": [8]},
+    {
+      "lyric_hangul": "거침없이, 세게 rush, got a crush on me",
+      "lyric_translation": "Straight away, push hard Rush / Got a crush on me",
+      "parts": [
+        {"lyric": "Geochimeopshi, sege Rush",
+          "range": [121.97, 122.59], "ans": [8]},
+        {"lyric": "Got a crush on me",
+          "range": [122.59, 124.24], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Dabi eopseo jaemiinneun geol neon wae molla",
+      "lyric_hangul": "답이 없어 재미있는 걸 넌 왜 몰라?",
+      "lyric_translation": "Why don’t you know it’s fun cuz the answer’s missing, why",
+      "range": [124.24, 128.39], "ans": [3]},
+    {"lyric": "Dabeul molla seolleyeotteon geol neon wae molla",
+      "lyric_hangul": "답을 몰라 설레었던 걸 넌 왜 몰라?",
+      "lyric_translation": "don’t you know it’s exciting cuz the answer’s unknown",
+      "range": [128.39, 132.44], "ans": [3]},
+    {"lyric": "Nasa hana ppajin geotcheoreom saranghaja",
+      "lyric_hangul": "나사 하나 빠진 것처럼 사랑하자",
+      "lyric_translation": "Let our love be like having a screw loose",
+      "range": [132.44, 136.96], "ans": [1, 2]},
+    {"lyric": "Ttak hanaman aneun babo dwen geotcheoreom",
+      "lyric_hangul": "딱 하나만 아는 바보 된 것처럼",
+      "lyric_translation": "Like a fool who knows only one and nothing else",
+      "range": [136.96, 140.73], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "Love ain't a science, mmm-mmm, need no license, mmm-mmm",
+      "lyric_translation": "Love ain’t a science, uhm-uhm / Need no license, uhm-uhm",
+      "parts": [
+        {"lyric": "Love ain’t a science, uhm-uhm",
+          "range": [140.73, 142.36], "ans": [6]},
+        {"lyric": "Need no license, uhm-uhm",
+          "range": [142.36, 144.66], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "연구해 about me, 'bout me, 충분히 you know 'bout me",
+      "lyric_translation": "Learn more About me ’bout me / Already enough You know ’bout me",
+      "parts": [
+        {"lyric": "Yeonguhae About me ’bout me",
+          "range": [144.66, 146.55], "ans": [1]},
+        {"lyric": "Chungbunhi You know ’bout me",
+          "range": [146.55, 149.14], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Love ain't a science, mmm-mmm, need no license, mmm-mmm",
+      "lyric_translation": "Love ain’t a science, uhm-uhm / Need no license, uhm-uhm",
+      "parts": [
+        {"lyric": "Love ain’t a science, uhm-uhm",
+          "range": [149.14, 150.89], "ans": [4]},
+        {"lyric": "Need no license, uhm-uhm",
+          "range": [150.89, 153.41], "ans": [4]}
+      ]
+    },
+    {"lyric": "Malhaetjana What u, what u, what u waiting for?",
+      "lyric_hangul": "말했잖아 what you, what you, what you waiting for?",
+      "lyric_translation": "I told ya What u, what u, what u waiting for?",
+      "range": [153.41, 157.68], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "Love ain't a science, don't need no license",
+      "lyric_translation": "Love ain’t a science / Don’t need no license",
+      "parts": [
+        {"lyric": "Love ain’t a science",
+          "range": [157.68, 158.72], "ans": [1]},
+        {"lyric": "Don’t need no license",
+          "range": [158.72, 160.94], "ans": [1]}
+      ]
+    },
+    {"lyric": "Meori ssamaego gominhalsurok Minus",
+      "lyric_hangul": "머리 싸매고 고민할수록 minus",
+      "lyric_translation": "The more you sit there thinking, it’s a minus",
+      "range": [160.94, 165.41], "ans": [1]},
+    {
+      "lyric_hangul": "Don't try to be a genius, why so serious?",
+      "lyric_translation": "Don’t try to be a genius / Why so serious?",
+      "parts": [
+        {"lyric": "Don’t try to be a genius",
+          "range": [165.41, 167.37], "ans": [9]},
+        {"lyric": "Why so serious?",
+          "range": [167.37, 169.85], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "맘이 가는 대로 (ooh-ah), 맘이 시킨 대로 (woo)",
+      "lyric_translation": "Follow your heart (Wooah)",
+      "parts": [
+        {"lyric": "Mami ganeun daero",
+          "range": [169.85, 172.58], "ans": [9]},
+        {"lyric": "(Wooah)",
+          "range": [171.88, 173.75], "ans": []}
+      ]
+    },
+    {"lyric": "Mami shikin daero What u, what u waiting for?",
+      "lyric_hangul": "What you, what you waiting for?",
+      "lyric_translation": "Let your heart lead you What u, what u waiting for?",
+      "range": [173.35, 176.78], "ans": [9]},
+    "",
+    {"lyric": "You better move",
+      "lyric_hangul": "You better move",
+      "lyric_translation": "You better move",
+      "range": [182.71, 184.76], "ans": [1]},
+    {"lyric": "What u waiting",
+      "lyric_hangul": "What you waiting?",
+      "lyric_translation": "What u waiting",
+      "range": [184.76, 186.89], "ans": [1]},
+    {"lyric": "What u waiting",
+      "lyric_hangul": "What you waiting?",
+      "lyric_translation": "What u waiting",
+      "range": [186.89, 191.16], "ans": [1]}
+  ]
+}

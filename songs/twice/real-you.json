@@ -1,0 +1,356 @@
+{
+  "name": "REAL YOU\r",
+  "ogg": "sound/kpop/real_you.ogg",
+  "id": "real-you",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-11-12",
+  "album": "Formula of Love: O＋T=＜3",
+  "cover": "css/images/covers/real-you.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:27Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Think you’re all that? geuge neoya?",
+      "lyric_hangul": "Think you're all that? 그게 너야?",
+      "lyric_translation": "Think you’re all that? Is that you?",
+      "range": [7.2, 11.02], "ans": [4]},
+    {"lyric": "Hyangsuro gadeuk deopin geuge neoya?",
+      "lyric_hangul": "향수로 가득 덮인 그게 너야?",
+      "lyric_translation": "Completely covered with perfume?",
+      "range": [11.02, 15.61], "ans": [4]},
+    {
+      "lyric_hangul": "다시 생각해, 어깨 위 올라온 멋을 내려",
+      "lyric_translation": "Think again / Put down the style that’s on your shoulders",
+      "parts": [
+        {"lyric": "Dashi saenggakae",
+          "range": [15.61, 17.09], "ans": [2]},
+        {"lyric": "Eokkae wi ollaon meoseul naeryeo",
+          "range": [17.09, 19.97], "ans": [2]}
+      ]
+    },
+    {"lyric": "Jinjja neoye moseubeuro nal daehae bwa",
+      "lyric_hangul": "진짜 너의 모습으로 날 대해 봐",
+      "lyric_translation": "Treat me with your real self",
+      "range": [19.65, 24.24], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "가식적인 웃음 뒤엔 (난 다 보여)",
+      "lyric_translation": "Behind the fake laughter / I can see it all",
+      "parts": [
+        {"lyric": "Gashikjeogin useum dwien",
+          "range": [24.24, 27.17], "ans": [9]},
+        {"lyric": "Nan da boyeo",
+          "range": [26.47, 27.92], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "단 아무것도 없는 너 (no, I ain't falling for it)",
+      "lyric_translation": "You don’t have anything there / No, I ain’t falling for it",
+      "parts": [
+        {"lyric": "Dan amugeotto eomneun neo",
+          "range": [27.92, 30.37], "ans": [9]},
+        {"lyric": "No, I ain’t falling for it",
+          "range": [29.67, 32.11], "ans": [3]}
+      ]
+    },
+    {"lyric": "Baekji geu sangtaero nal dashi darugiro haejweo",
+      "lyric_hangul": "백지 그 상태로 날 다시 다루기로 해줘",
+      "lyric_translation": "Promise to treat me in the state of a blank slate",
+      "range": [31.45, 35.51], "ans": [5]},
+    {"lyric": "Baby, show me the real you jinjja neol",
+      "lyric_hangul": "Baby, show me the real you, 진짜 널",
+      "lyric_translation": "Baby, show me the real you, real you",
+      "range": [35.51, 38.73], "ans": [5]},
+    "",
+    {"lyric": "Gwayeon ni jinshimeun eodikkajiin geoya neo",
+      "lyric_hangul": "과연 네 진심은 어디까지인 거야 너",
+      "lyric_translation": "Until which part is your truth",
+      "range": [38.73, 43.56], "ans": [6]},
+    {"lyric": "Geojittwen momjjise maltu modu da",
+      "lyric_hangul": "거짓된 몸짓에, 말투 모두 다",
+      "lyric_translation": "False gestures and words, everything",
+      "range": [43.56, 47.53], "ans": [6]},
+    "",
+    {"lyric": "Utgiji ma, moreuji ana Real you",
+      "lyric_hangul": "웃기지 마, 모르지 않아 real you",
+      "lyric_translation": "Stop kidding me, you know the real you",
+      "range": [47.53, 50.88], "ans": [1]},
+    {"lyric": "Na ttohan sumgiji aneulkke Real me",
+      "lyric_hangul": "나 또한 숨기지 않을게 real me",
+      "lyric_translation": "I won’t hide it too, real me",
+      "range": [50.88, 55.17], "ans": [1]},
+    {
+      "lyric_hangul": "사심 없는 미소를 지을 때, 눈 맞춤에 설레어 올 때",
+      "lyric_translation": "When you smile without an ulterior motive / When you get fluttered from looking into my eyes",
+      "parts": [
+        {"lyric": "Sashim eomneun misoreul jieul ttae",
+          "range": [55.17, 57.75], "ans": [4]},
+        {"lyric": "Nun matchume seolleeo ol ttae",
+          "range": [57.75, 59.73], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geuge jinjjaya That’s our real love, yeah",
+      "lyric_hangul": "그게 진짜야, that's our real love, yeah",
+      "lyric_translation": "That’s real, that’s our real love, yeah",
+      "range": [59.73, 64.28], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "I want the real you, 감추지 마 (oh yeah, yeah, yeah)",
+      "lyric_translation": "I want the real you, don’t hide it / Oh yeah yeah yeah",
+      "parts": [
+        {"lyric": "I want the real you gamchuji ma",
+          "range": [64.28, 65.91], "ans": [8]},
+        {"lyric": "Oh yeah yeah yeah",
+          "range": [65.21, 68.35], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I want the real you, 그게 너야 (oh yeah, oh yeah)",
+      "lyric_translation": "I want the real you, that’s you / Oh yeah oh yeah",
+      "parts": [
+        {"lyric": "I want the real you geuge neoya",
+          "range": [68.35, 69.91], "ans": [8]},
+        {"lyric": "Oh yeah oh yeah",
+          "range": [69.21, 71.89], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "아이처럼 굴지 마 철없게 뻔히 보이는 장난에",
+      "lyric_translation": "Don’t act immature like a child / At the prank that can be clearly seen through",
+      "parts": [
+        {"lyric": "Aicheoreom gulji ma cheoreopge",
+          "range": [71.75, 73.65], "ans": [7]},
+        {"lyric": "Ppeonhi boineun jangnane",
+          "range": [73.65, 75.67], "ans": [7]}
+      ]
+    },
+    {"lyric": "Shwipge sokji aneul teni No more, yeah",
+      "lyric_hangul": "쉽게 속지 않을 테니 no more, yeah",
+      "lyric_translation": "I won’t fall for it easily, no more, yeah",
+      "range": [75.56, 80.56], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "거기 잠시 멈춰 서 (hey, stop right there)",
+      "lyric_translation": "You over there, stop for a while / Hey, stop right there",
+      "parts": [
+        {"lyric": "Geogi jamshi meomchweo seo",
+          "range": [80.56, 82.51], "ans": [3]},
+        {"lyric": "Hey, stop right there",
+          "range": [81.81, 84.05], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 모습 다시 돌아봐 (look at yourself)",
+      "lyric_translation": "Reflect upon yourself again / Look at yourself",
+      "parts": [
+        {"lyric": "Ni moseup dashi dorabwa",
+          "range": [84.05, 86.51], "ans": [3]},
+        {"lyric": "Look at yourself",
+          "range": [85.81, 87.96], "ans": [9]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Yo, 걸음걸이 속에 묻은, 본성을 숨긴 허세 그다음",
+      "lyric_translation": "Yo, hidden in your walking / The bluff hiding your true colors, after that",
+      "parts": [
+        {"lyric": "Yo georeumgeori soge mudeun",
+          "range": [87.96, 89.59], "ans": [8]},
+        {"lyric": "Bonseongeul sumgin heose geudaeum",
+          "range": [89.59, 92.26], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh my, oh my (it's obvious, it's obvious)",
+      "lyric_translation": "Oh my, oh my / It’s obvious, it’s obvious",
+      "parts": [
+        {"lyric": "Oh my, oh my",
+          "range": [92.26, 93.17], "ans": [8]},
+        {"lyric": "It’s obvious, it’s obvious",
+          "range": [93.17, 96.19], "ans": [8]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "가식적인 웃음 뒤엔 (난 다 보여)",
+      "lyric_translation": "Behind the fake laughter / I can see it all",
+      "parts": [
+        {"lyric": "Gashikjeogin useum dwien",
+          "range": [96.19, 99.1], "ans": [9]},
+        {"lyric": "Nan da boyeo",
+          "range": [98.4, 99.83], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "단 아무것도 없는 너 (no, I ain't falling for it)",
+      "lyric_translation": "You don’t have anything there / No, I ain’t falling for it",
+      "parts": [
+        {"lyric": "Dan amugeotto eomneun neo",
+          "range": [99.83, 102.32], "ans": [9]},
+        {"lyric": "No, I ain’t falling for it",
+          "range": [101.62, 104.12], "ans": [3]}
+      ]
+    },
+    {"lyric": "Baekji geu sangtaero nal dashi darugiro haejweo",
+      "lyric_hangul": "백지 그 상태로 날 다시 다루기로 해줘",
+      "lyric_translation": "Promise to treat me in the state of a blank slate",
+      "range": [103.55, 107.74], "ans": [5]},
+    {"lyric": "Baby, show me the real you jinjja neol",
+      "lyric_hangul": "Baby, show me the real you, 진짜 널",
+      "lyric_translation": "Baby, show me the real you, real you",
+      "range": [107.74, 111.18], "ans": [5]},
+    "",
+    {"lyric": "Du eolgure neoreul majuhaji anke dwemyeon",
+      "lyric_hangul": "두 얼굴의 너를 마주하지 않게 되면",
+      "lyric_translation": "If I don’t face the two-faced you",
+      "range": [111.18, 115.13], "ans": [6]},
+    {"lyric": "Milgo danggil piryo eopseojineunde",
+      "lyric_hangul": "밀고 당길 필요 없어지는데",
+      "lyric_translation": "There’s no need to push and pull",
+      "range": [115.13, 119.3], "ans": [6]},
+    "",
+    {"lyric": "Utgiji ma, moreuji ana Real you",
+      "lyric_hangul": "웃기지 마, 모르지 않아 real you",
+      "lyric_translation": "Stop kidding me, you know the real you",
+      "range": [119.3, 122.64], "ans": [1]},
+    {"lyric": "Na ttohan sumgiji aneulkke Real me",
+      "lyric_hangul": "나 또한 숨기지 않을게 real me",
+      "lyric_translation": "I won’t hide it too, real me",
+      "range": [122.64, 126.74], "ans": [1]},
+    {
+      "lyric_hangul": "사심 없는 미소를 지을 때, 눈 맞춤에 설레어 올 때",
+      "lyric_translation": "When you smile without an ulterior motive / When you get fluttered from looking into my eyes",
+      "parts": [
+        {"lyric": "Sashim eomneun misoreul jieul ttae",
+          "range": [126.74, 129.74], "ans": [4]},
+        {"lyric": "Nun matchume seolleeo ol ttae",
+          "range": [129.74, 131.76], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geuge jinjjaya That’s our real love",
+      "lyric_hangul": "그게 진짜야, that's our real love",
+      "lyric_translation": "That’s real, that’s our real love",
+      "range": [131.76, 135.73], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "떠올려봤어? 진심 그대로만의 우리 모습",
+      "lyric_translation": "Have you thought about it? / Us just being exactly who we are",
+      "parts": [
+        {"lyric": "Tteoollyeobwasseo?",
+          "range": [135.73, 137.79], "ans": [6]},
+        {"lyric": "Jinshim geudaeromane uri moseup",
+          "range": [137.79, 141.98], "ans": [6]}
+      ]
+    },
+    {"lyric": "How to be in love with me",
+      "lyric_hangul": "How to be in love with me?",
+      "lyric_translation": "How to be in love with me",
+      "range": [141.98, 144.23], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "알듯 모를 긴장감이 싫지만은 않을 감정이 간지럽힐 때",
+      "lyric_translation": "When the tension that’s close yet far from knowing / When the feeling that’s not so bad tickles you",
+      "parts": [
+        {"lyric": "Aldeut moreul ginjanggami",
+          "range": [144.23, 145.55], "ans": [7]},
+        {"lyric": "Shilchimaneun aneul gamjeongi ganjireopil ttae",
+          "range": [145.55, 148.42], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me, show me the real you, real you",
+      "lyric_translation": "So show me, show me / The real you, real you",
+      "parts": [
+        {"lyric": "So show me, show me",
+          "range": [148.42, 149.34], "ans": [7]},
+        {"lyric": "The real you, real you",
+          "range": [149.34, 151.41], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "웃기지 마, 모르지 않아 real you",
+      "lyric_translation": "Stop kidding me, you know the real you / (You kknow, the real you)",
+      "parts": [
+        {"lyric": "Utgiji ma, moreuji ana Real you",
+          "range": [151.41, 153.07], "ans": [1]},
+        {"lyric": "(moreuji ana, The real you)",
+          "range": [152.43, 154.99], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나 또한 숨기지 않을게 real me",
+      "lyric_translation": "I won’t hide it too, real me / (Real me, oh yeah)",
+      "parts": [
+        {"lyric": "Na ttohan sumgiji aneulkke Real me",
+          "range": [154.99, 157.12], "ans": [1]},
+        {"lyric": "(Real me, oh yeah)",
+          "range": [156.42, 159.42], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "사심 없는 미소를 지을 때, 눈 맞춤에 설레어 올 때",
+      "lyric_translation": "When you smile without an ulterior motive / (When you smile) / When you get fluttered from looking into my eyes / (When you get fluttered)",
+      "parts": [
+        {"lyric": "Sashim eomneun misoreul jieul ttae",
+          "range": [159.42, 160.96], "ans": [4]},
+        {"lyric": "(misoreul jieul ttae)",
+          "range": [160.24, 161.71], "ans": [5]},
+        {"lyric": "Nun matchume seolleeo ol ttae",
+          "range": [161.01, 162.68], "ans": [4]},
+        {"lyric": "(matchume seolleeo ol ttae)",
+          "range": [162.06, 163.48], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "그게 진짜야, that's our real love, yeah",
+      "lyric_translation": "That’s real, that’s our real love, yeah",
+      "parts": [
+        {"lyric": "Geuge jinjjaya That’s our real love, yeah",
+          "range": [163.23, 165.66], "ans": [2]},
+        {"lyric": "(Whoa yeah)",
+          "range": [164.96, 167.97], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I want the real you, 감추지 마 (oh yeah, yeah, yeah)",
+      "lyric_translation": "I want the real you, don’t hide it / Oh yeah yeah yeah",
+      "parts": [
+        {"lyric": "I want the real you gamchuji ma",
+          "range": [167.97, 169.9], "ans": [8]},
+        {"lyric": "Oh yeah yeah yeah",
+          "range": [169.2, 172.01], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I want the real you, 그게 너야 (oh yeah, oh yeah)",
+      "lyric_translation": "I want the real you, that’s you / Oh yeah oh yeah",
+      "parts": [
+        {"lyric": "I want the real you geuge neoya",
+          "range": [171.75, 173.91], "ans": [8]},
+        {"lyric": "Oh yeah oh yeah",
+          "range": [173.21, 175.87], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "아이처럼 굴지 마 철없게 뻔히 보이는 장난에",
+      "lyric_translation": "Don’t act immature like a child / At the prank that can be clearly seen through",
+      "parts": [
+        {"lyric": "Aicheoreom gulji ma cheoreopge",
+          "range": [175.42, 177.68], "ans": [7]},
+        {"lyric": "Ppeonhi boineun jangnane",
+          "range": [177.68, 179.66], "ans": [7]}
+      ]
+    },
+    {"lyric": "Shwipge sokji aneul teni No more, yeah",
+      "lyric_hangul": "쉽게 속지 않을 테니 no more, yeah",
+      "lyric_translation": "I won’t fall for it easily, no more, yeah",
+      "range": [179.62, 185.56], "ans": [5]}
+  ]
+}

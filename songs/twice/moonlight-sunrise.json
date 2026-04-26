@@ -1,0 +1,387 @@
+{
+  "name": "MOONLIGHT SUNRISE\r",
+  "ogg": "sound/kpop/moonlight_sunrise.ogg",
+  "id": "moonlight-sunrise",
+  "group": "twice",
+  "language": "en",
+  "released": "2023-01-20",
+  "album": "MOONLIGHT SUNRISE",
+  "cover": "css/images/covers/moonlight-sunrise.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T22:19:01Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Oh yeah",
+      "lyric_hangul": "Oh, yeah",
+      "lyric_translation": "",
+      "range": [2.96, 5.63], "ans": [1]},
+    {"lyric": "I guarantee I gotcha",
+      "lyric_hangul": "I guarantee I got ya",
+      "lyric_translation": "",
+      "range": [5.63, 8.44], "ans": [4]},
+    "",
+    {"lyric": "I’ve been craving for your love",
+      "lyric_hangul": "I've been craving for your love",
+      "lyric_translation": "",
+      "range": [8.44, 10.34], "ans": [5]},
+    {"lyric": "Can’t see nobody but us",
+      "lyric_hangul": "Can't see nobody, but us (see nobody, but us)",
+      "lyric_translation": "",
+      "range": [10.34, 12.65], "ans": [5]},
+    {"lyric": "So I so I so I",
+      "lyric_hangul": "So I, so I, so I",
+      "lyric_translation": "",
+      "range": [12.65, 16.07], "ans": [5]},
+    "",
+    {"lyric": "See you from across the room",
+      "lyric_hangul": "See you from across the room",
+      "lyric_translation": "",
+      "range": [16.07, 18.34], "ans": [7]},
+    {"lyric": "Make my way over to you",
+      "lyric_hangul": "Make my way over to you (my way over to you)",
+      "lyric_translation": "",
+      "range": [18.34, 19.91], "ans": [7]},
+    {"lyric": "I’m trippin’ over butterflies",
+      "lyric_hangul": "I'm tripping over butterflies",
+      "lyric_translation": "",
+      "range": [19.91, 23.74], "ans": [7]},
+    "",
+    {"lyric": "Oh yeah baby I don’t really mean to rush",
+      "lyric_hangul": "Oh, yeah, baby, I don't really mean to rush",
+      "lyric_translation": "",
+      "range": [23.74, 26.08], "ans": [1]},
+    {
+      "lyric_hangul": "But I'ma really need your touch if I'ma make it through the night",
+      "parts": [
+        {"lyric": "But Imma really need your touch",
+          "range": [26.08, 28.54], "ans": [1]},
+        {"lyric": "If Imma make it thru the night",
+          "range": [28.54, 32.06], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I got the moonlight, tequila sunrise",
+      "parts": [
+        {"lyric": "I got the moonlight",
+          "range": [32.06, 33.62], "ans": [6]},
+        {"lyric": "Tequila sunrise",
+          "range": [33.62, 35.87], "ans": [6]}
+      ]
+    },
+    {"lyric": "Come take a shot on me, I gotcha",
+      "lyric_hangul": "Uh, come take a shot on me, I got ya",
+      "lyric_translation": "",
+      "range": [35.87, 39.31], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "I don't know how to say this, I hope this song's on your playlist",
+      "parts": [
+        {"lyric": "I don’t know how to say this",
+          "range": [39.31, 41.36], "ans": [2]},
+        {"lyric": "I hope this song is on your playlist",
+          "range": [41.36, 43.55], "ans": [2]}
+      ]
+    },
+    {"lyric": "This feelings so hard to explain",
+      "lyric_hangul": "This feeling, so hard to explain",
+      "lyric_translation": "",
+      "range": [43.55, 47.18], "ans": [2]},
+    {
+      "lyric_hangul": "I don't even know how to talk right now, it's \"I need you\" o'clock right now",
+      "parts": [
+        {"lyric": "I don’t even know how to talk right now",
+          "range": [47.18, 48.62], "ans": [9]},
+        {"lyric": "Its i need you o’clock right now",
+          "range": [48.62, 51.63], "ans": [9]}
+      ]
+    },
+    {"lyric": "I want you to hear me say",
+      "lyric_hangul": "I want you to hear me say",
+      "lyric_translation": "",
+      "range": [51.63, 53.62], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, come, be my starlight",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [53.62, 56.24], "ans": [4]},
+        {"lyric": "Baby come be my starlight",
+          "range": [55.78, 57.72], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, oh, baby, just to make you stay",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [57.72, 58.99], "ans": [4]},
+        {"lyric": "Oh baby",
+          "range": [58.29, 59.87], "ans": [5]},
+        {"lyric": "Just to make you stay",
+          "range": [59.87, 61.78], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, let's do it all night",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [61.78, 63.96], "ans": [3]},
+        {"lyric": "Baby let’s do it all night",
+          "range": [63.46, 65.45], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, I guarantee I got ya",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [65.45, 67.64], "ans": [3]},
+        {"lyric": "I guarantee I gotcha",
+          "range": [66.94, 69.44], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Loving undefeated on your knees pleading",
+      "lyric_hangul": "Loving undefeated, on your knees pleading",
+      "lyric_translation": "",
+      "range": [69.44, 71.26], "ans": [8]},
+    {"lyric": "Baby u can hit up my line when you need it",
+      "lyric_hangul": "Baby, you can hit up my line when you need it",
+      "lyric_translation": "",
+      "range": [71.26, 72.69], "ans": [8]},
+    {"lyric": "Said that you tried baby you succeeded",
+      "lyric_hangul": "Say that you tried? Baby, you succeeded",
+      "lyric_translation": "",
+      "range": [72.69, 75.1], "ans": [8]},
+    {
+      "lyric_hangul": "Got a craving, baby, can you feed it? Phew",
+      "parts": [
+        {"lyric": "Got a craving baby",
+          "range": [75.1, 76.21], "ans": [8]},
+        {"lyric": "Can u feed it",
+          "range": [76.21, 77.38], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Took a trip under moonlight, follow me to the sunrise",
+      "parts": [
+        {"lyric": "Took a trip under moonlight",
+          "range": [77.3, 79.1], "ans": [3]},
+        {"lyric": "Follow me to the sunrise",
+          "range": [79.1, 81.36], "ans": [3]}
+      ]
+    },
+    {"lyric": "Everyday everynight",
+      "lyric_hangul": "Everyday, every night",
+      "lyric_translation": "",
+      "range": [81.36, 83.01], "ans": [3]},
+    {"lyric": "Ayyyy, come with me don’t think twice",
+      "lyric_hangul": "Hey, come with me, don't think twice",
+      "lyric_translation": "",
+      "range": [83.01, 85.07], "ans": [4]},
+    "",
+    {"lyric": "Oh yeah baby I don’t really mean to rush",
+      "lyric_hangul": "Oh, yeah, baby, I don't really mean to rush",
+      "lyric_translation": "",
+      "range": [85.07, 87.43], "ans": [6]},
+    {
+      "lyric_hangul": "But I'ma really need your touch if I'ma make it through the night",
+      "parts": [
+        {"lyric": "But Imma really need your touch",
+          "range": [87.43, 89.95], "ans": [6]},
+        {"lyric": "If Imma make it thru the night",
+          "range": [89.95, 93.38], "ans": [6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I got the moonlight, tequila sunrise",
+      "parts": [
+        {"lyric": "I got the moonlight",
+          "range": [93.38, 95.04], "ans": [1]},
+        {"lyric": "Tequila sunrise",
+          "range": [95.04, 97.33], "ans": [1]}
+      ]
+    },
+    {"lyric": "Come take a shot on me, I gotcha",
+      "lyric_hangul": "Ha, come take a shot on me, I got ya",
+      "lyric_translation": "",
+      "range": [97.33, 100.84], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "I don't know how to say this, I hope this song's on your playlist",
+      "parts": [
+        {"lyric": "I don’t know how to say this",
+          "range": [100.84, 102.75], "ans": [8]},
+        {"lyric": "I hope this song is on your playlist",
+          "range": [102.75, 105.04], "ans": [8]}
+      ]
+    },
+    {"lyric": "This feelings so hard to explain",
+      "lyric_hangul": "This feeling, so hard to explain",
+      "lyric_translation": "",
+      "range": [105.04, 108.31], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "I don't even know how to talk right now, it's \"I need you\" o'clock right now",
+      "parts": [
+        {"lyric": "I don’t even know how to talk right now",
+          "range": [108.31, 110.11], "ans": [2]},
+        {"lyric": "Its i need you o’clock right now",
+          "range": [110.11, 113.17], "ans": [2]}
+      ]
+    },
+    {"lyric": "I want you to hear me say",
+      "lyric_hangul": "I want you to hear me say",
+      "lyric_translation": "",
+      "range": [113.17, 115.26], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, come, be my starlight",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [115.26, 117.72], "ans": [9]},
+        {"lyric": "Baby come be my starlight",
+          "range": [117.2, 119.15], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, oh, baby, just to make you stay",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [119.15, 120.84], "ans": [9]},
+        {"lyric": "Oh baby",
+          "range": [120.14, 121.31], "ans": [1]},
+        {"lyric": "Just to make you stay",
+          "range": [121.31, 123.15], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, let's do it all night",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [122.91, 125.39], "ans": [6]},
+        {"lyric": "Baby let’s do it all night",
+          "range": [124.85, 126.89], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, I guarantee I got ya",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [126.89, 129.04], "ans": [6]},
+        {"lyric": "I guarantee I gotcha",
+          "range": [128.34, 132.6], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Cards out on the table what u say?",
+      "lyric_hangul": "Cards out on the table, what you say?",
+      "lyric_translation": "",
+      "range": [132.6, 136.33], "ans": [5]},
+    {"lyric": "I need you, you need me, you’re mine",
+      "lyric_hangul": "I need you, you need me, you're mine",
+      "lyric_translation": "",
+      "range": [136.33, 138.63], "ans": [5]},
+    {
+      "lyric_hangul": "I'm your moonlight, you're my sunrise, babe",
+      "parts": [
+        {"lyric": "If I’m your moonlight",
+          "range": [138.63, 140.27], "ans": [4]},
+        {"lyric": "You’re my sunrise babe",
+          "range": [140.27, 143.82], "ans": [4]}
+      ]
+    },
+    {"lyric": "I guarantee I gotcha",
+      "lyric_hangul": "I guarantee I got ya",
+      "lyric_translation": "",
+      "range": [143.82, 145.99], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, come, be my starlight",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [145.99, 148.41], "ans": [1]},
+        {"lyric": "Baby come be my starlight",
+          "range": [147.97, 149.89], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, oh, baby, just to make you stay",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [149.89, 151.12], "ans": [1]},
+        {"lyric": "Oh baby",
+          "range": [150.42, 152.01], "ans": [2]},
+        {"lyric": "Just to make you stay",
+          "range": [152.01, 153.83], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, let's do it all night",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [153.8, 156.06], "ans": [5]},
+        {"lyric": "Baby let’s do it all night",
+          "range": [155.6, 157.28], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, I guarantee I got ya",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [157.17, 159.86], "ans": [5]},
+        {"lyric": "I guarantee I gotcha",
+          "range": [159.16, 161.43], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, come, be my starlight",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [161.32, 163.76], "ans": [9]},
+        {"lyric": "Baby come be my starlight",
+          "range": [163.24, 164.96], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, I guarantee I got ya",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [164.92, 167.44], "ans": [9]},
+        {"lyric": "I guarantee I gotcha",
+          "range": [166.74, 169.18], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moonlight sunrise, baby, let's do it all night",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [168.89, 171.46], "ans": [6]},
+        {"lyric": "Baby let’s do it all night",
+          "range": [171.02, 172.89], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Moonlight sunrise, I guarantee I got ya",
+      "parts": [
+        {"lyric": "Moonlight sunrise",
+          "range": [172.89, 175.13], "ans": [6]},
+        {"lyric": "I guarantee I gotcha",
+          "range": [174.43, 176.79], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Moonlight sunrise",
+      "lyric_hangul": "Moonlight sunrise",
+      "lyric_translation": "",
+      "range": [176.36, 180.0], "ans": [5]}
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "name": "TALK THAT TALK\r",
+  "ogg": "sound/kpop/talk_that_talk.ogg",
+  "id": "talk-that-talk",
+  "group": "twice",
+  "language": "ko",
+  "released": "2022-08-26",
+  "album": "Between 1&2",
+  "cover": "css/images/covers/talk-that-talk.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:49Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "날 보는 eyes, 씩 웃는 lips, 맘에 들지, I like it (oh, yeah)",
+      "lyric_translation": "Your eyes on me, your grinning lips / Pretty nice, I like it (Oh yeah)",
+      "parts": [
+        {"lyric": "Nal boneun Eyes sshik unneun Lips",
+          "range": [9.51, 11.27], "ans": [1]},
+        {"lyric": "Mame deulji I like it",
+          "range": [11.27, 13.18], "ans": [1]},
+        {"lyric": "Oh yeah",
+          "range": [12.48, 14.42], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 A to Z, 꽤 달콤해 (that's right)",
+      "lyric_translation": "A to Z you are quite sweet (That’s right)",
+      "parts": [
+        {"lyric": "Ne A to Z kkwae dalkomhae",
+          "range": [13.71, 15.99], "ans": [1]},
+        {"lyric": "That’s right",
+          "range": [15.29, 16.32], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "But I wanna skip (just skip), 더 결정적인 thing (that thing)",
+      "lyric_translation": "But I wanna skip (Just skip) / But the more important thing (That thing)",
+      "parts": [
+        {"lyric": "But I wanna skip",
+          "range": [16.32, 18.27], "ans": [9]},
+        {"lyric": "Just skip",
+          "range": [17.83, 18.32], "ans": [3]},
+        {"lyric": "Deo gyeoljeongjeogin Thing",
+          "range": [18.32, 19.66], "ans": [9]},
+        {"lyric": "That thing",
+          "range": [20.91, 21.41], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "본론을 원해 빙빙 돌린, 서론 따위 말고 (I mean L-word)",
+      "lyric_translation": "Get straight to the point / Stop beating around the bush (I mean L word)",
+      "parts": [
+        {"lyric": "Bolloneul weonhae bingbing dollin",
+          "range": [20.21, 23.02], "ans": [6]},
+        {"lyric": "Seoron ttawi malgo",
+          "range": [23.02, 24.9], "ans": [6]},
+        {"lyric": "(I mean L word)",
+          "range": [24.2, 25.53], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "더-더-더-더-더, 더 보여줘 (보여줘)",
+      "lyric_translation": "More more more more more more show me more (show me more)",
+      "parts": [
+        {"lyric": "Deo deo deo deo deo deo boyeojweo",
+          "range": [25.53, 27.39], "ans": [4]},
+        {"lyric": "Boyeojweo",
+          "range": [26.97, 28.03], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "너-너-너-너-너, 널 알려줘 (알려줘)",
+      "lyric_translation": "You you you you you let me know you (let me know)",
+      "parts": [
+        {"lyric": "Neo neo neo neo neo neol allyeojweo",
+          "range": [27.82, 29.42], "ans": [4]},
+        {"lyric": "Allyeojweo",
+          "range": [29.08, 29.6], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금 난 need some hints 채우고 있어 너란 crosswords",
+      "lyric_translation": "Right now I need some hints / To solve the crosswords about you / Beep beep beep beep beep, the time is up",
+      "parts": [
+        {"lyric": "Jigeum nan Need some hints",
+          "range": [29.47, 29.91], "ans": [7]},
+        {"lyric": "Chaeugo isseo neoran Crosswords",
+          "range": [29.91, 31.38], "ans": [7]},
+        {"lyric": "Beep beep beep beep beep, the time is up",
+          "range": [30.68, 33.8], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Nan imi al geot gajjiman",
+      "lyric_hangul": "삐삐삐삐삐, the time is up, 난 이미 알 것 같지만",
+      "lyric_translation": "I think I already know",
+      "range": [33.8, 37.7], "ans": [8]},
+    {"lyric": "Ne moksoriro baro deutgo shibeunde",
+      "lyric_hangul": "네 목소리로 바로 듣고 싶은데",
+      "lyric_translation": "But I wanna hear you say it",
+      "range": [37.7, 41.31], "ans": [3]},
+    "",
+    {"lyric": "Baby nae dabeun ppeonhajana YES or YES",
+      "lyric_hangul": "Baby, 내 답은 뻔하잖아, yes or yes?",
+      "lyric_translation": "Baby you know the answer YES or YES",
+      "range": [41.31, 44.8], "ans": [9]},
+    {
+      "lyric_hangul": "밀거나 당기는 괜한 시간 낭비는 싫으니 (ah-ha)",
+      "lyric_translation": "Don’t wanna waste time with the push-and-pull / Dare to say it now Want it 1 to 10",
+      "parts": [
+        {"lyric": "Milgeona danggineun",
+          "range": [44.8, 46.28], "ans": [9]},
+        {"lyric": "Gwaenhan shigan nangbineun shireuni",
+          "range": [46.28, 49.8], "ans": [9]}
+      ]
+    },
+    {"lyric": "Gwagamhage Say it now weonhae 1 to 10",
+      "lyric_hangul": "과감하게 say it now, 원해 one to ten (yeah)",
+      "lyric_translation": "Let’s get started right now",
+      "range": [49.42, 53.37], "ans": [2]},
+    {"lyric": "Shijakhaebolkka Right now",
+      "lyric_hangul": "시작해볼까 right now",
+      "lyric_translation": "",
+      "range": [53.37, 55.99], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "Tell me what you want, tell me what you need",
+      "lyric_translation": "Tell me what you need / A to Z tell me everything",
+      "parts": [
+        {"lyric": "Tell me what you want",
+          "range": [55.99, 57.86], "ans": [5]},
+        {"lyric": "Tell me what you need",
+          "range": [57.86, 59.96], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "A to Z, 다 말해봐, but 시작은 이렇게 해",
+      "lyric_translation": "But it has to start like this / Talk that talk Just one word",
+      "parts": [
+        {"lyric": "A to Z da malhaebwa",
+          "range": [59.96, 61.51], "ans": [5]},
+        {"lyric": "But shijageun ireoke hae",
+          "range": [61.51, 64.06], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Talk that talk, 딱 한 마디, talk that talk, L-O-V-E",
+      "lyric_translation": "Talk that talk L-O-V-E / Let me hear it Ooh",
+      "parts": [
+        {"lyric": "Talk that talk ttak han madi",
+          "range": [64.06, 65.94], "ans": [4]},
+        {"lyric": "Talk that talk L-O-V-E",
+          "range": [65.94, 68.61], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "들려줘, ooh, now, now, now, now, now, yeah (yeah, turn it up)",
+      "lyric_translation": "Now now now now now yeah / Yeah turn it up",
+      "parts": [
+        {"lyric": "Deullyeojweo Ooh",
+          "range": [68.61, 69.9], "ans": [4]},
+        {"lyric": "Now now now now now yeah",
+          "range": [69.2, 72.92], "ans": [5]},
+        {"lyric": "Yeah turn it up",
+          "range": [72.22, 74.01], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "너의 눈 look, look, look, 위아래로 roll, roll, roll",
+      "lyric_translation": "Go up and down Roll roll roll / You read it, the words",
+      "parts": [
+        {"lyric": "Neoye nun Look look look",
+          "range": [73.51, 75.64], "ans": [8]},
+        {"lyric": "Wiaraero Roll roll roll",
+          "range": [75.64, 77.55], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "읽었잖아, 뭐 피차 눈빛 사이 오고 가는 말",
+      "lyric_translation": "That we exchange with our eyes",
+      "parts": [
+        {"lyric": "Ilkeotjana mweo picha",
+          "range": [77.55, 78.51], "ans": [3]},
+        {"lyric": "Nunbit sai ogo ganeun mal",
+          "range": [78.51, 81.01], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "차근차근 one, two, three (just one, two, three), 더 친절하게 ABC (like ABC)",
+      "lyric_translation": "Be more gentle ABC (Like ABC) / Don’t stop and just replay replay",
+      "parts": [
+        {"lyric": "Chageunchageun 1, 2, 3",
+          "range": [81.01, 82.66], "ans": [7]},
+        {"lyric": "(Just 1, 2, 3)",
+          "range": [82.02, 83.06], "ans": []},
+        {"lyric": "Deo chinjeolhage ABC",
+          "range": [82.36, 84.76], "ans": [7]},
+        {"lyric": "(Like ABC)",
+          "range": [84.06, 85.42], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Don't stop and just replay, replay (yeah, that's my only request)",
+      "lyric_translation": "(Yeah that’s my only request)",
+      "parts": [
+        {"lyric": "Don’t stop and just replay replay",
+          "range": [85.42, 87.92], "ans": [7]},
+        {"lyric": "(Yeah that’s my only request)",
+          "range": [87.22, 89.28], "ans": [1]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Baby, 날 안고 달콤하게, tell me now (달콤하게, just tell me now)",
+      "lyric_translation": "Tell me now (Just tell me now) / You know that sometimes the most common words",
+      "parts": [
+        {"lyric": "Baby nal ango dalkomhage",
+          "range": [89.28, 91.26], "ans": [6]},
+        {"lyric": "Dalkomhage",
+          "range": [91.88, 92.85], "ans": [5]},
+        {"lyric": "Tell me now",
+          "range": [92.15, 93.15], "ans": [6]},
+        {"lyric": "Just tell me now",
+          "range": [92.57, 93.2], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "때로는 뻔한 말이 더 좋다는 걸 알잖니",
+      "lyric_translation": "are the best things to say",
+      "parts": [
+        {"lyric": "Ttaeroneun ppeonhan mari deo",
+          "range": [92.24, 95.45], "ans": [6]},
+        {"lyric": "Jotaneun geol aljanhni",
+          "range": [94.75, 97.71], "ans": [6, 5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Favorite part 지금이야, now we're almost there (want it more)",
+      "lyric_translation": "Now we’re almost there / Let’s get it started Right now",
+      "parts": [
+        {"lyric": "Favorite part jigeumiya",
+          "range": [97.71, 98.82], "ans": [2]},
+        {"lyric": "(Want it more)",
+          "range": [98.12, 100.22], "ans": []},
+        {"lyric": "Now we’re almost there",
+          "range": [99.52, 102.15], "ans": [2]}
+      ]
+    },
+    {"lyric": "Shijakhaebolkka Right now",
+      "lyric_hangul": "시작해볼까 right now",
+      "lyric_translation": "",
+      "range": [101.52, 104.02], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "Tell me what you want, tell me what you need",
+      "lyric_translation": "Tell me what you need / A to Z tell me everything",
+      "parts": [
+        {"lyric": "Tell me what you want",
+          "range": [104.02, 105.88], "ans": [1]},
+        {"lyric": "Tell me what you need",
+          "range": [105.88, 108.03], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "A to Z, 다 말해봐, but 시작은 이렇게 해 (이렇게 해)",
+      "lyric_translation": "But it has to start like this / Talk that talk Just one word",
+      "parts": [
+        {"lyric": "A to Z da malhaebwa",
+          "range": [108.03, 109.77], "ans": [1]},
+        {"lyric": "But shijageun ireoke hae",
+          "range": [109.77, 112.26], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Talk that talk, 딱 한 마디, talk that talk, L-O-V-E",
+      "lyric_translation": "Talk that talk L-O-V-E / Let me hear it Ooh",
+      "parts": [
+        {"lyric": "Talk that talk ttak han madi",
+          "range": [112.26, 113.9], "ans": [4]},
+        {"lyric": "Talk that talk L-O-V-E",
+          "range": [113.9, 116.77], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "들려줘, ooh, now, now, now, now, now, yeah",
+      "lyric_translation": "Now now now now now yeah",
+      "parts": [
+        {"lyric": "Deullyeojweo Ooh",
+          "range": [116.77, 117.89], "ans": [4]},
+        {"lyric": "Now now now now now yeah",
+          "range": [117.19, 121.77], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Dansunhan Words saranghandaneun mal",
+      "lyric_hangul": "단순한 words \"사랑한다는\" 말",
+      "lyric_translation": "That’s all I wanna hear",
+      "range": [121.77, 125.62], "ans": [6]},
+    {"lyric": "Geuge daya nan kkumimeopshi deutgil weonhaji",
+      "lyric_hangul": "그게 다야 난 꾸밈없이 듣길 원하지",
+      "lyric_translation": "Without hesitation, I’ll go up to you",
+      "range": [125.62, 129.66], "ans": [5]},
+    {"lyric": "Miruji ana neoege dagaga",
+      "lyric_hangul": "미루지 않아 너에게 다가가",
+      "lyric_translation": "I’ll make it simple",
+      "range": [129.66, 133.97], "ans": [8]},
+    {
+      "lyric_hangul": "난 심플하게 다 말할게, I love you",
+      "lyric_translation": "And just tell you I love you",
+      "parts": [
+        {"lyric": "Nan shimpeulhage",
+          "range": [133.97, 135.29], "ans": [1]},
+        {"lyric": "Da malhalge I love you",
+          "range": [135.29, 138.27], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Tell me what you want, tell me what you need",
+      "lyric_translation": "Tell me what you need / A to Z although I like it all",
+      "parts": [
+        {"lyric": "Tell me what you want",
+          "range": [138.27, 139.88], "ans": [5]},
+        {"lyric": "Tell me what you need",
+          "range": [139.88, 142.06], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "A to Z, 다 좋지만 난 이 말이 제일 좋은데",
+      "lyric_translation": "This has to be my favorite / Talk that talk Just one word",
+      "parts": [
+        {"lyric": "A to Z da johjiman",
+          "range": [142.06, 143.32], "ans": [5]},
+        {"lyric": "Nan i mari jeil joeunde",
+          "range": [143.32, 146.1], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Talk that talk, 딱 한 마디 (love), talk that talk, L-O-V-E (love)",
+      "lyric_translation": "Talk that talk L-O-V-E / Oh yeah it sounds so good",
+      "parts": [
+        {"lyric": "Talk that talk ttak han madi",
+          "range": [146.1, 148.53], "ans": [7]},
+        {"lyric": "Talk that talk L-O-V-E",
+          "range": [148.53, 151.13], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh, yeah, it sounds so good (good, good, good), 더 빠져들어 푹",
+      "lyric_translation": "Makes me fall deeper",
+      "parts": [
+        {"lyric": "Oh yeah it sounds so good",
+          "range": [151.13, 152.31], "ans": [3]},
+        {"lyric": "Deo ppajyeodeureo puk",
+          "range": [152.31, 154.18], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Tell me what you want, tell me what you need",
+      "lyric_translation": "Tell me what you need / Tell me one more time",
+      "parts": [
+        {"lyric": "Tell me what you want",
+          "range": [154.18, 155.94], "ans": [1]},
+        {"lyric": "Tell me what you need",
+          "range": [155.94, 157.99], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "한 번 더 해줘, 그래, 방금 그 말",
+      "lyric_translation": "That’s right, you just said it / Talk that talk Just one word",
+      "parts": [
+        {"lyric": "Han beon deo haejweo",
+          "range": [157.99, 159.81], "ans": [2]},
+        {"lyric": "Geurae banggeum geu mal",
+          "range": [159.81, 162.07], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Talk that talk, 딱 한 마디 (love, love, love), talk that talk, L-O-V-E",
+      "lyric_translation": "Talk that talk L-O-V-E / Let me hear it Ooh",
+      "parts": [
+        {"lyric": "Talk that talk ttak han madi",
+          "range": [162.07, 164.52], "ans": [9]},
+        {"lyric": "Talk that talk L-O-V-E",
+          "range": [164.52, 166.77], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "들려줘, ooh, now, now, now, now, now, yeah (yeah, turn it up)",
+      "lyric_translation": "Now now now now now yeah / Yeah turn it up",
+      "parts": [
+        {"lyric": "Deullyeojweo Ooh",
+          "range": [166.77, 167.48], "ans": [1]},
+        {"lyric": "Now now now now now yeah",
+          "range": [167.48, 170.94], "ans": [1]},
+        {"lyric": "Yeah turn it up",
+          "range": [170.24, 174.0], "ans": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "name": "Queen of Hearts\r",
+  "ogg": "sound/kpop/queen_of_hearts.ogg",
+  "id": "queen-of-hearts",
+  "group": "twice",
+  "language": "en",
+  "released": "2022-08-26",
+  "album": "Between 1 & 2",
+  "cover": "css/images/covers/queen-of-hearts.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T22:19:02Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Watch me run, watch me run away",
+      "lyric_hangul": "Watch me run, watch me run away",
+      "lyric_translation": "",
+      "range": [2.02, 5.04], "ans": [8]},
+    {"lyric": "Got no ties left to yesterday",
+      "lyric_hangul": "Got no ties left to yesterday",
+      "lyric_translation": "",
+      "range": [5.04, 8.02], "ans": [8]},
+    {"lyric": "I know who I was put me here now",
+      "lyric_hangul": "I know who I was, put me here now",
+      "lyric_translation": "",
+      "range": [8.02, 10.97], "ans": [8]},
+    {"lyric": "I got no intention to slow down",
+      "lyric_hangul": "I got no intention to slow down",
+      "lyric_translation": "",
+      "range": [10.97, 14.58], "ans": [8]},
+    "",
+    {"lyric": "Burn my past in the fireplace",
+      "lyric_hangul": "Burn my past in the fireplace",
+      "lyric_translation": "",
+      "range": [14.58, 18.06], "ans": [9]},
+    {"lyric": "From the ashes I rise again",
+      "lyric_hangul": "From the ashes, I rise again",
+      "lyric_translation": "",
+      "range": [18.06, 20.94], "ans": [9]},
+    {"lyric": "Looking at the future it’s so bright",
+      "lyric_hangul": "Looking at the future, it's so bright",
+      "lyric_translation": "",
+      "range": [20.94, 23.6], "ans": [9]},
+    {
+      "lyric_hangul": "I'm gonna make it mine, gonna make it mine",
+      "parts": [
+        {"lyric": "I’m gonna make it mine",
+          "range": [23.6, 25.48], "ans": [7]},
+        {"lyric": "Gonna make it mine",
+          "range": [25.48, 27.19], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Show you how I do, out here making these moves",
+      "parts": [
+        {"lyric": "Show you how I do",
+          "range": [27.19, 28.23], "ans": [3]},
+        {"lyric": "Out here making these moves",
+          "range": [28.23, 30.68], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ain't here to play (you ain't ready for it)",
+      "parts": [
+        {"lyric": "Ain’t here to play",
+          "range": [30.68, 32.38], "ans": [3]},
+        {"lyric": "You ain’t ready for it",
+          "range": [31.68, 33.43], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Watch me go",
+      "lyric_hangul": "Watch me go",
+      "lyric_translation": "",
+      "range": [33.37, 35.28], "ans": []},
+    {
+      "lyric_hangul": "Watch me go Watch me go rule the world",
+      "parts": [
+        {"lyric": "Watch me go, watch me go",
+          "range": [33.37, 36.06], "ans": [1]},
+        {"lyric": "Rule the world",
+          "range": [36.06, 38.27], "ans": [1]}
+      ]
+    },
+    {"lyric": "Know you never doubted baby",
+      "lyric_hangul": "Know you never doubted, baby",
+      "lyric_translation": "",
+      "range": [38.27, 39.7], "ans": [1]},
+    {"lyric": "I’mma go run the whole universe",
+      "lyric_hangul": "I'ma go run the whole universe",
+      "lyric_translation": "",
+      "range": [39.7, 44.87], "ans": [1]},
+    "",
+    {"lyric": "Baby I was born to rule",
+      "lyric_hangul": "Baby, I was born to rule",
+      "lyric_translation": "",
+      "range": [44.87, 49.72], "ans": [5]},
+    {"lyric": "Yeah I’m the queen, I’m the queen",
+      "lyric_hangul": "Yeah, I'm the queen, I'm the queen",
+      "lyric_translation": "",
+      "range": [49.72, 51.02], "ans": [7]},
+    {"lyric": "And it’s all because of you",
+      "lyric_hangul": "And it's all because of you",
+      "lyric_translation": "",
+      "range": [51.02, 54.73], "ans": [5]},
+    {"lyric": "That I’m the queen of hearts",
+      "lyric_hangul": "That I'm the queen of hearts",
+      "lyric_translation": "",
+      "range": [54.73, 59.18], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "See it clear as day, dreaming 'bout the way",
+      "parts": [
+        {"lyric": "See it clear as day",
+          "range": [59.18, 60.37], "ans": [6]},
+        {"lyric": "Dreaming ‘bout the way",
+          "range": [60.37, 62.42], "ans": [6]}
+      ]
+    },
+    {"lyric": "One day I would rule the world",
+      "lyric_hangul": "One day, I would rule the world",
+      "lyric_translation": "",
+      "range": [62.42, 64.71], "ans": [6]},
+    {"lyric": "And now that I’m surrounded by all my girls",
+      "lyric_hangul": "And now that I'm surrounded by all my girls",
+      "lyric_translation": "",
+      "range": [64.71, 68.0], "ans": [6]},
+    {
+      "lyric_hangul": "We be shining bright like diamonds and pearls (hey, hey, hey)",
+      "parts": [
+        {"lyric": "We be shining bright like diamonds and pearls",
+          "range": [68.0, 70.85], "ans": [6]},
+        {"lyric": "Hey hey hey",
+          "range": [70.15, 71.95], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "You all made it like a movement, yeah",
+      "lyric_hangul": "You all made it like a movement",
+      "lyric_translation": "",
+      "range": [71.92, 73.52], "ans": [8]},
+    {"lyric": "Take a bow up on the stage",
+      "lyric_hangul": "Yeah, take a bow up on the stage",
+      "lyric_translation": "",
+      "range": [73.52, 75.09], "ans": [8]},
+    {"lyric": "All my friends know how to do it",
+      "lyric_hangul": "All my friends know how to do it",
+      "lyric_translation": "",
+      "range": [75.09, 76.65], "ans": [8]},
+    {"lyric": "And you can do it too just follow hey",
+      "lyric_hangul": "And you can do it too, just follow, hey",
+      "lyric_translation": "",
+      "range": [76.65, 79.25], "ans": [8]},
+    {
+      "lyric_hangul": "You're making me shine today (yeah, you can do it, hey)",
+      "parts": [
+        {"lyric": "You’re making me shine today",
+          "range": [79.25, 80.64], "ans": [9]},
+        {"lyric": "Yeah you can do it hey",
+          "range": [79.94, 82.34], "ans": [7]}
+      ]
+    },
+    {"lyric": "Yeah I do this everyday oh",
+      "lyric_hangul": "Yeah, I do this every day, oh-ooh",
+      "lyric_translation": "",
+      "range": [82.34, 84.74], "ans": [9]},
+    "",
+    {
+      "lyric_hangul": "Show you how I do, out here making these moves",
+      "parts": [
+        {"lyric": "Show you how I do",
+          "range": [84.74, 85.8], "ans": [4]},
+        {"lyric": "Out here making these moves",
+          "range": [85.8, 88.36], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ain't here to play (you ain't ready for it)",
+      "parts": [
+        {"lyric": "Ain’t here to play",
+          "range": [88.36, 89.91], "ans": [4]},
+        {"lyric": "You ain’t ready for it",
+          "range": [89.21, 91.02], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Watch me go",
+      "lyric_hangul": "Watch me go",
+      "lyric_translation": "",
+      "range": [91.02, 92.68], "ans": []},
+    {
+      "lyric_hangul": "Watch me go Watch me go rule the world",
+      "parts": [
+        {"lyric": "Watch me go, watch me go",
+          "range": [91.02, 93.72], "ans": [2]},
+        {"lyric": "Rule the world",
+          "range": [93.72, 96.21], "ans": [2]}
+      ]
+    },
+    {"lyric": "Know you never doubted baby",
+      "lyric_hangul": "Know you never doubted, baby",
+      "lyric_translation": "",
+      "range": [96.21, 97.34], "ans": [2]},
+    {"lyric": "I’mma go run the whole universe",
+      "lyric_hangul": "I'ma go run the whole universe",
+      "lyric_translation": "",
+      "range": [97.34, 102.56], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Baby I was born to rule",
+      "lyric_hangul": "Baby, I was born to rule",
+      "lyric_translation": "",
+      "range": [102.56, 107.35], "ans": [1]},
+    {"lyric": "Yeah I’m the queen, I’m the queen",
+      "lyric_hangul": "Yeah, I'm the queen, I'm the queen",
+      "lyric_translation": "",
+      "range": [107.35, 108.74], "ans": [3]},
+    {"lyric": "And it’s all because of you",
+      "lyric_hangul": "And it's all because of you",
+      "lyric_translation": "",
+      "range": [108.74, 112.5], "ans": [1]},
+    {"lyric": "That I’m the queen of hearts",
+      "lyric_hangul": "That I'm the queen of hearts",
+      "lyric_translation": "",
+      "range": [112.5, 115.74], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "Screaming out my name, see it in the stage lights",
+      "parts": [
+        {"lyric": "Screaming out my name",
+          "range": [115.74, 117.29], "ans": [4]},
+        {"lyric": "See it in the stage lights",
+          "range": [117.29, 119.01], "ans": [4]}
+      ]
+    },
+    {"lyric": "Feel so lucky just to have ya",
+      "lyric_hangul": "Feel so lucky just to have ya",
+      "lyric_translation": "",
+      "range": [119.01, 123.17], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "'Cause I know, deep down, I was meant for something bigger, greater",
+      "parts": [
+        {"lyric": "‘Cause I know deep down",
+          "range": [123.17, 124.57], "ans": [5]},
+        {"lyric": "I was meant for something bigger, greater",
+          "range": [124.57, 129.43], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I know you're seeing what I see (see what I see)",
+      "parts": [
+        {"lyric": "I know you’re seeing what I see",
+          "range": [129.43, 131.42], "ans": [1]},
+        {"lyric": "See what I see",
+          "range": [130.72, 132.74], "ans": [8]}
+      ]
+    },
+    {"lyric": "Yeah I’ll be everything you need",
+      "lyric_hangul": "Yeah, I'll be everything you need",
+      "lyric_translation": "",
+      "range": [132.74, 135.01], "ans": [1]},
+    {
+      "lyric_hangul": "I know I'm gonna walk the walk and talk the talk to be",
+      "parts": [
+        {"lyric": "I know I’m gonna walk the walk",
+          "range": [135.01, 136.99], "ans": [1]},
+        {"lyric": "And talk the talk to be",
+          "range": [136.99, 142.29], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "There can only be one (oh, you ain't ready for it)",
+      "parts": [
+        {"lyric": "There can only be one",
+          "range": [142.29, 144.01], "ans": [8]},
+        {"lyric": "You ain’t ready for it",
+          "range": [143.31, 145.43], "ans": [5]}
+      ]
+    },
+    {"lyric": "Watch me go",
+      "lyric_hangul": "Watch me go",
+      "lyric_translation": "",
+      "range": [145.32, 147.31], "ans": []},
+    {
+      "lyric_hangul": "Watch me go Watch me go rule the world (whoa)",
+      "parts": [
+        {"lyric": "Watch me go, watch me go",
+          "range": [145.32, 148.67], "ans": [5]},
+        {"lyric": "Rule the world",
+          "range": [148.67, 150.5], "ans": [5]}
+      ]
+    },
+    {"lyric": "Know you never doubted baby",
+      "lyric_hangul": "Know you never doubted, baby",
+      "lyric_translation": "",
+      "range": [150.15, 151.46], "ans": [5]},
+    {"lyric": "I’mma go run the whole universe",
+      "lyric_hangul": "I'ma go run the whole universe",
+      "lyric_translation": "",
+      "range": [151.46, 156.97], "ans": [5]},
+    "",
+    {"lyric": "Baby I was born to rule",
+      "lyric_hangul": "Baby, I was born to rule",
+      "lyric_translation": "",
+      "range": [156.97, 161.47], "ans": [1]},
+    {"lyric": "Yeah I’m the queen, I’m the queen",
+      "lyric_hangul": "Yeah, I'm the queen, I'm the queen",
+      "lyric_translation": "",
+      "range": [161.47, 163.07], "ans": [3]},
+    {"lyric": "And it’s all because of you",
+      "lyric_hangul": "And it's all because of you",
+      "lyric_translation": "",
+      "range": [163.07, 167.08], "ans": [1]},
+    {"lyric": "That I’m the queen of hearts",
+      "lyric_hangul": "That I'm the queen of hearts (ooh)",
+      "lyric_translation": "",
+      "range": [167.08, 171.49], "ans": [1]},
+    "",
+    {"lyric": "So thank you for the memories",
+      "lyric_hangul": "So thank you for the memories (memories)",
+      "lyric_translation": "",
+      "range": [171.49, 174.67], "ans": [6]},
+    {"lyric": "You’re all the ones who made me",
+      "lyric_hangul": "You're all the ones who made me (made me)",
+      "lyric_translation": "",
+      "range": [174.67, 177.52], "ans": [2]},
+    {"lyric": "So thank you for the memories",
+      "lyric_hangul": "So thank you for the memories",
+      "lyric_translation": "",
+      "range": [177.52, 179.67], "ans": [9]},
+    {"lyric": "That I’m the queen of hearts",
+      "lyric_hangul": "That I'm the queen of hearts",
+      "lyric_translation": "",
+      "range": [179.67, 184.09], "ans": [1]}
+  ]
+}

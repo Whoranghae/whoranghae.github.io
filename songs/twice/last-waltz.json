@@ -1,0 +1,433 @@
+{
+  "name": "LAST WALTZ\r",
+  "ogg": "sound/kpop/last_waltz.ogg",
+  "id": "last-waltz",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-11-12",
+  "album": "Formula of Love: O＋T=＜3",
+  "cover": "css/images/covers/last-waltz.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah",
+      "lyric_hangul": "Yeah",
+      "lyric_translation": "Yeah",
+      "range": [4.96, 6.96], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "황홀의 끝으로 널 데리고 갈게, 갈래?",
+      "lyric_translation": "To the end of the fascination / I’ll take you, will you come with me?",
+      "parts": [
+        {"lyric": "Hwanghore kkeuteuro",
+          "range": [6.96, 8.26], "ans": [1]},
+        {"lyric": "Neol derigo galkke, gallae?",
+          "range": [8.26, 11.07], "ans": [1]}
+      ]
+    },
+    {"lyric": "Eodumi naeryeoankki jeone",
+      "lyric_hangul": "어둠이 내려앉기 전에",
+      "lyric_translation": "Before the darkness sets",
+      "range": [11.07, 13.75], "ans": [1]},
+    {
+      "lyric_hangul": "잠시만 잊고 잠시 동안 웃자, 어때?",
+      "lyric_translation": "Let’s forget for a while / And laugh for a while, how’s that?",
+      "parts": [
+        {"lyric": "Jamshiman itgo",
+          "range": [13.75, 15.07], "ans": [6]},
+        {"lyric": "Jamshi dongan utja, eottae?",
+          "range": [15.07, 17.97], "ans": [6]}
+      ]
+    },
+    {"lyric": "Geurae jul geoji?",
+      "lyric_hangul": "그래 줄 거지?",
+      "lyric_translation": "You’ll do it, right?",
+      "range": [17.97, 19.81], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "아름답게 기억되어질, 아니, 기록되어질 날의",
+      "lyric_translation": "It will be remembered beautifully / No, it will be recorded",
+      "parts": [
+        {"lyric": "Areumdapge gieokdweeojil",
+          "range": [19.81, 21.75], "ans": [4]},
+        {"lyric": "Ani girokdweeojil nare",
+          "range": [21.75, 23.95], "ans": [4]}
+      ]
+    },
+    {"lyric": "Majimak chumeul shijakae",
+      "lyric_hangul": "마지막 춤을 시작해",
+      "lyric_translation": "Start the last dance",
+      "range": [23.45, 26.96], "ans": [4]},
+    {
+      "lyric_hangul": "좋은 꿈을 꾸었다고 말할 수 있다면 돼",
+      "lyric_translation": "If you can say you had a good dream / That’s good enough",
+      "parts": [
+        {"lyric": "Joeun kkumeul kkueottago",
+          "range": [26.96, 28.7], "ans": [3]},
+        {"lyric": "Malhal su ittamyeon dwae",
+          "range": [28.7, 31.1], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geugeollo dwae",
+      "lyric_hangul": "그걸로 돼",
+      "lyric_translation": "That’s enough",
+      "range": [31.1, 33.48], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "손잡고 딴단딴단딴 (can we stay in this moment?)",
+      "lyric_translation": "Hold my hand and ddan-dan-ddan-dan-ddan / Can we stay in this moment?",
+      "parts": [
+        {"lyric": "Sonjapgo ttandanttandanttan",
+          "range": [33.48, 37.32], "ans": [2]},
+        {"lyric": "Can we stay in this moment?",
+          "range": [36.62, 38.41], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "딴단딴 딴단딴단딴 딴단딴 (날이 새도록)",
+      "lyric_translation": "Ddan-dan-ddan-dan-ddan / Until morning comes / Let’s dance",
+      "parts": [
+        {"lyric": "Ttandanttandanttan",
+          "range": [37.91, 42.02], "ans": [2]},
+        {"lyric": "Nari saedorok",
+          "range": [41.32, 42.75], "ans": [5]},
+        {"lyric": "Chumeul chuja",
+          "range": [42.75, 45.63], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(춤을 추자) Mmm, my la-a-ast, mmm, my la-a-ast",
+      "lyric_translation": "(Mmm mmm) My last / (Mmm mmm) My last",
+      "parts": [
+        {"lyric": "(Mmm mmm)",
+          "range": [45.63, 46.72], "ans": [3]},
+        {"lyric": "My last",
+          "range": [46.02, 47.57], "ans": [8]},
+        {"lyric": "(Mmm mmm)",
+          "range": [47.07, 49.4], "ans": [3]},
+        {"lyric": "My last",
+          "range": [48.7, 50.07], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "곧 끝나지만, our love was true, ooh-ooh",
+      "lyric_translation": "It will end soon but / Our love was true",
+      "parts": [
+        {"lyric": "Got kkeunnajiman",
+          "range": [49.65, 51.79], "ans": [1]},
+        {"lyric": "Our love was true",
+          "range": [51.79, 54.03], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Mmm, my la-a-ast, mmm, my la-a-ast",
+      "lyric_translation": "(Mmm mmm) My last / (Mmm mmm) My last",
+      "parts": [
+        {"lyric": "(Mmm mmm)",
+          "range": [53.56, 54.67], "ans": [3]},
+        {"lyric": "My last",
+          "range": [53.97, 55.62], "ans": [8]},
+        {"lyric": "(Mmm mmm)",
+          "range": [54.92, 56.37], "ans": [3]},
+        {"lyric": "My last",
+          "range": [55.67, 56.8], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "멈추지 말고, just let it flo-o-ow",
+      "lyric_translation": "Don’t stop / Just let it flow",
+      "parts": [
+        {"lyric": "Meomchuji malgo",
+          "range": [56.6, 58.43], "ans": [5]},
+        {"lyric": "Just let it flow",
+          "range": [58.43, 60.16], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "세상의 가운데에서 원을 그리며 돌고 있어",
+      "lyric_translation": "In the middle of the world / We’re spinning in circles",
+      "parts": [
+        {"lyric": "Sesange gaundeeseo",
+          "range": [59.99, 62.31], "ans": [9]},
+        {"lyric": "Weoneul geurimyeo dolgo isseo",
+          "range": [62.31, 64.47], "ans": [9]}
+      ]
+    },
+    {"lyric": "Dalppitto uril bichune",
+      "lyric_hangul": "달빛도 우릴 비추네",
+      "lyric_translation": "Even the moonlight shines on us",
+      "range": [64.47, 66.78], "ans": [9]},
+    {
+      "lyric_hangul": "새드엔딩들 중에 제일 행복하고 아름다울 걸",
+      "lyric_translation": "Among sad endings / This will be the happiest and the most beautiful one",
+      "parts": [
+        {"lyric": "Saedeuendingdeul junge",
+          "range": [66.78, 68.81], "ans": [6]},
+        {"lyric": "Jeil haengbokago areumdaul geol",
+          "range": [68.81, 71.23], "ans": [6]}
+      ]
+    },
+    {"lyric": "Iboda wanbyeokal su isseulkka",
+      "lyric_hangul": "이보다 완벽할 수 있을까",
+      "lyric_translation": "Can it be more perfect than this?",
+      "range": [71.23, 74.07], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "I'm a happiness seeker, yeah, someone calls me a psycho",
+      "lyric_translation": "I’m a happiness seeker / Yeah, someone calls me a psycho",
+      "parts": [
+        {"lyric": "I’m a happiness seeker",
+          "range": [74.07, 75.59], "ans": [8]},
+        {"lyric": "Yeah someone calls me a psycho",
+          "range": [75.59, 77.07], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "이별도 완벽하게, 하고픈 romancer",
+      "lyric_translation": "I’m a romancer… / …who wants to break up perfectly too",
+      "parts": [
+        {"lyric": "Ibyeoldo wanbyeokage",
+          "range": [76.85, 79.77], "ans": [8]},
+        {"lyric": "Hagopeun Romancer",
+          "range": [79.31, 80.55], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Forever we young, young, 이 시간 속에 영영",
+      "lyric_translation": "Forever we young young / In this time forever",
+      "parts": [
+        {"lyric": "Forever we young young",
+          "range": [80.32, 82.52], "ans": [7]},
+        {"lyric": "I shigan soge yeongyeong",
+          "range": [82.52, 83.78], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "We never die, 욕심이 나더라도, that would be nice",
+      "lyric_translation": "We never die / Even if we become greedy / That would be nice",
+      "parts": [
+        {"lyric": "We never die",
+          "range": [83.54, 84.8], "ans": [5]},
+        {"lyric": "Yokshimi nadeorado",
+          "range": [84.8, 86.12], "ans": [5]},
+        {"lyric": "That would be nice",
+          "range": [86.12, 86.95], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Jakbyeol insareul nanuryeogo hae",
+      "lyric_hangul": "작별 인사를 나누려고 해",
+      "lyric_translation": "I’m going to say goodbye",
+      "range": [86.95, 90.31], "ans": [3]},
+    {"lyric": "Ni sumkkyeore ongi namaisseul ttae",
+      "lyric_hangul": "네 숨결에 온기 남아있을 때, ayy",
+      "lyric_translation": "When your breath still has its warmth",
+      "range": [90.31, 93.79], "ans": [3]},
+    {"lyric": "Kiss me goodbye",
+      "lyric_hangul": "Kiss me goodbye",
+      "lyric_translation": "Kiss me goodbye",
+      "range": [93.79, 96.87], "ans": [6]},
+    {
+      "lyric_hangul": "여전히 so sweet",
+      "lyric_translation": "Still so sweet / Let’s dance",
+      "parts": [
+        {"lyric": "Yeojeonhi So sweet",
+          "range": [96.87, 98.29], "ans": [6]},
+        {"lyric": "Chumeul chuja",
+          "range": [97.59, 100.0], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(춤을 추자) Mmm, my la-a-ast, mmm, my la-a-ast",
+      "lyric_translation": "(Mmm mmm) My last / (Mmm mmm) My last",
+      "parts": [
+        {"lyric": "(Mmm mmm)",
+          "range": [100.0, 100.77], "ans": [2]},
+        {"lyric": "My last",
+          "range": [100.07, 101.66], "ans": [7]},
+        {"lyric": "(Mmm mmm)",
+          "range": [101.22, 103.37], "ans": [2]},
+        {"lyric": "My last",
+          "range": [102.67, 104.1], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "곧 끝나지만, our love was true, ooh-ooh",
+      "lyric_translation": "It will end soon but / Our love was true",
+      "parts": [
+        {"lyric": "Got kkeunnajiman",
+          "range": [103.85, 105.83], "ans": [5]},
+        {"lyric": "Our love was true",
+          "range": [105.83, 108.0], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Mmm, my la-a-ast, mmm, my la-a-ast",
+      "lyric_translation": "(Mmm mmm) My last / (Mmm mmm) My last",
+      "parts": [
+        {"lyric": "(Mmm mmm)",
+          "range": [107.52, 108.42], "ans": [2]},
+        {"lyric": "My last",
+          "range": [108.42, 109.83], "ans": [7]},
+        {"lyric": "(Mmm mmm)",
+          "range": [109.13, 110.49], "ans": [2]},
+        {"lyric": "My last",
+          "range": [109.79, 110.82], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "멈추지 말고, just let it flo-o-ow",
+      "lyric_translation": "Don’t stop / Just let it flow",
+      "parts": [
+        {"lyric": "Meomchuji malgo",
+          "range": [110.81, 112.52], "ans": [1]},
+        {"lyric": "Just let it flow",
+          "range": [112.52, 113.83], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "많이 웃자, 더 밝게 웃어",
+      "lyric_translation": "Let’s smile more / Smile brighter",
+      "parts": [
+        {"lyric": "Mani utja",
+          "range": [113.8, 114.95], "ans": [9]},
+        {"lyric": "Deo balkke useo",
+          "range": [114.25, 116.53], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "슬픔마저도, 오늘이 마지막이란 걸 모르게",
+      "lyric_translation": "So that even sadness… / …doesn’t know today is the last day",
+      "parts": [
+        {"lyric": "Seulpeummajeodo",
+          "range": [116.53, 118.49], "ans": [9]},
+        {"lyric": "Oneuri majimagiran geol moreuge",
+          "range": [117.79, 120.91], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Eochapi meoreojil nal",
+      "lyric_hangul": "어차피 멀어질 날",
+      "lyric_translation": "The day’s going to get far away anyway",
+      "range": [120.5, 123.42], "ans": [4]},
+    {
+      "lyric_hangul": "아예 저 끝까지 가보자 다시는 못 돌아오게",
+      "lyric_translation": "So let’s go all the way until the end / So that we can’t come back again",
+      "parts": [
+        {"lyric": "Aye jeo kkeutkkaji gaboja",
+          "range": [123.42, 125.5], "ans": [4]},
+        {"lyric": "Dashineun mot doraoge",
+          "range": [125.5, 127.34], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "손잡고 딴단딴단딴 (can we stay in this moment?)",
+      "lyric_translation": "Hold my hand and ddan-dan-ddan-dan-ddan / Can we stay in this moment?",
+      "parts": [
+        {"lyric": "Sonjapgo ttandanttandanttan",
+          "range": [127.25, 131.01], "ans": [8]},
+        {"lyric": "Can we stay in this moment?",
+          "range": [130.31, 132.08], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "딴단딴 딴단딴단딴 딴단딴 (날이 새도록)",
+      "lyric_translation": "Ddan-dan-ddan-dan-ddan / Until morning comes / Let’s dance",
+      "parts": [
+        {"lyric": "Ttandanttandanttan",
+          "range": [131.58, 134.72], "ans": [8]},
+        {"lyric": "Nari saedorok",
+          "range": [134.72, 136.16], "ans": [1]},
+        {"lyric": "Chumeul chuja",
+          "range": [136.16, 139.76], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(춤을 추자) Mmm, my la-a-ast, mmm, my la-a-ast",
+      "lyric_translation": "(Mmm mmm) My last / (Mmm mmm) My last",
+      "parts": [
+        {"lyric": "(Mmm mmm)",
+          "range": [139.76, 140.51], "ans": [3]},
+        {"lyric": "My last",
+          "range": [139.81, 141.36], "ans": [8]},
+        {"lyric": "(Mmm mmm)",
+          "range": [140.94, 143.13], "ans": [3]},
+        {"lyric": "My last",
+          "range": [142.43, 143.86], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "곧 끝나지만, our love was true, ooh-ooh",
+      "lyric_translation": "It will end soon but / Our love was true",
+      "parts": [
+        {"lyric": "Got kkeunnajiman",
+          "range": [143.61, 145.59], "ans": [1]},
+        {"lyric": "Our love was true",
+          "range": [145.59, 147.39], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Mmm, my la-a-ast, mmm, my la-a-ast",
+      "lyric_translation": "(Mmm mmm) My last / (Mmm mmm) My last",
+      "parts": [
+        {"lyric": "(Mmm mmm)",
+          "range": [146.81, 148.46], "ans": [3]},
+        {"lyric": "My last",
+          "range": [147.76, 149.43], "ans": [8]},
+        {"lyric": "(Mmm mmm)",
+          "range": [148.73, 150.14], "ans": [3]},
+        {"lyric": "My last",
+          "range": [149.44, 150.61], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "멈추지 말고, just let it flo-o-ow",
+      "lyric_translation": "Don’t stop / Just let it flow",
+      "parts": [
+        {"lyric": "Meomchuji malgo",
+          "range": [150.35, 152.17], "ans": [5]},
+        {"lyric": "Just let it flow",
+          "range": [152.17, 153.97], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "세상의 가운데에서 원을 그리며 돌고 있어",
+      "lyric_translation": "In the middle of the world / We’re spinning in circles",
+      "parts": [
+        {"lyric": "Sesange gaundeeseo",
+          "range": [153.57, 156.21], "ans": [9]},
+        {"lyric": "Weoneul geurimyeo dolgo isseo",
+          "range": [156.21, 158.19], "ans": [9]}
+      ]
+    },
+    {"lyric": "Dalppitto uril bichune",
+      "lyric_hangul": "달빛도 우릴 비추네",
+      "lyric_translation": "Even the moonlight shines on us",
+      "range": [157.86, 160.37], "ans": [9]},
+    {
+      "lyric_hangul": "새드엔딩들 중에 제일 행복하고 아름다울 걸",
+      "lyric_translation": "Among sad endings / This will be the happiest and the most beautiful one",
+      "parts": [
+        {"lyric": "Saedeuendingdeul junge",
+          "range": [160.37, 162.69], "ans": [6]},
+        {"lyric": "Jeil haengbokago areumdaul geol",
+          "range": [162.69, 165.03], "ans": [6]}
+      ]
+    },
+    {"lyric": "Iboda wanbyeokal su isseulkka",
+      "lyric_hangul": "이보다 완벽할 수 있을까",
+      "lyric_translation": "Can it be more perfect than this?",
+      "range": [164.83, 170.56], "ans": [6]}
+  ]
+}

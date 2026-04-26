@@ -1,0 +1,348 @@
+{
+  "name": "Get Cool\r",
+  "ogg": "sound/kpop/get_cool.ogg",
+  "id": "get-cool",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2020-03-18",
+  "album": "SKZ2020",
+  "cover": "css/images/covers/get-cool.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:16Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Kkulbeoldeuldo get kkul get kkul",
+      "lyric_hangul": "꿀벌들도 get꿀 get꿀",
+      "lyric_translation": "Honey bees, too get honey get honey",
+      "range": [14.58, 15.93], "ans": [8]},
+    {"lyric": "Nan jiruhae deguldegul deguri",
+      "lyric_hangul": "난 지루해 데굴데굴 데구리",
+      "lyric_translation": "I’m bored rolling rolling Deguri",
+      "range": [15.93, 19.33], "ans": [8]},
+    {"lyric": "Matnan kkul nado meokgo shipeo",
+      "lyric_hangul": "맛난 꿀 나도 먹고 싶어",
+      "lyric_translation": "Yummy honey I want to have some, too",
+      "range": [19.33, 22.48], "ans": [7]},
+    {"lyric": "Oneureun andwel ge mwo isseo",
+      "lyric_hangul": "오늘은 안될 게 뭐 있어",
+      "lyric_translation": "Why not today?",
+      "range": [22.48, 25.09], "ans": [7]},
+    "",
+    {"lyric": "Oraenmane kkeonaen bajieseon doni",
+      "lyric_hangul": "오랜만에 꺼낸 바지에선 돈이",
+      "lyric_translation": "Money in my pants that I took out after a long time",
+      "range": [25.09, 28.1], "ans": [4]},
+    {"lyric": "Oneul jeomshimgapseun gudeotta save ma yongdonnim",
+      "lyric_hangul": "오늘 점심값은 굳었다 save ma 용돈님",
+      "lyric_translation": "I saved today’s lunch money save ma pocket money",
+      "range": [28.1, 31.18], "ans": [4]},
+    {"lyric": "Achimbuteo unsudaetong oneulttara gibun joa",
+      "lyric_hangul": "아침부터 운수대통 오늘따라 기분 좋아",
+      "lyric_translation": "I’m so lucky from morning I feel good today",
+      "range": [31.18, 35.69], "ans": [4]},
+    {"lyric": "Sosohan gomindo eopneun nal love it",
+      "lyric_hangul": "소소한 고민도 없는 날 love it",
+      "lyric_translation": "A day without even little worries love it",
+      "range": [35.69, 39.16], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "웬일이야 오늘 정말 내가 가지고 있던 운을 다 써버린 걸까",
+      "lyric_translation": "What’s going on today? Seriously / Did I use all my luck?",
+      "parts": [
+        {"lyric": "Weniriya oneul jeongmal",
+          "range": [39.16, 41.4], "ans": [2]},
+        {"lyric": "Naega gajigo itteon uneul da sseobeorin geolkka",
+          "range": [41.4, 45.44], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "많은 고민하지 말자 오늘만큼은 이런 나도",
+      "lyric_translation": "Let’s not worry too much / Today, I will",
+      "parts": [
+        {"lyric": "Maneun gominhaji malja",
+          "range": [45.44, 47.96], "ans": [8]},
+        {"lyric": "Oneulmankeumeun ireon nado",
+          "range": [47.96, 50.69], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Get Cool 이 좋은 날 뭐가 더 필요해",
+      "lyric_translation": "Get cool / What else do I need on this fine day?",
+      "parts": [
+        {"lyric": "Get cool",
+          "range": [50.69, 54.27], "ans": [1]},
+        {"lyric": "I joeun nal mwoga deo piryohae",
+          "range": [54.27, 56.75], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Get Cool 내일 걱정 안 하며 날아갈 거야",
+      "lyric_translation": "Get cool / I won’t worry about tomorrow I’ll fly away",
+      "parts": [
+        {"lyric": "Get cool",
+          "range": [56.75, 61.12], "ans": [1]},
+        {"lyric": "Naeil geokjeong an hamyeo naragal geoya",
+          "range": [60.42, 63.46], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "오늘 난 fly into the sky, fly into the sky fly fly",
+      "lyric_translation": "Today I fly into the sky / Fly into the sky fly fly fly",
+      "parts": [
+        {"lyric": "Oneul nan fly into the sky",
+          "range": [63.46, 65.44], "ans": [1]},
+        {"lyric": "Fly into the sky fly fly fly",
+          "range": [65.44, 67.49], "ans": [1]}
+      ]
+    },
+    {"lyric": "Da jaldwae oneul mwonga dalla",
+      "lyric_hangul": "다 잘돼 오늘 뭔가 달라",
+      "lyric_translation": "Everything goes well today, something is different",
+      "range": [67.49, 69.85], "ans": [4]},
+    {
+      "lyric_hangul": "더 높게 fly into the sky, fly into the sky fly fly",
+      "lyric_translation": "Higher fly into the sky / Fly into the sky fly fly",
+      "parts": [
+        {"lyric": "Deo nopge fly into the sky",
+          "range": [69.85, 71.73], "ans": [1]},
+        {"lyric": "Fly into the sky fly fly",
+          "range": [71.73, 73.47], "ans": [1]}
+      ]
+    },
+    {"lyric": "So so hajiman unsu joeun nal",
+      "lyric_hangul": "So so 하지만 운수 좋은 날",
+      "lyric_translation": "So so but it’s a lucky day",
+      "range": [73.32, 76.41], "ans": [2]},
+    "",
+    {"lyric": "Get cool, get cool, get cool jeollo noraega nawa",
+      "lyric_hangul": "Get cool, get cool, get cool 절로 노래가 나와",
+      "lyric_translation": "Get cool, get cool, get cool, the song sings itself",
+      "range": [76.41, 79.44], "ans": [3]},
+    {"lyric": "Sappun sappun sappun machi gureum wi gata",
+      "lyric_hangul": "사뿐 사뿐 사뿐 마치 구름 위 같아",
+      "lyric_translation": "Softly softly softly I feel like I’m on the cloud",
+      "range": [79.44, 82.78], "ans": [3]},
+    {
+      "lyric_hangul": "모르고 고르고 산 음료수 get 이득 원플러스원",
+      "lyric_translation": "The drink I bought without thinking / Get a benefit one plus one",
+      "parts": [
+        {"lyric": "Moreugo goreugo san eumryosu",
+          "range": [82.78, 84.92], "ans": [3]},
+        {"lyric": "Get ideuk wonpeulleoseuwon",
+          "range": [84.92, 86.16], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "막내 오다 주웠다 훗 이게 형 클라스죠",
+      "lyric_translation": "Baby brother, I picked this up on my way / Ha, this is big brother’s class",
+      "parts": [
+        {"lyric": "Maknae oda juwotta",
+          "range": [85.64, 87.6], "ans": [3]},
+        {"lyric": "Hut ige hyeong keullaseujyo",
+          "range": [87.6, 89.18], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "그날 밤 치느님 영접 직전 개봉했더니 헐 다리가 3개",
+      "lyric_translation": "I had chicken that night / When I opened the box, oh I found 3 drumsticks",
+      "parts": [
+        {"lyric": "Geunal bam chineunim yeongjeob",
+          "range": [88.89, 90.25], "ans": [5]},
+        {"lyric": "Jikjeon gaebonghaetteoni heol dariga setgae",
+          "range": [90.25, 92.43], "ans": [5]}
+      ]
+    },
+    {"lyric": "Meokgo nan jikhu nugungaga jib bereul nulleo baro taekbae",
+      "lyric_hangul": "먹고 난 직후 누군가가 집 벨을 눌러 바로 택배",
+      "lyric_translation": "Right after eating it, someone rang the bell, that was my package",
+      "range": [92.08, 95.88], "ans": [5]},
+    {
+      "lyric_hangul": "Ready, ready, ready babe 오늘 아마 내게 lucky day",
+      "lyric_translation": "Ready, ready, ready baby / Maybe today is my lucky day",
+      "parts": [
+        {"lyric": "Ready, ready, ready baby",
+          "range": [95.88, 97.52], "ans": [5]},
+        {"lyric": "Oneul ama naege lucky day",
+          "range": [97.52, 99.4], "ans": [5]}
+      ]
+    },
+    {"lyric": "Oneulttara deo haengbokhaejyeo get cool, get cool day",
+      "lyric_hangul": "오늘따라 더 행복해져 get cool, get cool day",
+      "lyric_translation": "I’m happier today get cool, get cool day",
+      "range": [99.4, 102.2], "ans": [5]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "웬일이야 오늘 정말 내가 가지고 있던 운을 다 써버린 걸까",
+      "lyric_translation": "What’s going on today? Seriously / Did I use all my luck?",
+      "parts": [
+        {"lyric": "Weniriya oneul jeongmal",
+          "range": [102.2, 104.62], "ans": [7]},
+        {"lyric": "Naega gajigo itteon uneul da sseobeorin geolkka",
+          "range": [104.62, 108.45], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "많은 고민하지 말자 오늘만큼은 이런 나도",
+      "lyric_translation": "Let’s not worry too much / Today, I will",
+      "parts": [
+        {"lyric": "Maneun gominhaji malja",
+          "range": [108.45, 111.09], "ans": [8]},
+        {"lyric": "Oneulmankeumeun ireon nado",
+          "range": [111.09, 113.54], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Get Cool 이 좋은 날 뭐가 더 필요해",
+      "lyric_translation": "Get cool / What else do I need on this fine day?",
+      "parts": [
+        {"lyric": "Get cool",
+          "range": [113.54, 117.42], "ans": [1]},
+        {"lyric": "I joeun nal mwoga deo piryohae",
+          "range": [117.42, 119.82], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Get Cool 내일 걱정 안 하며 날아갈 거야",
+      "lyric_translation": "Get cool / I won’t worry about tomorrow I’ll fly away",
+      "parts": [
+        {"lyric": "Get cool",
+          "range": [119.82, 124.29], "ans": [1]},
+        {"lyric": "Naeil geokjeong an hamyeo naragal geoya",
+          "range": [123.59, 126.83], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "오늘 난 fly into the sky, fly into the sky fly fly",
+      "lyric_translation": "Today I fly into the sky / Fly into the sky fly fly fly",
+      "parts": [
+        {"lyric": "Oneul nan fly into the sky",
+          "range": [126.83, 128.6], "ans": [1]},
+        {"lyric": "Fly into the sky fly fly fly",
+          "range": [128.6, 130.57], "ans": [1]}
+      ]
+    },
+    {"lyric": "Da jaldwae oneul mwonga dalla",
+      "lyric_hangul": "다 잘돼 오늘 뭔가 달라",
+      "lyric_translation": "Everything goes well today Something is different",
+      "range": [130.57, 133.16], "ans": [7]},
+    {
+      "lyric_hangul": "더 높게 fly into the sky, fly into the sky fly fly",
+      "lyric_translation": "Higher fly into the sky / Fly into the sky fly fly",
+      "parts": [
+        {"lyric": "Deo nopge fly into the sky",
+          "range": [133.16, 134.9], "ans": [1]},
+        {"lyric": "Fly into the sky fly fly",
+          "range": [134.9, 136.66], "ans": [1]}
+      ]
+    },
+    {"lyric": "So so hajiman unsu joeun nal",
+      "lyric_hangul": "So so 하지만 운수 좋은 날",
+      "lyric_translation": "So so but it’s a lucky day",
+      "range": [136.45, 139.4], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "작은 것으로 절경이고 장관인 걸 신이 주신 선물이야",
+      "lyric_translation": "Even small things are magnificent and spectacular / They’re god-given gifts",
+      "parts": [
+        {"lyric": "Jageun geoseuro jeolgyeongigo janggwanin geol",
+          "range": [139.4, 143.08], "ans": [7]},
+        {"lyric": "Shini jushin seonmuriya",
+          "range": [143.08, 146.0], "ans": [7]}
+      ]
+    },
+    {"lyric": "Bujok haji anchana manjokhaneun geol",
+      "lyric_hangul": "부족 하지 않잖아 만족하는 걸",
+      "lyric_translation": "I’m not short of them I’m satisfied",
+      "range": [145.66, 149.5], "ans": [7]},
+    {"lyric": "Ige baro get cooliya",
+      "lyric_hangul": "이게 바로 get cool 이야",
+      "lyric_translation": "This is get cool",
+      "range": [149.5, 152.91], "ans": [7]},
+    "",
+    {"lyric": "Ey, small things that matter",
+      "lyric_hangul": "Ey, small things that matter",
+      "lyric_translation": "Ey, small things that matter",
+      "range": [152.91, 154.57], "ans": [6]},
+    {"lyric": "Ey, little things that matter",
+      "lyric_hangul": "Ey, little things that matter",
+      "lyric_translation": "Ey, little things that matter",
+      "range": [154.57, 155.73], "ans": [6]},
+    {"lyric": "Every once in a while Imma feel so fly",
+      "lyric_hangul": "Every once in a while Imma feel so fly",
+      "lyric_translation": "Every once in a while Imma feel so fly",
+      "range": [155.73, 157.38], "ans": [6]},
+    {"lyric": "That’s cause there are subtle things like whoo",
+      "lyric_hangul": "That's cause there are subtle things like Whoo",
+      "lyric_translation": "That’s cause there are subtle things like whoo",
+      "range": [157.38, 159.04], "ans": [6]},
+    {"lyric": "Kicking the leaves in the autumn breeze",
+      "lyric_hangul": "Kicking the leaves in the Autumn breeze",
+      "lyric_translation": "Kicking the leaves in the Autumn breeze",
+      "range": [159.04, 160.53], "ans": [1]},
+    {"lyric": "Don’t forget about the sound they make",
+      "lyric_hangul": "Don't forget about the sound they make",
+      "lyric_translation": "Don’t forget about the sound they make",
+      "range": [160.53, 162.31], "ans": [1]},
+    {"lyric": "Doesn’t matter if the world is a cold place",
+      "lyric_hangul": "Doesn't matter if the world is a cold place",
+      "lyric_translation": "Doesn’t matter if the world is a cold place",
+      "range": [162.31, 163.56], "ans": [1]},
+    {"lyric": "Cause I’m getting cooler",
+      "lyric_hangul": "Cause I'm getting cooler",
+      "lyric_translation": "Cause I’m getting cooler",
+      "range": [163.56, 167.35], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "Get Cool 이 좋은 날 뭐가 더 필요해",
+      "lyric_translation": "Get cool / What else do I need on this fine day?",
+      "parts": [
+        {"lyric": "Get cool",
+          "range": [167.35, 171.44], "ans": [1]},
+        {"lyric": "I joeun nal mwoga deo piryohae",
+          "range": [170.74, 173.66], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Get Cool 내일 걱정 안 하며 날아갈 거야",
+      "lyric_translation": "Get cool / I won’t worry about tomorrow I’ll fly away",
+      "parts": [
+        {"lyric": "Get cool",
+          "range": [173.66, 177.95], "ans": [1]},
+        {"lyric": "Naeil geokjeong an hamyeo naragal geoya",
+          "range": [177.25, 180.22], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "오늘 난 fly into the sky, fly into the sky fly fly",
+      "lyric_translation": "Today I fly into the sky / Fly into the sky fly fly fly",
+      "parts": [
+        {"lyric": "Oneul nan fly into the sky",
+          "range": [180.22, 182.26], "ans": [1]},
+        {"lyric": "Fly into the sky fly fly fly",
+          "range": [182.26, 184.37], "ans": [1]}
+      ]
+    },
+    {"lyric": "Da jaldwae oneul mwonga dalla",
+      "lyric_hangul": "다 잘돼 오늘 뭔가 달라",
+      "lyric_translation": "Everything goes well today Something is different",
+      "range": [184.37, 186.78], "ans": []},
+    {
+      "lyric_hangul": "더 높게 fly into the sky, fly into the sky fly fly",
+      "lyric_translation": "Higher fly into the sky / Fly into the sky fly fly",
+      "parts": [
+        {"lyric": "Deo nopge fly into the sky",
+          "range": [186.78, 188.56], "ans": [1]},
+        {"lyric": "Fly into the sky fly fly",
+          "range": [188.56, 190.3], "ans": [1]}
+      ]
+    },
+    {"lyric": "So so hajiman unsu joeun nal",
+      "lyric_hangul": "So so 하지만 운수 좋은 날",
+      "lyric_translation": "So so but it’s a lucky day",
+      "range": [190.26, 195.0], "ans": []}
+  ]
+}

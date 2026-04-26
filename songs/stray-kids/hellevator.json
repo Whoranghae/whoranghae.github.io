@@ -1,0 +1,365 @@
+{
+  "name": "Hellevator\r",
+  "ogg": "sound/kpop/hellevator.ogg",
+  "id": "hellevator",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2020-03-18",
+  "album": "SKZ2020",
+  "cover": "css/images/covers/hellevator.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T03:04:13Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "내 삶은 밑바닥 낭떠러지 어두운 터널 속을 걷고 있어",
+      "lyric_translation": "My life was rock bottom, an edge of a cliff / I’m walking in a dark tunnel",
+      "parts": [
+        {"lyric": "Nae salmeun mitbadak nangtteoreoji",
+          "range": [2.24, 3.48], "ans": [7]},
+        {"lyric": "Eoduun teoneol sogeul geotgo isseo",
+          "range": [3.48, 9.11], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 잔인하고 두려운 하루를 홀로 버티고 있어",
+      "lyric_translation": "Cruel and fearful days / I’m enduring through alone",
+      "parts": [
+        {"lyric": "Naege janinhago duryeoun harureul",
+          "range": [9.11, 10.81], "ans": [7]},
+        {"lyric": "Hollo beotigo isseo",
+          "range": [10.81, 15.01], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Meoreojyeo ganeun gyoshilbokdo nasseon gil wie jijirido",
+      "lyric_hangul": "멀어져 가는 교실복도 낯선 길 위에 지지리도",
+      "lyric_translation": "The classroom hallways get farther away, I’m on unfamiliar paths",
+      "range": [17.57, 20.46], "ans": [3]},
+    {
+      "lyric_hangul": "복도 없지 내가 맞는 길을 가는가에 답 할 지도도",
+      "lyric_translation": "I’m so unlucky / On this path I’m on",
+      "parts": [
+        {"lyric": "Bokdo eopji",
+          "range": [20.46, 22.74], "ans": [3]},
+        {"lyric": "Naega matneun gireul ganeungae dab hal jidodo",
+          "range": [22.74, 24.97], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "하나 없이 위로 가는 길은 절대 다신 뒤로",
+      "lyric_translation": "I don’t even have a map / But I never want to turn around",
+      "parts": [
+        {"lyric": "Hana eopshi",
+          "range": [23.97, 24.39], "ans": [3]},
+        {"lyric": "Wiro ganeun gireun jeoldae dashin dwiro gagi",
+          "range": [24.39, 25.87], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "가기 싫은 막막한 미로야 피눈물 대신 피땀 흘리며 나를 위로해",
+      "lyric_translation": "It’s a maze / Shedding blood sweat instead of blood tears, I comfort myself",
+      "parts": [
+        {"lyric": "Shireun makmakhan miroya",
+          "range": [25.87, 26.37], "ans": [3]},
+        {"lyric": "Pinunmul daeshin pittam heullimyeo nareul wirohae",
+          "range": [26.13, 29.83], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "사람들은 내게 말해 그 정도의 고비는 지나가는 소나기라고",
+      "lyric_translation": "People tell me this kind of suffering / Is just a passing storm",
+      "parts": [
+        {"lyric": "Saramdeureun naege malhae geu jeongdoye gobineun",
+          "range": [29.83, 30.59], "ans": [3]},
+        {"lyric": "Jinaganeun sonagirago",
+          "range": [30.59, 33.1], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "성공을 낚으려면 두려워도 실패라는 덫을 깔라고",
+      "lyric_translation": "That if I want to succeed, even though I’m afraid / I need to set up a trap called failure",
+      "parts": [
+        {"lyric": "Seonggongeul nakkeuryeomyeon duryeowodo",
+          "range": [33.1, 33.6], "ans": [3]},
+        {"lyric": "Shilpaeraneun deocheul kkallago",
+          "range": [33.44, 36.53], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geurae naneun gotongiran mikkireul deobseok munchae",
+      "lyric_hangul": "그래 나는 고통이란 미끼를 덥석 문채",
+      "lyric_translation": "As I bit on the bait that is pain",
+      "range": [36.53, 39.5], "ans": [3]},
+    {
+      "lyric_hangul": "방황하는 거야 지친 열정의 날개를 잠시 접어둔 채",
+      "lyric_translation": "I’m wandering / As I put away my tired wings of passion",
+      "parts": [
+        {"lyric": "Banghwanghaneun geoya jichin yeoljeonge nalgaereul",
+          "range": [39.5, 40.98], "ans": [3]},
+        {"lyric": "Jamshi jeobeodun chae",
+          "range": [40.98, 41.62], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "내 삶은 밑바닥 낭떠러지 어두운 터널 속을 걷고 있어",
+      "lyric_translation": "My life was rock bottom, an edge of a cliff / I’m walking in a dark tunnel",
+      "parts": [
+        {"lyric": "Nae salmeun mitbadak nangtteoreoji",
+          "range": [41.62, 42.12], "ans": [7]},
+        {"lyric": "Eoduun teoneol sogeul geotgo isseo",
+          "range": [41.92, 47.03], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 잔인하고 두려운 하루를 홀로 버티고 있어",
+      "lyric_translation": "Cruel and fearful days / I’m enduring through alone",
+      "parts": [
+        {"lyric": "Naege janinhago duryeoun harureul",
+          "range": [47.03, 49.15], "ans": [2]},
+        {"lyric": "Hollo beotigo isseo",
+          "range": [49.15, 53.44], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "손을 내밀어도 날 잡아줄 사람은 아무도 없어",
+      "lyric_translation": "I hold out my hand / But no one is there to grab it",
+      "parts": [
+        {"lyric": "Soneul nae mireodo",
+          "range": [53.44, 54.08], "ans": [1]},
+        {"lyric": "Nal jabajul sarameun amudo eopseo",
+          "range": [54.08, 59.94], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 아픔 내 눈물을 타고 위로 빠져나가고 있어",
+      "lyric_translation": "I’m riding on my pain and my tears / As I try to escape above",
+      "parts": [
+        {"lyric": "Nae apeum nae nunmureul tago wiro",
+          "range": [59.94, 61.32], "ans": [5]},
+        {"lyric": "Ppajyeonagago isseo",
+          "range": [61.32, 67.02], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [67.02, 73.66], "ans": [5]},
+    {"lyric": "My hellevator",
+      "lyric_hangul": "My Hellevator",
+      "lyric_translation": "My hellevator",
+      "range": [73.66, 79.28], "ans": [8]},
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [79.28, 85.56], "ans": [1]},
+    {"lyric": "My hellevator",
+      "lyric_hangul": "My Hellevator",
+      "lyric_translation": "My hellevator",
+      "range": [85.56, 91.39], "ans": [5]},
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [91.39, 98.27], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "아무것도 없어 날 위한 손길은 걱정 하나 없이 차가운 말들뿐",
+      "lyric_translation": "There’s nothing / No one to care or worry about me / Only cold words",
+      "parts": [
+        {"lyric": "Amugeotto eopseo",
+          "range": [98.27, 98.79], "ans": [4]},
+        {"lyric": "Nal wihan songireun geokjeong",
+          "range": [98.79, 100.09], "ans": [4]},
+        {"lyric": "Hana eopshi chagaun maldeulppun",
+          "range": [100.09, 103.35], "ans": [4]}
+      ]
+    },
+    {"lyric": "Eongteori kkumeun jom jeobeo",
+      "lyric_hangul": "엉터리 꿈은 좀 접어",
+      "lyric_translation": "Telling me to give up on my dreams",
+      "range": [103.35, 105.68], "ans": [4]},
+    {
+      "lyric_hangul": "포기란 말들이 내 귀를 때려가며 절망감만 커져가",
+      "lyric_translation": "Those quitting words keep hitting my ear / Only despair grows",
+      "parts": [
+        {"lyric": "Pogiran maldeuri nae gwireul ttaeryeogamyeo",
+          "range": [105.68, 107.28], "ans": [4]},
+        {"lyric": "Jeolmanggamman keojyeoga",
+          "range": [107.28, 108.14], "ans": [4]}
+      ]
+    },
+    {"lyric": "Himangiran haneureul jubyeon sarame soneuro garinda",
+      "lyric_hangul": "희망이란 하늘을 주변 사람의 손으로 가린다",
+      "lyric_translation": "The hopeful sky only gets covered by other people’s hands",
+      "range": [108.14, 110.82], "ans": [4]},
+    "",
+    {"lyric": "Nal sallyeo gidohamyeo beotigo isseo",
+      "lyric_hangul": "날 살려 기도하며 버티고 있어",
+      "lyric_translation": "I’m praying to live as I try to endure",
+      "range": [110.82, 113.12], "ans": [5]},
+    {"lyric": "Nal jjaeryeoboneun ttagaun shiseondeure",
+      "lyric_hangul": "날 째려보는 따가운 시선들에",
+      "lyric_translation": "With the piercing eyes on me",
+      "range": [113.12, 115.38], "ans": [5]},
+    {
+      "lyric_hangul": "실성하지 하네 마네 잘 되어 봤자 누군가의 광대",
+      "lyric_translation": "I’m going insane / Even if I succeed",
+      "parts": [
+        {"lyric": "Shilseonghaji hane mane jal dweeo bwatja",
+          "range": [115.38, 116.88], "ans": [5]},
+        {"lyric": "Nugungaye gwangdae",
+          "range": [116.88, 117.57], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "로 밖에 안 남을 넌 가수라는 직업은 집어 쳐",
+      "lyric_translation": "I’ll be someone’s clown / So people tell me to give up on becoming a singer",
+      "parts": [
+        {"lyric": "Ro bakke an nameul",
+          "range": [117.57, 118.03], "ans": [5]},
+        {"lyric": "Neon gasuraneun jigeobeun jibeo chyeo",
+          "range": [118.03, 121.24], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "그 말을 들으며 약해져만 가는 내 자신을 밀쳐 더",
+      "lyric_translation": "I’m getting weak / But I keep pushing myself",
+      "parts": [
+        {"lyric": "Geu mareul deureumyeo yakhaejyeoman ganeun",
+          "range": [120.24, 120.76], "ans": [5]},
+        {"lyric": "Nae jashineul milchyeo deo",
+          "range": [120.76, 123.06], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "내 삶은 밑바닥 낭떠러지 어두운 터널 속을 걷고 있어",
+      "lyric_translation": "My life was rock bottom, an edge of a cliff / I’m walking in a dark tunnel",
+      "parts": [
+        {"lyric": "Nae salmeun mitbadak nangtteoreoji",
+          "range": [123.06, 123.44], "ans": [7]},
+        {"lyric": "Eoduun teoneol sogeul geotgo isseo",
+          "range": [123.44, 128.66], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 잔인하고 두려운 하루를 홀로 버티고 있어",
+      "lyric_translation": "Cruel and fearful days / I’m enduring through alone",
+      "parts": [
+        {"lyric": "Naege janinhago duryeoun harureul",
+          "range": [128.66, 130.7], "ans": [2]},
+        {"lyric": "Hollo beotigo isseo",
+          "range": [130.7, 134.84], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "손을 내밀어도 날 잡아줄 사람은 아무도 없어",
+      "lyric_translation": "I hold out my hand / But no one is there to grab it",
+      "parts": [
+        {"lyric": "Soneul nae mireodo",
+          "range": [134.84, 135.5], "ans": [1]},
+        {"lyric": "Nal jabajul sarameun amudo eopseo",
+          "range": [135.5, 141.0], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 아픔 내 눈물을 타고 위로 빠져나가고 있어",
+      "lyric_translation": "I’m riding on my pain and my tears / As I try to escape above",
+      "parts": [
+        {"lyric": "Nae apeum nae nunmureul tago wiro",
+          "range": [141.0, 142.86], "ans": [5]},
+        {"lyric": "Ppajyeonagago isseo",
+          "range": [142.86, 146.98], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [148.56, 154.91], "ans": [5]},
+    {"lyric": "My hellevator",
+      "lyric_hangul": "My Hellevator",
+      "lyric_translation": "My hellevator",
+      "range": [154.91, 160.27], "ans": [8]},
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [160.27, 167.13], "ans": [1]},
+    {"lyric": "My hellevator",
+      "lyric_hangul": "My Hellevator",
+      "lyric_translation": "My hellevator",
+      "range": [167.13, 172.88], "ans": [5]},
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [172.88, 175.27], "ans": [3]},
+    "",
+    {"lyric": "Chajanae chulguneun eodie",
+      "lyric_hangul": "찾아내 출구는 어디에",
+      "lyric_translation": "I’m trying to look for an exit",
+      "range": [175.27, 177.84], "ans": [6]},
+    {"lyric": "Eodum soge gachyeoitteon nareul kkeureonae",
+      "lyric_hangul": "어둠 속에 갇혀있던 나를 끌어내",
+      "lyric_translation": "Take myself out from being trapped in the darkness",
+      "range": [177.84, 180.52], "ans": [6]},
+    {"lyric": "Jom deo barakhae igoseul run away",
+      "lyric_hangul": "좀 더 발악해 이곳을 run away",
+      "lyric_translation": "I’m fighting harder, run away from this place",
+      "range": [180.52, 183.61], "ans": [6]},
+    {"lyric": "I’m on the hellevator nan ollagalge",
+      "lyric_hangul": "I'm on the Hellevator 난 올라갈게",
+      "lyric_translation": "I’m on the hellevator, I’m gonna go up",
+      "range": [183.61, 186.56], "ans": [6]},
+    {
+      "lyric_hangul": "어두웠던 내 과거 탈출해 내 깜깜했던 앞길을 비춰",
+      "lyric_translation": "I’m escaping from my dark past / Shining on my path ahead",
+      "parts": [
+        {"lyric": "Eoduwotteon nae gwageo talchulhae",
+          "range": [186.56, 188.31], "ans": [2]},
+        {"lyric": "Nae kkamkkamhaetteon apgireul bichwo",
+          "range": [188.31, 190.06], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "미쳐버릴 듯 지겨운 시간 잊혀져 버릴 듯 이 길을 뛰어",
+      "lyric_translation": "Tiresome times that drove me crazy / I’m running so I can forget",
+      "parts": [
+        {"lyric": "Michyeobeoril deut jigyeoun shigan ichyeojyeo",
+          "range": [190.06, 193.52], "ans": [2]},
+        {"lyric": "Beoril deut i gireul ttwieo",
+          "range": [193.52, 194.02], "ans": [2]}
+      ]
+    },
+    {"lyric": "Wemyeonhadeon saeroun shijage jongsoriga ullimyeo",
+      "lyric_hangul": "외면하던 새로운 시작의 종소리가 울리며",
+      "lyric_translation": "As the bell of a new start rings",
+      "range": [193.25, 194.91], "ans": [5]},
+    {
+      "lyric_hangul": "나는 올라탔지 내 손을 잡고 펜트하우스로 데려다줄 my Hellevator",
+      "lyric_translation": "I got on, hold my hand / And take me to the penthouse, my hellevator",
+      "parts": [
+        {"lyric": "Naneun ollatatji nae soneul jabgo",
+          "range": [194.91, 195.41], "ans": [5]},
+        {"lyric": "Penteuhauseuro deryeoda jul my hellevator",
+          "range": [195.25, 199.03], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [213.07, 219.82], "ans": [1]},
+    {"lyric": "My hellevator",
+      "lyric_hangul": "My Hellevator",
+      "lyric_translation": "My hellevator",
+      "range": [219.82, 225.59], "ans": [5]},
+    {"lyric": "I’m on a hellevator",
+      "lyric_hangul": "I'm on a Hellevator",
+      "lyric_translation": "I’m on a hellevator",
+      "range": [225.59, 228.9], "ans": [3]}
+  ]
+}

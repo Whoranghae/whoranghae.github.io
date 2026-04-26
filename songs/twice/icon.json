@@ -1,0 +1,409 @@
+{
+  "name": "ICON\r",
+  "ogg": "sound/kpop/icon.ogg",
+  "id": "icon",
+  "group": "twice",
+  "language": "en",
+  "released": "2021-11-12",
+  "album": "Formula of Love: O＋T=＜3",
+  "cover": "css/images/covers/icon.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:22Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah yeah yeah mmm",
+      "lyric_hangul": "Yeah, yeah, yeah, mmm",
+      "lyric_translation": "",
+      "range": [2.15, 6.98], "ans": [5]},
+    "",
+    {"lyric": "I’m over the top, so what",
+      "lyric_hangul": "I'm over the top, so what?",
+      "lyric_translation": "",
+      "range": [6.98, 9.22], "ans": [5]},
+    {"lyric": "I’m just tryna give ’em all the what they want",
+      "lyric_hangul": "I'm just tryna give 'em all the what they want",
+      "lyric_translation": "",
+      "range": [9.22, 13.54], "ans": [5]},
+    {"lyric": "No, I ain’t hard to love",
+      "lyric_hangul": "No, I ain't hard to love",
+      "lyric_translation": "",
+      "range": [13.54, 15.26], "ans": [7]},
+    {"lyric": "They know a thing like me is once in a lifetime",
+      "lyric_hangul": "They know a thing like me is once in a lifetime",
+      "lyric_translation": "",
+      "range": [15.26, 19.35], "ans": [7]},
+    "",
+    {"lyric": "Spotlight on me even when we laying in the dark",
+      "lyric_hangul": "Spotlight on me, even when we laying in the dark",
+      "lyric_translation": "",
+      "range": [19.35, 22.38], "ans": [6]},
+    {"lyric": "I don’t even mind ’em seeing all my battle scars",
+      "lyric_hangul": "I don't even mind 'em seeing all my battle scars",
+      "lyric_translation": "",
+      "range": [22.38, 25.9], "ans": [6]},
+    {"lyric": "Couple twists and turns they took me straight to where we are",
+      "lyric_hangul": "Couple twists and turns, they took me straight to where we are",
+      "lyric_translation": "",
+      "range": [25.9, 28.83], "ans": [8]},
+    {"lyric": "Outta the ashes, I’m coming alive",
+      "lyric_hangul": "Outta the ashes, I'm coming alive",
+      "lyric_translation": "",
+      "range": [28.83, 31.22], "ans": [8]},
+    "",
+    {"lyric": "I think that’s why they eyein me",
+      "lyric_hangul": "I think that's why they eyein' me",
+      "lyric_translation": "",
+      "range": [31.22, 33.94], "ans": [2]},
+    {
+      "lyric_hangul": "Watchin' me, my legacy",
+      "parts": [
+        {"lyric": "Watchin’ me",
+          "range": [33.94, 35.32], "ans": [2]},
+        {"lyric": "My legacy",
+          "range": [35.32, 37.79], "ans": [2]}
+      ]
+    },
+    {"lyric": "I took it to the top",
+      "lyric_hangul": "I took it to the top",
+      "lyric_translation": "",
+      "range": [37.79, 40.19], "ans": [9]},
+    {
+      "lyric_hangul": "From the start, never stop",
+      "parts": [
+        {"lyric": "From the start",
+          "range": [40.19, 41.53], "ans": [9]},
+        {"lyric": "Never stop",
+          "range": [41.53, 43.29], "ans": [9]}
+      ]
+    },
+    "",
+    {"lyric": "I ain’t going nowhere I’m an icon",
+      "lyric_hangul": "I ain't going nowhere, I'm an icon",
+      "lyric_translation": "",
+      "range": [43.29, 45.9], "ans": [1]},
+    {"lyric": "When all them other nobodies are long gone",
+      "lyric_hangul": "When all them other nobodies are long gone",
+      "lyric_translation": "",
+      "range": [45.9, 49.46], "ans": [1]},
+    {
+      "lyric_hangul": "I don't even need to turn the mic' on, ay-ya-ya-ya-ya",
+      "parts": [
+        {"lyric": "I don’t even need to turn the mic on",
+          "range": [49.46, 51.87], "ans": [1]},
+        {"lyric": "Ay ya ya ya ya",
+          "range": [51.87, 54.45], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Damn, I got it, I'm iconic",
+      "parts": [
+        {"lyric": "Damn I got it",
+          "range": [54.45, 55.55], "ans": [3]},
+        {"lyric": "I’m iconic",
+          "range": [55.55, 57.73], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Chasing the footsteps, you're tryna act too blessed",
+      "parts": [
+        {"lyric": "Chasing the footsteps",
+          "range": [57.73, 59.08], "ans": [4]},
+        {"lyric": "You’re tryna act too blessed",
+          "range": [59.08, 60.79], "ans": [4]}
+      ]
+    },
+    {"lyric": "Tryin’ too hard na na oo oo",
+      "lyric_hangul": "Tryin' too hard, na-na, ooh-ooh",
+      "lyric_translation": "",
+      "range": [60.79, 63.72], "ans": [4]},
+    {
+      "lyric_hangul": "But you best better stay calm, stop trying to be too on",
+      "parts": [
+        {"lyric": "But you best better stay calm",
+          "range": [63.72, 65.57], "ans": [6]},
+        {"lyric": "Stop trying be too on",
+          "range": [65.57, 67.5], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Damn, I got it, I'm iconic",
+      "parts": [
+        {"lyric": "Damn I got it",
+          "range": [67.5, 68.4], "ans": [3]},
+        {"lyric": "I’m iconic",
+          "range": [68.4, 72.21], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Ooh yeah yeah",
+      "lyric_hangul": "Ooh-ooh-ooh-ooh-ooh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [72.21, 75.29], "ans": [5]},
+    {"lyric": "Ooh yeah yeah",
+      "lyric_hangul": "Ooh-ooh-ooh-ooh-ooh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [75.29, 78.31], "ans": [5]},
+    {"lyric": "Ooh yeah",
+      "lyric_hangul": "Ooh-ooh-ooh-ooh-ooh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [78.31, 79.76], "ans": [5]},
+    {
+      "lyric_hangul": "Damn, I got it, I'm iconic",
+      "parts": [
+        {"lyric": "Damn I got it",
+          "range": [79.76, 81.16], "ans": [4]},
+        {"lyric": "I’m iconic",
+          "range": [81.16, 83.3], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Don't gotta tell me twice",
+      "parts": [
+        {"lyric": "Don’t gotta tell me twice",
+          "range": [83.3, 85.49], "ans": [7]},
+        {"lyric": "(Hmm)",
+          "range": [84.79, 86.11], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm just tryna give 'em all the what they like (like)",
+      "parts": [
+        {"lyric": "I’m just tryna give ’em all the what they like",
+          "range": [86.11, 88.94], "ans": [7]},
+        {"lyric": "(Like)",
+          "range": [88.24, 89.97], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Got me so up, I'm fly (yeah)",
+      "parts": [
+        {"lyric": "Got me so up, I’m fly",
+          "range": [89.97, 92.01], "ans": [1]},
+        {"lyric": "(Ya)",
+          "range": [91.31, 92.5], "ans": [5]}
+      ]
+    },
+    {"lyric": "Up in a lifted state of mind",
+      "lyric_hangul": "Up in a lifted state of mind (yeah)",
+      "lyric_translation": "",
+      "range": [92.5, 95.32], "ans": [1]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Imagine you living the high life, every second of your life",
+      "parts": [
+        {"lyric": "Imagine you living the high life",
+          "range": [95.32, 96.93], "ans": [8]},
+        {"lyric": "Every second of your life",
+          "range": [96.93, 99.09], "ans": [8]}
+      ]
+    },
+    {"lyric": "Everything better I’m loving the view from the high rise",
+      "lyric_hangul": "Everything better, I'm loving the view from the high rise",
+      "lyric_translation": "",
+      "range": [99.09, 101.85], "ans": [8]},
+    {
+      "lyric_hangul": "Even when it's high tide, I know that you wanna",
+      "parts": [
+        {"lyric": "Even when it’s high tide",
+          "range": [101.85, 103.29], "ans": [8]},
+        {"lyric": "I know that you wanna",
+          "range": [103.29, 105.06], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Get into the middle of my ocean, you gotta",
+      "parts": [
+        {"lyric": "Get into the middle of my ocean",
+          "range": [105.06, 107.12], "ans": [8]},
+        {"lyric": "You gotta",
+          "range": [107.12, 108.36], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Gimme all my props 'cause, baby, I'm a hustla",
+      "parts": [
+        {"lyric": "Gimme all my props cuz",
+          "range": [108.36, 109.22], "ans": [8]},
+        {"lyric": "Baby I’m a hustla",
+          "range": [109.22, 111.4], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "When they talk about me they all saying, \"Oh, I love her!\"",
+      "parts": [
+        {"lyric": "When they talk about me they all saying",
+          "range": [111.4, 112.94], "ans": [8]},
+        {"lyric": "＂Oh, I love her!＂",
+          "range": [112.94, 114.5], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "I ain't seeing no lies, look here, I'm the highlight",
+      "parts": [
+        {"lyric": "I ain’t seeing no lies",
+          "range": [113.76, 116.31], "ans": [8]},
+        {"lyric": "Look here I’m the highlight",
+          "range": [116.31, 117.83], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "If you had my love, you'd love me for your whole life",
+      "parts": [
+        {"lyric": "If you had my love",
+          "range": [117.83, 118.96], "ans": [8]},
+        {"lyric": "You’d love me for your whole life",
+          "range": [118.96, 121.12], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I think that's why they eyein' me",
+      "parts": [
+        {"lyric": "I think that’s why they eyein me",
+          "range": [121.12, 122.11], "ans": [2]},
+        {"lyric": "(Eyein)",
+          "range": [121.41, 123.35], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Watchin' me, my legacy",
+      "parts": [
+        {"lyric": "Watchin’ me",
+          "range": [123.35, 124.31], "ans": [2]},
+        {"lyric": "My legacy",
+          "range": [124.31, 125.26], "ans": [2]},
+        {"lyric": "(Legacy)",
+          "range": [124.56, 127.15], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I took it to the top",
+      "parts": [
+        {"lyric": "I took it to the top",
+          "range": [127.15, 129.2], "ans": [9]},
+        {"lyric": "(Top)",
+          "range": [128.5, 129.74], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "From the start, never stop",
+      "parts": [
+        {"lyric": "From the start",
+          "range": [129.74, 130.5], "ans": [9]},
+        {"lyric": "Never stop",
+          "range": [130.5, 131.49], "ans": [9]},
+        {"lyric": "(Never stop)",
+          "range": [130.79, 133.16], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I ain't going nowhere, I'm an icon",
+      "parts": [
+        {"lyric": "I ain’t going nowhere I’m an icon",
+          "range": [133.16, 134.52], "ans": [1]},
+        {"lyric": "(I)",
+          "range": [134.3, 135.41], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "When all them other nobodies are long gone",
+      "parts": [
+        {"lyric": "When all them other nobodies are long gone",
+          "range": [135.41, 138.39], "ans": [1]},
+        {"lyric": "(Gone)",
+          "range": [137.69, 138.9], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't even need to turn the mic on, ay-ya-ya-ya-ya",
+      "parts": [
+        {"lyric": "I don’t even need to turn the mic on",
+          "range": [138.9, 141.26], "ans": [1]},
+        {"lyric": "Ay ya ya ya ya",
+          "range": [141.26, 144.19], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Damn, I got it, I'm iconic",
+      "parts": [
+        {"lyric": "Damn I got it",
+          "range": [144.19, 145.15], "ans": [3]},
+        {"lyric": "I’m iconic",
+          "range": [145.15, 147.26], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Chasing the footsteps, you're tryna act too blessed",
+      "parts": [
+        {"lyric": "Chasing the footsteps",
+          "range": [147.26, 148.69], "ans": [4]},
+        {"lyric": "You’re tryna act too blessed",
+          "range": [148.69, 150.17], "ans": [4]},
+        {"lyric": "(Blessed)",
+          "range": [149.47, 150.47], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Tryin' too hard, na-na, ooh-ooh (ooh)",
+      "parts": [
+        {"lyric": "Tryin’ too hard na na oo oo",
+          "range": [150.47, 152.9], "ans": [4]},
+        {"lyric": "(Ooh)",
+          "range": [152.2, 153.17], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "But you best better stay calm, stop trying to be too on",
+      "parts": [
+        {"lyric": "But you best better stay calm",
+          "range": [153.17, 155.13], "ans": [6]},
+        {"lyric": "Stop trying be too on",
+          "range": [155.13, 156.74], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Damn, I got it, I'm iconic",
+      "parts": [
+        {"lyric": "Damn I got it",
+          "range": [156.74, 158.38], "ans": [7]},
+        {"lyric": "I’m iconic",
+          "range": [158.38, 159.5], "ans": [7]},
+        {"lyric": "(Oh)",
+          "range": [158.8, 162.12], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Ooh yeah yeah",
+      "lyric_hangul": "Ooh-ooh-ooh-ooh-ooh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [162.12, 165.24], "ans": [5]},
+    {
+      "lyric_hangul": "Ooh-ooh-ooh-ooh-ooh, yeah, yeah (yeah, yeah, yeah, yeah, yeah)",
+      "parts": [
+        {"lyric": "Ooh yeah yeah",
+          "range": [165.24, 166.45], "ans": [5]},
+        {"lyric": "(Yeah yeah yeah yeah yeah)",
+          "range": [165.75, 168.66], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ooh yeah",
+      "lyric_hangul": "Ooh-ooh-ooh-ooh-ooh, yeah, yeah",
+      "lyric_translation": "",
+      "range": [168.66, 169.75], "ans": [5]},
+    {
+      "lyric_hangul": "Damn, I got it, I'm iconic",
+      "parts": [
+        {"lyric": "Damn I got it",
+          "range": [169.75, 170.79], "ans": [3]},
+        {"lyric": "I’m iconic",
+          "range": [170.79, 174.21], "ans": [3]}
+      ]
+    }
+  ]
+}

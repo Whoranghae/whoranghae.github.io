@@ -1,0 +1,289 @@
+{
+  "name": "21:29\r",
+  "ogg": "sound/kpop/2129.ogg",
+  "id": "2129",
+  "group": "twice",
+  "language": "ko",
+  "released": "2019-09-23",
+  "album": "Feel Special",
+  "cover": "css/images/covers/2129.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T23:37:27Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ah-ah, oh-oh-oh-oh",
+      "lyric_hangul": "Ah-ah, oh-oh-oh-oh",
+      "lyric_translation": "",
+      "range": [3.91, 11.76], "ans": []},
+    {"lyric": "Oh-oh, oh-oh",
+      "lyric_hangul": "Oh-oh, oh-oh",
+      "lyric_translation": "",
+      "range": [11.76, 16.09], "ans": []},
+    {
+      "lyric_hangul": "This is for you (This is for you, for you)",
+      "lyric_translation": "(Oh oh oh oh) / This is for you / (This is for you, for you)",
+      "parts": [
+        {"lyric": "(Oh oh oh oh)",
+          "range": [16.09, 17.06], "ans": [1]},
+        {"lyric": "This is for you",
+          "range": [16.36, 19.78], "ans": [3]},
+        {"lyric": "(This is for you, for you)",
+          "range": [19.08, 24.39], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "You're my dream (Ah, ah)",
+      "lyric_translation": "You’re my dream / (Oh oh)",
+      "parts": [
+        {"lyric": "You’re my dream",
+          "range": [24.39, 27.06], "ans": [3]},
+        {"lyric": "(Oh oh)",
+          "range": [26.36, 32.07], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Neomcheo beorin i mam eotteoke jeonhalkka",
+      "lyric_hangul": "넘쳐버린 이 맘 어떻게 전할까",
+      "lyric_translation": "How can I express my overflowing heart",
+      "range": [32.07, 39.03], "ans": [6]},
+    {"lyric": "Jogeum seotuljido molla",
+      "lyric_hangul": "조금 서툴지도 몰라",
+      "lyric_translation": "Maybe I’m a little clumsy",
+      "range": [39.03, 43.49], "ans": [6]},
+    {"lyric": "Ije nae mareul deureojullaeyo",
+      "lyric_hangul": "이제 내 말을 들어줄래요?",
+      "lyric_translation": "Now, I want you to listen to me",
+      "range": [43.49, 47.61], "ans": [6]},
+    "",
+    {"lyric": "Naege haejun hanahana",
+      "lyric_hangul": "내게 해준 하나하나",
+      "lyric_translation": "Everything you’ve done for me",
+      "range": [47.61, 51.6], "ans": [9]},
+    {"lyric": "Modeun geol gieokae na",
+      "lyric_hangul": "모든 걸 기억해 나",
+      "lyric_translation": "I remember it all",
+      "range": [51.6, 54.6], "ans": [9]},
+    {"lyric": "Gomapda haejuneun neo",
+      "lyric_hangul": "고맙다 해주는 너",
+      "lyric_translation": "You saying thank you to me",
+      "range": [54.6, 58.05], "ans": [2]},
+    {"lyric": "Nal ttatteutage hae",
+      "lyric_hangul": "날 따뜻하게 해",
+      "lyric_translation": "It keeps me warm",
+      "range": [58.05, 62.45], "ans": [2]},
+    "",
+    {"lyric": "Kkumieodo joa",
+      "lyric_hangul": "꿈이어도 좋아 (This is for you)",
+      "lyric_translation": "Even if it’s a dream, I like it",
+      "range": [62.45, 66.65], "ans": [1]},
+    {"lyric": "Naeireun geu jarie",
+      "lyric_hangul": "내일은 그 자리에",
+      "lyric_translation": "Tomorrow, I’ll be there",
+      "range": [66.65, 70.55], "ans": [1]},
+    {"lyric": "Niga eoptta haedo",
+      "lyric_hangul": "네가 없다 해도 (You're my dream)",
+      "lyric_translation": "Even if you’re not",
+      "range": [70.55, 75.18], "ans": [5]},
+    {"lyric": "Gwaenchana neoreul I’ll remember",
+      "lyric_hangul": "괜찮아 너를, I'll remember",
+      "lyric_translation": "That’s okay, I’ll remember you",
+      "range": [75.18, 79.73], "ans": [5]},
+    {
+      "lyric_hangul": "조금씩 조금씩 채워간 우리 추억",
+      "lyric_translation": "Little by little / Our memories piled up",
+      "parts": [
+        {"lyric": "Jogeumsshik jogeumsshik",
+          "range": [79.73, 83.13], "ans": [7]},
+        {"lyric": "Chaeweogan uri chueok",
+          "range": [83.13, 87.52], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금처럼 (This is for you) 이 모습 그대로 언제나 지켜갈게",
+      "lyric_translation": "I will always keep them / As they were",
+      "parts": [
+        {"lyric": "Jigeumcheoreom i moseup geudaero",
+          "range": [87.52, 92.37], "ans": [8]},
+        {"lyric": "Eonjena jikyeogalkke",
+          "range": [92.37, 97.08], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Nuneuroman nege",
+      "lyric_hangul": "눈으로만 네게",
+      "lyric_translation": "With your eyes only",
+      "range": [97.08, 99.13], "ans": [4]},
+    {"lyric": "Jeonhaejijin aneul kkeol araseo",
+      "lyric_hangul": "전해지진 않을 걸 알아서",
+      "lyric_translation": "I know it won’t pass onto you",
+      "range": [99.13, 105.3], "ans": [4]},
+    {"lyric": "Ganjeolhan ni maeum",
+      "lyric_hangul": "간절한 네 마음 (하나둘씩)",
+      "lyric_translation": "So I’ll give back your heart",
+      "range": [105.3, 107.72], "ans": [3]},
+    {"lyric": "Hanadulsshik dollyeojugopa",
+      "lyric_hangul": "하나둘씩 돌려주고파",
+      "lyric_translation": "One by one",
+      "range": [107.72, 111.63], "ans": [3]},
+    "",
+    {"lyric": "Geujeo jageun seonmuriya",
+      "lyric_hangul": "그저 작은 선물이야",
+      "lyric_translation": "It’s only a small gift",
+      "range": [111.63, 115.68], "ans": [9]},
+    {"lyric": "Ireon nal bada jullae",
+      "lyric_hangul": "이런 날 받아줄래",
+      "lyric_translation": "Can you accept me like that?",
+      "range": [115.68, 118.93], "ans": [9]},
+    {"lyric": "Damawatteon jageun mal",
+      "lyric_hangul": "담아왔던 작은 말",
+      "lyric_translation": "A small word I had in my mind",
+      "range": [118.93, 121.95], "ans": [2]},
+    {"lyric": "Ireon naijiman",
+      "lyric_hangul": "이런 나이지만",
+      "lyric_translation": "It’s me, but",
+      "range": [121.95, 126.63], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Kkumieodo joa",
+      "lyric_hangul": "꿈이어도 좋아 (This is for you)",
+      "lyric_translation": "Even if it’s a dream, I like it",
+      "range": [126.63, 130.64], "ans": [1]},
+    {"lyric": "Naeireun geu jarie",
+      "lyric_hangul": "내일은 그 자리에",
+      "lyric_translation": "Tomorrow, I’ll be there",
+      "range": [130.64, 134.48], "ans": [1]},
+    {"lyric": "Niga eoptta haedo",
+      "lyric_hangul": "네가 없다 해도 (You're my dream)",
+      "lyric_translation": "Even if you’re not",
+      "range": [134.48, 139.08], "ans": [5]},
+    {"lyric": "Gwaenchana neoreul I’ll remember",
+      "lyric_hangul": "괜찮아 너를, I'll remember",
+      "lyric_translation": "That’s okay, I’ll remember you",
+      "range": [139.08, 143.66], "ans": [5]},
+    {
+      "lyric_hangul": "조금씩 조금씩 채워간 우리 추억",
+      "lyric_translation": "Little by little / Our memories piled up",
+      "parts": [
+        {"lyric": "Jogeumsshik jogeumsshik",
+          "range": [143.66, 147.16], "ans": [7]},
+        {"lyric": "Chaeweogan uri chueok",
+          "range": [147.16, 151.33], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금처럼 (This is for you, 지금처럼) 이 모습 그대로 언제나 지켜갈게",
+      "lyric_translation": "I will always keep them / As they were",
+      "parts": [
+        {"lyric": "Jigeumcheoreom i moseup geudaero",
+          "range": [151.33, 156.35], "ans": [8]},
+        {"lyric": "Eonjena jikyeogalkke",
+          "range": [156.35, 161.14], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Neon nae deokbunirae",
+      "lyric_hangul": "넌 내 덕분이래",
+      "lyric_translation": "You said it’s thanks to me",
+      "range": [161.14, 165.2], "ans": [3]},
+    {"lyric": "Neon naega jeonburae",
+      "lyric_hangul": "넌 내가 전부래",
+      "lyric_translation": "You said I was everything",
+      "range": [165.2, 169.26], "ans": [4]},
+    {
+      "lyric_hangul": "날 안아준 말 다시 너에게 for you (You)",
+      "lyric_translation": "The words that hugged me again / For you",
+      "parts": [
+        {"lyric": "Nal ana jun mal dashi neoyege",
+          "range": [169.26, 172.26], "ans": [6]},
+        {"lyric": "For you",
+          "range": [172.26, 176.05], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "This is for you (This is for you, ooh ooh)",
+      "lyric_translation": "This is for you (You) / (This is for you oh oh)",
+      "parts": [
+        {"lyric": "This is for you",
+          "range": [176.05, 179.01], "ans": [4]},
+        {"lyric": "(You)",
+          "range": [178.31, 180.7], "ans": [6]},
+        {"lyric": "(This is for you oh oh)",
+          "range": [180.0, 184.21], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "You're my dream (You're my dream, uh)",
+      "lyric_translation": "You’re my dream / (You’re my dream oh)",
+      "parts": [
+        {"lyric": "You’re my dream",
+          "range": [184.21, 186.96], "ans": [3]},
+        {"lyric": "(You’re my dream oh)",
+          "range": [186.26, 190.58], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "혹시 우리 머나먼 (This is for you)",
+      "lyric_translation": "Even if it’s a / (This is for you oh)",
+      "parts": [
+        {"lyric": "Hokshi uri meonameon",
+          "range": [190.58, 191.99], "ans": [1]},
+        {"lyric": "(This is for you)",
+          "range": [191.29, 192.99], "ans": [4]},
+        {"lyric": "(This is for you oh)",
+          "range": [192.29, 195.15], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "추억이 되더라도 (추억이 되더라도)",
+      "lyric_translation": "Faded memory for us",
+      "parts": [
+        {"lyric": "Chueogi dwedeorado",
+          "range": [195.15, 197.76], "ans": [1]},
+        {"lyric": "(chueogi dwedeorado)",
+          "range": [197.06, 198.59], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "언제든 기분 좋은 (You're my dream)",
+      "lyric_translation": "You can always take me away",
+      "parts": [
+        {"lyric": "Eonjedeun gibun joeun",
+          "range": [198.59, 201.13], "ans": [2]},
+        {"lyric": "(You’re my dream)",
+          "range": [200.43, 202.93], "ans": [3]}
+      ]
+    },
+    {"lyric": "Gieogeuro nal kkeonae jweo",
+      "lyric_hangul": "기억으로 날 꺼내줘",
+      "lyric_translation": "With a good memory",
+      "range": [202.93, 207.61], "ans": [2]},
+    {
+      "lyric_hangul": "우리의 시간들 희미해져도",
+      "lyric_translation": "Even if our time / Is running out",
+      "parts": [
+        {"lyric": "Uriye shigandeul",
+          "range": [207.61, 211.61], "ans": [9]},
+        {"lyric": "Himihaejeodo",
+          "range": [211.61, 215.57], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "약속할게 (This is for you) 사라지지 않게 모두 다 간직할게",
+      "lyric_translation": "I promise, I’ll keep it / So we won’t disappear",
+      "parts": [
+        {"lyric": "Yaksokalkke sarajiji anke",
+          "range": [215.57, 220.77], "ans": [5]},
+        {"lyric": "Modu da ganjikalkke",
+          "range": [220.77, 224.43], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "This is for you",
+      "lyric_hangul": "This is for you",
+      "lyric_translation": "This is for you",
+      "range": [224.29, 228.91], "ans": [3, 4]}
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "name": "Trouble\r",
+  "ogg": "sound/kpop/trouble.ogg",
+  "id": "trouble",
+  "group": "twice",
+  "language": "ko",
+  "released": "2022-08-26",
+  "album": "Between 1 & 2",
+  "cover": "css/images/covers/trouble.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:52Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Dolikil su eopseo imi urin",
+      "lyric_hangul": "돌이킬 수 없어 이미 우린",
+      "lyric_translation": "There’s no turning back",
+      "range": [3.26, 7.2], "ans": [5]},
+    {"lyric": "Aseulhan juldarigi soge Yeah",
+      "lyric_hangul": "아슬한 줄다리기 속에, yeah",
+      "lyric_translation": "We are already in this nervous tug of war, yeah",
+      "range": [7.2, 10.97], "ans": [5]},
+    {
+      "lyric_hangul": "우린 서로를 끌어당겨, baby, oh no, oh no",
+      "lyric_translation": "We pull each other / Baby oh no oh no",
+      "parts": [
+        {"lyric": "Urin seororeul kkeuleodanggyeo",
+          "range": [10.97, 13.69], "ans": [1]},
+        {"lyric": "Baby oh no oh no",
+          "range": [13.69, 15.86], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Hey, we're in trouble (let's go)",
+      "lyric_translation": "Hey we’re in trouble / Let’s go",
+      "parts": [
+        {"lyric": "Hey we’re in trouble",
+          "range": [15.86, 17.67], "ans": [1]},
+        {"lyric": "Let’s go",
+          "range": [16.97, 18.35], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Cheoeum bon neukkimeun Feel so right",
+      "lyric_hangul": "처음 본 느낌은 feel so right",
+      "lyric_translation": "The first feeling is feel so right",
+      "range": [18.21, 21.55], "ans": [7]},
+    {"lyric": "Jeonyuri nal kkwak kkeuleoana",
+      "lyric_hangul": "전율이 날 꽉 끌어안아 (oh, yeah, yeah)",
+      "lyric_translation": "The thrill surrounds me",
+      "range": [21.55, 26.1], "ans": [7]},
+    {"lyric": "Gyeonggodeunge buri kyeojyeo beoryeosseuni",
+      "lyric_hangul": "경고등에 불이 켜져 버렸으니",
+      "lyric_translation": "As the warning light has been turned on",
+      "range": [26.1, 29.85], "ans": [2]},
+    {
+      "lyric_hangul": "솔직하게 난 stuck on you, oh, yeah",
+      "lyric_translation": "Oh yeah yeah / Honestly, I stuck on you, oh yeah",
+      "parts": [
+        {"lyric": "Oh yeah yeah",
+          "range": [29.85, 31.07], "ans": [2]},
+        {"lyric": "Soljikhage nan Stuck on you oh yeah",
+          "range": [31.07, 34.24], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Dolikil su eopseo imi urin",
+      "lyric_hangul": "돌이킬 수 없어 이미 우린",
+      "lyric_translation": "There’s no turning back",
+      "range": [34.24, 38.45], "ans": [4]},
+    {"lyric": "Aseulhan juldarigi soge Yeah",
+      "lyric_hangul": "아슬한 줄다리기 속에, yeah",
+      "lyric_translation": "We are already in this nervous tug of war, yeah",
+      "range": [38.45, 41.87], "ans": [4]},
+    {
+      "lyric_hangul": "우린 서로를 끌어당겨, baby, oh no, oh no",
+      "lyric_translation": "We pull each other / Baby oh no oh no",
+      "parts": [
+        {"lyric": "Urin seororeul kkeuleodanggyeo",
+          "range": [41.87, 44.89], "ans": [9]},
+        {"lyric": "Baby oh no oh no",
+          "range": [44.89, 46.97], "ans": [9]}
+      ]
+    },
+    {"lyric": "Hey we’re in trouble",
+      "lyric_hangul": "Hey, we're in trouble",
+      "lyric_translation": "Hey we’re in trouble",
+      "range": [46.69, 48.92], "ans": [9]},
+    "",
+    {"lyric": "Baby we’re in trouble trouble",
+      "lyric_hangul": "Baby, we're in trouble, trouble",
+      "lyric_translation": "Baby we’re in trouble trouble",
+      "range": [48.92, 51.49], "ans": [1]},
+    {
+      "lyric_hangul": "So you're good for me, 이끌린 날 can't control",
+      "lyric_translation": "So you’re good for me / I can’t control the attraction",
+      "parts": [
+        {"lyric": "So you’re good for me",
+          "range": [51.49, 54.13], "ans": [1]},
+        {"lyric": "Ikkeullin nal Can’t control",
+          "range": [53.47, 56.19], "ans": [1]}
+      ]
+    },
+    {"lyric": "Tto ne apeman seomyeon I’m terrible babe",
+      "lyric_hangul": "또 네 앞에만 서면, I'm terrible, babe",
+      "lyric_translation": "When I’m in front of you again, I’m terrible, babe",
+      "range": [56.19, 59.92], "ans": [2]},
+    {"lyric": "You got me I think we’re in trouble",
+      "lyric_hangul": "You got me, I think we're in trouble, baby",
+      "lyric_translation": "You got me I think we’re in trouble",
+      "range": [59.92, 62.93], "ans": [2]},
+    {"lyric": "Baby yeah that’s trouble",
+      "lyric_hangul": "Yeah, that's trouble",
+      "lyric_translation": "Baby yeah that’s trouble",
+      "range": [62.93, 64.25], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "I like this trouble (trouble, yeah)",
+      "lyric_translation": "I like this trouble / I like this trouble / Woo wee woo wee woo",
+      "parts": [
+        {"lyric": "I like this trouble",
+          "range": [64.25, 66.21], "ans": [8]},
+        {"lyric": "Woo wee woo wee woo",
+          "range": [65.51, 68.46], "ans": [1]}
+      ]
+    },
+    {"lyric": "Trouble yeah",
+      "lyric_hangul": "I like this trouble (trouble, yeah)",
+      "lyric_translation": "Trouble yeah",
+      "range": [68.46, 72.46], "ans": [9]},
+    {"lyric": "I like it (na, na, na, na, baby, T-W-I-C-E)",
+      "lyric_hangul": "I like it (na, na, na, na, baby, T-W-I-C-E)",
+      "lyric_translation": "",
+      "range": [72.46, 76.22], "ans": []},
+    "",
+    {
+      "lyric_hangul": "I like this trouble (trouble), trouble (trouble)",
+      "lyric_translation": "I like this trouble / Trouble yeah / Na na na na na / Baby T.W.I.C.E",
+      "parts": [
+        {"lyric": "I like this trouble",
+          "range": [76.22, 77.77], "ans": [8]},
+        {"lyric": "Trouble yeah",
+          "range": [77.07, 78.41], "ans": [9]},
+        {"lyric": "Na na na na na",
+          "range": [77.87, 78.81], "ans": [4]},
+        {"lyric": "Baby T.W.I.C.E",
+          "range": [78.11, 79.27], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "I like this trouble",
+      "lyric_hangul": "I like this trouble (trouble, trouble)",
+      "lyric_translation": "I like this trouble",
+      "range": [79.27, 82.42], "ans": [7]},
+    {"lyric": "Gamchweo bwatja geugeon Fake",
+      "lyric_hangul": "감춰 봤자 그건 fake (ayy)",
+      "lyric_translation": "Even if you hide it, that’s fake",
+      "range": [82.42, 84.36], "ans": [8]},
+    {"lyric": "Ppajin hamjeongeun Sweet cake",
+      "lyric_hangul": "빠진 함정은 sweet cake (yeah, yeah)",
+      "lyric_translation": "The trap that you fell into is sweet cake",
+      "range": [84.36, 86.4], "ans": [8]},
+    {
+      "lyric_hangul": "You cannot resist this, cannot miss this, such a bliss",
+      "lyric_translation": "You cannot resist this / Cannot miss this / Such a bliss",
+      "parts": [
+        {"lyric": "You cannot resist this",
+          "range": [86.4, 87.44], "ans": [8]},
+        {"lyric": "Cannot miss this",
+          "range": [87.44, 88.18], "ans": [8]},
+        {"lyric": "Such a bliss",
+          "range": [88.18, 88.58], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'ma put it down, down, oh, yeah, better kiss, kiss",
+      "lyric_translation": "I’mma put it down down / Oh yeah better kiss kiss",
+      "parts": [
+        {"lyric": "I’mma put it down down",
+          "range": [88.44, 89.66], "ans": [8]},
+        {"lyric": "Oh yeah better kiss kiss",
+          "range": [89.66, 90.99], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "Wiheomhalsurok deo deo",
+      "lyric_hangul": "위험할수록 더, 더",
+      "lyric_translation": "The more dangerous it is, more more",
+      "range": [90.99, 92.96], "ans": [3]},
+    {"lyric": "Ppajilsurok deo deo",
+      "lyric_hangul": "빠질수록 더, 더",
+      "lyric_translation": "The more you fall, more more",
+      "range": [92.96, 94.76], "ans": [3]},
+    {
+      "lyric_hangul": "Falling down, falling down, falling down low",
+      "lyric_translation": "Falling down / Falling down / Falling down low",
+      "parts": [
+        {"lyric": "Falling down",
+          "range": [94.76, 95.72], "ans": [6]},
+        {"lyric": "Falling down low",
+          "range": [95.72, 96.42], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Beoseonal su eomneungeol",
+      "lyric_hangul": "벗어날 수 없는걸",
+      "lyric_translation": "You can’t escape",
+      "range": [96.31, 98.69], "ans": [5]},
+    {"lyric": "Dolikil su eopseo imi urin",
+      "lyric_hangul": "돌이킬 수 없어 이미 우린",
+      "lyric_translation": "There’s no turning back",
+      "range": [98.69, 102.73], "ans": [6]},
+    {"lyric": "Aseulhan juldarigi soge Yeah",
+      "lyric_hangul": "아슬한 줄다리기 속에, yeah (we're in trouble, yeah)",
+      "lyric_translation": "We are already in this nervous tug of war, yeah",
+      "range": [102.73, 106.76], "ans": [6]},
+    {
+      "lyric_hangul": "우린 서로를 끌어당겨, baby, oh no, oh no (oh no)",
+      "lyric_translation": "We pull each other / Baby oh no oh no",
+      "parts": [
+        {"lyric": "Urin seororeul kkeuleodanggyeo",
+          "range": [106.76, 109.29], "ans": [1]},
+        {"lyric": "Baby oh no oh no",
+          "range": [109.29, 112.05], "ans": [1]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Hey we’re in trouble",
+      "lyric_hangul": "Hey, we're in trouble",
+      "lyric_translation": "Hey we’re in trouble",
+      "range": [111.57, 113.22], "ans": [1]},
+    {"lyric": "Baby we’re in trouble trouble",
+      "lyric_hangul": "Baby, we're in trouble, trouble",
+      "lyric_translation": "Baby we’re in trouble trouble",
+      "range": [113.22, 116.33], "ans": [4]},
+    {
+      "lyric_hangul": "So you're good for me, 이끌린 날 can't control",
+      "lyric_translation": "So you’re good for me / I can’t control the attraction",
+      "parts": [
+        {"lyric": "So you’re good for me",
+          "range": [116.33, 118.51], "ans": [4]},
+        {"lyric": "Ikkeullin nal Can’t control",
+          "range": [117.75, 120.44], "ans": [4]}
+      ]
+    },
+    {"lyric": "Tto ne apeman seomyeon I’m terrible babe",
+      "lyric_hangul": "또 네 앞에만 서면, I'm terrible, babe",
+      "lyric_translation": "When I’m in front of you again, I’m terrible, babe",
+      "range": [120.44, 124.33], "ans": [5]},
+    {"lyric": "You got me I think we’re in trouble",
+      "lyric_hangul": "You got me, I think we're in trouble, baby",
+      "lyric_translation": "You got me I think we’re in trouble",
+      "range": [124.33, 127.29], "ans": [5]},
+    "",
+    {"lyric": "Baby yeah that’s trouble",
+      "lyric_hangul": "Yeah, that's trouble",
+      "lyric_translation": "Baby yeah that’s trouble",
+      "range": [127.29, 129.19], "ans": [5]},
+    {
+      "lyric_hangul": "I like this trouble (trouble, yeah)",
+      "lyric_translation": "I like this trouble / I like this trouble",
+      "parts": [
+        {"lyric": "I like this trouble",
+          "range": [129.19, 130.56], "ans": [7]},
+        {"lyric": "I like this trouble",
+          "range": [129.86, 132.8], "ans": [3]}
+      ]
+    },
+    {"lyric": "Trouble yeah",
+      "lyric_hangul": "I like this trouble (trouble, yeah)",
+      "lyric_translation": "Trouble yeah",
+      "range": [132.8, 136.66], "ans": [9]},
+    {"lyric": "I like it (na, na, na, na, baby, T-W-I-C-E)",
+      "lyric_hangul": "I like it (na, na, na, na, baby, T-W-I-C-E)",
+      "lyric_translation": "",
+      "range": [136.66, 140.66], "ans": []},
+    "",
+    {
+      "lyric_hangul": "I like this trouble (trouble), trouble (trouble) I like this trouble (trouble)",
+      "lyric_translation": "I like this trouble / Trouble yeah / Na na na na na",
+      "parts": [
+        {"lyric": "I like this trouble",
+          "range": [140.66, 142.95], "ans": [3]},
+        {"lyric": "Trouble yeah",
+          "range": [142.25, 144.6], "ans": [9]},
+        {"lyric": "Na na na na na",
+          "range": [143.9, 146.54], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Ijeneun uriye shijakkwa kkeuchiran geon al su eopseo",
+      "lyric_hangul": "이제는 우리의 시작과 끝이란 건 알 수 없어 (uh-huh)",
+      "lyric_translation": "Now we can’t know our start and end",
+      "range": [146.54, 150.04], "ans": [6]},
+    "",
+    {"lyric": "Urineun Endingi eopseojin wiheomhan Story dweeo",
+      "lyric_hangul": "우리는 ending이 없어진 위험한 story 되어",
+      "lyric_translation": "We become a dangerous story without an ending",
+      "range": [150.04, 153.76], "ans": [6]},
+    {
+      "lyric_hangul": "베일에 가려진 뜨거운 마음이 타오르면, oh",
+      "lyric_translation": "If we burn with passionate heart veiled, oh",
+      "parts": [
+        {"lyric": "Beile garyeojin tteugeoun maeumi taoreumyeon",
+          "range": [153.76, 160.65], "ans": [5]},
+        {"lyric": "Oh",
+          "range": [159.95, 163.58], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby, we're in trouble, trouble",
+      "lyric_translation": "Baby T.W.I.C.E / Baby we’re in trouble trouble",
+      "parts": [
+        {"lyric": "Baby T.W.I.C.E",
+          "range": [163.58, 164.63], "ans": []},
+        {"lyric": "Baby we’re in trouble trouble",
+          "range": [163.93, 166.61], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "So you're good for me, 이끌린 날 can't control",
+      "lyric_translation": "So you’re good for me / I can’t control this attraction",
+      "parts": [
+        {"lyric": "So you’re good for me",
+          "range": [166.61, 169.25], "ans": [1]},
+        {"lyric": "Ikkeullin nal Can’t control",
+          "range": [168.49, 171.28], "ans": [1]}
+      ]
+    },
+    {"lyric": "Tto ne apeman seomyeon I’m terrible babe",
+      "lyric_hangul": "또 네 앞에만 서면, I'm terrible, babe",
+      "lyric_translation": "When I’m in front of you again, I’m terrible, babe",
+      "range": [171.28, 174.36], "ans": [2]},
+    {"lyric": "You got me I think we’re in trouble",
+      "lyric_hangul": "You got me, I think we're in trouble, baby",
+      "lyric_translation": "You got me I think we’re in trouble",
+      "range": [174.36, 177.5], "ans": [2]},
+    {"lyric": "Baby yeah that’s trouble",
+      "lyric_hangul": "Yeah, that's trouble",
+      "lyric_translation": "Baby yeah that’s trouble",
+      "range": [177.5, 179.55], "ans": [2]},
+    "",
+    {"lyric": "I like this trouble",
+      "lyric_hangul": "I like this trouble (trouble, yeah)",
+      "lyric_translation": "I like this trouble / I like this trouble",
+      "range": [179.55, 183.6], "ans": [7]},
+    {"lyric": "I like this trouble",
+      "lyric_hangul": "I like this trouble (trouble, yeah)",
+      "lyric_translation": "I like this trouble",
+      "range": [183.6, 187.49], "ans": [7]},
+    {"lyric": "I like it (na, na, na, na, baby, T-W-I-C-E)",
+      "lyric_hangul": "I like it (na, na, na, na, baby, T-W-I-C-E)",
+      "lyric_translation": "",
+      "range": [187.49, 191.57], "ans": []},
+    {"lyric": "I like this trouble (trouble), trouble (trouble)",
+      "lyric_hangul": "I like this trouble (trouble), trouble (trouble)",
+      "lyric_translation": "",
+      "range": [191.57, 194.03], "ans": []},
+    {"lyric": "I like this trouble",
+      "lyric_hangul": "I like this trouble",
+      "lyric_translation": "",
+      "range": [194.03, 196.1], "ans": []},
+    {
+      "lyric_hangul": "I like this trouble (Woo-wee-woo-wee-woo) I like this trouble, baby",
+      "lyric_translation": "Trouble yeah / I like this trouble baby / Woo wee woo wee woo",
+      "parts": [
+        {"lyric": "Trouble yeah",
+          "range": [194.03, 195.54], "ans": [9]},
+        {"lyric": "I like this trouble baby",
+          "range": [194.84, 198.47], "ans": [3]},
+        {"lyric": "Woo wee woo wee woo",
+          "range": [197.77, 200.13], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Woo-wee-woo-wee-woo) I like this trouble, baby",
+      "lyric_translation": "I like this trouble / I like this trouble baby / Woo wee woo wee woo",
+      "parts": [
+        {"lyric": "I like this trouble",
+          "range": [200.13, 202.39], "ans": [7]},
+        {"lyric": "I like this trouble baby",
+          "range": [201.69, 203.05], "ans": [4]},
+        {"lyric": "Woo wee woo wee woo",
+          "range": [202.35, 203.9], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Woo-wee-woo-wee-woo) I like this trouble, baby",
+      "lyric_translation": "Trouble yeah / Na na na na na / Baby T.W.I.C.E / I like this trouble baby / Woo wee woo wee woo",
+      "parts": [
+        {"lyric": "Trouble yeah",
+          "range": [203.9, 205.84], "ans": [9]},
+        {"lyric": "Na na na na na",
+          "range": [205.14, 206.25], "ans": [4]},
+        {"lyric": "Baby T.W.I.C.E",
+          "range": [205.6, 206.65], "ans": []},
+        {"lyric": "I like this trouble baby",
+          "range": [205.95, 207.21], "ans": [8]},
+        {"lyric": "Woo wee woo wee woo",
+          "range": [206.51, 207.92], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Woo-wee-woo-wee-woo) I like this trouble",
+      "lyric_translation": "I like this trouble / I like this trouble",
+      "parts": [
+        {"lyric": "I like this trouble",
+          "range": [207.92, 210.59], "ans": [8]},
+        {"lyric": "I like this trouble",
+          "range": [209.89, 213.12], "ans": [5]}
+      ]
+    }
+  ]
+}

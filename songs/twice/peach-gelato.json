@@ -1,0 +1,239 @@
+{
+  "name": "PEACH GELATO\r",
+  "ogg": "sound/kpop/peach_gelato.ogg",
+  "id": "peach-gelato",
+  "group": "twice",
+  "language": "en",
+  "released": "2025-07-11",
+  "album": "THIS IS FOR",
+  "cover": "css/images/covers/peach-gelato.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:32Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "It's on tonight (it's on), okay, she came from out of state (ooh)",
+      "parts": [
+        {"lyric": "It’s on tonight okay",
+          "range": [5.97, 6.77], "ans": [6]},
+        {"lyric": "She came from out of state",
+          "range": [6.77, 9.71], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "What's up with your astrology? That body, out of space",
+      "parts": [
+        {"lyric": "What’s up with your astrology",
+          "range": [9.55, 10.98], "ans": [6]},
+        {"lyric": "That body out of space",
+          "range": [10.98, 12.56], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "You like my style (you like my style), touché, I put you on a chain",
+      "parts": [
+        {"lyric": "You like my style, touché",
+          "range": [12.56, 13.38], "ans": [8]},
+        {"lyric": "Would put on a chain",
+          "range": [13.38, 16.16], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "Your smile, it got you shining like there's diamonds on your face",
+      "parts": [
+        {"lyric": "Your smile it got you shining",
+          "range": [16.16, 17.46], "ans": [8]},
+        {"lyric": "Like there’s diamonds on your face",
+          "range": [17.46, 19.37], "ans": [8]}
+      ]
+    },
+    "",
+    {"lyric": "When I saw that thing shake thought I hit the lotto",
+      "lyric_hangul": "When I saw that thing shake, thought I hit the lotto",
+      "lyric_translation": "",
+      "range": [19.37, 22.88], "ans": [1]},
+    {"lyric": "Dripping so sweet like a peach gelato",
+      "lyric_hangul": "Drippin' so sweet, like a peach gelato",
+      "lyric_translation": "",
+      "range": [22.88, 25.54], "ans": [1]},
+    {"lyric": "I can see me in your head tomorrow",
+      "lyric_hangul": "I can see me in your head tomorrow",
+      "lyric_translation": "",
+      "range": [25.54, 29.41], "ans": [1]},
+    {"lyric": "Ooh you know what I wanna do",
+      "lyric_hangul": "Ooh, you know what I wanna do",
+      "lyric_translation": "",
+      "range": [29.41, 31.98], "ans": [1]},
+    "",
+    {"lyric": "Can I dance with you again you again",
+      "lyric_hangul": "Can I dance with you again, you again?",
+      "lyric_translation": "",
+      "range": [31.98, 35.06], "ans": [9]},
+    {"lyric": "Run it up work it down walk it back yeah",
+      "lyric_hangul": "Run it up, work it down, walk it back, yeah",
+      "lyric_translation": "",
+      "range": [35.06, 38.08], "ans": [9]},
+    {"lyric": "Can I dance with you again you again",
+      "lyric_hangul": "Can I dance with you again, you again?",
+      "lyric_translation": "",
+      "range": [38.08, 41.61], "ans": [2]},
+    {"lyric": "Run it up work it down walk it back yeah",
+      "lyric_hangul": "Run it up, work it down, walk it back, yeah",
+      "lyric_translation": "",
+      "range": [41.61, 44.95], "ans": [2]},
+    {"lyric": "When you slide to the left to the right",
+      "lyric_hangul": "When you slide to the left, to the right (oh, yeah)",
+      "lyric_translation": "",
+      "range": [44.95, 48.0], "ans": [4]},
+    {"lyric": "One more time do your thing do it twice",
+      "lyric_hangul": "One more time, do your thing, do it twice (yeah, yeah)",
+      "lyric_translation": "",
+      "range": [48.0, 51.36], "ans": [4]},
+    {"lyric": "Can I dance with you again you again",
+      "lyric_hangul": "Can I dance with you again, you again?",
+      "lyric_translation": "",
+      "range": [51.36, 54.62], "ans": [7]},
+    {"lyric": "Run it up work it down walk it back yeah",
+      "lyric_hangul": "Run it up, work it down, walk it back, yeah (yeah, yeah, oh-oh)",
+      "lyric_translation": "",
+      "range": [54.62, 58.97], "ans": [7]},
+    "",
+    {"lyric": "I’m just getting started I can’t stop",
+      "lyric_hangul": "I'm just getting started, I can't stop (shh)",
+      "lyric_translation": "",
+      "range": [58.97, 62.09], "ans": [5]},
+    {"lyric": "I think I like you more than a lot",
+      "lyric_hangul": "I think I like you more than a lot (more than a lot)",
+      "lyric_translation": "",
+      "range": [62.09, 65.34], "ans": [7]},
+    {"lyric": "Text me back I’m waiting dot dot dot",
+      "lyric_hangul": "Text me back, I'm waiting, dot, dot, dot (dot, dot, dot)",
+      "lyric_translation": "",
+      "range": [65.34, 68.52], "ans": [3]},
+    {"lyric": "Come on boy show me that stuff you got",
+      "lyric_hangul": "Come on, boy, show me that stuff you got (show me, show me, show me)",
+      "lyric_translation": "",
+      "range": [68.52, 70.81], "ans": [4]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Ooh, slide with me, ride or die with me",
+      "parts": [
+        {"lyric": "Ooh slide with me",
+          "range": [70.81, 73.07], "ans": [9]},
+        {"lyric": "Ride or die with me",
+          "range": [73.07, 74.74], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Put in time with me, I'll hook you up (I'll hook you up)",
+      "parts": [
+        {"lyric": "Put in time with me",
+          "range": [74.74, 76.36], "ans": [9]},
+        {"lyric": "I’ll hook you up",
+          "range": [76.36, 77.92], "ans": [9]}
+      ]
+    },
+    {
+      "lyric_hangul": "Ooh, eyes on me, got your eyes on me",
+      "parts": [
+        {"lyric": "Ooh eyes on me",
+          "range": [77.34, 79.59], "ans": [2]},
+        {"lyric": "Got your eyes on me",
+          "range": [79.59, 81.1], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm such an icy treat, I'll give you some (give you some)",
+      "parts": [
+        {"lyric": "I’m such an icy treat",
+          "range": [81.02, 82.88], "ans": [2]},
+        {"lyric": "I’ll give you some",
+          "range": [82.88, 84.3], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "When I saw that thing shake thought I hit the lotto",
+      "lyric_hangul": "When I saw that thing shake, thought I hit the lotto (hit the lotto)",
+      "lyric_translation": "",
+      "range": [84.3, 88.1], "ans": [5]},
+    {"lyric": "Dripping so sweet like a peach gelato",
+      "lyric_hangul": "Drippin' so sweet, like a peach gelato (peach gelato)",
+      "lyric_translation": "",
+      "range": [88.1, 91.35], "ans": [5]},
+    {"lyric": "I can see me in your head tomorrow",
+      "lyric_hangul": "I can see me in your head tomorrow (head tomorrow)",
+      "lyric_translation": "",
+      "range": [91.35, 94.76], "ans": [5]},
+    {"lyric": "Ooh you know what I wanna do",
+      "lyric_hangul": "Ooh, you know what I wanna do",
+      "lyric_translation": "",
+      "range": [94.76, 96.86], "ans": [5]},
+    "",
+    {"lyric": "Can I dance with you again you again",
+      "lyric_hangul": "Can I dance with you again, you again?",
+      "lyric_translation": "",
+      "range": [96.86, 100.35], "ans": [6]},
+    {"lyric": "Run it up work it down walk it back yeah",
+      "lyric_hangul": "Run it up, work it down, walk it back, yeah",
+      "lyric_translation": "",
+      "range": [100.35, 103.47], "ans": [6]},
+    {"lyric": "Can I dance with you again you again",
+      "lyric_hangul": "Can I dance with you again, you again?",
+      "lyric_translation": "",
+      "range": [103.47, 106.94], "ans": [8]},
+    {"lyric": "Run it up work it down walk it back yeah",
+      "lyric_hangul": "Run it up, work it down, walk it back, yeah (ooh)",
+      "lyric_translation": "",
+      "range": [106.94, 110.07], "ans": [8]},
+    {"lyric": "When you slide to the left to the right",
+      "lyric_hangul": "When you slide to the left, to the right",
+      "lyric_translation": "",
+      "range": [110.07, 113.34], "ans": [1]},
+    {"lyric": "One more time do your thing do it twice",
+      "lyric_hangul": "One more time, do your thing, do it twice",
+      "lyric_translation": "",
+      "range": [113.34, 116.71], "ans": [1]},
+    {"lyric": "Can I dance with you again you again",
+      "lyric_hangul": "Can I dance with you again, you again?",
+      "lyric_translation": "",
+      "range": [116.71, 119.68], "ans": [3]},
+    {"lyric": "Run it up work it down walk it back yeah",
+      "lyric_hangul": "Run it up, work it down, walk it back, yeah",
+      "lyric_translation": "",
+      "range": [119.68, 123.31], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "(Ah-ah) can I dance with you?",
+      "parts": [
+        {"lyric": "(Ooh)",
+          "range": [123.31, 125.75], "ans": [5]},
+        {"lyric": "Can I dance with you",
+          "range": [125.05, 126.72], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Ah-ah) can I dance with you?",
+      "parts": [
+        {"lyric": "(Ooh)",
+          "range": [126.72, 128.81], "ans": [5]},
+        {"lyric": "Can I dance with you",
+          "range": [128.11, 129.94], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Ooh-whoa) can I dance with you?",
+      "parts": [
+        {"lyric": "(Ooh)",
+          "range": [129.93, 132.05], "ans": [5]},
+        {"lyric": "Can I dance with you",
+          "range": [131.35, 134.76], "ans": [1]}
+      ]
+    },
+    {"lyric": "Can I dance with you",
+      "lyric_hangul": "Can I dance with you?",
+      "lyric_translation": "",
+      "range": [134.76, 138.24], "ans": [1]}
+  ]
+}

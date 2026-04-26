@@ -1,0 +1,368 @@
+{
+  "name": "CEREMONY\r",
+  "ogg": "sound/kpop/ceremony.ogg",
+  "id": "ceremony",
+  "group": "stray-kids",
+  "language": "ko",
+  "released": "2025-08-22",
+  "album": "Stray Kids The 4th Album “KARMA”",
+  "cover": "css/images/covers/ceremony.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-26T00:38:09Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Hip-hip (hooray!)",
+      "lyric_hangul": "Hip-hip (hooray!)",
+      "lyric_translation": "",
+      "range": [7.11, 9.27], "ans": []},
+    {"lyric": "Hip hip, hip hip",
+      "lyric_hangul": "Hip-hip (hooray!) Hip-hip (hooray!)",
+      "lyric_translation": "Hip hip, hip hip",
+      "range": [7.11, 11.14], "ans": [1]},
+    {
+      "lyric_hangul": "Hip-hip, hip-hip",
+      "lyric_translation": "Hip hip hooray / Hip hip hooray",
+      "parts": [
+        {"lyric": "Hip hip",
+          "range": [11.14, 11.87], "ans": [1]},
+        {"lyric": "Hooray",
+          "range": [11.19, 12.32], "ans": []},
+        {"lyric": "Hip hip",
+          "range": [11.67, 12.72], "ans": [1]},
+        {"lyric": "Hooray",
+          "range": [12.02, 13.28], "ans": []}
+      ]
+    },
+    {"lyric": "Yuh yuh yuh yuh",
+      "lyric_hangul": "Yuh, yuh, yuh, yuh",
+      "lyric_translation": "Yuh yuh yuh yuh",
+      "range": [13.28, 15.01], "ans": [3]},
+    "",
+    {"lyric": "We’re moving forward with maximum power",
+      "lyric_hangul": "We're moving forward with maximum power",
+      "lyric_translation": "We’re moving forward with maximum power",
+      "range": [15.01, 18.14], "ans": [3]},
+    {"lyric": "And we’re gonna dominate, pop it",
+      "lyric_hangul": "And we're gonna dominate, pop it",
+      "lyric_translation": "And we’re gonna dominate, pop it",
+      "range": [18.14, 19.78], "ans": [3]},
+    {
+      "lyric_hangul": "장식하지, big news topic, 경험치는 수많은 trophy",
+      "lyric_translation": "Making headlines, big news topic / My experience points are my countless trophies",
+      "parts": [
+        {"lyric": "Jangshikhaji big news topic",
+          "range": [19.78, 21.3], "ans": [3]},
+        {"lyric": "Gyeongheomchineun sumaneun trophy",
+          "range": [21.3, 23.63], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "No one, nobody can stop me, 수많은 억까는 도움닫기",
+      "lyric_translation": "No one, nobody can stop me / All the hate gives me a running start",
+      "parts": [
+        {"lyric": "No one, nobody can stop me",
+          "range": [23.63, 25.9], "ans": [3]},
+        {"lyric": "Sumaneun eokkkaneun doumdatgi",
+          "range": [25.9, 27.81], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Jump up, jump up like a pop-up toaster lift",
+      "lyric_translation": "Jump up, jump up / Like a pop-up toaster lift",
+      "parts": [
+        {"lyric": "Jump up, jump up",
+          "range": [27.45, 29.05], "ans": [8]},
+        {"lyric": "Like a pop-up toaster lift",
+          "range": [29.05, 31.43], "ans": [8]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Working off time, that ratio got us going worldwide (worldwide)",
+      "lyric_translation": "Working off time / That ratio got us going worldwide",
+      "parts": [
+        {"lyric": "Working off time",
+          "range": [31.43, 32.97], "ans": [7]},
+        {"lyric": "That ratio got us going worldwide",
+          "range": [32.97, 35.62], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Thirsty day and night, they put us in the desert, but we survive",
+      "lyric_translation": "Thirsty day and night / They put us in the desert but we survive",
+      "parts": [
+        {"lyric": "Thirsty day and night",
+          "range": [35.62, 36.52], "ans": [7]},
+        {"lyric": "They put us in the desert but we survive",
+          "range": [36.52, 39.51], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Busy giving our light, unlike them, we're getting all the spotlight (spotlight)",
+      "lyric_translation": "Busy giving our light / Unlike them, we’re getting all the spotlight",
+      "parts": [
+        {"lyric": "Busy giving our light",
+          "range": [39.51, 40.9], "ans": [4]},
+        {"lyric": "Unlike them, we’re getting all the spotlight",
+          "range": [40.9, 43.41], "ans": [4]}
+      ]
+    },
+    {"lyric": "Listen to the war cry",
+      "lyric_hangul": "Listen to the war cry (karma, karma, karma, karma)",
+      "lyric_translation": "Listen to the war cry",
+      "range": [43.41, 46.97], "ans": [4]},
+    {"lyric": "Hip-hip (hooray!)",
+      "lyric_hangul": "Hip-hip (hooray!)",
+      "lyric_translation": "",
+      "range": [46.97, 48.96], "ans": []},
+    "",
+    {"lyric": "Hip hip, hip hip",
+      "lyric_hangul": "Hip-hip (hooray!) Hip-hip (hooray!) Hip-hip, hip-hip",
+      "lyric_translation": "Hip hip, hip hip",
+      "range": [46.97, 53.08], "ans": [1]},
+    {
+      "lyric_hangul": "Karma, karma, karma, karma",
+      "lyric_translation": "Karma, karma, karma, karma / Hip hip hooray / Hip hip hooray / Karma, karma, karma, karma",
+      "parts": [
+        {"lyric": "Karma, karma, karma, karma",
+          "range": [53.08, 55.06], "ans": [6]},
+        {"lyric": "Hip hip",
+          "range": [54.36, 55.47], "ans": [1]},
+        {"lyric": "Hooray",
+          "range": [54.77, 56.08], "ans": []},
+        {"lyric": "Hip hip",
+          "range": [55.38, 56.49], "ans": [1]},
+        {"lyric": "Hooray",
+          "range": [55.79, 57.1], "ans": []},
+        {"lyric": "Karma, karma, karma, karma",
+          "range": [56.4, 58.37], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "CEREMONY",
+      "lyric_hangul": "Ceremony",
+      "lyric_translation": "CEREMONY",
+      "range": [58.37, 60.99], "ans": [2]},
+    {
+      "lyric_hangul": "Hip-hip-hip-hip-hip-hip-hip (hooray!)",
+      "lyric_translation": "Hip hip, hip hip / Hip hip hip hip hip hip hip hooray",
+      "parts": [
+        {"lyric": "Hip hip, hip hip",
+          "range": [60.99, 62.2], "ans": [1]},
+        {"lyric": "Hip hip hip hip hip hip hip hooray",
+          "range": [61.5, 64.99], "ans": [2]}
+      ]
+    },
+    {"lyric": "CEREMONY",
+      "lyric_hangul": "(Whoa) ceremony",
+      "lyric_translation": "CEREMONY",
+      "range": [64.99, 68.8], "ans": [3]},
+    "",
+    {"lyric": "Hip hip hip hip hip hip hip hooray",
+      "lyric_hangul": "Hip-hip-hip-hip-hip-hip-hip (hooray!)",
+      "lyric_translation": "Hip hip hip hip hip hip hip hooray",
+      "range": [68.8, 70.22], "ans": [3]},
+    {"lyric": "We did it sori jilleo wow",
+      "lyric_hangul": "We did it, 소리 질러, wow",
+      "lyric_translation": "We did it make some noise wow",
+      "range": [70.22, 72.59], "ans": [5]},
+    {"lyric": "Slide banji kiseu muah",
+      "lyric_hangul": "slide, 반지 키스, mwah",
+      "lyric_translation": "Slide ring kiss muah",
+      "range": [72.59, 74.56], "ans": [5]},
+    {"lyric": "Bada nae sang machi buge",
+      "lyric_hangul": "받아 내 상 마치 부케",
+      "lyric_translation": "Catch my award like it’s a bouquet",
+      "range": [74.56, 76.04], "ans": [5]},
+    {"lyric": "Bwara nae du soneun dudukhae",
+      "lyric_hangul": "봐라, 내 두 손은 두둑해",
+      "lyric_translation": "Look both my hands are full",
+      "range": [76.04, 77.91], "ans": [5]},
+    {"lyric": "Bappeul ttae nunko tteul saega eoptae",
+      "lyric_hangul": "바쁠 때, 눈코 뜰 새가 없대",
+      "lyric_translation": "When I’m busy I don’t even have time to blink",
+      "range": [77.91, 79.85], "ans": [5]},
+    {"lyric": "But that’s okay sogameul tto junbihae",
+      "lyric_hangul": "but that's okay, 소감을 또 준비해",
+      "lyric_translation": "but that’s okay I prepare another acceptance speech",
+      "range": [79.85, 81.8], "ans": [5]},
+    "",
+    {"lyric": "I feel like uju bung bung bung ho",
+      "lyric_hangul": "I feel like 우주 붕, 붕, 붕 (ho)",
+      "lyric_translation": "I feel like I’m the universe, vroom vroom vroom ho",
+      "range": [81.8, 86.77], "ans": [5]},
+    {
+      "lyric_hangul": "You and I, let's go celebrate, 이 상태는 엄청나",
+      "lyric_translation": "You and I, let’s go celebrate / It’s getting intense now",
+      "parts": [
+        {"lyric": "You and I, let’s go celebrate",
+          "range": [86.77, 89.42], "ans": [8]},
+        {"lyric": "I sangtaeneun eomcheongna",
+          "range": [89.42, 90.9], "ans": [8]}
+      ]
+    },
+    {
+      "lyric_hangul": "삐끗삐끗 터지는 emergency, we don't care, show you 나 버젓이",
+      "lyric_translation": "Flicker, flicker, alarms blaring emergency / We don’t care, show you I’m standing firm",
+      "parts": [
+        {"lyric": "Ppikkeutppikkeus teojineun emergency",
+          "range": [90.9, 93.5], "ans": [8]},
+        {"lyric": "We don’t care, show you na beojeosi",
+          "range": [93.5, 94.94], "ans": [8]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "여기저기, look at our paradise, 어디까지 갈지 예상 밖이야",
+      "lyric_translation": "Here and there just look at our paradise / No one knows how far we gon’ end up",
+      "parts": [
+        {"lyric": "Yeogijeogi look at our paradise",
+          "range": [94.94, 95.98], "ans": [2]},
+        {"lyric": "Eodikkaji galji yesang bakkiya",
+          "range": [95.98, 98.96], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "시끌시끌 북적해, 우리 근처는 언제나 소음 발생이야",
+      "lyric_translation": "Chitter chatter, it’s crowded / There’s always commotion wherever we go",
+      "parts": [
+        {"lyric": "Shikkeulshikkeul bukjeokhae",
+          "range": [98.84, 100.46], "ans": [2]},
+        {"lyric": "Uri geuncheoneun eonjena soeum balsaengiya",
+          "range": [100.46, 103.27], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Working off time, that ratio got us going worldwide (worldwide)",
+      "lyric_translation": "Working off time / That ratio got us going worldwide",
+      "parts": [
+        {"lyric": "Working off time",
+          "range": [103.27, 104.37], "ans": [4]},
+        {"lyric": "That ratio got us going worldwide",
+          "range": [104.37, 106.99], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Thirsty day and night, they put us in the desert, but we survive",
+      "lyric_translation": "Thirsty day and night / They put us in the desert but we survive",
+      "parts": [
+        {"lyric": "Thirsty day and night",
+          "range": [106.99, 107.93], "ans": [2]},
+        {"lyric": "They put us in the desert but we survive",
+          "range": [107.93, 111.03], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Busy giving our light, unlike them, we're getting all the spotlight, yeah",
+      "lyric_translation": "Busy giving our light / Unlike them, we’re getting all the spotlight yeah",
+      "parts": [
+        {"lyric": "Busy giving our light",
+          "range": [111.03, 112.37], "ans": [7]},
+        {"lyric": "Unlike them, we’re getting all the spotlight yeah",
+          "range": [112.37, 114.98], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Listen to the war cry",
+      "lyric_hangul": "Listen to the war cry (karma, karma, karma, karma)",
+      "lyric_translation": "Listen to the war cry",
+      "range": [114.98, 118.43], "ans": [7]},
+    {"lyric": "Hip-hip (hooray!)",
+      "lyric_hangul": "Hip-hip (hooray!)",
+      "lyric_translation": "",
+      "range": [118.43, 120.41], "ans": []},
+    {"lyric": "Hip-hip (hooray!)",
+      "lyric_hangul": "Hip-hip (hooray!)",
+      "lyric_translation": "",
+      "range": [120.41, 122.34], "ans": []},
+    {"lyric": "Hip-hip, hip-hip",
+      "lyric_hangul": "Hip-hip, hip-hip",
+      "lyric_translation": "",
+      "range": [122.34, 124.38], "ans": []},
+    {
+      "lyric_hangul": "Karma, karma, karma, karma",
+      "lyric_translation": "Karma, karma, karma, karma / Karma, karma, karma, karma",
+      "parts": [
+        {"lyric": "Karma, karma, karma, karma",
+          "range": [124.38, 125.84], "ans": [6]},
+        {"lyric": "Karma, karma, karma, karma",
+          "range": [125.14, 129.91], "ans": [4]}
+      ]
+    },
+    {"lyric": "CEREMONY",
+      "lyric_hangul": "Ceremony",
+      "lyric_translation": "CEREMONY",
+      "range": [129.91, 132.49], "ans": [4]},
+    {"lyric": "Hip-hip-hip-hip-hip-hip-hip (hooray!)",
+      "lyric_hangul": "Hip-hip-hip-hip-hip-hip-hip (hooray!)",
+      "lyric_translation": "",
+      "range": [132.49, 136.38], "ans": []},
+    {"lyric": "(Whoa) ceremony",
+      "lyric_hangul": "(Whoa) ceremony",
+      "lyric_translation": "",
+      "range": [136.38, 140.45], "ans": []},
+    {
+      "lyric_hangul": "Hip-hip-hip-hip-hip-hip-hip (hooray!)",
+      "lyric_translation": "Hip hip hip hip hip hip hip hooray / Hip hip hooray / Hip hip hooray",
+      "parts": [
+        {"lyric": "Hip hip hip hip hip hip hip hooray",
+          "range": [140.45, 141.83], "ans": [4]},
+        {"lyric": "Hip hip",
+          "range": [141.24, 142.09], "ans": [1]},
+        {"lyric": "Hooray",
+          "range": [141.53, 142.29], "ans": []},
+        {"lyric": "Hip hip",
+          "range": [141.79, 142.69], "ans": [1]},
+        {"lyric": "Hooray",
+          "range": [141.99, 143.64], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yeah we gon’ celebrate ’cause we got good",
+      "lyric_hangul": "Yeah, we gon' celebrate",
+      "lyric_translation": "Yeah we gon’ celebrate ’cause we got good",
+      "range": [143.64, 145.43], "ans": [6]},
+    {"lyric": "Karma, karma, karma, karma",
+      "lyric_hangul": "'Cause we got good karma, karma, karma, karma",
+      "lyric_translation": "Karma, karma, karma, karma",
+      "range": [145.43, 147.82], "ans": [6]},
+    "",
+    {"lyric": "Calmer, calmer, calmer, that’s our",
+      "lyric_hangul": "Calmer, calmer, calmer",
+      "lyric_translation": "Calmer, calmer, calmer, that’s our",
+      "range": [147.82, 149.33], "ans": [6]},
+    {"lyric": "Karma, karma, karma, karma",
+      "lyric_hangul": "That's our karma, karma, karma, karma",
+      "lyric_translation": "Karma, karma, karma, karma",
+      "range": [149.33, 151.87], "ans": [6]},
+    {"lyric": "Yeah we gon’ celebrate ’cause we got good",
+      "lyric_hangul": "Yeah, we gon' celebrate",
+      "lyric_translation": "Yeah we gon’ celebrate ’cause we got good",
+      "range": [151.87, 153.29], "ans": [7]},
+    {"lyric": "Karma, karma, karma, karma",
+      "lyric_hangul": "'Cause we got good karma, karma, karma, karma",
+      "lyric_translation": "Karma, karma, karma, karma",
+      "range": [153.29, 155.66], "ans": [7]},
+    "",
+    {"lyric": "Calmer, calmer, calmer",
+      "lyric_hangul": "Calmer, calmer, calmer (whoa)",
+      "lyric_translation": "Calmer, calmer, calmer",
+      "range": [155.66, 157.12], "ans": [7]},
+    {
+      "lyric_hangul": "Ceremony",
+      "lyric_translation": "CEREMONY / Hip hip hip hip hip hip hip hooray / CEREMONY",
+      "parts": [
+        {"lyric": "CEREMONY",
+          "range": [157.12, 157.6], "ans": [3]},
+        {"lyric": "Hip hip hip hip hip hip hip hooray",
+          "range": [157.6, 159.55], "ans": [3]},
+        {"lyric": "CEREMONY",
+          "range": [158.85, 159.68], "ans": [5]}
+      ]
+    }
+  ]
+}

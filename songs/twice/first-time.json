@@ -1,0 +1,336 @@
+{
+  "name": "First Time\r",
+  "ogg": "sound/kpop/first_time.ogg",
+  "id": "first-time",
+  "group": "twice",
+  "language": "ko",
+  "released": "2021-06-11",
+  "album": "Taste of Love",
+  "cover": "css/images/covers/first-time.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-25T21:18:15Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ni sumkkyeore nuni gamgimyeon",
+      "lyric_hangul": "네 숨결에 눈이 감기면",
+      "lyric_translation": "When your breath closes your eyes",
+      "range": [1.64, 4.66], "ans": [6]},
+    {"lyric": "Heunnallin kkonnipi dweeo heundeulligo",
+      "lyric_hangul": "흩날린 꽃잎이 되어 흔들리고",
+      "lyric_translation": "You become fluttering flower petals",
+      "range": [4.66, 10.45], "ans": [6]},
+    {"lyric": "Ni hyanggie shiseoneul omgyeo",
+      "lyric_hangul": "네 향기에 시선을 옮겨",
+      "lyric_translation": "I’m shifting my eyes to your scent",
+      "range": [10.45, 13.64], "ans": [9]},
+    {"lyric": "Neol derigo ssoa ollin jeo bulkkocheuro",
+      "lyric_hangul": "널 데리고 쏘아 올린 저 불꽃으로",
+      "lyric_translation": "To the fireworks that took you and set off",
+      "range": [13.64, 20.15], "ans": [9]},
+    "",
+    {"lyric": "Eojireoptteon mamsoge deopcheowa",
+      "lyric_hangul": "어지럽던 맘속에, 덮쳐와",
+      "lyric_translation": "Come to my dizzy heart",
+      "range": [20.15, 25.52], "ans": [4]},
+    {"lyric": "What we’re waiting, waiting for",
+      "lyric_hangul": "What we're waiting (waiting), waiting for?",
+      "lyric_translation": "What we’re waiting, waiting for",
+      "range": [25.52, 28.32], "ans": [4]},
+    {"lyric": "Deo gamssa ana tteugeoun i ongie",
+      "lyric_hangul": "더 감싸 안아 뜨거운 이 온기에",
+      "lyric_translation": "Hug me tighter in this hot warmth",
+      "range": [28.32, 33.48], "ans": [2]},
+    {
+      "lyric_hangul": "지금 내가 또 다른 나로, so let me tell you",
+      "lyric_translation": "Another me from my current self, so let me tell you",
+      "parts": [
+        {"lyric": "Jigeum naega tto dareun naro",
+          "range": [33.48, 36.36], "ans": [7]},
+        {"lyric": "So let me tell you",
+          "range": [35.66, 38.38], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I don't know about you, but I get butterflies",
+      "lyric_translation": "I don’t know about you / But I get butterflies",
+      "parts": [
+        {"lyric": "I don’t know about you",
+          "range": [38.38, 40.54], "ans": [5]},
+        {"lyric": "But I get butterflies",
+          "range": [40.54, 42.74], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 모든 느낌 떨린 손길 first time, first time",
+      "lyric_translation": "I’m getting this feeling of trembling hands for the / First time, first time",
+      "parts": [
+        {"lyric": "I modeun neukkim tteollin sonkkil",
+          "range": [42.74, 44.9], "ans": [5]},
+        {"lyric": "First time, first time",
+          "range": [44.9, 47.26], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "When I'm loving you, I'm always satisfied",
+      "lyric_translation": "When I’m loving you / I’m always satisfied",
+      "parts": [
+        {"lyric": "When I’m loving you",
+          "range": [47.26, 48.88], "ans": [1]},
+        {"lyric": "I’m always satisfied",
+          "range": [48.88, 51.25], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와의 모든 순간 마치 first time",
+      "lyric_translation": "Every moment I spend with you is like / First time",
+      "parts": [
+        {"lyric": "Neowaye modeun sungan machi",
+          "range": [51.25, 53.81], "ans": [1]},
+        {"lyric": "First time",
+          "range": [53.81, 55.82], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Tell me now soksagyeojweo bukkeureoweo ma",
+      "lyric_hangul": "Tell me now, 속삭여줘, 부끄러워 마 (hey)",
+      "lyric_translation": "Tell me now, whisper to me, don’t be shy",
+      "range": [55.82, 60.44], "ans": [8]},
+    {"lyric": "Malhae bwa jigeum Don’t keep me guessing",
+      "lyric_hangul": "말해봐 지금 (지금), don't keep me guessing",
+      "lyric_translation": "And tell me right now, don’t keep me guessing",
+      "range": [60.44, 65.36], "ans": [8]},
+    {"lyric": "Geu nuguegedo Oh juji motan mami neol gamssa",
+      "lyric_hangul": "그 누구에게도, oh, 주지 못한 맘이 (맘이) 널 감싸",
+      "lyric_translation": "Oh, my heart that I haven’t given anyone embraces you",
+      "range": [65.36, 74.09], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "I don't know about you, but I get butterflies",
+      "lyric_translation": "I don’t know about you / But I get butterflies",
+      "parts": [
+        {"lyric": "I don’t know about you",
+          "range": [74.09, 76.43], "ans": [5]},
+        {"lyric": "But I get butterflies",
+          "range": [76.43, 78.61], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 모든 느낌 떨린 손길 first time, first time",
+      "lyric_translation": "I’m getting this feeling of trembling hands for the / First time, first time",
+      "parts": [
+        {"lyric": "I modeun neukkim tteollin sonkkil",
+          "range": [78.61, 80.83], "ans": [5]},
+        {"lyric": "First time, first time",
+          "range": [80.83, 83.17], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "When I'm loving you (oh, oh), I'm always satisfied (always satisfied)",
+      "lyric_translation": "When I’m loving you / I’m always satisfied",
+      "parts": [
+        {"lyric": "When I’m loving you",
+          "range": [83.17, 84.83], "ans": [1]},
+        {"lyric": "(Oh oh)",
+          "range": [84.13, 85.58], "ans": [5]},
+        {"lyric": "I’m always satisfied",
+          "range": [84.88, 86.86], "ans": [1]},
+        {"lyric": "(I’m always satisfied)",
+          "range": [86.16, 88.57], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와의 모든 순간 마치 first time, first time, yeah (let me hear you say, hey)",
+      "lyric_translation": "Every moment I spend with you is like / First time, first time yeah / (Let me hear you say hey)",
+      "parts": [
+        {"lyric": "Neowaye modeun sungan machi",
+          "range": [87.88, 89.76], "ans": [1]},
+        {"lyric": "First time first time yeah",
+          "range": [89.76, 91.61], "ans": [1]},
+        {"lyric": "(Let me hear you say hey)",
+          "range": [90.91, 92.92], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "(Hey!) 그 손 내게 닿을 때 (whoo)",
+      "lyric_translation": "Hey! When that hand touches me",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [92.81, 94.78], "ans": []},
+        {"lyric": "Geu son naege daeul ttae",
+          "range": [94.08, 98.18], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hey!) 온몸 네게 맡길게",
+      "lyric_translation": "Hey! I’ll trust you with my whole body",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [98.18, 99.26], "ans": []},
+        {"lyric": "Onmom nege matgilge",
+          "range": [98.56, 101.72], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hey!) I'm always satisfied (whoo)",
+      "lyric_translation": "Hey! I’m always satisfied",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [101.72, 102.31], "ans": []},
+        {"lyric": "I’m always satisfied",
+          "range": [102.31, 105.69], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와의 모든 순간 마치 first time, first time (it's like the first time)",
+      "lyric_translation": "Every moment I spend with you is like first time, first time / (This moment, first time)",
+      "parts": [
+        {"lyric": "Neowaye modeun sungan machi First time first time",
+          "range": [105.39, 109.32], "ans": [4]},
+        {"lyric": "(i sungan First time)",
+          "range": [108.62, 110.16], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Strawberry kisses taste so good to me",
+      "lyric_hangul": "Strawberry kisses taste so good to me",
+      "lyric_translation": "Strawberry kisses taste so good to me",
+      "range": [110.16, 114.16], "ans": [6]},
+    {"lyric": "Ganjireoun neukkim dara eojireoweotji",
+      "lyric_hangul": "간지러운 느낌 달아 어지러웠지",
+      "lyric_translation": "This ticklish feeling was dizzying",
+      "range": [114.16, 119.45], "ans": [9]},
+    {"lyric": "Meoriga ping dora Oh you’re so sweet",
+      "lyric_hangul": "머리가 핑 돌아, oh, you're so sweet",
+      "lyric_translation": "My head is spinning, oh, you’re so sweet",
+      "range": [119.45, 123.11], "ans": [4]},
+    {"lyric": "Geudaen Like the first time",
+      "lyric_hangul": "그댄 like the first time",
+      "lyric_translation": "You’re like the first time",
+      "range": [123.11, 128.57], "ans": [8]},
+    "",
+    {
+      "lyric_hangul": "(Hey!) 그 손 내게 닿을 때 (whoo)",
+      "lyric_translation": "Hey! When that hand touches me",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [128.57, 129.82], "ans": []},
+        {"lyric": "Geu son naege daeul ttae",
+          "range": [129.12, 133.43], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hey!) 온몸 네게 맡길게 (hey, hey, hey, yeah)",
+      "lyric_translation": "Hey! I’ll trust you with my whole body",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [133.38, 133.82], "ans": []},
+        {"lyric": "Onmom nege matgilge",
+          "range": [133.82, 137.09], "ans": [7]},
+        {"lyric": "(onmom nege matgilge)",
+          "range": [136.39, 138.67], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hey!) 너는 마치 first time (whoo)",
+      "lyric_translation": "Hey! You’re like the first time / Hey!",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [137.96, 138.33], "ans": []},
+        {"lyric": "Neoneun machi First time",
+          "range": [138.33, 141.62], "ans": [5]},
+        {"lyric": "Hey!",
+          "range": [140.92, 142.29], "ans": []}
+      ]
+    },
+    {"lyric": "(Hey!) Whoo",
+      "lyric_hangul": "(Hey!) Whoo",
+      "lyric_translation": "",
+      "range": [142.29, 146.06], "ans": []},
+    "",
+    {
+      "lyric_hangul": "I don't know about you, but I get butterflies",
+      "lyric_translation": "I don’t know about you / But I get butterflies",
+      "parts": [
+        {"lyric": "I don’t know about you",
+          "range": [146.06, 148.2], "ans": [5]},
+        {"lyric": "But I get butterflies",
+          "range": [148.2, 150.47], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 모든 느낌 떨린 손길 first time, first time (it's like the first time)",
+      "lyric_translation": "I’m getting this feeling of trembling hands for the / First time, first time",
+      "parts": [
+        {"lyric": "I modeun neukkim tteollin sonkkil",
+          "range": [150.47, 153.83], "ans": [5]},
+        {"lyric": "First time, first time",
+          "range": [153.83, 155.79], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "When I'm loving you, I'm always satisfied (ooh)",
+      "lyric_translation": "When I’m loving you / I’m always satisfied",
+      "parts": [
+        {"lyric": "When I’m loving you",
+          "range": [154.91, 157.23], "ans": [1]},
+        {"lyric": "I’m always satisfied",
+          "range": [157.23, 159.36], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와의 모든 순간 마치 first time, first time, yeah (it's like the first time, yeah)",
+      "lyric_translation": "Every moment I spend with you is like / First time, first time, yeah / (Feels like a first time yeah)",
+      "parts": [
+        {"lyric": "Neowaye modeun sungan machi",
+          "range": [159.36, 160.82], "ans": [1]},
+        {"lyric": "First time first time yeah",
+          "range": [160.82, 162.49], "ans": [1]},
+        {"lyric": "(Feels like a first time yeah)",
+          "range": [161.79, 164.68], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Hey!) 그 손 내게 닿을 때 (hey, hey, hey, whoo)",
+      "lyric_translation": "Hey! When that hand touches me",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [164.51, 166.58], "ans": []},
+        {"lyric": "Geu son naege daeul ttae",
+          "range": [165.88, 170.38], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hey!) 온몸 네게 맡길게 (yeah)",
+      "lyric_translation": "Hey! I’ll trust you with my whole body",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [169.5, 170.0], "ans": []},
+        {"lyric": "Onmom nege matgilge",
+          "range": [169.83, 171.93], "ans": [7]},
+        {"lyric": "(onmom nege matgilge)",
+          "range": [171.23, 173.62], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hey!) I'm always satisfied (oh, whoo)",
+      "lyric_translation": "Hey! I’m always satisfied",
+      "parts": [
+        {"lyric": "Hey!",
+          "range": [173.62, 174.33], "ans": []},
+        {"lyric": "I’m always satisfied",
+          "range": [173.67, 176.85], "ans": [6]},
+        {"lyric": "(Oh)",
+          "range": [176.18, 176.9], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neowaye modeun sungan machi First time",
+      "lyric_hangul": "너와의 모든 순간 마치 first time",
+      "lyric_translation": "Every moment I spend with you is like first time",
+      "range": [176.9, 183.0], "ans": [6]}
+  ]
+}
