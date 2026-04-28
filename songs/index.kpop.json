@@ -1,1930 +1,484 @@
 [
-  {
-    "file": "seventeen/pretty-u.json",
-    "cover": "css/images/covers/pretty-u.jpg"
-  },
-  {
-    "file": "seventeen/24h.json",
-    "cover": "css/images/covers/24h.jpg"
-  },
-  {
-    "file": "seventeen/boomboom.json",
-    "cover": "css/images/covers/boomboom.jpg"
-  },
-  {
-    "file": "seventeen/call-call-call.json",
-    "cover": "css/images/covers/call-call-call.jpg"
-  },
-  {
-    "file": "seventeen/clap.json",
-    "cover": "css/images/covers/clap.jpg"
-  },
-  {
-    "file": "seventeen/dont-wanna-cry.json",
-    "cover": "css/images/covers/dont-wanna-cry.jpg"
-  },
-  {
-    "file": "seventeen/dream.json",
-    "cover": "css/images/covers/dream.jpg"
-  },
-  {
-    "file": "seventeen/fallin-flower.json",
-    "cover": "css/images/covers/fallin-flower.jpg"
-  },
-  {
-    "file": "seventeen/fml.json",
-    "cover": "css/images/covers/fml.jpg"
-  },
-  {
-    "file": "seventeen/god-of-music.json",
-    "cover": "css/images/covers/god-of-music.jpg"
-  },
-  {
-    "file": "seventeen/home.json",
-    "cover": "css/images/covers/home.jpg"
-  },
-  {
-    "file": "seventeen/hot.json",
-    "cover": "css/images/covers/hot.jpg"
-  },
-  {
-    "file": "seventeen/ima.json",
-    "cover": "css/images/covers/ima.jpg"
-  },
-  {
-    "file": "seventeen/lalali.json",
-    "cover": "css/images/covers/lalali.jpg"
-  },
-  {
-    "file": "seventeen/left-and-right.json",
-    "cover": "css/images/covers/left-and-right.jpg"
-  },
-  {
-    "file": "seventeen/maestro.json",
-    "cover": "css/images/covers/maestro.jpg"
-  },
-  {
-    "file": "seventeen/mansae.json",
-    "cover": "css/images/covers/mansae.jpg"
-  },
-  {
-    "file": "seventeen/not-alone.json",
-    "cover": "css/images/covers/not-alone.jpg"
-  },
-  {
-    "file": "seventeen/power-of-love.json",
-    "cover": "css/images/covers/power-of-love.jpg"
-  },
-  {
-    "file": "seventeen/ready-to-love.json",
-    "cover": "css/images/covers/ready-to-love.jpg"
-  },
-  {
-    "file": "seventeen/rock-with-you.json",
-    "cover": "css/images/covers/rock-with-you.jpg"
-  },
-  {
-    "file": "seventeen/spell.json",
-    "cover": "css/images/covers/spell.jpg"
-  },
-  {
-    "file": "seventeen/super.json",
-    "cover": "css/images/covers/super.jpg"
-  },
-  {
-    "file": "seventeen/thanks.json",
-    "cover": "css/images/covers/thanks.jpg"
-  },
-  {
-    "file": "seventeen/very-nice.json",
-    "cover": "css/images/covers/very-nice.jpg"
-  },
-  {
-    "file": "seventeen/world.json",
-    "cover": "css/images/covers/world.jpg"
-  },
-  {
-    "file": "seventeen/shohikigen.json",
-    "cover": "css/images/covers/shohikigen.jpg"
-  },
-  {
-    "file": "seventeen/ima-jp.json",
-    "cover": "css/images/covers/ima-jp.jpg"
-  },
-  {
-    "file": "seventeen/fallin-flower-jp.json",
-    "cover": "css/images/covers/fallin-flower-jp.jpg"
-  },
-  {
-    "file": "seventeen/not-alone-jp.json",
-    "cover": "css/images/covers/not-alone-jp.jpg"
-  },
-  {
-    "file": "seventeen/power-of-love-jp.json",
-    "cover": "css/images/covers/power-of-love-jp.jpg"
-  },
-  {
-    "file": "seventeen/adore-u.json",
-    "cover": "css/images/covers/adore-u.jpg"
-  },
-  {
-    "file": "seventeen/fear.json",
-    "cover": "css/images/covers/fear.jpg"
-  },
-  {
-    "file": "seventeen/oh-my.json",
-    "cover": "css/images/covers/oh-my.jpg"
-  },
-  {
-    "file": "seventeen/cheers-to-youth.json",
-    "cover": "css/images/covers/cheers-to-youth.jpg"
-  },
-  {
-    "file": "seventeen/happy-ending.json",
-    "cover": "css/images/covers/happy-ending.jpg"
-  },
-  {
-    "file": "seventeen/home-run.json",
-    "cover": "css/images/covers/home-run.jpg"
-  },
-  {
-    "file": "seventeen/headliner.json",
-    "cover": "css/images/covers/headliner.jpg"
-  },
-  {
-    "file": "seventeen/april-shower.json",
-    "cover": "css/images/covers/april-shower.jpg"
-  },
-  {
-    "file": "seventeen/crush.json",
-    "cover": "css/images/covers/crush.jpg"
-  },
-  {
-    "file": "seventeen/snap-shoot.json",
-    "cover": "css/images/covers/snap-shoot.jpg"
-  },
-  {
-    "file": "seventeen/darling.json",
-    "cover": "css/images/covers/darling.jpg"
-  },
-  {
-    "file": "seventeen/anyone.json",
-    "cover": "css/images/covers/anyone.jpg"
-  },
-  {
-    "file": "seventeen/hit.json",
-    "cover": "css/images/covers/hit.jpg"
-  },
-  {
-    "file": "seventeen/fearless.json",
-    "cover": "css/images/covers/fearless.jpg"
-  },
-  {
-    "file": "seventeen/smile-flower.json",
-    "cover": "css/images/covers/smile-flower.jpg"
-  },
-  {
-    "file": "seventeen/pinwheel.json",
-    "cover": "css/images/covers/pinwheel.jpg"
-  },
-  {
-    "file": "seventeen/highlight.json",
-    "cover": "css/images/covers/highlight.jpg"
-  },
-  {
-    "file": "seventeen/healing.json",
-    "cover": "css/images/covers/healing.jpg"
-  },
-  {
-    "file": "seventeen/holiday.json",
-    "cover": "css/images/covers/holiday.jpg"
-  },
-  {
-    "file": "seventeen/hug.json",
-    "cover": "css/images/covers/hug.jpg"
-  },
-  {
-    "file": "seventeen/don-quixote.json",
-    "cover": "css/images/covers/don-quixote.jpg"
-  },
-  {
-    "file": "seventeen/20.json",
-    "cover": "css/images/covers/20.jpg"
-  },
-  {
-    "file": "seventeen/247.json",
-    "cover": "css/images/covers/247.jpg"
-  },
-  {
-    "file": "seventeen/ah-love.json",
-    "cover": "css/images/covers/ah-love.jpg"
-  },
-  {
-    "file": "seventeen/ah-yeah.json",
-    "cover": "css/images/covers/ah-yeah.jpg"
-  },
-  {
-    "file": "seventeen/ash.json",
-    "cover": "css/images/covers/ash.jpg"
-  },
-  {
-    "file": "seventeen/back-it-up.json",
-    "cover": "css/images/covers/back-it-up.jpg"
-  },
-  {
-    "file": "seventeen/bout-you.json",
-    "cover": "css/images/covers/bout-you.jpg"
-  },
-  {
-    "file": "seventeen/bring-it.json",
-    "cover": "css/images/covers/bring-it.jpg"
-  },
-  {
-    "file": "seventeen/campfire.json",
-    "cover": "css/images/covers/campfire.jpg"
-  },
-  {
-    "file": "seventeen/change-up.json",
-    "cover": "css/images/covers/change-up.jpg"
-  },
-  {
-    "file": "seventeen/cheers.json",
-    "cover": "css/images/covers/cheers.jpg"
-  },
-  {
-    "file": "seventeen/chuck.json",
-    "cover": "css/images/covers/chuck.jpg"
-  },
-  {
-    "file": "seventeen/circles.json",
-    "cover": "css/images/covers/circles.jpg"
-  },
-  {
-    "file": "seventeen/do-re-mi.json",
-    "cover": "css/images/covers/do-re-mi.jpg"
-  },
-  {
-    "file": "seventeen/domino.json",
-    "cover": "css/images/covers/domino.jpg"
-  },
-  {
-    "file": "seventeen/dont-listen-in-secret.json",
-    "cover": "css/images/covers/dont-listen-in-secret.jpg"
-  },
-  {
-    "file": "seventeen/drift-away.json",
-    "cover": "css/images/covers/drift-away.jpg"
-  },
-  {
-    "file": "seventeen/falling-for-u.json",
-    "cover": "css/images/covers/falling-for-u.jpg"
-  },
-  {
-    "file": "seventeen/fast-pace.json",
-    "cover": "css/images/covers/fast-pace.jpg"
-  },
-  {
-    "file": "seventeen/fck-my-life.json",
-    "cover": "css/images/covers/fck-my-life.jpg"
-  },
-  {
-    "file": "seventeen/flower.json",
-    "cover": "css/images/covers/flower.jpg"
-  },
-  {
-    "file": "seventeen/fronting.json",
-    "cover": "css/images/covers/fronting.jpg"
-  },
-  {
-    "file": "seventeen/good-to-me.json",
-    "cover": "css/images/covers/good-to-me.jpg"
-  },
-  {
-    "file": "seventeen/habit.json",
-    "cover": "css/images/covers/habit.jpg"
-  },
-  {
-    "file": "seventeen/hbd.json",
-    "cover": "css/images/covers/hbd.jpg"
-  },
-  {
-    "file": "seventeen/hello.json",
-    "cover": "css/images/covers/hello.jpg"
-  },
-  {
-    "file": "seventeen/hey-buddy.json",
-    "cover": "css/images/covers/hey-buddy.jpg"
-  },
-  {
-    "file": "seventeen/homerun.json",
-    "cover": "css/images/covers/homerun.jpg"
-  },
-  {
-    "file": "seventeen/i-dont-know.json",
-    "cover": "css/images/covers/i-dont-know.jpg"
-  },
-  {
-    "file": "seventeen/if-i.json",
-    "cover": "css/images/covers/if-i.jpg"
-  },
-  {
-    "file": "seventeen/if-you-leave-me.json",
-    "cover": "css/images/covers/if-you-leave-me.jpg"
-  },
-  {
-    "file": "seventeen/jam-jam.json",
-    "cover": "css/images/covers/jam-jam.jpg"
-  },
-  {
-    "file": "seventeen/lean-on-me.json",
-    "cover": "css/images/covers/lean-on-me.jpg"
-  },
-  {
-    "file": "seventeen/left-right.json",
-    "cover": "css/images/covers/left-right.jpg"
-  },
-  {
-    "file": "seventeen/let-me-hear-you-say.json",
-    "cover": "css/images/covers/let-me-hear-you-say.jpg"
-  },
-  {
-    "file": "seventeen/lie-again.json",
-    "cover": "css/images/covers/lie-again.jpg"
-  },
-  {
-    "file": "seventeen/light-a-flame.json",
-    "cover": "css/images/covers/light-a-flame.jpg"
-  },
-  {
-    "file": "seventeen/lilili-yabbay.json",
-    "cover": "css/images/covers/lilili-yabbay.jpg"
-  },
-  {
-    "file": "seventeen/love-letter.json",
-    "cover": "css/images/covers/love-letter.jpg"
-  },
-  {
-    "file": "seventeen/lucky.json",
-    "cover": "css/images/covers/lucky.jpg"
-  },
-  {
-    "file": "seventeen/march.json",
-    "cover": "css/images/covers/march.jpg"
-  },
-  {
-    "file": "seventeen/my-i.json",
-    "cover": "css/images/covers/my-i.jpg"
-  },
-  {
-    "file": "seventeen/network-love.json",
-    "cover": "css/images/covers/network-love.jpg"
-  },
-  {
-    "file": "seventeen/nice.json",
-    "cover": "css/images/covers/nice.jpg"
-  },
-  {
-    "file": "seventeen/no-fun.json",
-    "cover": "css/images/covers/no-fun.jpg"
-  },
-  {
-    "file": "seventeen/omg.json",
-    "cover": "css/images/covers/omg.jpg"
-  },
-  {
-    "file": "seventeen/popular-song.json",
-    "cover": "css/images/covers/popular-song.jpg"
-  },
-  {
-    "file": "seventeen/rocket.json",
-    "cover": "css/images/covers/rocket.jpg"
-  },
-  {
-    "file": "seventeen/run-to-you.json",
-    "cover": "css/images/covers/run-to-you.jpg"
-  },
-  {
-    "file": "seventeen/say-yes.json",
-    "cover": "css/images/covers/say-yes.jpg"
-  },
-  {
-    "file": "seventeen/second-life.json",
-    "cover": "css/images/covers/second-life.jpg"
-  },
-  {
-    "file": "seventeen/shining-diamond.json",
-    "cover": "css/images/covers/shining-diamond.jpg"
-  },
-  {
-    "file": "seventeen/all-my-love.json",
-    "cover": "css/images/covers/all-my-love.jpg"
-  },
-  {
-    "file": "seventeen/simple.json",
-    "cover": "css/images/covers/simple.jpg"
-  },
-  {
-    "file": "seventeen/space.json",
-    "cover": "css/images/covers/space.jpg"
-  },
-  {
-    "file": "seventeen/still-lonely.json",
-    "cover": "css/images/covers/still-lonely.jpg"
-  },
-  {
-    "file": "seventeen/swimming-fool.json",
-    "cover": "css/images/covers/swimming-fool.jpg"
-  },
-  {
-    "file": "seventeen/thinkin-about-you.json",
-    "cover": "css/images/covers/thinkin-about-you.jpg"
-  },
-  {
-    "file": "seventeen/trauma.json",
-    "cover": "css/images/covers/trauma.jpg"
-  },
-  {
-    "file": "seventeen/when-i-grow-up.json",
-    "cover": "css/images/covers/when-i-grow-up.jpg"
-  },
-  {
-    "file": "seventeen/without-you.json",
-    "cover": "css/images/covers/without-you.jpg"
-  },
-  {
-    "file": "twice/1-to-10.json",
-    "cover": "css/images/covers/1-to-10.jpg"
-  },
-  {
-    "file": "twice/2129.json",
-    "cover": "css/images/covers/2129.jpg"
-  },
-  {
-    "file": "twice/after-moon.json",
-    "cover": "css/images/covers/after-moon.jpg"
-  },
-  {
-    "file": "twice/alcohol-free.json",
-    "cover": "css/images/covers/alcohol-free.jpg"
-  },
-  {
-    "file": "twice/baby-blue-love.json",
-    "cover": "css/images/covers/baby-blue-love.jpg"
-  },
-  {
-    "file": "twice/basics.json",
-    "cover": "css/images/covers/basics.jpg"
-  },
-  {
-    "file": "twice/battitude.json",
-    "cover": "css/images/covers/battitude.jpg"
-  },
-  {
-    "file": "twice/bdz.json",
-    "cover": "css/images/covers/bdz.jpg"
-  },
-  {
-    "file": "twice/be-as-one.json",
-    "cover": "css/images/covers/be-as-one.jpg"
-  },
-  {
-    "file": "twice/behind-the-mask.json",
-    "cover": "css/images/covers/behind-the-mask.jpg"
-  },
-  {
-    "file": "twice/believer.json",
-    "cover": "css/images/covers/believer.jpg"
-  },
-  {
-    "file": "twice/blame-it-on-me.json",
-    "cover": "css/images/covers/blame-it-on-me.jpg"
-  },
-  {
-    "file": "twice/bloom.json",
-    "cover": "css/images/covers/bloom.jpg"
-  },
-  {
-    "file": "twice/brave.json",
-    "cover": "css/images/covers/brave.jpg"
-  },
-  {
-    "file": "twice/breakthrough.json",
-    "cover": "css/images/covers/breakthrough.jpg"
-  },
-  {
-    "file": "twice/bring-it-back.json",
-    "cover": "css/images/covers/bring-it-back.jpg"
-  },
-  {
-    "file": "twice/cactus.json",
-    "cover": "css/images/covers/cactus.jpg"
-  },
-  {
-    "file": "twice/candy-boy.json",
-    "cover": "css/images/covers/candy-boy.jpg"
-  },
-  {
-    "file": "twice/chillax.json",
-    "cover": "css/images/covers/chillax.jpg"
-  },
-  {
-    "file": "twice/crazy-stupid-love.json",
-    "cover": "css/images/covers/crazy-stupid-love.jpg"
-  },
-  {
-    "file": "twice/cruel.json",
-    "cover": "css/images/covers/cruel.jpg"
-  },
-  {
-    "file": "twice/dat-ahh-dat-ooh.json",
-    "cover": "css/images/covers/dat-ahh-dat-ooh.jpg"
-  },
-  {
-    "file": "twice/dejavu.json",
-    "cover": "css/images/covers/dejavu.jpg"
-  },
-  {
-    "file": "twice/depend-on-you.json",
-    "cover": "css/images/covers/depend-on-you.jpg"
-  },
-  {
-    "file": "twice/ding-dong.json",
-    "cover": "css/images/covers/ding-dong.jpg"
-  },
-  {
-    "file": "twice/do-it-again.json",
-    "cover": "css/images/covers/do-it-again.jpg"
-  },
-  {
-    "file": "twice/do-what-we-like.json",
-    "cover": "css/images/covers/do-what-we-like.jpg"
-  },
-  {
-    "file": "twice/dont-call-me-again.json",
-    "cover": "css/images/covers/dont-call-me-again.jpg"
-  },
-  {
-    "file": "twice/dont-give-up.json",
-    "cover": "css/images/covers/dont-give-up.jpg"
-  },
-  {
-    "file": "twice/espresso.json",
-    "cover": "css/images/covers/espresso.jpg"
-  },
-  {
-    "file": "twice/eye-eye-eyes.json",
-    "cover": "css/images/covers/eye-eye-eyes.jpg"
-  },
-  {
-    "file": "twice/fancy.json",
-    "cover": "css/images/covers/fancy.jpg"
-  },
-  {
-    "file": "twice/ffw.json",
-    "cover": "css/images/covers/ffw.jpg"
-  },
-  {
-    "file": "twice/fila.json",
-    "cover": "css/images/covers/fila.jpg"
-  },
-  {
-    "file": "twice/firework.json",
-    "cover": "css/images/covers/firework.jpg"
-  },
-  {
-    "file": "twice/first-time.json",
-    "cover": "css/images/covers/first-time.jpg"
-  },
-  {
-    "file": "twice/get-loud.json",
-    "cover": "css/images/covers/get-loud.jpg"
-  },
-  {
-    "file": "twice/girls-like-us.json",
-    "cover": "css/images/covers/girls-like-us.jpg"
-  },
-  {
-    "file": "twice/go-hard.json",
-    "cover": "css/images/covers/go-hard.jpg"
-  },
-  {
-    "file": "twice/goat.json",
-    "cover": "css/images/covers/goat.jpg"
-  },
-  {
-    "file": "twice/going-crazy.json",
-    "cover": "css/images/covers/going-crazy.jpg"
-  },
-  {
-    "file": "twice/gone.json",
-    "cover": "css/images/covers/gone.jpg"
-  },
-  {
-    "file": "twice/got-the-thrills.json",
-    "cover": "css/images/covers/got-the-thrills.jpg"
-  },
-  {
-    "file": "twice/handle-it.json",
-    "cover": "css/images/covers/handle-it.jpg"
-  },
-  {
-    "file": "twice/headphone.json",
-    "cover": "css/images/covers/headphone.jpg"
-  },
-  {
-    "file": "twice/heartbreak-avenue.json",
-    "cover": "css/images/covers/heartbreak-avenue.jpg"
-  },
-  {
-    "file": "twice/hell-in-heaven.json",
-    "cover": "css/images/covers/hell-in-heaven.jpg"
-  },
-  {
-    "file": "twice/hi-hello.json",
-    "cover": "css/images/covers/hi-hello.jpg"
-  },
-  {
-    "file": "twice/ho.json",
-    "cover": "css/images/covers/ho.jpg"
-  },
-  {
-    "file": "twice/hold-me-tight.json",
-    "cover": "css/images/covers/hold-me-tight.jpg"
-  },
-  {
-    "file": "twice/ice-cream.json",
-    "cover": "css/images/covers/ice-cream.jpg"
-  },
-  {
-    "file": "twice/icon.json",
-    "cover": "css/images/covers/icon.jpg"
-  },
-  {
-    "file": "twice/jelly-jelly.json",
-    "cover": "css/images/covers/jelly-jelly.jpg"
-  },
-  {
-    "file": "twice/kiss-my-troubles-away.json",
-    "cover": "css/images/covers/kiss-my-troubles-away.jpg"
-  },
-  {
-    "file": "twice/lalala.json",
-    "cover": "css/images/covers/lalala.jpg"
-  },
-  {
-    "file": "twice/last-waltz.json",
-    "cover": "css/images/covers/last-waltz.jpg"
-  },
-  {
-    "file": "twice/let-love-go.json",
-    "cover": "css/images/covers/let-love-go.jpg"
-  },
-  {
-    "file": "twice/like-a-fool.json",
-    "cover": "css/images/covers/like-a-fool.jpg"
-  },
-  {
-    "file": "twice/like-it-like-it.json",
-    "cover": "css/images/covers/like-it-like-it.jpg"
-  },
-  {
-    "file": "twice/look-at-me.json",
-    "cover": "css/images/covers/look-at-me.jpg"
-  },
-  {
-    "file": "twice/love-foolish.json",
-    "cover": "css/images/covers/love-foolish.jpg"
-  },
-  {
-    "file": "twice/love-line.json",
-    "cover": "css/images/covers/love-line.jpg"
-  },
-  {
-    "file": "twice/magical.json",
-    "cover": "css/images/covers/magical.jpg"
-  },
-  {
-    "file": "twice/make-me-go.json",
-    "cover": "css/images/covers/make-me-go.jpg"
-  },
-  {
-    "file": "twice/mars.json",
-    "cover": "css/images/covers/mars.jpg"
-  },
-  {
-    "file": "twice/missing-u.json",
-    "cover": "css/images/covers/missing-u.jpg"
-  },
-  {
-    "file": "twice/new-new.json",
-    "cover": "css/images/covers/new-new.jpg"
-  },
-  {
-    "file": "twice/next-page.json",
-    "cover": "css/images/covers/next-page.jpg"
-  },
-  {
-    "file": "twice/one-in-a-million.json",
-    "cover": "css/images/covers/one-in-a-million.jpg"
-  },
-  {
-    "file": "twice/one-three-two.json",
-    "cover": "css/images/covers/one-three-two.jpg"
-  },
-  {
-    "file": "twice/only.json",
-    "cover": "css/images/covers/only.jpg"
-  },
-  {
-    "file": "twice/options.json",
-    "cover": "css/images/covers/options.jpg"
-  },
-  {
-    "file": "twice/oxygen.json",
-    "cover": "css/images/covers/oxygen.jpg"
-  },
-  {
-    "file": "twice/peach-gelato.json",
-    "cover": "css/images/covers/peach-gelato.jpg"
-  },
-  {
-    "file": "twice/pit-a-pat.json",
-    "cover": "css/images/covers/pit-a-pat.jpg"
-  },
-  {
-    "file": "twice/ponytail.json",
-    "cover": "css/images/covers/ponytail.jpg"
-  },
-  {
-    "file": "twice/precious-love.json",
-    "cover": "css/images/covers/precious-love.jpg"
-  },
-  {
-    "file": "twice/push-pull.json",
-    "cover": "css/images/covers/push-pull.jpg"
-  },
-  {
-    "file": "twice/queen.json",
-    "cover": "css/images/covers/queen.jpg"
-  },
-  {
-    "file": "twice/rainbow.json",
-    "cover": "css/images/covers/rainbow.jpg"
-  },
-  {
-    "file": "twice/real-you.json",
-    "cover": "css/images/covers/real-you.jpg"
-  },
-  {
-    "file": "twice/rewind.json",
-    "cover": "css/images/covers/rewind.jpg"
-  },
-  {
-    "file": "twice/right-hand-girl.json",
-    "cover": "css/images/covers/right-hand-girl.jpg"
-  },
-  {
-    "file": "twice/rollin.json",
-    "cover": "css/images/covers/rollin.jpg"
-  },
-  {
-    "file": "twice/rush.json",
-    "cover": "css/images/covers/rush.jpg"
-  },
-  {
-    "file": "twice/say-something.json",
-    "cover": "css/images/covers/say-something.jpg"
-  },
-  {
-    "file": "twice/say-you-love-me.json",
-    "cover": "css/images/covers/say-you-love-me.jpg"
-  },
-  {
-    "file": "twice/scandal.json",
-    "cover": "css/images/covers/scandal.jpg"
-  },
-  {
-    "file": "twice/seesaw.json",
-    "cover": "css/images/covers/seesaw.jpg"
-  },
-  {
-    "file": "twice/shadow.json",
-    "cover": "css/images/covers/shadow.jpg"
-  },
-  {
-    "file": "twice/shot-clock.json",
-    "cover": "css/images/covers/shot-clock.jpg"
-  },
-  {
-    "file": "twice/shot-thru-the-heart.json",
-    "cover": "css/images/covers/shot-thru-the-heart.jpg"
-  },
-  {
-    "file": "twice/someone-like-me.json",
-    "cover": "css/images/covers/someone-like-me.jpg"
-  },
-  {
-    "file": "twice/sos.json",
-    "cover": "css/images/covers/sos.jpg"
-  },
-  {
-    "file": "twice/strawberry.json",
-    "cover": "css/images/covers/strawberry.jpg"
-  },
-  {
-    "file": "twice/stuck-in-my-head.json",
-    "cover": "css/images/covers/stuck-in-my-head.jpg"
-  },
-  {
-    "file": "twice/stuck.json",
-    "cover": "css/images/covers/stuck.jpg"
-  },
-  {
-    "file": "twice/sunset.json",
-    "cover": "css/images/covers/sunset.jpg"
-  },
-  {
-    "file": "twice/sweet-summer-day.json",
-    "cover": "css/images/covers/sweet-summer-day.jpg"
-  },
-  {
-    "file": "twice/sweet-talker.json",
-    "cover": "css/images/covers/sweet-talker.jpg"
-  },
-  {
-    "file": "twice/sweetest-obsession.json",
-    "cover": "css/images/covers/sweetest-obsession.jpg"
-  },
-  {
-    "file": "twice/takedown.json",
-    "cover": "css/images/covers/takedown.jpg"
-  },
-  {
-    "file": "twice/talk-that-talk.json",
-    "cover": "css/images/covers/talk-that-talk.jpg"
-  },
-  {
-    "file": "twice/talk.json",
-    "cover": "css/images/covers/talk.jpg"
-  },
-  {
-    "file": "twice/the-best-thing-i-ever-did.json",
-    "cover": "css/images/covers/the-best-thing-i-ever-did.jpg"
-  },
-  {
-    "file": "twice/this-is-for.json",
-    "cover": "css/images/covers/this-is-for.jpg"
-  },
-  {
-    "file": "twice/three-times-a-day.json",
-    "cover": "css/images/covers/three-times-a-day.jpg"
-  },
-  {
-    "file": "twice/touchdown.json",
-    "cover": "css/images/covers/touchdown.jpg"
-  },
-  {
-    "file": "twice/trick-it.json",
-    "cover": "css/images/covers/trick-it.jpg"
-  },
-  {
-    "file": "twice/trouble.json",
-    "cover": "css/images/covers/trouble.jpg"
-  },
-  {
-    "file": "twice/truth.json",
-    "cover": "css/images/covers/truth.jpg"
-  },
-  {
-    "file": "twice/tuk-tok.json",
-    "cover": "css/images/covers/tuk-tok.jpg"
-  },
-  {
-    "file": "twice/turn-it-up.json",
-    "cover": "css/images/covers/turn-it-up.jpg"
-  },
-  {
-    "file": "twice/turtle.json",
-    "cover": "css/images/covers/turtle.jpg"
-  },
-  {
-    "file": "twice/twenty-four-seven.json",
-    "cover": "css/images/covers/twenty-four-seven.jpg"
-  },
-  {
-    "file": "twice/up-no-more.json",
-    "cover": "css/images/covers/up-no-more.jpg"
-  },
-  {
-    "file": "twice/wallflower.json",
-    "cover": "css/images/covers/wallflower.jpg"
-  },
-  {
-    "file": "twice/when-we-were-kids.json",
-    "cover": "css/images/covers/when-we-were-kids.jpg"
-  },
-  {
-    "file": "twice/woohoo.json",
-    "cover": "css/images/covers/woohoo.jpg"
-  },
-  {
-    "file": "twice/wow.json",
-    "cover": "css/images/covers/wow.jpg"
-  },
-  {
-    "file": "twice/you-get-me.json",
-    "cover": "css/images/covers/you-get-me.jpg"
-  },
-  {
-    "file": "twice/you-in-my-heart.json",
-    "cover": "css/images/covers/you-in-my-heart.jpg"
-  },
-  {
-    "file": "twice/young-wild.json",
-    "cover": "css/images/covers/young-wild.jpg"
-  },
-  {
-    "file": "twice/candy.json",
-    "cover": "css/images/covers/candy.jpg"
-  },
-  {
-    "file": "twice/cheer-up.json",
-    "cover": "css/images/covers/cheer-up.jpg"
-  },
-  {
-    "file": "twice/conversation.json",
-    "cover": "css/images/covers/conversation.jpg"
-  },
-  {
-    "file": "twice/dance-the-night-away.json",
-    "cover": "css/images/covers/dance-the-night-away.jpg"
-  },
-  {
-    "file": "twice/feel-special.json",
-    "cover": "css/images/covers/feel-special.jpg"
-  },
-  {
-    "file": "twice/four.json",
-    "cover": "css/images/covers/four.jpg"
-  },
-  {
-    "file": "twice/heart-shaker.json",
-    "cover": "css/images/covers/heart-shaker.jpg"
-  },
-  {
-    "file": "twice/i-cant-stop-me.json",
-    "cover": "css/images/covers/i-cant-stop-me.jpg"
-  },
-  {
-    "file": "twice/i-got-you.json",
-    "cover": "css/images/covers/i-got-you.jpg"
-  },
-  {
-    "file": "twice/knock-knock.json",
-    "cover": "css/images/covers/knock-knock.jpg"
-  },
-  {
-    "file": "twice/likey.json",
-    "cover": "css/images/covers/likey.jpg"
-  },
-  {
-    "file": "twice/me-you.json",
-    "cover": "css/images/covers/me-you.jpg"
-  },
-  {
-    "file": "twice/merry-happy.json",
-    "cover": "css/images/covers/merry-happy.jpg"
-  },
-  {
-    "file": "twice/moonlight-sunrise.json",
-    "cover": "css/images/covers/moonlight-sunrise.jpg"
-  },
-  {
-    "file": "twice/moonlight.json",
-    "cover": "css/images/covers/moonlight.jpg"
-  },
-  {
-    "file": "twice/more-more.json",
-    "cover": "css/images/covers/more-more.jpg"
-  },
-  {
-    "file": "twice/one-spark.json",
-    "cover": "css/images/covers/one-spark.jpg"
-  },
-  {
-    "file": "twice/ooh-ahh.json",
-    "cover": "css/images/covers/ooh-ahh.jpg"
-  },
-  {
-    "file": "twice/queen-of-hearts.json",
-    "cover": "css/images/covers/queen-of-hearts.jpg"
-  },
-  {
-    "file": "twice/scientist.json",
-    "cover": "css/images/covers/scientist.jpg"
-  },
-  {
-    "file": "twice/set-me-free.json",
-    "cover": "css/images/covers/set-me-free.jpg"
-  },
-  {
-    "file": "twice/signal.json",
-    "cover": "css/images/covers/signal.jpg"
-  },
-  {
-    "file": "twice/strategy.json",
-    "cover": "css/images/covers/strategy.jpg"
-  },
-  {
-    "file": "twice/the-feels.json",
-    "cover": "css/images/covers/the-feels.jpg"
-  },
-  {
-    "file": "twice/tt.json",
-    "cover": "css/images/covers/tt.jpg"
-  },
-  {
-    "file": "twice/what-is-love.json",
-    "cover": "css/images/covers/what-is-love.jpg"
-  },
-  {
-    "file": "twice/yes-or-yes.json",
-    "cover": "css/images/covers/yes-or-yes.jpg"
-  },
-  {
-    "file": "stray-kids/0801.json",
-    "cover": "css/images/covers/0801.jpg"
-  },
-  {
-    "file": "stray-kids/airplane.json",
-    "cover": "css/images/covers/airplane.jpg"
-  },
-  {
-    "file": "stray-kids/another-day.json",
-    "cover": "css/images/covers/another-day.jpg"
-  },
-  {
-    "file": "stray-kids/bleep.json",
-    "cover": "css/images/covers/bleep.jpg"
-  },
-  {
-    "file": "stray-kids/blueprint.json",
-    "cover": "css/images/covers/blueprint.jpg"
-  },
-  {
-    "file": "stray-kids/ceremony.json",
-    "cover": "css/images/covers/ceremony.jpg"
-  },
-  {
-    "file": "stray-kids/cheese.json",
-    "cover": "css/images/covers/cheese.jpg"
-  },
-  {
-    "file": "stray-kids/collision.json",
-    "cover": "css/images/covers/collision.jpg"
-  },
-  {
-    "file": "stray-kids/creed.json",
-    "cover": "css/images/covers/creed.jpg"
-  },
-  {
-    "file": "stray-kids/dlc.json",
-    "cover": "css/images/covers/dlc.jpg"
-  },
-  {
-    "file": "stray-kids/domino.json",
-    "cover": "css/images/covers/domino.jpg"
-  },
-  {
-    "file": "stray-kids/easy.json",
-    "cover": "css/images/covers/easy.jpg"
-  },
-  {
-    "file": "stray-kids/fnf.json",
-    "cover": "css/images/covers/fnf.jpg"
-  },
-  {
-    "file": "stray-kids/get-lit.json",
-    "cover": "css/images/covers/get-lit.jpg"
-  },
-  {
-    "file": "stray-kids/ghost.json",
-    "cover": "css/images/covers/ghost.jpg"
-  },
-  {
-    "file": "stray-kids/go.json",
-    "cover": "css/images/covers/go.jpg"
-  },
-  {
-    "file": "stray-kids/gods-menu.json",
-    "cover": "css/images/covers/gods-menu.jpg"
-  },
-  {
-    "file": "stray-kids/gone-away.json",
-    "cover": "css/images/covers/gone-away.jpg"
-  },
-  {
-    "file": "stray-kids/gone-days.json",
-    "cover": "css/images/covers/gone-days.jpg"
-  },
-  {
-    "file": "stray-kids/half-time.json",
-    "cover": "css/images/covers/half-time.jpg"
-  },
-  {
-    "file": "stray-kids/hall-of-fame.json",
-    "cover": "css/images/covers/hall-of-fame.jpg"
-  },
-  {
-    "file": "stray-kids/haven.json",
-    "cover": "css/images/covers/haven.jpg"
-  },
-  {
-    "file": "stray-kids/in-my-head.json",
-    "cover": "css/images/covers/in-my-head.jpg"
-  },
-  {
-    "file": "stray-kids/item.json",
-    "cover": "css/images/covers/item.jpg"
-  },
-  {
-    "file": "stray-kids/mess.json",
-    "cover": "css/images/covers/mess.jpg"
-  },
-  {
-    "file": "stray-kids/mixtape-oh.json",
-    "cover": "css/images/covers/mixtape-oh.jpg"
-  },
-  {
-    "file": "stray-kids/mixtape-time-out.json",
-    "cover": "css/images/covers/mixtape-time-out.jpg"
-  },
-  {
-    "file": "stray-kids/on-track.json",
-    "cover": "css/images/covers/on-track.jpg"
-  },
-  {
-    "file": "stray-kids/pacemaker.json",
-    "cover": "css/images/covers/pacemaker.jpg"
-  },
-  {
-    "file": "stray-kids/phobia.json",
-    "cover": "css/images/covers/phobia.jpg"
-  },
-  {
-    "file": "stray-kids/phoenix.json",
-    "cover": "css/images/covers/phoenix.jpg"
-  },
-  {
-    "file": "stray-kids/red-lights.json",
-    "cover": "css/images/covers/red-lights.jpg"
-  },
-  {
-    "file": "stray-kids/s-class.json",
-    "cover": "css/images/covers/s-class.jpg"
-  },
-  {
-    "file": "stray-kids/secret-secret.json",
-    "cover": "css/images/covers/secret-secret.jpg"
-  },
-  {
-    "file": "stray-kids/silent-cry.json",
-    "cover": "css/images/covers/silent-cry.jpg"
-  },
-  {
-    "file": "stray-kids/sorry-i-love-you.json",
-    "cover": "css/images/covers/sorry-i-love-you.jpg"
-  },
-  {
-    "file": "stray-kids/ssick.json",
-    "cover": "css/images/covers/ssick.jpg"
-  },
-  {
-    "file": "stray-kids/star-lost.json",
-    "cover": "css/images/covers/star-lost.jpg"
-  },
-  {
-    "file": "stray-kids/surfin.json",
-    "cover": "css/images/covers/surfin.jpg"
-  },
-  {
-    "file": "stray-kids/ta.json",
-    "cover": "css/images/covers/ta.jpg"
-  },
-  {
-    "file": "stray-kids/the-sound.json",
-    "cover": "css/images/covers/the-sound.jpg"
-  },
-  {
-    "file": "stray-kids/the-view.json",
-    "cover": "css/images/covers/the-view.jpg"
-  },
-  {
-    "file": "stray-kids/thunderous.json",
-    "cover": "css/images/covers/thunderous.jpg"
-  },
-  {
-    "file": "stray-kids/wolfgang.json",
-    "cover": "css/images/covers/wolfgang.jpg"
-  },
-  {
-    "file": "stray-kids/slump-jp.json",
-    "cover": "css/images/covers/slump-jp.jpg"
-  },
-  {
-    "file": "stray-kids/top-jp.json",
-    "cover": "css/images/covers/top-jp.jpg"
-  },
-  {
-    "file": "stray-kids/topline.json",
-    "cover": "css/images/covers/topline.jpg"
-  },
-  {
-    "file": "stray-kids/0325.json",
-    "cover": "css/images/covers/0325.jpg"
-  },
-  {
-    "file": "stray-kids/19.json",
-    "cover": "css/images/covers/19.jpg"
-  },
-  {
-    "file": "stray-kids/3rd-eye.json",
-    "cover": "css/images/covers/3rd-eye.jpg"
-  },
-  {
-    "file": "stray-kids/alien.json",
-    "cover": "css/images/covers/alien.jpg"
-  },
-  {
-    "file": "stray-kids/awaken.json",
-    "cover": "css/images/covers/awaken.jpg"
-  },
-  {
-    "file": "stray-kids/awkward-silence.json",
-    "cover": "css/images/covers/awkward-silence.jpg"
-  },
-  {
-    "file": "stray-kids/because.json",
-    "cover": "css/images/covers/because.jpg"
-  },
-  {
-    "file": "stray-kids/behind-the-light.json",
-    "cover": "css/images/covers/behind-the-light.jpg"
-  },
-  {
-    "file": "stray-kids/boxer.json",
-    "cover": "css/images/covers/boxer.jpg"
-  },
-  {
-    "file": "stray-kids/broken-compass.json",
-    "cover": "css/images/covers/broken-compass.jpg"
-  },
-  {
-    "file": "stray-kids/chronosaurus.json",
-    "cover": "css/images/covers/chronosaurus.jpg"
-  },
-  {
-    "file": "stray-kids/close.json",
-    "cover": "css/images/covers/close.jpg"
-  },
-  {
-    "file": "stray-kids/deep-end.json",
-    "cover": "css/images/covers/deep-end.jpg"
-  },
-  {
-    "file": "stray-kids/district-9.json",
-    "cover": "css/images/covers/district-9.jpg"
-  },
-  {
-    "file": "stray-kids/doodle.json",
-    "cover": "css/images/covers/doodle.jpg"
-  },
-  {
-    "file": "stray-kids/drive.json",
-    "cover": "css/images/covers/drive.jpg"
-  },
-  {
-    "file": "stray-kids/fam.json",
-    "cover": "css/images/covers/fam.jpg"
-  },
-  {
-    "file": "stray-kids/for-you.json",
-    "cover": "css/images/covers/for-you.jpg"
-  },
-  {
-    "file": "stray-kids/get-cool.json",
-    "cover": "css/images/covers/get-cool.jpg"
-  },
-  {
-    "file": "stray-kids/grow-up.json",
-    "cover": "css/images/covers/grow-up.jpg"
-  },
-  {
-    "file": "stray-kids/grrr.json",
-    "cover": "css/images/covers/grrr.jpg"
-  },
-  {
-    "file": "stray-kids/happy.json",
-    "cover": "css/images/covers/happy.jpg"
-  },
-  {
-    "file": "stray-kids/hellevator.json",
-    "cover": "css/images/covers/hellevator.jpg"
-  },
-  {
-    "file": "stray-kids/hoodie-season.json",
-    "cover": "css/images/covers/hoodie-season.jpg"
-  },
-  {
-    "file": "stray-kids/hug-me.json",
-    "cover": "css/images/covers/hug-me.jpg"
-  },
-  {
-    "file": "stray-kids/i-am-you.json",
-    "cover": "css/images/covers/i-am-you.jpg"
-  },
-  {
-    "file": "stray-kids/i-got-it.json",
-    "cover": "css/images/covers/i-got-it.jpg"
-  },
-  {
-    "file": "stray-kids/i-hate-to-admit.json",
-    "cover": "css/images/covers/i-hate-to-admit.jpg"
-  },
-  {
-    "file": "stray-kids/icecream.json",
-    "cover": "css/images/covers/icecream.jpg"
-  },
-  {
-    "file": "stray-kids/insomnia.json",
-    "cover": "css/images/covers/insomnia.jpg"
-  },
-  {
-    "file": "stray-kids/limbo.json",
-    "cover": "css/images/covers/limbo.jpg"
-  },
-  {
-    "file": "stray-kids/love-untold.json",
-    "cover": "css/images/covers/love-untold.jpg"
-  },
-  {
-    "file": "stray-kids/lovestay.json",
-    "cover": "css/images/covers/lovestay.jpg"
-  },
-  {
-    "file": "stray-kids/maknae-on-top.json",
-    "cover": "css/images/covers/maknae-on-top.jpg"
-  },
-  {
-    "file": "stray-kids/maze-of-memories.json",
-    "cover": "css/images/covers/maze-of-memories.jpg"
-  },
-  {
-    "file": "stray-kids/mia.json",
-    "cover": "css/images/covers/mia.jpg"
-  },
-  {
-    "file": "stray-kids/miroh.json",
-    "cover": "css/images/covers/miroh.jpg"
-  },
-  {
-    "file": "stray-kids/mirror.json",
-    "cover": "css/images/covers/mirror.jpg"
-  },
-  {
-    "file": "stray-kids/miss-you.json",
-    "cover": "css/images/covers/miss-you.jpg"
-  },
-  {
-    "file": "stray-kids/my-pace.json",
-    "cover": "css/images/covers/my-pace.jpg"
-  },
-  {
-    "file": "stray-kids/my-side.json",
-    "cover": "css/images/covers/my-side.jpg"
-  },
-  {
-    "file": "stray-kids/n-s.json",
-    "cover": "css/images/covers/n-s.jpg"
-  },
-  {
-    "file": "stray-kids/piece-of-a-puzzle.json",
-    "cover": "css/images/covers/piece-of-a-puzzle.jpg"
-  },
-  {
-    "file": "stray-kids/placebo.json",
-    "cover": "css/images/covers/placebo.jpg"
-  },
-  {
-    "file": "stray-kids/question.json",
-    "cover": "css/images/covers/question.jpg"
-  },
-  {
-    "file": "stray-kids/rock.json",
-    "cover": "css/images/covers/rock.jpg"
-  },
-  {
-    "file": "stray-kids/run.json",
-    "cover": "css/images/covers/run.jpg"
-  },
-  {
-    "file": "stray-kids/scars.json",
-    "cover": "css/images/covers/scars.jpg"
-  },
-  {
-    "file": "stray-kids/side-effects.json",
-    "cover": "css/images/covers/side-effects.jpg"
-  },
-  {
-    "file": "stray-kids/spread-my-wings.json",
-    "cover": "css/images/covers/spread-my-wings.jpg"
-  },
-  {
-    "file": "stray-kids/stars-and-raindrops.json",
-    "cover": "css/images/covers/stars-and-raindrops.jpg"
-  },
-  {
-    "file": "stray-kids/streetlight.json",
-    "cover": "css/images/covers/streetlight.jpg"
-  },
-  {
-    "file": "stray-kids/tmt.json",
-    "cover": "css/images/covers/tmt.jpg"
-  },
-  {
-    "file": "stray-kids/up-all-night.json",
-    "cover": "css/images/covers/up-all-night.jpg"
-  },
-  {
-    "file": "stray-kids/victory-song.json",
-    "cover": "css/images/covers/victory-song.jpg"
-  },
-  {
-    "file": "stray-kids/voices.json",
-    "cover": "css/images/covers/voices.jpg"
-  },
-  {
-    "file": "stray-kids/wish-you-back.json",
-    "cover": "css/images/covers/wish-you-back.jpg"
-  },
-  {
-    "file": "stray-kids/yayaya.json",
-    "cover": "css/images/covers/yayaya.jpg"
-  },
-  {
-    "file": "stray-kids/zone.json",
-    "cover": "css/images/covers/zone.jpg"
-  },
-  {
-    "file": "stray-kids/24-to-25.json",
-    "cover": "css/images/covers/24-to-25.jpg"
-  },
-  {
-    "file": "stray-kids/all-in.json",
-    "cover": "css/images/covers/all-in.jpg"
-  },
-  {
-    "file": "stray-kids/any.json",
-    "cover": "css/images/covers/any.jpg"
-  },
-  {
-    "file": "stray-kids/back-door.json",
-    "cover": "css/images/covers/back-door.jpg"
-  },
-  {
-    "file": "stray-kids/christmas-evel.json",
-    "cover": "css/images/covers/christmas-evel.jpg"
-  },
-  {
-    "file": "stray-kids/winter-falls.json",
-    "cover": "css/images/covers/winter-falls.jpg"
-  },
-  {
-    "file": "bts/2-3-hoping-for-more-good-days.json",
-    "cover": "css/images/covers/2-3-hoping-for-more-good-days.jpg"
-  },
-  {
-    "file": "bts/21st-century-girls.json",
-    "cover": "css/images/covers/21st-century-girls.jpg"
-  },
-  {
-    "file": "bts/24-7-heaven.json",
-    "cover": "css/images/covers/24-7-heaven.jpg"
-  },
-  {
-    "file": "bts/airplane-pt-2.json",
-    "cover": "css/images/covers/airplane-pt-2.jpg"
-  },
-  {
-    "file": "bts/airplane-pt2-jp.json",
-    "cover": "css/images/covers/airplane-pt2-jp.jpg"
-  },
-  {
-    "file": "bts/am-i-wrong.json",
-    "cover": "css/images/covers/am-i-wrong.jpg"
-  },
-  {
-    "file": "bts/anpanman.json",
-    "cover": "css/images/covers/anpanman.jpg"
-  },
-  {
-    "file": "bts/awake.json",
-    "cover": "css/images/covers/awake.jpg"
-  },
-  {
-    "file": "bts/begin.json",
-    "cover": "css/images/covers/begin.jpg"
-  },
-  {
-    "file": "bts/best-of-me.json",
-    "cover": "css/images/covers/best-of-me.jpg"
-  },
-  {
-    "file": "bts/black-swan-jp.json",
-    "cover": "css/images/covers/black-swan-jp.jpg"
-  },
-  {
-    "file": "bts/black-swan.json",
-    "cover": "css/images/covers/black-swan.jpg"
-  },
-  {
-    "file": "bts/blanket-kick.json",
-    "cover": "css/images/covers/blanket-kick.jpg"
-  },
-  {
-    "file": "bts/blood-sweat-tears.json",
-    "cover": "css/images/covers/blood-sweat-tears.jpg"
-  },
-  {
-    "file": "bts/born-singer.json",
-    "cover": "css/images/covers/born-singer.jpg"
-  },
-  {
-    "file": "bts/boy-in-luv.json",
-    "cover": "css/images/covers/boy-in-luv.jpg"
-  },
-  {
-    "file": "bts/bts-cypher-pt-1.json",
-    "cover": "css/images/covers/bts-cypher-pt-1.jpg"
-  },
-  {
-    "file": "bts/bts-cypher-pt3-killer.json",
-    "cover": "css/images/covers/bts-cypher-pt3-killer.jpg"
-  },
-  {
-    "file": "bts/butter.json",
-    "cover": "css/images/covers/butter.jpg"
-  },
-  {
-    "file": "bts/can-you-turn-off-your-phone.json",
-    "cover": "css/images/covers/can-you-turn-off-your-phone.jpg"
-  },
-  {
-    "file": "bts/coffee.json",
-    "cover": "css/images/covers/coffee.jpg"
-  },
-  {
-    "file": "bts/danger.json",
-    "cover": "css/images/covers/danger.jpg"
-  },
-  {
-    "file": "bts/dimple.json",
-    "cover": "css/images/covers/dimple.jpg"
-  },
-  {
-    "file": "bts/dionysus-jp.json",
-    "cover": "css/images/covers/dionysus-jp.jpg"
-  },
-  {
-    "file": "bts/dionysus.json",
-    "cover": "css/images/covers/dionysus.jpg"
-  },
-  {
-    "file": "bts/dis-ease.json",
-    "cover": "css/images/covers/dis-ease.jpg"
-  },
-  {
-    "file": "bts/dna.json",
-    "cover": "css/images/covers/dna.jpg"
-  },
-  {
-    "file": "bts/dynamite.json",
-    "cover": "css/images/covers/dynamite.jpg"
-  },
-  {
-    "file": "bts/epilogue-young-forever.json",
-    "cover": "css/images/covers/epilogue-young-forever.jpg"
-  },
-  {
-    "file": "bts/euphoria.json",
-    "cover": "css/images/covers/euphoria.jpg"
-  },
-  {
-    "file": "bts/fake-love-jp.json",
-    "cover": "css/images/covers/fake-love-jp.jpg"
-  },
-  {
-    "file": "bts/fake-love.json",
-    "cover": "css/images/covers/fake-love.jpg"
-  },
-  {
-    "file": "bts/film-out.json",
-    "cover": "css/images/covers/film-out.jpg"
-  },
-  {
-    "file": "bts/filter.json",
-    "cover": "css/images/covers/filter.jpg"
-  },
-  {
-    "file": "bts/fire.json",
-    "cover": "css/images/covers/fire.jpg"
-  },
-  {
-    "file": "bts/first-love.json",
-    "cover": "css/images/covers/first-love.jpg"
-  },
-  {
-    "file": "bts/fly-to-my-room.json",
-    "cover": "css/images/covers/fly-to-my-room.jpg"
-  },
-  {
-    "file": "bts/for-you.json",
-    "cover": "css/images/covers/for-you.jpg"
-  },
-  {
-    "file": "bts/friends.json",
-    "cover": "css/images/covers/friends.jpg"
-  },
-  {
-    "file": "bts/heartbeat.json",
-    "cover": "css/images/covers/heartbeat.jpg"
-  },
-  {
-    "file": "bts/hip-hop-lover.json",
-    "cover": "css/images/covers/hip-hop-lover.jpg"
-  },
-  {
-    "file": "bts/hold-me-tight.json",
-    "cover": "css/images/covers/hold-me-tight.jpg"
-  },
-  {
-    "file": "bts/home.json",
-    "cover": "css/images/covers/home.jpg"
-  },
-  {
-    "file": "bts/house-of-cards.json",
-    "cover": "css/images/covers/house-of-cards.jpg"
-  },
-  {
-    "file": "bts/idol-jp.json",
-    "cover": "css/images/covers/idol-jp.jpg"
-  },
-  {
-    "file": "bts/idol.json",
-    "cover": "css/images/covers/idol.jpg"
-  },
-  {
-    "file": "bts/inner-child.json",
-    "cover": "css/images/covers/inner-child.jpg"
-  },
-  {
-    "file": "bts/interlude-shadow.json",
-    "cover": "css/images/covers/interlude-shadow.jpg"
-  },
-  {
-    "file": "bts/intro-boy-meets-evil.json",
-    "cover": "css/images/covers/intro-boy-meets-evil.jpg"
-  },
-  {
-    "file": "bts/intro-orul82.json",
-    "cover": "css/images/covers/intro-orul82.jpg"
-  },
-  {
-    "file": "bts/intro-persona.json",
-    "cover": "css/images/covers/intro-persona.jpg"
-  },
-  {
-    "file": "bts/intro-serendipity.json",
-    "cover": "css/images/covers/intro-serendipity.jpg"
-  },
-  {
-    "file": "bts/intro-singularity.json",
-    "cover": "css/images/covers/intro-singularity.jpg"
-  },
-  {
-    "file": "bts/intro-skool-luv-affair.json",
-    "cover": "css/images/covers/intro-skool-luv-affair.jpg"
-  },
-  {
-    "file": "bts/intro-what-am-i-to-you.json",
-    "cover": "css/images/covers/intro-what-am-i-to-you.jpg"
-  },
-  {
-    "file": "bts/its-definitely-you.json",
-    "cover": "css/images/covers/its-definitely-you.jpg"
-  },
-  {
-    "file": "bts/jump.json",
-    "cover": "css/images/covers/jump.jpg"
-  },
-  {
-    "file": "bts/just-one-day.json",
-    "cover": "css/images/covers/just-one-day.jpg"
-  },
-  {
-    "file": "bts/let-me-know.json",
-    "cover": "css/images/covers/let-me-know.jpg"
-  },
-  {
-    "file": "bts/lie.json",
-    "cover": "css/images/covers/lie.jpg"
-  },
-  {
-    "file": "bts/life-goes-on.json",
-    "cover": "css/images/covers/life-goes-on.jpg"
-  },
-  {
-    "file": "bts/look-here.json",
-    "cover": "css/images/covers/look-here.jpg"
-  },
-  {
-    "file": "bts/lost.json",
-    "cover": "css/images/covers/lost.jpg"
-  },
-  {
-    "file": "bts/louder-than-bombs.json",
-    "cover": "css/images/covers/louder-than-bombs.jpg"
-  },
-  {
-    "file": "bts/love-maze.json",
-    "cover": "css/images/covers/love-maze.jpg"
-  },
-  {
-    "file": "bts/ma-city.json",
-    "cover": "css/images/covers/ma-city.jpg"
-  },
-  {
-    "file": "bts/magic-shop.json",
-    "cover": "css/images/covers/magic-shop.jpg"
-  },
-  {
-    "file": "bts/make-it-right-jp.json",
-    "cover": "css/images/covers/make-it-right-jp.jpg"
-  },
-  {
-    "file": "bts/make-it-right.json",
-    "cover": "css/images/covers/make-it-right.jpg"
-  },
-  {
-    "file": "bts/mama.json",
-    "cover": "css/images/covers/mama.jpg"
-  },
-  {
-    "file": "bts/mikrokosmos.json",
-    "cover": "css/images/covers/mikrokosmos.jpg"
-  },
-  {
-    "file": "bts/moon.json",
-    "cover": "css/images/covers/moon.jpg"
-  },
-  {
-    "file": "bts/my-time.json",
-    "cover": "css/images/covers/my-time.jpg"
-  },
-  {
-    "file": "bts/my-universe.json",
-    "cover": "css/images/covers/my-universe.jpg"
-  },
-  {
-    "file": "bts/no-more-dream-jp.json",
-    "cover": "css/images/covers/no-more-dream-jp.jpg"
-  },
-  {
-    "file": "bts/no-more-dream.json",
-    "cover": "css/images/covers/no-more-dream.jpg"
-  },
-  {
-    "file": "bts/no.json",
-    "cover": "css/images/covers/no.jpg"
-  },
-  {
-    "file": "bts/on-jp.json",
-    "cover": "css/images/covers/on-jp.jpg"
-  },
-  {
-    "file": "bts/on.json",
-    "cover": "css/images/covers/on.jpg"
-  },
-  {
-    "file": "bts/outro-ego.json",
-    "cover": "css/images/covers/outro-ego.jpg"
-  },
-  {
-    "file": "bts/outro-luv-in-skool.json",
-    "cover": "css/images/covers/outro-luv-in-skool.jpg"
-  },
-  {
-    "file": "bts/outro-tear.json",
-    "cover": "css/images/covers/outro-tear.jpg"
-  },
-  {
-    "file": "bts/paradise.json",
-    "cover": "css/images/covers/paradise.jpg"
-  },
-  {
-    "file": "bts/permission-to-dance.json",
-    "cover": "css/images/covers/permission-to-dance.jpg"
-  },
-  {
-    "file": "bts/pied-piper.json",
-    "cover": "css/images/covers/pied-piper.jpg"
-  },
-  {
-    "file": "bts/rain.json",
-    "cover": "css/images/covers/rain.jpg"
-  },
-  {
-    "file": "bts/reflection.json",
-    "cover": "css/images/covers/reflection.jpg"
-  },
-  {
-    "file": "bts/respect.json",
-    "cover": "css/images/covers/respect.jpg"
-  },
-  {
-    "file": "bts/run.json",
-    "cover": "css/images/covers/run.jpg"
-  },
-  {
-    "file": "bts/satoori-rap.json",
-    "cover": "css/images/covers/satoori-rap.jpg"
-  },
-  {
-    "file": "bts/save-me.json",
-    "cover": "css/images/covers/save-me.jpg"
-  },
-  {
-    "file": "bts/second-grade.json",
-    "cover": "css/images/covers/second-grade.jpg"
-  },
-  {
-    "file": "bts/so-what.json",
-    "cover": "css/images/covers/so-what.jpg"
-  },
-  {
-    "file": "bts/spring-day.json",
-    "cover": "css/images/covers/spring-day.jpg"
-  },
-  {
-    "file": "bts/stay-gold.json",
-    "cover": "css/images/covers/stay-gold.jpg"
-  },
-  {
-    "file": "bts/stay.json",
-    "cover": "css/images/covers/stay.jpg"
-  },
-  {
-    "file": "bts/stigma.json",
-    "cover": "css/images/covers/stigma.jpg"
-  },
-  {
-    "file": "bts/telepathy.json",
-    "cover": "css/images/covers/telepathy.jpg"
-  },
-  {
-    "file": "bts/the-rise-of-bangtan.json",
-    "cover": "css/images/covers/the-rise-of-bangtan.jpg"
-  },
-  {
-    "file": "bts/the-truth-untold.json",
-    "cover": "css/images/covers/the-truth-untold.jpg"
-  },
-  {
-    "file": "bts/tomorrow.json",
-    "cover": "css/images/covers/tomorrow.jpg"
-  },
-  {
-    "file": "bts/trivia-seesaw.json",
-    "cover": "css/images/covers/trivia-seesaw.jpg"
-  },
-  {
-    "file": "bts/ugh.json",
-    "cover": "css/images/covers/ugh.jpg"
-  },
-  {
-    "file": "bts/we-are-bulletproof-pt-2.json",
-    "cover": "css/images/covers/we-are-bulletproof-pt-2.jpg"
-  },
-  {
-    "file": "bts/whalien-52.json",
-    "cover": "css/images/covers/whalien-52.jpg"
-  },
-  {
-    "file": "bts/where-did-you-come-from.json",
-    "cover": "css/images/covers/where-did-you-come-from.jpg"
-  },
-  {
-    "file": "bts/yet-to-come.json",
-    "cover": "css/images/covers/yet-to-come.jpg"
-  }
+  {"file":"seventeen/pretty-u.json","id":"pretty-u","name":"Pretty U","group":"seventeen","album":"FIRST ‘Love & Letter’","released":"2016-04-24","cover":"css/images/covers/pretty-u.jpg","hasLyrics":true},
+  {"file":"seventeen/24h.json","id":"24h","name":"24H (Korean Ver.)","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/24h.jpg","hasLyrics":true},
+  {"file":"seventeen/boomboom.json","id":"boomboom","name":"BOOMBOOM (붐붐)","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/boomboom.jpg","hasLyrics":true},
+  {"file":"seventeen/call-call-call.json","id":"call-call-call","name":"Call Call Call (Korean Ver.)","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/call-call-call.jpg","hasLyrics":true},
+  {"file":"seventeen/clap.json","id":"clap","name":"CLAP (박수)","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/clap.jpg","hasLyrics":true},
+  {"file":"seventeen/dont-wanna-cry.json","id":"dont-wanna-cry","name":"Don’t Wanna Cry (울고 싶지 않아)","group":"seventeen","album":"Al1","released":"2017-05-22","cover":"css/images/covers/dont-wanna-cry.jpg","hasLyrics":true},
+  {"file":"seventeen/dream.json","id":"dream","name":"DREAM (Korean Ver.)","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/dream.jpg","hasLyrics":true},
+  {"file":"seventeen/fallin-flower.json","id":"fallin-flower","name":"Fallin’ Flower (Korean Ver.)","group":"seventeen","album":"SECTOR 17","released":"2022-07-18","cover":"css/images/covers/fallin-flower.jpg","hasLyrics":true},
+  {"file":"seventeen/fml.json","id":"fml","name":"F*ck My Life","group":"seventeen","album":"[","released":"2023-04-24","cover":"css/images/covers/fml.jpg","hasLyrics":true},
+  {"file":"seventeen/god-of-music.json","id":"god-of-music","name":"God of Music (음악의 신)","group":"seventeen","album":"SEVENTEEN 11th Mini Album ‘SEVENTEENTH HEAVEN’","released":"2023-10-23","cover":"css/images/covers/god-of-music.jpg","hasLyrics":true},
+  {"file":"seventeen/home.json","id":"home","name":"Home","group":"seventeen","album":"YOU MADE MY DAWN","released":"2019-01-21","cover":"css/images/covers/home.jpg","hasLyrics":true},
+  {"file":"seventeen/hot.json","id":"hot","name":"HOT","group":"seventeen","album":"Face the Sun","released":"2022-05-27","cover":"css/images/covers/hot.jpg","hasLyrics":true},
+  {"file":"seventeen/ima.json","id":"ima","name":"Ima -Even if the world ends tomorrow- (Korean Ver.)","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/ima.jpg","hasLyrics":true},
+  {"file":"seventeen/lalali.json","id":"lalali","name":"LALALI","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/lalali.jpg","hasLyrics":true},
+  {"file":"seventeen/left-and-right.json","id":"left-and-right","name":"Left & Right","group":"seventeen","album":"Heng:garæ","released":"2020-06-22","cover":"css/images/covers/left-and-right.jpg","hasLyrics":true},
+  {"file":"seventeen/maestro.json","id":"maestro","name":"MAESTRO","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/maestro.jpg","hasLyrics":true},
+  {"file":"seventeen/mansae.json","id":"mansae","name":"Mansae (만세)","group":"seventeen","album":"BOYS BE","released":"2015-09-10","cover":"css/images/covers/mansae.jpg","hasLyrics":true},
+  {"file":"seventeen/not-alone.json","id":"not-alone","name":"Not Alone (Korean Ver.)","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/not-alone.jpg","hasLyrics":true},
+  {"file":"seventeen/power-of-love.json","id":"power-of-love","name":"Power of Love (Korean Ver.)","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/power-of-love.jpg","hasLyrics":true},
+  {"file":"seventeen/ready-to-love.json","id":"ready-to-love","name":"Ready to love","group":"seventeen","album":"Your Choice","released":"2021-06-18","cover":"css/images/covers/ready-to-love.jpg","hasLyrics":true},
+  {"file":"seventeen/rock-with-you.json","id":"rock-with-you","name":"Rock with you","group":"seventeen","album":"Attacca","released":"2021-10-22","cover":"css/images/covers/rock-with-you.jpg","hasLyrics":true},
+  {"file":"seventeen/spell.json","id":"spell","name":"Spell","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/spell.jpg","hasLyrics":true},
+  {"file":"seventeen/super.json","id":"super","name":"Super (손오공)","group":"seventeen","album":"SEVENTEEN 10th Mini Album ‘FML’","released":"2023-04-24","cover":"css/images/covers/super.jpg","hasLyrics":true},
+  {"file":"seventeen/thanks.json","id":"thanks","name":"THANKS (고맙다)","group":"seventeen","album":"DIRECTOR’S CUT","released":"2018-02-05","cover":"css/images/covers/thanks.jpg","hasLyrics":true},
+  {"file":"seventeen/very-nice.json","id":"very-nice","name":"Very Nice (아주 Nice)","group":"seventeen","album":"Love&Letter repackage album","released":"2016-07-04","cover":"css/images/covers/very-nice.jpg","hasLyrics":true},
+  {"file":"seventeen/world.json","id":"world","name":"_WORLD","group":"seventeen","album":"SECTOR 17","released":"2022-07-18","cover":"css/images/covers/world.jpg","hasLyrics":true},
+  {"file":"seventeen/shohikigen.json","id":"shohikigen","name":"Shohikigen","group":"seventeen","album":"Shohikigen (消費期限)","released":"2024-11-11","cover":"css/images/covers/shohikigen.jpg","hasLyrics":true},
+  {"file":"seventeen/ima-jp.json","id":"ima-jp","name":"Ima -Even if the world ends tomorrow- (Japanese Ver.)","group":"seventeen","album":"ALWAYS YOURS","released":"2023-08-23","cover":"css/images/covers/ima-jp.jpg","hasLyrics":true},
+  {"file":"seventeen/fallin-flower-jp.json","id":"fallin-flower-jp","name":"Fallin' Flower (Japanese Ver.)","group":"seventeen","album":"舞い落ちる花びら (Fallin’ Flower)","released":"2020-04-01","cover":"css/images/covers/fallin-flower-jp.jpg","hasLyrics":true},
+  {"file":"seventeen/not-alone-jp.json","id":"not-alone-jp","name":"Hitorijanai (Japanese Ver.)","group":"seventeen","album":"ひとりじゃない","released":"2021-04-21","cover":"css/images/covers/not-alone-jp.jpg","hasLyrics":true},
+  {"file":"seventeen/power-of-love-jp.json","id":"power-of-love-jp","name":"Power of Love (Japanese Ver.)","group":"seventeen","released":"2021-11-29","cover":"css/images/covers/power-of-love-jp.jpg","hasLyrics":true},
+  {"file":"seventeen/adore-u.json","id":"adore-u","name":"Adore U","group":"seventeen","album":"17 CARAT","released":"2015-05-29","cover":"css/images/covers/adore-u.jpg","hasLyrics":true},
+  {"file":"seventeen/fear.json","id":"fear","name":"Fear","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/fear.jpg","hasLyrics":true},
+  {"file":"seventeen/oh-my.json","id":"oh-my","name":"Oh My!","group":"seventeen","album":"YOU MAKE MY DAY","released":"2018-07-16","cover":"css/images/covers/oh-my.jpg","hasLyrics":true},
+  {"file":"seventeen/cheers-to-youth.json","id":"cheers-to-youth","name":"Cheers to youth","group":"seventeen","released":"2024-04-29","cover":"css/images/covers/cheers-to-youth.jpg","hasLyrics":true},
+  {"file":"seventeen/happy-ending.json","id":"happy-ending","name":"Happy Ending","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/happy-ending.jpg","hasLyrics":true},
+  {"file":"seventeen/home-run.json","id":"home-run","name":"HOME;RUN","group":"seventeen","album":"; [Semicolon]","released":"2020-10-19","cover":"css/images/covers/home-run.jpg","hasLyrics":true},
+  {"file":"seventeen/headliner.json","id":"headliner","name":"Headliner","group":"seventeen","album":"SEVENTEEN 11th Mini Album ‘SEVENTEENTH HEAVEN’","released":"2023-10-23","cover":"css/images/covers/headliner.jpg","hasLyrics":true},
+  {"file":"seventeen/april-shower.json","id":"april-shower","name":"April shower","group":"seventeen","album":"SEVENTEEN 10th Mini Album ‘FML’","released":"2023-04-24","cover":"css/images/covers/april-shower.jpg","hasLyrics":true},
+  {"file":"seventeen/crush.json","id":"crush","name":"Crush","group":"seventeen","album":"Attacca","released":"2021-10-22","cover":"css/images/covers/crush.jpg","hasLyrics":true},
+  {"file":"seventeen/snap-shoot.json","id":"snap-shoot","name":"Snap Shoot","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/snap-shoot.jpg","hasLyrics":true},
+  {"file":"seventeen/darling.json","id":"darling","name":"Darl+ing","group":"seventeen","album":"Darl＋ing","released":"2022-04-15","cover":"css/images/covers/darling.jpg","hasLyrics":true},
+  {"file":"seventeen/anyone.json","id":"anyone","name":"Anyone","group":"seventeen","album":"Your Choice","released":"2021-06-18","cover":"css/images/covers/anyone.jpg","hasLyrics":true},
+  {"file":"seventeen/hit.json","id":"hit","name":"HIT","group":"seventeen","album":"HIT","released":"2019-08-05","cover":"css/images/covers/hit.jpg","hasLyrics":true},
+  {"file":"seventeen/fearless.json","id":"fearless","name":"Fearless","group":"seventeen","album":"Heng:garæ","released":"2020-06-22","cover":"css/images/covers/fearless.jpg","hasLyrics":true},
+  {"file":"seventeen/smile-flower.json","id":"smile-flower","name":"Smile Flower","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/smile-flower.jpg","hasLyrics":true},
+  {"file":"seventeen/pinwheel.json","id":"pinwheel","name":"Pinwheel","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/pinwheel.jpg","hasLyrics":true},
+  {"file":"seventeen/highlight.json","id":"highlight","name":"HIGHLIGHT","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/highlight.jpg","hasLyrics":true},
+  {"file":"seventeen/healing.json","id":"healing","name":"Healing","group":"seventeen","album":"Love&Letter Repackage Album","released":"2016-07-04","cover":"css/images/covers/healing.jpg","hasLyrics":true},
+  {"file":"seventeen/holiday.json","id":"holiday","name":"Holiday","group":"seventeen","album":"YOU MAKE MY DAY","released":"2018-07-16","cover":"css/images/covers/holiday.jpg","hasLyrics":true},
+  {"file":"seventeen/hug.json","id":"hug","name":"Hug","group":"seventeen","album":"YOU MADE MY DAWN","released":"2019-01-21","cover":"css/images/covers/hug.jpg","hasLyrics":true},
+  {"file":"seventeen/don-quixote.json","id":"don-quixote","name":"Don Quixote","group":"seventeen","album":"SEVENTEEN 4th Album ‘Face the Sun’","released":"2022-05-27","cover":"css/images/covers/don-quixote.jpg","hasLyrics":true},
+  {"file":"seventeen/20.json","id":"20","name":"20\r","group":"seventeen","album":"17 CARAT","released":"2015-05-29","cover":"css/images/covers/20.jpg","hasLyrics":true},
+  {"file":"seventeen/247.json","id":"247","name":"247","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/247.jpg","hasLyrics":true},
+  {"file":"seventeen/ah-love.json","id":"ah-love","name":"AH! LOVE\r","group":"seventeen","album":"; [Semicolon]","released":"2020-10-19","cover":"css/images/covers/ah-love.jpg","hasLyrics":true},
+  {"file":"seventeen/ah-yeah.json","id":"ah-yeah","name":"Ah Yeah\r","group":"seventeen","album":"17 CARAT","released":"2015-05-29","cover":"css/images/covers/ah-yeah.jpg","hasLyrics":true},
+  {"file":"seventeen/ash.json","id":"ash","name":"Ash\r","group":"seventeen","album":"SEVENTEEN 4th Album ‘Face the Sun’","released":"2022-05-27","cover":"css/images/covers/ash.jpg","hasLyrics":true},
+  {"file":"seventeen/back-it-up.json","id":"back-it-up","name":"Back it up\r","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/back-it-up.jpg","hasLyrics":true},
+  {"file":"seventeen/bout-you.json","id":"bout-you","name":"’bout you (노래해)\r","group":"seventeen","album":"SEVENTEEN 4th Album ‘Face the Sun’","released":"2022-05-27","cover":"css/images/covers/bout-you.jpg","hasLyrics":true},
+  {"file":"seventeen/bring-it.json","id":"bring-it","name":"BRING IT (날 쏘고 가라)\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/bring-it.jpg","hasLyrics":true},
+  {"file":"seventeen/campfire.json","id":"campfire","name":"Campfire (캠프파이어)\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/campfire.jpg","hasLyrics":true},
+  {"file":"seventeen/change-up.json","id":"change-up","name":"CHANGE UP\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/change-up.jpg","hasLyrics":true},
+  {"file":"seventeen/cheers.json","id":"cheers","name":"CHEERS\r","group":"seventeen","album":"SECTOR 17","released":"2022-07-18","cover":"css/images/covers/cheers.jpg","hasLyrics":true},
+  {"file":"seventeen/chuck.json","id":"chuck","name":"Chuck (엄지척)\r","group":"seventeen","album":"LOVE & LETTER","released":"2016-04-25","cover":"css/images/covers/chuck.jpg","hasLyrics":true},
+  {"file":"seventeen/circles.json","id":"circles","name":"Circles (돌고 돌아)\r","group":"seventeen","album":"SECTOR 17","released":"2022-07-18","cover":"css/images/covers/circles.jpg","hasLyrics":true},
+  {"file":"seventeen/do-re-mi.json","id":"do-re-mi","name":"Do Re Mi (도레미)\r","group":"seventeen","album":"SEVENTEEN Special Album ‘; [Semicolon]’","released":"2020-10-19","cover":"css/images/covers/do-re-mi.jpg","hasLyrics":true},
+  {"file":"seventeen/domino.json","id":"domino","name":"Domino\r","group":"seventeen","album":"SEVENTEEN 4th Album ‘Face the Sun’","released":"2022-05-27","cover":"css/images/covers/domino.jpg","hasLyrics":true},
+  {"file":"seventeen/dont-listen-in-secret.json","id":"dont-listen-in-secret","name":"Don’t Listen In Secret (몰래 듣지 마요)\r","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/dont-listen-in-secret.jpg","hasLyrics":true},
+  {"file":"seventeen/drift-away.json","id":"drift-away","name":"Drift Away (떠내려가)\r","group":"seventeen","album":"LOVE&LETTER","released":"2016-04-25","cover":"css/images/covers/drift-away.jpg","hasLyrics":true},
+  {"file":"seventeen/falling-for-u.json","id":"falling-for-u","name":"Falling For U\r","group":"seventeen","album":"DIRECTOR’S CUT","released":"2018-02-05","cover":"css/images/covers/falling-for-u.jpg","hasLyrics":true},
+  {"file":"seventeen/fast-pace.json","id":"fast-pace","name":"Fast Pace (빠른 걸음)\r","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/fast-pace.jpg","hasLyrics":true},
+  {"file":"seventeen/fck-my-life.json","id":"fck-my-life","name":"F*ck My Life\r","group":"seventeen","album":"[","released":"2023-04-24","cover":"css/images/covers/fck-my-life.jpg","hasLyrics":true},
+  {"file":"seventeen/flower.json","id":"flower","name":"Flower\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/flower.jpg","hasLyrics":true},
+  {"file":"seventeen/fronting.json","id":"fronting","name":"Fronting (표정관리)\r","group":"seventeen","album":"BOYS BE","released":"2015-09-10","cover":"css/images/covers/fronting.jpg","hasLyrics":true},
+  {"file":"seventeen/good-to-me.json","id":"good-to-me","name":"Good to Me\r","group":"seventeen","album":"YOU MADE MY DAWN","released":"2019-01-21","cover":"css/images/covers/good-to-me.jpg","hasLyrics":true},
+  {"file":"seventeen/habit.json","id":"habit","name":"Habit (입버릇)\r","group":"seventeen","album":"Al1","released":"2017-05-22","cover":"css/images/covers/habit.jpg","hasLyrics":true},
+  {"file":"seventeen/hbd.json","id":"hbd","name":"HBD\r","group":"seventeen","album":"SEVENTEEN 5th Album ‘HAPPY BURSTDAY’","released":"2025-05-26","cover":"css/images/covers/hbd.jpg","hasLyrics":true},
+  {"file":"seventeen/hello.json","id":"hello","name":"Hello\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/hello.jpg","hasLyrics":true},
+  {"file":"seventeen/hey-buddy.json","id":"hey-buddy","name":"HEY BUDDY\r","group":"seventeen","album":"SEVENTEEN Special Album ‘; [Semicolon]’","released":"2020-10-19","cover":"css/images/covers/hey-buddy.jpg","hasLyrics":true},
+  {"file":"seventeen/homerun.json","id":"homerun","name":"HOME;RUN\r","group":"seventeen","album":"; [Semicolon]","released":"2020-10-19","cover":"css/images/covers/homerun.jpg","hasLyrics":true},
+  {"file":"seventeen/i-dont-know.json","id":"i-dont-know","name":"I Don’t Know (글쎄)\r","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/i-dont-know.jpg","hasLyrics":true},
+  {"file":"seventeen/if-i.json","id":"if-i","name":"IF I\r","group":"seventeen","album":"Al1","released":"2017-05-22","cover":"css/images/covers/if-i.jpg","hasLyrics":true},
+  {"file":"seventeen/if-you-leave-me.json","id":"if-you-leave-me","name":"IF you leave me\r","group":"seventeen","album":"SEVENTEEN 4th Album ‘Face the Sun’","released":"2022-05-27","cover":"css/images/covers/if-you-leave-me.jpg","hasLyrics":true},
+  {"file":"seventeen/jam-jam.json","id":"jam-jam","name":"Jam Jam\r","group":"seventeen","album":"17 CARAT","released":"2015-05-29","cover":"css/images/covers/jam-jam.jpg","hasLyrics":true},
+  {"file":"seventeen/lean-on-me.json","id":"lean-on-me","name":"Lean On Me (기대)\r","group":"seventeen","album":"Going Seventeen","released":"2016-12-05","cover":"css/images/covers/lean-on-me.jpg","hasLyrics":true},
+  {"file":"seventeen/left-right.json","id":"left-right","name":"Left & Right\r","group":"seventeen","album":"Heng:garæ","released":"2020-06-22","cover":"css/images/covers/left-right.jpg","hasLyrics":true},
+  {"file":"seventeen/let-me-hear-you-say.json","id":"let-me-hear-you-say","name":"Let me hear you say\r","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/let-me-hear-you-say.jpg","hasLyrics":true},
+  {"file":"seventeen/lie-again.json","id":"lie-again","name":"Lie Again (거짓말을 해)\r","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/lie-again.jpg","hasLyrics":true},
+  {"file":"seventeen/light-a-flame.json","id":"light-a-flame","name":"Light a Flame (마음에 불을 지펴)\r","group":"seventeen","album":"; [Semicolon]","released":"2020-10-19","cover":"css/images/covers/light-a-flame.jpg","hasLyrics":true},
+  {"file":"seventeen/lilili-yabbay.json","id":"lilili-yabbay","name":"Lilili Yabbay (13월의 춤)\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/lilili-yabbay.jpg","hasLyrics":true},
+  {"file":"seventeen/love-letter.json","id":"love-letter","name":"Love Letter (사랑쪽지)\r","group":"seventeen","album":"LOVE&LETTER","released":"2016-04-25","cover":"css/images/covers/love-letter.jpg","hasLyrics":true},
+  {"file":"seventeen/lucky.json","id":"lucky","name":"Lucky\r","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/lucky.jpg","hasLyrics":true},
+  {"file":"seventeen/march.json","id":"march","name":"March\r","group":"seventeen","album":"SEVENTEEN 4th Album ‘Face the Sun’","released":"2022-05-27","cover":"css/images/covers/march.jpg","hasLyrics":true},
+  {"file":"seventeen/my-i.json","id":"my-i","name":"MY I\r","group":"seventeen","album":"Al1","released":"2017-05-22","cover":"css/images/covers/my-i.jpg","hasLyrics":true},
+  {"file":"seventeen/network-love.json","id":"network-love","name":"Network Love\r","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/network-love.jpg","hasLyrics":true},
+  {"file":"seventeen/nice.json","id":"nice","name":"Very Nice (아주 Nice)\r","group":"seventeen","album":"Love&Letter repackage album","released":"2016-07-04","cover":"css/images/covers/nice.jpg","hasLyrics":true},
+  {"file":"seventeen/no-fun.json","id":"no-fun","name":"No F.U.N\r","group":"seventeen","album":"Love&Letter Repackage Album","released":"2016-07-04","cover":"css/images/covers/no-fun.jpg","hasLyrics":true},
+  {"file":"seventeen/omg.json","id":"omg","name":"OMG\r","group":"seventeen","album":"BOYS BE","released":"2015-09-10","cover":"css/images/covers/omg.jpg","hasLyrics":true},
+  {"file":"seventeen/popular-song.json","id":"popular-song","name":"Popular Song (유행가)\r","group":"seventeen","album":"LOVE&LETTER","released":"2016-04-25","cover":"css/images/covers/popular-song.jpg","hasLyrics":true},
+  {"file":"seventeen/rocket.json","id":"rocket","name":"ROCKET\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/rocket.jpg","hasLyrics":true},
+  {"file":"seventeen/run-to-you.json","id":"run-to-you","name":"Run to You (지금 널 찾아가고 있어)\r","group":"seventeen","album":"DIRECTOR’S CUT","released":"2018-02-05","cover":"css/images/covers/run-to-you.jpg","hasLyrics":true},
+  {"file":"seventeen/say-yes.json","id":"say-yes","name":"Say Yes\r","group":"seventeen","album":"LOVE&LETTER","released":"2016-04-25","cover":"css/images/covers/say-yes.jpg","hasLyrics":true},
+  {"file":"seventeen/second-life.json","id":"second-life","name":"Second Life\r","group":"seventeen","album":"An Ode","released":"2019-09-16","cover":"css/images/covers/second-life.jpg","hasLyrics":true},
+  {"file":"seventeen/shining-diamond.json","id":"shining-diamond","name":"Shining Diamond\r","group":"seventeen","album":"17 CARAT","released":"2015-05-29","cover":"css/images/covers/shining-diamond.jpg","hasLyrics":true},
+  {"file":"seventeen/all-my-love.json","id":"all-my-love","name":"All My Love (겨우)\r","group":"seventeen","album":"SEVENTEEN Special Album ‘; [Semicolon]’","released":"2020-10-19","cover":"css/images/covers/all-my-love.jpg","hasLyrics":true},
+  {"file":"seventeen/simple.json","id":"simple","name":"Simple\r","group":"seventeen","album":"Love&Letter repackage album","released":"2016-07-04","cover":"css/images/covers/simple.jpg","hasLyrics":true},
+  {"file":"seventeen/space.json","id":"space","name":"Space (끝이 안보여)\r","group":"seventeen","album":"Love&Letter Repackage Album","released":"2016-07-04","cover":"css/images/covers/space.jpg","hasLyrics":true},
+  {"file":"seventeen/still-lonely.json","id":"still-lonely","name":"Still Lonely (이놈의 인기)\r","group":"seventeen","album":"LOVE & LETTER","released":"2016-04-25","cover":"css/images/covers/still-lonely.jpg","hasLyrics":true},
+  {"file":"seventeen/swimming-fool.json","id":"swimming-fool","name":"Swimming Fool\r","group":"seventeen","album":"Al1","released":"2017-05-22","cover":"css/images/covers/swimming-fool.jpg","hasLyrics":true},
+  {"file":"seventeen/thinkin-about-you.json","id":"thinkin-about-you","name":"Thinkin’ About You\r","group":"seventeen","album":"DIRECTOR’S CUT","released":"2018-02-05","cover":"css/images/covers/thinkin-about-you.jpg","hasLyrics":true},
+  {"file":"seventeen/trauma.json","id":"trauma","name":"TRAUMA\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/trauma.jpg","hasLyrics":true},
+  {"file":"seventeen/when-i-grow-up.json","id":"when-i-grow-up","name":"When I Grow Up (어른이 되면)\r","group":"seventeen","album":"BOYS BE","released":"2015-09-10","cover":"css/images/covers/when-i-grow-up.jpg","hasLyrics":true},
+  {"file":"seventeen/without-you.json","id":"without-you","name":"Without You (모자를 눌러 쓰고)\r","group":"seventeen","album":"TEEN, AGE","released":"2017-11-06","cover":"css/images/covers/without-you.jpg","hasLyrics":true},
+  {"file":"twice/1-to-10.json","id":"1-to-10","name":"1 TO 10\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/1-to-10.jpg","hasLyrics":true},
+  {"file":"twice/2129.json","id":"2129","name":"21:29\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/2129.jpg","hasLyrics":true},
+  {"file":"twice/after-moon.json","id":"after-moon","name":"AFTER MOON\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/after-moon.jpg","hasLyrics":true},
+  {"file":"twice/alcohol-free.json","id":"alcohol-free","name":"Alcohol-Free\r","group":"twice","album":"Taste of Love","released":"2021-06-11","cover":"css/images/covers/alcohol-free.jpg","hasLyrics":true},
+  {"file":"twice/baby-blue-love.json","id":"baby-blue-love","name":"Baby Blue Love\r","group":"twice","album":"Taste of Love","released":"2021-06-11","cover":"css/images/covers/baby-blue-love.jpg","hasLyrics":true},
+  {"file":"twice/basics.json","id":"basics","name":"Basics\r","group":"twice","album":"BETWEEN 1&2","released":"2022-08-26","cover":"css/images/covers/basics.jpg","hasLyrics":true},
+  {"file":"twice/battitude.json","id":"battitude","name":"BATTITUDE (NAYEON & JEONGYEON & MOMO & MINA)\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/battitude.jpg","hasLyrics":true},
+  {"file":"twice/bdz.json","id":"bdz","name":"BDZ (Korean Ver.)\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/bdz.jpg","hasLyrics":true},
+  {"file":"twice/be-as-one.json","id":"be-as-one","name":"Be as ONE (Korean Ver.)\r","group":"twice","album":"The year of “YES”","released":"2018-12-12","cover":"css/images/covers/be-as-one.jpg","hasLyrics":true},
+  {"file":"twice/behind-the-mask.json","id":"behind-the-mask","name":"BEHIND THE MASK\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/behind-the-mask.jpg","hasLyrics":true},
+  {"file":"twice/believer.json","id":"believer","name":"BELIEVER\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/believer.jpg","hasLyrics":true},
+  {"file":"twice/blame-it-on-me.json","id":"blame-it-on-me","name":"BLAME IT ON ME\r","group":"twice","released":"2023-03-10","cover":"css/images/covers/blame-it-on-me.jpg","hasLyrics":true},
+  {"file":"twice/bloom.json","id":"bloom","name":"BLOOM\r","group":"twice","album":"With YOU-th","released":"2024-02-23","cover":"css/images/covers/bloom.jpg","hasLyrics":true},
+  {"file":"twice/brave.json","id":"brave","name":"BRAVE\r","group":"twice","album":"Between 1&2","released":"2022-08-26","cover":"css/images/covers/brave.jpg","hasLyrics":true},
+  {"file":"twice/breakthrough.json","id":"breakthrough","name":"BREAKTHROUGH (Korean Ver.)\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/breakthrough.jpg","hasLyrics":true},
+  {"file":"twice/bring-it-back.json","id":"bring-it-back","name":"BRING IT BACK\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/bring-it-back.jpg","hasLyrics":true},
+  {"file":"twice/cactus.json","id":"cactus","name":"CACTUS (선인장)\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/cactus.jpg","hasLyrics":true},
+  {"file":"twice/candy-boy.json","id":"candy-boy","name":"Candy Boy\r","group":"twice","album":"THE STORY BEGINS","released":"2015-10-20","cover":"css/images/covers/candy-boy.jpg","hasLyrics":true},
+  {"file":"twice/chillax.json","id":"chillax","name":"CHILLAX\r","group":"twice","album":"Summer Nights","released":"2018-07-09","cover":"css/images/covers/chillax.jpg","hasLyrics":true},
+  {"file":"twice/crazy-stupid-love.json","id":"crazy-stupid-love","name":"CRAZY STUPID LOVE\r","group":"twice","album":"READY TO BE","released":"2023-03-10","cover":"css/images/covers/crazy-stupid-love.jpg","hasLyrics":true},
+  {"file":"twice/cruel.json","id":"cruel","name":"CRUEL\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/cruel.jpg","hasLyrics":true},
+  {"file":"twice/dat-ahh-dat-ooh.json","id":"dat-ahh-dat-ooh","name":"DAT AHH DAT OOH (SANA & JIHYO & DAHYUN & CHAEYOUNG & TZUYU)\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/dat-ahh-dat-ooh.jpg","hasLyrics":true},
+  {"file":"twice/dejavu.json","id":"dejavu","name":"DEJAVU\r","group":"twice","album":"What is Love?","released":"2018-04-09","cover":"css/images/covers/dejavu.jpg","hasLyrics":true},
+  {"file":"twice/depend-on-you.json","id":"depend-on-you","name":"DEPEND ON YOU\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/depend-on-you.jpg","hasLyrics":true},
+  {"file":"twice/ding-dong.json","id":"ding-dong","name":"DING DONG\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/ding-dong.jpg","hasLyrics":true},
+  {"file":"twice/do-it-again.json","id":"do-it-again","name":"Do It Again (다시 해줘)\r","group":"twice","album":"THE STORY BEGINS","released":"2015-10-20","cover":"css/images/covers/do-it-again.jpg","hasLyrics":true},
+  {"file":"twice/do-what-we-like.json","id":"do-what-we-like","name":"DO WHAT WE LIKE\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/do-what-we-like.jpg","hasLyrics":true},
+  {"file":"twice/dont-call-me-again.json","id":"dont-call-me-again","name":"DON’T CALL ME AGAIN\r","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/dont-call-me-again.jpg","hasLyrics":true},
+  {"file":"twice/dont-give-up.json","id":"dont-give-up","name":"DON’T GIVE UP (힘내!)\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/dont-give-up.jpg","hasLyrics":true},
+  {"file":"twice/espresso.json","id":"espresso","name":"ESPRESSO\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/espresso.jpg","hasLyrics":true},
+  {"file":"twice/eye-eye-eyes.json","id":"eye-eye-eyes","name":"EYE EYE EYES\r","group":"twice","album":"SIGNAL","released":"2017-05-15","cover":"css/images/covers/eye-eye-eyes.jpg","hasLyrics":true},
+  {"file":"twice/fancy.json","id":"fancy","name":"FANCY\r","group":"twice","album":"FANCY YOU","released":"2019-04-22","cover":"css/images/covers/fancy.jpg","hasLyrics":true},
+  {"file":"twice/ffw.json","id":"ffw","name":"FFW\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/ffw.jpg","hasLyrics":true},
+  {"file":"twice/fila.json","id":"fila","name":"F.I.L.A (Fall In Love Again)\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/fila.jpg","hasLyrics":true},
+  {"file":"twice/firework.json","id":"firework","name":"FIREWORK\r","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/firework.jpg","hasLyrics":true},
+  {"file":"twice/first-time.json","id":"first-time","name":"First Time\r","group":"twice","album":"Taste of Love","released":"2021-06-11","cover":"css/images/covers/first-time.jpg","hasLyrics":true},
+  {"file":"twice/get-loud.json","id":"get-loud","name":"GET LOUD\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/get-loud.jpg","hasLyrics":true},
+  {"file":"twice/girls-like-us.json","id":"girls-like-us","name":"GIRLS LIKE US\r","group":"twice","album":"FANCY YOU","released":"2019-04-22","cover":"css/images/covers/girls-like-us.jpg","hasLyrics":true},
+  {"file":"twice/go-hard.json","id":"go-hard","name":"GO HARD\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/go-hard.jpg","hasLyrics":true},
+  {"file":"twice/goat.json","id":"goat","name":"G.O.A.T. (MINA & DAHYUN & CHAEYOUNG)\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/goat.jpg","hasLyrics":true},
+  {"file":"twice/going-crazy.json","id":"going-crazy","name":"Going Crazy (미쳤나봐)\r","group":"twice","album":"THE STORY BEGINS","released":"2015-10-20","cover":"css/images/covers/going-crazy.jpg","hasLyrics":true},
+  {"file":"twice/gone.json","id":"gone","name":"Gone\r","group":"twice","album":"BETWEEN 1&2","released":"2022-08-26","cover":"css/images/covers/gone.jpg","hasLyrics":true},
+  {"file":"twice/got-the-thrills.json","id":"got-the-thrills","name":"GOT THE THRILLS\r","group":"twice","album":"READY TO BE","released":"2023-03-10","cover":"css/images/covers/got-the-thrills.jpg","hasLyrics":true},
+  {"file":"twice/handle-it.json","id":"handle-it","name":"HANDLE IT\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/handle-it.jpg","hasLyrics":true},
+  {"file":"twice/headphone.json","id":"headphone","name":"My Headphones On (Headphone 써)\r","group":"twice","album":"PAGE TWO","released":"2016-04-25","cover":"css/images/covers/headphone.jpg","hasLyrics":true},
+  {"file":"twice/heartbreak-avenue.json","id":"heartbreak-avenue","name":"HEARTBREAK AVENUE\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/heartbreak-avenue.jpg","hasLyrics":true},
+  {"file":"twice/hell-in-heaven.json","id":"hell-in-heaven","name":"HELL IN HEAVEN\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/hell-in-heaven.jpg","hasLyrics":true},
+  {"file":"twice/hi-hello.json","id":"hi-hello","name":"HI HELLO\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/hi-hello.jpg","hasLyrics":true},
+  {"file":"twice/ho.json","id":"ho","name":"HO!\r","group":"twice","album":"What is Love?","released":"2018-04-09","cover":"css/images/covers/ho.jpg","hasLyrics":true},
+  {"file":"twice/hold-me-tight.json","id":"hold-me-tight","name":"HOLD ME TIGHT\r","group":"twice","album":"SIGNAL","released":"2017-05-15","cover":"css/images/covers/hold-me-tight.jpg","hasLyrics":true},
+  {"file":"twice/ice-cream.json","id":"ice-cream","name":"Ice Cream (녹아요)\r","group":"twice","album":"TWICEcoaster: LANE 2","released":"2017-02-20","cover":"css/images/covers/ice-cream.jpg","hasLyrics":true},
+  {"file":"twice/icon.json","id":"icon","name":"ICON\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/icon.jpg","hasLyrics":true},
+  {"file":"twice/jelly-jelly.json","id":"jelly-jelly","name":"JELLY JELLY\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/jelly-jelly.jpg","hasLyrics":true},
+  {"file":"twice/kiss-my-troubles-away.json","id":"kiss-my-troubles-away","name":"Kiss My Troubles Away\r","group":"twice","album":"STRATEGY","released":"2024-12-06","cover":"css/images/covers/kiss-my-troubles-away.jpg","hasLyrics":true},
+  {"file":"twice/lalala.json","id":"lalala","name":"LALALA\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/lalala.jpg","hasLyrics":true},
+  {"file":"twice/last-waltz.json","id":"last-waltz","name":"LAST WALTZ\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/last-waltz.jpg","hasLyrics":true},
+  {"file":"twice/let-love-go.json","id":"let-love-go","name":"LET LOVE GO (JEONGYEON & MOMO & SANA & TZUYU)\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/let-love-go.jpg","hasLyrics":true},
+  {"file":"twice/like-a-fool.json","id":"like-a-fool","name":"Like a Fool\r","group":"twice","album":"THE STORY BEGINS","released":"2015-10-20","cover":"css/images/covers/like-a-fool.jpg","hasLyrics":true},
+  {"file":"twice/like-it-like-it.json","id":"like-it-like-it","name":"Like It Like It\r","group":"twice","album":"STRATEGY","released":"2024-12-06","cover":"css/images/covers/like-it-like-it.jpg","hasLyrics":true},
+  {"file":"twice/look-at-me.json","id":"look-at-me","name":"LOOK AT ME (날 바라바라봐)\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/look-at-me.jpg","hasLyrics":true},
+  {"file":"twice/love-foolish.json","id":"love-foolish","name":"LOVE FOOLISH\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/love-foolish.jpg","hasLyrics":true},
+  {"file":"twice/love-line.json","id":"love-line","name":"LOVE LINE\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/love-line.jpg","hasLyrics":true},
+  {"file":"twice/magical.json","id":"magical","name":"Magical\r","group":"twice","album":"STRATEGY","released":"2024-12-06","cover":"css/images/covers/magical.jpg","hasLyrics":true},
+  {"file":"twice/make-me-go.json","id":"make-me-go","name":"MAKE ME GO\r","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/make-me-go.jpg","hasLyrics":true},
+  {"file":"twice/mars.json","id":"mars","name":"MARS\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/mars.jpg","hasLyrics":true},
+  {"file":"twice/missing-u.json","id":"missing-u","name":"MISSING U\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/missing-u.jpg","hasLyrics":true},
+  {"file":"twice/new-new.json","id":"new-new","name":"NEW NEW\r","group":"twice","album":"With YOU-th","released":"2024-02-23","cover":"css/images/covers/new-new.jpg","hasLyrics":true},
+  {"file":"twice/next-page.json","id":"next-page","name":"NEXT PAGE\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/next-page.jpg","hasLyrics":true},
+  {"file":"twice/one-in-a-million.json","id":"one-in-a-million","name":"ONE IN A MILLION\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/one-in-a-million.jpg","hasLyrics":true},
+  {"file":"twice/one-three-two.json","id":"one-three-two","name":"1, 3, 2 (JEONGYEON & MINA & TZUYU)\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/one-three-two.jpg","hasLyrics":true},
+  {"file":"twice/only.json","id":"only","name":"ONLY YOU (ONLY 너)\r","group":"twice","album":"SIGNAL","released":"2017-05-15","cover":"css/images/covers/only.jpg","hasLyrics":true},
+  {"file":"twice/options.json","id":"options","name":"OPTIONS\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/options.jpg","hasLyrics":true},
+  {"file":"twice/oxygen.json","id":"oxygen","name":"OXYGEN\r","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/oxygen.jpg","hasLyrics":true},
+  {"file":"twice/peach-gelato.json","id":"peach-gelato","name":"PEACH GELATO\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/peach-gelato.jpg","hasLyrics":true},
+  {"file":"twice/pit-a-pat.json","id":"pit-a-pat","name":"PIT-A-PAT\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/pit-a-pat.jpg","hasLyrics":true},
+  {"file":"twice/ponytail.json","id":"ponytail","name":"PONYTAIL\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/ponytail.jpg","hasLyrics":true},
+  {"file":"twice/precious-love.json","id":"precious-love","name":"Precious Love (소중한 사랑)\r","group":"twice","album":"PAGE TWO","released":"2016-04-25","cover":"css/images/covers/precious-love.jpg","hasLyrics":true},
+  {"file":"twice/push-pull.json","id":"push-pull","name":"PUSH & PULL (JIHYO & SANA & DAHYUN)\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/push-pull.jpg","hasLyrics":true},
+  {"file":"twice/queen.json","id":"queen","name":"QUEEN\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/queen.jpg","hasLyrics":true},
+  {"file":"twice/rainbow.json","id":"rainbow","name":"RAINBOW\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/rainbow.jpg","hasLyrics":true},
+  {"file":"twice/real-you.json","id":"real-you","name":"REAL YOU\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/real-you.jpg","hasLyrics":true},
+  {"file":"twice/rewind.json","id":"rewind","name":"REWIND (알고 싶지 않아)\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/rewind.jpg","hasLyrics":true},
+  {"file":"twice/right-hand-girl.json","id":"right-hand-girl","name":"RIGHT HAND GIRL\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/right-hand-girl.jpg","hasLyrics":true},
+  {"file":"twice/rollin.json","id":"rollin","name":"ROLLIN’\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/rollin.jpg","hasLyrics":true},
+  {"file":"twice/rush.json","id":"rush","name":"RUSH\r","group":"twice","album":"With YOU-th","released":"2024-02-23","cover":"css/images/covers/rush.jpg","hasLyrics":true},
+  {"file":"twice/say-something.json","id":"say-something","name":"SAY SOMETHING\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/say-something.jpg","hasLyrics":true},
+  {"file":"twice/say-you-love-me.json","id":"say-you-love-me","name":"SAY YOU LOVE ME\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/say-you-love-me.jpg","hasLyrics":true},
+  {"file":"twice/scandal.json","id":"scandal","name":"Scandal\r","group":"twice","album":"Taste of Love","released":"2021-06-11","cover":"css/images/covers/scandal.jpg","hasLyrics":true},
+  {"file":"twice/seesaw.json","id":"seesaw","name":"SEESAW\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/seesaw.jpg","hasLyrics":true},
+  {"file":"twice/shadow.json","id":"shadow","name":"SHADOW","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/shadow.jpg","hasLyrics":true},
+  {"file":"twice/shot-clock.json","id":"shot-clock","name":"SHOT CLOCK\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/shot-clock.jpg","hasLyrics":true},
+  {"file":"twice/shot-thru-the-heart.json","id":"shot-thru-the-heart","name":"Shot thru the heart\r","group":"twice","album":"Summer Nights","released":"2018-07-09","cover":"css/images/covers/shot-thru-the-heart.jpg","hasLyrics":true},
+  {"file":"twice/someone-like-me.json","id":"someone-like-me","name":"SOMEONE LIKE ME\r","group":"twice","album":"SIGNAL","released":"2017-05-15","cover":"css/images/covers/someone-like-me.jpg","hasLyrics":true},
+  {"file":"twice/sos.json","id":"sos","name":"SOS\r","group":"twice","album":"Taste of Love","released":"2021-06-11","cover":"css/images/covers/sos.jpg","hasLyrics":true},
+  {"file":"twice/strawberry.json","id":"strawberry","name":"STRAWBERRY","group":"twice","album":"FANCY YOU","released":"2019-04-22","cover":"css/images/covers/strawberry.jpg","hasLyrics":true},
+  {"file":"twice/stuck-in-my-head.json","id":"stuck-in-my-head","name":"STUCK IN MY HEAD\r","group":"twice","album":"FANCY YOU","released":"2019-04-22","cover":"css/images/covers/stuck-in-my-head.jpg","hasLyrics":true},
+  {"file":"twice/stuck.json","id":"stuck","name":"STUCK\r","group":"twice","album":"What is Love?","released":"2018-04-09","cover":"css/images/covers/stuck.jpg","hasLyrics":true},
+  {"file":"twice/sunset.json","id":"sunset","name":"SUNSET\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/sunset.jpg","hasLyrics":true},
+  {"file":"twice/sweet-summer-day.json","id":"sweet-summer-day","name":"SWEET SUMMER DAY\r","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/sweet-summer-day.jpg","hasLyrics":true},
+  {"file":"twice/sweet-talker.json","id":"sweet-talker","name":"SWEET TALKER\r","group":"twice","album":"What is Love?","released":"2018-04-09","cover":"css/images/covers/sweet-talker.jpg","hasLyrics":true},
+  {"file":"twice/sweetest-obsession.json","id":"sweetest-obsession","name":"Sweetest Obsession\r","group":"twice","album":"STRATEGY","released":"2024-12-06","cover":"css/images/covers/sweetest-obsession.jpg","hasLyrics":true},
+  {"file":"twice/takedown.json","id":"takedown","name":"TAKEDOWN\r","group":"twice","album":"KPop Demon Hunters (Soundtrack from the Netflix Film)","released":"2025-06-20","cover":"css/images/covers/takedown.jpg","hasLyrics":true},
+  {"file":"twice/talk-that-talk.json","id":"talk-that-talk","name":"TALK THAT TALK\r","group":"twice","album":"Between 1&2","released":"2022-08-26","cover":"css/images/covers/talk-that-talk.jpg","hasLyrics":true},
+  {"file":"twice/talk.json","id":"talk","name":"TALK (NAYEON & JIHYO)\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/talk.jpg","hasLyrics":true},
+  {"file":"twice/the-best-thing-i-ever-did.json","id":"the-best-thing-i-ever-did","name":"The Best Thing I Ever Did (올해 제일 잘한 일)\r","group":"twice","album":"The year of “YES”","released":"2018-12-12","cover":"css/images/covers/the-best-thing-i-ever-did.jpg","hasLyrics":true},
+  {"file":"twice/this-is-for.json","id":"this-is-for","name":"THIS IS FOR\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/this-is-for.jpg","hasLyrics":true},
+  {"file":"twice/three-times-a-day.json","id":"three-times-a-day","name":"THREE TIMES A DAY (하루에 세번)\r","group":"twice","album":"SIGNAL","released":"2017-05-15","cover":"css/images/covers/three-times-a-day.jpg","hasLyrics":true},
+  {"file":"twice/touchdown.json","id":"touchdown","name":"Touchdown\r","group":"twice","album":"PAGE TWO","released":"2016-04-25","cover":"css/images/covers/touchdown.jpg","hasLyrics":true},
+  {"file":"twice/trick-it.json","id":"trick-it","name":"TRICK IT\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/trick-it.jpg","hasLyrics":true},
+  {"file":"twice/trouble.json","id":"trouble","name":"Trouble\r","group":"twice","album":"Between 1 & 2","released":"2022-08-26","cover":"css/images/covers/trouble.jpg","hasLyrics":true},
+  {"file":"twice/truth.json","id":"truth","name":"Truth\r","group":"twice","album":"THE STORY BEGINS","released":"2015-10-20","cover":"css/images/covers/truth.jpg","hasLyrics":true},
+  {"file":"twice/tuk-tok.json","id":"tuk-tok","name":"Tuk Tok (툭하면 톡)\r","group":"twice","album":"PAGE TWO","released":"2016-04-25","cover":"css/images/covers/tuk-tok.jpg","hasLyrics":true},
+  {"file":"twice/turn-it-up.json","id":"turn-it-up","name":"TURN IT UP\r","group":"twice","album":"FANCY YOU","released":"2019-04-22","cover":"css/images/covers/turn-it-up.jpg","hasLyrics":true},
+  {"file":"twice/turtle.json","id":"turtle","name":"TURTLE (거북이)\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/turtle.jpg","hasLyrics":true},
+  {"file":"twice/twenty-four-seven.json","id":"twenty-four-seven","name":"24/7\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/twenty-four-seven.jpg","hasLyrics":true},
+  {"file":"twice/up-no-more.json","id":"up-no-more","name":"UP NO MORE\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/up-no-more.jpg","hasLyrics":true},
+  {"file":"twice/wallflower.json","id":"wallflower","name":"WALLFLOWER\r","group":"twice","album":"READY TO BE","released":"2023-03-10","cover":"css/images/covers/wallflower.jpg","hasLyrics":true},
+  {"file":"twice/when-we-were-kids.json","id":"when-we-were-kids","name":"WHEN WE WERE KIDS\r","group":"twice","album":"Between 1&2","released":"2022-08-26","cover":"css/images/covers/when-we-were-kids.jpg","hasLyrics":true},
+  {"file":"twice/woohoo.json","id":"woohoo","name":"Woohoo\r","group":"twice","album":"PAGE TWO","released":"2016-04-25","cover":"css/images/covers/woohoo.jpg","hasLyrics":true},
+  {"file":"twice/wow.json","id":"wow","name":"WOW\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/wow.jpg","hasLyrics":true},
+  {"file":"twice/you-get-me.json","id":"you-get-me","name":"YOU GET ME\r","group":"twice","album":"With YOU-th","released":"2024-02-23","cover":"css/images/covers/you-get-me.jpg","hasLyrics":true},
+  {"file":"twice/you-in-my-heart.json","id":"you-in-my-heart","name":"YOU IN MY HEART (널 내게 담아)\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/you-in-my-heart.jpg","hasLyrics":true},
+  {"file":"twice/young-wild.json","id":"young-wild","name":"YOUNG & WILD\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/young-wild.jpg","hasLyrics":true},
+  {"file":"twice/candy.json","id":"candy","name":"CANDY\r","group":"twice","album":"Formula of Love: O+T=<3","released":"2021-11-12","cover":"css/images/covers/candy.jpg","hasLyrics":true},
+  {"file":"twice/cheer-up.json","id":"cheer-up","name":"CHEER UP\r","group":"twice","album":"PAGE TWO","released":"2016-04-25","cover":"css/images/covers/cheer-up.jpg","hasLyrics":true},
+  {"file":"twice/conversation.json","id":"conversation","name":"Conversation\r","group":"twice","album":"Taste of Love","released":"2021-06-11","cover":"css/images/covers/conversation.jpg","hasLyrics":true},
+  {"file":"twice/dance-the-night-away.json","id":"dance-the-night-away","name":"Dance The Night Away\r","group":"twice","album":"Summer Nights","released":"2018-07-09","cover":"css/images/covers/dance-the-night-away.jpg","hasLyrics":true},
+  {"file":"twice/feel-special.json","id":"feel-special","name":"Feel Special\r","group":"twice","album":"Feel Special","released":"2019-09-23","cover":"css/images/covers/feel-special.jpg","hasLyrics":true},
+  {"file":"twice/four.json","id":"four","name":"FOUR\r","group":"twice","album":"THIS IS FOR","released":"2025-07-11","cover":"css/images/covers/four.jpg","hasLyrics":true},
+  {"file":"twice/heart-shaker.json","id":"heart-shaker","name":"Heart Shaker\r","group":"twice","album":"Merry & Happy","released":"2017-12-11","cover":"css/images/covers/heart-shaker.jpg","hasLyrics":true},
+  {"file":"twice/i-cant-stop-me.json","id":"i-cant-stop-me","name":"I CAN’T STOP ME\r","group":"twice","album":"Eyes wide open","released":"2020-10-26","cover":"css/images/covers/i-cant-stop-me.jpg","hasLyrics":true},
+  {"file":"twice/i-got-you.json","id":"i-got-you","name":"I GOT YOU\r","group":"twice","album":"I GOT YOU","released":"2024-02-02","cover":"css/images/covers/i-got-you.jpg","hasLyrics":true},
+  {"file":"twice/knock-knock.json","id":"knock-knock","name":"KNOCK KNOCK\r","group":"twice","album":"TWICEcoaster: LANE 2","released":"2017-02-20","cover":"css/images/covers/knock-knock.jpg","hasLyrics":true},
+  {"file":"twice/likey.json","id":"likey","name":"LIKEY\r","group":"twice","album":"twicetagram","released":"2017-10-30","cover":"css/images/covers/likey.jpg","hasLyrics":true},
+  {"file":"twice/me-you.json","id":"me-you","name":"ME＋YOU\r","group":"twice","album":"TEN : The Story Goes On","released":"2025-10-10","cover":"css/images/covers/me-you.jpg","hasLyrics":true},
+  {"file":"twice/merry-happy.json","id":"merry-happy","name":"Merry & Happy\r","group":"twice","album":"Merry & Happy","released":"2017-12-11","cover":"css/images/covers/merry-happy.jpg","hasLyrics":true},
+  {"file":"twice/moonlight-sunrise.json","id":"moonlight-sunrise","name":"MOONLIGHT SUNRISE\r","group":"twice","album":"MOONLIGHT SUNRISE","released":"2023-01-20","cover":"css/images/covers/moonlight-sunrise.jpg","hasLyrics":true},
+  {"file":"twice/moonlight.json","id":"moonlight","name":"MOONLIGHT\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/moonlight.jpg","hasLyrics":true},
+  {"file":"twice/more-more.json","id":"more-more","name":"MORE & MORE\r","group":"twice","album":"MORE & MORE","released":"2020-06-01","cover":"css/images/covers/more-more.jpg","hasLyrics":true},
+  {"file":"twice/one-spark.json","id":"one-spark","name":"ONE SPARK\r","group":"twice","album":"With YOU-th","released":"2024-02-23","cover":"css/images/covers/one-spark.jpg","hasLyrics":true},
+  {"file":"twice/ooh-ahh.json","id":"ooh-ahh","name":"Like OOH-AHH (OOH-AHH하게)\r","group":"twice","album":"THE STORY BEGINS","released":"2015-10-20","cover":"css/images/covers/ooh-ahh.jpg","hasLyrics":true},
+  {"file":"twice/queen-of-hearts.json","id":"queen-of-hearts","name":"Queen of Hearts\r","group":"twice","album":"Between 1 & 2","released":"2022-08-26","cover":"css/images/covers/queen-of-hearts.jpg","hasLyrics":true},
+  {"file":"twice/scientist.json","id":"scientist","name":"SCIENTIST\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/scientist.jpg","hasLyrics":true},
+  {"file":"twice/set-me-free.json","id":"set-me-free","name":"SET ME FREE\r","group":"twice","album":"READY TO BE","released":"2023-03-10","cover":"css/images/covers/set-me-free.jpg","hasLyrics":true},
+  {"file":"twice/signal.json","id":"signal","name":"SIGNAL\r","group":"twice","album":"SIGNAL","released":"2017-05-15","cover":"css/images/covers/signal.jpg","hasLyrics":true},
+  {"file":"twice/strategy.json","id":"strategy","name":"Strategy (Feat. Megan Thee Stallion)\r","group":"twice","album":"STRATEGY","released":"2024-12-06","cover":"css/images/covers/strategy.jpg","hasLyrics":true},
+  {"file":"twice/the-feels.json","id":"the-feels","name":"The Feels (Korean Ver.)\r","group":"twice","album":"Formula of Love: O＋T=＜3","released":"2021-11-12","cover":"css/images/covers/the-feels.jpg","hasLyrics":true},
+  {"file":"twice/tt.json","id":"tt","name":"TT\r","group":"twice","album":"TWICEcoaster: LANE 1","released":"2016-10-24","cover":"css/images/covers/tt.jpg","hasLyrics":true},
+  {"file":"twice/what-is-love.json","id":"what-is-love","name":"What is Love?\r","group":"twice","album":"What is Love?","released":"2018-04-09","cover":"css/images/covers/what-is-love.jpg","hasLyrics":true},
+  {"file":"twice/yes-or-yes.json","id":"yes-or-yes","name":"YES or YES\r","group":"twice","album":"YES or YES","released":"2018-11-05","cover":"css/images/covers/yes-or-yes.jpg","hasLyrics":true},
+  {"file":"stray-kids/0801.json","id":"0801","name":"0801\r","group":"stray-kids","album":"KARMA","released":"2025-08-22","cover":"css/images/covers/0801.jpg","hasLyrics":true},
+  {"file":"stray-kids/airplane.json","id":"airplane","name":"Airplane (비행기)\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/airplane.jpg","hasLyrics":true},
+  {"file":"stray-kids/another-day.json","id":"another-day","name":"Another Day (일상)\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/another-day.jpg","hasLyrics":true},
+  {"file":"stray-kids/bleep.json","id":"bleep","name":"Bleep (삐처리)\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/bleep.jpg","hasLyrics":true},
+  {"file":"stray-kids/blueprint.json","id":"blueprint","name":"Blueprint (청사진)\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/blueprint.jpg","hasLyrics":true},
+  {"file":"stray-kids/ceremony.json","id":"ceremony","name":"CEREMONY\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/ceremony.jpg","hasLyrics":true},
+  {"file":"stray-kids/cheese.json","id":"cheese","name":"CHEESE\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/cheese.jpg","hasLyrics":true},
+  {"file":"stray-kids/collision.json","id":"collision","name":"Collision (충돌)\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/collision.jpg","hasLyrics":true},
+  {"file":"stray-kids/creed.json","id":"creed","name":"CREED\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/creed.jpg","hasLyrics":true},
+  {"file":"stray-kids/dlc.json","id":"dlc","name":"DLC\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/dlc.jpg","hasLyrics":true},
+  {"file":"stray-kids/domino.json","id":"domino","name":"DOMINO\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/domino.jpg","hasLyrics":true},
+  {"file":"stray-kids/easy.json","id":"easy","name":"Easy\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/easy.jpg","hasLyrics":true},
+  {"file":"stray-kids/fnf.json","id":"fnf","name":"FNF\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/fnf.jpg","hasLyrics":true},
+  {"file":"stray-kids/get-lit.json","id":"get-lit","name":"GET LIT (죽어보자)\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/get-lit.jpg","hasLyrics":true},
+  {"file":"stray-kids/ghost.json","id":"ghost","name":"Ghost\r","group":"stray-kids","album":"KARMA","released":"2025-08-22","cover":"css/images/covers/ghost.jpg","hasLyrics":true},
+  {"file":"stray-kids/go.json","id":"go","name":"GO LIVE (GO生)\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/go.jpg","hasLyrics":true},
+  {"file":"stray-kids/gods-menu.json","id":"gods-menu","name":"God’s Menu (神메뉴)\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/gods-menu.jpg","hasLyrics":true},
+  {"file":"stray-kids/gone-away.json","id":"gone-away","name":"Gone Away\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/gone-away.jpg","hasLyrics":true},
+  {"file":"stray-kids/gone-days.json","id":"gone-days","name":"Mixtape : Gone Days\r","group":"stray-kids","album":"Mixtape : Gone Days","released":"2019-12-26","cover":"css/images/covers/gone-days.jpg","hasLyrics":true},
+  {"file":"stray-kids/half-time.json","id":"half-time","name":"Half Time (반전)\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/half-time.jpg","hasLyrics":true},
+  {"file":"stray-kids/hall-of-fame.json","id":"hall-of-fame","name":"Hall of Fame (위인전)\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/hall-of-fame.jpg","hasLyrics":true},
+  {"file":"stray-kids/haven.json","id":"haven","name":"Haven\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/haven.jpg","hasLyrics":true},
+  {"file":"stray-kids/in-my-head.json","id":"in-my-head","name":"In My Head\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/in-my-head.jpg","hasLyrics":true},
+  {"file":"stray-kids/item.json","id":"item","name":"ITEM\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/item.jpg","hasLyrics":true},
+  {"file":"stray-kids/mess.json","id":"mess","name":"MESS (엉망)\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/mess.jpg","hasLyrics":true},
+  {"file":"stray-kids/mixtape-oh.json","id":"mixtape-oh","name":"Mixtape : OH (애)\r","group":"stray-kids","album":"Mixtape : OH","released":"2021-06-26","cover":"css/images/covers/mixtape-oh.jpg","hasLyrics":true},
+  {"file":"stray-kids/mixtape-time-out.json","id":"mixtape-time-out","name":"Mixtape : Time Out\r","group":"stray-kids","album":"Mixtape : Time Out","released":"2022-08-01","cover":"css/images/covers/mixtape-time-out.jpg","hasLyrics":true},
+  {"file":"stray-kids/on-track.json","id":"on-track","name":"Mixtape : On Track (바보라도 알아)\r","group":"stray-kids","album":"Mixtape : On Track","released":"2020-03-25","cover":"css/images/covers/on-track.jpg","hasLyrics":true},
+  {"file":"stray-kids/pacemaker.json","id":"pacemaker","name":"Pacemaker\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/pacemaker.jpg","hasLyrics":true},
+  {"file":"stray-kids/phobia.json","id":"phobia","name":"Phobia\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/phobia.jpg","hasLyrics":true},
+  {"file":"stray-kids/phoenix.json","id":"phoenix","name":"Phoenix\r","group":"stray-kids","album":"Stray Kids The 4th Album “KARMA”","released":"2025-08-22","cover":"css/images/covers/phoenix.jpg","hasLyrics":true},
+  {"file":"stray-kids/red-lights.json","id":"red-lights","name":"Red Lights (강박)\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/red-lights.jpg","hasLyrics":true},
+  {"file":"stray-kids/s-class.json","id":"s-class","name":"S-Class (특)\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/s-class.jpg","hasLyrics":true},
+  {"file":"stray-kids/secret-secret.json","id":"secret-secret","name":"Secret Secret (말할 수 없는 비밀)\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/secret-secret.jpg","hasLyrics":true},
+  {"file":"stray-kids/silent-cry.json","id":"silent-cry","name":"Silent Cry\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/silent-cry.jpg","hasLyrics":true},
+  {"file":"stray-kids/sorry-i-love-you.json","id":"sorry-i-love-you","name":"Sorry, I Love You (좋아해서 미안)\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/sorry-i-love-you.jpg","hasLyrics":true},
+  {"file":"stray-kids/ssick.json","id":"ssick","name":"SSICK (씩)\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/ssick.jpg","hasLyrics":true},
+  {"file":"stray-kids/star-lost.json","id":"star-lost","name":"Star Lost\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/star-lost.jpg","hasLyrics":true},
+  {"file":"stray-kids/surfin.json","id":"surfin","name":"Surfin’\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/surfin.jpg","hasLyrics":true},
+  {"file":"stray-kids/ta.json","id":"ta","name":"TA (타)\r","group":"stray-kids","album":"GO LIVE","released":"2020-06-17","cover":"css/images/covers/ta.jpg","hasLyrics":true},
+  {"file":"stray-kids/the-sound.json","id":"the-sound","name":"THE SOUND (Korean Ver.)\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/the-sound.jpg","hasLyrics":true},
+  {"file":"stray-kids/the-view.json","id":"the-view","name":"The View\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/the-view.jpg","hasLyrics":true},
+  {"file":"stray-kids/thunderous.json","id":"thunderous","name":"Thunderous (소리꾼)\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/thunderous.jpg","hasLyrics":true},
+  {"file":"stray-kids/wolfgang.json","id":"wolfgang","name":"WOLFGANG (OT8 Ver.)\r","group":"stray-kids","album":"NOEASY","released":"2021-08-23","cover":"css/images/covers/wolfgang.jpg","hasLyrics":true},
+  {"file":"stray-kids/slump-jp.json","id":"slump-jp","name":"SLUMP (Japanese Ver.)\r","group":"stray-kids","album":"TOP (Japanese Ver.)","released":"2020-06-03","cover":"css/images/covers/slump-jp.jpg","hasLyrics":true},
+  {"file":"stray-kids/top-jp.json","id":"top-jp","name":"TOP (Japanese Ver.)\r","group":"stray-kids","album":"TOP (Japanese Ver.)","released":"2020-06-03","cover":"css/images/covers/top-jp.jpg","hasLyrics":true},
+  {"file":"stray-kids/topline.json","id":"topline","name":"TOPLINE\r","group":"stray-kids","album":"★★★★★ (5-STAR)","released":"2023-06-02","cover":"css/images/covers/topline.jpg","hasLyrics":true},
+  {"file":"stray-kids/0325.json","id":"0325","name":"0325\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/0325.jpg","hasLyrics":true},
+  {"file":"stray-kids/19.json","id":"19","name":"19\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/19.jpg","hasLyrics":true},
+  {"file":"stray-kids/3rd-eye.json","id":"3rd-eye","name":"3rd Eye\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/3rd-eye.jpg","hasLyrics":true},
+  {"file":"stray-kids/alien.json","id":"alien","name":"외계인 (Alien)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/alien.jpg","hasLyrics":true},
+  {"file":"stray-kids/awaken.json","id":"awaken","name":"Awaken\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/awaken.jpg","hasLyrics":true},
+  {"file":"stray-kids/awkward-silence.json","id":"awkward-silence","name":"갑자기 분위기 싸해질 필요 없잖아요 (Awkward Silence)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/awkward-silence.jpg","hasLyrics":true},
+  {"file":"stray-kids/because.json","id":"because","name":"좋으니까 (Because)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/because.jpg","hasLyrics":true},
+  {"file":"stray-kids/behind-the-light.json","id":"behind-the-light","name":"그림자도 빛이 있어야 존재 (Behind The Light)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/behind-the-light.jpg","hasLyrics":true},
+  {"file":"stray-kids/boxer.json","id":"boxer","name":"Boxer\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/boxer.jpg","hasLyrics":true},
+  {"file":"stray-kids/broken-compass.json","id":"broken-compass","name":"고장난 나침반 (Broken Compass)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/broken-compass.jpg","hasLyrics":true},
+  {"file":"stray-kids/chronosaurus.json","id":"chronosaurus","name":"Chronosaurus\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/chronosaurus.jpg","hasLyrics":true},
+  {"file":"stray-kids/close.json","id":"close","name":"Close\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/close.jpg","hasLyrics":true},
+  {"file":"stray-kids/deep-end.json","id":"deep-end","name":"Deep end\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/deep-end.jpg","hasLyrics":true},
+  {"file":"stray-kids/district-9.json","id":"district-9","name":"District 9\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/district-9.jpg","hasLyrics":true},
+  {"file":"stray-kids/doodle.json","id":"doodle","name":"DOODLE\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/doodle.jpg","hasLyrics":true},
+  {"file":"stray-kids/drive.json","id":"drive","name":"Drive\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/drive.jpg","hasLyrics":true},
+  {"file":"stray-kids/fam.json","id":"fam","name":"FAM\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/fam.jpg","hasLyrics":true},
+  {"file":"stray-kids/for-you.json","id":"for-you","name":"For You\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/for-you.jpg","hasLyrics":true},
+  {"file":"stray-kids/get-cool.json","id":"get-cool","name":"Get Cool\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/get-cool.jpg","hasLyrics":true},
+  {"file":"stray-kids/grow-up.json","id":"grow-up","name":"잘 하고 있어 (Grow Up)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/grow-up.jpg","hasLyrics":true},
+  {"file":"stray-kids/grrr.json","id":"grrr","name":"Grrr 총량의 법칙 (Beware)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/grrr.jpg","hasLyrics":true},
+  {"file":"stray-kids/happy.json","id":"happy","name":"HaPpY\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/happy.jpg","hasLyrics":true},
+  {"file":"stray-kids/hellevator.json","id":"hellevator","name":"Hellevator\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/hellevator.jpg","hasLyrics":true},
+  {"file":"stray-kids/hoodie-season.json","id":"hoodie-season","name":"Hoodie Season\r","group":"stray-kids","album":"Clé : LEVANTER","released":"2019-12-09","cover":"css/images/covers/hoodie-season.jpg","hasLyrics":true},
+  {"file":"stray-kids/hug-me.json","id":"hug-me","name":"안아줄게요 (Hug Me)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/hug-me.jpg","hasLyrics":true},
+  {"file":"stray-kids/i-am-you.json","id":"i-am-you","name":"I am YOU\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/i-am-you.jpg","hasLyrics":true},
+  {"file":"stray-kids/i-got-it.json","id":"i-got-it","name":"I GOT IT\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/i-got-it.jpg","hasLyrics":true},
+  {"file":"stray-kids/i-hate-to-admit.json","id":"i-hate-to-admit","name":"인정하기 싫어 (i hate to admit)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/i-hate-to-admit.jpg","hasLyrics":true},
+  {"file":"stray-kids/icecream.json","id":"icecream","name":"ice.cream\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/icecream.jpg","hasLyrics":true},
+  {"file":"stray-kids/insomnia.json","id":"insomnia","name":"불면증 (Insomnia)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/insomnia.jpg","hasLyrics":true},
+  {"file":"stray-kids/limbo.json","id":"limbo","name":"나지막이 (Limbo)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/limbo.jpg","hasLyrics":true},
+  {"file":"stray-kids/love-untold.json","id":"love-untold","name":"Love Untold\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/love-untold.jpg","hasLyrics":true},
+  {"file":"stray-kids/lovestay.json","id":"lovestay","name":"#LoveSTAY\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/lovestay.jpg","hasLyrics":true},
+  {"file":"stray-kids/maknae-on-top.json","id":"maknae-on-top","name":"막내온탑 (Maknae On Top)\r","group":"stray-kids","album":"SKZ-PLAYER","released":"2022-12-21","cover":"css/images/covers/maknae-on-top.jpg","hasLyrics":true},
+  {"file":"stray-kids/maze-of-memories.json","id":"maze-of-memories","name":"잠깐의 고요 (Maze of Memories)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/maze-of-memories.jpg","hasLyrics":true},
+  {"file":"stray-kids/mia.json","id":"mia","name":"M.I.A.\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/mia.jpg","hasLyrics":true},
+  {"file":"stray-kids/miroh.json","id":"miroh","name":"MIROH\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/miroh.jpg","hasLyrics":true},
+  {"file":"stray-kids/mirror.json","id":"mirror","name":"Mirror\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/mirror.jpg","hasLyrics":true},
+  {"file":"stray-kids/miss-you.json","id":"miss-you","name":"꼬마별 (miss you)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/miss-you.jpg","hasLyrics":true},
+  {"file":"stray-kids/my-pace.json","id":"my-pace","name":"My Pace\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/my-pace.jpg","hasLyrics":true},
+  {"file":"stray-kids/my-side.json","id":"my-side","name":"편 (My Side)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/my-side.jpg","hasLyrics":true},
+  {"file":"stray-kids/n-s.json","id":"n-s","name":"극과 극 (N/S)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/n-s.jpg","hasLyrics":true},
+  {"file":"stray-kids/piece-of-a-puzzle.json","id":"piece-of-a-puzzle","name":"조각 (Piece of a Puzzle)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/piece-of-a-puzzle.jpg","hasLyrics":true},
+  {"file":"stray-kids/placebo.json","id":"placebo","name":"Placebo\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/placebo.jpg","hasLyrics":true},
+  {"file":"stray-kids/question.json","id":"question","name":"Question\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/question.jpg","hasLyrics":true},
+  {"file":"stray-kids/rock.json","id":"rock","name":"돌 (ROCK)\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/rock.jpg","hasLyrics":true},
+  {"file":"stray-kids/run.json","id":"run","name":"RUN\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/run.jpg","hasLyrics":true},
+  {"file":"stray-kids/scars.json","id":"scars","name":"Scars\r","group":"stray-kids","album":"SKZ2021","released":"2021-12-23","cover":"css/images/covers/scars.jpg","hasLyrics":true},
+  {"file":"stray-kids/side-effects.json","id":"side-effects","name":"부작용 (Side Effects)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/side-effects.jpg","hasLyrics":true},
+  {"file":"stray-kids/spread-my-wings.json","id":"spread-my-wings","name":"어린 날개 (Spread My Wings)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/spread-my-wings.jpg","hasLyrics":true},
+  {"file":"stray-kids/stars-and-raindrops.json","id":"stars-and-raindrops","name":"내려요 (Stars and Raindrops)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/stars-and-raindrops.jpg","hasLyrics":true},
+  {"file":"stray-kids/streetlight.json","id":"streetlight","name":"Streetlight\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/streetlight.jpg","hasLyrics":true},
+  {"file":"stray-kids/tmt.json","id":"tmt","name":"별생각 (TMT)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/tmt.jpg","hasLyrics":true},
+  {"file":"stray-kids/up-all-night.json","id":"up-all-night","name":"오늘 밤 나는 불을 켜 (Up All Night)\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/up-all-night.jpg","hasLyrics":true},
+  {"file":"stray-kids/victory-song.json","id":"victory-song","name":"승전가 (Victory Song)\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/victory-song.jpg","hasLyrics":true},
+  {"file":"stray-kids/voices.json","id":"voices","name":"Voices\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/voices.jpg","hasLyrics":true},
+  {"file":"stray-kids/wish-you-back.json","id":"wish-you-back","name":"Wish You Back\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/wish-you-back.jpg","hasLyrics":true},
+  {"file":"stray-kids/yayaya.json","id":"yayaya","name":"YAYAYA\r","group":"stray-kids","album":"SKZ2020","released":"2020-03-18","cover":"css/images/covers/yayaya.jpg","hasLyrics":true},
+  {"file":"stray-kids/zone.json","id":"zone","name":"ZONE\r","group":"stray-kids","album":"SKZ-REPLAY","released":"2022-12-21","cover":"css/images/covers/zone.jpg","hasLyrics":true},
+  {"file":"stray-kids/24-to-25.json","id":"24-to-25","name":"24 to 25\r","group":"stray-kids","album":"Christmas EveL","released":"2021-11-29","cover":"css/images/covers/24-to-25.jpg","hasLyrics":true},
+  {"file":"stray-kids/all-in.json","id":"all-in","name":"ALL IN\r","group":"stray-kids","album":"ALL IN (Korean Ver.)","released":"2020-11-26","cover":"css/images/covers/all-in.jpg","hasLyrics":true},
+  {"file":"stray-kids/any.json","id":"any","name":"Any\r","group":"stray-kids","album":"IN LIFE","released":"2020-09-14","cover":"css/images/covers/any.jpg","hasLyrics":true},
+  {"file":"stray-kids/back-door.json","id":"back-door","name":"Back Door\r","group":"stray-kids","album":"IN LIFE","released":"2020-09-14","cover":"css/images/covers/back-door.jpg","hasLyrics":true},
+  {"file":"stray-kids/christmas-evel.json","id":"christmas-evel","name":"Christmas EveL\r","group":"stray-kids","album":"Christmas EveL","released":"2021-11-29","cover":"css/images/covers/christmas-evel.jpg","hasLyrics":true},
+  {"file":"stray-kids/winter-falls.json","id":"winter-falls","name":"Winter Falls\r","group":"stray-kids","album":"Christmas EveL","released":"2021-11-29","cover":"css/images/covers/winter-falls.jpg","hasLyrics":true},
+  {"file":"bts/2-3-hoping-for-more-good-days.json","id":"2-3-hoping-for-more-good-days","name":"Two! Three! (Hoping For More Good Days) (둘! 셋! (그래도 좋은 날이 더 많기를))\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/2-3-hoping-for-more-good-days.jpg","hasLyrics":true},
+  {"file":"bts/21st-century-girls.json","id":"21st-century-girls","name":"21st Century Girls (21세기 소녀)\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/21st-century-girls.jpg","hasLyrics":true},
+  {"file":"bts/24-7-heaven.json","id":"24-7-heaven","name":"24/7 = Heaven\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/24-7-heaven.jpg","hasLyrics":true},
+  {"file":"bts/airplane-pt-2.json","id":"airplane-pt-2","name":"Airplane Pt. 2\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/airplane-pt-2.jpg","hasLyrics":true},
+  {"file":"bts/airplane-pt2-jp.json","id":"airplane-pt2-jp","name":"Airplane Pt. 2 (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/airplane-pt2-jp.jpg","hasLyrics":true},
+  {"file":"bts/am-i-wrong.json","id":"am-i-wrong","name":"Am I Wrong\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/am-i-wrong.jpg","hasLyrics":true},
+  {"file":"bts/anpanman.json","id":"anpanman","name":"Anpanman\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/anpanman.jpg","hasLyrics":true},
+  {"file":"bts/awake.json","id":"awake","name":"Awake\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/awake.jpg","hasLyrics":true},
+  {"file":"bts/begin.json","id":"begin","name":"Begin\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/begin.jpg","hasLyrics":true},
+  {"file":"bts/best-of-me.json","id":"best-of-me","name":"Best Of Me\r","group":"bts","album":"LOVE YOURSELF 承 ‘Her’","released":"2017-09-18","cover":"css/images/covers/best-of-me.jpg","hasLyrics":true},
+  {"file":"bts/black-swan-jp.json","id":"black-swan-jp","name":"Black Swan (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/black-swan-jp.jpg","hasLyrics":true},
+  {"file":"bts/black-swan.json","id":"black-swan","name":"Black Swan\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-01-17","cover":"css/images/covers/black-swan.jpg","hasLyrics":true},
+  {"file":"bts/blanket-kick.json","id":"blanket-kick","name":"Blanket Kick (이불킥)\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/blanket-kick.jpg","hasLyrics":true},
+  {"file":"bts/blood-sweat-tears.json","id":"blood-sweat-tears","name":"Blood Sweat & Tears (피 땀 눈물)\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/blood-sweat-tears.jpg","hasLyrics":true},
+  {"file":"bts/born-singer.json","id":"born-singer","name":"Born Singer\r","group":"bts","album":"Proof","released":"2022-06-10","cover":"css/images/covers/born-singer.jpg","hasLyrics":true},
+  {"file":"bts/boy-in-luv.json","id":"boy-in-luv","name":"Boy In Luv (상남자)\r","group":"bts","album":"School Luv Affair","released":"2014-02-12","cover":"css/images/covers/boy-in-luv.jpg","hasLyrics":true},
+  {"file":"bts/bts-cypher-pt-1.json","id":"bts-cypher-pt-1","name":"BTS Cypher PT. 1\r","group":"bts","album":"O!RUL8,2?","released":"2013-09-11","cover":"css/images/covers/bts-cypher-pt-1.jpg","hasLyrics":true},
+  {"file":"bts/bts-cypher-pt3-killer.json","id":"bts-cypher-pt3-killer","name":"BTS Cypher PT.3: KILLER (ft. Supreme Boi)\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/bts-cypher-pt3-killer.jpg","hasLyrics":true},
+  {"file":"bts/butter.json","id":"butter","name":"Butter\r","group":"bts","album":"Butter","released":"2021-05-21","cover":"css/images/covers/butter.jpg","hasLyrics":true},
+  {"file":"bts/can-you-turn-off-your-phone.json","id":"can-you-turn-off-your-phone","name":"Can You Turn Off Your Phone (핸드폰 좀 꺼줄래)\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/can-you-turn-off-your-phone.jpg","hasLyrics":true},
+  {"file":"bts/coffee.json","id":"coffee","name":"Coffee\r","group":"bts","album":"O!RUL8,2?","released":"2013-09-11","cover":"css/images/covers/coffee.jpg","hasLyrics":true},
+  {"file":"bts/danger.json","id":"danger","name":"Danger\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/danger.jpg","hasLyrics":true},
+  {"file":"bts/dimple.json","id":"dimple","name":"Dimple (보조개)\r","group":"bts","album":"LOVE YOURSELF 承 ‘Her’","released":"2017-09-18","cover":"css/images/covers/dimple.jpg","hasLyrics":true},
+  {"file":"bts/dionysus-jp.json","id":"dionysus-jp","name":"Dionysus (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/dionysus-jp.jpg","hasLyrics":true},
+  {"file":"bts/dionysus.json","id":"dionysus","name":"Dionysus\r","group":"bts","album":"MAP OF THE SOUL : PERSONA","released":"2019-04-12","cover":"css/images/covers/dionysus.jpg","hasLyrics":true},
+  {"file":"bts/dis-ease.json","id":"dis-ease","name":"Dis-ease (병)\r","group":"bts","album":"BE","released":"2020-11-20","cover":"css/images/covers/dis-ease.jpg","hasLyrics":true},
+  {"file":"bts/dna.json","id":"dna","name":"DNA\r","group":"bts","album":"LOVE YOURSELF 承 `Her`","released":"2017-09-18","cover":"css/images/covers/dna.jpg","hasLyrics":true},
+  {"file":"bts/dynamite.json","id":"dynamite","name":"Dynamite\r","group":"bts","album":"Dynamite","released":"2020-08-21","cover":"css/images/covers/dynamite.jpg","hasLyrics":true},
+  {"file":"bts/epilogue-young-forever.json","id":"epilogue-young-forever","name":"EPILOGUE: Young Forever\r","group":"bts","album":"화양연화 Young Forever","released":"2016-05-02","cover":"css/images/covers/epilogue-young-forever.jpg","hasLyrics":true},
+  {"file":"bts/euphoria.json","id":"euphoria","name":"Euphoria\r","group":"bts","album":"LOVE YOURSELF 結 ‘Answer’","released":"2018-08-24","cover":"css/images/covers/euphoria.jpg","hasLyrics":true},
+  {"file":"bts/fake-love-jp.json","id":"fake-love-jp","name":"Fake Love (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/fake-love-jp.jpg","hasLyrics":true},
+  {"file":"bts/fake-love.json","id":"fake-love","name":"FAKE LOVE\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/fake-love.jpg","hasLyrics":true},
+  {"file":"bts/film-out.json","id":"film-out","name":"Film out\r","group":"bts","album":"BTS, THE BEST","released":"2021-04-02","cover":"css/images/covers/film-out.jpg","hasLyrics":true},
+  {"file":"bts/filter.json","id":"filter","name":"Filter\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/filter.jpg","hasLyrics":true},
+  {"file":"bts/fire.json","id":"fire","name":"FIRE (불타오르네)\r","group":"bts","album":"화양연화 Young Forever","released":"2016-05-02","cover":"css/images/covers/fire.jpg","hasLyrics":true},
+  {"file":"bts/first-love.json","id":"first-love","name":"First Love\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/first-love.jpg","hasLyrics":true},
+  {"file":"bts/fly-to-my-room.json","id":"fly-to-my-room","name":"Fly To My Room (내 방을 여행하는 법)\r","group":"bts","album":"BE","released":"2020-11-20","cover":"css/images/covers/fly-to-my-room.jpg","hasLyrics":true},
+  {"file":"bts/for-you.json","id":"for-you","name":"FOR YOU\r","group":"bts","hidden":true,"album":"FOR YOU","released":"2015-08-24","cover":"css/images/covers/for-you.jpg","hasLyrics":true},
+  {"file":"bts/friends.json","id":"friends","name":"Friends (친구)\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/friends.jpg","hasLyrics":true},
+  {"file":"bts/heartbeat.json","id":"heartbeat","name":"Heartbeat\r","group":"bts","album":"BTS WORLD OST","released":"2019-06-28","cover":"css/images/covers/heartbeat.jpg","hasLyrics":true},
+  {"file":"bts/hip-hop-lover.json","id":"hip-hop-lover","name":"Hip Hop Lover (힙합성애자)\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/hip-hop-lover.jpg","hasLyrics":true},
+  {"file":"bts/hold-me-tight.json","id":"hold-me-tight","name":"Hold Me Tight (잡아줘)\r","group":"bts","hidden":true,"album":"화양연화 In The Mood For Love pt.1","released":"2015-04-29","cover":"css/images/covers/hold-me-tight.jpg","hasLyrics":true},
+  {"file":"bts/home.json","id":"home","name":"HOME\r","group":"bts","hidden":true,"album":"MAP OF THE SOUL : PERSONA","released":"2019-04-12","cover":"css/images/covers/home.jpg","hasLyrics":true},
+  {"file":"bts/house-of-cards.json","id":"house-of-cards","name":"Outro : House Of Cards\r","group":"bts","album":"화양연화 The Most Beautiful Moment In Life pt.2","released":"2015-11-30","cover":"css/images/covers/house-of-cards.jpg","hasLyrics":true},
+  {"file":"bts/idol-jp.json","id":"idol-jp","name":"IDOL (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/idol-jp.jpg","hasLyrics":true},
+  {"file":"bts/idol.json","id":"idol","name":"IDOL (Feat. Nicki Minaj)\r","group":"bts","album":"LOVE YOURSELF 結 ‘Answer’","released":"2018-08-24","cover":"css/images/covers/idol.jpg","hasLyrics":true},
+  {"file":"bts/inner-child.json","id":"inner-child","name":"Inner Child\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/inner-child.jpg","hasLyrics":true},
+  {"file":"bts/interlude-shadow.json","id":"interlude-shadow","name":"Interlude : Shadow\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/interlude-shadow.jpg","hasLyrics":true},
+  {"file":"bts/intro-boy-meets-evil.json","id":"intro-boy-meets-evil","name":"Intro: Boy Meets Evil\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/intro-boy-meets-evil.jpg","hasLyrics":true},
+  {"file":"bts/intro-orul82.json","id":"intro-orul82","name":"Intro: O,RUL8,2?\r","group":"bts","album":"O,RUL8,2? [EP]","released":"2013-09-11","cover":"css/images/covers/intro-orul82.jpg","hasLyrics":true},
+  {"file":"bts/intro-persona.json","id":"intro-persona","name":"Intro : Persona\r","group":"bts","album":"MAP OF THE SOUL : PERSONA","released":"2019-04-12","cover":"css/images/covers/intro-persona.jpg","hasLyrics":true},
+  {"file":"bts/intro-serendipity.json","id":"intro-serendipity","name":"Intro: Serendipity\r","group":"bts","album":"LOVE YOURSELF 承 ‘Her’","released":"2017-09-18","cover":"css/images/covers/intro-serendipity.jpg","hasLyrics":true},
+  {"file":"bts/intro-singularity.json","id":"intro-singularity","name":"Intro: Singularity\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/intro-singularity.jpg","hasLyrics":true},
+  {"file":"bts/intro-skool-luv-affair.json","id":"intro-skool-luv-affair","name":"Intro : Skool Luv Affair\r","group":"bts","album":"Skool Luv Affair","released":"2014-02-12","cover":"css/images/covers/intro-skool-luv-affair.jpg","hasLyrics":true},
+  {"file":"bts/intro-what-am-i-to-you.json","id":"intro-what-am-i-to-you","name":"Intro: What Am I To You\r","group":"bts","album":"[Album","released":"2014-08-20","cover":"css/images/covers/intro-what-am-i-to-you.jpg","hasLyrics":true},
+  {"file":"bts/its-definitely-you.json","id":"its-definitely-you","name":"It’s Definitely You (죽어도 너야)\r","group":"bts","album":"Hwarang OST Part 2","released":"2016-12-20","cover":"css/images/covers/its-definitely-you.jpg","hasLyrics":true},
+  {"file":"bts/jump.json","id":"jump","name":"JUMP\r","group":"bts","album":"Skool Luv Affair","released":"2014-02-12","cover":"css/images/covers/jump.jpg","hasLyrics":true},
+  {"file":"bts/just-one-day.json","id":"just-one-day","name":"Just One Day (하루만)\r","group":"bts","album":"Skool Luv Affair","released":"2014-02-12","cover":"css/images/covers/just-one-day.jpg","hasLyrics":true},
+  {"file":"bts/let-me-know.json","id":"let-me-know","name":"Let Me Know\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/let-me-know.jpg","hasLyrics":true},
+  {"file":"bts/lie.json","id":"lie","name":"Lie\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/lie.jpg","hasLyrics":true},
+  {"file":"bts/life-goes-on.json","id":"life-goes-on","name":"Life Goes On\r","group":"bts","album":"BE","released":"2020-11-20","cover":"css/images/covers/life-goes-on.jpg","hasLyrics":true},
+  {"file":"bts/look-here.json","id":"look-here","name":"Look Here (여기 봐)\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/look-here.jpg","hasLyrics":true},
+  {"file":"bts/lost.json","id":"lost","name":"Lost\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/lost.jpg","hasLyrics":true},
+  {"file":"bts/louder-than-bombs.json","id":"louder-than-bombs","name":"Louder than bombs\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/louder-than-bombs.jpg","hasLyrics":true},
+  {"file":"bts/love-maze.json","id":"love-maze","name":"Love Maze\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/love-maze.jpg","hasLyrics":true},
+  {"file":"bts/ma-city.json","id":"ma-city","name":"Ma City\r","group":"bts","album":"화양연화 The Most Beautiful Moment In Life pt.2","released":"2015-11-30","cover":"css/images/covers/ma-city.jpg","hasLyrics":true},
+  {"file":"bts/magic-shop.json","id":"magic-shop","name":"Magic Shop\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/magic-shop.jpg","hasLyrics":true},
+  {"file":"bts/make-it-right-jp.json","id":"make-it-right-jp","name":"Make It Right (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/make-it-right-jp.jpg","hasLyrics":true},
+  {"file":"bts/make-it-right.json","id":"make-it-right","name":"Make It Right\r","group":"bts","album":"MAP OF THE SOUL : PERSONA","released":"2019-04-12","cover":"css/images/covers/make-it-right.jpg","hasLyrics":true},
+  {"file":"bts/mama.json","id":"mama","name":"MAMA\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/mama.jpg","hasLyrics":true},
+  {"file":"bts/mikrokosmos.json","id":"mikrokosmos","name":"Mikrokosmos (소우주)\r","group":"bts","album":"MAP OF THE SOUL : PERSONA","released":"2019-04-12","cover":"css/images/covers/mikrokosmos.jpg","hasLyrics":true},
+  {"file":"bts/moon.json","id":"moon","name":"Moon\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/moon.jpg","hasLyrics":true},
+  {"file":"bts/my-time.json","id":"my-time","name":"My Time (시차)\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/my-time.jpg","hasLyrics":true},
+  {"file":"bts/my-universe.json","id":"my-universe","name":"My Universe\r","group":"bts","album":"My Universe","released":"2021-09-24","cover":"css/images/covers/my-universe.jpg","hasLyrics":true},
+  {"file":"bts/no-more-dream-jp.json","id":"no-more-dream-jp","name":"No More Dream (Japanese Ver.)\r","group":"bts","album":"No More Dream [Single]","released":"2014-06-04","cover":"css/images/covers/no-more-dream-jp.jpg","hasLyrics":true},
+  {"file":"bts/no-more-dream.json","id":"no-more-dream","name":"No More Dream\r","group":"bts","album":"2 Cool 4 Skool","released":"2013-06-12","cover":"css/images/covers/no-more-dream.jpg","hasLyrics":true},
+  {"file":"bts/no.json","id":"no","name":"N.O\r","group":"bts","album":"O!RUL8,2?","released":"2013-09-11","cover":"css/images/covers/no.jpg","hasLyrics":true},
+  {"file":"bts/on-jp.json","id":"on-jp","name":"ON (Japanese Ver.)\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/on-jp.jpg","hasLyrics":true},
+  {"file":"bts/on.json","id":"on","name":"ON\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/on.jpg","hasLyrics":true},
+  {"file":"bts/outro-ego.json","id":"outro-ego","name":"Outro: Ego\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/outro-ego.jpg","hasLyrics":true},
+  {"file":"bts/outro-luv-in-skool.json","id":"outro-luv-in-skool","name":"Outro: Luv In Skool\r","group":"bts","album":"O,RUL8,2? [EP]","released":"2013-09-11","cover":"css/images/covers/outro-luv-in-skool.jpg","hasLyrics":true},
+  {"file":"bts/outro-tear.json","id":"outro-tear","name":"Outro: Tear\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/outro-tear.jpg","hasLyrics":true},
+  {"file":"bts/paradise.json","id":"paradise","name":"Paradise (낙원)\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/paradise.jpg","hasLyrics":true},
+  {"file":"bts/permission-to-dance.json","id":"permission-to-dance","name":"Permission to Dance\r","group":"bts","album":"Butter / Permission to Dance","released":"2021-07-09","cover":"css/images/covers/permission-to-dance.jpg","hasLyrics":true},
+  {"file":"bts/pied-piper.json","id":"pied-piper","name":"Pied Piper\r","group":"bts","album":"LOVE YOURSELF 承 ‘Her’","released":"2017-09-18","cover":"css/images/covers/pied-piper.jpg","hasLyrics":true},
+  {"file":"bts/rain.json","id":"rain","name":"Rain\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/rain.jpg","hasLyrics":true},
+  {"file":"bts/reflection.json","id":"reflection","name":"Reflection\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/reflection.jpg","hasLyrics":true},
+  {"file":"bts/respect.json","id":"respect","name":"Respect\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/respect.jpg","hasLyrics":true},
+  {"file":"bts/run.json","id":"run","name":"Run\r","group":"bts","hidden":true,"album":"화양연화 The Most Beautiful Moment in Life pt.2","released":"2015-11-30","cover":"css/images/covers/run.jpg","hasLyrics":true},
+  {"file":"bts/satoori-rap.json","id":"satoori-rap","name":"Satoori Rap (팔도강산)\r","group":"bts","album":"O!RUL8,2?","released":"2013-09-11","cover":"css/images/covers/satoori-rap.jpg","hasLyrics":true},
+  {"file":"bts/save-me.json","id":"save-me","name":"Save Me\r","group":"bts","album":"화양연화 Young Forever","released":"2016-05-02","cover":"css/images/covers/save-me.jpg","hasLyrics":true},
+  {"file":"bts/second-grade.json","id":"second-grade","name":"Second Grade (2학년)\r","group":"bts","album":"Dark & Wild","released":"2014-08-20","cover":"css/images/covers/second-grade.jpg","hasLyrics":true},
+  {"file":"bts/so-what.json","id":"so-what","name":"So What\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/so-what.jpg","hasLyrics":true},
+  {"file":"bts/spring-day.json","id":"spring-day","name":"Spring Day (봄날)\r","group":"bts","album":"YOU NEVER WALK ALONE","released":"2017-02-13","cover":"css/images/covers/spring-day.jpg","hasLyrics":true},
+  {"file":"bts/stay-gold.json","id":"stay-gold","name":"Stay Gold\r","group":"bts","album":"Map Of The Soul 7:The Journey","released":"2020-07-15","cover":"css/images/covers/stay-gold.jpg","hasLyrics":true},
+  {"file":"bts/stay.json","id":"stay","name":"Stay\r","group":"bts","album":"BE","released":"2020-11-20","cover":"css/images/covers/stay.jpg","hasLyrics":true},
+  {"file":"bts/stigma.json","id":"stigma","name":"Stigma\r","group":"bts","album":"WINGS","released":"2016-10-10","cover":"css/images/covers/stigma.jpg","hasLyrics":true},
+  {"file":"bts/telepathy.json","id":"telepathy","name":"Telepathy (잠시)\r","group":"bts","album":"BE","released":"2020-11-20","cover":"css/images/covers/telepathy.jpg","hasLyrics":true},
+  {"file":"bts/the-rise-of-bangtan.json","id":"the-rise-of-bangtan","name":"The Rise of Bangtan (진격의 방탄)\r","group":"bts","album":"O!RUL8,2?","released":"2013-09-11","cover":"css/images/covers/the-rise-of-bangtan.jpg","hasLyrics":true},
+  {"file":"bts/the-truth-untold.json","id":"the-truth-untold","name":"The Truth Untold (전하지 못한 진심) (Feat. Steve Aoki)\r","group":"bts","album":"LOVE YOURSELF 轉 ‘Tear’","released":"2018-05-18","cover":"css/images/covers/the-truth-untold.jpg","hasLyrics":true},
+  {"file":"bts/tomorrow.json","id":"tomorrow","name":"Tomorrow\r","group":"bts","album":"[Album","released":"2014-02-12","cover":"css/images/covers/tomorrow.jpg","hasLyrics":true},
+  {"file":"bts/trivia-seesaw.json","id":"trivia-seesaw","name":"Trivia 轉 : Seesaw\r","group":"bts","album":"LOVE YOURSELF 結 ‘Answer’","released":"2018-08-24","cover":"css/images/covers/trivia-seesaw.jpg","hasLyrics":true},
+  {"file":"bts/ugh.json","id":"ugh","name":"UGH! (욱)\r","group":"bts","album":"MAP OF THE SOUL : 7","released":"2020-02-21","cover":"css/images/covers/ugh.jpg","hasLyrics":true},
+  {"file":"bts/we-are-bulletproof-pt-2.json","id":"we-are-bulletproof-pt-2","name":"We Are Bulletproof Pt.2\r","group":"bts","album":"2 Cool For Skool","released":"2013-06-12","cover":"css/images/covers/we-are-bulletproof-pt-2.jpg","hasLyrics":true},
+  {"file":"bts/whalien-52.json","id":"whalien-52","name":"Whalien 52\r","group":"bts","album":"화양연화 The Most Beautiful Moment in Life pt.2","released":"2015-11-30","cover":"css/images/covers/whalien-52.jpg","hasLyrics":true},
+  {"file":"bts/where-did-you-come-from.json","id":"where-did-you-come-from","name":"Where You From (어디에서 왔는지)\r","group":"bts","album":"Skool Luv Affair","released":"2014-02-12","cover":"css/images/covers/where-did-you-come-from.jpg","hasLyrics":true},
+  {"file":"bts/yet-to-come.json","id":"yet-to-come","name":"Yet To Come\r","group":"bts","album":"Proof","released":"2022-06-10","cover":"css/images/covers/yet-to-come.jpg","hasLyrics":true}
 ]
