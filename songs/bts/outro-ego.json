@@ -1,0 +1,165 @@
+{
+  "name": "Outro: Ego\r",
+  "ogg": "sound/kpop/outro_ego.ogg",
+  "id": "outro-ego",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/outro-ego.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:05Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "We're now going to progress to some steps which are a bit more difficult", "lyric_hangul": "We're now going to progress to some steps which are a bit more difficult", "lyric_translation": "", "range": [0.32, 3.6], "ans": []},
+    {"lyric": "Ready, set, and begin", "lyric_hangul": "Ready, set, and begin", "lyric_translation": "", "range": [3.6, 9.69], "ans": []},
+    {"lyric": "Bighit exclusive, exclusive", "lyric_hangul": "Bighit exclusive, exclusive", "lyric_translation": "", "range": [9.69, 13.82], "ans": []},
+    {"lyric": "(D-DJ Friz!)", "lyric_hangul": "(D-DJ Friz!)", "lyric_translation": "", "range": [13.82, 22.34], "ans": []},
+    {
+      "lyric_hangul": "매일 돌아가 본다고 그때의 나로",
+      "lyric_translation": "I go back every day / To me of yesterday",
+      "parts": [
+        {"lyric": "Maeil doraga bondago", "range": [26.92, 28.58], "ans": [3]},
+        {"lyric": "Geuttaeye naro", "range": [28.58, 31.07], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "포기를 선택한 삶으로 날 놓아본다고",
+      "lyric_translation": "To the life of giving up / I let myself go away",
+      "parts": [
+        {"lyric": "Pogireul seontaekhan salmeuro", "range": [31.07, 32.93], "ans": [3]},
+        {"lyric": "Nal noabondago", "range": [32.93, 34.88], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "But 세상에는 있지 변하지 않는 몆 진실",
+      "lyric_translation": "But in this world, you know / There are truths unchanged",
+      "parts": [
+        {"lyric": "But sesangeneun itji", "range": [34.88, 36.24], "ans": [3]},
+        {"lyric": "Byeonaji anneun myeot jinshil", "range": [36.24, 38.42], "ans": [3]}
+      ]
+    },
+    {"lyric": "Shiganeun apeuro heureundaneun geot", "lyric_hangul": "시간은 앞으로 흐른다는 것", "lyric_translation": "Time rushes ever forward", "range": [38.2, 40.36], "ans": [3]},
+    {"lyric": "Manyageun eobttan geot", "lyric_hangul": "만약은 없단 것", "lyric_translation": "There’s no ifs, buts, or maybes", "range": [40.36, 42.1], "ans": [3]},
+    {"lyric": "Kkamadeukhaejil manamyeon saenggakna geu shijeol", "lyric_hangul": "까마득해질 만하면 생각나 그 시절", "lyric_translation": "Almost forgotten memories return", "range": [42.1, 44.87], "ans": [3]},
+    {"lyric": "Angmaye songilgwa unmyeonge recall", "lyric_hangul": "악마의 손길과 운명의 recall", "lyric_translation": "Touch of the devil, fateful recall", "range": [44.87, 46.82], "ans": [3]},
+    {"lyric": "Gunggeumhae ajikdo wae dashi bulleonneunjido", "lyric_hangul": "궁금해 아직도 왜 다시 불렀는지도", "lyric_translation": "I still wonder, why did they beckon again", "range": [46.82, 49.15], "ans": [3]},
+    {"lyric": "Maeil ask me, guess it, chaejjik, repeat, oh", "lyric_hangul": "매일 ask me, guess it, 채찍, repeat, oh", "lyric_translation": "Every day ask me, guess it, whip it, repeat oh", "range": [49.15, 51.27], "ans": [3]},
+    {"lyric": "Byeonal geon eobttamyeo gyeolguk tto", "lyric_hangul": "변할 건 없다며 결국 또", "lyric_translation": "Nothing that will change, so", "range": [51.27, 53.59], "ans": [3]},
+    {"lyric": "Geokjeongeul eokjiro jamgweo, close", "lyric_hangul": "걱정을 억지로 잠궈, close", "lyric_translation": "I lock it up again, close", "range": [53.59, 55.98], "ans": [3]},
+    {"lyric": "How much love? How much joy?", "lyric_hangul": "How much love? How much joy?", "lyric_translation": "‘How much love? How much joy?’", "range": [55.98, 57.63], "ans": [3]},
+    {"lyric": "Wianeul jumyeo stay calm, alone", "lyric_hangul": "위안을 주며 stay calm, alone", "lyric_translation": "Soothe myself and stay calm, alone", "range": [57.63, 59.92], "ans": [3]},
+    "",
+    {"lyric": "Geurae I don’t care, jeonbu nae", "lyric_hangul": "그래 I don't care, 전부 내", "lyric_translation": "Yeah I don’t care, it’s all", "range": [59.92, 64.22], "ans": [3]},
+    {"lyric": "Unmyeonge seontaek, so we’re here", "lyric_hangul": "운명의 선택, so we're here", "lyric_translation": "Choices by my fate, so we’re here", "range": [64.22, 68.44], "ans": [3]},
+    {"lyric": "Nae apeul bwa, the way it shinin’", "lyric_hangul": "내 앞을 봐, the way is shinin'", "lyric_translation": "Look ahead, the way is shinin’", "range": [68.44, 72.22], "ans": [3]},
+    {
+      "lyric_hangul": "Keep goin' now",
+      "lyric_translation": "Keep goin’ now / (Ready set and begin)",
+      "parts": [
+        {"lyric": "Keep goin’ now", "range": [72.22, 72.8], "ans": [3]},
+        {"lyric": "(Ready, set, and begin)", "range": [72.8, 73.94], "ans": [3]}
+      ]
+    },
+    {"lyric": "(Ready, set, and begin)", "lyric_hangul": "(Ready, set, and begin)", "lyric_translation": "", "range": [73.94, 78.99], "ans": []},
+    "",
+    {"lyric": "Geu gillo, gillo, gillo", "lyric_hangul": "그 길로, 길로, 길로", "lyric_translation": "That way, way, way", "range": [78.99, 82.56], "ans": [3]},
+    {"lyric": "Wherever my way", "lyric_hangul": "Wherever my way", "lyric_translation": "Wherever my way", "range": [82.56, 87.16], "ans": [3]},
+    {"lyric": "Ojik ego, ego, ego", "lyric_hangul": "오직 ego, ego, ego", "lyric_translation": "Only Ego Ego Ego", "range": [87.16, 90.56], "ans": [3]},
+    {"lyric": "Just trust myself", "lyric_hangul": "Just trust myself", "lyric_translation": "Just trust myself", "range": [90.56, 93.03], "ans": [3]},
+    {"lyric": "(2 Cool, 2 Cool 4 Skool)", "lyric_hangul": "(2 Cool, 2 Cool 4 Skool)", "lyric_translation": "", "range": [93.03, 94.47], "ans": []},
+    "",
+    {"lyric": "Mundeuk seuchyeoganeun j-hopei anin jeonghoseoge sam", "lyric_hangul": "문득 스쳐가는 j-hope이 아닌 정호석의 삶, hmm", "lyric_translation": "Life not of j-hope but Jeong Ho-Seok flashes by", "range": [94.47, 98.49], "ans": [3]},
+    {"lyric": "Himangiran eopsgo huhoeman gadeukhhaetgetji ’til I die", "lyric_hangul": "희망이란 없고 후회만 가득했겠지 'til I die", "lyric_translation": "It must have been full of regret with no hope till I die", "range": [98.49, 101.04], "ans": [3]},
+    {"lyric": "(2 Cool, 2 Cool 4 Skool)", "lyric_hangul": "(2 Cool, 2 Cool 4 Skool)", "lyric_translation": "", "range": [101.04, 102.04], "ans": []},
+    {"lyric": "Chumeun tteun gureumeul jabeul ppun naye kkumeul tashal ppun", "lyric_hangul": "춤은 뜬 구름을 잡을 뿐 나의 꿈을 탓할 뿐", "lyric_translation": "My dancing was chasing ghosts", "range": [102.04, 104.62], "ans": [3]},
+    {"lyric": "Sara sumshwineun geoe uimuneul", "lyric_hangul": "살아 숨쉬는 거에 의문을", "lyric_translation": "Blaming my dream, asking why I live and breathe", "range": [104.62, 106.42], "ans": [3]},
+    {"lyric": "Oh my Got (God, God, God)", "lyric_hangul": "Oh my God (God, God, God)", "lyric_translation": "Oh my God (God, God, God)", "range": [106.42, 108.68], "ans": [3]},
+    {"lyric": "Uh, time goes by", "lyric_hangul": "Uh, time goes by", "lyric_translation": "Uh time goes by", "range": [108.68, 110.27], "ans": [3]},
+    {"lyric": "Chilnyeone geokjeongi deudieo ip bakkeuro", "lyric_hangul": "7년의 걱정이 드디어 입 밖으로", "lyric_translation": "Seven years of anguish come out finally", "range": [110.27, 112.64], "ans": [3]},
+    {"lyric": "Modu haesodoeneun pibbak", "lyric_hangul": "모두 해소되는 핍박", "lyric_translation": "Oppressions all resolved", "range": [112.64, 114.36], "ans": [3]},
+    {"lyric": "Gajang mitteon geudeure dapeun nae shimjangeuro", "lyric_hangul": "가장 믿던 그들의 답은 내 심장으로", "lyric_translation": "Into my heart come answers from my most trusted", "range": [114.36, 117.27], "ans": [3]},
+    {"lyric": "Hanappunin hope, hanappunin soul", "lyric_hangul": "하나뿐인 hope, 하나뿐인 soul", "lyric_translation": "‘Only one hope, only one soul’", "range": [117.27, 118.98], "ans": [3]},
+    {"lyric": "Hanappunin smile, hanappunin neo", "lyric_hangul": "하나뿐인 smile, 하나뿐인 너", "lyric_translation": "‘Only one smile, only one you’", "range": [118.98, 120.9], "ans": [3]},
+    {"lyric": "Sesang geu jinshire hwakshilhaejin dap", "lyric_hangul": "세상 그 진실에 확실해진 답", "lyric_translation": "Definite answer to the truth of the world", "range": [120.9, 123.04], "ans": [3]},
+    {
+      "lyric_hangul": "변하지 않는 그 어떤 나, right",
+      "lyric_translation": "Only one and unchanging me / Right",
+      "parts": [
+        {"lyric": "Byeonaji anneun geu eotteon na", "range": [123.04, 124.61], "ans": [3]},
+        {"lyric": "Right", "range": [124.61, 126.11], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Ije I don’t care, jeonbu nae", "lyric_hangul": "이제 I don't care, 전부 내", "lyric_translation": "Now I don’t care, it’s all", "range": [126.11, 129.97], "ans": [3]},
+    {"lyric": "Unmyeonge seontaek, so we’re here", "lyric_hangul": "운명의 선택, so we're here", "lyric_translation": "Choices by my fate, so we’re here", "range": [129.97, 133.99], "ans": [3]},
+    {"lyric": "Nae apeul bwa, the way it shinin’", "lyric_hangul": "내 앞을 봐, the way is shinin'", "lyric_translation": "Look ahead, the way is shinin’", "range": [133.99, 138.19], "ans": [3]},
+    {
+      "lyric_hangul": "Keep goin' now",
+      "lyric_translation": "Keep goin’ now / (Ready set and begin)",
+      "parts": [
+        {"lyric": "Keep goin’ now", "range": [138.19, 138.69], "ans": [3]},
+        {"lyric": "(Ready, set, and begin)", "range": [138.43, 139.71], "ans": [3]}
+      ]
+    },
+    {"lyric": "(Ready, set, and begin)", "lyric_hangul": "(Ready, set, and begin)", "lyric_translation": "", "range": [139.71, 144.64], "ans": []},
+    "",
+    {"lyric": "Geu gillo, gillo, gillo", "lyric_hangul": "그 길로, 길로, 길로", "lyric_translation": "That way, way, way", "range": [144.64, 148.13], "ans": [3]},
+    {"lyric": "Wherever my way", "lyric_hangul": "Wherever my way", "lyric_translation": "Wherever my way", "range": [148.13, 152.53], "ans": [3]},
+    {"lyric": "Ojik ego, ego, ego", "lyric_hangul": "오직 ego, ego, ego", "lyric_translation": "Only Ego Ego Ego", "range": [152.53, 156.26], "ans": [3]},
+    {"lyric": "Just trust myself", "lyric_hangul": "Just trust myself", "lyric_translation": "Just trust myself", "range": [156.26, 158.52], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "믿는 대로 가는 대로 (그 길로, 길로, 길로)",
+      "lyric_translation": "Way I trust / Way I go",
+      "parts": [
+        {"lyric": "Minneun daero", "range": [158.52, 161.14], "ans": [3]},
+        {"lyric": "Ganeun daero", "range": [161.14, 162.55], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "운명이 됐고 중심이 됐어 (Wherever my way)",
+      "lyric_translation": "Became my fate / Became my core",
+      "parts": [
+        {"lyric": "Unmyeongi dwhaetgo", "range": [162.55, 164.65], "ans": [3]},
+        {"lyric": "Jungshimi dwaesseo", "range": [163.69, 166.65], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "힘든 대로 또 슬픈 대로 (오직 ego, ego, ego)",
+      "lyric_translation": "Hard it was / And sad it was",
+      "parts": [
+        {"lyric": "Himdeun daero", "range": [166.65, 168.75], "ans": [3]},
+        {"lyric": "Tto seulpeun daero", "range": [168.75, 170.75], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "위로가 됐고 날 알게 됐어 (Just trust myself)",
+      "lyric_translation": "Still reassured and / Made me know myself",
+      "parts": [
+        {"lyric": "Wiroga dwhaetgo", "range": [170.75, 172.85], "ans": [3]},
+        {"lyric": "Nal alge dwaesseo", "range": [172.85, 174.6], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Map of the Soul, map of the all (Map of the Soul)",
+      "lyric_translation": "Map of the Soul / Map of the All",
+      "parts": [
+        {"lyric": "Map of the Soul", "range": [174.6, 176.96], "ans": [3]},
+        {"lyric": "Map of the all", "range": [176.96, 179.76], "ans": [3]}
+      ]
+    },
+    {"lyric": "That’s my ego", "lyric_hangul": "That's my ego, that's my ego", "lyric_translation": "That’s my Ego / That’s my Ego", "range": [178.97, 182.93], "ans": [3]},
+    {
+      "lyric_hangul": "Map of the Soul, map of the all",
+      "lyric_translation": "Map of the Soul / Map of the All",
+      "parts": [
+        {"lyric": "Map of the Soul", "range": [182.93, 184.45], "ans": [3]},
+        {"lyric": "Map of the all", "range": [184.45, 187.08], "ans": [3]}
+      ]
+    },
+    {"lyric": "That’s my ego", "lyric_hangul": "That's my ego, that's my ego (Map of the Soul)", "lyric_translation": "That’s my Ego / That’s my Ego", "range": [187.08, 193.68], "ans": [3]}
+  ]
+}

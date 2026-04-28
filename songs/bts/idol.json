@@ -1,0 +1,279 @@
+{
+  "name": "IDOL (Feat. Nicki Minaj)\r",
+  "ogg": "sound/kpop/idol.ogg",
+  "id": "idol",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-08-24",
+  "album": "LOVE YOURSELF 結 ‘Answer’",
+  "cover": "css/images/covers/idol.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:53Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Uh", "lyric_hangul": "Uh", "lyric_translation": "", "range": [7.59, 9.01], "ans": []},
+    {"lyric": "BTS", "lyric_hangul": "BTS", "lyric_translation": "", "range": [9.01, 11.43], "ans": []},
+    {"lyric": "Chun-Li", "lyric_hangul": "Chun-Li", "lyric_translation": "", "range": [11.43, 14.04], "ans": []},
+    {"lyric": "You can call me artist", "lyric_hangul": "You can call me artist (artist)", "lyric_translation": "You can call me artist", "range": [14.04, 16.26], "ans": [4]},
+    {"lyric": "You can call me idol", "lyric_hangul": "You can call me idol (idol)", "lyric_translation": "You can call me idol", "range": [16.26, 18.49], "ans": [4]},
+    {"lyric": "Anim eotteon dareun mwora haedo", "lyric_hangul": "아님 어떤 다른 (다른)", "lyric_translation": "No matter what you call me", "range": [18.49, 20.32], "ans": [4]},
+    {"lyric": "I don’t care", "lyric_hangul": "뭐라 해도, I don't care (I don't care)", "lyric_translation": "I don’t care", "range": [20.32, 22.44], "ans": [4]},
+    {"lyric": "I’m proud of it", "lyric_hangul": "I'm proud of it (proud of it)", "lyric_translation": "I’m proud of it", "range": [22.44, 24.5], "ans": [3]},
+    {"lyric": "Nan jayurobne", "lyric_hangul": "난 자유롭네 (자유롭네)", "lyric_translation": "I’m free", "range": [24.5, 26.3], "ans": [3]},
+    {"lyric": "No more irony", "lyric_hangul": "No more irony (irony)", "lyric_translation": "No more irony", "range": [26.3, 28.13], "ans": [3]},
+    {"lyric": "Naneun hangsang nayeotgie", "lyric_hangul": "나는 항상 나였기에 (SUGA!)", "lyric_translation": "Cause I was always just me", "range": [28.13, 29.93], "ans": [3]},
+    "",
+    {"lyric": "Songarakjil hae, naneun jeonhyeo shingyeong sseuji anne", "lyric_hangul": "손가락질 해 (yeah, yeah, yeah, yeah) 나는 전혀 신경 쓰지 않네", "lyric_translation": "They point fingers at me, but I don’t care at all", "range": [29.93, 33.45], "ans": [2]},
+    {"lyric": "Nareul yokhaneun neoye geu iyuga mwodeun gane", "lyric_hangul": "나를 욕하는 너의 (hey!) 그 이유가 뭐든 간에", "lyric_translation": "Whatever the reason for your criticism is", "range": [33.45, 37.67], "ans": [2]},
+    {"lyric": "I know what I am", "lyric_hangul": "I know what I am (I know what I am)", "lyric_translation": "I know what I am", "range": [37.67, 39.11], "ans": [4]},
+    {"lyric": "I know what I want", "lyric_hangul": "I know what I want (I know what I want)", "lyric_translation": "I know what I want", "range": [39.11, 41.11], "ans": [4]},
+    {"lyric": "I never gon’ change", "lyric_hangul": "I never gon' change (I never gon' change)", "lyric_translation": "I never gon’ change", "range": [41.11, 42.9], "ans": [4]},
+    {
+      "lyric_hangul": "I never gon' trade (trade off, 추억)",
+      "lyric_translation": "I never gon’ trade / (Trade off)",
+      "parts": [
+        {"lyric": "I never gon’ trade", "range": [42.9, 44.94], "ans": [4]},
+        {"lyric": "(Trade off)", "range": [44.94, 45.55], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "뭘 어쩌고 저쩌고 떠들어대셔?",
+      "lyric_translation": "Keep on chit-chatting, saying this and that / Talkin talkin talkin",
+      "parts": [
+        {"lyric": "Mwol eojjeogo jeojjeogo tteodeureodaeshyeo", "range": [45.52, 48.08], "ans": [6]},
+        {"lyric": "Talkin talkin talkin", "range": [48.08, 49.88], "ans": [4]}
+      ]
+    },
+    {"lyric": "(Talkin', talkin', talkin')", "lyric_hangul": "(Talkin', talkin', talkin')", "lyric_translation": "", "range": [49.78, 53.18], "ans": []},
+    {
+      "lyric_hangul": "I do what I do, 그니까 넌 너나 잘하셔",
+      "lyric_translation": "I do what I do, so you do you / Dirty dirty",
+      "parts": [
+        {"lyric": "I do what I do, geunikka neon neona jalhashyeo", "range": [53.18, 56.36], "ans": [5]},
+        {"lyric": "Dirty dirty", "range": [56.36, 57.66], "ans": [4]}
+      ]
+    },
+    {"lyric": "(Damn it)", "lyric_hangul": "(Damn it)", "lyric_translation": "", "range": [57.66, 58.67], "ans": []},
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [58.67, 62.37], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "(후후) 얼쑤 좋다",
+      "lyric_translation": "Ulssu¹, I like it",
+      "parts": [
+        {"lyric": "(Hoo hoo)", "range": [62.37, 63.46], "ans": [7]},
+        {"lyric": "Eolssu joda", "range": [64.12, 66.25], "ans": [4]}
+      ]
+    },
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [66.25, 70.04], "ans": [5]},
+    {
+      "lyric_hangul": "(후후) 지화자 좋다",
+      "lyric_translation": "I like the shouts",
+      "parts": [
+        {"lyric": "(Hoo hoo)", "range": [70.04, 70.87], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [71.38, 73.47], "ans": [4]}
+      ]
+    },
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [73.47, 76.27], "ans": [5]},
+    {"lyric": "Oh, oh, ooh-oh (hey)", "lyric_hangul": "Oh, oh, ooh-oh (hey)", "lyric_translation": "", "range": [76.27, 78.08], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Oh, oh, ooh-oh, ooh-oh",
+      "lyric_translation": "OHOHOHOH / OHOHOHOHOHOH / OHOHOHOH / OHOHOHOHOHOH",
+      "parts": [
+        {"lyric": "OHOHOHOH", "range": [78.08, 78.73], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [78.73, 79.2], "ans": []},
+        {"lyric": "OHOHOHOH", "range": [79.2, 79.6], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [79.6, 80.14], "ans": []}
+      ]
+    },
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [80.04, 81.78], "ans": []},
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [83.89, 85.78], "ans": []},
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, ooh-oh, ooh-oh", "lyric_translation": "OHOHOHOH / OHOHOHOH", "range": [85.78, 87.74], "ans": []},
+    "",
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [87.63, 89.25], "ans": []},
+    {
+      "lyric_hangul": "덩기덕, 쿵더러러 (얼쑤)",
+      "lyric_translation": "Dunkiduk kungduruhruh² / Ulssu / Dunkiduk kungduruhruh / Ulssu",
+      "parts": [
+        {"lyric": "Deonggideok kungdeoreoreo", "range": [89.25, 90.56], "ans": [7]},
+        {"lyric": "Eolssu", "range": [89.86, 90.97], "ans": [4]},
+        {"lyric": "Deonggideok kungdeoreoreo", "range": [90.27, 91.57], "ans": [7]},
+        {"lyric": "Eolssu", "range": [91.12, 91.62], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Face off machi ousam, ay", "lyric_hangul": "Face off 마치 오우삼, ayy", "lyric_translation": "Face off, like John Woo, ay", "range": [91.3, 93.12], "ans": [3]},
+    {
+      "lyric_hangul": "Top star with that spotlight, ayy",
+      "lyric_translation": "Top star with that spotlight, ay / Sometimes like a super hero",
+      "parts": [
+        {"lyric": "Top star with that spotlight, ay", "range": [93.12, 94.24], "ans": [3]},
+        {"lyric": "Ttaeron syupeohieoroga dwae", "range": [94.24, 95.7], "ans": [3]}
+      ]
+    },
+    {"lyric": "Dollyeodae neoye Anpanman", "lyric_hangul": "돌려대 너의 Anpanman", "lyric_translation": "I’m your Anpanman", "range": [96.67, 99.12], "ans": [3]},
+    {"lyric": "Ishipsashigani jeokji", "lyric_hangul": "워, 24시간이 적지", "lyric_translation": "24 hours isn’t enough", "range": [99.12, 100.43], "ans": [2]},
+    {"lyric": "Hetgallim, naegen sachi", "lyric_hangul": "헷갈림, 내겐 사치 (워)", "lyric_translation": "Can’t afford to be confused", "range": [100.43, 103.02], "ans": [2]},
+    {"lyric": "I do my thang", "lyric_hangul": "I do my thang (I do my thang)", "lyric_translation": "I do my thang", "range": [103.02, 104.94], "ans": [2]},
+    {"lyric": "I love myself", "lyric_hangul": "I love myself I love myself (I love myself)", "lyric_translation": "I love myself", "range": [104.94, 108.11], "ans": [2]},
+    {
+      "lyric_hangul": "I love my fans, love my dance and my what",
+      "lyric_translation": "I love myself, I love my fans / Love my dance and my what",
+      "parts": [
+        {"lyric": "I love myself, I love my fans", "range": [108.11, 109.26], "ans": [7]},
+        {"lyric": "Love my dance and my what", "range": [109.26, 109.96], "ans": [7]}
+      ]
+    },
+    {"lyric": "Nae soganen myeot ship myeot baengmyeonge naega isseo", "lyric_hangul": "내 속안엔 (내 속안엔) 몇 십 몇 백명의 내가 있어", "lyric_translation": "There are hundreds of me’s inside of me", "range": [109.7, 113.99], "ans": [7]},
+    {"lyric": "Oneul tto dareun nal majihae", "lyric_hangul": "오늘 또 다른 날 맞이해 (맞이해)", "lyric_translation": "I’m facing a new me again today", "range": [113.99, 115.54], "ans": [6]},
+    {"lyric": "Eochapi jeonbu da naigie", "lyric_hangul": "어차피 전부 다 나이기에 (나이기에)", "lyric_translation": "It’s all me anyway", "range": [115.54, 117.62], "ans": [6]},
+    {"lyric": "Gominbodaneun gyang dalline", "lyric_hangul": "고민보다는, 걍 달리네 (달리네)", "lyric_translation": "So instead of worrying, I’m just gonna run", "range": [117.62, 119.37], "ans": [6]},
+    {"lyric": "Runnin’ man", "lyric_hangul": "Running man, running man, running man", "lyric_translation": "Runnin’ man / Runnin’ man / Runnin’ man", "range": [119.37, 121.23], "ans": [6]},
+    {"lyric": "Brra!", "lyric_hangul": "Brra!", "lyric_translation": "", "range": [120.76, 121.73], "ans": []},
+    "",
+    {
+      "lyric_hangul": "뭘 어쩌고 저쩌고 떠들어대셔?",
+      "lyric_translation": "Keep on chit-chatting, saying this and that / Talkin talkin talkin",
+      "parts": [
+        {"lyric": "Mwol eojjeogo jeojjeogo tteodeureodaeshyeo", "range": [121.73, 124.45], "ans": [1]},
+        {"lyric": "Talkin talkin talkin", "range": [124.45, 126.03], "ans": [2]}
+      ]
+    },
+    {"lyric": "(Talkin', talkin', talkin')", "lyric_hangul": "(Talkin', talkin', talkin')", "lyric_translation": "", "range": [125.95, 128.96], "ans": []},
+    {
+      "lyric_hangul": "I do what I do, 그니까 넌 너나 잘하셔",
+      "lyric_translation": "I do what I do, so you do you / Dirty dirty",
+      "parts": [
+        {"lyric": "I do what I do, geunikka neon neona jalhashyeo", "range": [128.96, 132.93], "ans": [7]},
+        {"lyric": "Dirty dirty", "range": [132.23, 133.56], "ans": [2]}
+      ]
+    },
+    {"lyric": "(Damn it)", "lyric_hangul": "(Damn it)", "lyric_translation": "", "range": [133.5, 134.79], "ans": []},
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [134.79, 138.63], "ans": [5]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "(후후) 얼쑤 좋다",
+      "lyric_translation": "Ulssu, I like it",
+      "parts": [
+        {"lyric": "(Hoo hoo)", "range": [138.63, 139.47], "ans": [7]},
+        {"lyric": "Eolssu joda", "range": [140.23, 142.42], "ans": [3]}
+      ]
+    },
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [142.42, 146.36], "ans": [5]},
+    {
+      "lyric_hangul": "(후후) 지화자 좋다",
+      "lyric_translation": "I like the shouts",
+      "parts": [
+        {"lyric": "(Hoo hoo)", "range": [146.36, 147.06], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [147.84, 149.99], "ans": [3]}
+      ]
+    },
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [149.99, 152.44], "ans": [5]},
+    {"lyric": "Oh, oh, ooh-oh (hey)", "lyric_hangul": "Oh, oh, ooh-oh (hey)", "lyric_translation": "", "range": [152.44, 154.25], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Oh, oh, ooh-oh, ooh-oh",
+      "lyric_translation": "OHOHOHOH / OHOHOHOHOHOH / OHOHOHOH / OHOHOHOHOHOH",
+      "parts": [
+        {"lyric": "OHOHOHOH", "range": [154.25, 154.9], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [154.9, 155.28], "ans": []},
+        {"lyric": "OHOHOHOH", "range": [155.28, 155.72], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [155.72, 156.31], "ans": []}
+      ]
+    },
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [156.22, 157.85], "ans": []},
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [160.08, 161.9], "ans": []},
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, ooh-oh, ooh-oh", "lyric_translation": "OHOHOHOH / OHOHOHOH", "range": [161.9, 163.94], "ans": []},
+    "",
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [163.7, 165.58], "ans": []},
+    {
+      "lyric_hangul": "덩기덕, 쿵더러러 (얼쑤)",
+      "lyric_translation": "Dunkiduk kungduruhruh / Ulssu / Dunkiduk kungduruhruh / Ulssu",
+      "parts": [
+        {"lyric": "Deonggideok kungdeoreoreo", "range": [165.58, 166.91], "ans": [7]},
+        {"lyric": "Eolssu", "range": [166.37, 167.31], "ans": [4]},
+        {"lyric": "Deonggideok kungdeoreoreo", "range": [166.61, 168.06], "ans": [7]},
+        {"lyric": "Eolssu", "range": [167.36, 168.18], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm so fine wherever I go (go, go, go, go)",
+      "lyric_translation": "I’m so fine wherever I go",
+      "parts": [
+        {"lyric": "I’m so fine wherever I go", "range": [167.85, 170.46], "ans": [5]},
+        {"lyric": "(go go go go)", "range": [169.76, 171.52], "ans": [7]}
+      ]
+    },
+    {"lyric": "Gakkeum meolli doragado", "lyric_hangul": "가끔 멀리 돌아가도, oh", "lyric_translation": "Even if it takes a while sometimes", "range": [171.12, 174.31], "ans": [5]},
+    {"lyric": "It’s okay, I’m in love with my-my myself", "lyric_hangul": "It's okay, I'm in love with my-myself", "lyric_translation": "It’s okay, I’m in love with my-my myself", "range": [174.31, 178.67], "ans": [1]},
+    {"lyric": "It’s okay, nan i sungan haengbokhae", "lyric_hangul": "It's okay, 난 이 순간 행복해", "lyric_translation": "It’s okay, I’m happy in this moment", "range": [178.67, 182.81], "ans": [1, 5]},
+    "",
+    {"lyric": "Uhh what’s good Korea", "lyric_hangul": "Uh, what's good, Korea?", "lyric_translation": "Uhh what’s good Korea", "range": [182.81, 184.4], "ans": []},
+    {"lyric": "You know I been a boss for my whole career", "lyric_hangul": "You know I been a boss for my whole career", "lyric_translation": "You know I been a boss for my whole career", "range": [184.4, 187.02], "ans": []},
+    {"lyric": "I’m bout to Jet in the leer", "lyric_hangul": "I'm 'bout to jet in the lear", "lyric_translation": "I’m bout to Jet in the leer", "range": [187.02, 188.2], "ans": []},
+    {"lyric": "And put more than my hands in the air", "lyric_hangul": "And put more than my hands in the air", "lyric_translation": "And put more than my hands in the air", "range": [188.2, 190.3], "ans": []},
+    {"lyric": "Hands in the air put your hands in the air", "lyric_hangul": "Hands in the air, put your hands in the air", "lyric_translation": "Hands in the air put your hands in the air", "range": [190.3, 192.19], "ans": []},
+    {"lyric": "If you getting money rubber bands in the air", "lyric_hangul": "If you getting money, rubber bands in the air", "lyric_translation": "If you getting money rubber bands in the air", "range": [192.19, 194.02], "ans": []},
+    {"lyric": "Never gave a eff they can cancel my care", "lyric_hangul": "Never gave a F, they can cancel my care (brrr)", "lyric_translation": "Never gave a eff they can cancel my care", "range": [194.02, 195.8], "ans": []},
+    {"lyric": "Cus if he look good throw my pants in the air", "lyric_hangul": "'Cause if he look good, throw my pants in the air", "lyric_translation": "Cus if he look good throw my pants in the air", "range": [195.8, 198.21], "ans": []},
+    {"lyric": "I’m here word to John Mayer", "lyric_hangul": "Uh, I'm here word to John Mayer", "lyric_translation": "I’m here word to John Mayer", "range": [198.21, 199.96], "ans": []},
+    {"lyric": "Body’s a wonderland my face is top tier", "lyric_hangul": "My body's a wonderland, my face is top tier", "lyric_translation": "Body’s a wonderland my face is top tier", "range": [199.96, 201.68], "ans": []},
+    {"lyric": "I swear watch the ice glare", "lyric_hangul": "I swear watch the ice glare", "lyric_translation": "I swear watch the ice glare", "range": [201.68, 203.76], "ans": []},
+    {"lyric": "They be like I’m Gucci but don’t shop there", "lyric_hangul": "They be like, I'm Gucci, but don't shop there (ah!)", "lyric_translation": "They be like I’m Gucci but don’t shop there", "range": [203.76, 205.39], "ans": []},
+    {"lyric": "One time press rewind", "lyric_hangul": "One time press rewind", "lyric_translation": "One time press rewind", "range": [205.39, 207.17], "ans": []},
+    {"lyric": "Tryna come up off Nicki name press decline", "lyric_hangul": "Tryna come up off Nicki name press decline", "lyric_translation": "Tryna come up off Nicki name press decline", "range": [207.17, 209.45], "ans": []},
+    {"lyric": "So much power in the mind yes divine", "lyric_hangul": "So much power in the mind, yes, divine", "lyric_translation": "So much power in the mind yes divine", "range": [209.45, 211.22], "ans": []},
+    {"lyric": "Take your change you’ll never be next in line", "lyric_hangul": "Take your change, you'll never be next in line (woo)", "lyric_translation": "Take your change you’ll never be next in line", "range": [211.22, 216.44], "ans": []},
+    "",
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [218.64, 222.3], "ans": [5]},
+    {
+      "lyric_hangul": "(후후) 얼쑤 좋다",
+      "lyric_translation": "Ulssu, I like it",
+      "parts": [
+        {"lyric": "(Hoo hoo)", "range": [222.3, 224.71], "ans": [7]},
+        {"lyric": "Eolssu joda", "range": [224.01, 226.42], "ans": [2]}
+      ]
+    },
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [226.42, 229.86], "ans": [5]},
+    {
+      "lyric_hangul": "(후후) 지화자 좋다",
+      "lyric_translation": "I like the shouts",
+      "parts": [
+        {"lyric": "(Hoo hoo)", "range": [229.86, 231.99], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [231.29, 233.87], "ans": [2]}
+      ]
+    },
+    {"lyric": "You can’t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "You can’t stop me lovin’ myself", "range": [233.87, 236.25], "ans": [5]},
+    {"lyric": "Oh, oh, ooh-oh (hey)", "lyric_hangul": "Oh, oh, ooh-oh (hey)", "lyric_translation": "", "range": [236.25, 238.07], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Oh, oh, ooh-oh, ooh-oh",
+      "lyric_translation": "OHOHOHOH / OHOHOHOHOHOH / OHOHOHOH / OHOHOHOHOHOH",
+      "parts": [
+        {"lyric": "OHOHOHOH", "range": [238.07, 238.51], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [238.51, 239.16], "ans": []},
+        {"lyric": "OHOHOHOH", "range": [239.16, 239.6], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [239.6, 240.25], "ans": []}
+      ]
+    },
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [240.25, 241.96], "ans": []},
+    {"lyric": "Oh, oh, ooh-oh (hey)", "lyric_hangul": "Oh, oh, ooh-oh (hey)", "lyric_translation": "", "range": [243.91, 245.77], "ans": []},
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, ooh-oh, ooh-oh", "lyric_translation": "OHOHOHOH / OHOHOHOH", "range": [245.77, 247.4], "ans": []},
+    "",
+    {"lyric": "Oh, oh, ooh-oh", "lyric_hangul": "Oh, oh, ooh-oh", "lyric_translation": "", "range": [247.4, 249.57], "ans": []},
+    {
+      "lyric_hangul": "덩기덕, 쿵더러러 (얼쑤)",
+      "lyric_translation": "Dunkiduk kungduruhruh / Ulssu / Dunkiduk kungduruhruh / Ulssu",
+      "parts": [
+        {"lyric": "Deonggideok kungdeoreoreo", "range": [249.57, 251.62], "ans": [7]},
+        {"lyric": "Eolssu", "range": [250.92, 252.1], "ans": [3]},
+        {"lyric": "Deonggideok kungdeoreoreo", "range": [251.4, 253.8], "ans": [7]},
+        {"lyric": "Eolssu", "range": [253.1, 253.93], "ans": [2]}
+      ]
+    }
+  ]
+}

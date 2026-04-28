@@ -1,0 +1,234 @@
+{
+  "name": "Butter\r",
+  "ogg": "sound/kpop/butter.ogg",
+  "id": "butter",
+  "group": "bts",
+  "language": "en",
+  "released": "2021-05-21",
+  "album": "Butter",
+  "cover": "css/images/covers/butter.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:37Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "Smooth like butter, like a criminal undercover",
+      "parts": [
+        {"lyric": "Smooth like butter", "range": [4.32, 6.09], "ans": [7]},
+        {"lyric": "Like a criminal undercover", "range": [6.09, 8.27], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Gon' pop like trouble breaking into your heart like that, ooh",
+      "parts": [
+        {"lyric": "Gon’ pop like trouble", "range": [8.27, 10.21], "ans": [7]},
+        {"lyric": "Breakin’ into your heart like that", "range": [10.21, 13.22], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Cool shade, stunner, yeah, I owe it all to my mother, uh",
+      "parts": [
+        {"lyric": "Cool shade stunner", "range": [13.22, 14.83], "ans": [6]},
+        {"lyric": "Yeah I owe it all to my mother", "range": [14.83, 17.24], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Hot like summer, yeah, I'm making you sweat like that (break it down!)",
+      "parts": [
+        {"lyric": "Hot like summer", "range": [17.2, 19.15], "ans": [6]},
+        {"lyric": "Yeah I’m makin’ you sweat like that", "range": [19.15, 21.53], "ans": [6]},
+        {"lyric": "Break it down", "range": [20.83, 21.99], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Oh when I look in the mirror", "lyric_hangul": "Ooh, when I look in the mirror", "lyric_translation": "", "range": [21.99, 23.99], "ans": [1]},
+    {"lyric": "I’ll melt your heart into 2", "lyric_hangul": "I'll melt your heart into two", "lyric_translation": "", "range": [23.99, 26.49], "ans": [1]},
+    {
+      "lyric_hangul": "I got that superstar glow, so",
+      "parts": [
+        {"lyric": "I got that superstar glow so", "range": [26.49, 27.93], "ans": [1]},
+        {"lyric": "Do the boogie like", "range": [27.23, 28.72], "ans": [4]}
+      ]
+    },
+    {"lyric": "Ooh (do the boogie, like)", "lyric_hangul": "Ooh (do the boogie, like)", "lyric_translation": "", "range": [28.72, 29.86], "ans": []},
+    "",
+    {
+      "lyric_hangul": "A side step, right-left, to my beat",
+      "parts": [
+        {"lyric": "Side step right left to my beat", "range": [29.86, 32.75], "ans": [7]},
+        {"lyric": "(heartbeat)", "range": [32.05, 35.01], "ans": []}
+      ]
+    },
+    {"lyric": "High like the moon rock with me baby", "lyric_hangul": "High like the moon, rock with me, baby", "lyric_translation": "", "range": [35.01, 38.9], "ans": [7]},
+    {"lyric": "Know that I got that heat", "lyric_hangul": "Know that I got that heat", "lyric_translation": "", "range": [38.9, 40.63], "ans": [5]},
+    {"lyric": "Let me show you ‘cause talk is cheap", "lyric_hangul": "Let me show you 'cause talk is cheap", "lyric_translation": "", "range": [40.63, 43.38], "ans": [5]},
+    {
+      "lyric_hangul": "Side step, right-left, to my beat",
+      "parts": [
+        {"lyric": "Side step right left to my beat", "range": [43.38, 45.79], "ans": [6]},
+        {"lyric": "(heartbeat)", "range": [45.09, 46.31], "ans": []}
+      ]
+    },
+    {"lyric": "Get it, let it roll", "lyric_hangul": "Get it, let it roll", "lyric_translation": "", "range": [46.31, 48.02], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Smooth like butter, pull you in like no other",
+      "parts": [
+        {"lyric": "Smooth like butter", "range": [48.02, 49.89], "ans": [6]},
+        {"lyric": "Pull you in like no other", "range": [49.89, 51.73], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Don't need no Usher to remind me you got it bad",
+      "parts": [
+        {"lyric": "Don’t need no Usher", "range": [51.73, 54.11], "ans": [6]},
+        {"lyric": "To remind me you got it", "range": [54.11, 56.12], "ans": [6]},
+        {"lyric": "Bad", "range": [55.42, 56.84], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Ain't no other that can sweep you up like a robber",
+      "parts": [
+        {"lyric": "Ain’t no other", "range": [56.84, 58.32], "ans": [1]},
+        {"lyric": "That can sweep you up like a robber", "range": [58.32, 60.93], "ans": [1]}
+      ]
+    },
+    {"lyric": "Straight up, I got ya", "lyric_hangul": "Straight up, I (got ya)", "lyric_translation": "", "range": [60.93, 63.39], "ans": [1]},
+    {
+      "lyric_hangul": "Making you fall like that (break it down)",
+      "parts": [
+        {"lyric": "Makin’ you fall like that", "range": [63.39, 65.16], "ans": [1]},
+        {"lyric": "Break it down", "range": [64.46, 65.95], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Oh when I look in the mirror", "lyric_hangul": "Ooh, when I look in the mirror", "lyric_translation": "", "range": [65.95, 67.63], "ans": [5]},
+    {"lyric": "I’ll melt your heart into 2", "lyric_hangul": "I'll melt your heart into two", "lyric_translation": "", "range": [67.63, 70.26], "ans": [5]},
+    {
+      "lyric_hangul": "I got that superstar glow, so",
+      "parts": [
+        {"lyric": "I got that superstar glow so", "range": [70.26, 71.67], "ans": [5]},
+        {"lyric": "Do the boogie like", "range": [70.97, 72.3], "ans": [4]}
+      ]
+    },
+    {"lyric": "Ooh (do the boogie, like)", "lyric_hangul": "Ooh (do the boogie, like)", "lyric_translation": "", "range": [72.3, 74.23], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Side step, right-left, to my beat",
+      "parts": [
+        {"lyric": "Side step right left to my beat", "range": [74.23, 76.36], "ans": [5]},
+        {"lyric": "(heartbeat)", "range": [75.66, 78.64], "ans": []}
+      ]
+    },
+    {"lyric": "High like the moon rock with me baby", "lyric_hangul": "High like the moon, rock with me, baby", "lyric_translation": "", "range": [78.64, 82.46], "ans": [5]},
+    {"lyric": "Know that I got that heat", "lyric_hangul": "Know that I got that heat", "lyric_translation": "", "range": [82.46, 84.09], "ans": [1]},
+    {"lyric": "Let me show you ‘cause talk is cheap", "lyric_hangul": "Let me show you 'cause talk is cheap", "lyric_translation": "", "range": [84.09, 87.17], "ans": [1]},
+    {
+      "lyric_hangul": "A side step, right-left, to my beat",
+      "parts": [
+        {"lyric": "Side step right left to my beat", "range": [87.17, 89.43], "ans": [7]},
+        {"lyric": "(heartbeat)", "range": [88.73, 89.92], "ans": []}
+      ]
+    },
+    {"lyric": "Get it, let it roll", "lyric_hangul": "Get it, let it roll", "lyric_translation": "", "range": [89.92, 93.52], "ans": [7]},
+    "",
+    "[next-col]",
+    {"lyric": "Get it, let it roll", "lyric_hangul": "Get it, let it roll", "lyric_translation": "", "range": [98.32, 107.3], "ans": [5]},
+    {"lyric": "Get it, let it roll", "lyric_hangul": "Get it, let it roll", "lyric_translation": "", "range": [107.3, 109.53], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "Ice on my wrist, I'm the nice guy",
+      "parts": [
+        {"lyric": "No ice on my wrist", "range": [109.53, 110.73], "ans": [2]},
+        {"lyric": "I’m that nice guy", "range": [110.73, 111.54], "ans": [2]}
+      ]
+    },
+    {"lyric": "Got that right body and that right mind", "lyric_hangul": "Got the right body and the right mind", "lyric_translation": "", "range": [111.54, 113.99], "ans": [2]},
+    {"lyric": "Rollin’ up to party got the right vibe", "lyric_hangul": "Rolling up the party, got the right vibe", "lyric_translation": "", "range": [113.99, 116.07], "ans": [2]},
+    {
+      "lyric_hangul": "Smooth like (butter), hate us (love us)",
+      "parts": [
+        {"lyric": "Smooth like", "range": [116.07, 116.99], "ans": [2]},
+        {"lyric": "Butter", "range": [116.29, 117.52], "ans": []},
+        {"lyric": "Hate us", "range": [116.82, 118.12], "ans": [2]},
+        {"lyric": "Love us", "range": [117.42, 118.51], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Fresh boy pull up and we lay low", "lyric_hangul": "Fresh boy, pull up and we lay low", "lyric_translation": "", "range": [118.51, 119.97], "ans": [4]},
+    {"lyric": "All the playas get movin’ when the bass low", "lyric_hangul": "All the players get moving when the bass low", "lyric_translation": "", "range": [119.97, 122.22], "ans": [4]},
+    {"lyric": "Got ARMY right behind us when we say so", "lyric_hangul": "Got ARMY right behind us when we say so", "lyric_translation": "", "range": [122.22, 125.33], "ans": [4]},
+    {"lyric": "Let’s go", "lyric_hangul": "Let's go", "lyric_translation": "", "range": [125.33, 126.5], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "Side step, right-left, to my beat (right-left, to my beat)",
+      "parts": [
+        {"lyric": "Side step right left to my beat", "range": [126.5, 129.22], "ans": [6]},
+        {"lyric": "(heartbeat)", "range": [129.22, 131.12], "ans": []}
+      ]
+    },
+    {"lyric": "High like the moon rock with me baby", "lyric_hangul": "High like the moon, rock with me, baby", "lyric_translation": "", "range": [131.12, 134.64], "ans": [6]},
+    {"lyric": "Know that I got that heat", "lyric_hangul": "You know that I got that heat", "lyric_translation": "", "range": [134.64, 136.94], "ans": [1]},
+    {"lyric": "Let me show you ‘cause talk is cheap", "lyric_hangul": "Let me show you 'cause talk is cheap (you know that talk is cheap)", "lyric_translation": "", "range": [136.94, 139.65], "ans": [1]},
+    {
+      "lyric_hangul": "Side step, right-left, to my beat",
+      "parts": [
+        {"lyric": "Side step right left to my beat", "range": [139.65, 141.81], "ans": [7]},
+        {"lyric": "(heartbeat)", "range": [141.11, 142.33], "ans": []}
+      ]
+    },
+    {"lyric": "Get it, let it roll", "lyric_hangul": "Get it, let it roll", "lyric_translation": "", "range": [142.33, 144.06], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Smooth like (butter), cool shade (stunner)",
+      "parts": [
+        {"lyric": "Smooth like", "range": [144.06, 144.97], "ans": [3]},
+        {"lyric": "(butter)", "range": [144.35, 145.37], "ans": []},
+        {"lyric": "Cool shade", "range": [144.67, 145.66], "ans": [3]},
+        {"lyric": "(stunner)", "range": [145.66, 146.16], "ans": []}
+      ]
+    },
+    {"lyric": "And you know we don’t stop", "lyric_hangul": "And you know we don't stop", "lyric_translation": "", "range": [145.98, 148.34], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "Hot like (summer), ain't no (bummer)",
+      "parts": [
+        {"lyric": "Hot like", "range": [148.34, 149.5], "ans": [3]},
+        {"lyric": "(summer)", "range": [148.8, 150.03], "ans": []},
+        {"lyric": "Ain’t no", "range": [149.33, 150.59], "ans": [3]},
+        {"lyric": "(bummer)", "range": [149.89, 150.97], "ans": []}
+      ]
+    },
+    {"lyric": "You be like oh my god", "lyric_hangul": "You'll be like, \"Oh my God\"", "lyric_translation": "", "range": [150.59, 152.97], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "We gon' make you rock, and you say (yeah)",
+      "parts": [
+        {"lyric": "We gon’ make you rock and you say", "range": [152.97, 154.58], "ans": [4]},
+        {"lyric": "(yeah)", "range": [153.88, 155.05], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "We gon' make you bounce, and you say (yeah)",
+      "parts": [
+        {"lyric": "We gon’ make you bounce and you say", "range": [155.05, 156.66], "ans": [4]},
+        {"lyric": "(yeah)", "range": [155.96, 157.19], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hotter, sweeter, cooler, butter!",
+      "parts": [
+        {"lyric": "Hotter?", "range": [157.19, 158.1], "ans": [4]},
+        {"lyric": "Sweeter!", "range": [157.4, 158.6], "ans": [3]},
+        {"lyric": "Cooler?", "range": [157.9, 159.16], "ans": [4]},
+        {"lyric": "Butter!", "range": [158.46, 159.67], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Get it, let it roll", "lyric_hangul": "Get it, let it roll", "lyric_translation": "", "range": [159.67, 163.07], "ans": [7]}
+  ]
+}

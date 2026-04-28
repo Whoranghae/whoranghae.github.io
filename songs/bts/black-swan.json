@@ -1,0 +1,334 @@
+{
+  "name": "Black Swan\r",
+  "ogg": "sound/kpop/black_swan.ogg",
+  "id": "black-swan",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-01-17",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/black-swan.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:26Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "Do your thang, do your thang with me now",
+      "lyric_translation": "Do your thang / Do your thang with me now",
+      "parts": [
+        {"lyric": "Do your thang", "range": [13.14, 14.19], "ans": [7]},
+        {"lyric": "Do your thang with me now", "range": [14.19, 16.62], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Do your thang, do your thang with me now",
+      "lyric_translation": "Do your thang / Do your thang with me now",
+      "parts": [
+        {"lyric": "Do your thang", "range": [16.62, 17.45], "ans": [7]},
+        {"lyric": "Do your thang with me now", "range": [17.45, 20.09], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "What's my thang? What's my thang? Tell me now",
+      "lyric_translation": "What’s my thang / What’s my thang tell me now",
+      "parts": [
+        {"lyric": "What’s my thang", "range": [20.09, 20.59], "ans": [7]},
+        {"lyric": "What’s my thang tell me now", "range": [20.23, 23.58], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Tell me now, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Tell me now / Yeah yeah yeah yeah / Ayy / They say my heart isn’t beating anymore / When I listen to music",
+      "parts": [
+        {"lyric": "Tell me now", "range": [23.58, 24.08], "ans": [7]},
+        {"lyric": "Yeah yeah yeah yeah", "range": [23.89, 24.76], "ans": [7]},
+        {"lyric": "Ayy", "range": [24.36, 24.81], "ans": [2]},
+        {"lyric": "Shimjangi ttwiji anneundae", "range": [24.81, 25.63], "ans": [2]},
+        {"lyric": "Deoneun eumageul deureul ttae", "range": [25.63, 26.44], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Ayy, simjangi ttwiji anneundae", "lyric_hangul": "Ayy, simjangi ttwiji anneundae", "lyric_translation": "", "range": [26.44, 29.27], "ans": []},
+    {
+      "lyric_hangul": "Deoneun eumageul deureul ttae, tryna pull up",
+      "lyric_translation": "Tryna pull up / As if time has stopped",
+      "parts": [
+        {"lyric": "Tryna pull up", "range": [29.27, 30.51], "ans": [2]},
+        {"lyric": "Shigani meomchun deuthae", "range": [30.51, 32.66], "ans": [2]}
+      ]
+    },
+    {"lyric": "Sigani meomchun deut hae", "lyric_hangul": "Sigani meomchun deut hae", "lyric_translation": "", "range": [32.66, 35.34], "ans": []},
+    {
+      "lyric_hangul": "Oh, that would be my first death, I've been always afraid of",
+      "lyric_translation": "Oh that would be my first death / I been always afraid of / If this can’t make me cry anymore / If this can’t make my heart tremble anymore / Maybe I’ll die like this",
+      "parts": [
+        {"lyric": "Oh that would be my first death", "range": [35.34, 35.8], "ans": [2]},
+        {"lyric": "I been always afraid of", "range": [35.8, 36.65], "ans": [2]},
+        {"lyric": "Ige nareul deo mot ullindamyeon", "range": [35.95, 37.03], "ans": [4]},
+        {"lyric": "Nae gaseumeul deo tteollige mot handamyeon", "range": [37.03, 38.12], "ans": [4]},
+        {"lyric": "Eojjeom ireoke han beon jukgetji ama", "range": [38.12, 39.69], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Ige nareul deo mot ullindamyeon", "lyric_hangul": "Ige nareul deo mot ullindamyeon", "lyric_translation": "", "range": [39.69, 42.59], "ans": []},
+    {"lyric": "Nae gaseumeul deo tteollige mot handamyeon", "lyric_hangul": "Nae gaseumeul deo tteollige mot handamyeon", "lyric_translation": "", "range": [42.59, 45.53], "ans": []},
+    {"lyric": "Eojjeom ireoke han beon jukketji ama", "lyric_hangul": "Eojjeom ireoke han beon jukketji ama", "lyric_translation": "", "range": [45.53, 49.22], "ans": []},
+    {
+      "lyric_hangul": "But what if that moment's right now, right now?",
+      "lyric_translation": "But what if that moment’s right now / Right now / I can only hear the sound of my slow heart beat",
+      "parts": [
+        {"lyric": "But what if that moment’s right now", "range": [49.22, 50.02], "ans": [4, 7]},
+        {"lyric": "Right now", "range": [50.02, 51.03], "ans": [4, 7]},
+        {"lyric": "Gwitgaen neurin shimjang soriman", "range": [50.33, 52.42], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Gwikkaen neunrin simjang soriman bump, bump, bump",
+      "lyric_translation": "Bump bump bump / I try to escape but into that mouth, I",
+      "parts": [
+        {"lyric": "Bump bump bump", "range": [52.42, 53.44], "ans": [6]},
+        {"lyric": "Beoseonallaedo geu ibsogeuro", "range": [53.44, 57.06], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Beoseonallaedo geu ipsogeuro jump, jump, jump",
+      "lyric_translation": "Jump jump jump / Not a single song touches me / I’m screaming a silent scream / All the lights are silent in this ocean",
+      "parts": [
+        {"lyric": "Jump jump jump", "range": [56.31, 56.99], "ans": [6]},
+        {"lyric": "Eotteon noraedo wadachi mothae", "range": [56.36, 57.68], "ans": [5]},
+        {"lyric": "Sori eopneun soril jilleo", "range": [57.68, 59.09], "ans": [5]},
+        {"lyric": "Modeun bichi chimmukhaneun bada", "range": [58.39, 59.53], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Eotteon noraedo wadajji mot hae sori eomneun soril jilleo", "lyric_hangul": "Eotteon noraedo wadajji mot hae sori eomneun soril jilleo", "lyric_translation": "", "range": [59.17, 65.28], "ans": []},
+    {
+      "lyric_hangul": "Modeun bichi chimmukhaneun bada, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah / It’s grabbing my lost ankles",
+      "parts": [
+        {"lyric": "Yeah yeah yeah", "range": [65.28, 66.22], "ans": [7]},
+        {"lyric": "Gil ireun nae balmogeul tto jaba", "range": [66.22, 69.42], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Gil ireun nae balmogeul tto jaba, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah / I can’t hear anything",
+      "parts": [
+        {"lyric": "Yeah yeah yeah", "range": [68.84, 70.01], "ans": [7]},
+        {"lyric": "Eotteon sorido deulliji ana", "range": [69.31, 72.36], "ans": [5]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah", "lyric_hangul": "Eotteon sorido deulliji anha, yeah, yeah, yeah", "lyric_translation": "Yeah yeah yeah", "range": [72.16, 75.52], "ans": [5]},
+    {
+      "lyric_hangul": "Killin' me now, killin' me now, do you hear me? Yeah",
+      "lyric_translation": "Killin’ me now / Killin’ me now / Do you hear me yeah / Slowly sinking as if I’m bewitched",
+      "parts": [
+        {"lyric": "Killin’ me now", "range": [75.52, 76.35], "ans": [5]},
+        {"lyric": "Do you hear me yeah", "range": [76.35, 77.73], "ans": [5]},
+        {"lyric": "Hollin deut cheoncheoni garaanja", "range": [77.03, 78.7], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hollin deut cheoncheonhi garaanja, nah, nah, nah",
+      "lyric_translation": "Nah nah nah / I’m thrashing my body but it’s just the floor all around me",
+      "parts": [
+        {"lyric": "Nah nah nah", "range": [78.7, 79.24], "ans": [6]},
+        {"lyric": "Momburimchyeobwado sabangi badak", "range": [79.24, 81.87], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Momburimchyeobwado sabangi badak, nah, nah",
+      "lyric_translation": "Nah nah / Each moment becomes eternity",
+      "parts": [
+        {"lyric": "Nah nah", "range": [81.87, 82.77], "ans": [6]},
+        {"lyric": "Modeun sungandeuri yeongwonhi dwae", "range": [82.07, 85.17], "ans": [1]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah", "lyric_hangul": "Modeun sungandeuri yeongwon-i dwae, yeah, yeah, yeah", "lyric_translation": "Yeah yeah yeah", "range": [85.1, 88.46], "ans": [1]},
+    {
+      "lyric_hangul": "Film it now, film it now, do you hear me? Yeah",
+      "lyric_translation": "Film it now / Film it now / Do you hear me yeah",
+      "parts": [
+        {"lyric": "Film it now", "range": [88.46, 90.06], "ans": [1]},
+        {"lyric": "Do you hear me yeah", "range": [90.06, 91.81], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Do your thang, do your thang with me now",
+      "lyric_translation": "Do your thang / Do your thang with me now",
+      "parts": [
+        {"lyric": "Do your thang", "range": [91.81, 92.63], "ans": [5]},
+        {"lyric": "Do your thang with me now", "range": [92.63, 95.07], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Do your thang, do your thang with me now",
+      "lyric_translation": "Do your thang / Do your thang with me now",
+      "parts": [
+        {"lyric": "Do your thang", "range": [95.07, 95.88], "ans": [5]},
+        {"lyric": "Do your thang with me now", "range": [95.88, 98.3], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "What's my thang? What's my thang? Tell me now",
+      "lyric_translation": "What’s my thang / What’s my thang tell me now",
+      "parts": [
+        {"lyric": "What’s my thang", "range": [98.3, 98.8], "ans": [6]},
+        {"lyric": "What’s my thang tell me now", "range": [98.64, 101.92], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Tell me now, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Tell me now / Yeah yeah yeah yeah",
+      "parts": [
+        {"lyric": "Tell me now", "range": [101.92, 102.77], "ans": [6]},
+        {"lyric": "Yeah yeah yeah yeah", "range": [102.77, 105.02], "ans": [6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Deeper, yeah, I think I'm goin' deeper",
+      "lyric_translation": "Deeper / Yeah I think I’m goin’ deeper / I keep losing focus / Let me go now, I hate this / Let me go my own way / I’ll jump in / From the deepest place / I saw myself / I’m slowly opening my eyes / This is my work place, my studio / Even when the dark and rough waves pass by / I won’t ever get swept away again",
+      "parts": [
+        {"lyric": "Deeper", "range": [105.02, 105.22], "ans": [3]},
+        {"lyric": "Yeah I think I’m goin’ deeper", "range": [105.09, 105.38], "ans": [3]},
+        {"lyric": "Jakku chojeomeul ireo", "range": [105.32, 105.54], "ans": [3]},
+        {"lyric": "Ijen noajwo shireo", "range": [105.48, 105.72], "ans": [3]},
+        {"lyric": "Charari nae ballo galge", "range": [105.64, 105.9], "ans": [3]},
+        {"lyric": "Naega ttwieodeureogalge", "range": [105.82, 106.06], "ans": [3]},
+        {"lyric": "Gajang gipeun goseseo", "range": [106.0, 106.28], "ans": [3]},
+        {"lyric": "Naneun nal bwasseo", "range": [106.16, 106.38], "ans": [3]},
+        {"lyric": "Cheoncheonhi nan nuneul tteo", "range": [106.21, 106.6], "ans": [2]},
+        {"lyric": "Yeogin naye jageobshil nae seutyudio", "range": [106.43, 106.9], "ans": [2]},
+        {"lyric": "Geosen pado kkamkkamhage nareul seuchyeodo", "range": [106.7, 107.2], "ans": [2]},
+        {"lyric": "Jeoldae kkeullyeogaji aneul geoya dashi tto", "range": [107.0, 107.5], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Jakku chojeomeul ilheo, ijen nohwajwo silheo", "lyric_hangul": "Jakku chojeomeul ilheo, ijen nohwajwo silheo", "lyric_translation": "", "range": [107.31, 110.48], "ans": []},
+    {"lyric": "Charari nae ballo galge, naega ttwieo deureogalge", "lyric_hangul": "Charari nae ballo galge, naega ttwieo deureogalge", "lyric_translation": "", "range": [110.48, 113.76], "ans": []},
+    {"lyric": "Gajang gipeun goseseo naneun nal bwasseo", "lyric_hangul": "Gajang gipeun goseseo naneun nal bwasseo", "lyric_translation": "", "range": [113.76, 116.6], "ans": []},
+    {"lyric": "Cheoncheonhi nan nuneul tteo yeogin naui jageopsil nae seutyudio", "lyric_hangul": "Cheoncheonhi nan nuneul tteo yeogin naui jageopsil nae seutyudio", "lyric_translation": "", "range": [116.6, 120.89], "ans": []},
+    {"lyric": "Geosen pado kkamkamhage nareul seuchyeodo", "lyric_hangul": "Geosen pado kkamkamhage nareul seuchyeodo", "lyric_translation": "", "range": [120.89, 123.95], "ans": []},
+    {"lyric": "Jeoldae kkeullyeogaji aneul geoya dasi tto", "lyric_hangul": "Jeoldae kkeullyeogaji aneul geoya dasi tto", "lyric_translation": "", "range": [123.95, 127.88], "ans": []},
+    {
+      "lyric_hangul": "Inside, I saw myself, myself",
+      "lyric_translation": "Inside / I saw myself, myself / I can only hear the sound of my rapid heart beat",
+      "parts": [
+        {"lyric": "Inside", "range": [127.88, 128.83], "ans": [2]},
+        {"lyric": "I saw myself, myself", "range": [128.13, 129.63], "ans": [2, 6]},
+        {"lyric": "Gwitgaen ppareun shimjang soriman", "range": [128.93, 131.27], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Gwikkaen ppareun simjang soriman, bump, bump, bump",
+      "lyric_translation": "Bump bump bump / I opened my eyes and into my forest, I",
+      "parts": [
+        {"lyric": "Bump bump bump", "range": [131.27, 131.73], "ans": [7]},
+        {"lyric": "Du nuneul tteugo naye supeuro", "range": [131.73, 134.61], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Du nuneul tteugo naui sup-euro, jump, jump, jump",
+      "lyric_translation": "Jump jump jump / Nothing can swallow me up / I’m shouting out loud with all my strength / All the lights are silent in this ocean",
+      "parts": [
+        {"lyric": "Jump jump jump", "range": [134.61, 135.18], "ans": [7]},
+        {"lyric": "Geu mueotto nal samkil su eopseo", "range": [134.66, 135.47], "ans": [1]},
+        {"lyric": "Himkkeot naneun sori jilleo", "range": [135.47, 136.98], "ans": [1]},
+        {"lyric": "Modeun bichi chimmukhaneun bada", "range": [136.28, 137.91], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Geu mueotdo nal samkil su eopseo himkkeot naneun sori jilleo", "lyric_hangul": "Geu mueotdo nal samkil su eopseo himkkeot naneun sori jilleo", "lyric_translation": "", "range": [137.54, 143.44], "ans": []},
+    {
+      "lyric_hangul": "Modeun bichi chimmukhaneun bada, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah / It’s grabbing my lost ankles",
+      "parts": [
+        {"lyric": "Yeah yeah yeah", "range": [143.44, 144.6], "ans": [5]},
+        {"lyric": "Gil ireun nae balmogeul tto jaba", "range": [144.6, 147.44], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Gil ireun nae balmogeul tto jaba, yeah, yeah, yeah",
+      "lyric_translation": "Yeah yeah yeah / I can’t hear anything",
+      "parts": [
+        {"lyric": "Yeah yeah yeah", "range": [147.44, 148.35], "ans": [5]},
+        {"lyric": "Eotteon sorido deulliji ana", "range": [147.65, 150.73], "ans": [6]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah", "lyric_hangul": "Eotteon sorido deulliji anha, yeah, yeah, yeah", "lyric_translation": "Yeah yeah yeah", "range": [150.46, 153.94], "ans": [6]},
+    {
+      "lyric_hangul": "Killin' me now, killin' me now, do you hear me? Yeah",
+      "lyric_translation": "Killin’ me now / Killin’ me now / Do you hear me yeah / Slowly sinking as if I’m bewitched",
+      "parts": [
+        {"lyric": "Killin’ me now", "range": [153.94, 154.86], "ans": [6]},
+        {"lyric": "Do you hear me yeah", "range": [154.86, 156.13], "ans": [6]},
+        {"lyric": "Hollin deut cheoncheoni garaanja", "range": [155.43, 156.94], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hollin deut cheoncheonhi garaanja, nah, nah, nah",
+      "lyric_translation": "Nah nah nah / I’m thrashing my body but it’s just the floor all around me",
+      "parts": [
+        {"lyric": "Nah nah nah", "range": [156.94, 157.58], "ans": [1]},
+        {"lyric": "Momburimchyeobwado sabangi badak", "range": [157.58, 160.31], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Momburimchyeobwado sabangi badak, nah, nah",
+      "lyric_translation": "Nah nah / Each moment becomes eternity",
+      "parts": [
+        {"lyric": "Nah nah", "range": [160.31, 161.18], "ans": [1]},
+        {"lyric": "Modeun sungandeuri yeongwonhi dwae", "range": [160.48, 163.51], "ans": [7]}
+      ]
+    },
+    {"lyric": "Yeah yeah yeah", "lyric_hangul": "Modeun sungandeuri yeongwon-i dwae, yeah, yeah, yeah", "lyric_translation": "Yeah yeah yeah", "range": [163.45, 167.02], "ans": [7]},
+    {
+      "lyric_hangul": "Film it now, film it now, do you hear me? Yeah",
+      "lyric_translation": "Film it now / Film it now / Do you hear me yeah",
+      "parts": [
+        {"lyric": "Film it now", "range": [167.02, 168.44], "ans": [7]},
+        {"lyric": "Do you hear me yeah", "range": [168.44, 170.16], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Do your thang, do your thang with me now",
+      "lyric_translation": "Do your thang / Do your thang with me now",
+      "parts": [
+        {"lyric": "Do your thang", "range": [170.16, 171.02], "ans": [1]},
+        {"lyric": "Do your thang with me now", "range": [171.02, 173.46], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Do your thang, do your thang with me now",
+      "lyric_translation": "Do your thang / Do your thang with me now",
+      "parts": [
+        {"lyric": "Do your thang", "range": [173.46, 174.36], "ans": [1]},
+        {"lyric": "Do your thang with me now", "range": [174.36, 176.66], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "What's my thang? What's my thang? Tell me now",
+      "lyric_translation": "What’s my thang / What’s my thang tell me now",
+      "parts": [
+        {"lyric": "What’s my thang", "range": [176.66, 177.16], "ans": [5]},
+        {"lyric": "What’s my thang tell me now", "range": [176.96, 180.27], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Tell me now, yeah, yeah, yeah, yeah",
+      "lyric_translation": "Tell me now / Yeah yeah yeah yeah",
+      "parts": [
+        {"lyric": "Tell me now", "range": [180.27, 180.85], "ans": [5]},
+        {"lyric": "Yeah yeah yeah yeah", "range": [180.85, 184.93], "ans": [5]}
+      ]
+    }
+  ]
+}

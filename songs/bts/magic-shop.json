@@ -1,0 +1,177 @@
+{
+  "name": "Magic Shop\r",
+  "ogg": "sound/kpop/magic_shop.ogg",
+  "id": "magic-shop",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/magic-shop.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:01Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Mangseorindaneun geol ara jinshimeul malhaedo", "lyric_hangul": "망설인다는 걸 알아 진심을 말해도", "lyric_translation": "I know you’re hesitating", "range": [2.78, 8.67], "ans": [6]},
+    {"lyric": "Gyeolguk da hyungteodeullo doraonikka", "lyric_hangul": "결국 다 흉터들로 돌아오니까", "lyric_translation": "Because even if you tell the truth, it’ll come back as scars", "range": [8.67, 15.55], "ans": [6]},
+    {"lyric": "Himeul naeran ppeonhan mareun haji aneul geoya", "lyric_hangul": "힘을 내란 뻔한 말은 하지 않을 거야", "lyric_translation": "I won’t say clichéd things like “have strength”", "range": [15.55, 21.29], "ans": [7]},
+    {"lyric": "Nan nae yaegil deullyeojulge deullyeojulge", "lyric_hangul": "난 내 얘길 들려줄게 들려줄게", "lyric_translation": "I’ll just listen to you, listen", "range": [21.29, 27.43], "ans": [7]},
+    "",
+    {"lyric": "Naega mworaesseo", "lyric_hangul": "내가 뭐랬어", "lyric_translation": "What did I tell you?", "range": [27.43, 28.67], "ans": [4]},
+    {"lyric": "Igil georaetjana", "lyric_hangul": "이길 거랬잖아", "lyric_translation": "I told you you’d overcome", "range": [28.67, 30.72], "ans": [4]},
+    {"lyric": "Midji mothaesseo (jeongmal)", "lyric_hangul": "믿지 못했어 정말", "lyric_translation": "You didn’t believe (really)", "range": [30.72, 32.05], "ans": [4]},
+    {"lyric": "Igil su isseulkka", "lyric_hangul": "이길 수 있을까", "lyric_translation": "Will we be able to overcome?", "range": [32.05, 33.33], "ans": [4]},
+    {"lyric": "I gijeok anin gijeogeul", "lyric_hangul": "이 기적 아닌 기적을", "lyric_translation": "This miracle", "range": [33.33, 35.15], "ans": [4]},
+    {"lyric": "Uriga mandeun geolkka", "lyric_hangul": "우리가 만든 걸까", "lyric_translation": "Did we make it?", "range": [35.15, 36.55], "ans": [4]},
+    {"lyric": "(No) nan yeogi isseotgo", "lyric_hangul": "No 난 여기 있었고", "lyric_translation": "(No) I was always here", "range": [36.55, 37.9], "ans": [4]},
+    {"lyric": "Niga naege dagawajun geoya", "lyric_hangul": "니가 내게 다가와준 거야", "lyric_translation": "You came to me", "range": [37.9, 39.47], "ans": [4]},
+    {"lyric": "I do believe your galaxy", "lyric_hangul": "I do believe your galaxy", "lyric_translation": "I do believe your galaxy", "range": [39.47, 40.97], "ans": [4]},
+    {"lyric": "Deutgo shipeo neoye mellodi", "lyric_hangul": "듣고 싶어 너의 멜로디", "lyric_translation": "I wanna hear your melody", "range": [40.97, 42.13], "ans": [4]},
+    {"lyric": "Neoye eunhasuye byeoldeureun", "lyric_hangul": "너의 은하수의 별들은", "lyric_translation": "The stars in your Milky Way", "range": [42.13, 44.08], "ans": [4]},
+    {"lyric": "Neoye haneureul gwayeon eotteoke sunoeulji", "lyric_hangul": "너의 하늘을 과연 어떻게 수놓을지", "lyric_translation": "How will they appear in your sky?", "range": [44.08, 45.85], "ans": [4]},
+    {"lyric": "Naye jeolmang kkeute", "lyric_hangul": "나의 절망 끝에", "lyric_translation": "At the end of my despair", "range": [45.85, 47.11], "ans": [4]},
+    {"lyric": "Gyeolguk naega neol chajasseumeul ijjima", "lyric_hangul": "결국 내가 널 찾았음을 잊지마", "lyric_translation": "I found you, don’t forget", "range": [47.11, 49.13], "ans": [4]},
+    {"lyric": "Neon jeolbyeok kkeute seo itteon", "lyric_hangul": "넌 절벽 끝에 서 있던", "lyric_translation": "You’re my last reason", "range": [49.13, 50.81], "ans": [4]},
+    {"lyric": "Nae majimak iyuya", "lyric_hangul": "내 마지막 이유야", "lyric_translation": "Standing at the edge of a cliff", "range": [50.81, 52.37], "ans": [4]},
+    {"lyric": "Live", "lyric_hangul": "Live", "lyric_translation": "Live", "range": [52.37, 52.99], "ans": [4]},
+    "",
+    {"lyric": "Naega nain ge shireun nal", "lyric_hangul": "내가 나인 게 싫은 날", "lyric_translation": "Days when you hate that you’re you", "range": [52.99, 55.59], "ans": [1]},
+    {"lyric": "Yeongyeong sarajigo shipeun nal", "lyric_hangul": "영영 사라지고 싶은 날", "lyric_translation": "Days when you wanna disappear", "range": [55.59, 58.89], "ans": [1]},
+    {"lyric": "Muneul hana mandeulja neoye mam sogeda", "lyric_hangul": "문을 하나 만들자 너의 맘 속에다", "lyric_translation": "Let’s make a door in your heart", "range": [58.89, 65.22], "ans": [1]},
+    {"lyric": "Geu muneul yeolgo deureogamyeon", "lyric_hangul": "그 문을 열고 들어가면", "lyric_translation": "If you open that door and go inside", "range": [65.22, 68.63], "ans": [5]},
+    {"lyric": "I goshi gidaril geoya", "lyric_hangul": "이 곳이 기다릴 거야", "lyric_translation": "This place will be waiting for you", "range": [68.63, 71.78], "ans": [5]},
+    {"lyric": "Mideodo gwaenchana neol wirohaejul magic shop", "lyric_hangul": "믿어도 괜찮아 널 위로해줄 Magic Shop", "lyric_translation": "It’s ok to believe, it’ll comfort you, this Magic Shop", "range": [71.78, 78.84], "ans": [5]},
+    {"lyric": "Ttatteuthan cha han janeul mashimyeo", "lyric_hangul": "따뜻한 차 한 잔을 마시며", "lyric_translation": "As you drink a cup of warm tea", "range": [78.84, 82.1], "ans": [7]},
+    {"lyric": "Jeo eunhasureul ollyeodabomyeo", "lyric_hangul": "저 은하수를 올려다보며", "lyric_translation": "As you look above to the Milky Way", "range": [82.1, 85.39], "ans": [7]},
+    {"lyric": "Neon gwaenchaneul geoya oh yeogin magic shop", "lyric_hangul": "넌 괜찮을 거야 oh 여긴 Magic Shop", "lyric_translation": "You’ll be alright, oh this is a Magic Shop", "range": [85.39, 91.38], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [91.38, 93.41], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [92.71, 94.7], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [94.65, 96.6], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [95.9, 97.93], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [97.82, 99.79], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [99.09, 101.14], "ans": []}
+      ]
+    },
+    {"lyric": "Show you show you", "lyric_hangul": "Show you show you", "lyric_translation": "Show you show you", "range": [101.11, 103.82], "ans": []},
+    "",
+    {"lyric": "Pil ttaen jangmikkotcheoreom", "lyric_hangul": "필 땐 장미꽃처럼", "lyric_translation": "Like a rose when blooming", "range": [103.82, 106.59], "ans": [3]},
+    {"lyric": "Heutnallil ttaen beotkkotcheoreom", "lyric_hangul": "흩날릴 땐 벚꽃처럼", "lyric_translation": "Like a cherry blossom when scattering", "range": [106.59, 109.77], "ans": [3]},
+    {"lyric": "Jil ttaen napalkkotcheoreom", "lyric_hangul": "질 땐 나팔꽃처럼", "lyric_translation": "Like a lily when withering", "range": [109.77, 112.95], "ans": [3]},
+    {"lyric": "Areumdaun geu sungancheoreom", "lyric_hangul": "아름다운 그 순간처럼", "lyric_translation": "Like those beautiful moments", "range": [112.95, 117.04], "ans": [3]},
+    {"lyric": "Hangsang chwegoga dwego shipeo", "lyric_hangul": "항상 최고가 되고 싶어", "lyric_translation": "I always wanna be the best", "range": [117.04, 119.81], "ans": [2]},
+    {"lyric": "Geuraeseo jogeubhaetgo neul chojohaesseo", "lyric_hangul": "그래서 조급했고 늘 초조했어", "lyric_translation": "So I was always impatient and anxious", "range": [119.81, 123.15], "ans": [2]},
+    {"lyric": "Namdeulgwa bigyoneun ilsangi dwaebeoryeotgo", "lyric_hangul": "남들과 비교는 일상이 돼버렸고", "lyric_translation": "Comparing myself became a daily thing", "range": [123.15, 126.0], "ans": [2]},
+    {"lyric": "Mugiyeotteon nae yokshimeun dweryeo", "lyric_hangul": "무기였던 내 욕심은", "lyric_translation": "My greed that used to be a weapon", "range": [126.0, 127.38], "ans": [2]},
+    {"lyric": "Nal okjwego tto mokjuri dwaesseo", "lyric_hangul": "되려 날 옥죄고 또 목줄이 됐어", "lyric_translation": "Became a prison and noose", "range": [127.38, 129.66], "ans": [2]},
+    {"lyric": "Geureonde marya dorikyeoboni sashireun marya na", "lyric_hangul": "그런데 말야 돌이켜보니 사실은 말야 나", "lyric_translation": "But looking back, to be honest", "range": [129.66, 133.15], "ans": [2]},
+    {"lyric": "Chwegoga dwego shipeotteon geoshi anin geotman gata", "lyric_hangul": "최고가 되고 싶었던 것이 아닌 것만 같아", "lyric_translation": "I don’t think I wanted to be the best", "range": [133.15, 136.42], "ans": [2]},
+    {
+      "lyric_hangul": "위로와 감동이 되고 싶었었던 나",
+      "lyric_translation": "I wanted to be someone’s comfort / I wanted to touch someone’s heart",
+      "parts": [
+        {"lyric": "Wirowa gamdongi dwego", "range": [136.42, 138.28], "ans": [3]},
+        {"lyric": "Shipeosseotteon na", "range": [138.28, 139.46], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geudaeye seulpeum apeum geodweogago shipeo na", "lyric_hangul": "그대의 슬픔 아픔 거둬가고 싶어 나", "lyric_translation": "I want to take away your sadness, your pain", "range": [139.35, 142.37], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Naega nain ge shireun nal", "lyric_hangul": "내가 나인 게 싫은 날", "lyric_translation": "Days when you hate that you’re you", "range": [142.37, 145.12], "ans": [7]},
+    {"lyric": "Yeongyeong sarajigo shipeun nal", "lyric_hangul": "영영 사라지고 싶은 날", "lyric_translation": "Days when you wanna disappear", "range": [145.12, 148.35], "ans": [7]},
+    {"lyric": "Muneul hana mandeulja neoye mam sogeda", "lyric_hangul": "문을 하나 만들자 너의 맘 속에다", "lyric_translation": "Let’s make a door in your heart", "range": [148.35, 154.85], "ans": [7]},
+    {"lyric": "Geu muneul yeolgo deureogamyeon", "lyric_hangul": "그 문을 열고 들어가면", "lyric_translation": "If you open that door and go inside", "range": [154.85, 158.13], "ans": [1]},
+    {"lyric": "I goshi gidaril geoya", "lyric_hangul": "이 곳이 기다릴 거야", "lyric_translation": "This place will be waiting for you", "range": [158.13, 161.48], "ans": [1]},
+    {"lyric": "Mideodo gwaenchana neol wirohaejul magic shop", "lyric_hangul": "믿어도 괜찮아 널 위로해줄 Magic Shop", "lyric_translation": "It’s ok to believe, it’ll comfort you, this Magic Shop", "range": [161.48, 168.49], "ans": [1]},
+    {"lyric": "Ttatteuthan cha han janeul mashimyeo", "lyric_hangul": "따뜻한 차 한 잔을 마시며", "lyric_translation": "As you drink a cup of warm tea", "range": [168.49, 171.72], "ans": [6]},
+    {"lyric": "Jeo eunhasureul ollyeodabomyeo", "lyric_hangul": "저 은하수를 올려다보며", "lyric_translation": "As you look above to the Milky Way", "range": [171.72, 174.94], "ans": [6]},
+    {"lyric": "Neon gwaenchaneul geoya oh yeogin magic shop", "lyric_hangul": "넌 괜찮을 거야 oh 여긴 Magic shop", "lyric_translation": "You’ll be alright, oh this is a Magic Shop", "range": [174.94, 180.85], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [180.85, 182.98], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [182.28, 184.25], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [184.23, 186.18], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [185.48, 187.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [187.43, 189.4], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [188.7, 190.88], "ans": []}
+      ]
+    },
+    {"lyric": "Show you show you", "lyric_hangul": "Show you show you", "lyric_translation": "Show you show you", "range": [190.88, 193.55], "ans": []},
+    "",
+    {
+      "lyric_hangul": "나도 모든 게 다 두려웠다면 믿어줄래",
+      "lyric_translation": "If I told you I used to be scared of everything too / Will you believe me?",
+      "parts": [
+        {"lyric": "Nado modeun ge da duryeowottamyeon", "range": [193.55, 197.15], "ans": [6]},
+        {"lyric": "Mideojullae", "range": [197.15, 199.57], "ans": [6]}
+      ]
+    },
+    {"lyric": "Modeun jinshimdeuri nameun shigandeuri", "lyric_hangul": "모든 진심들이 남은 시간들이", "lyric_translation": "All of the truth, all of the remaining time", "range": [199.57, 206.12], "ans": [6]},
+    {"lyric": "Neoye modeun haedabeun niga chajanaen i gose", "lyric_hangul": "너의 모든 해답은 니가 찾아낸 이 곳에", "lyric_translation": "All of your answers are in this place that you found", "range": [206.12, 212.71], "ans": [5]},
+    {"lyric": "Neoye eunhasue neoye maeum soge", "lyric_hangul": "너의 은하수에 너의 마음 속에", "lyric_translation": "In your Milky Way, in your heart", "range": [212.71, 217.43], "ans": [5]},
+    "",
+    {"lyric": "You gave me the best of me", "lyric_hangul": "You gave me the best of me", "lyric_translation": "You gave me the best of me", "range": [231.74, 234.76], "ans": []},
+    {"lyric": "So you’ll give you the best of you", "lyric_hangul": "So you'll give you the best of you", "lyric_translation": "So you’ll give you the best of you", "range": [234.76, 238.02], "ans": []},
+    {"lyric": "Nal chajanaetjana nal arajwotjana", "lyric_hangul": "날 찾아냈잖아 날 알아줬잖아", "lyric_translation": "You found me, you recognized me", "range": [238.02, 244.68], "ans": []},
+    {"lyric": "You gave me the best of me", "lyric_hangul": "You gave me the best of me", "lyric_translation": "You gave me the best of me", "range": [244.68, 247.53], "ans": []},
+    {"lyric": "So you’ll give you the best of you", "lyric_hangul": "So you'll give you the best of you", "lyric_translation": "So you’ll give you the best of you", "range": [247.53, 250.91], "ans": []},
+    {"lyric": "Neon chajanael geoya ne ane itneun galaxy", "lyric_hangul": "넌 찾아낼 거야 네 안에 있는 galaxy", "lyric_translation": "So I’ll find you, the galaxy that’s inside of you", "range": [250.91, 257.82], "ans": []},
+    "",
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [257.82, 259.81], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [259.11, 261.1], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [261.03, 263.0], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [262.3, 264.33], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So show me I'll show you",
+      "lyric_translation": "So show me / (I’ll show you)",
+      "parts": [
+        {"lyric": "So show me", "range": [264.23, 266.2], "ans": [1, 5, 6, 7]},
+        {"lyric": "(I’ll show you)", "range": [265.5, 267.68], "ans": []}
+      ]
+    },
+    {"lyric": "Show you show you", "lyric_hangul": "Show you show you", "lyric_translation": "Show you show you", "range": [267.68, 272.46], "ans": []}
+  ]
+}

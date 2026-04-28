@@ -1,0 +1,91 @@
+{
+  "name": "Stigma\r",
+  "ogg": "sound/kpop/stigma.ogg",
+  "id": "stigma",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/stigma.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "숨겨왔어 I tell you something",
+      "lyric_translation": "I’ve been hiding it / I tell you something",
+      "parts": [
+        {"lyric": "Sumgyeowasseo", "range": [21.57, 24.41], "ans": [6]},
+        {"lyric": "I tell you something", "range": [24.41, 26.62], "ans": [6]}
+      ]
+    },
+    {"lyric": "Geujeo mudeodugien", "lyric_hangul": "그저 묻어두기엔", "lyric_translation": "Just to leave it buried", "range": [26.62, 30.12], "ans": [6]},
+    {"lyric": "Ijen beotil suga eobneun geol", "lyric_hangul": "이젠 버틸 수가 없는 걸", "lyric_translation": "Now I can’t endure it anymore", "range": [30.12, 35.25], "ans": [6]},
+    {"lyric": "Wae geuttaen mal mot haenneunji", "lyric_hangul": "왜 그땐 말 못 했는지", "lyric_translation": "Why couldn’t I say it then", "range": [35.25, 40.76], "ans": [6]},
+    {"lyric": "Eochapi apawaseo", "lyric_hangul": "어차피 아파와서", "lyric_translation": "I have been hurting anyway", "range": [40.76, 44.37], "ans": [6]},
+    {"lyric": "Jeongmal beotil suga eobseul geol", "lyric_hangul": "정말 버틸 수가 없을 걸", "lyric_translation": "Really I won’t be able to endure it", "range": [44.37, 49.39], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Now cry 너에게 너무 미안할 뿐야",
+      "lyric_translation": "Now cry / It’s only that I’m very sorry towards you",
+      "parts": [
+        {"lyric": "Now cry", "range": [49.39, 50.23], "ans": [6]},
+        {"lyric": "Neoege neomu mianhal ppunya", "range": [50.23, 56.28], "ans": [6]}
+      ]
+    },
+    {"lyric": "Tto cry neol jikyeojuji mothaeseo", "lyric_hangul": "또 cry 널 지켜주지 못해서", "lyric_translation": "Again, cry because I couldn’t protect you", "range": [56.28, 63.22], "ans": [6]},
+    "",
+    {"lyric": "Deo gipi deo gipi sangcheoman gipeojyeo", "lyric_hangul": "더 깊이 더 깊이 상처만 깊어져", "lyric_translation": "Deeper, deeper, the wound just gets deeper", "range": [63.22, 70.33], "ans": [6]},
+    {"lyric": "Doedollil su eobneun kkaejin yuri jogak gata", "lyric_hangul": "되돌릴 수 없는 깨진 유리 조각 같아", "lyric_translation": "Like pieces of broken glass that I can’t reverse", "range": [70.33, 77.68], "ans": [6]},
+    {"lyric": "Deo gipi maeiri gaseumman apajyeo", "lyric_hangul": "더 깊이 매일이 가슴만 아파져", "lyric_translation": "Deeper, it’s just the heart that hurts every day", "range": [77.68, 84.5], "ans": [6]},
+    {"lyric": "Nae joereul daesin baddeon", "lyric_hangul": "내 죄를 대신 받던", "lyric_translation": "(You) who was punished in my stead,", "range": [84.5, 87.53], "ans": [6]},
+    {"lyric": "Yeonyakhagiman haetdeon neo", "lyric_hangul": "연약하기만 했던 너", "lyric_translation": "You who were only delicate and fragile", "range": [87.53, 92.22], "ans": [6]},
+    "",
+    {"lyric": "Geuman ulgo tell me something", "lyric_hangul": "그만 울고 tell me something", "lyric_translation": "Stop crying, tell me something", "range": [98.86, 104.33], "ans": [6]},
+    {"lyric": "Yonggi eobtdeon naege malhaebwa", "lyric_hangul": "용기 없던 내게 말해봐", "lyric_translation": "Try saying to me, who had no courage", "range": [104.33, 110.26], "ans": [6]},
+    {
+      "lyric_hangul": "그 때 나한테 왜 그랬어 미안",
+      "lyric_translation": "Why did you do that to me then / I’m sorry",
+      "parts": [
+        {"lyric": "“geu ttae nahante wae geuraesseo?”", "range": [110.26, 112.42], "ans": [6]},
+        {"lyric": "“mian”", "range": [112.42, 113.65], "ans": [6]}
+      ]
+    },
+    {"lyric": "Dwaesseo naege museun jagyeok isseo", "lyric_hangul": "됐어 내게 무슨 자격 있어", "lyric_translation": "Forget it,", "range": [113.65, 118.85], "ans": [6]},
+    {"lyric": "Iraeborago jeoraeborago", "lyric_hangul": "이래보라고 저래보라고", "lyric_translation": "what right do I have", "range": [118.85, 122.78], "ans": [6]},
+    {"lyric": "Neoege malhagesseo", "lyric_hangul": "너에게 말하겠어", "lyric_translation": "To tell you to do this, or that", "range": [122.78, 127.07], "ans": [6]},
+    "",
+    "[next-col]",
+    {"lyric": "Deo gipi deo gipi sangcheoman gipeojyeo", "lyric_hangul": "더 깊이 더 깊이 상처만 깊어져", "lyric_translation": "Deeper, deeper, the wound just gets deeper", "range": [127.07, 134.06], "ans": [6]},
+    {"lyric": "Doedollil su eobneun kkaejin yuri jogak gata", "lyric_hangul": "되돌릴 수 없는 깨진 유리 조각 같아", "lyric_translation": "Like pieces of broken glass that I can’t reverse", "range": [134.06, 141.18], "ans": [6]},
+    {"lyric": "Deo gipi maeiri gaseumman apajyeo", "lyric_hangul": "더 깊이 매일이 가슴만 아파져", "lyric_translation": "Deeper, it’s just the heart that hurts every day", "range": [141.18, 148.06], "ans": [6]},
+    {"lyric": "Nae joereul daesin baddeon", "lyric_hangul": "내 죄를 대신 받던", "lyric_translation": "(You) who was punished in my stead,", "range": [148.06, 151.1], "ans": [6]},
+    {"lyric": "Yeonyakhagiman haetdeon neo", "lyric_hangul": "연약하기만 했던 너", "lyric_translation": "You who were only delicate and fragile", "range": [151.1, 154.61], "ans": [6]},
+    "",
+    {"lyric": "I’m sorry, I’m sorry,", "lyric_hangul": "I'm sorry I'm sorry", "lyric_translation": "I’m sorry I’m sorry", "range": [154.61, 156.46], "ans": [6]},
+    {"lyric": "I’m sorry ma brother", "lyric_hangul": "I'm sorry ma brother", "lyric_translation": "I’m sorry ma brother", "range": [156.46, 158.14], "ans": [6]},
+    {"lyric": "Sumgyeodo gamchwodo jiwojiji anheo", "lyric_hangul": "숨겨도 감춰도 지워지지 않어", "lyric_translation": "Even if (I try to) hide it, or conceal it, it can’t be erased", "range": [158.14, 162.58], "ans": [6]},
+    {"lyric": "“Are you calling me a sinner?”", "lyric_hangul": "Are you calling me a sinner", "lyric_translation": "Are you calling me a sinner", "range": [162.58, 164.85], "ans": [6]},
+    {"lyric": "Museun mari deo itgesseo", "lyric_hangul": "무슨 말이 더 있겠어", "lyric_translation": "What more do I have to say", "range": [164.85, 168.89], "ans": [6]},
+    "",
+    {"lyric": "I’m sorry, I’m sorry,", "lyric_hangul": "I'm sorry I'm sorry", "lyric_translation": "I’m sorry I’m sorry", "range": [168.89, 170.42], "ans": [6]},
+    {"lyric": "I’m sorry ma sister", "lyric_hangul": "I'm sorry ma sister", "lyric_translation": "I’m sorry ma sister", "range": [170.42, 172.18], "ans": [6]},
+    {"lyric": "Sumgyeodo gamchwodo jiwojiji anheo", "lyric_hangul": "숨겨도 감춰도 지워지지 않어", "lyric_translation": "Even if (I try to) hide it, or conceal it, it can’t be erased", "range": [172.18, 176.53], "ans": [6]},
+    {"lyric": "So cry", "lyric_hangul": "So cry", "lyric_translation": "So cry", "range": [176.53, 179.08], "ans": [6]},
+    {"lyric": "Please dry my eyes", "lyric_hangul": "Please dry my eyes", "lyric_translation": "Please dry my eyes", "range": [179.08, 183.55], "ans": [6]},
+    "",
+    {"lyric": "Jeo bichi jeo bichi nae joereul bichwojwo", "lyric_hangul": "저 빛이 저 빛이 내 죄를 비춰줘", "lyric_translation": "That light, that light, please illuminate my sins", "range": [183.55, 190.45], "ans": [6]},
+    {"lyric": "Dorikil su eobneun burgeun piga heulleonaeryeo", "lyric_hangul": "돌이킬 수 없는 붉은 피가 흘러내려", "lyric_translation": "Where I can’t turn back the red blood is flowing down", "range": [190.45, 197.67], "ans": [6]},
+    {"lyric": "Deo gipi maeiri jugeul geoman gata", "lyric_hangul": "더 깊이 매일이 죽을 것만 같아", "lyric_translation": "Deeper, I feel like dying every day", "range": [197.67, 204.45], "ans": [6]},
+    {"lyric": "Geu beoreul batge haejwo", "lyric_hangul": "그 벌을 받게 해줘", "lyric_translation": "Please let me be punished", "range": [204.45, 207.66], "ans": [6]},
+    {
+      "lyric_hangul": "내 죄를 사해줘 제발",
+      "lyric_translation": "Please forgive me for my sins / Please",
+      "parts": [
+        {"lyric": "Nae joereul sahaejwo", "range": [207.66, 210.66], "ans": [6]},
+        {"lyric": "Jebal", "range": [210.66, 214.04], "ans": [6]}
+      ]
+    }
+  ]
+}

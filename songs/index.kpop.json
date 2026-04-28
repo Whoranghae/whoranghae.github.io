@@ -1498,5 +1498,433 @@
   {
     "file": "stray-kids/winter-falls.json",
     "cover": "css/images/covers/winter-falls.jpg"
+  },
+  {
+    "file": "bts/2-3-hoping-for-more-good-days.json",
+    "cover": "css/images/covers/2-3-hoping-for-more-good-days.jpg"
+  },
+  {
+    "file": "bts/21st-century-girls.json",
+    "cover": "css/images/covers/21st-century-girls.jpg"
+  },
+  {
+    "file": "bts/24-7-heaven.json",
+    "cover": "css/images/covers/24-7-heaven.jpg"
+  },
+  {
+    "file": "bts/airplane-pt-2.json",
+    "cover": "css/images/covers/airplane-pt-2.jpg"
+  },
+  {
+    "file": "bts/airplane-pt2-jp.json",
+    "cover": "css/images/covers/airplane-pt2-jp.jpg"
+  },
+  {
+    "file": "bts/am-i-wrong.json",
+    "cover": "css/images/covers/am-i-wrong.jpg"
+  },
+  {
+    "file": "bts/anpanman.json",
+    "cover": "css/images/covers/anpanman.jpg"
+  },
+  {
+    "file": "bts/awake.json",
+    "cover": "css/images/covers/awake.jpg"
+  },
+  {
+    "file": "bts/begin.json",
+    "cover": "css/images/covers/begin.jpg"
+  },
+  {
+    "file": "bts/best-of-me.json",
+    "cover": "css/images/covers/best-of-me.jpg"
+  },
+  {
+    "file": "bts/black-swan-jp.json",
+    "cover": "css/images/covers/black-swan-jp.jpg"
+  },
+  {
+    "file": "bts/black-swan.json",
+    "cover": "css/images/covers/black-swan.jpg"
+  },
+  {
+    "file": "bts/blanket-kick.json",
+    "cover": "css/images/covers/blanket-kick.jpg"
+  },
+  {
+    "file": "bts/blood-sweat-tears.json",
+    "cover": "css/images/covers/blood-sweat-tears.jpg"
+  },
+  {
+    "file": "bts/born-singer.json",
+    "cover": "css/images/covers/born-singer.jpg"
+  },
+  {
+    "file": "bts/boy-in-luv.json",
+    "cover": "css/images/covers/boy-in-luv.jpg"
+  },
+  {
+    "file": "bts/bts-cypher-pt-1.json",
+    "cover": "css/images/covers/bts-cypher-pt-1.jpg"
+  },
+  {
+    "file": "bts/bts-cypher-pt3-killer.json",
+    "cover": "css/images/covers/bts-cypher-pt3-killer.jpg"
+  },
+  {
+    "file": "bts/butter.json",
+    "cover": "css/images/covers/butter.jpg"
+  },
+  {
+    "file": "bts/can-you-turn-off-your-phone.json",
+    "cover": "css/images/covers/can-you-turn-off-your-phone.jpg"
+  },
+  {
+    "file": "bts/coffee.json",
+    "cover": "css/images/covers/coffee.jpg"
+  },
+  {
+    "file": "bts/danger.json",
+    "cover": "css/images/covers/danger.jpg"
+  },
+  {
+    "file": "bts/dimple.json",
+    "cover": "css/images/covers/dimple.jpg"
+  },
+  {
+    "file": "bts/dionysus-jp.json",
+    "cover": "css/images/covers/dionysus-jp.jpg"
+  },
+  {
+    "file": "bts/dionysus.json",
+    "cover": "css/images/covers/dionysus.jpg"
+  },
+  {
+    "file": "bts/dis-ease.json",
+    "cover": "css/images/covers/dis-ease.jpg"
+  },
+  {
+    "file": "bts/dna.json",
+    "cover": "css/images/covers/dna.jpg"
+  },
+  {
+    "file": "bts/dynamite.json",
+    "cover": "css/images/covers/dynamite.jpg"
+  },
+  {
+    "file": "bts/epilogue-young-forever.json",
+    "cover": "css/images/covers/epilogue-young-forever.jpg"
+  },
+  {
+    "file": "bts/euphoria.json",
+    "cover": "css/images/covers/euphoria.jpg"
+  },
+  {
+    "file": "bts/fake-love-jp.json",
+    "cover": "css/images/covers/fake-love-jp.jpg"
+  },
+  {
+    "file": "bts/fake-love.json",
+    "cover": "css/images/covers/fake-love.jpg"
+  },
+  {
+    "file": "bts/film-out.json",
+    "cover": "css/images/covers/film-out.jpg"
+  },
+  {
+    "file": "bts/filter.json",
+    "cover": "css/images/covers/filter.jpg"
+  },
+  {
+    "file": "bts/fire.json",
+    "cover": "css/images/covers/fire.jpg"
+  },
+  {
+    "file": "bts/first-love.json",
+    "cover": "css/images/covers/first-love.jpg"
+  },
+  {
+    "file": "bts/fly-to-my-room.json",
+    "cover": "css/images/covers/fly-to-my-room.jpg"
+  },
+  {
+    "file": "bts/for-you.json",
+    "cover": "css/images/covers/for-you.jpg"
+  },
+  {
+    "file": "bts/friends.json",
+    "cover": "css/images/covers/friends.jpg"
+  },
+  {
+    "file": "bts/heartbeat.json",
+    "cover": "css/images/covers/heartbeat.jpg"
+  },
+  {
+    "file": "bts/hip-hop-lover.json",
+    "cover": "css/images/covers/hip-hop-lover.jpg"
+  },
+  {
+    "file": "bts/hold-me-tight.json",
+    "cover": "css/images/covers/hold-me-tight.jpg"
+  },
+  {
+    "file": "bts/home.json",
+    "cover": "css/images/covers/home.jpg"
+  },
+  {
+    "file": "bts/house-of-cards.json",
+    "cover": "css/images/covers/house-of-cards.jpg"
+  },
+  {
+    "file": "bts/idol-jp.json",
+    "cover": "css/images/covers/idol-jp.jpg"
+  },
+  {
+    "file": "bts/idol.json",
+    "cover": "css/images/covers/idol.jpg"
+  },
+  {
+    "file": "bts/inner-child.json",
+    "cover": "css/images/covers/inner-child.jpg"
+  },
+  {
+    "file": "bts/interlude-shadow.json",
+    "cover": "css/images/covers/interlude-shadow.jpg"
+  },
+  {
+    "file": "bts/intro-boy-meets-evil.json",
+    "cover": "css/images/covers/intro-boy-meets-evil.jpg"
+  },
+  {
+    "file": "bts/intro-orul82.json",
+    "cover": "css/images/covers/intro-orul82.jpg"
+  },
+  {
+    "file": "bts/intro-persona.json",
+    "cover": "css/images/covers/intro-persona.jpg"
+  },
+  {
+    "file": "bts/intro-serendipity.json",
+    "cover": "css/images/covers/intro-serendipity.jpg"
+  },
+  {
+    "file": "bts/intro-singularity.json",
+    "cover": "css/images/covers/intro-singularity.jpg"
+  },
+  {
+    "file": "bts/intro-skool-luv-affair.json",
+    "cover": "css/images/covers/intro-skool-luv-affair.jpg"
+  },
+  {
+    "file": "bts/intro-what-am-i-to-you.json",
+    "cover": "css/images/covers/intro-what-am-i-to-you.jpg"
+  },
+  {
+    "file": "bts/its-definitely-you.json",
+    "cover": "css/images/covers/its-definitely-you.jpg"
+  },
+  {
+    "file": "bts/jump.json",
+    "cover": "css/images/covers/jump.jpg"
+  },
+  {
+    "file": "bts/just-one-day.json",
+    "cover": "css/images/covers/just-one-day.jpg"
+  },
+  {
+    "file": "bts/let-me-know.json",
+    "cover": "css/images/covers/let-me-know.jpg"
+  },
+  {
+    "file": "bts/lie.json",
+    "cover": "css/images/covers/lie.jpg"
+  },
+  {
+    "file": "bts/life-goes-on.json",
+    "cover": "css/images/covers/life-goes-on.jpg"
+  },
+  {
+    "file": "bts/look-here.json",
+    "cover": "css/images/covers/look-here.jpg"
+  },
+  {
+    "file": "bts/lost.json",
+    "cover": "css/images/covers/lost.jpg"
+  },
+  {
+    "file": "bts/louder-than-bombs.json",
+    "cover": "css/images/covers/louder-than-bombs.jpg"
+  },
+  {
+    "file": "bts/love-maze.json",
+    "cover": "css/images/covers/love-maze.jpg"
+  },
+  {
+    "file": "bts/ma-city.json",
+    "cover": "css/images/covers/ma-city.jpg"
+  },
+  {
+    "file": "bts/magic-shop.json",
+    "cover": "css/images/covers/magic-shop.jpg"
+  },
+  {
+    "file": "bts/make-it-right-jp.json",
+    "cover": "css/images/covers/make-it-right-jp.jpg"
+  },
+  {
+    "file": "bts/make-it-right.json",
+    "cover": "css/images/covers/make-it-right.jpg"
+  },
+  {
+    "file": "bts/mama.json",
+    "cover": "css/images/covers/mama.jpg"
+  },
+  {
+    "file": "bts/mikrokosmos.json",
+    "cover": "css/images/covers/mikrokosmos.jpg"
+  },
+  {
+    "file": "bts/moon.json",
+    "cover": "css/images/covers/moon.jpg"
+  },
+  {
+    "file": "bts/my-time.json",
+    "cover": "css/images/covers/my-time.jpg"
+  },
+  {
+    "file": "bts/my-universe.json",
+    "cover": "css/images/covers/my-universe.jpg"
+  },
+  {
+    "file": "bts/no-more-dream-jp.json",
+    "cover": "css/images/covers/no-more-dream-jp.jpg"
+  },
+  {
+    "file": "bts/no-more-dream.json",
+    "cover": "css/images/covers/no-more-dream.jpg"
+  },
+  {
+    "file": "bts/no.json",
+    "cover": "css/images/covers/no.jpg"
+  },
+  {
+    "file": "bts/on-jp.json",
+    "cover": "css/images/covers/on-jp.jpg"
+  },
+  {
+    "file": "bts/on.json",
+    "cover": "css/images/covers/on.jpg"
+  },
+  {
+    "file": "bts/outro-ego.json",
+    "cover": "css/images/covers/outro-ego.jpg"
+  },
+  {
+    "file": "bts/outro-luv-in-skool.json",
+    "cover": "css/images/covers/outro-luv-in-skool.jpg"
+  },
+  {
+    "file": "bts/outro-tear.json",
+    "cover": "css/images/covers/outro-tear.jpg"
+  },
+  {
+    "file": "bts/paradise.json",
+    "cover": "css/images/covers/paradise.jpg"
+  },
+  {
+    "file": "bts/permission-to-dance.json",
+    "cover": "css/images/covers/permission-to-dance.jpg"
+  },
+  {
+    "file": "bts/pied-piper.json",
+    "cover": "css/images/covers/pied-piper.jpg"
+  },
+  {
+    "file": "bts/rain.json",
+    "cover": "css/images/covers/rain.jpg"
+  },
+  {
+    "file": "bts/reflection.json",
+    "cover": "css/images/covers/reflection.jpg"
+  },
+  {
+    "file": "bts/respect.json",
+    "cover": "css/images/covers/respect.jpg"
+  },
+  {
+    "file": "bts/run.json",
+    "cover": "css/images/covers/run.jpg"
+  },
+  {
+    "file": "bts/satoori-rap.json",
+    "cover": "css/images/covers/satoori-rap.jpg"
+  },
+  {
+    "file": "bts/save-me.json",
+    "cover": "css/images/covers/save-me.jpg"
+  },
+  {
+    "file": "bts/second-grade.json",
+    "cover": "css/images/covers/second-grade.jpg"
+  },
+  {
+    "file": "bts/so-what.json",
+    "cover": "css/images/covers/so-what.jpg"
+  },
+  {
+    "file": "bts/spring-day.json",
+    "cover": "css/images/covers/spring-day.jpg"
+  },
+  {
+    "file": "bts/stay-gold.json",
+    "cover": "css/images/covers/stay-gold.jpg"
+  },
+  {
+    "file": "bts/stay.json",
+    "cover": "css/images/covers/stay.jpg"
+  },
+  {
+    "file": "bts/stigma.json",
+    "cover": "css/images/covers/stigma.jpg"
+  },
+  {
+    "file": "bts/telepathy.json",
+    "cover": "css/images/covers/telepathy.jpg"
+  },
+  {
+    "file": "bts/the-rise-of-bangtan.json",
+    "cover": "css/images/covers/the-rise-of-bangtan.jpg"
+  },
+  {
+    "file": "bts/the-truth-untold.json",
+    "cover": "css/images/covers/the-truth-untold.jpg"
+  },
+  {
+    "file": "bts/tomorrow.json",
+    "cover": "css/images/covers/tomorrow.jpg"
+  },
+  {
+    "file": "bts/trivia-seesaw.json",
+    "cover": "css/images/covers/trivia-seesaw.jpg"
+  },
+  {
+    "file": "bts/ugh.json",
+    "cover": "css/images/covers/ugh.jpg"
+  },
+  {
+    "file": "bts/we-are-bulletproof-pt-2.json",
+    "cover": "css/images/covers/we-are-bulletproof-pt-2.jpg"
+  },
+  {
+    "file": "bts/whalien-52.json",
+    "cover": "css/images/covers/whalien-52.jpg"
+  },
+  {
+    "file": "bts/where-did-you-come-from.json",
+    "cover": "css/images/covers/where-did-you-come-from.jpg"
+  },
+  {
+    "file": "bts/yet-to-come.json",
+    "cover": "css/images/covers/yet-to-come.jpg"
   }
 ]

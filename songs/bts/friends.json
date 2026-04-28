@@ -1,0 +1,289 @@
+{
+  "name": "Friends (친구)\r",
+  "ogg": "sound/kpop/friends.ogg",
+  "id": "friends",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/friends.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:47Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "유난히도 반짝였던 서울 처음 보는 또 다른 세상",
+      "lyric_translation": "The city of Seoul that shined exceptionally bright / Another world that I’m seeing for the first time",
+      "parts": [
+        {"lyric": "Yunanhido banjjagyeotteon seoul", "range": [3.21, 5.59], "ans": [5]},
+        {"lyric": "Cheoeum boneun tto dareun sesang", "range": [5.59, 8.92], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "땀에 잔뜩 밴 채 만난 넌 뭔가 이상했었던 아이",
+      "lyric_translation": "You who I met while I was drenched in sweat / Were a somewhat strange kid",
+      "parts": [
+        {"lyric": "Ttame jantteuk baen chae mannan neon", "range": [8.92, 11.64], "ans": [6]},
+        {"lyric": "Mwonga isanghaesseotteon ai", "range": [11.64, 14.92], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "난 달에서, 넌 별에서 우리 대화는 숙제 같았지",
+      "lyric_translation": "I’m on the moon, you’re on a star / Our conversations are like homeworks",
+      "parts": [
+        {"lyric": "Nan dareseo", "range": [14.92, 17.03], "ans": [5]},
+        {"lyric": "Neon byeoreseo", "range": [16.33, 18.15], "ans": [6]},
+        {"lyric": "Uri daehwaneun sukje gatatji", "range": [17.45, 21.57], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "하루는 베프, 하루는 웬수, I just wanna understand",
+      "lyric_translation": "Some days it’s our best friend, other days it’s our enemy / I just wanna understand",
+      "parts": [
+        {"lyric": "Haruneun bepeu", "range": [21.57, 23.05], "ans": [6]},
+        {"lyric": "Haruneun wensu", "range": [22.35, 24.61], "ans": [5]},
+        {"lyric": "I just wanna understand", "range": [23.91, 27.46], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hello, my alien, 우린 서로의 mystery (yeah, yeah)",
+      "lyric_translation": "Hello my alien / We are each other’s mystery",
+      "parts": [
+        {"lyric": "Hello my alien", "range": [27.46, 30.52], "ans": [5]},
+        {"lyric": "Urin seoroye", "range": [30.52, 33.1], "ans": [5]},
+        {"lyric": "Mystery", "range": [32.4, 33.28], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "그래서 더 특별한 걸까? Oh",
+      "lyric_translation": "Is that why it’s so special?",
+      "parts": [
+        {"lyric": "Geuraeseo deo", "range": [33.14, 34.34], "ans": [5]},
+        {"lyric": "Teukbyeolhan geolkka", "range": [34.34, 37.56], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "언젠가 이 함성 멎을 때 stay (ayy), hey (ayy), 내 옆에 함께 있어줘",
+      "lyric_translation": "Some day, when these cheers die down, stay hey / Keep being with me, by my side,",
+      "parts": [
+        {"lyric": "Eonjenga i hamseong meojeul ttae", "range": [37.56, 40.7], "ans": [5]},
+        {"lyric": "Stay", "range": [40.08, 40.75], "ans": []},
+        {"lyric": "Hey", "range": [40.75, 41.42], "ans": [5]},
+        {"lyric": "Nae yeope hamkke isseojwo", "range": [40.8, 43.61], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "영원히 계속 이곳에 stay (ayy), hey (ayy), 네 작은 새끼손가락처럼",
+      "lyric_translation": "In this place forever, stay hey / Like your little pinky",
+      "parts": [
+        {"lyric": "Yeongwonhi gyesok igose stay hey", "range": [43.61, 47.16], "ans": [5]},
+        {"lyric": "Ne jageun saekkisongarakcheoreom", "range": [46.46, 49.86], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "일곱 번의 여름과 추운 겨울보다 오래",
+      "lyric_translation": "For longer than / The seven summers and cold winters",
+      "parts": [
+        {"lyric": "Ilgob beone yeoreumgwa chuun gyeoulboda", "range": [49.86, 53.24], "ans": []},
+        {"lyric": "Orae", "range": [53.24, 55.98], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "수많은 약속과 추억들보다 오래",
+      "lyric_translation": "For longer than / The countless promises and memories",
+      "parts": [
+        {"lyric": "Sumaneun yaksokgwa chueokdeulboda", "range": [55.98, 59.26], "ans": []},
+        {"lyric": "Orae", "range": [59.26, 62.6], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리 교복 차림이 기억나, 우리 추억 한 편 한 편 영화",
+      "lyric_translation": "Do you remember us wearing our school uniform? / Each of our memories are a movie",
+      "parts": [
+        {"lyric": "Uri gyobok charimi gieokna", "range": [62.6, 65.35], "ans": [6]},
+        {"lyric": "Uri chueok han pyeon han pyeon yeonghwa", "range": [65.35, 68.59], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "만두 사건은 코미디 영화, yeah, ayy, yeah, ayy",
+      "lyric_translation": "The dumpling incident is a comedy movie yeah yeah",
+      "parts": [
+        {"lyric": "Mandu sageoneun komidi yeonghwa", "range": [68.59, 71.73], "ans": [5]},
+        {"lyric": "Yeah yeah", "range": [71.03, 74.53], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "학교 버스를 채운 속 얘기들 이젠 함께 drive를 나가",
+      "lyric_translation": "The stories that filled up the school bus / We now go out together for a drive",
+      "parts": [
+        {"lyric": "Hagyo beoseureul chaeun sok yaegideul", "range": [74.53, 79.26], "ans": [5]},
+        {"lyric": "Ijen hamkke drivereul naga", "range": [78.56, 81.05], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "한결같애, 그때의 우리들, \"Hey 지민, 오늘\"",
+      "lyric_translation": "We haven’t changed, the us back then / “Hey Jimin, today”*",
+      "parts": [
+        {"lyric": "Hangyeolgatae, geuttaeye urideul", "range": [81.05, 84.66], "ans": [5]},
+        {"lyric": "“Hey jimin, oneul”", "range": [83.96, 87.22], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "내 방의 드림캐쳐 칠년간의 history",
+      "lyric_translation": "The dreamcatcher in my room / 7 years worth of history",
+      "parts": [
+        {"lyric": "Nae bange deurimkaechyeo", "range": [87.22, 89.36], "ans": [6]},
+        {"lyric": "Chilnyeongane", "range": [89.36, 91.27], "ans": [6]},
+        {"lyric": "History", "range": [90.57, 93.24], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "그래서 더 특별한 걸까? Oh",
+      "lyric_translation": "Is that why it’s so special?",
+      "parts": [
+        {"lyric": "Geuraeseo deo", "range": [93.24, 94.32], "ans": [6]},
+        {"lyric": "Teukbyeolhan geolkka", "range": [94.32, 97.24], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "언젠가 이 함성 멎을 때 stay (ayy), hey (ayy), 내 옆에 함께 있어줘",
+      "lyric_translation": "Some day, when these cheers die down, stay hey / Keep being with me, by my side,",
+      "parts": [
+        {"lyric": "Eonjenga i hamseong meojeul ttae", "range": [97.04, 100.49], "ans": [5]},
+        {"lyric": "Stay", "range": [99.84, 100.84], "ans": []},
+        {"lyric": "Hey", "range": [100.19, 101.24], "ans": [5]},
+        {"lyric": "Nae yeope hamkke isseojwo", "range": [100.54, 103.69], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "영원히 계속 이곳에 stay (ayy), hey (ayy), 네 작은 새끼손가락처럼",
+      "lyric_translation": "Always here forever, stay hey / Like your little pinky",
+      "parts": [
+        {"lyric": "Yeongwonhi gyesok igose stay hey", "range": [103.69, 107.14], "ans": [5]},
+        {"lyric": "Ne jageun saekkisongarakcheoreom", "range": [106.44, 109.73], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "일곱 번의 여름과 추운 겨울보다 오래",
+      "lyric_translation": "For longer than / The seven summers and cold winters",
+      "parts": [
+        {"lyric": "Ilgob beone yeoreumgwa chuun gyeoulboda", "range": [109.73, 113.27], "ans": []},
+        {"lyric": "Orae", "range": [113.27, 116.08], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "수많은 약속과 추억들보다 오래",
+      "lyric_translation": "For longer than / The countless promises and memories",
+      "parts": [
+        {"lyric": "Sumaneun yaksokgwa chueokdeulboda", "range": [116.08, 119.24], "ans": []},
+        {"lyric": "Orae", "range": [119.24, 122.21], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "네 새끼손가락 처럼 우린 여전해",
+      "lyric_translation": "Like your pinky, / We are still the same",
+      "parts": [
+        {"lyric": "Ne saekkisongarak", "range": [122.21, 124.83], "ans": [6]},
+        {"lyric": "Cheoreom urin yeojeonhae", "range": [124.83, 128.36], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 모든 걸 알아 서로 믿어야만 돼",
+      "lyric_translation": "I know everything about you / We just have to trust each other / Don’t forget,",
+      "parts": [
+        {"lyric": "Ne modeun geol ara", "range": [128.36, 130.04], "ans": [5]},
+        {"lyric": "Seoro mideoyaman dwae", "range": [130.04, 133.63], "ans": [5]},
+        {"lyric": "Itji ma", "range": [132.93, 133.87], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "잊지 마, 고맙단 그 뻔한 말 보단 (oh)",
+      "lyric_translation": "More than those obvious words of thanks, / You and I",
+      "parts": [
+        {"lyric": "Gomabdan geu ppeonhan mal bodan", "range": [133.87, 137.45], "ans": []},
+        {"lyric": "Neowa na", "range": [137.45, 139.46], "ans": []}
+      ]
+    },
+    {"lyric": "Naeireun jeongmal ssauji ankiro hae", "lyric_hangul": "너와 나 내일은 정말 싸우지 않기로 해", "lyric_translation": "Promise that tomorrow we really won’t fight", "range": [139.46, 145.27], "ans": []},
+    "",
+    {
+      "lyric_hangul": "언젠가 이 함성 멎을 때 stay (ayy), hey (ayy), you are my soulmate",
+      "lyric_translation": "Some day, when these cheers die down, stay hey / You are my soulmate",
+      "parts": [
+        {"lyric": "Eonjenga i hamseong meojeul ttae stay hey", "range": [145.27, 147.96], "ans": []},
+        {"lyric": "You are my soulmate", "range": [147.96, 151.68], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "영원히 계속 이곳에 stay (ayy), hey (ayy), you are my soulmate",
+      "lyric_translation": "Always here forever, stay hey / You are my soulmate",
+      "parts": [
+        {"lyric": "Yeongwonhi gyesok igose stay hey", "range": [151.55, 153.55], "ans": []},
+        {"lyric": "You are my soulmate", "range": [153.55, 157.91], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "일곱 번의 여름과 추운 겨울보다 오래",
+      "lyric_translation": "For longer than / The seven summers and cold winters",
+      "parts": [
+        {"lyric": "Ilgob beone yeoreumgwa chuun gyeoulboda", "range": [157.83, 161.25], "ans": []},
+        {"lyric": "Orae", "range": [161.25, 163.92], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "수많은 약속과 추억들보다 오래",
+      "lyric_translation": "For longer than / The countless promises and memories",
+      "parts": [
+        {"lyric": "Sumaneun yaksokgwa chueokdeulboda", "range": [163.92, 167.22], "ans": []},
+        {"lyric": "Orae", "range": [167.22, 169.72], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "언젠가 이 함성 멎을 때 stay (ayy), hey (ayy), you are my soulmate",
+      "lyric_translation": "Some day, when these cheers die down, stay hey / You are my soulmate",
+      "parts": [
+        {"lyric": "Eonjenga i hamseong meojeul ttae stay hey", "range": [169.72, 172.55], "ans": [5]},
+        {"lyric": "You are my soulmate", "range": [171.85, 175.72], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "영원히 계속 이곳에 stay (ayy), hey (ayy), you are my soulmate",
+      "lyric_translation": "Always here forever, stay hey / You are my soulmate",
+      "parts": [
+        {"lyric": "Yeongwonhi gyesok igose stay hey", "range": [175.5, 177.61], "ans": []},
+        {"lyric": "You are my soulmate", "range": [177.61, 182.22], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "일곱 번의 여름과 추운 겨울보다 오래 (오래)",
+      "lyric_translation": "For longer than / The seven summers and cold winters",
+      "parts": [
+        {"lyric": "Ilgop beone yeoreumgwa chuun gyeoulboda", "range": [182.22, 186.35], "ans": []},
+        {"lyric": "Orae", "range": [186.35, 188.21], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "수많은 약속과 추억들보다 오래 (yeah)",
+      "lyric_translation": "For longer than / The countless promises and memories",
+      "parts": [
+        {"lyric": "Sumaneun yaksokgwa chueokdeulboda", "range": [188.21, 192.21], "ans": []},
+        {"lyric": "Orae", "range": [192.21, 196.07], "ans": []}
+      ]
+    }
+  ]
+}

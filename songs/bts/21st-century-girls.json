@@ -1,0 +1,136 @@
+{
+  "name": "21st Century Girls (21세기 소녀)\r",
+  "ogg": "sound/kpop/21st_century_girls.ogg",
+  "id": "21st-century-girls",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/21st-century-girls.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:24Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "You worth it you perfect", "lyric_hangul": "You worth it, you perfect", "lyric_translation": "You worth it you perfect", "range": [9.43, 11.52], "ans": []},
+    {"lyric": "Deserve it just work it", "lyric_hangul": "Deserve it, just work it", "lyric_translation": "Deserve it just work it", "range": [11.52, 13.49], "ans": []},
+    {"lyric": "Neon gwitina gwiti tto prettyya pretty", "lyric_hangul": "넌 귀티나 귀티 또 pretty야 pretty", "lyric_translation": "You look elegant, elegant also you’re pretty, pretty", "range": [13.49, 16.03], "ans": []},
+    {"lyric": "Bichina bichi neon jilliija ichi", "lyric_hangul": "빛이나 빛이 넌 진리이자 이치", "lyric_translation": "You shine, shine. You’re the truth and the reason", "range": [16.03, 18.71], "ans": []},
+    "",
+    {"lyric": "Hoksi nuga neoreul jakku yokhae (yokhae)", "lyric_hangul": "혹시 누가 너를 자꾸 욕해 (욕해)", "lyric_translation": "If anyone keeps insulting you (insulting you)", "range": [18.71, 20.86], "ans": [3]},
+    {"lyric": "Tell em you’re my lady gaseo jeonhae (jeonhae)", "lyric_hangul": "Tell 'em, you're my lady 가서 전해 (전해)", "lyric_translation": "Tell em you’re my lady, go tell them (tell them)", "range": [20.86, 22.98], "ans": [3]},
+    {"lyric": "Ttan nomdeuri mworageon i sesangi mworageon", "lyric_hangul": "딴 놈들이 뭐라건 이 세상이 뭐라건", "lyric_translation": "Whatever other people say, whatever this world tells you", "range": [22.98, 25.33], "ans": [3]},
+    {"lyric": "Neon naege choego neo geudaero", "lyric_hangul": "넌 내게 최고 너 그대로", "lyric_translation": "You’re the best to me just the way you are", "range": [25.33, 27.9], "ans": [3]},
+    "",
+    {"lyric": "Jeoldae jjolji mara", "lyric_hangul": "절대 쫄지 말아", "lyric_translation": "Don’t ever be scared", "range": [27.9, 30.34], "ans": [7]},
+    {"lyric": "Nuga mworaedo neon gwaenchanha (Alright)", "lyric_hangul": "누가 뭐래도 넌 괜찮아 (alright)", "lyric_translation": "Whatever people say, you’re okay (Alright)", "range": [30.34, 32.6], "ans": [7]},
+    {"lyric": "Ganghae neoneun marya", "lyric_hangul": "강해 너는 말야", "lyric_translation": "You are strong", "range": [32.6, 34.84], "ans": [7]},
+    {"lyric": "You say yes or no yes or no", "lyric_hangul": "You say yes or no, yes or no", "lyric_translation": "You say yes or no yes or no", "range": [34.84, 37.67], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "20세기 소녀들아",
+      "lyric_translation": "To the 20th century girls / (Live your life / Live your life come on baby)",
+      "parts": [
+        {"lyric": "Isipsegi sonyeodeura", "range": [37.67, 38.82], "ans": [1]},
+        {"lyric": "(Live your life, live your life, come on baby)", "range": [38.12, 40.45], "ans": []}
+      ]
+    },
+    {"lyric": "(Live your life, live your life, come on baby!)", "lyric_hangul": "(Live your life, live your life, come on baby!)", "lyric_translation": "", "range": [40.14, 42.13], "ans": []},
+    {
+      "lyric_hangul": "21세기 소녀들아",
+      "lyric_translation": "To the 21st century girls / (You don’t mind / You don’t mind that new lady)",
+      "parts": [
+        {"lyric": "Isipilsegi sonyeodeura", "range": [42.13, 43.42], "ans": [6]},
+        {"lyric": "(You don’t mind, you don’t mind, that new lady)", "range": [42.72, 45.09], "ans": []}
+      ]
+    },
+    {"lyric": "(You don't mind, you don't mind, that new lady)", "lyric_hangul": "(You don't mind, you don't mind, that new lady)", "lyric_translation": "", "range": [44.9, 47.01], "ans": []},
+    {"lyric": "Malhae neoneun ganghadago", "lyric_hangul": "말해 너는 강하다고", "lyric_translation": "Tell them that you’re strong", "range": [47.01, 49.19], "ans": [5]},
+    {"lyric": "Malhae neon chungbunhadago", "lyric_hangul": "말해 넌 충분하다고", "lyric_translation": "Tell them you’re enough", "range": [49.19, 52.03], "ans": [5]},
+    {"lyric": "Let you go let you go let you go", "lyric_hangul": "Let you go, let you go, let you go", "lyric_translation": "Let you go let you go let you go", "range": [52.03, 53.95], "ans": [5]},
+    {"lyric": "Let it go oh", "lyric_hangul": "Let it go, oh", "lyric_translation": "Let it go oh", "range": [53.95, 59.17], "ans": [5]},
+    "",
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [59.17, 63.35], "ans": [2]},
+    {"lyric": "Isipilsegi sonyeo hands up", "lyric_hangul": "21세기 소녀 hands up", "lyric_translation": "21st century girl, hands up", "range": [63.35, 68.63], "ans": [2]},
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [68.63, 73.03], "ans": [6]},
+    {"lyric": "Now scream", "lyric_hangul": "Now scream", "lyric_translation": "Now scream", "range": [73.03, 75.58], "ans": [6]},
+    "",
+    {"lyric": "Neo jinagane namjadeuri say", "lyric_hangul": "너 지나가네 남자들이 say", "lyric_translation": "You pass by, the guys say", "range": [75.58, 78.63], "ans": []},
+    {"lyric": "“Oh yeah jyae mwoya daeche nuguya?”", "lyric_hangul": "\"Oh yeah 쟤 뭐야 대체 누구야?\"", "lyric_translation": "Oh yeah what is she, who is she", "range": [78.63, 80.5], "ans": [2]},
+    {"lyric": "Neoksi nagane yeojadeuri say", "lyric_hangul": "넋이 나가네 여자들이 say", "lyric_translation": "They go out of their mind, the girls say", "range": [80.5, 83.29], "ans": []},
+    {"lyric": "“eo yaeneun tto mwoya daeche nuguya?”", "lyric_hangul": "\"어 얘는 또 뭐야 대체 누구야?\"", "lyric_translation": "Oh what is she, who is she", "range": [83.29, 85.86], "ans": [2]},
+    {
+      "lyric_hangul": "(Oh, bae) 절대 낮추지 마",
+      "lyric_translation": "(Oh bae) don’t lower yourself",
+      "parts": [
+        {"lyric": "(Oh bae)", "range": [85.86, 86.84], "ans": [3]},
+        {"lyric": "Jeoldae nachuji ma", "range": [86.14, 87.98], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Okay) 쟤들에 널 맞추진 마",
+      "lyric_translation": "(Okay) don’t set yourself to them",
+      "parts": [
+        {"lyric": "(Okay)", "range": [87.98, 89.09], "ans": [3]},
+        {"lyric": "Jyaedeure neol machujin ma", "range": [88.39, 90.37], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "(You're mine) 넌 충분히 아름다워",
+      "lyric_translation": "(You’re mine) You’re beautiful enough",
+      "parts": [
+        {"lyric": "(You’re mine)", "range": [90.37, 91.98], "ans": [3]},
+        {"lyric": "Neon chungbunhi areumdawo", "range": [91.28, 92.57], "ans": [2]}
+      ]
+    },
+    {"lyric": "Don’t worry don’t worry", "lyric_hangul": "Don't worry, don't worry", "lyric_translation": "Don’t worry don’t worry", "range": [92.52, 93.8], "ans": [2]},
+    {"lyric": "Baby you’re beautiful", "lyric_hangul": "Baby, you're beautiful", "lyric_translation": "Baby you’re beautiful", "range": [93.8, 95.08], "ans": [2]},
+    {"lyric": "You You You", "lyric_hangul": "You, you, you", "lyric_translation": "You You You", "range": [95.08, 96.86], "ans": [2]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "20세기 소녀들아",
+      "lyric_translation": "To the 20th century girls / (Live your life / Live your life come on baby)",
+      "parts": [
+        {"lyric": "Isipsegi sonyeodeura", "range": [96.86, 98.12], "ans": [1]},
+        {"lyric": "(Live your life, live your life, come on baby)", "range": [97.42, 99.74], "ans": []}
+      ]
+    },
+    {"lyric": "(Live your life, live your life, come on baby!)", "lyric_hangul": "(Live your life, live your life, come on baby!)", "lyric_translation": "", "range": [99.28, 101.63], "ans": []},
+    {
+      "lyric_hangul": "21세기 소녀들아",
+      "lyric_translation": "To the 21st century girls / (You don’t mind / You don’t mind that new lady)",
+      "parts": [
+        {"lyric": "Isipilsegi sonyeodeura", "range": [101.63, 102.87], "ans": [6]},
+        {"lyric": "(You don’t mind, you don’t mind, that new lady)", "range": [102.17, 104.49], "ans": []}
+      ]
+    },
+    {"lyric": "(You don't mind, you don't mind, that new lady)", "lyric_hangul": "(You don't mind, you don't mind, that new lady)", "lyric_translation": "", "range": [104.38, 106.27], "ans": []},
+    {"lyric": "Malhae neoneun ganghadago", "lyric_hangul": "말해 너는 강하다고", "lyric_translation": "Tell them you’re strong", "range": [106.27, 108.65], "ans": [5]},
+    {"lyric": "Malhae neon chungbunhadago", "lyric_hangul": "말해 넌 충분하다고", "lyric_translation": "Tell them you’re enough", "range": [108.65, 111.59], "ans": [5]},
+    {"lyric": "Let you go let you go let you go", "lyric_hangul": "Let you go, let you go, let you go", "lyric_translation": "Let you go let you go let you go", "range": [111.59, 113.12], "ans": [5]},
+    {"lyric": "Let it go oh", "lyric_hangul": "Let it go, oh", "lyric_translation": "Let it go oh", "range": [113.12, 116.96], "ans": [5]},
+    "",
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [118.55, 122.86], "ans": [2]},
+    {"lyric": "Isipilsegi sonyeo hands up", "lyric_hangul": "21세기 소녀 hands up", "lyric_translation": "21st century girl, hands up", "range": [122.86, 128.04], "ans": [2]},
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [128.04, 132.18], "ans": [6]},
+    {"lyric": "Now scream", "lyric_hangul": "Now scream", "lyric_translation": "Now scream", "range": [132.18, 135.26], "ans": [6]},
+    "",
+    {"lyric": "Everybody wanna love you", "lyric_hangul": "Oh, everybody wanna love you", "lyric_translation": "Everybody wanna love you", "range": [135.26, 137.38], "ans": [7]},
+    {"lyric": "Everybody gonna love you", "lyric_hangul": "Everybody gonna love you", "lyric_translation": "Everybody gonna love you", "range": [137.38, 139.48], "ans": [7]},
+    {"lyric": "Dareun geon geokjeonghajima", "lyric_hangul": "다른 건 걱정하지마", "lyric_translation": "Don’t worry about anything else", "range": [139.48, 144.0], "ans": [7]},
+    {"lyric": "Everybody wanna love you bae", "lyric_hangul": "Oh, everybody wanna love you, bae", "lyric_translation": "Everybody wanna love you bae", "range": [144.0, 147.15], "ans": [7]},
+    {"lyric": "Everybody gonna love you bae", "lyric_hangul": "Everybody gonna love you, bae", "lyric_translation": "Everybody gonna love you bae", "range": [147.15, 148.94], "ans": [7]},
+    {"lyric": "Neon sarang bada mattanghae", "lyric_hangul": "넌 사랑 받아 마땅해", "lyric_translation": "You deserve to be loved", "range": [148.94, 153.58], "ans": [5, 7]},
+    "",
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [156.55, 160.67], "ans": [2]},
+    {"lyric": "Isipilsegi sonyeo hands up", "lyric_hangul": "21세기 소녀 hands up", "lyric_translation": "21st century girl, hands up", "range": [160.67, 165.97], "ans": [2]},
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [165.97, 170.14], "ans": [6]},
+    {"lyric": "Now scream", "lyric_hangul": "Now scream", "lyric_translation": "Now scream", "range": [170.14, 173.38], "ans": [6]},
+    "",
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [175.61, 179.97], "ans": [2]},
+    {"lyric": "Isipilsegi sonyeo hands up", "lyric_hangul": "21세기 소녀 hands up", "lyric_translation": "21st century girl, hands up", "range": [179.97, 185.1], "ans": [2]},
+    {"lyric": "All my ladies put your hands up", "lyric_hangul": "All my ladies, put your hands up", "lyric_translation": "All my ladies put your hands up", "range": [185.1, 189.53], "ans": [6]},
+    {"lyric": "Now scream", "lyric_hangul": "Now scream", "lyric_translation": "Now scream", "range": [189.53, 193.0], "ans": [6]}
+  ]
+}

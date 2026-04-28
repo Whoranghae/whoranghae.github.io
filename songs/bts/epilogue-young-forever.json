@@ -1,0 +1,96 @@
+{
+  "name": "EPILOGUE: Young Forever\r",
+  "ogg": "sound/kpop/epilogue_young_forever.ogg",
+  "id": "epilogue-young-forever",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-05-02",
+  "album": "화양연화 Young Forever",
+  "cover": "css/images/covers/epilogue-young-forever.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:44Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Magi naerigo naneun sumi cha", "lyric_hangul": "막이 내리고, 나는 숨이 차", "lyric_translation": "The curtain falls and I’m out of breath", "range": [10.01, 12.3], "ans": []},
+    {"lyric": "Bokjaphaejin maeum, sumeul naeswinda", "lyric_hangul": "복잡해진 마음, 숨을 내쉰다", "lyric_translation": "I get mixed feelings as I breathe out", "range": [12.3, 14.92], "ans": []},
+    {"lyric": "Oneul mwo silsuneun eopseosseonna", "lyric_hangul": "오늘 뭐 실수는 없었었나", "lyric_translation": "Did I make any mistakes today", "range": [14.92, 17.67], "ans": []},
+    {"lyric": "Gwangaekdeurui pyojeongeun eottaetdeonga", "lyric_hangul": "관객들의 표정은 어땠던가", "lyric_translation": "How did the audience seem", "range": [17.67, 20.41], "ans": []},
+    {"lyric": "Geuraedo haengbokhae nan ireon naega dwaeseo", "lyric_hangul": "그래도 행복해 난 이런 내가 돼서", "lyric_translation": "I’m happy with who I’ve become", "range": [20.41, 22.93], "ans": []},
+    {"lyric": "Nugungareul sori jireuge mandeul suga isseoseo", "lyric_hangul": "누군가 소리 지르게 만들 수가 있어서", "lyric_translation": "That I can make someone scream with joy", "range": [22.93, 25.64], "ans": []},
+    {"lyric": "Chae gasiji anheun yeoundeureul pume ango", "lyric_hangul": "채 가시지 않은 여운들을 품에 안고", "lyric_translation": "Still excited from the performance", "range": [25.64, 28.34], "ans": []},
+    {"lyric": "Ajikdo deoun teong bin mudaee seosseul ttae", "lyric_hangul": "아직도 더운 텅 빈 무대에 섰을 때", "lyric_translation": "I stand on the middle of the empty stage, still hot", "range": [28.34, 31.52], "ans": []},
+    "",
+    {"lyric": "Deoun teong bin mudaee seosseul ttae", "lyric_hangul": "더운 텅 빈 무대에 섰을 때 (ayy)", "lyric_translation": "I stand on the middle of the hot, empty stage", "range": [31.52, 34.52], "ans": [2]},
+    {"lyric": "Gwaenhan gongheohame nan geobeul lae", "lyric_hangul": "괜한 공허함에 난 겁을 내 (ayy)", "lyric_translation": "And suddenly I feel so afraid of the void", "range": [34.52, 37.44], "ans": [2]},
+    {"lyric": "Bokjaphan gamjeong sogeseo salmui saseon wieseo", "lyric_hangul": "복잡한 감정 속에서, 삶의 사선 위에서", "lyric_translation": "These mixed feelings with my life on the line", "range": [37.44, 40.33], "ans": [2]},
+    {"lyric": "Gwaensiri nan deo mudin cheogeul hae", "lyric_hangul": "괜시리 난 더 무딘 척을 해 (척을 해)", "lyric_translation": "I pretend to be careless", "range": [40.33, 42.81], "ans": [2]},
+    {"lyric": "Cheoeumdo aninde iksukhaejil beophande", "lyric_hangul": "처음도 아닌데 익숙해질 법한데 (법한데)", "lyric_translation": "This isn’t the first time, I better get used to it", "range": [42.81, 46.15], "ans": [2]},
+    {"lyric": "Sumgiryeo haedo geuge andwae", "lyric_hangul": "숨기려 해도 그게 안 돼 (안 돼)", "lyric_translation": "I try to hide it, but I can’t", "range": [46.15, 48.89], "ans": [2]},
+    {"lyric": "Teong bin mudaega sigeogal ttaejjeum", "lyric_hangul": "텅 빈 무대가 식어갈 때쯤", "lyric_translation": "When the heat of the show cools down", "range": [48.89, 51.53], "ans": [2]},
+    {"lyric": "Bin gaekseogeul dwirohane", "lyric_hangul": "빈 객석을 뒤로 하네", "lyric_translation": "I leave the empty seats behind", "range": [51.53, 53.36], "ans": [2]},
+    "",
+    {"lyric": "Jigeum nal wirohane wanbyeokhan sesangeun", "lyric_hangul": "지금 날 위로하네", "lyric_translation": "Trying to comfort myself", "range": [53.36, 55.47], "ans": [3]},
+    {"lyric": "Eoptdago jasinege malhae nan", "lyric_hangul": "완벽한 세상은 없다고 자신에게 말해 난", "lyric_translation": "I tell myself the world can’t be perfect", "range": [55.47, 58.66], "ans": [3]},
+    {
+      "lyric_hangul": "점점 날 비워가네 언제까지 내 것일 순 없어 큰 박수갈채가",
+      "lyric_translation": "I start to let myself go / The thundering applause, I can’t own it forever",
+      "parts": [
+        {"lyric": "Jeomjeom nal biwogane eonjekkaji nae geot il", "range": [58.66, 62.51], "ans": [3]},
+        {"lyric": "Sun eopseo keun baksugalchaega", "range": [62.51, 64.16], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ireon naege mareul hae, ppeonppeonhi", "lyric_hangul": "이런 내게 말을 해, 뻔뻔히", "lyric_translation": "I tell myself, so shameless", "range": [64.16, 67.37], "ans": [3]},
+    {"lyric": "Ni moksoril nopyeo deo meolli", "lyric_hangul": "네 목소릴 높여 더 멀리", "lyric_translation": "Raise your voice higher", "range": [67.37, 69.76], "ans": [3]},
+    {
+      "lyric_hangul": "영원한 관객은 없대도 난 노래할 거야",
+      "lyric_translation": "Even if the attention isn’t forever, / I’ll keep singing",
+      "parts": [
+        {"lyric": "Yeongwonhan gwangaegeun eoptdaedo", "range": [69.76, 72.03], "ans": [3]},
+        {"lyric": "Nan noraehal geoya", "range": [72.03, 72.95], "ans": [3]}
+      ]
+    },
+    {"lyric": "Oneurui naro yeongwonhagopa", "lyric_hangul": "오늘의 나로 영원하고파", "lyric_translation": "I want to stay this way for life", "range": [72.6, 75.56], "ans": [3]},
+    {"lyric": "Yeongwonhi sonyeonigo sipeo nan Aah", "lyric_hangul": "영원히 소년이고 싶어 나, ah", "lyric_translation": "I want to stay young forever", "range": [75.56, 78.44], "ans": [3]},
+    "",
+    {"lyric": "Forever we are young", "lyric_hangul": "Forever, we are young", "lyric_translation": "Aah Forever we are young", "range": [78.44, 83.33], "ans": [6]},
+    {"lyric": "Narineun kkonip bi sairo", "lyric_hangul": "나리는 꽃잎 비 사이로", "lyric_translation": "Under the flower petals raining down", "range": [83.33, 86.3], "ans": [7]},
+    {"lyric": "Hemaeeo dallineun i miro", "lyric_hangul": "헤매어 달리네 이 미로", "lyric_translation": "I run, so lost in this maze", "range": [86.3, 89.66], "ans": [7]},
+    {"lyric": "Forever we are young", "lyric_hangul": "Forever, we are young", "lyric_translation": "Forever we are young", "range": [89.66, 94.21], "ans": [6]},
+    {"lyric": "Neomeojyeo dachigo apado", "lyric_hangul": "넘어져 다치고 아파도", "lyric_translation": "Even when I fall and hurt myself", "range": [94.21, 97.18], "ans": [1]},
+    {"lyric": "Kkeuteopsi dalline kkumeul hyanghae", "lyric_hangul": "끝없이 달리네 꿈을 향해", "lyric_translation": "I keep running toward my dream", "range": [97.18, 100.51], "ans": [1]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Forever, ever, ever, ever",
+      "lyric_translation": "Forever ever ever ever / (dreams, hopes, forward, forward)",
+      "parts": [
+        {"lyric": "Forever ever ever ever", "range": [100.51, 102.45], "ans": [7]},
+        {"lyric": "(kkum, huimang, jeonjin, jeonjin)", "range": [101.75, 103.55], "ans": [2]}
+      ]
+    },
+    {"lyric": "Forever ever ever we are young", "lyric_hangul": "Forever, ever, ever, ever We are young", "lyric_translation": "Forever ever ever ever We are young", "range": [106.18, 111.1], "ans": [6]},
+    {
+      "lyric_hangul": "Forever, ever, ever, ever",
+      "lyric_translation": "Forever ever ever ever / (dreams, hopes, forward, forward)",
+      "parts": [
+        {"lyric": "Forever ever ever ever", "range": [111.1, 113.33], "ans": [5]},
+        {"lyric": "(kkum, huimang, jeonjin, jeonjin)", "range": [112.63, 114.31], "ans": []}
+      ]
+    },
+    {"lyric": "Forever ever ever we are young", "lyric_hangul": "Forever, ever, ever, ever We are young", "lyric_translation": "Forever ever ever ever We are young", "range": [117.04, 122.22], "ans": [5]},
+    {"lyric": "Forever we are young", "lyric_hangul": "Forever, we are young", "lyric_translation": "Forever we are young", "range": [122.22, 127.19], "ans": [7]},
+    {"lyric": "Narineun kkonip bi sairo", "lyric_hangul": "나리는 꽃잎 비 사이로", "lyric_translation": "Under the flower petals raining down", "range": [127.19, 129.7], "ans": [5]},
+    {"lyric": "Hemaeeo dallineun i miro", "lyric_hangul": "헤매어 달리네 이 미로", "lyric_translation": "I run, so lost in this maze", "range": [129.7, 133.15], "ans": [5]},
+    {"lyric": "Forever we are young", "lyric_hangul": "Forever, we are young", "lyric_translation": "Forever we are young", "range": [133.15, 138.05], "ans": [6]},
+    {"lyric": "Neomeojyeo dachigo apado", "lyric_hangul": "넘어져 다치고 아파도", "lyric_translation": "Even when I fall and hurt myself", "range": [138.05, 140.75], "ans": [1]},
+    {"lyric": "Kkeuteopsi dalline kkumeul hyanghae", "lyric_hangul": "끝없이 달리네 꿈을 향해", "lyric_translation": "I keep running toward my dream", "range": [140.75, 144.15], "ans": [1]},
+    "",
+    {"lyric": "Forever we are young", "lyric_hangul": "Forever, we are young", "lyric_translation": "Forever we are young", "range": [144.15, 148.88], "ans": []},
+    {"lyric": "Narineun kkonip bi sairo", "lyric_hangul": "나리는 꽃잎 비 사이로", "lyric_translation": "Under the flower petals raining down", "range": [148.88, 151.53], "ans": []},
+    {"lyric": "Hemaeeo dallineun i miro", "lyric_hangul": "헤매어 달리네 이 미로", "lyric_translation": "I run, so lost in this maze", "range": [151.53, 155.12], "ans": []},
+    {"lyric": "Forever we are young", "lyric_hangul": "Forever, we are young", "lyric_translation": "Forever we are young", "range": [155.12, 159.74], "ans": []},
+    {"lyric": "Neomeojyeo dachigo apado", "lyric_hangul": "넘어져 다치고 아파도", "lyric_translation": "Even when I fall and hurt myself", "range": [159.74, 162.69], "ans": []},
+    {"lyric": "Kkeuteopsi dalline kkumeul hyanghae", "lyric_hangul": "끝없이 달리네 꿈을 향해", "lyric_translation": "I keep running toward my dream", "range": [162.69, 167.51], "ans": []}
+  ]
+}

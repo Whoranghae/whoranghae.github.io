@@ -1,0 +1,254 @@
+{
+  "name": "The Rise of Bangtan (진격의 방탄)\r",
+  "ogg": "sound/kpop/the_rise_of_bangtan.ogg",
+  "id": "the-rise-of-bangtan",
+  "group": "bts",
+  "language": "ko",
+  "released": "2013-09-11",
+  "album": "O!RUL8,2?",
+  "cover": "css/images/covers/the-rise-of-bangtan.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:12Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "하지만 방탄소년단이 진격한다면 어떨까?",
+      "lyric_translation": "But what will happen / if Bulletproof Boy Scouts rises?",
+      "parts": [
+        {"lyric": "Hajiman bangtansonyeondani", "range": [0.13, 1.76], "ans": [2]},
+        {"lyric": "Jingyeokhandamyeon eotteolkka", "range": [1.76, 3.36], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Bang.tan.so.nyeon.dan", "lyric_hangul": "방탄소년단", "lyric_translation": "Bang! Tan! So! Nyeon! Dan!", "range": [3.36, 6.74], "ans": []},
+    "",
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [6.74, 10.61], "ans": []},
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [10.61, 14.36], "ans": [2]},
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [14.36, 18.27], "ans": [3]},
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [18.27, 23.12], "ans": [2, 3]},
+    {"lyric": "Jingyeok yonggamhaji", "lyric_hangul": "진격, 용감하지 (oh)", "lyric_translation": "Rise, be brave", "range": [23.12, 25.08], "ans": [2]},
+    "",
+    {"lyric": "Yonggamhan bangtansonyeondan", "lyric_hangul": "용감한 방탄소년단", "lyric_translation": "The brave Bulletproof Boy Scouts, we also get", "range": [25.08, 27.15], "ans": []},
+    {"lyric": "Ingi yeoksi yonggamhage gegeget it", "lyric_hangul": "인기 역시 용감하게 ge-ge-get it", "lyric_translation": "our popularity bravely, gegeget it", "range": [27.15, 30.0], "ans": []},
+    {"lyric": "Nan raepgoemul kkalligo kkallin raeptoemuldeureul", "lyric_hangul": "난 랩괴물 깔리고 깔린, 랩퇴물들을", "lyric_translation": "I’m Rap Monster, lightly sweeping", "range": [30.0, 31.03], "ans": []},
+    {"lyric": "Da sseureobeoryeo gappunhage bebebeat it", "lyric_hangul": "다 쓸어버려 가뿐하게 be-be-beat it", "lyric_translation": "away all of the rap retirees, bebebeat it", "range": [31.03, 33.43], "ans": []},
+    {"lyric": "Gasa wanjeon sindeullyeotji", "lyric_hangul": "가사 완전 신들렸지", "lyric_translation": "Lyrics? Completely godlike,", "range": [33.43, 35.28], "ans": []},
+    {"lyric": "24/7 eonjena nan gutae", "lyric_hangul": "24/7 언제나 난 굿해", "lyric_translation": "24/7, I’m always good", "range": [35.28, 37.69], "ans": []},
+    {"lyric": "Mwotdo eopgo meotdo eomneun", "lyric_hangul": "뭣도 없고 멋도 없는", "lyric_translation": "The nobodies and nothings create", "range": [37.69, 39.3], "ans": []},
+    {"lyric": "Aedeuri oneuldo buryeodaeneun jeo chutae", "lyric_hangul": "애들이 오늘도 부려대는 저 추태", "lyric_translation": "a scene again today", "range": [39.3, 41.59], "ans": []},
+    {"lyric": "Nae du bari boran deusi gyeongjeogeul ullyeo", "lyric_hangul": "내 두 발이 보란 듯이 경적을 울려", "lyric_translation": "My feet sound the alarm, announcing", "range": [41.59, 43.61], "ans": [3]},
+    {"lyric": "I panui chulsapyo nae gayogye chulgyeok", "lyric_hangul": "이 판의 출사표 내 가요계 출격 (yeah)", "lyric_translation": "my entrance to the K-Pop world", "range": [43.61, 45.21], "ans": [3]},
+    {"lyric": "Nae cheot taseok bwa homneon ttaeryeo", "lyric_hangul": "내 첫 타석 봐 홈런 때려", "lyric_translation": "Look at my first bat, I hit a homerun,", "range": [45.21, 47.58], "ans": [3]},
+    {"lyric": "Jasin eopdamyeon bangmangil naeryeo", "lyric_hangul": "자신 없다면 방망일 내려", "lyric_translation": "if you’re not confident, put down your bat", "range": [47.58, 49.45], "ans": [3]},
+    {"lyric": "Nae mudaen kkeullineun daero syutae", "lyric_hangul": "내 무댄 끌리는 대로 슛해", "lyric_translation": "I shoot however I want on my stage", "range": [49.45, 51.74], "ans": [3]},
+    {
+      "lyric_hangul": "맘대로 그래도 대중의 함성들은 내 귀를 채워",
+      "lyric_translation": "but I still fill my ears with / the cheers of the crowd",
+      "parts": [
+        {"lyric": "Mamdaero geuraedo daejungui", "range": [51.74, 53.39], "ans": [3]},
+        {"lyric": "Hamseongdeureun nae gwireul chaewo", "range": [53.39, 54.57], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geurae nan mudae wie gangbaekho", "lyric_hangul": "그래, 난 무대 위에 강백호", "lyric_translation": "Yes, I’m the Kang Baek Ho", "range": [54.23, 56.3], "ans": [3]},
+    {
+      "lyric_hangul": "다 증명했어, 그저 마이크는 거들 뿐",
+      "lyric_translation": "on stage, I proved it, / I’m just holding the mic",
+      "parts": [
+        {"lyric": "Da jeungmyeonghaesseo", "range": [56.3, 57.49], "ans": [3]},
+        {"lyric": "Geujeo maikeuneun geodeul ppun", "range": [57.49, 58.88], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "다 미칠 준비 됐나? 힘껏 뛸 준비 됐나?",
+      "lyric_translation": "Are you all ready to go crazy? / Ready to jump all you can?",
+      "parts": [
+        {"lyric": "Da michil junbi dwaenna", "range": [58.36, 61.09], "ans": [1, 5]},
+        {"lyric": "Himkkeot ttwil junbi dwaenna", "range": [60.39, 62.68], "ans": []}
+      ]
+    },
+    {"lyric": "Myeongchie him ppak jugo dan.jeon.ho.heup", "lyric_hangul": "명치에 힘 빡 주고 단 전 호 흡", "lyric_translation": "Tighten your stomachs and take a deep breath", "range": [62.41, 66.28], "ans": []},
+    {
+      "lyric_hangul": "다 미칠 준비 됐나? 힘껏 뛸 준비 됐나?",
+      "lyric_translation": "Are you all ready to go crazy? / Ready to jump all you can?",
+      "parts": [
+        {"lyric": "Da michil junbi dwaenna", "range": [66.28, 69.24], "ans": [5, 6]},
+        {"lyric": "Himkkeot ttwil junbi dwaenna", "range": [68.54, 70.8], "ans": []}
+      ]
+    },
+    {"lyric": "Geureotam jigeumbuteo sorijilleo", "lyric_hangul": "그렇담 지금부터 소리 질러", "lyric_translation": "Then scream right now", "range": [70.03, 73.72], "ans": []},
+    "",
+    {
+      "lyric_hangul": "우리가 누구? 진격의 방탄소년단",
+      "lyric_translation": "Who are we? The rising Bulletproof Boy Scouts",
+      "parts": [
+        {"lyric": "Uriga nugu", "range": [73.72, 75.41], "ans": []},
+        {"lyric": "Jingyeogui bangtansonyeondan", "range": [75.41, 78.0], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우리가 누구? 겁 없이 집어삼킨다",
+      "lyric_translation": "Who are we? We will swallow you without fear",
+      "parts": [
+        {"lyric": "Uriga nugu", "range": [77.92, 79.51], "ans": []},
+        {"lyric": "Geobeobsi jibeosamkinda", "range": [79.51, 81.72], "ans": []}
+      ]
+    },
+    {"lyric": "Cuz we got fire fire fire", "lyric_hangul": "'Cause we got fire, fire, fire", "lyric_translation": "Cuz we got fire fire fire", "range": [81.72, 83.97], "ans": [7]},
+    {"lyric": "Get higher higher higher", "lyric_hangul": "Get higher, higher, higher", "lyric_translation": "Get higher higher higher", "range": [83.97, 85.95], "ans": [7]},
+    {"lyric": "Uril moreundamyeon jedaero aradwo", "lyric_hangul": "우릴 모른다면 제대로 알아둬", "lyric_translation": "If you don’t know us, get to know us well", "range": [85.95, 89.85], "ans": [5]},
+    {"lyric": "Uriga nugu nugu [S/J-H/R] jingyeogui bangtan", "lyric_hangul": "우리가 누구? 누구? 진격의 방탄", "lyric_translation": "Who are we? Who?[S/J-H/R]The rise of Bangtan", "range": [89.85, 94.01], "ans": [2, 3]},
+    "",
+    {
+      "lyric_hangul": "La-la-la-la, la-la-la-la-la, la-la-la-la-la (turn up)",
+      "lyric_translation": "Lalala la lala lalala lalalalala turn up!",
+      "parts": [
+        {"lyric": "La lala lalala lalalalala", "range": [94.01, 98.43], "ans": []},
+        {"lyric": "Turn up", "range": [98.43, 98.91], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "La, la-la-la-la-la, la-la-la-la-la (turn up)",
+      "lyric_translation": "Lalala la lala lalala lalalalala turn up!",
+      "parts": [
+        {"lyric": "La lala lalala lalalalala", "range": [98.85, 102.46], "ans": []},
+        {"lyric": "Turn up", "range": [102.46, 103.21], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "니 마음을 집어삼켜, 내가 왔다, 지금 알려",
+      "lyric_translation": "Swallow your heart, / I’m here, let everyone know",
+      "parts": [
+        {"lyric": "Ni maeumeul jibeosamkyeo", "range": [103.21, 105.42], "ans": [7]},
+        {"lyric": "Naega watda jigeum allyeo", "range": [105.42, 106.57], "ans": [7]}
+      ]
+    },
+    {"lyric": "La lala lalala lalalalala", "lyric_hangul": "La-la-la-la, la-la-la-la-la, la-la-la-la-la", "lyric_translation": "Lalala la lala lalala lalalalala", "range": [106.09, 110.27], "ans": []},
+    {"lyric": "Uriga nugu nugu [S/J-H/R] jingyeogui bangtan", "lyric_hangul": "우리가 누구? 누구? 진격의 방탄", "lyric_translation": "Who are we? Who?[S/J-H/R]The rise of Bangtan", "range": [110.27, 114.69], "ans": [2, 3]},
+    "",
+    {"lyric": "Uri eumagi sijakdwaetdahamyeon", "lyric_hangul": "우리 음악이 시작됐다하면", "lyric_translation": "When our music starts,", "range": [114.69, 116.98], "ans": [7]},
+    {"lyric": "Nun dwijiphyeoseo piuneun nalli", "lyric_hangul": "눈 뒤집혀서 피우는 난리 (ow)", "lyric_translation": "people go crazy, go nuts", "range": [116.98, 119.46], "ans": [7]},
+    {"lyric": "Uri seutaireun No More Dream", "lyric_hangul": "우리 스타일은 \"No More Dream\"", "lyric_translation": "Our style is No More Dream,", "range": [119.46, 120.78], "ans": [7]},
+    {
+      "lyric_hangul": "무대 위에서 선배들 등을 밟지 (I'm sorry, man)",
+      "lyric_translation": "stepping on our seniors’ backs on stage / (I’m sorry man) What? What more can I say?",
+      "parts": [
+        {"lyric": "Mudae wieseo seonbaedeul deungeul barpji", "range": [120.78, 123.5], "ans": [7]},
+        {"lyric": "(I’m sorry Man)", "range": [123.5, 124.0], "ans": [7]}
+      ]
+    },
+    {"lyric": "What What more can I say", "lyric_hangul": "What, what more can I say?", "lyric_translation": "From our debut till now, we climb up", "range": [122.92, 124.56], "ans": [5]},
+    {"lyric": "Debwibuteo jigeumkkaji jjuk wiro", "lyric_hangul": "데뷔부터 지금까지 쭉 위로", "lyric_translation": "Climbing to the top is a matter of time,", "range": [124.56, 127.01], "ans": [7]},
+    {"lyric": "Uriui gojijeomnyeongeun siganmunje", "lyric_hangul": "우리의 고지점령은 시간문제", "lyric_translation": "the first block of the dominos", "range": [127.01, 128.76], "ans": [7]},
+    {"lyric": "Cheot beulleogeul jappatteurin domino", "lyric_hangul": "첫 블럭을 자빠뜨린 도미노", "lyric_translation": "has been pushed down", "range": [128.76, 131.3], "ans": [7]},
+    {"lyric": "Geurae jappatteuryeo nun kkamppak tteumyeon", "lyric_hangul": "그래, 자빠뜨려 눈 깜빡 뜨면", "lyric_translation": "Yes, push it down, when you blink once,", "range": [131.3, 133.34], "ans": [2]},
+    {"lyric": "Urin mudaeeseo gwireul jaba kkeureo", "lyric_hangul": "우린 무대에서 귀를 잡아 끌어", "lyric_translation": "we’re captivating ears on stage", "range": [133.34, 134.99], "ans": [2]},
+    {"lyric": "Ireon gamgakseureon nae raebui hyangyeon", "lyric_hangul": "이런 감각스런 내 랩의 향연", "lyric_translation": "Once you have a taste of my sensual", "range": [134.99, 137.04], "ans": [2]},
+    {"lyric": "Han beon matbomyeon sum gappajimyeo", "lyric_hangul": "한 번 맛보면 숨 가빠지며", "lyric_translation": "rap banquet, you’ll run out of breath", "range": [137.04, 138.69], "ans": [2]},
+    {"lyric": "Neoneun wanjeon sogi ta", "lyric_hangul": "너는 완전 속이 타", "lyric_translation": "Your insides will burn,", "range": [138.69, 141.03], "ans": [2]},
+    {"lyric": "Can’t nobody hold me down", "lyric_hangul": "Can't nobody hold me down", "lyric_translation": "can’t nobody hold me down", "range": [141.03, 142.97], "ans": [2]},
+    {
+      "lyric_hangul": "Okay, 나는 4분의 4박자 비트 위를 항상",
+      "lyric_translation": "OK, I’m always on top / of the 4 by 4 beat",
+      "parts": [
+        {"lyric": "Ok naneun 4bunui", "range": [142.97, 144.55], "ans": [2]},
+        {"lyric": "4bakja biteu wireul hangsang", "range": [144.55, 145.95], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "찢고 다녀 무대 위에선 상남자 style",
+      "lyric_translation": "I’m a manly man style / on top of the stage",
+      "parts": [
+        {"lyric": "Jjitgo danyeo mudae", "range": [145.4, 147.12], "ans": [2]},
+        {"lyric": "Wieseon sangnamja style", "range": [147.12, 148.42], "ans": [2]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "다 미칠 준비 됐나? 힘껏 뛸 준비 됐나?",
+      "lyric_translation": "Are you all ready to go crazy? / Ready to jump all you can?",
+      "parts": [
+        {"lyric": "Da michil junbi dwaenna", "range": [148.04, 150.57], "ans": [1, 5]},
+        {"lyric": "Himkkeot ttwil junbi dwaenna", "range": [149.87, 152.18], "ans": []}
+      ]
+    },
+    {"lyric": "Myeongchie him ppak jugo dan.jeon.ho.heup", "lyric_hangul": "명치에 힘 빡 주고 단 전 호 흡", "lyric_translation": "Tighten your stomachs and take a deep breath", "range": [151.87, 156.02], "ans": []},
+    {
+      "lyric_hangul": "다 미칠 준비 됐나? 힘껏 뛸 준비 됐나?",
+      "lyric_translation": "Are you all ready to go crazy? / Ready to jump all you can?",
+      "parts": [
+        {"lyric": "Da michil junbi dwaenna", "range": [156.02, 158.73], "ans": [5, 6]},
+        {"lyric": "Himkkeot ttwil junbi dwaenna", "range": [158.03, 160.3], "ans": []}
+      ]
+    },
+    {"lyric": "Geureotam jigeumbuteo sorijilleo", "lyric_hangul": "그렇담 지금부터 소리 질러", "lyric_translation": "Then scream right now", "range": [159.79, 163.15], "ans": []},
+    "",
+    {
+      "lyric_hangul": "우리가 누구? 진격의 방탄소년단",
+      "lyric_translation": "Who are we? The rising Bulletproof Boy Scouts",
+      "parts": [
+        {"lyric": "Uriga nugu", "range": [163.15, 164.99], "ans": []},
+        {"lyric": "Jingyeogui bangtansonyeondan", "range": [164.99, 167.45], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우리가 누구? 겁 없이 집어삼킨다",
+      "lyric_translation": "Who are we? We will swallow you without fear",
+      "parts": [
+        {"lyric": "Uriga nugu", "range": [167.25, 168.99], "ans": []},
+        {"lyric": "Geobeobsi jibeosamkinda", "range": [168.99, 171.35], "ans": []}
+      ]
+    },
+    {"lyric": "Cuz we got fire fire fire", "lyric_hangul": "'Cause we got fire, fire, fire", "lyric_translation": "Cuz we got fire fire fire", "range": [171.25, 173.84], "ans": [7]},
+    {"lyric": "Get higher higher higher", "lyric_hangul": "Get higher, higher, higher", "lyric_translation": "Get higher higher higher", "range": [173.84, 175.12], "ans": [7]},
+    {"lyric": "Uril moreundamyeon jedaero aradwo", "lyric_hangul": "우릴 모른다면 제대로 알아둬", "lyric_translation": "If you don’t know us, get to know us well", "range": [175.12, 179.32], "ans": [5]},
+    "",
+    {"lyric": "Mudae wie oreuneun sungan", "lyric_hangul": "무대 위에 오르는 순간", "lyric_translation": "The moment I go on top of the stage", "range": [179.32, 183.04], "ans": [7]},
+    {"lyric": "Geudaeui hamseongdeureul nan neukkyeo", "lyric_hangul": "그대의 함성들을 난 느껴", "lyric_translation": "I feel the sound of your cheers", "range": [183.04, 187.26], "ans": [7]},
+    {"lyric": "Geudaero yeongwonhi geogi isseojwo", "lyric_hangul": "그대로 영원히 거기 있어 줘", "lyric_translation": "Just stay like that forever", "range": [187.26, 191.63], "ans": [7]},
+    {
+      "lyric_hangul": "이대로 죽어도 후회는 없을 테니까, whoa-ooh",
+      "lyric_translation": "Because even if I die this way, / I don’t regret it",
+      "parts": [
+        {"lyric": "Idaero jugeodo", "range": [191.63, 193.67], "ans": [7]},
+        {"lyric": "Huhoeneun eobseul tenikka", "range": [193.67, 199.69], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리가 누구? 진격의 방탄소년단",
+      "lyric_translation": "Who are we? The rising Bulletproof Boy Scouts",
+      "parts": [
+        {"lyric": "Uriga nugu", "range": [202.03, 203.57], "ans": []},
+        {"lyric": "Jingyeogui bangtansonyeondan", "range": [203.57, 205.99], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우리가 누구? 겁 없이 집어삼킨다",
+      "lyric_translation": "Who are we? We will swallow you without fear",
+      "parts": [
+        {"lyric": "Uriga nugu", "range": [205.74, 207.69], "ans": []},
+        {"lyric": "Geobeobsi jibeosamkinda", "range": [207.69, 209.59], "ans": []}
+      ]
+    },
+    {"lyric": "Cuz we got fire fire fire", "lyric_hangul": "'Cause we got fire, fire, fire", "lyric_translation": "Cuz we got fire fire fire", "range": [209.59, 212.37], "ans": [7]},
+    {"lyric": "Get higher higher higher", "lyric_hangul": "Get higher, higher, higher", "lyric_translation": "Get higher higher higher", "range": [212.37, 214.22], "ans": [7]},
+    {"lyric": "Uril moreundamyeon jedaero aradwo", "lyric_hangul": "우릴 모른다면 제대로 알아둬", "lyric_translation": "If you don’t know us, get to know us well", "range": [214.22, 218.44], "ans": [5]},
+    {"lyric": "Uriga nugu nugu [S/J-H/R] jingyeogui bangtan", "lyric_hangul": "우리가 누구? 누구? 진격의 방탄", "lyric_translation": "Who are we? Who?[S/J-H/R] The rise of Bangtan", "range": [218.44, 222.63], "ans": [2, 3]},
+    "",
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [222.63, 226.58], "ans": []},
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [226.58, 229.96], "ans": [2]},
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [229.96, 233.69], "ans": [3]},
+    {"lyric": "Jingyeokhae bang.tan.sonyeondancheoreom", "lyric_hangul": "진격해 방탄소년단처럼", "lyric_translation": "Rise like the Bulletproof Boy Scouts", "range": [233.69, 238.37], "ans": [2, 3]},
+    {
+      "lyric_hangul": "우리가 누구? 누구? 진격의 방탄 진격",
+      "lyric_translation": "Who are we? Who? / The rise of Bangtan. The rise",
+      "parts": [
+        {"lyric": "Uriga nugu nugu", "range": [238.37, 241.21], "ans": []},
+        {"lyric": "Jingyeogui bangtan jingyeog", "range": [241.21, 247.0], "ans": [2, 3]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "name": "Tomorrow\r",
+  "ogg": "sound/kpop/tomorrow.ogg",
+  "id": "tomorrow",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-02-12",
+  "album": "[Album",
+  "cover": "css/images/covers/tomorrow.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:12Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Gateun nal, gateun dal", "lyric_hangul": "같은 날, 같은 달", "lyric_translation": "Same day, same moon", "range": [15.68, 19.54], "ans": [2]},
+    {"lyric": "24/7 maebeon banbokdoeneun mae sungan", "lyric_hangul": "24-7 매번 반복되는 매 순간", "lyric_translation": "24/7 every moment repeats", "range": [19.54, 22.62], "ans": [2]},
+    {"lyric": "Eojungganhan nae sarm", "lyric_hangul": "어중간한 내 삶", "lyric_translation": "My life is in between", "range": [22.62, 26.47], "ans": [2]},
+    {"lyric": "20daeui baeksuneun naeiri duryeowo cham", "lyric_hangul": "20대의 백수는 내일이 두려워 참", "lyric_translation": "Jobless twenty-somethings are afraid of tomorrow", "range": [26.47, 29.58], "ans": [2]},
+    {
+      "lyric_hangul": "웃기지 어릴 땐 뭐든 가능할거라 믿었었는데",
+      "lyric_translation": "It’s funny, you think anything / is possible when you’re a kid",
+      "parts": [
+        {"lyric": "Utgiji eoril ttaen mwodeun", "range": [29.58, 31.78], "ans": [2]},
+        {"lyric": "Ganeunghalgeora mideosseonneunde", "range": [31.78, 33.6], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "하루를 벌어 하루를 사는 게 빠듯하단 걸 느꼈을 때",
+      "lyric_translation": "When you feel how hard it is to get through a day / Keep feeling like the",
+      "parts": [
+        {"lyric": "Harureul beoreo harureul saneun", "range": [33.6, 35.3], "ans": [2]},
+        {"lyric": "Ge ppadeutadan geol neukkyeosseul ttae", "range": [35.3, 37.44], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "내내 기분은 컨트롤 비트, 계속해서 다운되네",
+      "lyric_translation": "“Control” beat, keep downloading it / Every single day is a repetition of",
+      "parts": [
+        {"lyric": "Naenae gibuneun keonteurol biteu,", "range": [37.2, 39.26], "ans": [2]},
+        {"lyric": "Gyesokhaeseo daundoene maeilmaeiri", "range": [39.26, 41.36], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ctrl+C, Ctrl+V banbokdoene", "lyric_hangul": "매일매일이 CTRL + C, CTRL + V 반복되네", "lyric_translation": "Ctrl+C, Ctrl+V", "range": [41.07, 44.67], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "갈 길은 먼데 왜 난 제자리니",
+      "lyric_translation": "I have a long way to go but / why am I running in place?",
+      "parts": [
+        {"lyric": "Gal gireun meonde", "range": [44.67, 46.77], "ans": [6]},
+        {"lyric": "Wae nan jejarini", "range": [46.77, 48.56], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "답답해 소리쳐도 허공의 메아리",
+      "lyric_translation": "I scream out of frustration / but the empty air echoes",
+      "parts": [
+        {"lyric": "Dapdaphae sorichyeodo", "range": [48.56, 50.72], "ans": [6]},
+        {"lyric": "Heogongui meari", "range": [50.72, 52.37], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "내일은 오늘보다는 뭔가 다르길",
+      "lyric_translation": "I hope tomorrow will / be different from today",
+      "parts": [
+        {"lyric": "Naeireun oneulbodaneun", "range": [52.37, 54.53], "ans": [6]},
+        {"lyric": "Mwonga dareugil", "range": [54.53, 56.19], "ans": [6]}
+      ]
+    },
+    {"lyric": "Nan aewonhal ppunya", "lyric_hangul": "난 애원할 뿐야", "lyric_translation": "I’m just wishing", "range": [56.19, 58.73], "ans": [6]},
+    "",
+    {"lyric": "Ni kkumeul ttaraga like breaker", "lyric_hangul": "니 꿈을 따라가 like breaker", "lyric_translation": "Follow your dream like breaker", "range": [58.73, 62.84], "ans": [7]},
+    {"lyric": "Buseojindaedo oh better", "lyric_hangul": "부서진대도 oh, better", "lyric_translation": "Even if it breaks down, oh better", "range": [62.84, 66.03], "ans": [7]},
+    {"lyric": "Ni kkumeul ttaraga like breaker", "lyric_hangul": "니 꿈을 따라가 like breaker", "lyric_translation": "Follow your dream like breaker", "range": [66.03, 70.0], "ans": [7]},
+    {
+      "lyric_hangul": "무너진대도 oh 뒤로 달아나지마 never",
+      "lyric_translation": "Even if it breaks down, / don’t ever run backwards, never",
+      "parts": [
+        {"lyric": "Muneojindaedo oh", "range": [70.0, 72.2], "ans": [7]},
+        {"lyric": "Dwiro daranajima never", "range": [72.2, 74.78], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "해가 뜨기 전 새벽이 가장 어두우니까",
+      "lyric_translation": "Because the dawn right before / the sun rises is the darkest",
+      "parts": [
+        {"lyric": "Haega tteugi jeon saebyeogi", "range": [74.32, 76.68], "ans": [7]},
+        {"lyric": "Gajang eoduunikka", "range": [76.68, 78.2], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "먼 훗날에 넌 지금의 널 절대로 잊지 마",
+      "lyric_translation": "Even in the far future, / never forget the you of right now",
+      "parts": [
+        {"lyric": "Meon hutnare neon jigeumui", "range": [78.03, 80.43], "ans": [1]},
+        {"lyric": "Neol jeoldaero itji ma", "range": [80.43, 82.09], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금 니가 어디 서 있든 잠시 쉬어가는 것일 뿐",
+      "lyric_translation": "Wherever you are right now, / you’re just taking a break",
+      "parts": [
+        {"lyric": "Jigeum niga eodi seo itdeun", "range": [81.64, 84.53], "ans": [7]},
+        {"lyric": "Jamsi swieoganeun geosil ppun", "range": [83.83, 86.1], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "포기하지 마 알잖아 너무 멀어지진 마 tomorrow",
+      "lyric_translation": "Don’t give up, you know / Don’t get too far away, tomorrow",
+      "parts": [
+        {"lyric": "Pogihaji ma", "range": [85.44, 87.47], "ans": [7]},
+        {"lyric": "Aljanha", "range": [86.77, 88.71], "ans": [1]},
+        {"lyric": "Neomu meoreojijin ma tomorrow", "range": [88.01, 92.36], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Meoreojijin ma tomorrow", "lyric_hangul": "멀어지진 마 tomorrow", "lyric_translation": "Don’t get far away, tomorrow", "range": [95.11, 102.36], "ans": [7]},
+    {"lyric": "Neomu meoreojijin ma tomorrow", "lyric_hangul": "너무 멀어지진 마 tomorrow", "lyric_translation": "Don’t get too far away, tomorrow", "range": [102.36, 104.78], "ans": [7]},
+    "",
+    {"lyric": "Uriga geutorok gidarin naeildo eoneusae", "lyric_hangul": "우리가 그토록 기다린 내일도", "lyric_translation": "The tomorrow we’ve been waiting", "range": [104.78, 106.46], "ans": []},
+    {"lyric": "Nuneul tteobomyeon eojeui ireumi dwae", "lyric_hangul": "어느새 눈을 떠보면 어제의 이름이 돼", "lyric_translation": "for becomes the name of yesterday at some point", "range": [106.46, 108.22], "ans": []},
+    {"lyric": "Naeireun oneuri doego oneureun eojega", "lyric_hangul": "내일은 오늘이 되고 오늘은 어제가 되고", "lyric_translation": "Tomorrow becomes today, today becomes yesterday,", "range": [108.22, 109.87], "ans": []},
+    {"lyric": "Doego naeireun eojega doeeo nae deung dwie seoinne", "lyric_hangul": "내일은 어제가 되어 내 등 뒤에 서있네", "lyric_translation": "tomorrow becomes yesterday and is behind me", "range": [109.87, 111.76], "ans": []},
+    {"lyric": "Sarmeun sarajineun ge anira saranaeneun geot,", "lyric_hangul": "삶은 살아지는 게 아니라 살아내는 것", "lyric_translation": "Life isn’t about living along but living through", "range": [111.76, 113.68], "ans": []},
+    {"lyric": "Geureoke saranaedaga eonjengan sarajineun geot", "lyric_hangul": "그렇게 살아내다가 언젠간 사라지는 것", "lyric_translation": "As you live through, you’ll disappear some day", "range": [113.68, 115.94], "ans": []},
+    {"lyric": "Meong ttaeridagan neo, sseullyeoga", "lyric_hangul": "멍 때리다간 너, 쓸려가", "lyric_translation": "If you keep spacing out, you’ll be swept away,", "range": [115.94, 117.75], "ans": []},
+    {"lyric": "If you ain’t no got the guts, trust", "lyric_hangul": "If you ain't no got the guts, trust", "lyric_translation": "if you ain’t no got the guts, trust", "range": [117.75, 119.9], "ans": []},
+    {"lyric": "Eochapi da eojega doego", "lyric_hangul": "어차피 다 어제가 되고 말 텐데", "lyric_translation": "It’ll all become yesterday", "range": [119.9, 121.68], "ans": []},
+    {"lyric": "Mal tende haruharuga mwon uimigesseo", "lyric_hangul": "하루하루가 뭔 의미겠어", "lyric_translation": "anyway so what’s the use?", "range": [121.68, 123.39], "ans": []},
+    {"lyric": "Haengbokhaejigo, dokhaejigo sipeonneunde", "lyric_hangul": "행복해지고, 독해지고 싶었는데", "lyric_translation": "I wanted to become happy and strong", "range": [123.39, 125.09], "ans": []},
+    {"lyric": "Wae jakku yakhaejigiman haji gyesok", "lyric_hangul": "왜 자꾸 약해지기만 하지 계속", "lyric_translation": "but why am I getting weaker?", "range": [125.09, 127.3], "ans": []},
+    {"lyric": "Na eodiro ga, yeogiro gago jeogiro", "lyric_hangul": "나 어디로 가, 여기로 가고", "lyric_translation": "Where am I going? I’m going here and", "range": [127.3, 128.95], "ans": []},
+    {"lyric": "Gado nan hangsang yeogiro wa", "lyric_hangul": "저기로 가도 난 항상 여기로 와", "lyric_translation": "there but I always come back here", "range": [128.95, 130.64], "ans": []},
+    {"lyric": "Geurae heulleogagin hagetji eodironga,", "lyric_hangul": "그래 흘러가긴 하겠지", "lyric_translation": "Yeah, I’ll probably flow somewhere,", "range": [130.64, 132.16], "ans": []},
+    {"lyric": "Kkeuchi itgin halkka i miroga", "lyric_hangul": "어디론가, 끝이 있긴 할까 이 미로가", "lyric_translation": "is there an end to this maze?", "range": [132.16, 134.66], "ans": []},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "갈 길은 먼데 왜 난 제자리니",
+      "lyric_translation": "I have a long way to go but / why am I running in place?",
+      "parts": [
+        {"lyric": "Gal gireun meonde", "range": [134.66, 136.78], "ans": [6]},
+        {"lyric": "Wae nan jejarini", "range": [136.78, 138.51], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "답답해 소리쳐도 허공의 메아리",
+      "lyric_translation": "I scream out of frustration / but the empty air echoes",
+      "parts": [
+        {"lyric": "Dapdaphae sorichyeodo", "range": [138.51, 140.71], "ans": [6]},
+        {"lyric": "Heogongui meari", "range": [140.71, 142.38], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "내일은 오늘보다는 뭔가 다르길",
+      "lyric_translation": "I hope tomorrow will / be different from today",
+      "parts": [
+        {"lyric": "Naeireun oneulbodaneun", "range": [142.38, 144.52], "ans": [6]},
+        {"lyric": "Mwonga dareugil", "range": [144.52, 145.66], "ans": [6]}
+      ]
+    },
+    {"lyric": "Nan aewonhal ppunya", "lyric_hangul": "난 애원할 뿐야", "lyric_translation": "I’m just wishing", "range": [145.63, 148.69], "ans": [6]},
+    "",
+    {"lyric": "Ni kkumeul ttaraga like breaker", "lyric_hangul": "니 꿈을 따라가 like breaker", "lyric_translation": "Follow your dream like breaker", "range": [148.69, 152.81], "ans": []},
+    {"lyric": "Buseojindaedo oh better", "lyric_hangul": "부서진대도 oh, better", "lyric_translation": "Even if it breaks down, oh better", "range": [152.81, 156.15], "ans": []},
+    {"lyric": "Betterni kkumeul ttaraga like breaker", "lyric_hangul": "니 꿈을 따라가 like breaker", "lyric_translation": "Follow your dream like breaker", "range": [156.15, 160.0], "ans": []},
+    {
+      "lyric_hangul": "무너진대도 oh 뒤로 달아나지마 never",
+      "lyric_translation": "Even if it breaks down, / don’t ever run backwards, never",
+      "parts": [
+        {"lyric": "Muneojindaedo oh", "range": [160.0, 162.1], "ans": []},
+        {"lyric": "Dwiro daranajima never", "range": [162.1, 165.11], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "해가 뜨기 전 새벽이 가장 어두우니까",
+      "lyric_translation": "Because the dawn right before / the sun rises is the darkest",
+      "parts": [
+        {"lyric": "Haega tteugi jeon saebyeogi", "range": [165.11, 166.63], "ans": []},
+        {"lyric": "Gajang eoduunikka", "range": [166.63, 167.96], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "먼 훗날에 넌 지금의 널 절대로 잊지 마",
+      "lyric_translation": "Even in the far future, / never forget the you of right now",
+      "parts": [
+        {"lyric": "Meon hutnare neon jigeumui", "range": [167.96, 170.52], "ans": [1]},
+        {"lyric": "Neol jeoldaero itji ma", "range": [170.52, 172.1], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금 니가 어디 서 있든 잠시 쉬어가는 것일 뿐",
+      "lyric_translation": "Wherever you are right now, / you’re just taking a break",
+      "parts": [
+        {"lyric": "Jigeum niga eodi seo itdeun", "range": [171.56, 174.55], "ans": []},
+        {"lyric": "Jamsi swieoganeun geosil ppun", "range": [173.85, 176.14], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "포기하지 마 알잖아 너무 멀어지진 마 tomorrow",
+      "lyric_translation": "Don’t give up, you know / Don’t get too far away, tomorrow",
+      "parts": [
+        {"lyric": "Pogihaji ma", "range": [175.85, 177.46], "ans": []},
+        {"lyric": "Aljanha", "range": [176.76, 178.74], "ans": [1]},
+        {"lyric": "Neomu meoreojijin ma tomorrow", "range": [178.04, 180.61], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Tomorrow, gyesok georeo", "lyric_hangul": "Tomorrow 계속 걸어", "lyric_translation": "Tomorrow, keep walking,", "range": [180.61, 184.57], "ans": [3]},
+    {"lyric": "Meomchugien urin ajik neomu eoryeo", "lyric_hangul": "멈추기엔 우린 아직 너무 어려", "lyric_translation": "we’re too young to stop", "range": [184.57, 187.72], "ans": [3]},
+    {"lyric": "Tomorrow, muneul yeoreo", "lyric_hangul": "Tomorrow 문을 열어", "lyric_translation": "Tomorrow, open the door,", "range": [187.72, 191.49], "ans": [3, 7]},
+    {"lyric": "Datgien manheun geotdeuri nune boyeo", "lyric_hangul": "닫기엔 많은 것들이 눈에 보여", "lyric_translation": "we see too much to shut the door", "range": [191.49, 194.73], "ans": []},
+    {
+      "lyric_hangul": "어두운 밤이 지나면 밝은 아침도 있듯이, 알아서",
+      "lyric_translation": "When the dark night passes, / a bright morning will come",
+      "parts": [
+        {"lyric": "Eoduun bami jinamyeon", "range": [194.73, 196.61], "ans": [3]},
+        {"lyric": "Balgeun achimdo itdeusi, araseo", "range": [196.61, 198.51], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "내일이오면 밝은 빛이 비추니, 걱정은 하지 말아줘",
+      "lyric_translation": "When tomorrow comes, / the bright light will shine so don’t worry",
+      "parts": [
+        {"lyric": "Naeiriomyeon balgeun bichi bichuni,", "range": [198.42, 201.2], "ans": [3]},
+        {"lyric": "Geokjeongeun haji marajwo", "range": [201.2, 202.26], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "이건 정지가 아닌 니 삶을 쉬어가는 잠시 동안의 일시 정지",
+      "lyric_translation": "This isn’t a stop but just / a pause in your life for a break",
+      "parts": [
+        {"lyric": "Igeon jeongjiga anin ni sarmeul", "range": [201.77, 204.03], "ans": [3]},
+        {"lyric": "Swieoganeun jamsi donganui ilsi jeongji", "range": [204.03, 206.21], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "엄지를 올리며 니 자신을 재생해 모두 보란 듯이",
+      "lyric_translation": "Turn up your thumbs and press play / so everyone can see",
+      "parts": [
+        {"lyric": "Eomjireul ollimyeo ni jasineul", "range": [205.49, 208.13], "ans": [3]},
+        {"lyric": "Jaesaenghae modu boran deusi", "range": [208.13, 209.91], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Ni kkumeul ttaraga like breaker", "lyric_hangul": "니 꿈을 따라가 like breaker", "lyric_translation": "Follow your dream like breaker", "range": [209.9, 214.81], "ans": [7]},
+    {"lyric": "Buseojindaedo oh better", "lyric_hangul": "부서진대도 oh, better", "lyric_translation": "Even if it breaks down, oh better", "range": [214.81, 217.92], "ans": [7]},
+    {"lyric": "Ni kkumeul ttaraga like breaker", "lyric_hangul": "니 꿈을 따라가 like breaker", "lyric_translation": "Follow your dream like breaker", "range": [217.92, 221.84], "ans": []},
+    {
+      "lyric_hangul": "무너진대도 oh 뒤로 달아나지마 never",
+      "lyric_translation": "Even if it breaks down, / don’t ever run backwards, never",
+      "parts": [
+        {"lyric": "Muneojindaedo oh", "range": [221.84, 223.94], "ans": []},
+        {"lyric": "Dwiro daranajima never", "range": [223.94, 226.52], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "해가 뜨기 전 새벽이 가장 어두우니까",
+      "lyric_translation": "Because the dawn right before / the sun rises is the darkest",
+      "parts": [
+        {"lyric": "Haega tteugi jeon saebyeogi", "range": [225.9, 228.62], "ans": [7]},
+        {"lyric": "Gajang eoduunikka", "range": [228.62, 230.0], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "먼 훗날에 넌 지금의 널 절대로 잊지 마",
+      "lyric_translation": "Even in the far future, / never forget the you of right now",
+      "parts": [
+        {"lyric": "Meon hutnare neon jigeumui", "range": [229.79, 232.37], "ans": []},
+        {"lyric": "Neol jeoldaero itji ma", "range": [232.37, 233.95], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "지금 니가 어디 서 있든 잠시 쉬어가는 것일 뿐",
+      "lyric_translation": "Wherever you are right now, / you’re just taking a break",
+      "parts": [
+        {"lyric": "Jigeum niga eodi seo itdeun", "range": [233.46, 236.43], "ans": [7]},
+        {"lyric": "Jamsi swieoganeun geosil ppun", "range": [235.73, 238.06], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "포기하지 마, 알잖아 너무 멀어지진 마 tomorrow",
+      "lyric_translation": "Don’t give up, you know / Don’t get too far away, tomorrow",
+      "parts": [
+        {"lyric": "Pogihaji ma", "range": [237.94, 239.48], "ans": [7]},
+        {"lyric": "Aljanha", "range": [238.78, 240.59], "ans": []},
+        {"lyric": "Neomu meoreojijin ma tomorrow", "range": [239.89, 243.96], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Meoreojijin ma tomorrow", "lyric_hangul": "멀어지진 마 tomorrow", "lyric_translation": "Don’t get far away, tomorrow", "range": [247.04, 254.41], "ans": [7]},
+    {"lyric": "Neomu meoreojijin ma tomorrow", "lyric_hangul": "너무 멀어지진 마 tomorrow", "lyric_translation": "Don’t get too far away, tomorrow", "range": [254.41, 259.27], "ans": [7]}
+  ]
+}

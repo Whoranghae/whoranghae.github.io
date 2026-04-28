@@ -1,0 +1,262 @@
+{
+  "name": "Dionysus (Japanese Ver.)\r",
+  "ogg": "sound/kpop/dionysus_jp.ogg",
+  "id": "dionysus-jp",
+  "group": "bts",
+  "language": "ja",
+  "released": "2020-07-15",
+  "album": "Map Of The Soul 7:The Journey",
+  "cover": "css/images/covers/dionysus-jp.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:39Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "即 飲み干す",
+      "lyric_translation": "N/A",
+      "parts": [
+        {"lyric": "Soku, nomihosu", "range": [9.75, 10.9], "ans": [6]},
+        {"lyric": "Shukuhai (sippin’) sugata (tippin’)", "range": [10.2, 11.36], "ans": [3]},
+        {"lyric": "Ikki ni", "range": [10.85, 11.41], "ans": [6]}
+      ]
+    },
+    {"lyric": "Yurusosu (grippin’) budō o (eatin’)", "lyric_hangul": "テュルソス (grippin'), ぶどうを (eatin')", "lyric_translation": "", "range": [13.79, 15.44], "ans": [3]},
+    {"lyric": "Soku, nomihosu", "lyric_hangul": "即 飲み干す", "lyric_translation": "", "range": [15.44, 16.53], "ans": [6]},
+    {
+      "lyric_hangul": "雰囲気 (keep it) D style (rip it) 一気に",
+      "parts": [
+        {"lyric": "Fun’iki (keep it) D style (rip it)", "range": [16.53, 19.48], "ans": [3]},
+        {"lyric": "Ikki ni", "range": [18.78, 19.57], "ans": [6]}
+      ]
+    },
+    {"lyric": "Kono ba (kill it) let’ s steal it", "lyric_hangul": "この場 (kill it) let's steal it", "lyric_translation": "", "range": [19.09, 20.75], "ans": [3]},
+    {"lyric": "The illest", "lyric_hangul": "The illest", "lyric_translation": "", "range": [20.75, 21.22], "ans": [3]},
+    "",
+    {"lyric": "Nomihose just like Dionyusosu", "lyric_hangul": "飲み干せ just like ディオニュソス", "lyric_translation": "", "range": [21.22, 23.62], "ans": [4]},
+    {"lyric": "Katate ni sake, mō katate ni teyurusosu", "lyric_hangul": "片手に酒 もう片手にテュルソス", "lyric_translation": "", "range": [23.62, 26.44], "ans": [4]},
+    {"lyric": "Tōmei na kurisutaru gurasu-chū, yureru geijutsu", "lyric_hangul": "透明なクリスタルグラス中 揺れる芸術", "lyric_translation": "", "range": [26.44, 29.78], "ans": [4]},
+    {"lyric": "Geijutsu mo sake, nome ba you ze fool", "lyric_hangul": "芸術も酒 飲めば酔うぜ fool", "lyric_translation": "", "range": [29.78, 32.76], "ans": [4]},
+    {
+      "lyric_hangul": "You dunno, you dunno, you dunno what to do with",
+      "parts": [
+        {"lyric": "You dunno you dunno you dunno", "range": [32.76, 34.84], "ans": [4]},
+        {"lyric": "What to do with", "range": [34.54, 35.54], "ans": [4]}
+      ]
+    },
+    {"lyric": "Imma show you betsu nostyle betsu no ryūgi", "lyric_hangul": "Imma show you 別のstyle 別の流儀", "lyric_translation": "", "range": [35.38, 38.04], "ans": [4]},
+    {"lyric": "Aibī de kazaru mokuseimic", "lyric_hangul": "アイビーで飾る木製mic", "lyric_translation": "", "range": [38.04, 40.31], "ans": [4]},
+    {"lyric": "Kantan ni wa oto deru wake nante nai", "lyric_hangul": "簡単には音出る訳なんてない", "lyric_translation": "", "range": [40.31, 43.63], "ans": [4]},
+    "",
+    {"lyric": "Hi noboru made where the party at", "lyric_hangul": "日昇るまで where the party at?", "lyric_translation": "", "range": [43.63, 46.59], "ans": [7]},
+    {"lyric": "Nemuru made oh where the party at", "lyric_hangul": "眠るまで oh where the party at?", "lyric_translation": "", "range": [46.59, 48.85], "ans": [7]},
+    {"lyric": "Sing it utai mata", "lyric_hangul": "Sing it 歌い また", "lyric_translation": "", "range": [48.85, 50.14], "ans": [3, 7]},
+    {"lyric": "Drink it nomi mata", "lyric_hangul": "Drink it 飲み また", "lyric_translation": "", "range": [50.14, 51.51], "ans": [3, 7]},
+    {"lyric": "Umarekawari", "lyric_hangul": "生まれ変わり", "lyric_translation": "", "range": [51.51, 54.03], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "即 飲み干す（辛い記憶も）",
+      "parts": [
+        {"lyric": "Soku, nomihosu", "range": [54.03, 55.93], "ans": [1]},
+        {"lyric": "Tsurai kioku mo", "range": [55.93, 57.03], "ans": [3]},
+        {"lyric": "Ikki ni", "range": [56.35, 57.43], "ans": [1]},
+        {"lyric": "Jidai noroar", "range": [56.73, 58.49], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "即 飲み干す（自分と共存） 一気に (okay, now I'm ready for the show)",
+      "parts": [
+        {"lyric": "Soku, nomihosu", "range": [59.65, 61.43], "ans": [1]},
+        {"lyric": "Jibun to kyōzon", "range": [61.43, 62.0], "ans": [3]},
+        {"lyric": "Ikki ni", "range": [61.48, 62.76], "ans": [1]},
+        {"lyric": "Okay now I’ m ready fo sho", "range": [62.06, 65.4], "ans": [3]}
+      ]
+    },
+    {"lyric": "Sā, nomenomenomenome kono gurasu ay", "lyric_hangul": "さあ 飲め飲め飲め飲め このグラス ay", "lyric_translation": "", "range": [65.4, 68.16], "ans": [6]},
+    {"lyric": "Sā, yoeyoeyoe ima to your artist", "lyric_hangul": "さあ 酔え酔え酔え 今 to your artist", "lyric_translation": "", "range": [68.16, 71.4], "ans": [6]},
+    {"lyric": "Wan shotto (one shot) tsū shotto (two shots)", "lyric_hangul": "ワンショット (one shot) ツーショット (two shots)", "lyric_translation": "", "range": [71.4, 73.57], "ans": [5]},
+    {"lyric": "Agare now utae on heya", "lyric_hangul": "アガれ now 歌えオンヘヤ", "lyric_translation": "", "range": [73.57, 76.28], "ans": [5]},
+    "",
+    {"lyric": "Sā, nomenomenomenome kono gurasu ay", "lyric_hangul": "さあ 飲め飲め飲め飲め このグラス ayy", "lyric_translation": "", "range": [76.28, 78.98], "ans": [7]},
+    {"lyric": "Sā, yoeyoeyoe ima to your artist", "lyric_hangul": "さあ 酔え酔え酔え 今 to your artist", "lyric_translation": "", "range": [78.98, 82.45], "ans": [7]},
+    {"lyric": "Wan shotto (one shot) tsū shotto (two shots)", "lyric_hangul": "ワンショット (one shot) ツーショット (two shots)", "lyric_translation": "", "range": [82.45, 84.37], "ans": [5]},
+    {
+      "lyric_hangul": "ノリな more 歌えオンヘヤ",
+      "parts": [
+        {"lyric": "Nori na more uta e on heya", "range": [84.37, 85.18], "ans": [5]},
+        {"lyric": "Shukuhai (", "range": [84.48, 85.64], "ans": [2]},
+        {"lyric": "Sippin’", "range": [84.94, 85.99], "ans": [6]},
+        {"lyric": "Sugata (", "range": [85.99, 86.36], "ans": [2]},
+        {"lyric": "Tippin’", "range": [86.36, 87.09], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "テュルソス (grippin') ぶどうを (eatin')",
+      "parts": [
+        {"lyric": "Yurusosu", "range": [90.08, 90.8], "ans": [2]},
+        {"lyric": "Grippin’", "range": [90.13, 91.38], "ans": [6]},
+        {"lyric": "Budō o", "range": [90.76, 91.78], "ans": [2]},
+        {"lyric": "Eatin’", "range": [91.08, 92.45], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "雰囲気 (keep it) D style (rip it)",
+      "parts": [
+        {"lyric": "Fun’iki (", "range": [92.96, 93.81], "ans": [2]},
+        {"lyric": "Keep it", "range": [93.11, 94.79], "ans": [6]},
+        {"lyric": "D style (", "range": [94.13, 95.19], "ans": [2]},
+        {"lyric": "Rip it", "range": [94.49, 95.57], "ans": [6]}
+      ]
+    },
+    {"lyric": "Kono ba (kill it) let’ s steal it", "lyric_hangul": "この場 (kill it), let's steal it", "lyric_translation": "", "range": [95.57, 97.06], "ans": [2, 6]},
+    {"lyric": "[Suga/V] The illest", "lyric_hangul": "The illest", "lyric_translation": "", "range": [97.06, 97.75], "ans": []},
+    "",
+    {"lyric": "Ima, sekai no tobira no mae ni iru", "lyric_hangul": "今 世界の扉の前にいる", "lyric_translation": "", "range": [97.75, 100.23], "ans": [6]},
+    {"lyric": "Butai kara kikoeru kansei", "lyric_hangul": "舞台から聞こえる歓声", "lyric_translation": "", "range": [100.23, 103.44], "ans": [6]},
+    {"lyric": "Can’ t you see my stacked broken thyrsus", "lyric_hangul": "Can't you see my stacked, broken thyrsus?", "lyric_translation": "", "range": [103.44, 105.2], "ans": [7]},
+    {"lyric": "Yōyakunow umarekawaru aratani", "lyric_hangul": "ようやくnow 生まれ変わる新たに", "lyric_translation": "", "range": [105.2, 109.68], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "When the night comes, mumble, mumble, mumble",
+      "parts": [
+        {"lyric": "When the night comes", "range": [109.68, 110.74], "ans": [3]},
+        {"lyric": "Mumble mumble mumble", "range": [110.74, 112.12], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "When the night comes, tumble, tumble, tumble",
+      "parts": [
+        {"lyric": "When the night comes", "range": [112.12, 113.44], "ans": [3]},
+        {"lyric": "Tumble tumble tumble", "range": [113.44, 115.09], "ans": [3]}
+      ]
+    },
+    {"lyric": "Studio nobass joumu joumu joumu", "lyric_hangul": "Studioのbass ジョウム ジョウム ジョウム", "lyric_translation": "", "range": [115.09, 116.73], "ans": [3]},
+    {"lyric": "Bass drum goes like dondondon", "lyric_hangul": "Bass drum goes like ドンドンドン yeah", "lyric_translation": "", "range": [116.73, 120.04], "ans": [3]},
+    "",
+    {"lyric": "Hi noboru made where the party at", "lyric_hangul": "日昇るまで where the party at?", "lyric_translation": "", "range": [120.04, 122.91], "ans": [5]},
+    {"lyric": "Nemuru made oh where the party at", "lyric_hangul": "眠るまで oh where the party at?", "lyric_translation": "", "range": [122.91, 125.26], "ans": [5]},
+    {"lyric": "Sing it utai mata", "lyric_hangul": "Sing it 歌い また", "lyric_translation": "", "range": [125.26, 126.65], "ans": [4, 5]},
+    {"lyric": "Drink it nomi mata", "lyric_hangul": "Drink it 飲み また", "lyric_translation": "", "range": [126.65, 128.06], "ans": [4, 5]},
+    {"lyric": "Umarekawari", "lyric_hangul": "生まれ変わり", "lyric_translation": "", "range": [128.06, 130.43], "ans": [5]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "即 飲み干す（辛い記憶も）",
+      "parts": [
+        {"lyric": "Soku, nomihosu (", "range": [130.43, 132.19], "ans": [1]},
+        {"lyric": "Tsurai kioku mo", "range": [131.49, 132.85], "ans": [4]},
+        {"lyric": "Ikki ni (", "range": [132.15, 133.25], "ans": [1]},
+        {"lyric": "Jidai noroar", "range": [132.55, 133.96], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "即 飲み干す（自分と共存） 一気に (okay, now I'm ready for the show)",
+      "parts": [
+        {"lyric": "Soku, nomihosu (", "range": [135.33, 137.1], "ans": [1]},
+        {"lyric": "Jibun to kyōzon", "range": [136.4, 137.51], "ans": [4]},
+        {"lyric": "Ikki ni (", "range": [136.81, 138.47], "ans": [1]},
+        {"lyric": "Okay now I’ m ready fo sho", "range": [137.77, 141.74], "ans": [4]}
+      ]
+    },
+    {"lyric": "Sā, nomenomenomenome kono gurasu ay", "lyric_hangul": "さあ 飲め飲め飲め飲め このグラス ay", "lyric_translation": "", "range": [141.74, 144.4], "ans": [5]},
+    {"lyric": "Sā, yoeyoeyoe ima to your artist", "lyric_hangul": "さあ 酔え酔え酔え 今 to your artist", "lyric_translation": "", "range": [144.4, 147.91], "ans": [5]},
+    {"lyric": "Wan shotto (one shot) tsū shotto (two shots)", "lyric_hangul": "ワンショット (one shot) ツーショット (two shots)", "lyric_translation": "", "range": [147.91, 150.13], "ans": [7]},
+    {"lyric": "Agare now utae on heya", "lyric_hangul": "アガれ now 歌えオンヘヤ", "lyric_translation": "", "range": [150.13, 152.53], "ans": [7]},
+    "",
+    {"lyric": "Sā, nomenomenomenome kono gurasu ay", "lyric_hangul": "さあ 飲め飲め飲め飲め このグラス ayy", "lyric_translation": "", "range": [152.53, 155.39], "ans": [1]},
+    {"lyric": "Sā, yoeyoeyoe ima to your artist", "lyric_hangul": "さあ 酔え酔え酔え 今 to your artist", "lyric_translation": "", "range": [155.39, 158.91], "ans": [1]},
+    {"lyric": "Wan shotto (one shot) tsū shotto (two shots)", "lyric_hangul": "ワンショット (one shot) ツーショット (two shots)", "lyric_translation": "", "range": [158.91, 161.35], "ans": [7]},
+    {"lyric": "Nori na more uta e on heya", "lyric_hangul": "ノリな more 歌えオンヘヤ", "lyric_translation": "", "range": [161.35, 163.61], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "俺らが来たら世界のどこでも Stadium party, ayy",
+      "parts": [
+        {"lyric": "Ore-ra ga kitara sekai no doko de mo", "range": [163.61, 164.45], "ans": [2]},
+        {"lyric": "Stadium party ay", "range": [164.45, 166.69], "ans": [2]}
+      ]
+    },
+    {"lyric": "Kpop idol kara mata umarekawaru artist", "lyric_hangul": "K-pop idol からまた生まれ変わる artist, ayy", "lyric_translation": "", "range": [166.37, 169.36], "ans": [2]},
+    {"lyric": "Umarekawaru artist umarekawaru artist", "lyric_hangul": "生まれ変わる artist, ayy 生まれ変わる artist, ayy", "lyric_translation": "", "range": [169.36, 171.46], "ans": [2]},
+    {"lyric": "Aidoru de mo artist mo dō datte ī ay", "lyric_hangul": "アイドルでも artistもどうだっていい yeah", "lyric_translation": "", "range": [171.46, 174.69], "ans": [2]},
+    {"lyric": "Geijutsu no waku koetomaranai yeah", "lyric_hangul": "芸術の枠 超え止まらない yeah", "lyric_translation": "", "range": [174.69, 177.28], "ans": [2]},
+    {"lyric": "Tsugi nolevel jibun no tatakai yeah", "lyric_hangul": "次のlevel 自分の戦い yeah", "lyric_translation": "", "range": [177.28, 180.5], "ans": [2]},
+    {"lyric": "Shukuhai agete one more one shot", "lyric_hangul": "祝杯あげて one more, one shot", "lyric_translation": "", "range": [180.5, 182.19], "ans": [2]},
+    {"lyric": "More I want ima mo owannai", "lyric_hangul": "More I want 今も終わんない", "lyric_translation": "", "range": [182.19, 185.66], "ans": [2]},
+    {"lyric": "What", "lyric_hangul": "What?", "lyric_translation": "", "range": [185.66, 187.6], "ans": [2]},
+    "",
+    {"lyric": "Are you ready for this?", "lyric_hangul": "You ready for this?", "lyric_translation": "", "range": [187.6, 190.65], "ans": [4]},
+    {"lyric": "Are you ready to get hyped up?", "lyric_hangul": "Are you ready to get hyped up?", "lyric_translation": "", "range": [190.65, 193.35], "ans": [4]},
+    {"lyric": "Come on!", "lyric_hangul": "Come on, let's go!", "lyric_translation": "", "range": [193.35, 196.33], "ans": [4]},
+    "",
+    {"lyric": "Sā, nomenomenomenome kono gurasu ay", "lyric_hangul": "さあ 飲め飲め飲め飲め このグラス ayy", "lyric_translation": "", "range": [196.33, 199.0], "ans": [5, 7]},
+    {"lyric": "Sā, yoeyoeyoe ima to your artist", "lyric_hangul": "さあ 酔え酔え酔え 今 to your artist", "lyric_translation": "", "range": [199.0, 202.36], "ans": [5, 7]},
+    {"lyric": "Wan shotto (one shot) tsū shotto (two shots)", "lyric_hangul": "ワンショット (one shot) ツーショット (two shots)", "lyric_translation": "", "range": [202.36, 204.67], "ans": [6]},
+    {"lyric": "Agare now utae on heya", "lyric_hangul": "アガれ now 歌えオンヘヤ", "lyric_translation": "", "range": [204.67, 207.19], "ans": [6]},
+    "",
+    {"lyric": "Sā, nomenomenomenome kono gurasu ay", "lyric_hangul": "さあ 飲め飲め飲め飲め このグラス ayy", "lyric_translation": "", "range": [207.19, 209.84], "ans": [1]},
+    {"lyric": "Sā, yoeyoeyoe ima to your artist", "lyric_hangul": "さあ 酔え酔え酔え 今 to your artist", "lyric_translation": "", "range": [209.84, 213.3], "ans": [1]},
+    {"lyric": "Wan shotto (one shot) tsū shotto (two shots)", "lyric_hangul": "ワンショット (one shot) ツーショット (two shots)", "lyric_translation": "", "range": [213.3, 215.49], "ans": [6]},
+    {
+      "lyric_hangul": "ノリな more 歌えオンヘヤ",
+      "parts": [
+        {"lyric": "Nori na more uta e on heya", "range": [215.49, 216.62], "ans": [6]},
+        {"lyric": "Shukuhai (", "range": [215.93, 216.94], "ans": [4]},
+        {"lyric": "Sippin’", "range": [216.32, 216.99], "ans": [6]},
+        {"lyric": "Sugata (", "range": [216.99, 217.67], "ans": [4]},
+        {"lyric": "Tippin’", "range": [217.04, 217.99], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "テュルソス (grippin') ぶどうを (eatin')",
+      "parts": [
+        {"lyric": "Yurososu", "range": [220.56, 221.21], "ans": [4]},
+        {"lyric": "Grippin’", "range": [220.61, 221.7], "ans": [6]},
+        {"lyric": "Budō o (", "range": [221.1, 222.1], "ans": [4]},
+        {"lyric": "Eatin’", "range": [221.4, 222.63], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "雰囲気 (keep it) D style (rip it)",
+      "parts": [
+        {"lyric": "Fun’iki (", "range": [223.91, 224.66], "ans": [4]},
+        {"lyric": "Keep it", "range": [223.96, 225.6], "ans": [6]},
+        {"lyric": "D style (", "range": [224.9, 226.13], "ans": [4]},
+        {"lyric": "Rip it", "range": [225.43, 226.38], "ans": [6]}
+      ]
+    },
+    {"lyric": "Kono ba (kill it) let’ s steal it", "lyric_hangul": "この場 (kill it) let's steal it", "lyric_translation": "", "range": [226.22, 228.02], "ans": [4, 6]},
+    {
+      "lyric_hangul": "The illest",
+      "parts": [
+        {"lyric": "The illest", "range": [228.02, 228.7], "ans": [4, 6]},
+        {"lyric": "Shukuhai (", "range": [228.2, 228.75], "ans": [3]},
+        {"lyric": "Sippin’", "range": [228.75, 229.11], "ans": [6]},
+        {"lyric": "Sugata (", "range": [228.8, 229.31], "ans": [3]},
+        {"lyric": "Tippin’", "range": [228.85, 229.36], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "テュルソス (grippin') ぶどうを (eatin')",
+      "parts": [
+        {"lyric": "Yurososu", "range": [231.64, 232.44], "ans": [3]},
+        {"lyric": "Grippin’", "range": [231.74, 233.14], "ans": [6]},
+        {"lyric": "Budō o (", "range": [232.44, 233.72], "ans": [3]},
+        {"lyric": "Eatin’", "range": [233.02, 234.32], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "雰囲気 (keep it) D style (rip it)",
+      "parts": [
+        {"lyric": "Fun’iki", "range": [234.48, 235.13], "ans": [3]},
+        {"lyric": "Keep it", "range": [234.53, 236.39], "ans": [6]},
+        {"lyric": "D style (", "range": [235.7, 236.79], "ans": [3]},
+        {"lyric": "Rip it", "range": [236.09, 237.28], "ans": [6]}
+      ]
+    },
+    {"lyric": "Kono ba (kill it) let’ s steal it", "lyric_hangul": "この場 (kill it) let's steal it", "lyric_translation": "", "range": [236.97, 239.35], "ans": [3, 6]},
+    {"lyric": "The illest", "lyric_hangul": "The illest", "lyric_translation": "", "range": [239.35, 242.29], "ans": [3, 6]}
+  ]
+}

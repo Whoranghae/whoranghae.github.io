@@ -1,0 +1,115 @@
+{
+  "name": "It’s Definitely You (죽어도 너야)\r",
+  "ogg": "sound/kpop/its_definitely_you.ogg",
+  "id": "its-definitely-you",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-12-20",
+  "album": "Hwarang OST Part 2",
+  "cover": "css/images/covers/its-definitely-you.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:57Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ppigeodeok ppigeodeok geumi gan nae mame", "lyric_hangul": "삐거덕 삐거덕 금이 간 내 맘에", "lyric_translation": "In my cracked heart", "range": [9.58, 14.63], "ans": [6]},
+    {"lyric": "Sirin neoui hansumdeul", "lyric_hangul": "시린 너의 한숨들", "lyric_translation": "Your cold sighs", "range": [14.63, 19.56], "ans": [6]},
+    {"lyric": "Jogeumssik jogeumssik sideuneun kkotcheoreom", "lyric_hangul": "조금씩 조금씩 시드는 꽃처럼", "lyric_translation": "Like a slowly withering flower", "range": [19.56, 24.7], "ans": [1]},
+    {"lyric": "Simjangi naeryeoanja", "lyric_hangul": "심장이 내려앉아", "lyric_translation": "Fall onto my heart", "range": [24.7, 28.99], "ans": [1]},
+    "",
+    {"lyric": "Jugil nomui i sarang neo hana ttaeme", "lyric_hangul": "죽일 놈의 이 사랑 너 하나 땜에", "lyric_translation": "This damn love, because of you", "range": [28.99, 32.78], "ans": [6]},
+    {"lyric": "Dachyeodo meomchujil mothae", "lyric_hangul": "다쳐도 멈추질 못해", "lyric_translation": "I can’t move even if I’m hurt", "range": [32.78, 34.81], "ans": [6]},
+    {"lyric": "Jugeodo ojik naneun neoya", "lyric_hangul": "죽어도 오직 나는 너야", "lyric_translation": "Even if I die, it’s only you", "range": [34.81, 38.67], "ans": [6]},
+    {"lyric": "Nega eopsin gaseumeul gwantonghal nunmul", "lyric_hangul": "네가 없인 가슴을 관통할 눈물", "lyric_translation": "Without you, tears fill up my heart", "range": [38.67, 42.4], "ans": [1]},
+    {"lyric": "Tteoreojil geomeun jiokppun", "lyric_hangul": "떨어질 검은 지옥뿐", "lyric_translation": "It’s just black hell", "range": [42.4, 45.25], "ans": [1]},
+    {"lyric": "Naege neon geureon jonjaeya", "lyric_hangul": "나에게 넌 그런 존재야", "lyric_translation": "To me, that’s who you are", "range": [45.25, 48.94], "ans": [1]},
+    "",
+    {"lyric": "Nareul tteonagaji ma", "lyric_hangul": "나를 떠나가지 마", "lyric_translation": "Don’t leave me", "range": [48.94, 51.55], "ans": [6]},
+    {"lyric": "Nareul namgyeoduji ma", "lyric_hangul": "나를 남겨두지 마", "lyric_translation": "Don’t leave me here", "range": [51.55, 53.97], "ans": [6]},
+    {"lyric": "Doraseon ne mame balgireul naege dollyeojwo", "lyric_hangul": "돌아선 네 맘에 발길을 나에게 돌려줘", "lyric_translation": "Turn the footsteps of your heart back to me", "range": [53.97, 59.07], "ans": [6]},
+    {"lyric": "Ganjeolhan neoreul wonhae moksum geon jeonbuya", "lyric_hangul": "간절한 너를 원해 목숨 건 전부야", "lyric_translation": "I really want you, I put my life on the line", "range": [59.07, 64.04], "ans": [1]},
+    {"lyric": "Heuteojyeobeorin bit sogeuro nal deryeoga jwo", "lyric_hangul": "흩어져버린 빛 속으로 날 데려가 줘", "lyric_translation": "Take me into the scattered light", "range": [64.04, 68.47], "ans": [1]},
+    {"lyric": "Jeosesang kkeutkkaji na na na na na na", "lyric_hangul": "저세상 끝까지 Na na na na na na", "lyric_translation": "To the end of the world na na na na na na", "range": [68.47, 74.38], "ans": [1]},
+    {
+      "lyric_hangul": "It's gonna be you Na na na na na na",
+      "lyric_translation": "It’s gonna be you na na na na na na",
+      "parts": [
+        {"lyric": "It’s gonna be you", "range": [74.38, 75.94], "ans": [6]},
+        {"lyric": "Na na na na na na", "range": [76.92, 79.33], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "It's gonna be you Na na na na na na",
+      "lyric_translation": "It’s gonna be you na na na na na na",
+      "parts": [
+        {"lyric": "It’s gonna be you", "range": [79.33, 81.01], "ans": [6]},
+        {"lyric": "Na na na na na na", "range": [82.05, 84.46], "ans": [1]}
+      ]
+    },
+    {"lyric": "Wo eoeoeo I can‘t let go", "lyric_hangul": "워 어어어 I can't let go", "lyric_translation": "I can‘t let go", "range": [84.46, 90.6], "ans": [6]},
+    "",
+    {"lyric": "Haneure matgyeotdeon nae unmyeongui yeolsoeneun", "lyric_hangul": "하늘에 맡겼던 내 운명의 열쇠는", "lyric_translation": "The key of my fate that I gave to the sky", "range": [98.07, 103.12], "ans": [6]},
+    {"lyric": "Dasi naui sonane", "lyric_hangul": "다시 나의 손안에", "lyric_translation": "It’s in my hands again", "range": [103.12, 107.9], "ans": [6]},
+    {"lyric": "Gin sumeul samkigo yeonghoneul bultaewo", "lyric_hangul": "긴 숨을 삼키고 영혼을 불태워", "lyric_translation": "I swallow in a long sigh and burn up my soul", "range": [107.9, 113.1], "ans": [1]},
+    {"lyric": "Neoreul chajiharyeo hae", "lyric_hangul": "너를 차지하려 해", "lyric_translation": "So I can have you", "range": [113.1, 117.23], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Jugil nomui i sarang neo hana ttaeme", "lyric_hangul": "죽일 놈의 이 사랑", "lyric_translation": "This damn love, because of you", "range": [117.23, 119.83], "ans": [6]},
+    {"lyric": "Apado pogireul mothae", "lyric_hangul": "너 하나 땜에 아파도 포기를 못해", "lyric_translation": "I can’t quit even if I’m hurt", "range": [119.83, 123.46], "ans": [6]},
+    {"lyric": "Jugeodo ojik naneun neoya", "lyric_hangul": "죽어도 오직 나는 너야", "lyric_translation": "Even if I die, it’s only you", "range": [123.46, 127.46], "ans": [6]},
+    {"lyric": "Nega eopsin nan pido nunmuldo eopneun", "lyric_hangul": "네가 없인 난 피도 눈물도 없는", "lyric_translation": "Without you, I have no blood or tears", "range": [127.46, 131.01], "ans": [1]},
+    {"lyric": "Wiheomhan geurimjail ppun", "lyric_hangul": "위험한 그림자일 뿐", "lyric_translation": "I become a dangerous shadow", "range": [131.01, 133.69], "ans": [1]},
+    {"lyric": "Naege neon geureon jonjaeya", "lyric_hangul": "나에게 넌 그런 존재야", "lyric_translation": "To me, that’s who you are", "range": [133.69, 137.43], "ans": [1]},
+    "",
+    {"lyric": "Nareul tteonagaji ma", "lyric_hangul": "나를 떠나가지 마", "lyric_translation": "Don’t leave me", "range": [137.43, 139.92], "ans": [6]},
+    {"lyric": "Nareul namgyeoduji ma", "lyric_hangul": "나를 남겨두지 마", "lyric_translation": "Don’t leave me here", "range": [139.92, 142.47], "ans": [6]},
+    {"lyric": "Doraseon ne mame balgireul naege dollyeojwo", "lyric_hangul": "돌아선 네 맘에 발길을 나에게 돌려줘", "lyric_translation": "Turn the footsteps of your heart back to me", "range": [142.47, 147.42], "ans": [6]},
+    {"lyric": "Ganjeolhan neoreul wonhae moksum geon jeonbuya", "lyric_hangul": "간절한 너를 원해 목숨 건 전부야", "lyric_translation": "I really want you, I put my life on the line", "range": [147.42, 152.53], "ans": [1]},
+    {"lyric": "Heuteojyeobeorin bit sogeuro nal deryeoga jwo", "lyric_hangul": "흩어져버린 빛 속으로 날 데려가 줘", "lyric_translation": "Take me into the scattered light", "range": [152.53, 156.84], "ans": [1]},
+    {"lyric": "Jeosesang kkeutkkaji na na na na na na", "lyric_hangul": "저세상 끝까지 Na na na na na na", "lyric_translation": "To the end of the world na na na na na na", "range": [156.84, 162.89], "ans": [1]},
+    {
+      "lyric_hangul": "It's gonna be you Na na na na na na",
+      "lyric_translation": "It’s gonna be you na na na na na na",
+      "parts": [
+        {"lyric": "It’s gonna be you", "range": [162.89, 164.41], "ans": [6]},
+        {"lyric": "Na na na na na na", "range": [165.49, 167.99], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "It's gonna be you Na na na na na na",
+      "lyric_translation": "It’s gonna be you na na na na na na",
+      "parts": [
+        {"lyric": "It’s gonna be you", "range": [167.99, 169.43], "ans": [6]},
+        {"lyric": "Na na na na na na", "range": [170.45, 172.96], "ans": [1]}
+      ]
+    },
+    {"lyric": "Wo eoeoeo I can‘t let go", "lyric_hangul": "워 어어어 I can't let go", "lyric_translation": "I can‘t let go", "range": [172.96, 178.04], "ans": [1]},
+    "",
+    {"lyric": "Nal bachyeo neol jikilge", "lyric_hangul": "날 바쳐 널 지킬게", "lyric_translation": "I’ll sacrifice myself to protect you", "range": [178.04, 180.34], "ans": [6]},
+    {"lyric": "Boran deusi haebolge", "lyric_hangul": "보란 듯이 해볼게", "lyric_translation": "I’ll do it obviously", "range": [180.34, 183.02], "ans": [6]},
+    {"lyric": "Nan jigeum i wigireul gihoero sameuryeogo hae", "lyric_hangul": "난 지금 이 위기를 기회로 삼으려고 해", "lyric_translation": "I will make this crisis into an opportunity", "range": [183.02, 188.07], "ans": [6]},
+    {"lyric": "Neon nae choegoui seontaek nareul makjin mothae", "lyric_hangul": "넌 내 최고의 선택 나를 막진 못해", "lyric_translation": "You are my best decision, nothing can stop me", "range": [188.07, 192.98], "ans": [1]},
+    {"lyric": "Heuteojyeobeorin bit sogeuro nal deryeoga jwo", "lyric_hangul": "흩어져버린 빛 속으로 날 데려가 줘", "lyric_translation": "Take me into the scattered light", "range": [192.98, 197.1], "ans": [1]},
+    {"lyric": "Jeosesang kkeutkkaji na na na na na na", "lyric_hangul": "저세상 끝까지 Na na na na na na", "lyric_translation": "To the end of the world na na na na na na", "range": [197.1, 203.1], "ans": [1]},
+    {
+      "lyric_hangul": "It's gonna be you Na na na na na na",
+      "lyric_translation": "It’s gonna be you na na na na na na",
+      "parts": [
+        {"lyric": "It’s gonna be you", "range": [203.1, 204.8], "ans": [6]},
+        {"lyric": "Na na na na na na", "range": [205.91, 208.26], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "It's gonna be you Na na na na na na",
+      "lyric_translation": "It’s gonna be you na na na na na na",
+      "parts": [
+        {"lyric": "It’s gonna be you", "range": [208.26, 209.86], "ans": [6]},
+        {"lyric": "Na na na na na na", "range": [210.88, 213.37], "ans": [1]}
+      ]
+    },
+    {"lyric": "Wo eoeoeo I can‘t let go", "lyric_hangul": "워 어어어 I can't let go", "lyric_translation": "I can‘t let go", "range": [213.37, 218.49], "ans": [6]},
+    "",
+    {"lyric": "Na na na na na na", "lyric_hangul": "Na na na na na na", "lyric_translation": "Na na na na na na", "range": [218.49, 221.18], "ans": [1]},
+    {"lyric": "Na na na na na na", "lyric_hangul": "Na na na na na na", "lyric_translation": "Na na na na na na", "range": [221.18, 224.29], "ans": [1]}
+  ]
+}

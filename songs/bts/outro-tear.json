@@ -1,0 +1,192 @@
+{
+  "name": "Outro: Tear\r",
+  "ogg": "sound/kpop/outro_tear.ogg",
+  "id": "outro-tear",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/outro-tear.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ibyeoreun naege tieo", "lyric_hangul": "이별은 내게 티어", "lyric_translation": "Goodbyes open up to me", "range": [42.48, 43.59], "ans": [4]},
+    {"lyric": "Nado moreuge nae nunga wie pieo", "lyric_hangul": "나도 모르게 내 눈가 위에 피어", "lyric_translation": "Without knowing, blood comes into my eyes", "range": [43.59, 45.12], "ans": [4]},
+    {"lyric": "Chae naebaetji mothan yaegideuri heureugo", "lyric_hangul": "채 내뱉지 못한 얘기들이 흐르고", "lyric_translation": "Things I can’t say flow through", "range": [45.12, 47.13], "ans": [4]},
+    {"lyric": "Miryeoni naye eolgul wireul gieo", "lyric_hangul": "미련이 나의 얼굴 위를 기어", "lyric_translation": "Lingering feelings crawl on top of my face", "range": [47.13, 48.73], "ans": [4]},
+    {"lyric": "Naege neon hanttaeneun naye dear", "lyric_hangul": "내게 넌 한때는 나의 dear", "lyric_translation": "At one point, you were my dear", "range": [48.73, 50.03], "ans": [4]},
+    {"lyric": "Hajiman ijen sseugiman han beer", "lyric_hangul": "하지만 이젠 쓰기만 한 beer", "lyric_translation": "But now, it’s just bitter, this beer", "range": [50.03, 51.94], "ans": [4]},
+    {"lyric": "Ttaeneujeun jagihyeomoro eollukjin shimjangeun", "lyric_hangul": "때늦은 자기혐오로 얼룩진 심장은", "lyric_translation": "My heart is stained with self-hate that’s too late", "range": [51.94, 53.8], "ans": [4]},
+    {"lyric": "Seuchineun jeo baramedo bieo", "lyric_hangul": "스치는 저 바람에도 비어", "lyric_translation": "It gets cut even by the passing wind", "range": [53.8, 55.69], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "Ay 이별은 거짓뿐이던 나의 연극 끝에",
+      "lyric_translation": "This goodbye came to me at the end of my play / That was only filled with lies",
+      "parts": [
+        {"lyric": "Ibyeoreun geojitppunideon", "range": [55.69, 57.59], "ans": [4]},
+        {"lyric": "Naye yeongeuk kkeute", "range": [57.59, 58.33], "ans": [4]}
+      ]
+    },
+    {"lyric": "Ogoya maratteon naye daetga", "lyric_hangul": "오고야 말았던 나의 댓가 Uh", "lyric_translation": "That’s the price I’ll pay", "range": [57.83, 59.38], "ans": [4]},
+    {"lyric": "Nugunga shiganeul dwedollyeojundamyeon", "lyric_hangul": "누군가 시간을 되돌려준다면", "lyric_translation": "If someone could turn time back", "range": [59.38, 61.05], "ans": [4]},
+    {"lyric": "Eojjeom naega jom deo soljikhal su isseosseulkka", "lyric_hangul": "어쩜 내가 좀 더 솔직할 수 있었을까 Uh", "lyric_translation": "Maybe I could’ve become more honest", "range": [61.05, 63.1], "ans": [4]},
+    {"lyric": "Naman aneun naye geu maeneolguldo", "lyric_hangul": "나만 아는 나의 그 맨얼굴도", "lyric_translation": "With my bare face that only I know of", "range": [63.1, 64.39], "ans": [4]},
+    {
+      "lyric_hangul": "추하고 초라한 내 안의 오랜 벗들도",
+      "lyric_translation": "With my long-time friends inside / that are ugly and miserable",
+      "parts": [
+        {"lyric": "Chuhago chorahan nae", "range": [64.39, 65.61], "ans": [4]},
+        {"lyric": "Ane oraen beotteuldo", "range": [65.61, 66.49], "ans": [4]}
+      ]
+    },
+    {"lyric": "Nareul bodeon geu misoro yeojeonhi neon nareul", "lyric_hangul": "나를 보던 그 미소로 여전히 넌 나를", "lyric_translation": "Would you have still put on that smile", "range": [66.37, 67.69], "ans": [4]},
+    {"lyric": "Geureoke tto saranghaejul su isseosseulkka", "lyric_hangul": "그렇게 또 사랑해줄 수 있었을까 Ay", "lyric_translation": "And loved me like that?", "range": [67.69, 69.99], "ans": [4]},
+    {"lyric": "Yeongweon yeongweon gateun sori jom geumanhae", "lyric_hangul": "영원 영원 같은 소리 좀 그만해", "lyric_translation": "Stop talking about forever", "range": [69.99, 71.27], "ans": [4]},
+    {"lyric": "Eochapi wollae kkeuteun itneun geojana", "lyric_hangul": "어차피 원래 끝은 있는 거잖아", "lyric_translation": "There’s always an end to everything", "range": [71.27, 72.94], "ans": [4]},
+    {
+      "lyric_hangul": "시작이 있다면 I don't wanna listen to that",
+      "lyric_translation": "If there’s a start / I don’t wanna listen to that",
+      "parts": [
+        {"lyric": "Shijagi ittamyeon", "range": [72.94, 73.72], "ans": [4]},
+        {"lyric": "I don’t wanna listen to that", "range": [73.72, 74.64], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "너무 맞는 소리 혹은 너무 많은 위로 I don't wanna listen to that",
+      "lyric_translation": "Things that are too right or too much comfort / I don’t wanna listen to that",
+      "parts": [
+        {"lyric": "Neomu matneun sori hogeun neomu maneun wiro", "range": [74.42, 76.33], "ans": [4]},
+        {"lyric": "I don’t wanna listen to that", "range": [76.33, 77.19], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geunyang neomu museowosseo", "lyric_hangul": "그냥 너무 무서웠어", "lyric_translation": "I was just so scared", "range": [76.75, 77.9], "ans": [4]},
+    {
+      "lyric_hangul": "어쩜 내가 너를 사랑했던 적이 아예 없는 것 같아서",
+      "lyric_translation": "Because it felt like maybe / I never really loved you",
+      "parts": [
+        {"lyric": "Eojjeom naega neoreul saranghaetteon", "range": [77.9, 79.26], "ans": [4]},
+        {"lyric": "Jeogi aye eopneun geot gataseo", "range": [79.26, 80.32], "ans": [4]}
+      ]
+    },
+    {"lyric": "Neujeotjiman neon jinshilhaettago", "lyric_hangul": "늦었지만 넌 진실했다고", "lyric_translation": "It’s too late but you were true", "range": [79.99, 81.37], "ans": [4]},
+    {
+      "lyric_hangul": "너만 나를 사랑했다고 더",
+      "lyric_translation": "Only you loved me / More",
+      "parts": [
+        {"lyric": "Neoman nareul saranghaettago", "range": [81.37, 83.27], "ans": [4]},
+        {"lyric": "Deo", "range": [83.18, 83.74], "ans": [4]}
+      ]
+    },
+    {"lyric": "You’re my tear", "lyric_hangul": "You're my tear", "lyric_translation": "You’re my tear", "range": [83.74, 85.68], "ans": [4]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (yeah)", "lyric_translation": "You’re my you’re my tear", "range": [85.68, 87.32], "ans": [4]},
+    {"lyric": "You’re my tear", "lyric_hangul": "You're my tear", "lyric_translation": "You’re my tear", "range": [87.32, 89.05], "ans": [4]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (yeah)", "lyric_translation": "You’re my you’re my tear", "range": [89.05, 90.66], "ans": [4]},
+    {"lyric": "You’re my tear", "lyric_hangul": "You're my tear", "lyric_translation": "You’re my tear", "range": [90.66, 92.31], "ans": [4]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (yeah)", "lyric_translation": "You’re my you’re my tear", "range": [92.31, 94.73], "ans": [4]},
+    {"lyric": "What more can I say?", "lyric_hangul": "What more can I say?", "lyric_translation": "What more can I say?", "range": [94.73, 96.25], "ans": [4]},
+    {"lyric": "You’re my tear", "lyric_hangul": "You're my tear", "lyric_translation": "You’re my tear", "range": [96.25, 98.93], "ans": [4]},
+    "",
+    {"lyric": "Gateun goseul hyanghae georeosseotneunde", "lyric_hangul": "같은 곳을 향해 걸었었는데요", "lyric_translation": "We walked in the same direction", "range": [98.93, 102.28], "ans": [3]},
+    {"lyric": "Igoshi uriye majimagi dwae", "lyric_hangul": "이곳이 우리의 마지막이 돼요", "lyric_translation": "But this place is our last", "range": [102.28, 105.74], "ans": [3]},
+    {"lyric": "Yeongweoneul malhadeon uriyeotneunde", "lyric_hangul": "영원을 말하던 우리였는데요", "lyric_translation": "We used to talk about forever", "range": [105.74, 109.09], "ans": [3]},
+    {"lyric": "Gachaeopshi seororeul busune", "lyric_hangul": "가차없이 서로를 부수네요", "lyric_translation": "But we’re breaking each other down", "range": [109.09, 112.92], "ans": [3]},
+    {"lyric": "Gateun kkumeul kkwotta saenggakhaetneunde", "lyric_hangul": "같은 꿈을 꿨다 생각했는데", "lyric_translation": "I thought we had the same dream", "range": [112.92, 116.14], "ans": [2]},
+    {"lyric": "Geu kkumeun biroso kkumi dweeotne", "lyric_hangul": "그 꿈은 비로소 꿈이 되었네", "lyric_translation": "But that dream became just a dream", "range": [116.14, 117.98], "ans": [2]},
+    {"lyric": "Shimjangi jjitgyeojyeo charari bul taewojwo", "lyric_hangul": "심장이 찢겨져 차라리 불 태워줘", "lyric_translation": "My heart is ripping, just set it on fire", "range": [117.98, 120.94], "ans": [2]},
+    {"lyric": "Gotonggwa miryeon geu mueotto namji ankekkeum", "lyric_hangul": "고통과 미련 그 무엇도 남지 않게끔", "lyric_translation": "So the pain and the feelings won’t remain", "range": [120.94, 125.03], "ans": [2]},
+    "",
+    {"lyric": "You’re my tear", "lyric_hangul": "(Oh!) You're my tear", "lyric_translation": "You’re my tear", "range": [125.03, 126.59], "ans": [4]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (Ay yeah!)", "lyric_translation": "You’re my you’re my tear", "range": [126.59, 128.38], "ans": [4]},
+    {"lyric": "You’re my tear", "lyric_hangul": "You're my tear", "lyric_translation": "You’re my tear", "range": [128.38, 130.12], "ans": [2]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (Ay yeah!)", "lyric_translation": "You’re my you’re my tear", "range": [130.12, 131.75], "ans": [2]},
+    {"lyric": "You’re my fear", "lyric_hangul": "You're my fear", "lyric_translation": "You’re my fear", "range": [131.75, 133.47], "ans": [3]},
+    {"lyric": "You’re my you’re my fear", "lyric_hangul": "You're my, you're my fear (Ay yeah!)", "lyric_translation": "You’re my you’re my fear", "range": [133.47, 135.4], "ans": [3]},
+    {"lyric": "What more can I say?", "lyric_hangul": "What more can I say?", "lyric_translation": "What more can I say?", "range": [135.4, 137.31], "ans": [4]},
+    {"lyric": "You’re my", "lyric_hangul": "You're my -", "lyric_translation": "You’re my", "range": [137.31, 140.71], "ans": [3]},
+    "",
+    {"lyric": "Ibyeoreun naege T.E.A.R", "lyric_hangul": "Yeah 이별은 내게 T.E.A.R", "lyric_translation": "Goodbyes are T.E.A.R", "range": [140.71, 144.84], "ans": [2]},
+    {"lyric": "Nunmul ttawineun sachinikka", "lyric_hangul": "눈물 따위는 사치니까", "lyric_translation": "Tears are an extravagance to me", "range": [144.84, 148.46], "ans": [2]},
+    {"lyric": "Areumdaun ibyeol ttawineun", "lyric_hangul": "아름다운 이별 따위는", "lyric_translation": "There’s no such thing as beautiful goodbyes", "range": [148.46, 151.62], "ans": [2]},
+    {"lyric": "Eopseulteni ije shijakhaejwo", "lyric_hangul": "없을테니 이제 시작해줘", "lyric_translation": "So just begin now", "range": [151.62, 154.42], "ans": [2]},
+    {"lyric": "Woo take it easy cheoncheonhi shimjangeul doryeojwo", "lyric_hangul": "Woo take it easy 천천히 심장을 도려줘 (woo)", "lyric_translation": "Woo take it easy, slowly cut out my heart", "range": [154.42, 157.56], "ans": [2]},
+    {
+      "lyric_hangul": "그래그래 조각이 나버린 파편 위를 즈려밟아줘 (ay)",
+      "lyric_translation": "Step on the pieces / that were broken apart",
+      "parts": [
+        {"lyric": "Geuraegeurae jogagi", "range": [157.56, 158.88], "ans": [2]},
+        {"lyric": "Nabeorin papyeon wireul jeuryeobalbajwo", "range": [158.88, 161.06], "ans": [2]}
+      ]
+    },
+    {"lyric": "Miryeon, miryeon geuttan ge deoneun namji anke", "lyric_hangul": "미련, 미련 그딴 게 더는 남지 않게 (shit)", "lyric_translation": "So no other feelings will remain", "range": [160.53, 163.77], "ans": [2]},
+    {
+      "lyric_hangul": "갈기갈기 찢어발겨버린 내 심장을 싹 불태워줘",
+      "lyric_translation": "My heart’s shredded into pieces, / just set it on fire",
+      "parts": [
+        {"lyric": "Galgigalgi jjijeobalgyeobeorin nae shimjangeul", "range": [163.77, 166.71], "ans": [2]},
+        {"lyric": "Ssak bultaewojwo", "range": [166.71, 167.65], "ans": [2]}
+      ]
+    },
+    {"lyric": "Olchi geurae geogiya mwol mangseorini", "lyric_hangul": "Ay 옳지 그래 거기야 뭘 망설이니", "lyric_translation": "Yes, right there, don’t hesitate", "range": [167.62, 170.73], "ans": [2]},
+    {"lyric": "Niga wonhadeon geu gyeolmarini", "lyric_hangul": "니가 원하던 그 결말이니", "lyric_translation": "This is the ending that you wanted", "range": [170.73, 172.53], "ans": [2]},
+    {"lyric": "Mangseorim eopshi eoseo jugyeojugil", "lyric_hangul": "망설임 없이 어서 죽여주길", "lyric_translation": "So kill me without hesitation", "range": [172.53, 174.6], "ans": [2]},
+    {"lyric": "Woo yeah yeah burn it", "lyric_hangul": "Ay, yeah yeah burn it", "lyric_translation": "Woo yeah yeah burn it", "range": [174.6, 176.31], "ans": [2]},
+    {"lyric": "Woo yeah yeah yeah burn it", "lyric_hangul": "Ay, yeah yeah yeah burn it", "lyric_translation": "Woo yeah yeah yeah burn it", "range": [176.31, 178.25], "ans": [2]},
+    {"lyric": "Woo yeah yeah yeah burn it", "lyric_hangul": "Ay, yeah yeah yeah burn it", "lyric_translation": "Woo yeah yeah yeah burn it", "range": [178.25, 179.65], "ans": [2]},
+    {"lyric": "Tabeorin jaemajeo namji anke", "lyric_hangul": "타버린 재마저 남지 않게", "lyric_translation": "So not even the ashes remain", "range": [179.65, 182.09], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Ige jinjja neogo ige jinjja naya", "lyric_hangul": "이게 진짜 너고 이게 진짜 나야", "lyric_translation": "This is the real you and this is the real me", "range": [182.09, 185.37], "ans": [2]},
+    {"lyric": "Ijen kkeuteul bwatgo wonmangdo an nama", "lyric_hangul": "이젠 끝을 봤고 원망도 안 남아", "lyric_translation": "We saw the end, there’s no more resentment", "range": [185.37, 188.88], "ans": [2]},
+    {"lyric": "Daldeon kkumeun kkaetgo naneun nuneul gama", "lyric_hangul": "달던 꿈은 깼고 나는 눈을 감아", "lyric_translation": "The sweet dream has broken, I closed my eyes", "range": [188.88, 192.38], "ans": [2]},
+    {"lyric": "Ige jinjja neogo ige jinjja naya", "lyric_hangul": "이게 진짜 너고 이게 진짜 나야", "lyric_translation": "This is the real you and this is the real me", "range": [192.38, 196.6], "ans": [2]},
+    "",
+    {"lyric": "Gateun goseul hyanghae georeosseotneunde", "lyric_hangul": "같은 곳을 향해 걸었었는데", "lyric_translation": "We walked in the same direction", "range": [196.6, 200.03], "ans": [4]},
+    {"lyric": "Igoshi uriye majimagi dwae", "lyric_hangul": "이 곳이 우리의 마지막이 돼", "lyric_translation": "But this place is our last", "range": [200.03, 203.47], "ans": [4]},
+    {"lyric": "Yeongweoneul malhadeon uriyeotneunde", "lyric_hangul": "영원을 말하던 우리였는데", "lyric_translation": "We used to talk about forever", "range": [203.47, 206.86], "ans": [4]},
+    {"lyric": "Gachaeopshi seororeul busune", "lyric_hangul": "가차없이 서로를 부수네", "lyric_translation": "But we’re breaking each other down", "range": [206.86, 210.46], "ans": [4]},
+    {"lyric": "Gateun kkumeul kkwotta saenggakhaetneunde", "lyric_hangul": "같은 꿈을 꿨다 생각했는데", "lyric_translation": "I thought we had the same dream", "range": [210.46, 213.81], "ans": [2]},
+    {"lyric": "Geu kkumeun biroso kkumi dweeotne", "lyric_hangul": "그 꿈은 비로소 꿈이 되었네", "lyric_translation": "But that dream became just a dream", "range": [213.81, 215.54], "ans": [2]},
+    {"lyric": "Shimjangi jjitgyeojyeo charari bul taewojwo", "lyric_hangul": "심장이 찢겨져 차라리 불 태워줘", "lyric_translation": "My heart is ripping, just set it on fire", "range": [215.54, 218.92], "ans": [2]},
+    {"lyric": "Gotonggwa miryeon geu mueotto namji ankekkeum", "lyric_hangul": "고통과 미련 그 무엇도 남지 않게끔", "lyric_translation": "So the pain and the feelings won’t remain", "range": [218.92, 222.99], "ans": [2]},
+    "",
+    {"lyric": "You’re my tear", "lyric_hangul": "(Oh!) You're my tear", "lyric_translation": "You’re my tear", "range": [222.99, 224.37], "ans": [4]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (Ay-yeah!)", "lyric_translation": "You’re my you’re my tear", "range": [224.37, 226.25], "ans": [4]},
+    {"lyric": "You’re my tear", "lyric_hangul": "You're my tear", "lyric_translation": "You’re my tear", "range": [226.25, 227.82], "ans": [2]},
+    {"lyric": "You’re my you’re my tear", "lyric_hangul": "You're my, you're my tear (Ay- yeah!)", "lyric_translation": "You’re my you’re my tear", "range": [227.82, 229.73], "ans": [2]},
+    {"lyric": "You’re my fear", "lyric_hangul": "You're my fear", "lyric_translation": "You’re my fear", "range": [229.73, 231.27], "ans": [3]},
+    {"lyric": "You’re my you’re my fear", "lyric_hangul": "You're my, you're my fear (Ay- yeah!)", "lyric_translation": "You’re my you’re my fear", "range": [231.27, 233.19], "ans": [3]},
+    {"lyric": "What more can I say?", "lyric_hangul": "What more can I say?", "lyric_translation": "What more can I say?", "range": [233.19, 235.19], "ans": [4]},
+    {"lyric": "You’re my", "lyric_hangul": "You're my -", "lyric_translation": "You’re my", "range": [235.19, 237.31], "ans": [4]},
+    "",
+    {"lyric": "Eotteon mareul haeya halji", "lyric_hangul": "어떤 말을 해야 할지", "lyric_translation": "What can I say?", "range": [237.31, 241.48], "ans": [2]},
+    {"lyric": "Urineun algo itji", "lyric_hangul": "우리는 알고 있지", "lyric_translation": "We already know", "range": [241.48, 244.77], "ans": [2]},
+    {"lyric": "Jeongdabeun jeonghae itneunde", "lyric_hangul": "정답은 정해 있는데", "lyric_translation": "The answer is here", "range": [244.77, 248.29], "ans": [2]},
+    {"lyric": "Neul daedabeun eoryeobji", "lyric_hangul": "늘 대답은 어렵지", "lyric_translation": "But it’s so hard", "range": [248.29, 250.21], "ans": [2]},
+    "",
+    {"lyric": "Wae heullineunji", "lyric_hangul": "(Woo!) 왜 흘리는지", "lyric_translation": "Why are tears falling", "range": [250.21, 252.48], "ans": [3]},
+    {"lyric": "Wae jjijeobeorineunji", "lyric_hangul": "(Woo!) 왜 찢어버리는지", "lyric_translation": "Why is my heart ripping?", "range": [252.48, 253.72], "ans": [3]},
+    {"lyric": "Soyongeopseo naegeneun", "lyric_hangul": "(Woo!) 소용없어 내게는", "lyric_translation": "It’s no use to me", "range": [253.72, 255.29], "ans": [3]},
+    {"lyric": "Ibyeoreun naegen geu sungandeulppun (flashback)", "lyric_hangul": "이별은 내겐 그 순간들뿐 (Flashback)", "lyric_translation": "Goodbyes are just momentary (flashback)", "range": [255.29, 256.77], "ans": [3]},
+    {"lyric": "Ne ibeseo mareul haneun sungan", "lyric_hangul": "네 입에서 말을 하는 순간", "lyric_translation": "The moment you said it", "range": [256.77, 257.92], "ans": [3]},
+    {"lyric": "Uriye chojeomi bulgyuchikhaejineun sungan", "lyric_hangul": "우리의 초점이 불규칙해지는 순간", "lyric_translation": "The moment our start has become irregular", "range": [257.92, 259.63], "ans": [3]},
+    {"lyric": "Modeun ge wiheomhan sungane", "lyric_hangul": "모든 게 위험한 순간에", "lyric_translation": "The moment everything became dangerous", "range": [259.63, 261.05], "ans": [3]},
+    {"lyric": "Du geuljaga jun uriye kkeut", "lyric_hangul": "두 글자가 준 우리의 끝", "lyric_translation": "Those two words became our end", "range": [261.05, 263.2], "ans": [3]},
+    {"lyric": "An ul geol an jjijeul geol", "lyric_hangul": "안 울 걸걸걸 안 찢을 걸걸걸", "lyric_translation": "I shouldn’t have cried, shouldn’t have been torn apart", "range": [263.2, 266.21], "ans": [3]},
+    {"lyric": "Geureon mareun mot handago apeuro nado", "lyric_hangul": "그런 말은 못 한다고 앞으로 나도", "lyric_translation": "I couldn’t say any of that", "range": [266.21, 268.34], "ans": [3]},
+    {"lyric": "Ibyeol bulchibyeong", "lyric_hangul": "이별 불치병 (병, 병, 병)", "lyric_translation": "But from now on, I have an incurable disease", "range": [268.34, 270.02], "ans": [3]},
+    {"lyric": "Neon nae shijakgwa kkeut that is all", "lyric_hangul": "넌 내 시작과 끝, That is all", "lyric_translation": "You’re my start and my end, that is all", "range": [270.02, 272.04], "ans": [3]},
+    {"lyric": "Naye mannamgwa naye ibyeol", "lyric_hangul": "나의 만남과 나의 이별", "lyric_translation": "My new encounter and my goodbye", "range": [272.04, 273.62], "ans": [3]},
+    {"lyric": "Jeonbuyeosseo apeuro ga fear", "lyric_hangul": "전부였어 앞으로 가 fear", "lyric_translation": "You were my everything, keep going forward fear", "range": [273.62, 275.37], "ans": [3]},
+    {
+      "lyric_hangul": "반복될 거야 너로 인한 tear",
+      "lyric_translation": "It’ll keep repeating, through you / Tear",
+      "parts": [
+        {"lyric": "Banbokdwel geoya neoro inhan", "range": [275.37, 276.45], "ans": [3]},
+        {"lyric": "Tear", "range": [276.45, 277.22], "ans": [3]}
+      ]
+    },
+    {"lyric": "Tear", "lyric_hangul": "Tear", "lyric_translation": "Tear", "range": [277.22, 279.56], "ans": [3]}
+  ]
+}

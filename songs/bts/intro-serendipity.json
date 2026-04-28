@@ -1,0 +1,72 @@
+{
+  "name": "Intro: Serendipity\r",
+  "ogg": "sound/kpop/intro_serendipity.ogg",
+  "id": "intro-serendipity",
+  "group": "bts",
+  "language": "ko",
+  "released": "2017-09-18",
+  "album": "LOVE YOURSELF 承 ‘Her’",
+  "cover": "css/images/covers/intro-serendipity.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:55Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I modeun geon uyeoni anya", "lyric_hangul": "이 모든건 우연이 아냐", "lyric_translation": "None of this is a coincidence", "range": [2.61, 6.43], "ans": [5]},
+    {"lyric": "Geunyang geunyang naye neukkimeuro", "lyric_hangul": "그냥 그냥 나의 느낌으로", "lyric_translation": "I’m just going with the flow", "range": [6.43, 10.38], "ans": [5]},
+    {"lyric": "On sesangi eojewan dalla", "lyric_hangul": "온 세상이 어제완 달라", "lyric_translation": "The world is different from yesterday", "range": [10.38, 13.88], "ans": [5]},
+    {"lyric": "Geunyang geunyang neoye gippeumeuro", "lyric_hangul": "그냥 그냥 너의 기쁨으로", "lyric_translation": "Just with your joy", "range": [13.88, 17.52], "ans": [5]},
+    "",
+    {"lyric": "Niga nal bulleosseul ttae", "lyric_hangul": "니가 날 불렀을 때", "lyric_translation": "When you call me", "range": [17.52, 19.32], "ans": [5]},
+    {"lyric": "Naneun neoye kkocheuro", "lyric_hangul": "나는 너의 꽃으로", "lyric_translation": "I go to your flower", "range": [19.32, 21.29], "ans": [5]},
+    {"lyric": "Gidaryeotteon geotcheoreom", "lyric_hangul": "기다렸던 것처럼", "lyric_translation": "As if I’ve been waiting", "range": [21.29, 22.99], "ans": [5]},
+    {"lyric": "Urin shiridorok pieo", "lyric_hangul": "우린 시리도록 피어", "lyric_translation": "We bloom till it gets cold", "range": [22.99, 24.93], "ans": [5]},
+    {"lyric": "Eojjeomyeon ujuye seobri", "lyric_hangul": "어쩌면 우주의 섭리", "lyric_translation": "Maybe it’s the way of the universe", "range": [24.93, 26.82], "ans": [5]},
+    {"lyric": "Geunyang geuraetteon geoya", "lyric_hangul": "그냥 그랬던 거야", "lyric_translation": "That’s how it is", "range": [26.82, 28.48], "ans": [5]},
+    {"lyric": "You know I know", "lyric_hangul": "You know I know", "lyric_translation": "You know I know", "range": [28.48, 30.09], "ans": [5]},
+    {"lyric": "Neoneun na naneun neo", "lyric_hangul": "너는 나, 나는 너", "lyric_translation": "You and me, I am you", "range": [30.09, 32.02], "ans": [5]},
+    "",
+    {"lyric": "Seolleneun mankeum mani duryeowo", "lyric_hangul": "설레는 만큼 많이 두려워", "lyric_translation": "I’m scared, just as much as my heart flutters", "range": [32.02, 34.95], "ans": [5]},
+    {"lyric": "Unmyeongi uril jakku jiltuhaeseo", "lyric_hangul": "운명이 우릴 자꾸 질투해서", "lyric_translation": "Because destiny keeps getting jealous of us", "range": [34.95, 38.93], "ans": [5]},
+    {"lyric": "Neomankeum nado mani museowo", "lyric_hangul": "너만큼 나도 많이 무서워", "lyric_translation": "I’m just as scared as you", "range": [38.93, 42.3], "ans": [5]},
+    {"lyric": "When you see me", "lyric_hangul": "When you see me", "lyric_translation": "When you see me", "range": [42.3, 43.96], "ans": [5]},
+    {"lyric": "When you touch me", "lyric_hangul": "When you touch me", "lyric_translation": "When you touch me", "range": [43.96, 46.14], "ans": [5]},
+    "",
+    {"lyric": "Ujuga uril wihae umjigyeosseo", "lyric_hangul": "우주가 우릴 위해 움직였어", "lyric_translation": "The universe has moved for us", "range": [46.14, 49.53], "ans": [5]},
+    {"lyric": "Jogeume eogeutnamjocha eopseosseo", "lyric_hangul": "조금의 어긋남조차 없었어", "lyric_translation": "Without missing a single thing", "range": [49.53, 53.59], "ans": [5]},
+    {"lyric": "Neowa nae haengbogeun yejeongdwaetdeon geol", "lyric_hangul": "너와 내 행복은 예정됐던 걸", "lyric_translation": "Because our happiness has been planned", "range": [53.59, 56.95], "ans": [5]},
+    {
+      "lyric_hangul": "'Cause you love me and I love you",
+      "lyric_translation": "Cause you love me / And I love you",
+      "parts": [
+        {"lyric": "Cause you love me", "range": [56.95, 58.89], "ans": [5]},
+        {"lyric": "And I love you", "range": [58.89, 60.83], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Neon nae pureun gompangi", "lyric_hangul": "넌 내 푸른 곰팡이", "lyric_translation": "You are my penicillin", "range": [60.55, 65.88], "ans": [5]},
+    {
+      "lyric_hangul": "날 구원해 준 나의 천사, 나의 세상",
+      "lyric_translation": "You saved me / My angel, my world",
+      "parts": [
+        {"lyric": "Nal guwonhae jun", "range": [65.88, 68.14], "ans": [5]},
+        {"lyric": "Naye cheonsa naye sesang", "range": [68.14, 74.79], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Nan ne samsaek goyangi", "lyric_hangul": "난 네 삼색 고양이", "lyric_translation": "I’m your tricolor cat", "range": [74.79, 80.15], "ans": [5]},
+    {"lyric": "Neol mannareo on", "lyric_hangul": "널 만나러 온", "lyric_translation": "Here to meet you", "range": [80.15, 82.48], "ans": [5]},
+    {"lyric": "Love me now", "lyric_hangul": "Love me now", "lyric_translation": "", "range": [82.48, 86.03], "ans": []},
+    {"lyric": "Love me now touch me now", "lyric_hangul": "Love me now Touch me now", "lyric_translation": "Love me now touch me now", "range": [82.48, 90.03], "ans": [5]},
+    "",
+    {"lyric": "Just let me love you", "lyric_hangul": "Just let me love you (let me love, let me love you)", "lyric_translation": "Just let me love you", "range": [90.03, 97.65], "ans": [5]},
+    {"lyric": "Just let me love you", "lyric_hangul": "Just let me love you (let me love, let me love you)", "lyric_translation": "Just let me love you", "range": [97.65, 104.79], "ans": [5]},
+    {"lyric": "Ujuga cheoeum saenggyeonasseul ttaebuteo", "lyric_hangul": "우주가 처음 생겨났을 때부터", "lyric_translation": "Ever since the universe was first formed", "range": [104.79, 108.41], "ans": [5]},
+    {"lyric": "Modeun geon jeonghaejin geoyeosseo", "lyric_hangul": "모든 건 정해진 거였어", "lyric_translation": "Everything has been planned", "range": [108.41, 112.0], "ans": [5]},
+    {"lyric": "Just let me love you", "lyric_hangul": "Just let me love you (let me love, let me love you)", "lyric_translation": "Just let me love you", "range": [112.0, 122.47], "ans": [5]},
+    "",
+    {"lyric": "Let me love let me love you", "lyric_hangul": "Let me love, let me love you", "lyric_translation": "Let me love let me love you", "range": [124.0, 130.88], "ans": [5]},
+    {"lyric": "Let me love let me love you", "lyric_hangul": "Let me love, let me love you", "lyric_translation": "Let me love let me love you", "range": [130.88, 136.76], "ans": [5]}
+  ]
+}

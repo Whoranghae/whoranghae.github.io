@@ -1,0 +1,206 @@
+{
+  "name": "Love Maze\r",
+  "ogg": "sound/kpop/love_maze.ogg",
+  "id": "love-maze",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/love-maze.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:01Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Cause I’ll be in love maze", "lyric_hangul": "'Cause I'll be in love maze", "lyric_translation": "Cause I’ll be in love maze", "range": [3.94, 10.44], "ans": [7]},
+    {"lyric": "Cause I’ll be in love maze", "lyric_hangul": "'Cause I'll be in love maze", "lyric_translation": "Cause I’ll be in love maze", "range": [10.44, 12.36], "ans": [7]},
+    "",
+    {"lyric": "Seontaege miro soge gachyeo", "lyric_hangul": "선택의 미로 속에 갇혀", "lyric_translation": "Trapped in a maze of decisions", "range": [12.36, 15.47], "ans": [5]},
+    {"lyric": "Makdareun hondon soge jichyeo", "lyric_hangul": "막다른 혼돈 속에 지쳐", "lyric_translation": "Exhausted by all the different chaos", "range": [15.47, 18.27], "ans": [5]},
+    {"lyric": "Urin jeongdabeul chaja hemaesseotjiman", "lyric_hangul": "우린 정답을 찾아 헤맸었지만", "lyric_translation": "We’ve wandered around, looking for the answer", "range": [18.27, 21.47], "ans": [5]},
+    {"lyric": "Lost in the maze, in the darkness", "lyric_hangul": "Lost in the maze, in the darkness", "lyric_translation": "Lost in the maze, in the darkness", "range": [21.47, 24.48], "ans": [5]},
+    "",
+    {"lyric": "Kkeuteopshi gireul dalligo dallyeobwado", "lyric_hangul": "끝없이 길을 달리고 달려봐도", "lyric_translation": "We ran and ran endlessly", "range": [24.48, 28.81], "ans": [7]},
+    {"lyric": "Jeo sumaneun geojit auseongdeuri", "lyric_hangul": "저 수많은 거짓 아우성들이", "lyric_translation": "But all the fake noise", "range": [28.81, 32.94], "ans": [7]},
+    {
+      "lyric_hangul": "우릴 갈라놓을 수 있어 정말인 걸 baby",
+      "lyric_translation": "Can tear us apart / It’s true baby",
+      "parts": [
+        {"lyric": "Uril gallanoeul su isseo", "range": [32.94, 35.64], "ans": [7]},
+        {"lyric": "Jeongmarin geol baby", "range": [35.64, 38.06], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Urin uriman mideoya hae", "lyric_hangul": "우린 우리만 믿어야 해", "lyric_translation": "We must believe only in ourselves", "range": [38.02, 41.91], "ans": [5]},
+    {"lyric": "Du son nochimyeon an dwae", "lyric_hangul": "두 손 놓치면 안 돼", "lyric_translation": "Can’t let go of each other’s hands", "range": [41.91, 45.06], "ans": [1]},
+    {"lyric": "Yeongweonhi hamkkeyeoya hae", "lyric_hangul": "영원히 함께여야 해", "lyric_translation": "We need to be together forever", "range": [45.06, 50.91], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "남들은 얘기해 이럼 너만 바보 돼",
+      "lyric_translation": "People say / That I’ll end up a fool",
+      "parts": [
+        {"lyric": "Namdeureun yaegihae", "range": [50.91, 52.64], "ans": [4]},
+        {"lyric": "Ireom neoman babo dwae", "range": [52.64, 54.43], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "But I don't wanna use my head, I don't wanna calculate",
+      "lyric_translation": "But I don’t wanna use my head / I don’t wanna calculate",
+      "parts": [
+        {"lyric": "But I don’t wanna use my head", "range": [54.43, 56.01], "ans": [4]},
+        {"lyric": "I don’t wanna calculate", "range": [56.01, 56.89], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Love ain't a business rather like a fitness 머리 쓰며 사랑한 적 없기에",
+      "lyric_translation": "Love ain’t a business / Rather like a fitness / I’ve never been in a calculating love",
+      "parts": [
+        {"lyric": "Love ain’t a business", "range": [56.89, 58.25], "ans": [4]},
+        {"lyric": "Rather like a fitness", "range": [58.25, 59.05], "ans": [4]},
+        {"lyric": "Meori sseumyeo saranghan jeok eopgie", "range": [59.05, 60.15], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "추울 걸 알아 겨울처럼 말야 그래도 난 부딪치고 싶어 ayy",
+      "lyric_translation": "I know it’ll be cold like winter / But I still wanna try",
+      "parts": [
+        {"lyric": "Chuul geol ara gyeoulcheoreom marya", "range": [60.07, 62.05], "ans": [4]},
+        {"lyric": "Geuraedo nan buditchigo shipeo ayy", "range": [62.05, 63.57], "ans": [4]}
+      ]
+    },
+    {"lyric": "Niga milmyeon neomeojilge nal ireukyeojwo yeah", "lyric_hangul": "니가 밀면 넘어질게 날 일으켜줘 yeah", "lyric_translation": "If you push me, I’ll fall, just raise me up again", "range": [63.22, 66.89], "ans": [4]},
+    {"lyric": "Naega danggyeodo oji anado dwae", "lyric_hangul": "내가 당겨도 오지 않아도 돼", "lyric_translation": "Even if I pull, you don’t have to come", "range": [66.89, 70.54], "ans": [4]},
+    {
+      "lyric_hangul": "Let them, be them, let us, be us",
+      "lyric_translation": "Let them be them / Let us be us",
+      "parts": [
+        {"lyric": "Let them be them", "range": [70.54, 71.68], "ans": [4]},
+        {"lyric": "Let us be us", "range": [71.68, 73.72], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Love is a maze, damn, but you is amaze, yeah",
+      "lyric_translation": "Love is a maze damn / But you is amaze yeah",
+      "parts": [
+        {"lyric": "Love is a maze damn", "range": [73.72, 75.33], "ans": [4]},
+        {"lyric": "But you is amaze yeah", "range": [75.33, 76.68], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Take my ay ay hand soneul noji ma", "lyric_hangul": "Take my-ay-ay hand 손을 놓지 마", "lyric_translation": "Take my ay ay hand, don’t let go", "range": [76.47, 79.79], "ans": [5]},
+    {"lyric": "Lie ay ay miro sogeseo", "lyric_hangul": "Lie-ay-ay 미로 속에서", "lyric_translation": "Lie ay ay in this maze", "range": [79.79, 83.3], "ans": [5]},
+    {
+      "lyric_hangul": "My-ay-ay 절대 날 놓치면 안돼 in love maze",
+      "lyric_translation": "My ay ay never lose me / In love maze",
+      "parts": [
+        {"lyric": "My ay ay jeoldae nal nochimyeon andwae", "range": [83.3, 86.26], "ans": [5]},
+        {"lyric": "In love maze", "range": [86.26, 89.21], "ans": [5]}
+      ]
+    },
+    {"lyric": "Take my ay ay hand soneul noji ma", "lyric_hangul": "Take my-ay-ay hand 손을 놓지 마", "lyric_translation": "Take my ay ay hand, don’t let go", "range": [89.21, 92.62], "ans": [6]},
+    {"lyric": "My ay ay deo gakkai wa", "lyric_hangul": "My-ay-ay 더 가까이 와", "lyric_translation": "My ay ay come closer", "range": [92.62, 96.06], "ans": [6]},
+    {
+      "lyric_hangul": "My-ay-ay 절대 엇갈리면 안돼 in love maze",
+      "lyric_translation": "My ay ay never go awry / In love maze",
+      "parts": [
+        {"lyric": "My ay ay jeoldae eotgallimyeon andwae", "range": [96.06, 98.94], "ans": [6]},
+        {"lyric": "In love maze", "range": [98.94, 102.6], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Namdeuri mworadeon deudji malja", "lyric_hangul": "남들이 뭐라던 듣지 말자", "lyric_translation": "No matter what others say, don’t listen", "range": [102.6, 105.99], "ans": [5]},
+    {"lyric": "Just let em talk nuga mworageon", "lyric_hangul": "Just let 'em talk 누가 뭐라건", "lyric_translation": "Just let’em talk, whatever they say", "range": [105.99, 109.06], "ans": [5]},
+    {"lyric": "Geureol surok nan deo hwakshini saenggyeo", "lyric_hangul": "그럴 수록 난 더 확신이 생겨", "lyric_translation": "The more they do, the more I’m sure", "range": [109.06, 112.66], "ans": [1]},
+    {"lyric": "Yeah yeah yeah", "lyric_hangul": "Yeah, yeah, yeah, yeah, yeah, yeah", "lyric_translation": "Yeah yeah yeah / Yeah yeah yeah", "range": [112.66, 115.24], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Can’t you hear me nal mideoya hae", "lyric_hangul": "Can't you hear me 날 믿어야 해", "lyric_translation": "Can’t you hear me, you have to trust me", "range": [114.84, 119.01], "ans": [5]},
+    {"lyric": "Baby just don’t give a damn", "lyric_hangul": "Baby, just don't give a damn", "lyric_translation": "Baby just don’t give a damn", "range": [119.01, 121.87], "ans": [1]},
+    {"lyric": "Promise naege yaksokhae", "lyric_hangul": "Promise 내게 약속해", "lyric_translation": "Promise, promise me", "range": [121.87, 127.71], "ans": [5]},
+    "",
+    {"lyric": "Sabangi makhyeoitneun miro sok makdareun gil", "lyric_hangul": "사방이 막혀있는 미로 속 막다른 길", "lyric_translation": "All around us is a maze, different paths", "range": [127.71, 132.04], "ans": [2]},
+    {"lyric": "I shimyeon sogeul urin geonilgo itji", "lyric_hangul": "이 심연 속을 우린 거닐고 있지", "lyric_translation": "We’re walking in this abyss", "range": [132.04, 135.54], "ans": [2]},
+    {"lyric": "Jeogi ganeudaran bit", "lyric_hangul": "저기 가느다란 빛", "lyric_translation": "There’s a thin light over there", "range": [135.54, 138.54], "ans": [2]},
+    {"lyric": "Geu nakwoneul hyanghae hemaego itgireul", "lyric_hangul": "그 낙원을 향해 헤매고 있기를", "lyric_translation": "I hope we’re going toward paradise", "range": [138.54, 140.96], "ans": [2]},
+    {"lyric": "Myeongshimhae ttaeron geojiseun uri sail gareuryeo hani", "lyric_hangul": "명심해 때론 거짓은 우리 사일 가르려 하니", "lyric_translation": "Know this, sometimes lies will try to tear us apart", "range": [140.96, 145.45], "ans": [2]},
+    {"lyric": "Shiryeoneun uril sogiryeo haji but", "lyric_hangul": "시련은 우릴 속이려 하지 but", "lyric_translation": "Hardships will try to deceive us but", "range": [145.45, 147.38], "ans": [2]},
+    {
+      "lyric_hangul": "그럴 땐 내게 집중해 어둠 속에선 우리면 충분해",
+      "lyric_translation": "Just focus on me then / In the darkness, just the two of us is enough",
+      "parts": [
+        {"lyric": "Geureol ttaen naege jibjunghae", "range": [147.38, 148.94], "ans": [2]},
+        {"lyric": "Eodum sogeseon urimyeon chungbunhae", "range": [148.94, 150.6], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "덧없는 거짓 속에서 우리가 함께면 끝이 없는 미로조차 낙원",
+      "lyric_translation": "In all these lies / If we’re together, even an endless maze is paradise",
+      "parts": [
+        {"lyric": "Deoseopneun geojit sogeseo", "range": [150.46, 151.76], "ans": [2]},
+        {"lyric": "Uriga hamkkemyeon kkeuchi eopneun mirojocha nakwon", "range": [151.76, 153.74], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Take my ay ay hand soneul noji ma", "lyric_hangul": "Take my-ay-ay hand 손을 놓지 마", "lyric_translation": "Take my ay ay hand, don’t let go", "range": [153.47, 156.75], "ans": [1]},
+    {"lyric": "Lie ay ay miro sogeseo", "lyric_hangul": "Lie-ay-ay 미로 속에서", "lyric_translation": "Lie ay ay in this maze", "range": [156.75, 159.96], "ans": [1]},
+    {
+      "lyric_hangul": "My-ay-ay 절대 날 놓치면 안돼 in love maze",
+      "lyric_translation": "My ay ay never lose me / In love maze",
+      "parts": [
+        {"lyric": "My ay ay jeoldae nal nochimyeon andwae", "range": [159.96, 163.05], "ans": [1]},
+        {"lyric": "In love maze", "range": [163.05, 165.42], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Mwo eojjeogesseo urin gongshikdaero wa itgo", "lyric_hangul": "뭐 어쩌겠어 우린 공식대로 와 있고", "lyric_translation": "What can we do? We did the official thing", "range": [165.42, 168.66], "ans": [3]},
+    {"lyric": "Geurae eojjeogesseo geu beobe matchwo mattahaisseo", "lyric_hangul": "그래 어쩌겠어 그 법에 맞춰 맞닿아있어", "lyric_translation": "So we need to follow the rules", "range": [168.66, 171.97], "ans": [3]},
+    {
+      "lyric_hangul": "방황하는 이 미로도 미지수의 그 기로도",
+      "lyric_translation": "Even in this wandering maze / Even on this mysterious path",
+      "parts": [
+        {"lyric": "Banghwanghaneun i mirodo", "range": [171.97, 174.21], "ans": [3]},
+        {"lyric": "Mijisuye geu girodo", "range": [174.21, 175.83], "ans": [3]}
+      ]
+    },
+    {"lyric": "Seororeul wihan seobri jung hanaingeol", "lyric_hangul": "서로를 위한 섭리 중 하나인걸", "lyric_translation": "We’re taking care of each other", "range": [175.55, 178.86], "ans": [3]},
+    {"lyric": "Nan neul saenggakhae yeongweoneun eoryeobdaedo", "lyric_hangul": "난 늘 생각해 영원은 어렵대도", "lyric_translation": "I always think, even if eternity is hard", "range": [178.86, 182.1], "ans": [3]},
+    {"lyric": "Haebogo shipdago geurae yeongweonhae bojago", "lyric_hangul": "해보고 싶다고 그래 영원해 보자고", "lyric_translation": "I wanna try it, let’s be forever", "range": [182.1, 185.63], "ans": [3]},
+    {
+      "lyric_hangul": "둘만의 산, 둘만의 climb 둘만의 세계의 축, 둘만의 마음",
+      "lyric_translation": "Our own mountain, our own climb / Our own world, our own heart",
+      "parts": [
+        {"lyric": "Dulmane san, dulmane climb", "range": [185.63, 186.71], "ans": [3]},
+        {"lyric": "Dulmane segyeye chuk, dulmane maeum", "range": [186.45, 188.61], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "출구를 향한 travel 잡은 두 손이 지도가 되어",
+      "lyric_translation": "Travel toward the exit / Our held hands will be the map",
+      "parts": [
+        {"lyric": "Chulgureul hyanghan travel", "range": [188.21, 189.47], "ans": [3]},
+        {"lyric": "Jabeun du soni jidoga dweeo", "range": [189.47, 191.6], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Take my ay ay hand soneul noji ma", "lyric_hangul": "Take my-ay-ay hand 손을 놓지 마", "lyric_translation": "Take my ay ay hand, don’t let go", "range": [191.6, 195.07], "ans": [7]},
+    {"lyric": "Lie ay ay miro sogeseo", "lyric_hangul": "Lie-ay-ay 미로 속에서", "lyric_translation": "Lie ay ay in this maze", "range": [195.07, 198.43], "ans": [7]},
+    {
+      "lyric_hangul": "My-ay-ay 절대 날 놓치면 안돼 in love maze",
+      "lyric_translation": "My ay ay never lose me / In love maze",
+      "parts": [
+        {"lyric": "My ay ay jeoldae nal nochimyeon andwae", "range": [198.43, 201.45], "ans": [7]},
+        {"lyric": "In love maze", "range": [201.45, 204.32], "ans": [7]}
+      ]
+    },
+    {"lyric": "Take my ay ay hand soneul noji ma", "lyric_hangul": "Take my-ay-ay hand 손을 놓지 마", "lyric_translation": "Take my ay ay hand, don’t let go", "range": [204.32, 207.9], "ans": [6]},
+    {"lyric": "My ay ay deo gakkai wa", "lyric_hangul": "My-ay-ay 더 가까이 와", "lyric_translation": "My ay ay come closer", "range": [207.9, 211.45], "ans": [6]},
+    {
+      "lyric_hangul": "My-ay-ay 절대 엇갈리면 안돼 in love maze (ay)",
+      "lyric_translation": "My ay ay never go awry / In love maze",
+      "parts": [
+        {"lyric": "My ay ay jeoldae eotgallimyeon andwae", "range": [211.45, 214.13], "ans": [6]},
+        {"lyric": "In love maze", "range": [214.13, 218.65], "ans": [6]}
+      ]
+    }
+  ]
+}

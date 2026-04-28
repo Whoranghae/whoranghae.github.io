@@ -1,0 +1,218 @@
+{
+  "name": "Rain\r",
+  "ogg": "sound/kpop/rain.ogg",
+  "id": "rain",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/rain.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "달리는 차들 사방에 꿈틀대는 우산들",
+      "lyric_translation": "(The thick color of a rainy day in Seoul) / The racing cars, / the squirming umbrellas all over the place",
+      "parts": [
+        {"lyric": "(biga oneun jiteun saek seoul geu wie)", "range": [6.91, 8.82], "ans": [7]},
+        {"lyric": "Dallineun chadeul,", "range": [8.12, 9.05], "ans": [4]},
+        {"lyric": "Sabange kkumteuldaeneun usandeul", "range": [9.05, 10.37], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "날씨는 흐림 공기는 맑음",
+      "lyric_translation": "It’s cloudy and the air is clear / (The rain stops and the reflection in the puddle)",
+      "parts": [
+        {"lyric": "Nalssineun heurim gonggineun malgeum", "range": [10.19, 11.78], "ans": [4]},
+        {"lyric": "(jeo biga geuchyeo goin mul wie bichyeojin)", "range": [11.08, 12.53], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "연회색 배경의 난 왜 여기 멈춰 섰을까",
+      "lyric_translation": "With a light gray background, / why am I standing here?",
+      "parts": [
+        {"lyric": "Yeonhoesaek baegyeongui", "range": [17.62, 19.1], "ans": [4]},
+        {"lyric": "Nan wae yeogi meomchwo seosseulkka", "range": [19.1, 20.96], "ans": [4]}
+      ]
+    },
+    {"lyric": "Saenggagi manheun geonji eomneun geonji jal molla", "lyric_hangul": "생각이 많은 건지 없는 건지 잘 몰라", "lyric_translation": "I don’t know if I have a lot of thoughts or no thoughts at all", "range": [20.5, 23.33], "ans": [4]},
+    "",
+    {"lyric": "Bakkachi hwanhaejyeosseul ttaejjeum jameseo kkae", "lyric_hangul": "바깥이 환해졌을 때쯤 잠에서 깨", "lyric_translation": "I wake up when it’s just about to get bright outside", "range": [23.33, 25.65], "ans": [4]},
+    {"lyric": "Pigone jjideun soneuro yeonsin meorireul sseureodae", "lyric_hangul": "피곤에 찌든 손으로 연신 머리를 쓸어대", "lyric_translation": "I brush back my hair when my exhausted hands", "range": [25.65, 28.3], "ans": [4]},
+    {"lyric": "Jinan bam wanseongchi motan noraeui memojang", "lyric_hangul": "지난 밤 완성치 못한 노래의 메모장", "lyric_translation": "The memopad with the song I couldn’t complete last night", "range": [28.3, 31.12], "ans": [4]},
+    {
+      "lyric_hangul": "오늘은 끝낸다 눈 질끈 감고 한숨 푹 쉬어보네",
+      "lyric_translation": "I’ll finish it today / as I shut my eyes and let out a sigh",
+      "parts": [
+        {"lyric": "Oneureun kkeutnaenda", "range": [31.12, 32.54], "ans": [4]},
+        {"lyric": "Nun jilkkeun gamgo hansum puk swieobone", "range": [32.54, 34.8], "ans": [4]}
+      ]
+    },
+    {"lyric": "Mwora byeonmyeonghae? mal jieobone", "lyric_hangul": "뭐라 변명해? 말 지어보네", "lyric_translation": "What excuse can I give? I try to make something up", "range": [34.8, 37.09], "ans": [4]},
+    {"lyric": "Eochapi motan geo geunyang amu marina jieo bonae", "lyric_hangul": "어차피 못한 거 그냥 아무 말이나 지어 보내", "lyric_translation": "It’s unfinished anyway so I’ll just make anything up", "range": [37.09, 39.78], "ans": [4]},
+    {
+      "lyric_hangul": "시선을 돌린 창 밖은 온통 회색 빛",
+      "lyric_translation": "Then I turned my eyes to the window and / everything looks gray",
+      "parts": [
+        {"lyric": "Siseoneul dollin chang bakkeun", "range": [39.78, 41.76], "ans": [4]},
+        {"lyric": "Ontong hoesaek bit", "range": [41.76, 42.7], "ans": [4]}
+      ]
+    },
+    {"lyric": "Hoesaek siui hoesaek bilding, hoesaek gil wiui hoesaek bi", "lyric_hangul": "회색 시의 회색 빌딩, 회색 길 위의 회색 비", "lyric_translation": "Gray city, gray buildings, gray roads, gray rain", "range": [42.06, 45.5], "ans": [4]},
+    {"lyric": "I sesang modeun ge neuryeo", "lyric_hangul": "이 세상 모든 게 느려", "lyric_translation": "Everything in this world is slow", "range": [45.5, 47.29], "ans": [4]},
+    {"lyric": "Jameseo kkaen dongsaeng jakku malkkeuteul heuryeo", "lyric_hangul": "잠에서 깬 동생 자꾸 말끝을 흐려", "lyric_translation": "My younger sibling who woke up keeps talking back", "range": [47.29, 49.85], "ans": [4]},
+    {"lyric": "Joe eomneun naengjanggo tto yeoreotda dadeo", "lyric_hangul": "죄 없는 냉장고 또 열었다 닫어", "lyric_translation": "I keep opening and closing the innocent refrigerator", "range": [49.85, 52.88], "ans": [4]},
+    {"lyric": "Millyeoon al su eomneun heojeonhame", "lyric_hangul": "밀려온 알 수 없는 허전함에", "lyric_translation": "With the unknown empty feeling that washes over me", "range": [52.88, 54.59], "ans": [4]},
+    {
+      "lyric_hangul": "일단 나가야겠다고 생각하지 우산도 하나 없이",
+      "lyric_translation": "I think that I should just go outside / Without even an umbrella",
+      "parts": [
+        {"lyric": "Ildan nagayagetdago saenggakhaji", "range": [54.59, 57.03], "ans": [4]},
+        {"lyric": "Usando hana eobsi", "range": [57.03, 58.43], "ans": [4]}
+      ]
+    },
+    {"lyric": "Seonmyeonghae bideuri sesange danneun sori", "lyric_hangul": "선명해 비들이 세상에 닿는 소리", "lyric_translation": "I can clearly hear the rain hitting the earth", "range": [58.18, 61.04], "ans": [4]},
+    {"lyric": "Pisik useo, choegoui baegyeong eumak", "lyric_hangul": "피식 웃어, 최고의 배경 음악", "lyric_translation": "I smile, it’s the best background music", "range": [61.04, 63.04], "ans": [4]},
+    {
+      "lyric_hangul": "미친놈처럼 콧노래를 흥얼거린다 몇 시일까",
+      "lyric_translation": "Like a crazy guy, I start to hum / I wonder what time it is",
+      "parts": [
+        {"lyric": "Michinnomcheoreom kotnoraereul heungeolgeorinda", "range": [63.04, 65.98], "ans": [4]},
+        {"lyric": "Myeot siilkka", "range": [65.98, 66.76], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Biga oneun jiteun saek seoul geu wie", "lyric_hangul": "비가 오는 짙은 색 서울 그 위에", "lyric_translation": "The thick color of a rainy day in Seoul", "range": [66.34, 71.24], "ans": [7]},
+    {"lyric": "Yeojeonhi jam mot iruneun naega heuryeojine", "lyric_hangul": "여전히 잠 못 이루는 내가 흐려지네", "lyric_translation": "I still can’t fall asleep as I fade away", "range": [71.24, 76.68], "ans": [7]},
+    {"lyric": "Jeo biga geuchyeo goin mul wie bichyeojin", "lyric_hangul": "저 비가 그쳐 고인 물 위에 비쳐진", "lyric_translation": "The rain stops and the reflection in the puddle", "range": [76.68, 82.0], "ans": [6]},
+    {"lyric": "Oneulttara deo chorahan naega geuryeojine", "lyric_hangul": "오늘따라 더 초라한 내가 그려지네 oh-oh (rain)", "lyric_translation": "I see myself looking more miserable today", "range": [82.0, 97.29], "ans": [6]},
+    {"lyric": "(Suga)", "lyric_hangul": "(Suga)", "lyric_translation": "", "range": [97.29, 97.97], "ans": []},
+    "",
+    {
+      "lyric_hangul": "비 내리는 밤 창문을 노크 하는 비는 때리지 마음을",
+      "lyric_translation": "It’s a rainy night, the rain knocks on my window, / it hits my heart",
+      "parts": [
+        {"lyric": "Bi naerineun bam changmuneul nokeu haneun", "range": [97.97, 101.89], "ans": [2]},
+        {"lyric": "Bineun ttaeriji maeumeul", "range": [101.89, 103.67], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "시큰한 어깨를 잡고 확인한 문자 \"요즘 어때?\"",
+      "lyric_translation": "With my sore shoulders, / I look at my phone and see a text, / “How are you these days?”",
+      "parts": [
+        {"lyric": "Sikeunhan eokkaereul", "range": [103.62, 104.56], "ans": [2]},
+        {"lyric": "Japgo hwaginhan munja", "range": [104.56, 105.88], "ans": [2]},
+        {"lyric": "“yojeum eottae?”", "range": [105.88, 106.82], "ans": [2]}
+      ]
+    },
+    {"lyric": "Chinguui anbumunjaneun nareul gamseonge jeotge", "lyric_hangul": "친구의 안부문자는 나를 감성에 젖게 (what?)", "lyric_translation": "My friend’s text gets my emotions going", "range": [106.82, 109.14], "ans": [2]},
+    {"lyric": "Mandeulji nungnukhan bitbangurui hyanggireul", "lyric_hangul": "만들지 눅눅한 빗방울의 향기를", "lyric_translation": "As I inhale the scent of the wet rain,", "range": [109.14, 111.56], "ans": [2]},
+    {"lyric": "Mateumyeo gijigaereul pyeon daeum nan hwajangsillo", "lyric_hangul": "맡으며 기지개를 편 다음 난 화장실로", "lyric_translation": "I stretch and go to the bathroom", "range": [111.56, 114.27], "ans": [2]},
+    {"lyric": "Gan dwi jameseo deol kkaen geoul sok naege insahan dwi", "lyric_hangul": "간 뒤 잠에서 덜 깬 거울 속 내게 인사한 뒤", "lyric_translation": "Then I greet myself, half asleep in the mirror", "range": [114.27, 116.79], "ans": [2]},
+    {
+      "lyric_hangul": "만날 사람도 없는데 괜히 더 길게 샤워를 하지",
+      "lyric_translation": "I have no one to meet / but I take a longer shower than usual",
+      "parts": [
+        {"lyric": "Mannal saramdo eomneunde", "range": [116.79, 118.43], "ans": [2]},
+        {"lyric": "Gwaenhi deo gilge syaworeul haji", "range": [118.43, 120.08], "ans": [2]}
+      ]
+    },
+    {"lyric": "Sukso bakk yeojeonhi bineun naerine", "lyric_hangul": "숙소 밖 여전히 비는 내리네", "lyric_translation": "Rain is still falling outside the house", "range": [120.08, 122.02], "ans": [2]},
+    {"lyric": "Gal gotdo ttakhi eomneunde usaneul chaenggin chae", "lyric_hangul": "갈 곳도 딱히 없는데 우산을 챙긴 채", "lyric_translation": "I have no where to go but I take my umbrella", "range": [122.02, 124.62], "ans": [2]},
+    {
+      "lyric_hangul": "처벅처벅 걸어 정처 없이 더러워진 신발에 비는",
+      "lyric_translation": "And walk outside without a plan / my shoes get dirty,",
+      "parts": [
+        {"lyric": "Cheobeokcheobeok georeo jeongcheo eobsi", "range": [124.62, 126.96], "ans": [2]},
+        {"lyric": "Deoreowojin sinbare bineun", "range": [126.96, 128.64], "ans": [2]}
+      ]
+    },
+    {"lyric": "Jonjaereul allideut heunjeogeul saegine", "lyric_hangul": "존재를 알리듯 흔적을 새기네 (새기네)", "lyric_translation": "As if the rain wants its existence to be known", "range": [128.46, 130.88], "ans": [2]},
+    {
+      "lyric_hangul": "이처럼 난 너에게 비처럼 흔적을 새긴 사람일까",
+      "lyric_translation": "Am I someone who engraved, like the rain, / my existence to you?",
+      "parts": [
+        {"lyric": "Icheoreom nan neoege bicheoreom", "range": [130.88, 132.6], "ans": [2]},
+        {"lyric": "Heunjeogeul saegin saramilkka", "range": [132.6, 134.9], "ans": [2]}
+      ]
+    },
+    {"lyric": "Geuge aniramyeon gapjagi naerin sonagicheoreom", "lyric_hangul": "그게 아니라면 갑자기 내린 소나기처럼", "lyric_translation": "If not, am I just someone", "range": [134.9, 137.91], "ans": [2]},
+    {"lyric": "Geujeo watdaganeun jonjaeneun anilkka", "lyric_hangul": "그저 왔다가는 존재는 아닐까", "lyric_translation": "who came and went like a rain shower?", "range": [137.91, 140.96], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Biga oneun jiteun saek seoul geu wie", "lyric_hangul": "비가 오는 짙은 색 서울 그 위에", "lyric_translation": "The thick color of a rainy day in Seoul", "range": [140.96, 146.13], "ans": [5]},
+    {"lyric": "Yeojeonhi jam mot iruneun naega heuryeojine", "lyric_hangul": "여전히 잠 못 이루는 내가 흐려지네", "lyric_translation": "I still can’t fall asleep as I fade away", "range": [146.13, 151.37], "ans": [5]},
+    {"lyric": "Jeo biga geuchyeo goin mul wie bichyeojin", "lyric_hangul": "저 비가 그쳐 고인 물 위에 비쳐진", "lyric_translation": "The rain stops and the reflection in the puddle", "range": [151.37, 156.73], "ans": [1]},
+    {"lyric": "Oneulttara deo chorahan naega geuryeojine", "lyric_hangul": "오늘따라 더 초라한 내가 그려지네 oh-oh", "lyric_translation": "I see myself looking more miserable today", "range": [156.73, 161.55], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "몸을 일으켜 찌뿌둥하다고 느낄 쯤 창문을 볼 때",
+      "lyric_translation": "I get up and when I feel sore, / I look out the window",
+      "parts": [
+        {"lyric": "Momeul ireukyeo jjippudunghadago", "range": [161.55, 164.11], "ans": [3]},
+        {"lyric": "Neukkil jjeum changmuneul bol ttae", "range": [164.11, 166.79], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nae momeul yesangirado han deut biga naerigo inne", "lyric_hangul": "내 몸을 예상이라도 한 듯 비가 내리고 있네", "lyric_translation": "As if it knows how my body feels, the rain is falling", "range": [166.65, 172.18], "ans": [3]},
+    {
+      "lyric_hangul": "창문에 맺혀 있는 빗물들 바라보며 느끼지",
+      "lyric_translation": "welling up in the window, I felt it, / As I look at the raindrops",
+      "parts": [
+        {"lyric": "Changmune maechyeo inneun", "range": [172.18, 173.54], "ans": [3]},
+        {"lyric": "Bitmuldeul barabomyeo neukkiji", "range": [173.54, 175.58], "ans": [3]}
+      ]
+    },
+    {"lyric": "Machi nae maeumsogeul heureun nunmuldeul", "lyric_hangul": "마치 내 마음속을 흐른 눈물들", "lyric_translation": "The tears that were flowing down my heart", "range": [175.37, 177.66], "ans": [3]},
+    {
+      "lyric_hangul": "미묘함 뒤로 밖을 보면 내 상황 같애",
+      "lyric_translation": "With that strange feeling, / I look outside and it looks like my situation",
+      "parts": [
+        {"lyric": "Mimyoham dwiro", "range": [177.66, 178.64], "ans": [3]},
+        {"lyric": "Bakkeul bomyeon nae sanghwang gatae", "range": [178.64, 180.32], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "선율같이 내리는 비에 모두 다 안단테",
+      "lyric_translation": "The rain that falls like a melody / makes everything seem andante",
+      "parts": [
+        {"lyric": "Seonyulgachi naerineun bie modu", "range": [180.07, 181.89], "ans": [3]},
+        {"lyric": "Da andante", "range": [181.89, 183.09], "ans": [3]}
+      ]
+    },
+    {"lyric": "Junbireul hago naga,", "lyric_hangul": "준비를 하고 나가", "lyric_translation": "I get ready and leave,", "range": [182.98, 183.92], "ans": [3]},
+    {"lyric": "Nae insangcheoreom gugyeojin usaneul jjwak pyeogo", "lyric_hangul": "내 인상처럼 구겨진 우산을 쫙 펴고", "lyric_translation": "opening the umbrella that was as wrinkled as my face", "range": [183.92, 186.11], "ans": [3]},
+    {"lyric": "Georeumyeo bissoril deutneun sungan", "lyric_hangul": "걸으며 빗소릴 듣는 순간", "lyric_translation": "As I walk, the moment I heard the rain", "range": [186.11, 188.65], "ans": [3]},
+    {"lyric": "I bineun nugul wihaeseo naerineun geolkka?", "lyric_hangul": "이 비는 누굴 위해서 내리는 걸까?", "lyric_translation": "I wondered who this rain was falling for", "range": [188.65, 190.74], "ans": [3]},
+    {
+      "lyric_hangul": "쓸쓸한 회색 시멘트 위 부딪혀 때리는 청각",
+      "lyric_translation": "against the lonely gray cement / A sound that hits",
+      "parts": [
+        {"lyric": "Sseulsseulhan hoesaek simenteu", "range": [190.74, 192.48], "ans": [3]},
+        {"lyric": "Wi budichyeo ttaerineun cheonggak", "range": [192.48, 194.38], "ans": [3]}
+      ]
+    },
+    {"lyric": "Come slow down", "lyric_hangul": "Come slow down", "lyric_translation": "Come slow down", "range": [193.78, 194.65], "ans": [3]},
+    "",
+    {"lyric": "Biga oneun jiteun saek seoul geu wie", "lyric_hangul": "비가 오는 짙은 색 서울 그 위에", "lyric_translation": "The thick color of a rainy day in Seoul", "range": [194.65, 199.49], "ans": [7]},
+    {"lyric": "Yeojeonhi jam mot iruneun naega heuryeojine", "lyric_hangul": "여전히 잠 못 이루는 내가 흐려지네", "lyric_translation": "I still can’t fall asleep as I fade away", "range": [199.49, 204.72], "ans": [7]},
+    {"lyric": "Jeo biga geuchyeo goin mul wie bichyeojin", "lyric_hangul": "저 비가 그쳐 고인 물 위에 비쳐진", "lyric_translation": "The rain stops and the reflection in the puddle", "range": [204.72, 210.08], "ans": [6]},
+    {"lyric": "Oneulttara deo chorahan naega geuryeojine", "lyric_hangul": "오늘따라 더 초라한 내가 그려지네", "lyric_translation": "I see myself looking more miserable today", "range": [210.08, 215.53], "ans": [6]},
+    "",
+    {"lyric": "Na i biga meojeodo jeo gureumi geotyeodo", "lyric_hangul": "나 이 비가 멎어도 저 구름이 걷혀도", "lyric_translation": "Even when this rain stops, when the clouds go away", "range": [215.53, 221.68], "ans": [7]},
+    {
+      "lyric_hangul": "우두커니 서 있어 이 모습 그대로",
+      "lyric_translation": "I stand here, just the same",
+      "parts": [
+        {"lyric": "Udukeoni seo isseo", "range": [221.68, 224.37], "ans": [7]},
+        {"lyric": "I moseup geudaero", "range": [223.67, 227.25], "ans": [5]}
+      ]
+    },
+    {"lyric": "Amu maldo anheun chae sesangeul naeryeodabwa", "lyric_hangul": "아무 말도 않은 채 세상을 내려다봐", "lyric_translation": "Without saying anything, looking at the world", "range": [227.25, 232.75], "ans": [5]},
+    {"lyric": "Geogin areumdapji motan naega nal bogo isseo", "lyric_hangul": "거긴 아름답지 못한 내가 날 보고 있어 (rain)", "lyric_translation": "There, a not so beautiful me is looking at myself", "range": [232.75, 238.87], "ans": [5]},
+    {"lyric": "In this rain", "lyric_hangul": "In this rain", "lyric_translation": "", "range": [238.87, 241.67], "ans": []},
+    {"lyric": "In this rain", "lyric_hangul": "In this rain", "lyric_translation": "", "range": [241.67, 244.99], "ans": []}
+  ]
+}

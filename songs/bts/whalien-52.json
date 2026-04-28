@@ -1,0 +1,167 @@
+{
+  "name": "Whalien 52\r",
+  "ogg": "sound/kpop/whalien_52.ogg",
+  "id": "whalien-52",
+  "group": "bts",
+  "language": "ko",
+  "released": "2015-11-30",
+  "album": "화양연화 The Most Beautiful Moment in Life pt.2",
+  "cover": "css/images/covers/whalien-52.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:14Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah", "lyric_hangul": "Yeah", "lyric_translation": "", "range": [3.81, 7.02], "ans": []},
+    {"lyric": "The most lonely creature in the world", "lyric_hangul": "The most lonely creature in the world", "lyric_translation": "", "range": [7.02, 10.82], "ans": []},
+    {"lyric": "Yeah (I'm a whale)", "lyric_hangul": "Yeah (I'm a whale)", "lyric_translation": "", "range": [10.82, 14.0], "ans": []},
+    {"lyric": "Do you wanna know my story? (Yeah)", "lyric_hangul": "Do you wanna know my story? (Yeah)", "lyric_translation": "", "range": [14.0, 17.0], "ans": []},
+    {"lyric": "I never told this to anybody", "lyric_hangul": "I never told this to anybody", "lyric_translation": "", "range": [17.0, 20.56], "ans": []},
+    {"lyric": "Yeah, come on (ooh)", "lyric_hangul": "Yeah, come on (ooh)", "lyric_translation": "", "range": [20.56, 22.7], "ans": []},
+    {"lyric": "I neorbeun bada geu hangaunde", "lyric_hangul": "이 넓은 바다 그 한가운데", "lyric_translation": "In the middle of the vast ocean", "range": [22.7, 25.36], "ans": [2]},
+    {"lyric": "Han mari goraega najeumakhi oeropge mareul hae", "lyric_hangul": "한 마리 고래가 나즈막히 외롭게 말을 해", "lyric_translation": "One whale speaks softly and lonelily", "range": [25.36, 28.61], "ans": [2]},
+    {"lyric": "Amuri sorichyeodo dahji anhneun ge", "lyric_hangul": "아무리 소리쳐도 닿지 않는 게", "lyric_translation": "The fact that no matter how much they shout, it won’t reach", "range": [28.61, 31.37], "ans": [2]},
+    {"lyric": "Samuchige oerowo joyonghi ip damune", "lyric_hangul": "사무치게 외로워 조용히 입 다무네", "lyric_translation": "Makes them so gravely lonely that they quietly shut their mouths", "range": [31.37, 34.11], "ans": [2]},
+    {
+      "lyric_hangul": "아무렴 어때 뭐가 됐던 이젠 뭐, I don't care",
+      "lyric_translation": "Now, well, I don’t care / When only the thing called",
+      "parts": [
+        {"lyric": "Amuryeom eottae mwoga", "range": [34.11, 35.91], "ans": [2]},
+        {"lyric": "Dwaetdeon ijen mwo I don’t care", "range": [35.91, 37.41], "ans": [2]}
+      ]
+    },
+    {"lyric": "Oeroumiran nyeoseokman nae gyeoteseo meomul ttae", "lyric_hangul": "외로움이란 녀석만 내 곁에서 머물 때", "lyric_translation": "Loneliness remained by my side", "range": [36.85, 39.24], "ans": [2]},
+    {"lyric": "Onjeonhi honjaga dwae oeroi chaeuneun jamulsoe", "lyric_hangul": "온전히 혼자가 돼 외로이 채우는 자물쇠", "lyric_translation": "I’ve become completely alone", "range": [39.24, 42.24], "ans": [2]},
+    {"lyric": "Nugun malhae saekki yeonyein da dwaetne", "lyric_hangul": "누군 말해 새끼 연예인 다 됐네", "lyric_translation": "Some say, “bastard, you’ve become a celebrity”", "range": [42.24, 44.91], "ans": [2]},
+    {"lyric": "Oh fuck that, geurae mwo eottae nugunga gyeote", "lyric_hangul": "Oh, fuck that, 그래, 뭐 어때 누군가 곁에", "lyric_translation": "Oh fuck that, yeah, well, so what, nobody", "range": [44.91, 47.25], "ans": [2]},
+    {"lyric": "Meomul su eobtda handaedo geugeollo jokhae", "lyric_hangul": "머물 수 없다 한대도 그걸로 족해", "lyric_translation": "remains by my side, I’m ok like this", "range": [47.25, 49.58], "ans": [2]},
+    {
+      "lyric_hangul": "날 향해 쉽게 얘기하는 이 말은 곧 벽이 돼",
+      "lyric_translation": "These words that are easily said / towards me quickly becomes a wall",
+      "parts": [
+        {"lyric": "Nal hyanghae swipge yaegihaneun", "range": [49.58, 51.7], "ans": [2]},
+        {"lyric": "I mareun got byeogi dwae", "range": [51.7, 52.96], "ans": [2]}
+      ]
+    },
+    {"lyric": "Oeroumjocha nideul nunen cheoki dwae", "lyric_hangul": "외로움조차 니들 눈엔 척이 돼", "lyric_translation": "Even loneliness turns into something you can see", "range": [52.63, 54.96], "ans": [2]},
+    "",
+    {"lyric": "Geu byeoge gajyeoseo", "lyric_hangul": "그 벽에 갇혀서", "lyric_translation": "Even if my breaths are blocked", "range": [54.96, 58.65], "ans": [6]},
+    {"lyric": "Nae sumi makhyeodo", "lyric_hangul": "내 숨이 막혀도", "lyric_translation": "Because I’m confined in that wall", "range": [58.65, 61.59], "ans": [6]},
+    {"lyric": "Jeo sumyeon wireul hyanghae", "lyric_hangul": "저 수면 위를 향해", "lyric_translation": "I head towards the surface of water above", "range": [61.59, 64.08], "ans": [6]},
+    {"lyric": "Hey oh, oh hey oh yeah", "lyric_hangul": "Hey, oh, oh, hey, oh, yeah", "lyric_translation": "Hey oh oh hey oh yeah", "range": [64.08, 66.38], "ans": [6]},
+    "",
+    {"lyric": "Lonely lonely lonely whale", "lyric_hangul": "Lonely, lonely, lonely whale", "lyric_translation": "Lonely lonely lonely whale", "range": [66.38, 68.57], "ans": [7]},
+    {"lyric": "Ireoke honja noraebulleo", "lyric_hangul": "이렇게 혼자 노래 불러", "lyric_translation": "Singing alone like this", "range": [68.57, 70.84], "ans": [7]},
+    {"lyric": "Oettan seom gateun nado", "lyric_hangul": "외딴 섬 같은 나도", "lyric_translation": "Even me, who’s like a lonely island", "range": [70.84, 73.25], "ans": [7]},
+    {"lyric": "Barkge bitnal su isseulkka", "lyric_hangul": "밝게 빛날 수 있을까?", "lyric_translation": "Can I shine on the outside", "range": [73.25, 76.8], "ans": [7]},
+    "",
+    {"lyric": "Lonely lonely lonely whale", "lyric_hangul": "Lonely, lonely, lonely whale", "lyric_translation": "Lonely lonely lonely whale", "range": [76.8, 78.97], "ans": [6]},
+    {"lyric": "Ireoke tto han beon bulleobwa", "lyric_hangul": "이렇게 또 한 번 불러봐", "lyric_translation": "Like this, try calling once again", "range": [78.97, 81.93], "ans": [6]},
+    {"lyric": "Daedap eobtneun i noraega", "lyric_hangul": "대답 없는 이 노래가", "lyric_translation": "Until this song that doesn’t have a response", "range": [81.93, 84.7], "ans": [6]},
+    {"lyric": "Naeire daheul ttaekkaji", "lyric_hangul": "내일에 닿을 때까지", "lyric_translation": "Reaches tomorrow", "range": [84.7, 87.57], "ans": [6]},
+    "",
+    {"lyric": "No more, no more baby", "lyric_hangul": "No more, no more, baby", "lyric_translation": "No more no more baby", "range": [87.57, 90.03], "ans": [5]},
+    {"lyric": "No more, no more", "lyric_hangul": "No more, no more", "lyric_translation": "No more no more", "range": [90.03, 92.42], "ans": [5]},
+    {"lyric": "Kkeuteobtneun mujeon hana eonjenga daheul geoya", "lyric_hangul": "끝없는 무전 하나 언젠가 닿을 거야", "lyric_translation": "An endless signal, will reach someday", "range": [92.42, 95.0], "ans": []},
+    {"lyric": "Jeogi jigu bandaepyeonkkaji da", "lyric_hangul": "저기 지구 반대편까지 다", "lyric_translation": "Everywhere, even to the other side of the earth", "range": [95.0, 97.51], "ans": []},
+    "",
+    {"lyric": "No more, no more baby", "lyric_hangul": "No more, no more, baby", "lyric_translation": "No more no more baby", "range": [97.51, 100.77], "ans": [1]},
+    {"lyric": "No more, no more", "lyric_hangul": "No more, no more", "lyric_translation": "No more no more", "range": [100.77, 103.27], "ans": [1]},
+    {"lyric": "Nunmeon goraedeuljocha nal bol su isseul geoya", "lyric_hangul": "눈먼 고래들조차 날 볼 수 있을 거야", "lyric_translation": "Even the blind whales will be able to see me", "range": [103.27, 105.91], "ans": []},
+    {"lyric": "Oneuldo dasi noraehaji na", "lyric_hangul": "오늘도 다시 노래하지 나", "lyric_translation": "Today, again, I sing", "range": [105.91, 108.16], "ans": []},
+    "",
+    {
+      "lyric_hangul": "세상은 절대로 몰라 내가 얼마나 슬픈지를",
+      "lyric_translation": "The world will never know how sad I am / My pain is water and oil that can’t mix",
+      "parts": [
+        {"lyric": "Sesangeun jeoldaero molla", "range": [108.16, 110.36], "ans": [3]},
+        {"lyric": "Naega eolmana seulpeunjireul", "range": [110.36, 111.94], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nae apeumeun seokkil su eobtneun mulgwa gireum", "lyric_hangul": "내 아픔은 섞일 수 없는 물과 기름", "lyric_translation": "So only above the surface of the water do I", "range": [111.48, 113.79], "ans": [3]},
+    {"lyric": "Geujeo nan sumyeon wieseoman", "lyric_hangul": "그저 난 수면 위에서만", "lyric_translation": "Breathe, and the interest towards me ends", "range": [113.79, 116.21], "ans": [3]},
+    {"lyric": "Sumeul swil ttae gwansim kkeut oeroun badassok kkoma", "lyric_hangul": "숨을 쉴 때 관심 끝 외로운 바닷속 꼬마", "lyric_translation": "A child in the lonely ocean. I want to make it known too", "range": [116.21, 119.47], "ans": [3]},
+    {"lyric": "Nado alligo sipne nae gachireul Everyday", "lyric_hangul": "나도 알리고 싶네 내 가치를 every day", "lyric_translation": "My value, everyday", "range": [119.47, 122.39], "ans": [3]},
+    {"lyric": "Geokjeongui meolmireul hae neul seutikeoneun gwi mite", "lyric_hangul": "걱정의 멀미를 해, 늘 스티커는 귀 밑에", "lyric_translation": "I become sick with worry, the sticker always beneath my ear", "range": [122.39, 124.97], "ans": [3]},
+    {"lyric": "Never end, wae kkeuteun eobtgo maebeon hell", "lyric_hangul": "Never end, 왜 끝은 없고 매번 hell", "lyric_translation": "Never end, why isn’t there an end; every time it’s hell", "range": [124.97, 127.21], "ans": [3]},
+    {"lyric": "Sigani gado chagaun simyeon sogui Neverland", "lyric_hangul": "시간이 가도 차가운 심연 속의 neverland", "lyric_translation": "Even if time goes by, in the cold abyss. Neverland", "range": [127.21, 130.29], "ans": [3]},
+    {"lyric": "But neul saenggakhae", "lyric_hangul": "But 늘 생각해", "lyric_translation": "But, I always think, now", "range": [130.29, 132.3], "ans": [3]},
+    {"lyric": "Jigeum saeujam jadeorado kkumeun goraedapge", "lyric_hangul": "지금 새우잠 자더라도 꿈은 고래답게", "lyric_translation": "Even if I sleep a shrimp’s sleep,", "range": [132.3, 135.65], "ans": [3]},
+    {
+      "lyric_hangul": "다가올 큰 칭찬이 매일 춤을 추게 할거야",
+      "lyric_translation": "my dreams are like that of a whale’s / The upcoming big praise will make me dance everyday",
+      "parts": [
+        {"lyric": "Dagaol keun chingchani", "range": [135.65, 138.03], "ans": [3]},
+        {"lyric": "Maeil chumeul chuge halgeoya", "range": [138.03, 139.64], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nadapge Ye i’m swimmin’", "lyric_hangul": "나답게, yeah, I'm swimmin'", "lyric_translation": "Like me, Ye i’m swimmin’", "range": [139.64, 140.96], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Nae miraereul hyanghae ga", "lyric_hangul": "내 미래를 향해 가", "lyric_translation": "I go towards my future", "range": [140.96, 144.45], "ans": [7]},
+    {"lyric": "Jeo pureun badawa", "lyric_hangul": "저 푸른 바다와", "lyric_translation": "That blue beach and", "range": [144.45, 146.58], "ans": [7]},
+    {"lyric": "Nae hereucheureul mideo", "lyric_hangul": "내 헤르츠를 믿어", "lyric_translation": "Believe in my hertz", "range": [146.58, 149.52], "ans": [7]},
+    {"lyric": "Hey oh, oh hey oh yeah", "lyric_hangul": "Hey, oh, oh, hey, oh, yeah", "lyric_translation": "Hey oh oh hey oh yeah", "range": [149.52, 151.92], "ans": [7]},
+    "",
+    {"lyric": "Lonely lonely lonely whale", "lyric_hangul": "Lonely, lonely, lonely whale", "lyric_translation": "Lonely lonely lonely whale", "range": [151.92, 153.34], "ans": [5]},
+    {"lyric": "Ireoke honja noraebulleo", "lyric_hangul": "이렇게 혼자 노래 불러", "lyric_translation": "Singing alone like this", "range": [153.34, 156.34], "ans": [5]},
+    {"lyric": "Oettan seom gateun nado", "lyric_hangul": "외딴 섬 같은 나도", "lyric_translation": "Even me, who’s like a lonely island", "range": [156.34, 158.71], "ans": [5]},
+    {"lyric": "Barkge bitnal su isseulkka", "lyric_hangul": "밝게 빛날 수 있을까?", "lyric_translation": "Can I shine on the outside", "range": [158.71, 161.7], "ans": [5]},
+    "",
+    {"lyric": "Lonely lonely lonely whale", "lyric_hangul": "Lonely, lonely, lonely whale", "lyric_translation": "Lonely lonely lonely whale", "range": [161.7, 164.32], "ans": [7]},
+    {"lyric": "Ireoke tto han beon bulleobwa", "lyric_hangul": "이렇게 또 한 번 불러봐", "lyric_translation": "Like this, try calling once again", "range": [164.32, 166.63], "ans": [7]},
+    {"lyric": "Daedap eobtneun i noraega", "lyric_hangul": "대답 없는 이 노래가", "lyric_translation": "Until this song that doesn’t have a response", "range": [166.63, 170.11], "ans": [7]},
+    {"lyric": "Naeire daheul ttaekkaji", "lyric_hangul": "내일에 닿을 때까지", "lyric_translation": "Reaches tomorrow", "range": [170.11, 172.27], "ans": [7]},
+    "",
+    {"lyric": "Eomeonineun badaga pureuda hasyeosseo", "lyric_hangul": "어머니는 바다가 푸르다 하셨어", "lyric_translation": "My mother said the sea is blue", "range": [172.27, 175.08], "ans": []},
+    {"lyric": "Meolli himkkeot ni moksoril naera hasyeosseo", "lyric_hangul": "멀리 힘껏 네 목소릴 내라 하셨어", "lyric_translation": "She said to let out your voice as far as you can", "range": [175.08, 178.39], "ans": []},
+    {"lyric": "Geureonde eotteokhajyo yeogin neomu kkamkkamhago", "lyric_hangul": "그런데 어떡하죠? 여긴 너무 깜깜하고", "lyric_translation": "But what to do, it’s so dark and there are only different whales", "range": [178.39, 180.53], "ans": []},
+    {"lyric": "Ontong dareun mareul haneun dareun", "lyric_hangul": "온통 다른 말을 하는 다른 고래들 뿐인데", "lyric_translation": "speaking entirely different words", "range": [180.53, 183.71], "ans": []},
+    {
+      "lyric_hangul": "I just can't hold it ma, 사랑한다 말하고 싶어",
+      "lyric_translation": "I juss can’t hold it ma / I want to say I love you",
+      "parts": [
+        {"lyric": "Goraedeul ppuninde I juss can’t hold it ma", "range": [183.71, 184.72], "ans": []},
+        {"lyric": "Saranghanda malhago sipeo", "range": [184.72, 186.53], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "혼자 하는 돌림 노래, 같은 악보 위를 되짚어",
+      "lyric_translation": "I want to trace back to this music sheet that’s / like a rotating song that I sing myself",
+      "parts": [
+        {"lyric": "Honja haneun dollim norae,", "range": [186.5, 187.84], "ans": []},
+        {"lyric": "Gateun akbo wireul doejipeo", "range": [187.84, 189.14], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이 바다는 너무 깊어, 그래도 난 다행인 걸",
+      "lyric_translation": "This sea is too deep / Still, I’m lucky / Because even if I cry, no one would know",
+      "parts": [
+        {"lyric": "I badaneun neomu gipeo", "range": [188.51, 189.87], "ans": []},
+        {"lyric": "Geuraedo nan dahaengin geol", "range": [189.87, 190.95], "ans": []},
+        {"lyric": "(nunmul nado amudo moreulteni)", "range": [190.25, 191.85], "ans": [6]}
+      ]
+    },
+    {"lyric": "I’m a whalien", "lyric_hangul": "(눈물 나도 아무도 모를 테니) I'm a whalien", "lyric_translation": "I’m a whalien", "range": [191.83, 194.25], "ans": []},
+    "",
+    {"lyric": "Lonely lonely lonely whale", "lyric_hangul": "Lonely, lonely, lonely whale", "lyric_translation": "Lonely lonely lonely whale", "range": [194.25, 196.24], "ans": [7]},
+    {"lyric": "Ireoke honja noraebulleo", "lyric_hangul": "이렇게 혼자 노래 불러", "lyric_translation": "Singing alone like this", "range": [196.24, 199.0], "ans": [7]},
+    {"lyric": "Oettan seom gateun nado", "lyric_hangul": "외딴 섬 같은 나도", "lyric_translation": "Even me, who’s like a lonely island", "range": [199.0, 201.96], "ans": [7]},
+    {"lyric": "Barkge bitnal su isseulkka", "lyric_hangul": "밝게 빛날 수 있을까?", "lyric_translation": "Can I shine on the outside", "range": [201.96, 204.97], "ans": [7]},
+    "",
+    {"lyric": "Lonely lonely lonely whale", "lyric_hangul": "Lonely, lonely, lonely whale", "lyric_translation": "Lonely lonely lonely whale", "range": [204.97, 206.61], "ans": [1]},
+    {"lyric": "Ireoke tto han beon bulleobwa", "lyric_hangul": "이렇게 또 한 번 불러봐", "lyric_translation": "Like this, try calling once again", "range": [206.61, 209.48], "ans": [1]},
+    {"lyric": "Daedap eobtneun i noraega", "lyric_hangul": "대답 없는 이 노래가", "lyric_translation": "Until this song that doesn’t have a response", "range": [209.48, 212.45], "ans": [1]},
+    {"lyric": "Naeire daheul ttaekkaji", "lyric_hangul": "내일에 닿을 때까지", "lyric_translation": "Reaches tomorrow", "range": [212.45, 215.61], "ans": [1]},
+    "",
+    {"lyric": "No more, no more baby", "lyric_hangul": "No more, no more, baby", "lyric_translation": "No more no more baby", "range": [215.61, 217.09], "ans": [5, 7]},
+    {"lyric": "No more, no more", "lyric_hangul": "No more, no more", "lyric_translation": "No more no more", "range": [217.09, 220.61], "ans": [5, 7]},
+    {"lyric": "Kkeuteobtneun mujeon hana eonjenga daheul geoya", "lyric_hangul": "끝없는 무전 하나 언젠가 닿을 거야", "lyric_translation": "An endless signal, will reach someday", "range": [220.61, 223.37], "ans": []},
+    {"lyric": "Jeogi jigu bandaepyeonkkaji da", "lyric_hangul": "저기 지구 반대편까지 다", "lyric_translation": "Everywhere, even to the other side of the earth", "range": [223.37, 225.81], "ans": []},
+    "",
+    {"lyric": "No more, no more baby", "lyric_hangul": "No more, no more, baby", "lyric_translation": "No more no more baby", "range": [225.81, 229.03], "ans": [5, 7]},
+    {"lyric": "No more, no more", "lyric_hangul": "No more, no more", "lyric_translation": "No more no more", "range": [229.03, 231.09], "ans": [5, 7]},
+    {"lyric": "Nunmeon goraedeuljocha nan bol su isseul geoya", "lyric_hangul": "눈먼 고래들조차 난 볼 수 있을 거야", "lyric_translation": "Even the blind whales will be able to see me", "range": [231.09, 233.88], "ans": []},
+    {"lyric": "Oneuldo dasi noraehaji na", "lyric_hangul": "오늘도 다시 노래하지", "lyric_translation": "Today, again, I sing", "range": [233.88, 237.8], "ans": []}
+  ]
+}

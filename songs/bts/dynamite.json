@@ -1,0 +1,122 @@
+{
+  "name": "Dynamite\r",
+  "ogg": "sound/kpop/dynamite.ogg",
+  "id": "dynamite",
+  "group": "bts",
+  "language": "en",
+  "released": "2020-08-21",
+  "album": "Dynamite",
+  "cover": "css/images/covers/dynamite.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:43Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Cos ah ah I’m in the stars tonight", "lyric_hangul": "'Cause I, I, I'm in the stars tonight", "lyric_translation": "", "range": [0.15, 3.64], "ans": [7]},
+    {"lyric": "So watch me bring the fire and set the night alight", "lyric_hangul": "So, watch me bring the fire, and set the night alight", "lyric_translation": "", "range": [3.64, 8.51], "ans": [7]},
+    "",
+    {"lyric": "Shoes on get up in the morn", "lyric_hangul": "Your shoes on, get up in the morn'", "lyric_translation": "", "range": [8.51, 10.47], "ans": [7]},
+    {"lyric": "Cup of milk let’s rock and roll", "lyric_hangul": "Cup of milk, let's rock 'n' roll", "lyric_translation": "", "range": [10.47, 12.81], "ans": [7]},
+    {"lyric": "King Kong, kick the drum", "lyric_hangul": "King Kong, kick the drum", "lyric_translation": "", "range": [12.81, 14.37], "ans": []},
+    {"lyric": "King Kong kick the drum rolling on like a rolling stone", "lyric_hangul": "King Kong, kick the drum Rolling on like a Rolling Stone", "lyric_translation": "", "range": [12.81, 17.32], "ans": [7]},
+    {"lyric": "Sing song when I’m walking home", "lyric_hangul": "Sing-song when I'm walking home", "lyric_translation": "", "range": [17.32, 18.84], "ans": [7]},
+    {"lyric": "Jump up to the top LeBron", "lyric_hangul": "Jump up to the top, LeBron", "lyric_translation": "", "range": [18.84, 21.48], "ans": [7]},
+    {"lyric": "Ding dong call me on my phone", "lyric_hangul": "Ding-dong, call me on my phone", "lyric_translation": "", "range": [21.48, 22.94], "ans": [7]},
+    {"lyric": "Ice tea and a game of ping pong", "lyric_hangul": "Ice tea and a game of ping pong", "lyric_translation": "", "range": [22.94, 25.57], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "This is getting heavy, can you hear the bass boom? I'm ready (woo-hoo)",
+      "parts": [
+        {"lyric": "This is getting heavy", "range": [25.57, 27.11], "ans": [4]},
+        {"lyric": "Can you hear the bass boom, I’m ready", "range": [27.11, 29.8], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Life is sweet as honey, yeah, this beat cha-ching like money, huh",
+      "parts": [
+        {"lyric": "Life is sweet as honey", "range": [29.8, 31.8], "ans": [4]},
+        {"lyric": "Yeah this beat cha ching like money", "range": [31.8, 34.14], "ans": [4]}
+      ]
+    },
+    {"lyric": "Disco overload I’m into that I’m good to go", "lyric_hangul": "Disco overload, I'm into that, I'm good to go", "lyric_translation": "", "range": [34.14, 38.03], "ans": [3]},
+    {"lyric": "I’m diamond you know I glow up", "lyric_hangul": "I'm diamond, you know I glow up", "lyric_translation": "", "range": [38.03, 40.33], "ans": [3]},
+    {"lyric": "Hey, so let’s go", "lyric_hangul": "Hey, so let's go", "lyric_translation": "", "range": [40.33, 41.98], "ans": [4]},
+    "",
+    {"lyric": "Cos ah ah I’m in the stars tonight", "lyric_hangul": "'Cause I, I, I'm in the stars tonight", "lyric_translation": "", "range": [41.98, 45.8], "ans": [7]},
+    {"lyric": "So watch me bring the fire and set the night alight", "lyric_hangul": "So watch me bring the fire, and set the night alight (hey)", "lyric_translation": "", "range": [45.8, 50.42], "ans": [7]},
+    {"lyric": "Shining through the city with a little funk and soul", "lyric_hangul": "Shining through the city with a little funk and soul", "lyric_translation": "", "range": [50.42, 54.45], "ans": [5]},
+    {"lyric": "So I’mma light it up like dynamite, woah", "lyric_hangul": "So I'ma light it up like dynamite, whoa-oh-oh", "lyric_translation": "", "range": [54.45, 58.96], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "Bring a friend, join the crowd, whoever wanna come along",
+      "parts": [
+        {"lyric": "Bring a friend join the crowd", "range": [58.96, 60.89], "ans": [6]},
+        {"lyric": "Whoever wanna come along", "range": [60.89, 63.57], "ans": [6]}
+      ]
+    },
+    {"lyric": "Word up talk the talk just move like we off the wall", "lyric_hangul": "Word up, talk the talk, just move like we off the wall", "lyric_translation": "", "range": [63.57, 67.62], "ans": [6]},
+    {
+      "lyric_hangul": "Day or night, the sky's alight, so we dance to the break of dawn (hey)",
+      "parts": [
+        {"lyric": "Day or night the sky’s alight", "range": [67.62, 69.22], "ans": [6]},
+        {"lyric": "So we dance to the break of dawn", "range": [69.22, 71.9], "ans": [6]}
+      ]
+    },
+    {"lyric": "Ladies and gentlemen, I got the medicine", "lyric_hangul": "Ladies and gentlemen, I got the medicine", "lyric_translation": "", "range": [71.9, 73.64], "ans": []},
+    {"lyric": "Ladies and gentlemen, I got the medicine so you should keep ya eyes on the ball, huh", "lyric_hangul": "Ladies and gentlemen, I got the medicine So you should keep ya eyes on the ball, huh", "lyric_translation": "", "range": [71.9, 75.87], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "This is getting heavy, can you hear the bass boom? I'm ready (woo-hoo)",
+      "parts": [
+        {"lyric": "This is getting heavy", "range": [75.87, 77.65], "ans": [2]},
+        {"lyric": "Can you hear the bass boom, I’m ready", "range": [77.65, 80.08], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Life is sweet as honey, yeah, this beat cha-ching like money, huh",
+      "parts": [
+        {"lyric": "Life is sweet as honey", "range": [80.08, 82.35], "ans": [2]},
+        {"lyric": "Yeah this beat cha ching like money", "range": [82.35, 84.33], "ans": [2]}
+      ]
+    },
+    {"lyric": "Disco overload I’m into that I’m good to go", "lyric_hangul": "Disco overload, I'm into that, I'm good to go", "lyric_translation": "", "range": [84.33, 87.61], "ans": [5, 4]},
+    {"lyric": "I’m diamond you know I glow up", "lyric_hangul": "I'm diamond, you know I glow up", "lyric_translation": "", "range": [87.61, 90.82], "ans": [5, 4]},
+    {"lyric": "Let’s go", "lyric_hangul": "Let's go", "lyric_translation": "", "range": [90.82, 92.43], "ans": [4]},
+    "",
+    {"lyric": "Cos ah ah I’m in the stars tonight", "lyric_hangul": "'Cause I, I, I'm in the stars tonight", "lyric_translation": "", "range": [92.43, 96.48], "ans": [7]},
+    {"lyric": "So watch me bring the fire and set the night alight", "lyric_hangul": "So watch me bring the fire, and set the night alight (hey)", "lyric_translation": "", "range": [96.48, 100.95], "ans": [7]},
+    {"lyric": "Shining through the city with a little funk and soul", "lyric_hangul": "Shining through the city with a little funk and soul", "lyric_translation": "", "range": [100.95, 104.85], "ans": [6]},
+    {"lyric": "So I’mma light it up like dynamite, woah", "lyric_hangul": "So I'ma light it up like dynamite, whoa-oh-oh", "lyric_translation": "", "range": [104.85, 109.79], "ans": [6, 5]},
+    "",
+    "[next-col]",
+    {"lyric": "Dynnnnnanana, life is dynamite", "lyric_hangul": "Dyn-na-na-na, na-na-na-na-na, na-na-na, life is dynamite", "lyric_translation": "", "range": [109.79, 113.73], "ans": [7]},
+    {"lyric": "Dynnnnnanana, life is dynamite", "lyric_hangul": "Dyn-na-na-na, na-na-na-na-na, na-na-na, life is dynamite", "lyric_translation": "", "range": [113.73, 117.86], "ans": [7]},
+    {"lyric": "Shining through the city with a little funk and soul", "lyric_hangul": "Shining through the city with a little funk and soul", "lyric_translation": "", "range": [117.86, 121.66], "ans": [1]},
+    {"lyric": "So I’mma light it up like dynamite, woah", "lyric_hangul": "So I'ma light it up like dynamite, whoa-oh-oh", "lyric_translation": "", "range": [121.66, 126.35], "ans": [1]},
+    "",
+    {"lyric": "Dynnnnnanana eh", "lyric_hangul": "Dyn-na-na-na, na-na, na-na, ayy", "lyric_translation": "", "range": [126.35, 128.94], "ans": [7]},
+    {"lyric": "Dynnnnnanana eh", "lyric_hangul": "Dyn-na-na-na, na-na, na-na, ayy", "lyric_translation": "", "range": [128.94, 130.85], "ans": [7]},
+    {"lyric": "Dynnnnnanana eh", "lyric_hangul": "Dyn-na-na-na, na-na, na-na, ayy", "lyric_translation": "", "range": [130.85, 132.65], "ans": [5]},
+    {"lyric": "Light it up like dynamite", "lyric_hangul": "Light it up like dynamite", "lyric_translation": "", "range": [132.65, 134.8], "ans": [5]},
+    "",
+    {"lyric": "Dynnnnnanana eh", "lyric_hangul": "Dyn-na-na-na, na-na, na-na, ayy", "lyric_translation": "", "range": [134.8, 137.17], "ans": [7]},
+    {"lyric": "Dynnnnnanana eh", "lyric_hangul": "Dyn-na-na-na, na-na, na-na, ayy", "lyric_translation": "", "range": [137.17, 139.18], "ans": [7]},
+    {"lyric": "Dynnnnnanana eh", "lyric_hangul": "Dyn-na-na-na, na-na, na-na, ayy", "lyric_translation": "", "range": [139.18, 140.95], "ans": [1]},
+    {"lyric": "Light it up like dynamite", "lyric_hangul": "Light it up like dynamite", "lyric_translation": "", "range": [140.95, 143.19], "ans": [1]},
+    "",
+    {"lyric": "Cos ah ah I’m in the stars tonight", "lyric_hangul": "'Cause I, I, I'm in the stars tonight", "lyric_translation": "", "range": [143.19, 146.85], "ans": [5]},
+    {"lyric": "So watch me bring the fire and set the night alight", "lyric_hangul": "So watch me bring the fire, and set the night alight", "lyric_translation": "", "range": [146.85, 151.53], "ans": [5]},
+    {"lyric": "Shining through the city with a little funk and soul", "lyric_hangul": "Shining through the city with a little funk and soul", "lyric_translation": "", "range": [151.53, 154.94], "ans": [7]},
+    {"lyric": "So I’mma light it up like dynamite", "lyric_hangul": "So I'ma light it up like dynamite", "lyric_translation": "", "range": [154.94, 159.51], "ans": [7]},
+    "",
+    {"lyric": "Cos ah ah I’m in the stars tonight", "lyric_hangul": "(This is ah) 'cause I, I, I'm in the stars tonight", "lyric_translation": "", "range": [159.51, 163.37], "ans": [5]},
+    {"lyric": "So watch me bring the fire and set the night alight", "lyric_hangul": "So watch me bring the fire, and set the night alight (alight, oh)", "lyric_translation": "", "range": [163.37, 168.43], "ans": [5]},
+    {"lyric": "Shining through the city with a little funk and soul", "lyric_hangul": "Shining through the city with a little funk and soul", "lyric_translation": "", "range": [168.43, 172.09], "ans": [1]},
+    {"lyric": "So I’mma light it up like dynamite, woah", "lyric_hangul": "So I'ma light it up like dynamite, whoa-oh-oh (light it up like dynamite)", "lyric_translation": "", "range": [172.09, 177.19], "ans": [1]},
+    "",
+    {"lyric": "Dynnnnnanana, life is dynamite", "lyric_hangul": "Dyn-na-na-na, na-na-na-na-na, na-na-na, life is dynamite (life is dynamite)", "lyric_translation": "", "range": [177.19, 181.22], "ans": [5]},
+    {"lyric": "Dynnnnnanana, life is dynamite", "lyric_hangul": "Dyn-na-na-na, na-na-na-na-na, na-na-na, life is dynamite (oh)", "lyric_translation": "", "range": [181.22, 185.2], "ans": [5]},
+    {"lyric": "Shining through the city with a little funk and soul", "lyric_hangul": "Shining through the city with a little funk and soul", "lyric_translation": "", "range": [185.2, 188.96], "ans": [6]},
+    {"lyric": "So I’mma light it up like dynamite, woah", "lyric_hangul": "So I'ma light it up like dynamite, whoa-oh-oh", "lyric_translation": "", "range": [188.96, 195.74], "ans": [6]}
+  ]
+}

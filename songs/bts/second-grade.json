@@ -1,0 +1,346 @@
+{
+  "name": "Second Grade (2학년)\r",
+  "ogg": "sound/kpop/second_grade.ogg",
+  "id": "second-grade",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/second-grade.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:10Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [10.23, 13.3], "ans": [7]},
+    {
+      "lyric_hangul": "또 방아쇠를 당겨 'cause time flowing fast",
+      "lyric_translation": "Pulling on my chains again / cause time flowing fast",
+      "parts": [
+        {"lyric": "Tto bangasoereul danggyeo", "range": [13.3, 15.18], "ans": [7]},
+        {"lyric": "Cause time flowing fast", "range": [15.18, 16.42], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [16.37, 19.1], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [19.1, 22.02], "ans": [5]},
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [22.02, 24.78], "ans": [6]},
+    {
+      "lyric_hangul": "꿈만 좇던 내가 이젠 무대에 불을 내",
+      "lyric_translation": "I only chased my dreams / but now I’m setting the stage on fire",
+      "parts": [
+        {"lyric": "Kkumman jotteon naega", "range": [24.78, 26.36], "ans": [6]},
+        {"lyric": "Ijen mudaee bureul nae", "range": [26.36, 28.05], "ans": [6]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [28.05, 30.69], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [30.69, 33.97], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "난 별로 달라진 게 없어 baby 가요계 2학년",
+      "lyric_translation": "Nothing’s really changed baby, / it’s my second year of kpop",
+      "parts": [
+        {"lyric": "Nan byeollo dallajin ge eobseo baby", "range": [33.97, 36.47], "ans": []},
+        {"lyric": "Gayogye 2haknyeon", "range": [36.47, 37.91], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "아직 181 baby 마음의 키만 컸으",
+      "lyric_translation": "I’m still 181 baby, / only my heart grew taller",
+      "parts": [
+        {"lyric": "Ajik 181 baby", "range": [37.41, 38.35], "ans": []},
+        {"lyric": "Maeumui kiman keosseu", "range": [38.35, 40.97], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "나름 학년 1등 baby 받았어 신인상도",
+      "lyric_translation": "I’m the first in my class baby, / I even got the rookie award",
+      "parts": [
+        {"lyric": "Nareum haknyeon 1deung Baby", "range": [40.46, 42.04], "ans": []},
+        {"lyric": "Badasseo sininsangdo", "range": [42.04, 43.62], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "복도를 돌아다니다 보면 받아 새 후배들 인사도",
+      "lyric_translation": "Going around the halls, / I even get greeted by new juniors",
+      "parts": [
+        {"lyric": "Bokdoreul doradanida bomyeon", "range": [43.38, 44.84], "ans": []},
+        {"lyric": "Bada sae hubaedeul insado", "range": [44.84, 46.28], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "이젠 좀 알 것 같애 리허설도 능숙하게",
+      "lyric_translation": "I think I know what’s going on now, / rehearsals going smoothly",
+      "parts": [
+        {"lyric": "Ijen jom al geot gatae", "range": [46.09, 47.97], "ans": []},
+        {"lyric": "Riheoseoldo neungsukhage", "range": [47.97, 49.29], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "1년 후배도 생기고 이젠 좀 나도 나가는 거 같애",
+      "lyric_translation": "I have juniors a year below me / and I think I’m doing well now",
+      "parts": [
+        {"lyric": "1nyeon hubaedo saenggigo ijen", "range": [48.97, 50.91], "ans": []},
+        {"lyric": "Jom nado naganeun geo gatae", "range": [50.91, 52.37], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Ah 쉿 어 근데 눈앞에 5, 6년차 선배들",
+      "lyric_translation": "Ahh, shit / but I see seniors five and six years above",
+      "parts": [
+        {"lyric": "Ahhh swit eo..", "range": [52.04, 53.0], "ans": []},
+        {"lyric": "Geunde nunape 5 6nyeoncha seonbaedeul", "range": [53.0, 55.32], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(안녕하세요) 그제야 느끼지 아직 멀기만 한 현재를",
+      "lyric_translation": "(Hello!) Now I realize, / I’m still far away",
+      "parts": [
+        {"lyric": "(annyeonghaseyo!) geujeya neukkiji", "range": [55.29, 57.09], "ans": []},
+        {"lyric": "Ajik meolgiman han hyeonjaereul", "range": [57.09, 58.27], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "대중 선생님들은 작년까진 부담 안 줘",
+      "lyric_translation": "Teachers didn’t give / pressure last year",
+      "parts": [
+        {"lyric": "Daejung seonsaengnimdeureun", "range": [57.91, 59.57], "ans": []},
+        {"lyric": "Jangnyeonkkajin budam an jwo", "range": [59.57, 61.13], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "겨우 1학년 신인이라며 괜찮다며 나를 앉혀놓고",
+      "lyric_translation": "Saying that I’m just a rookie and that it’s okay / They sat me down and",
+      "parts": [
+        {"lyric": "Gyeou 1haknyeon sininiramyeo gwaenchantamyeo", "range": [61.01, 63.27], "ans": []},
+        {"lyric": "Nareul anchyeonoko", "range": [63.27, 64.27], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "세상이 얼마나 차가운지 몇 가지 과목으로 알려줬지",
+      "lyric_translation": "taught me how cold the world is / With a few subjects",
+      "parts": [
+        {"lyric": "Sesangi eolmana chagaunji", "range": [63.88, 65.67], "ans": []},
+        {"lyric": "Myeot gaji gwamogeuro allyeojwotji", "range": [65.67, 67.13], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "선입견, 악플, 이중잣대, 욕설 그리고 무관심",
+      "lyric_translation": "Bias, negative comments, double standards, / smack talk and disinterest",
+      "parts": [
+        {"lyric": "Seonipgyeon, akpeul, ijungjatdae,", "range": [66.58, 68.86], "ans": []},
+        {"lyric": "Yokseol geurigo mugwansim", "range": [68.86, 70.06], "ans": []}
+      ]
+    },
+    {"lyric": "Seonsaengnim yeogido suneungi innayo", "lyric_hangul": "선생님 여기도 수능이 있나요", "lyric_translation": "Teacher, do we have suneung for this too?", "range": [69.85, 72.35], "ans": []},
+    {"lyric": "1deunghamyeon seonggonghan gasuingayo", "lyric_hangul": "1등하면 성공한 가수인가요", "lyric_translation": "If I get first place, will I be a successful artist?", "range": [72.35, 75.85], "ans": []},
+    {"lyric": "Geureon geotdo jochiman eumagi hago sipeoyo", "lyric_hangul": "그런 것도 좋지만 음악이 하고 싶어요", "lyric_translation": "That’s good too but I wanna do music", "range": [75.85, 78.45], "ans": []},
+    {"lyric": "Ildan nae hagopeun daero halge nal jom naepdwoyeo", "lyric_hangul": "일단 내 하고픈 대로 할게 날 좀 냅둬여", "lyric_translation": "I’ll just do what I want for now so leave me alone", "range": [78.45, 81.67], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Work it out, work it out, 24시간",
+      "lyric_translation": "Work it out work it out 24 hours",
+      "parts": [
+        {"lyric": "Work it out work it out", "range": [81.67, 84.1], "ans": []},
+        {"lyric": "24sigan", "range": [83.4, 84.72], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Burn it up, burn it up 불태워 매 순간",
+      "lyric_translation": "Burn it up burn it up, burn up every moment",
+      "parts": [
+        {"lyric": "Burn it up burn it up", "range": [84.72, 86.93], "ans": []},
+        {"lyric": "Bultaewo mae sungan", "range": [86.23, 87.44], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ireonjeoreon gomindeureun dwiro", "lyric_hangul": "이런저런 고민들은 뒤로", "lyric_translation": "Put back your worries", "range": [86.92, 89.83], "ans": []},
+    {"lyric": "1nyeoni neomeogado urideureun oneureul sareo", "lyric_hangul": "1년이 넘어가도 우리들은 오늘을 살어", "lyric_translation": "Even after a year, we live for today", "range": [89.83, 92.58], "ans": []},
+    "",
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [92.58, 94.93], "ans": [7]},
+    {
+      "lyric_hangul": "또 방아쇠를 당겨 'cause time flowing fast",
+      "lyric_translation": "Pulling on my chains again / cause time flowing fast",
+      "parts": [
+        {"lyric": "Tto bangasoereul danggyeo", "range": [94.93, 97.11], "ans": [7]},
+        {"lyric": "Cause time flowing fast", "range": [97.11, 98.33], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [98.32, 101.12], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [101.12, 104.23], "ans": [5]},
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [104.23, 106.88], "ans": [1]},
+    {
+      "lyric_hangul": "꿈만 좇던 내가 이젠 무대에 불을 내",
+      "lyric_translation": "I only chased my dreams / but now I’m setting the stage on fire",
+      "parts": [
+        {"lyric": "Kkumman jotteon naega", "range": [106.88, 108.3], "ans": [1]},
+        {"lyric": "Ijen mudaee bureul nae", "range": [108.3, 110.04], "ans": [1]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [109.97, 113.01], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [113.01, 116.28], "ans": [5]},
+    "",
+    {"lyric": "A beolsseo naega 2haknyeoni dwae (Oh no!)", "lyric_hangul": "아 벌써 내가 2학년이 돼 (Oh, no)", "lyric_translation": "I’m already in my second year (oh no)", "range": [116.28, 119.25], "ans": [3]},
+    {"lyric": "Nun kkamppak hal sae siganeun ppareuge (Go go)", "lyric_hangul": "눈 깜빡 할 새 시간은 빠르게 (Go, go)", "lyric_translation": "At the blink of an eye, time is so fast (go go)", "range": [119.25, 122.16], "ans": [3]},
+    {"lyric": "Gongbudo yeolsimhi nolgido yeolsimhi Right", "lyric_hangul": "공부도 열심히 놀기도 열심히 right", "lyric_translation": "Work hard play hard right", "range": [122.16, 124.86], "ans": [3]},
+    {"lyric": "Geureoke 1nyeoni gijeogi irwojin geotcheoreom Bye", "lyric_hangul": "그렇게 1년이 기적이 이뤄진 것처럼 bye", "lyric_translation": "A year passed like a miracle bye", "range": [124.86, 128.51], "ans": [3]},
+    {
+      "lyric_hangul": "근데 어떡해? 괜시리 걱정돼",
+      "lyric_translation": "But what to do? / I’m getting worried",
+      "parts": [
+        {"lyric": "Geunde eotteokhae?", "range": [128.51, 129.96], "ans": [3]},
+        {"lyric": "Gwaensiri geokjeongdwae", "range": [129.96, 131.33], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "눈칫밥은 덜 먹겠지만 배울 과목은 진수성찬인데",
+      "lyric_translation": "I might be a bit more comfortable / but there’s still so much to learn",
+      "parts": [
+        {"lyric": "Nunchitbabeun deol meokgetjiman", "range": [130.83, 132.57], "ans": [3]},
+        {"lyric": "Baeul gwamogeun jinsuseongchaninde", "range": [132.57, 134.31], "ans": [3]}
+      ]
+    },
+    {"lyric": "Swil ttaeda sipeum seonsaengnimi", "lyric_hangul": "쉴 때다 싶음 선생님이 말하지", "lyric_translation": "Every time I get a break,", "range": [134.08, 137.18], "ans": [3]},
+    {
+      "lyric_hangul": "잔소린 빵빵빵 \"수능은 잘 봐야지\"",
+      "lyric_translation": "the teacher keeps nagging / “You need to take the test!”",
+      "parts": [
+        {"lyric": "Malhaji jansorin ppangppangppang", "range": [137.18, 138.56], "ans": [3]},
+        {"lyric": "“suneungeun jal bwayaji!”", "range": [138.56, 140.4], "ans": [3]}
+      ]
+    },
+    {"lyric": "Museun suneungeun suneung", "lyric_hangul": "무슨 수능은 수능", "lyric_translation": "What do you mean test", "range": [140.4, 142.76], "ans": [3]},
+    {
+      "lyric_hangul": "선생님 우리도 사람이에요 수긍해 수긍",
+      "lyric_translation": "Teacher, we are human too / Just nod along, nod",
+      "parts": [
+        {"lyric": "Seonsaengnim urido saramieyo.", "range": [142.76, 144.76], "ans": [3]},
+        {"lyric": "Sugeunghae sugeung", "range": [144.76, 145.86], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "오늘은 다 때려치고 후배들 놀리러나 가 볼까?",
+      "lyric_translation": "Let’s push everything back today / and go tease the juniors",
+      "parts": [
+        {"lyric": "Oneureun da ttaeryeochigo", "range": [145.79, 147.11], "ans": [3]},
+        {"lyric": "Hubaedeul nollireona ga bolkka?", "range": [147.11, 149.91], "ans": [3]}
+      ]
+    },
+    {"lyric": "Oneul na PCbangeuro jam mot ja", "lyric_hangul": "오늘 나 PC방으로 잠 못 자", "lyric_translation": "I’ll go to the PC cafe today, I can’t sleep", "range": [149.91, 152.2], "ans": [3]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Work it out, work it out, 24시간",
+      "lyric_translation": "Work it out work it out 24 hours",
+      "parts": [
+        {"lyric": "Work it out work it out", "range": [152.2, 154.35], "ans": []},
+        {"lyric": "24sigan", "range": [153.65, 155.05], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Burn it up, burn it up 불태워 매 순간",
+      "lyric_translation": "Burn it up burn it up, burn up every moment",
+      "parts": [
+        {"lyric": "Burn it up burn it up", "range": [155.05, 157.16], "ans": []},
+        {"lyric": "Bultaewo mae sungan", "range": [156.46, 157.75], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ireonjeoreon gomindeureun dwiro", "lyric_hangul": "이런저런 고민들은 뒤로", "lyric_translation": "Put back your worries", "range": [157.41, 160.13], "ans": []},
+    {"lyric": "1nyeoni neomeogado urideureun oneureul sareo", "lyric_hangul": "1년이 넘어가도 우리들은 오늘을 살어", "lyric_translation": "Even after a year, we live for today", "range": [160.13, 162.81], "ans": []},
+    "",
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [162.81, 165.37], "ans": [7]},
+    {
+      "lyric_hangul": "또 방아쇠를 당겨 'cause time flowing fast",
+      "lyric_translation": "Pulling on my chains again / cause time flowing fast",
+      "parts": [
+        {"lyric": "Tto bangasoereul danggyeo", "range": [165.37, 167.33], "ans": [7]},
+        {"lyric": "Cause time flowing fast", "range": [167.33, 168.61], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [168.59, 171.59], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [171.59, 174.49], "ans": [5]},
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [174.49, 176.96], "ans": [1]},
+    {
+      "lyric_hangul": "꿈만 좇던 내가 이젠 무대에 불을 내",
+      "lyric_translation": "I only chased my dreams / but now I’m setting the stage on fire",
+      "parts": [
+        {"lyric": "Kkumman jotteon naega", "range": [176.96, 178.56], "ans": [1]},
+        {"lyric": "Ijen mudaee bureul nae", "range": [178.56, 180.24], "ans": [1]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [180.13, 183.02], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [183.02, 186.81], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "2년차 랩퍼 점수를 매겨보자면 다행히 선방은 했어",
+      "lyric_translation": "A second year rapper, put a score on him / Fortunately, I put up a good defense",
+      "parts": [
+        {"lyric": "2nyeoncha raeppeo jeomsureul maegyeobojamyeon", "range": [186.81, 189.13], "ans": [2]},
+        {"lyric": "Dahaenghi seonbangeun haesseo", "range": [189.13, 190.05], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "아직은 애송이, 계속해서 달려와서 고작 2학년이 됐어",
+      "lyric_translation": "I’m still a child, I kept running / but am only in my second year",
+      "parts": [
+        {"lyric": "Ajigeun aesongi, gyesokhaeseo", "range": [189.58, 191.48], "ans": [2]},
+        {"lyric": "Dallyeowaseo gojak 2haknyeoni dwaesseo", "range": [191.48, 193.02], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "이상과 현실 사이의 걸리버 눈치 따윈 보지 않어",
+      "lyric_translation": "Like Gulliver traveling between strangeness and reality / I don’t care about others,",
+      "parts": [
+        {"lyric": "Isanggwa hyeonsil saiui geollibeo", "range": [192.59, 194.08], "ans": [2]},
+        {"lyric": "Nunchi ttawin boji anheo kkollineun daero", "range": [194.08, 195.42], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "꼴리는 대로 막 나갈 겨 색안경 낀 꼰대들 내 앞으로 줄 맞춰",
+      "lyric_translation": "I’ll just go with the flow / Bring all the losers with bias to me",
+      "parts": [
+        {"lyric": "Mak nagal gyeo saegangyeong kkin", "range": [195.09, 196.69], "ans": [2]},
+        {"lyric": "Kkondaedeul nae apeuro jul matchwo", "range": [196.69, 199.62], "ans": [2]}
+      ]
+    },
+    {"lyric": "Dorikyeobomyeon wanjeon pi mallyeo", "lyric_hangul": "돌이켜보면 완전 피 말려", "lyric_translation": "Looking back makes my blood dry up", "range": [199.62, 201.38], "ans": [2]},
+    {
+      "lyric_hangul": "닥쳐 이제 난 2학년 이건 새 시대 시발점",
+      "lyric_translation": "Shut up, I’m in my second year, / the starting point of a new era",
+      "parts": [
+        {"lyric": "Dakchyeo ije nan 2haknyeon", "range": [201.38, 203.22], "ans": [2]},
+        {"lyric": "Igeon sae sidae sibaljeom", "range": [203.22, 204.7], "ans": [2]}
+      ]
+    },
+    {"lyric": "Kkokkkok sumeora nae janmeoriga da boilla", "lyric_hangul": "꼭꼭 숨어라 내 잔머리가 다 보일라", "lyric_translation": "Hide carefully or else you’ll see past my tricks", "range": [204.15, 207.02], "ans": [2]},
+    {
+      "lyric_hangul": "선배든 후배든 선생이든 get the out",
+      "lyric_translation": "Whether you’re a senior or junior or teacher, / get the out",
+      "parts": [
+        {"lyric": "Seonbaedeun hubaedeun seonsaengideun", "range": [207.02, 209.48], "ans": [2]},
+        {"lyric": "Get the out", "range": [209.48, 210.41], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [210.41, 212.32], "ans": [7]},
+    {
+      "lyric_hangul": "또 방아쇠를 당겨 'cause time flowing fast",
+      "lyric_translation": "Pulling on my chains again / cause time flowing fast",
+      "parts": [
+        {"lyric": "Tto bangasoereul danggyeo", "range": [212.32, 214.18], "ans": [7]},
+        {"lyric": "Cause time flowing fast", "range": [214.18, 215.42], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [215.01, 218.43], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [218.43, 221.25], "ans": [5]},
+    {"lyric": "Nun kkamjjakhal sae 2haknyeoni dwae", "lyric_hangul": "눈 깜짝할 새 2학년이 돼", "lyric_translation": "At the blink of an eye, I went to grade 2", "range": [221.25, 223.8], "ans": [6]},
+    {
+      "lyric_hangul": "꿈만 좇던 내가 이젠 무대에 불을 내",
+      "lyric_translation": "I only chased my dreams / but now I’m setting the stage on fire",
+      "parts": [
+        {"lyric": "Kkumman jotteon naega", "range": [223.8, 225.38], "ans": [6]},
+        {"lyric": "Ijen mudaee bureul nae", "range": [225.38, 227.11], "ans": [6]}
+      ]
+    },
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [227.11, 229.9], "ans": [5]},
+    {"lyric": "(Still everyday) Bang it bang it, bang it bang it", "lyric_hangul": "(Still every day) Bang it, bang it, bang it, bang it", "lyric_translation": "(Still everyday) Bang it bang it, bang it bang it", "range": [229.9, 233.81], "ans": [5]}
+  ]
+}

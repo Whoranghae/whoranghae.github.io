@@ -1,0 +1,192 @@
+{
+  "name": "Ma City\r",
+  "ogg": "sound/kpop/ma_city.ogg",
+  "id": "ma-city",
+  "group": "bts",
+  "language": "ko",
+  "released": "2015-11-30",
+  "album": "화양연화 The Most Beautiful Moment In Life pt.2",
+  "cover": "css/images/covers/ma-city.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:01Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Niga eodie salgeon", "lyric_hangul": "니가 어디에 살건", "lyric_translation": "Wherever you live", "range": [5.69, 9.54], "ans": [7]},
+    {"lyric": "Naega eodie salgeon", "lyric_hangul": "내가 어디에 살건", "lyric_translation": "Wherever I live", "range": [9.54, 15.12], "ans": [7]},
+    "",
+    {"lyric": "Hanchameul dallyeotne", "lyric_hangul": "한참을 달렸네", "lyric_translation": "I ran for a long time", "range": [15.12, 17.97], "ans": []},
+    {"lyric": "Na dasi tto hanchameul dallyeotne", "lyric_hangul": "나 다시 또 한참을 달렸네", "lyric_translation": "and again I ran for a long time", "range": [17.97, 22.02], "ans": []},
+    {"lyric": "Yeah i’ll be ridin and i’ll be dyin’", "lyric_hangul": "Yeah i'll be ridin and i'll be dyin'", "lyric_translation": "Yeah i’ll be ridin and i’ll be dyin’", "range": [22.02, 25.73], "ans": []},
+    {"lyric": "In ma city", "lyric_hangul": "In ma city", "lyric_translation": "In ma city", "range": [25.73, 30.74], "ans": []},
+    "",
+    {"lyric": "I don’t know what to say na jugeodo mal mothae", "lyric_hangul": "I don't know what to say 나 죽어도 말 못해", "lyric_translation": "I don’t know what to say. Even if I die, I can’t say it", "range": [30.74, 34.39], "ans": []},
+    {"lyric": "Naege eokman geumeul jugo ttan de sallago?", "lyric_hangul": "내게 억만 금을 주고 딴 데 살라고", "lyric_translation": "Even if you give me a hundred thousand dollars to live somewhere else", "range": [34.39, 37.49], "ans": []},
+    {"lyric": "Ah no thanks", "lyric_hangul": "Ah no thanks", "lyric_translation": "ah no thanks", "range": [37.49, 38.49], "ans": []},
+    {"lyric": "Ilsan. naega jugeodo mudhigopeun got", "lyric_hangul": "일산 내가 죽어도 묻히고픈 곳", "lyric_translation": "Ilsan is the place I want to be buried after I die", "range": [38.49, 40.76], "ans": []},
+    {"lyric": "It’s the city of the flower, city of mon", "lyric_hangul": "It's the city of the flower city of 몬", "lyric_translation": "It’s the city of the flower, city of Mon", "range": [40.76, 42.56], "ans": []},
+    {"lyric": "Jip gatdeon lafeseuta tto weseuteondom", "lyric_hangul": "집 같던 라페스타 또 웨스턴돔", "lyric_translation": "La Festa and the Western Dome that were like home", "range": [42.56, 44.73], "ans": []},
+    {"lyric": "Eorin sijeol nal kiwonaen hugok hakwonchon uh", "lyric_hangul": "어린 시절 날 키워낸 후곡 학원촌 uh", "lyric_translation": "The Hugok academy village that raised me in my youth, uh", "range": [44.73, 47.43], "ans": []},
+    {"lyric": "Sesangeseo gajang johwaroun got uh", "lyric_hangul": "세상에서 가장 조화로운 곳 uh", "lyric_translation": "The most harmonious place in the world, uh", "range": [47.43, 48.83], "ans": []},
+    {"lyric": "Jayeongwa dosi, bildinggwa kkot uh", "lyric_hangul": "자연과 도시 빌딩과 꽃 uh", "lyric_translation": "The nature and the city, the buildings and the flowers, uh", "range": [48.83, 51.22], "ans": []},
+    {"lyric": "Hangangboda hosugongwoni deo joha nan", "lyric_hangul": "한강보다 호수공원이 더 좋아 난", "lyric_translation": "Me, who likes the Ilsan Lake Park more than the Han River", "range": [51.22, 52.67], "ans": []},
+    {"lyric": "Jagado hwolssin pogeunhi anajundago neol", "lyric_hangul": "작아도 훨씬 포근히 안아준다고 널", "lyric_translation": "Even if you’re small, you hold me so cozily", "range": [52.67, 54.78], "ans": []},
+    {"lyric": "Naega nareul irhneun geot gateul ttae", "lyric_hangul": "내가 나를 잃는 것 같을 때", "lyric_translation": "When it seems like I’m going to forget myself", "range": [54.78, 56.6], "ans": []},
+    {"lyric": "Geu goseseo bitbarae oraedoen nal chatne", "lyric_hangul": "그 곳에서 빛바래 오래된 날 찾네", "lyric_translation": "In that place, I find my old self", "range": [56.6, 58.44], "ans": []},
+    {"lyric": "Remember neoui naemsae tto everything", "lyric_hangul": "Remember 너의 냄새 또 everything", "lyric_translation": "Remember your smell and everything else", "range": [58.44, 60.68], "ans": []},
+    {"lyric": "You're my summer autumn", "lyric_hangul": "You're my summer autumn", "lyric_translation": "", "range": [60.68, 61.47], "ans": []},
+    {"lyric": "You’re my summer, autumn, winter and every spring", "lyric_hangul": "You're my summer autumn Winter and every spring", "lyric_translation": "You’re my summer autumn winter every spring", "range": [60.68, 63.06], "ans": []},
+    "",
+    {"lyric": "Ja busanui badayeo", "lyric_hangul": "자 부산의 바다여", "lyric_translation": "Hey, Busan’s sea", "range": [63.06, 65.07], "ans": [5]},
+    {"lyric": "Say la la la la la", "lyric_hangul": "Say la la la la la", "lyric_translation": "Say la la la la la", "range": [65.07, 66.97], "ans": [6]},
+    {"lyric": "Pureun haneurarae this sky line", "lyric_hangul": "푸른 하늘아래 this sky line", "lyric_translation": "Under the blue sky, this sky line", "range": [66.97, 69.08], "ans": [5]},
+    {"lyric": "Say la la la la la", "lyric_hangul": "Say la la la la la", "lyric_translation": "Say la la la la la", "range": [69.08, 70.71], "ans": [6]},
+    {"lyric": "Ajaedeureun soneul deureo", "lyric_hangul": "아재들은 손을 들어", "lyric_translation": "Uncles, put your hands up", "range": [70.71, 72.44], "ans": [1]},
+    {"lyric": "Ajimaedo son heundeureo", "lyric_hangul": "아지매도 손 흔들어", "lyric_translation": "Aunties, wave your hands around", "range": [72.44, 74.2], "ans": [1]},
+    {"lyric": "Ma Cityro wa", "lyric_hangul": "Ma City로 와", "lyric_translation": "Come to my city", "range": [74.2, 77.32], "ans": [5]},
+    "",
+    {"lyric": "Come to ma city", "lyric_hangul": "Come to ma city", "lyric_translation": "Come to ma city", "range": [77.32, 80.17], "ans": []},
+    {"lyric": "Jal bwa jugil barae", "lyric_hangul": "잘 봐 주길 바래", "lyric_translation": "I hope that you’ll watch over me well", "range": [80.17, 81.54], "ans": [1]},
+    {"lyric": "Know how to party", "lyric_hangul": "Know how to party", "lyric_translation": "Know how to party", "range": [81.54, 84.14], "ans": []},
+    {"lyric": "Nal kiwojun city", "lyric_hangul": "날 키워준 city", "lyric_translation": "The city that raised me", "range": [84.14, 85.81], "ans": [7]},
+    {
+      "lyric_hangul": "그래 babe babe 이게 나의 city City",
+      "lyric_translation": "That’s right, babe babe / This is my city city / Welcome to ma city",
+      "parts": [
+        {"lyric": "Geurae babe babe", "range": [85.81, 86.57], "ans": [7]},
+        {"lyric": "Ige naui city", "range": [86.57, 88.46], "ans": [7]},
+        {"lyric": "City", "range": [87.76, 89.04], "ans": []},
+        {"lyric": "(Welcome to ma city)", "range": [88.34, 92.3], "ans": [7]}
+      ]
+    },
+    {"lyric": "Welcome to ma city", "lyric_hangul": "Welcome to ma city", "lyric_translation": "", "range": [92.3, 93.88], "ans": []},
+    "",
+    {"lyric": "Hanchameul dallyeotne", "lyric_hangul": "한참을 달렸네", "lyric_translation": "I ran for a long time", "range": [93.88, 96.56], "ans": []},
+    {"lyric": "Na dasi tto hanchameul dallyeotne", "lyric_hangul": "나 다시 또 한참을 달렸네", "lyric_translation": "and again I ran for a long time", "range": [96.56, 100.99], "ans": []},
+    {"lyric": "Yeah i’ll be ridin and i’ll be dyin’", "lyric_hangul": "Yeah i'll be ridin and i'll be dyin'", "lyric_translation": "Yeah i’ll be ridin and i’ll be dyin’", "range": [100.99, 104.47], "ans": []},
+    {"lyric": "In ma city, city", "lyric_hangul": "In ma city city", "lyric_translation": "In ma city, city", "range": [104.47, 107.45], "ans": []},
+    {"lyric": "Ma city, ma city yeah", "lyric_hangul": "Ma city ma city yeah", "lyric_translation": "Ma city, ma city yeah", "range": [107.45, 109.98], "ans": []},
+    "",
+    {"lyric": "Na jeollanamdo gwangju baby", "lyric_hangul": "나 전라남도 광주 baby", "lyric_translation": "I’m a South Jeolla Gwangju baby", "range": [109.98, 113.14], "ans": [3]},
+    {
+      "lyric_hangul": "내 발걸음이 산으로 간대도 무등산 정상에 매일 매일",
+      "lyric_translation": "Even if my footsteps go to the mountains / It always goes to the summit of Mt. Mudeung, everyday",
+      "parts": [
+        {"lyric": "Nae balgeoreumi saneuro gandaedo", "range": [113.14, 115.4], "ans": [3]},
+        {"lyric": "Mudeungsan jeongsange maeil maeil", "range": [115.4, 117.02], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nae sarmeun tteugeopji, namjjogui yeolgi", "lyric_hangul": "내 삶은 뜨겁지 남쪽의 열기", "lyric_translation": "my life is hot, the heat of the south,", "range": [117.02, 119.22], "ans": [3]},
+    {"lyric": "Iyeolchiyeol beopchik pogiran eobtji", "lyric_hangul": "이열치열 법칙 포기란 없지", "lyric_translation": "There’s no such thing as giving up on the law of this fierce heat", "range": [119.22, 121.38], "ans": [3]},
+    {"lyric": "Na KIAneogo sidong georeo michin deusi bounce", "lyric_hangul": "나 KIA넣고 시동 걸어 미친 듯이 bounce", "lyric_translation": "I put a KIA in gear and and turn it on, bounce like crazy", "range": [121.38, 125.23], "ans": [3]},
+    {"lyric": "Ojik chum hanaro gasuran keun kkumeul kiwo", "lyric_hangul": "오직 춤 하나로 가수란 큰 꿈을 키워", "lyric_translation": "With only dance, I had this dream of being a singer", "range": [125.23, 127.24], "ans": [3]},
+    {"lyric": "Ijen hyeonsireseo eumakgwa mudae wie ttwieo", "lyric_hangul": "이젠 현실에서 음악과 무대 위에 뛰어", "lyric_translation": "Now in reality, I do music and I jump on stage", "range": [127.24, 129.16], "ans": [3]},
+    {"lyric": "Da bwatji yeoljeongeul damatji", "lyric_hangul": "다 봤지 열정을 담았지", "lyric_translation": "Everyone saw, right? I put in passion", "range": [129.16, 131.15], "ans": [3]},
+    {"lyric": "Nae gwangju hosigida jeonguk paldoneun gieo", "lyric_hangul": "내 광주 호시기다 전국 팔도는 기어", "lyric_translation": "I’m Gwangju’s hoshigi, the country’s 8 provinces gear up", "range": [131.15, 133.64], "ans": [3]},
+    {"lyric": "Nal bollamyeon siganeun ilgopsi moyeo jiphap", "lyric_hangul": "날 볼라면 시간은 7시 모여 집합", "lyric_translation": "If you want to see me, then gather at 7", "range": [133.64, 137.5], "ans": [3]},
+    {"lyric": "Moduda nulleora gongyuki-oilpal", "lyric_hangul": "모두다 눌러라 062 - 518", "lyric_translation": "Everyone dial it, 062 – 518", "range": [137.5, 141.66], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Ja busanui badayeo", "lyric_hangul": "자 부산의 바다여", "lyric_translation": "Hey, Busan’s sea", "range": [141.66, 143.75], "ans": [5]},
+    {"lyric": "Say la la la la la", "lyric_hangul": "Say la la la la la", "lyric_translation": "Say la la la la la", "range": [143.75, 145.77], "ans": [6]},
+    {"lyric": "Pureun haneurarae this sky line", "lyric_hangul": "푸른 하늘아래 this sky line", "lyric_translation": "Under the blue sky, this sky line", "range": [145.77, 147.75], "ans": [5]},
+    {"lyric": "Say la la la la la", "lyric_hangul": "Say la la la la la", "lyric_translation": "Say la la la la la", "range": [147.75, 149.38], "ans": [6]},
+    {"lyric": "Ajaedeureun soneul deureo", "lyric_hangul": "아재들은 손을 들어", "lyric_translation": "Uncles, put your hands up", "range": [149.38, 151.11], "ans": [1]},
+    {"lyric": "Ajimaedeul son heundeureo", "lyric_hangul": "아지매도 손 흔들어", "lyric_translation": "Aunties, wave your hands around", "range": [151.11, 152.84], "ans": [1]},
+    {"lyric": "Ma Cityro wa", "lyric_hangul": "Ma City로 와", "lyric_translation": "Come to my city", "range": [152.84, 155.92], "ans": [5]},
+    "",
+    {"lyric": "Come to ma city", "lyric_hangul": "Come to ma city", "lyric_translation": "Come to ma city", "range": [155.92, 158.89], "ans": []},
+    {"lyric": "Jal bwa jugil barae", "lyric_hangul": "잘 봐 주길 바래", "lyric_translation": "I hope that you’ll watch over me well", "range": [158.89, 160.36], "ans": [1]},
+    {"lyric": "Know how to party", "lyric_hangul": "Know how to party", "lyric_translation": "Know how to party", "range": [160.36, 162.86], "ans": []},
+    {"lyric": "Nal kiwojun city", "lyric_hangul": "날 키워준 city", "lyric_translation": "The city that raised me", "range": [162.86, 164.55], "ans": [7]},
+    {
+      "lyric_hangul": "그래 babe babe 이게 나의 city City",
+      "lyric_translation": "That’s right, babe babe / This is my city city / Welcome to ma city",
+      "parts": [
+        {"lyric": "Geurae babe babe", "range": [164.55, 165.51], "ans": [1]},
+        {"lyric": "Ige naui city", "range": [165.51, 167.24], "ans": [1]},
+        {"lyric": "City", "range": [166.54, 167.78], "ans": []},
+        {"lyric": "(Welcome to ma city)", "range": [167.08, 170.61], "ans": [1]}
+      ]
+    },
+    {"lyric": "Welcome to ma city", "lyric_hangul": "Welcome to ma city", "lyric_translation": "", "range": [170.61, 172.27], "ans": []},
+    "",
+    {"lyric": "Daegueseo taeeona daegueseo jaratji", "lyric_hangul": "대구에서 태어나 대구에서 자랐지", "lyric_translation": "I was born in Daegu, I was raised in Daegu", "range": [172.27, 174.45], "ans": [2]},
+    {
+      "lyric_hangul": "수혈 받기엔 좀 힘들어 몸 속에는 파란 피",
+      "lyric_translation": "Getting a blood transfusion is hard, / my blood runs blue",
+      "parts": [
+        {"lyric": "Suhyeol batgien jom himdeureo", "range": [174.45, 176.04], "ans": [2]},
+        {"lyric": "Mom sogeneun paran pi", "range": [176.04, 176.78], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 새끼는 매 앨범마다 대구 얘기를 해도",
+      "lyric_translation": "This bastard doesn’t get tired / of talking about Daegu on every album,",
+      "parts": [
+        {"lyric": "I saekkineun mae aelbeommada", "range": [176.49, 177.95], "ans": [2]},
+        {"lyric": "Daegu yaegireul haedo", "range": [177.95, 178.75], "ans": [2]}
+      ]
+    },
+    {"lyric": "Jigyeopjido anhna bwa saenggageul hal sudo", "lyric_hangul": "지겹지도 않나 봐 생각을 할 수도 있지만", "lyric_translation": "you could think that but", "range": [178.54, 180.32], "ans": [2]},
+    {"lyric": "Itjiman I’ma D boy geurae nan D boy", "lyric_hangul": "I'm a D boy 그래 난 D boy", "lyric_translation": "I’m a D-boy yeah I’m a D-boy", "range": [180.32, 184.57], "ans": [2]},
+    {
+      "lyric_hangul": "솔직하게 말해 대구 자랑할 게 별 게 없어",
+      "lyric_translation": "Honestly speaking, / there’s really nothing to brag about in Daegu",
+      "parts": [
+        {"lyric": "Soljikhage malhae daegu", "range": [184.57, 185.71], "ans": [2]},
+        {"lyric": "Jaranghal ge byeol ge eobseo", "range": [185.71, 186.63], "ans": [2]}
+      ]
+    },
+    {"lyric": "Naega taeeonan geot jachega daeguui jarang", "lyric_hangul": "내가 태어난 것 자체가 대구의 자랑 워", "lyric_translation": "My birth itself is Daegu’s pride, right?", "range": [186.29, 188.7], "ans": [2]},
+    {"lyric": "Geurae ah geurae", "lyric_hangul": "그래 아 그래", "lyric_translation": "Yeah, that’s right", "range": [188.7, 192.35], "ans": [2]},
+    {
+      "lyric_hangul": "자랑할 게 없기에 자랑스러워 질 수 밖에 안 그래",
+      "lyric_translation": "Even if there’s nothing to brag about, / I can’t help but be proud of it, right?",
+      "parts": [
+        {"lyric": "Jaranghal ge eobtgie jarangseureowo", "range": [192.35, 194.67], "ans": [2]},
+        {"lyric": "Jil su bakke an geurae? Ayo", "range": [194.67, 196.05], "ans": [2]}
+      ]
+    },
+    {"lyric": "Daegu chulsin gajang seonggonghan nomirae", "lyric_hangul": "Ayo 대구 출신 가장 성공한 놈이래", "lyric_translation": "Ayo, I’m the most sucessful guy ever born in Daegu", "range": [195.62, 198.02], "ans": [2]},
+    {"lyric": "Ireon sorireul deureul geoya jal bwara ijen", "lyric_hangul": "이런 소리를 들을 거야 잘 봐라 이젠", "lyric_translation": "You’ll hear this kind of thing, now listen well", "range": [198.02, 200.0], "ans": [2]},
+    {"lyric": "Naega daeguui jarang sae sidae saeroun baram", "lyric_hangul": "내가 대구의 자랑 새 시대 새로운 바람", "lyric_translation": "I’m the pride of Daegu, a new generation, a new wind", "range": [200.0, 201.99], "ans": [2]},
+    {"lyric": "Daeguui gwageoija hyeonjae geurigo mirae", "lyric_hangul": "대구의 과거이자 현재 그리고 미래", "lyric_translation": "Daegu’s past, present and future", "range": [201.99, 203.76], "ans": [2]},
+    "",
+    {"lyric": "Come to ma city", "lyric_hangul": "Come to ma city", "lyric_translation": "Come to ma city", "range": [203.76, 206.16], "ans": []},
+    {"lyric": "Jal bwa jugil barae", "lyric_hangul": "잘 봐 주길 바래", "lyric_translation": "I hope that you’ll watch over me well", "range": [206.16, 207.44], "ans": [7]},
+    {"lyric": "Know how to party", "lyric_hangul": "Know how to party", "lyric_translation": "Know how to party", "range": [207.44, 210.11], "ans": []},
+    {"lyric": "Nal kiwojun city", "lyric_hangul": "날 키워준 city", "lyric_translation": "The city that raised me", "range": [210.11, 211.77], "ans": [7]},
+    {
+      "lyric_hangul": "그래 babe babe 이게 나의 city City",
+      "lyric_translation": "That’s right, babe babe / This is my city city / Welcome to ma city",
+      "parts": [
+        {"lyric": "Geurae babe babe", "range": [211.77, 212.71], "ans": [7]},
+        {"lyric": "Ige naui city", "range": [212.71, 214.34], "ans": [7]},
+        {"lyric": "City", "range": [213.64, 214.98], "ans": []},
+        {"lyric": "(Welcome to ma city)", "range": [214.28, 218.33], "ans": [7]}
+      ]
+    },
+    {"lyric": "Welcome to ma city", "lyric_hangul": "Welcome to ma city", "lyric_translation": "", "range": [218.33, 219.62], "ans": []},
+    "",
+    {"lyric": "Hanchameul dallyeotne", "lyric_hangul": "한참을 달렸네", "lyric_translation": "I ran for a long time", "range": [219.62, 222.44], "ans": []},
+    {"lyric": "Na dasi tto hanchameul dallyeotne", "lyric_hangul": "나 다시 또 한참을 달렸네", "lyric_translation": "and again I ran for a long time", "range": [222.44, 226.84], "ans": []},
+    {"lyric": "Yeah i’ll be ridin and i’ll be dyin’", "lyric_hangul": "Yeah i'll be ridin and i'll be dyin'", "lyric_translation": "Yeah i’ll be ridin and i’ll be dyin’", "range": [226.84, 230.21], "ans": []},
+    {"lyric": "In ma city, city", "lyric_hangul": "In ma city city", "lyric_translation": "In ma city, city", "range": [230.21, 233.15], "ans": []},
+    {"lyric": "Ma city, ma city yeah", "lyric_hangul": "Ma city ma city yeah", "lyric_translation": "Ma city, ma city yeah", "range": [233.15, 235.68], "ans": []},
+    "",
+    {"lyric": "La la la la la la la la", "lyric_hangul": "La la la la la la la la", "lyric_translation": "Say la la la la la la la la", "range": [235.68, 239.12], "ans": [6]},
+    {"lyric": "La la la la la la la la", "lyric_hangul": "La la la la la la la la", "lyric_translation": "Say la la la la la la la la", "range": [239.12, 242.76], "ans": [6]},
+    {"lyric": "Eodi salgeon eodi itgeon", "lyric_hangul": "어디 살건 어디 있건", "lyric_translation": "wherever I live, wherever I am,", "range": [242.76, 246.65], "ans": [6]},
+    {"lyric": "Ma city, city", "lyric_hangul": "Ma city city", "lyric_translation": "Ma city city", "range": [246.65, 248.99], "ans": [6]},
+    {
+      "lyric_hangul": "Ma city ma city yeah yeah",
+      "lyric_translation": "Ma city ma city yeah yeah / Ha ha ha",
+      "parts": [
+        {"lyric": "Ma city, ma city yeah yeah", "range": [248.99, 251.57], "ans": [6]},
+        {"lyric": "Ha ha ha", "range": [251.57, 254.03], "ans": [6]}
+      ]
+    },
+    ""
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "name": "Anpanman\r",
+  "ogg": "sound/kpop/anpanman.ogg",
+  "id": "anpanman",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/anpanman.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Waiting for you Anpanman", "lyric_hangul": "Waiting for you, Anpanman", "lyric_translation": "Waiting for you Anpanman", "range": [0.61, 5.01], "ans": [6]},
+    {"lyric": "Waiting for you Anpanman", "lyric_hangul": "Waiting for you, Anpanman", "lyric_translation": "Waiting for you Anpanman", "range": [5.01, 9.2], "ans": [6]},
+    "",
+    {"lyric": "Naegen eopji altongina gapppa", "lyric_hangul": "내겐 없지 알통이나 갑빠", "lyric_translation": "I don’t have biceps or pecs", "range": [9.2, 11.87], "ans": [3]},
+    {"lyric": "Naegen eopji super car like Batman", "lyric_hangul": "내겐 없지 super car like Batman", "lyric_translation": "I don’t have a super car like Batman", "range": [11.87, 14.34], "ans": [3]},
+    {"lyric": "Dwege meotjin yeongungi nae nangman", "lyric_hangul": "되게 멋진 영웅이 내 낭만", "lyric_translation": "It was my dream to become a hero", "range": [14.34, 16.51], "ans": [3]},
+    {"lyric": "But jul su itneun geon ojik Anpan", "lyric_hangul": "But 줄 수 있는 건 오직 Anpan", "lyric_translation": "But the only thing I can give you is Anpan", "range": [16.51, 19.25], "ans": [3]},
+    {"lyric": "Kkumkkwowatne hero like Superman", "lyric_hangul": "꿈꿔왔네 hero like Superman", "lyric_translation": "I dreamed of a hero like Superman", "range": [19.25, 21.32], "ans": [3]},
+    {"lyric": "Himkkeot ttwieotne haneullopi bangbang", "lyric_hangul": "힘껏 뛰었네 하늘높이 방방", "lyric_translation": "So I jumped around, bouncing to the sky", "range": [21.32, 24.16], "ans": [3]},
+    {"lyric": "Mureuppak kkajineun geot ttawin duryeobji ana", "lyric_hangul": "무릎팍 까지는 것 따윈 두렵지 않아", "lyric_translation": "Wasn’t scared of getting my kneecaps scratched up", "range": [24.16, 26.68], "ans": [3]},
+    {"lyric": "Sunsuhan nae eoril jeoge mangsang", "lyric_hangul": "순수한 내 어릴 적의 망상", "lyric_translation": "It was my innocent childhood imagination", "range": [26.68, 28.93], "ans": [3]},
+    "",
+    {"lyric": "I’m not a superhero", "lyric_hangul": "I'm not a superhero", "lyric_translation": "I’m not a superhero", "range": [28.93, 31.6], "ans": [2]},
+    {"lyric": "Maneun geoseul barajima", "lyric_hangul": "Oh, 많은 것을 바라지마, eh", "lyric_translation": "Don’t expect too much from me", "range": [31.6, 34.33], "ans": [2]},
+    {"lyric": "I can be your hero", "lyric_hangul": "I can be your hero", "lyric_translation": "I can be your hero", "range": [34.33, 36.42], "ans": [2]},
+    {"lyric": "Ireon mari gadangkina", "lyric_hangul": "이런 말이 가당키나", "lyric_translation": "Will this get through to you?", "range": [36.42, 38.64], "ans": [2]},
+    {"lyric": "Han irinji moreugesseo jeongmal", "lyric_hangul": "한 일인지 모르겠어 정말", "lyric_translation": "I don’t know", "range": [38.64, 40.98], "ans": [2]},
+    {"lyric": "Geunde kkok haeyagesseoyo eomma", "lyric_hangul": "근데 꼭 해야겠어요 엄마", "lyric_translation": "But I have to do this, Mom", "range": [40.98, 43.2], "ans": [2]},
+    {"lyric": "Naega animyeon nugahalkka", "lyric_hangul": "내가 아니면 누가할까", "lyric_translation": "Who can it be if it’s not me?", "range": [43.2, 46.45], "ans": [2]},
+    {"lyric": "You can call me say Anpan", "lyric_hangul": "You can call me, say, Anpan", "lyric_translation": "You can call me say Anpan", "range": [46.45, 48.86], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "Waiting for you, Anpanman",
+      "lyric_translation": "Waiting for you Anpanman / (Lemme hear ya say, lemme hear ya say)",
+      "parts": [
+        {"lyric": "Waiting for you Anpanman", "range": [48.86, 50.35], "ans": [1]},
+        {"lyric": "(Lemme hear ya say, lemme hear ya say)", "range": [49.65, 51.68], "ans": []}
+      ]
+    },
+    {"lyric": "(Lemme hear ya say, lemme hear ya say)", "lyric_hangul": "(Lemme hear ya say, lemme hear ya say)", "lyric_translation": "", "range": [51.67, 53.74], "ans": []},
+    {
+      "lyric_hangul": "Waiting for you, Anpanman",
+      "lyric_translation": "Waiting for you Anpanman / (Turn it up, turn it up, turn It up)",
+      "parts": [
+        {"lyric": "Waiting for you Anpanman", "range": [53.74, 55.13], "ans": [1]},
+        {"lyric": "(Turn it up, turn it up, turn it up)", "range": [54.43, 56.22], "ans": []}
+      ]
+    },
+    {"lyric": "(Turn it up, turn it up, turn it up)", "lyric_hangul": "(Turn it up, turn it up, turn it up)", "lyric_translation": "", "range": [56.22, 57.64], "ans": []},
+    {
+      "lyric_hangul": "좀 더 힘을 내볼래",
+      "lyric_translation": "Have more strength / (Lemme hear ya say, lemme hear ya say)",
+      "parts": [
+        {"lyric": "Jom deo himeul naebollae", "range": [57.64, 59.61], "ans": [6]},
+        {"lyric": "(Lemme hear ya say, lemme hear ya say)", "range": [58.91, 61.4], "ans": []}
+      ]
+    },
+    {"lyric": "(Lemme hear ya say, lemme hear ya say)", "lyric_hangul": "(Lemme hear ya say, lemme hear ya say)", "lyric_translation": "", "range": [61.35, 63.09], "ans": []},
+    {
+      "lyric_hangul": "너의 힘이 돼줄래",
+      "lyric_translation": "I’ll be your strength / (Turn it up, turn it up, turn it up)",
+      "parts": [
+        {"lyric": "Neoye himi dwaejullae", "range": [63.09, 64.65], "ans": [6]},
+        {"lyric": "(Turn it up, turn it up, turn it up)", "range": [64.65, 66.35], "ans": []}
+      ]
+    },
+    {"lyric": "(Turn it up, turn it up, turn it up)", "lyric_hangul": "(Turn it up, turn it up, turn it up)", "lyric_translation": "", "range": [66.35, 68.12], "ans": []},
+    "",
+    {"lyric": "Gyesok dollyeo dollyeo naye Anpan", "lyric_hangul": "계속 돌려 돌려 나의 Anpan", "lyric_translation": "Keep turning, turning, my Anpan", "range": [68.12, 70.16], "ans": [7]},
+    {"lyric": "Keep ballin’ ballin’ still bangtan", "lyric_hangul": "Keep ballin', ballin' still 방탄", "lyric_translation": "Keep ballin’ ballin’ still bulletproof", "range": [70.16, 72.34], "ans": [7]},
+    {"lyric": "Nun tteuni hero but still in miro", "lyric_hangul": "눈 뜨니 hero but still in 미로", "lyric_translation": "Open my eyes, I’m a hero but still in a maze", "range": [72.34, 75.34], "ans": [7]},
+    {"lyric": "Geu young man, young man, young man", "lyric_hangul": "그 young man, young man, young man", "lyric_translation": "That young man, young man, young man", "range": [75.34, 77.34], "ans": [7]},
+    {"lyric": "Gyesok mollae mollae sangcheo manttang", "lyric_hangul": "계속 몰래 몰래 상처 만땅", "lyric_translation": "Secretly only getting scars", "range": [77.34, 79.99], "ans": [5]},
+    {"lyric": "But ballin’ ballin’ still bangtan", "lyric_hangul": "But ballin', ballin' still 방탄", "lyric_translation": "But ballin’ ballin’ still bulletproof", "range": [79.99, 82.04], "ans": [5]},
+    {"lyric": "Apado hero duryeoumeun dwiro", "lyric_hangul": "아파도 hero 두려움은 뒤로", "lyric_translation": "It hurts, hero but place your fears behind", "range": [82.04, 84.54], "ans": [5]},
+    {"lyric": "Anpanman panman panman", "lyric_hangul": "Anpanman-panman-panman", "lyric_translation": "Anpanman panman panman", "range": [84.54, 87.49], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "I'm a new generation, Anpanman",
+      "lyric_translation": "I’m a new generation Anpanman",
+      "parts": [
+        {"lyric": "I’m a new generation", "range": [87.49, 88.82], "ans": [2]},
+        {"lyric": "Anpanman", "range": [88.12, 89.85], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a new superhero, Anpanman",
+      "lyric_translation": "I’m a new superhero Anpanman",
+      "parts": [
+        {"lyric": "I’m a new superhero", "range": [89.85, 91.58], "ans": [2]},
+        {"lyric": "Anpanman", "range": [90.88, 91.99], "ans": []}
+      ]
+    },
+    {"lyric": "Naega gajin geon i norae hanbang", "lyric_hangul": "내가 가진 건 이 노래 한방", "lyric_translation": "What I have is this song here", "range": [91.85, 94.64], "ans": [2]},
+    {"lyric": "Lemme say “All the bad men, cop out”", "lyric_hangul": "Lemme say, \"All the bad men, cop-out\"", "lyric_translation": "Lemme say “All the bad men, cop out”", "range": [94.64, 97.05], "ans": [2]},
+    {
+      "lyric_hangul": "I'm a new generation, Anpanman",
+      "lyric_translation": "I’m a new generation Anpanman",
+      "parts": [
+        {"lyric": "I’m a new generation", "range": [97.05, 98.51], "ans": [3]},
+        {"lyric": "Anpanman", "range": [97.81, 99.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a new superhero, Anpanman",
+      "lyric_translation": "I’m a new superhero Anpanman",
+      "parts": [
+        {"lyric": "I’m a new superhero", "range": [99.51, 101.28], "ans": [3]},
+        {"lyric": "Anpanman", "range": [100.58, 101.73], "ans": []}
+      ]
+    },
+    {"lyric": "Naega gajin geon i norae hanbang", "lyric_hangul": "내가 가진 건 이 노래 한방", "lyric_translation": "What I have is this song here", "range": [101.46, 104.35], "ans": [3]},
+    {"lyric": "Lemme say “All the bad men, cop out”", "lyric_hangul": "Lemme say, \"All the bad men, cop-out\"", "lyric_translation": "Lemme say “All the bad men, cop out”", "range": [104.35, 106.91], "ans": [3]},
+    "",
+    {"lyric": "Gakkeumeun i modeun ge duryeobne", "lyric_hangul": "가끔은 이 모든 게 두렵네", "lyric_translation": "Sometimes, everything is so scary", "range": [106.91, 108.84], "ans": [4]},
+    {"lyric": "Saranghaneun ge neom mani saenggyeotgie", "lyric_hangul": "사랑하는 게 넘 많이 생겼기에", "lyric_translation": "So many things that I love", "range": [108.84, 111.28], "ans": [4]},
+    {"lyric": "Nugun malhae neodo ije kkondae da dwaesseu", "lyric_hangul": "누군 말해 너도 이제 꼰대 다 됐으", "lyric_translation": "Some people say I’m an old geezer now", "range": [111.28, 113.67], "ans": [4]},
+    {
+      "lyric_hangul": "자격 없어 그냥 하던 거나 잘 해",
+      "lyric_translation": "That I have no right, / that I should just do what I’ve been doing",
+      "parts": [
+        {"lyric": "Jagyeok eopseo", "range": [113.67, 114.78], "ans": [4]},
+        {"lyric": "Geunyang hadeon geona jal hae", "range": [114.78, 116.3], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geuraedo nan yeongungigopa", "lyric_hangul": "그래도 난 영웅이고파", "lyric_translation": "But I still wanna be a hero", "range": [116.09, 119.18], "ans": [4]},
+    {"lyric": "Jul su itneun geon danpatppang", "lyric_hangul": "줄 수 있는 건 단팥빵", "lyric_translation": "But I can only give you an Anpan", "range": [119.18, 121.38], "ans": [4]},
+    {"lyric": "Gwa sugohaettan malppunidaman", "lyric_hangul": "과 수고했단 말뿐이다만", "lyric_translation": "And tell you that you did a good job", "range": [121.38, 123.41], "ans": [4]},
+    {
+      "lyric_hangul": "부름 바로 날라갈게 날 불러줘",
+      "lyric_translation": "But if you call me, I’ll fly over to you / So call me",
+      "parts": [
+        {"lyric": "Bureum baro nallagalge", "range": [123.41, 125.47], "ans": [4]},
+        {"lyric": "Nal bulleojwo", "range": [125.47, 126.52], "ans": [4]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Waiting for you, Anpanman",
+      "lyric_translation": "Waiting for you Anpanman / (Lemme hear ya say, lemme hear ya say)",
+      "parts": [
+        {"lyric": "Waiting for you Anpanman", "range": [126.52, 127.83], "ans": [5]},
+        {"lyric": "(Lemme hear ya say, lemme hear ya say)", "range": [127.13, 129.48], "ans": []}
+      ]
+    },
+    {"lyric": "(Lemme hear ya say, lemme hear ya say)", "lyric_hangul": "(Lemme hear ya say, lemme hear ya say)", "lyric_translation": "", "range": [129.48, 131.51], "ans": []},
+    {
+      "lyric_hangul": "Waiting for you, Anpanman",
+      "lyric_translation": "Waiting for you Anpanman / (Turn it up, turn it up, turn It up)",
+      "parts": [
+        {"lyric": "Waiting for you Anpanman", "range": [131.51, 132.7], "ans": [5]},
+        {"lyric": "(Turn it up, turn it up, turn it up)", "range": [132.0, 133.91], "ans": []}
+      ]
+    },
+    {"lyric": "(Turn it up, turn it up, turn it up)", "lyric_hangul": "(Turn it up, turn it up, turn it up)", "lyric_translation": "", "range": [133.79, 135.54], "ans": []},
+    {
+      "lyric_hangul": "좀 더 힘을 내볼래",
+      "lyric_translation": "Have more strength / (Lemme hear ya say, lemme hear ya say)",
+      "parts": [
+        {"lyric": "Jom deo himeul naebollae", "range": [135.54, 137.23], "ans": [7]},
+        {"lyric": "(Lemme hear ya say, lemme hear ya say)", "range": [136.53, 139.18], "ans": []}
+      ]
+    },
+    {"lyric": "(Lemme hear ya say, lemme hear ya say)", "lyric_hangul": "(Lemme hear ya say, lemme hear ya say)", "lyric_translation": "", "range": [139.18, 140.51], "ans": []},
+    {
+      "lyric_hangul": "너의 힘이 돼줄래",
+      "lyric_translation": "I’ll be your strength / (Turn it up, turn it up, turn it up)",
+      "parts": [
+        {"lyric": "Neoye himi dwaejullae", "range": [140.51, 142.23], "ans": [7]},
+        {"lyric": "(Turn it up, turn it up, turn it up)", "range": [141.53, 143.67], "ans": []}
+      ]
+    },
+    {"lyric": "(Turn it up, turn it up, turn it up)", "lyric_hangul": "(Turn it up, turn it up, turn it up)", "lyric_translation": "", "range": [143.44, 145.08], "ans": []},
+    "",
+    {"lyric": "Gyesok dollyeo dollyeo naye Anpan", "lyric_hangul": "계속 돌려 돌려 나의 Anpan", "lyric_translation": "Keep turning, turning, my Anpan", "range": [145.08, 147.89], "ans": [6]},
+    {"lyric": "Keep ballin’ ballin’ still bangtan", "lyric_hangul": "Keep ballin', ballin' still 방탄", "lyric_translation": "Keep ballin’ ballin’ still bulletproof", "range": [147.89, 149.95], "ans": [6]},
+    {"lyric": "Nun tteuni hero but still in miro", "lyric_hangul": "눈 뜨니 hero but still in 미로", "lyric_translation": "Open my eyes, I’m a hero but still in a maze", "range": [149.95, 152.73], "ans": [6]},
+    {"lyric": "Geu young man, young man, young man", "lyric_hangul": "그 young man, young man, young man", "lyric_translation": "That young man, young man, young man", "range": [152.73, 154.64], "ans": [6]},
+    {"lyric": "Gyesok mollae mollae sangcheo manttang", "lyric_hangul": "계속 몰래 몰래 상처 만땅", "lyric_translation": "Secretly only getting scars", "range": [154.64, 157.6], "ans": [5]},
+    {"lyric": "But ballin’ ballin’ still bangtan", "lyric_hangul": "But ballin', ballin' still 방탄", "lyric_translation": "But ballin’ ballin’ still bulletproof", "range": [157.6, 159.78], "ans": [5]},
+    {"lyric": "Apado hero duryeoumeun dwiro", "lyric_hangul": "아파도 hero 두려움은 뒤로", "lyric_translation": "It hurts, hero but place your fears behind", "range": [159.78, 162.24], "ans": [5]},
+    {"lyric": "Anpanman panman panman", "lyric_hangul": "Anpanman-panman-panman", "lyric_translation": "Anpanman panman panman", "range": [162.24, 164.39], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "솔직하게 무서워 넘어지는 게",
+      "lyric_translation": "Honestly / I’m afraid of falling",
+      "parts": [
+        {"lyric": "Soljikhage", "range": [164.39, 165.55], "ans": [7]},
+        {"lyric": "Museowo neomeojineun ge", "range": [165.55, 167.43], "ans": [7]}
+      ]
+    },
+    {"lyric": "Neohideureul shilmangshigineun ge", "lyric_hangul": "너희들을 실망시키는 게", "lyric_translation": "Of disappointing you", "range": [167.13, 169.38], "ans": [7]},
+    {"lyric": "Geuraedo nae on himeul dahaeseorado", "lyric_hangul": "그래도 내 온 힘을 다해서라도", "lyric_translation": "But still, even if I have to use all my strength", "range": [169.38, 172.11], "ans": [7]},
+    {"lyric": "Na kkok neoye gyeote isseulge", "lyric_hangul": "나 꼭 너의 곁에 있을게", "lyric_translation": "I will stay by your side", "range": [172.11, 174.36], "ans": [7]},
+    {"lyric": "Dashi neomeojigetjiman", "lyric_hangul": "다시 넘어지겠지만", "lyric_translation": "Though I’ll fall again", "range": [174.36, 176.55], "ans": [5]},
+    {"lyric": "Ttodashi shilsu hagetjiman", "lyric_hangul": "또 다시 실수 하겠지만", "lyric_translation": "Though I’ll make mistakes again", "range": [176.55, 179.16], "ans": [5]},
+    {"lyric": "Tto jinheulktuseongigetjiman", "lyric_hangul": "또 진흙투성이겠지만", "lyric_translation": "Though I’ll fall into a mud pit again", "range": [179.16, 181.86], "ans": [5]},
+    {
+      "lyric_hangul": "나를 믿어 나는 hero니까 yeah, yeah",
+      "lyric_translation": "Trust me, because I’m a hero / Yeah yeah",
+      "parts": [
+        {"lyric": "Nareul mideo naneun heronikka", "range": [181.86, 183.66], "ans": [5]},
+        {"lyric": "Yeah yeah", "range": [183.66, 184.64], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Dollyeo dollyeo naye Anpan", "lyric_hangul": "돌려 돌려 나의 Anpan", "lyric_translation": "Keep turning, turning, my Anpan", "range": [184.35, 186.65], "ans": [7]},
+    {"lyric": "Keep ballin’ ballin’ still bangtan", "lyric_hangul": "Keep ballin', ballin' still 방탄", "lyric_translation": "Keep ballin’ ballin’ still bulletproof", "range": [186.65, 188.66], "ans": [7]},
+    {"lyric": "Nun tteuni hero but still in miro", "lyric_hangul": "눈 뜨니 hero but still in 미로", "lyric_translation": "Open my eyes, I’m a hero but still in a maze", "range": [188.66, 191.66], "ans": [7]},
+    {"lyric": "Geu young man, young man, young man", "lyric_hangul": "그 young man, young man, young man", "lyric_translation": "That young man, young man, young man", "range": [191.66, 193.5], "ans": [7]},
+    {"lyric": "Gyesok mollae mollae sangcheo manttang", "lyric_hangul": "계속 몰래 몰래 상처 만땅", "lyric_translation": "Secretly only getting scars", "range": [193.5, 196.4], "ans": [1]},
+    {"lyric": "But ballin’ ballin’ still bangtan", "lyric_hangul": "But ballin', ballin' still 방탄", "lyric_translation": "But ballin’ ballin’ still bulletproof", "range": [196.4, 198.41], "ans": [1]},
+    {"lyric": "Apado hero duryeoumeun dwiro", "lyric_hangul": "아파도 hero 두려움은 뒤로", "lyric_translation": "It hurts, hero but place your fears behind", "range": [198.41, 201.02], "ans": [1]},
+    {"lyric": "Anpanman panman panman", "lyric_hangul": "Anpanman-panman-panman", "lyric_translation": "Anpanman panman panman", "range": [201.02, 203.47], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "I'm a new generation, Anpanman",
+      "lyric_translation": "I’m a new generation Anpanman",
+      "parts": [
+        {"lyric": "I’m a new generation", "range": [203.47, 204.82], "ans": [3]},
+        {"lyric": "Anpanman", "range": [204.82, 206.25], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a new superhero, Anpanman",
+      "lyric_translation": "I’m a new superhero Anpanman",
+      "parts": [
+        {"lyric": "I’m a new superhero", "range": [206.25, 207.97], "ans": [3]},
+        {"lyric": "Anpanman", "range": [207.27, 208.45], "ans": []}
+      ]
+    },
+    {"lyric": "Naega gajin geon i norae hanbang", "lyric_hangul": "내가 가진 건 이 노래 한방", "lyric_translation": "What I have is this song here", "range": [208.18, 211.07], "ans": [3]},
+    {"lyric": "Lemme say “All the bad men, cop out”", "lyric_hangul": "Lemme say, \"All the bad men, cop-out\"", "lyric_translation": "Lemme say “All the bad men, cop out”", "range": [211.07, 213.45], "ans": [3]},
+    {
+      "lyric_hangul": "I'm a new generation, Anpanman",
+      "lyric_translation": "I’m a new generation Anpanman",
+      "parts": [
+        {"lyric": "I’m a new generation", "range": [213.45, 214.54], "ans": [4]},
+        {"lyric": "Anpanman", "range": [214.54, 215.94], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a new superhero, Anpanman",
+      "lyric_translation": "I’m a new superhero Anpanman",
+      "parts": [
+        {"lyric": "I’m a new superhero", "range": [215.94, 217.66], "ans": [4]},
+        {"lyric": "Anpanman", "range": [216.96, 218.1], "ans": []}
+      ]
+    },
+    {"lyric": "Naega gajin geon i norae hanbang", "lyric_hangul": "내가 가진 건 이 노래 한방", "lyric_translation": "What I have is this song here", "range": [217.83, 220.7], "ans": [4]},
+    {"lyric": "Lemme say “All the bad men, cop out”", "lyric_hangul": "Lemme say, \"All the bad men, cop-out\"", "lyric_translation": "Lemme say “All the bad men, cop out”", "range": [220.7, 224.54], "ans": [4]}
+  ]
+}

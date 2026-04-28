@@ -1,0 +1,86 @@
+{
+  "name": "Filter\r",
+  "ogg": "sound/kpop/filter.ogg",
+  "id": "filter",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/filter.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:46Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Neoye ttabunhan geu pyojeong jiruhan balkkeut", "lyric_hangul": "너의 따분한 그 표정, 지루한 발끝", "lyric_translation": "Our dull expression, bored to the end of your toes", "range": [7.86, 12.3], "ans": [5]},
+    {"lyric": "Please look at me now", "lyric_hangul": "Oh, please, look at me now (oh-ah)", "lyric_translation": "Please look at me now", "range": [12.3, 16.59], "ans": [5]},
+    {"lyric": "Haendeuponeun naeryeonwa gogae dollil saenggakdo ma", "lyric_hangul": "핸드폰은 내려놔 (oh-ah), 고개 돌릴 생각도 마 (oh-ah)", "lyric_translation": "Put your phone down, don’t even think about turning away", "range": [16.59, 21.23], "ans": [5]},
+    {
+      "lyric_hangul": "Let me know your type, 날 골라 쓰면 돼, yeah",
+      "lyric_translation": "Let me know your type / You can choose me, yeah",
+      "parts": [
+        {"lyric": "Let me know your type", "range": [21.23, 23.91], "ans": [5]},
+        {"lyric": "Nal golla sseumyeon dwae yeah", "range": [23.91, 26.78], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Oh neoye nuneul naye soneuro pogae", "lyric_hangul": "Oh, 너의 눈을 나의 손으로 포개", "lyric_translation": "Oh I cover your eyes with my hand", "range": [26.78, 31.69], "ans": [5]},
+    {"lyric": "Oh dagaga bimire", "lyric_hangul": "(Ooh) 다가가 비밀에", "lyric_translation": "Oh come closer to the secret", "range": [31.69, 34.81], "ans": [5]},
+    {"lyric": "Neol deryeogalge wanjeonhi saeroun sesange", "lyric_hangul": "Oh, 널 데려갈게 완전히 새로운 세상에", "lyric_translation": "I’ll take you to a whole new world", "range": [34.81, 40.22], "ans": [5]},
+    {"lyric": "Yeah ne gameun nuneul tteobwa ije go!", "lyric_hangul": "(Yeah) 네 감은 눈을 떠봐, 이제 go", "lyric_translation": "Yeah open your closed eyes now go!", "range": [40.22, 44.54], "ans": [5]},
+    "",
+    {"lyric": "Palleteu sok saegeul seokkeo pick your filter", "lyric_hangul": "팔레트 속 색을 섞어, pick your filter", "lyric_translation": "Mix the colours in your palette, pick your filter", "range": [44.54, 49.74], "ans": [5]},
+    {"lyric": "Eotteon nareul wonhae", "lyric_hangul": "어떤 나를 원해", "lyric_translation": "Which me do you want", "range": [49.74, 53.14], "ans": [5]},
+    {"lyric": "Neoye sesangeul byeonhwashikil I’m your filter", "lyric_hangul": "너의 세상을 변화시킬, I'm your filter", "lyric_translation": "I’m your filter that will change your world", "range": [53.14, 58.38], "ans": [5]},
+    {"lyric": "Ne mame sshiwojwo", "lyric_hangul": "네 맘에 씌워줘", "lyric_translation": "Put me over your heart", "range": [58.38, 61.63], "ans": [5]},
+    "",
+    {"lyric": "(OK) eottae jogeum neukkimi wa? ajik mojara?", "lyric_hangul": "(Okay) 어때 조금 느낌이 와? 아직 모자라?", "lyric_translation": "(OK) How is it, is it looking better? Is it still not enough?", "range": [61.63, 66.41], "ans": [5]},
+    {"lyric": "(Yes) Girl you have your chance", "lyric_hangul": "(Yes) girl, you have your chance (oh-ah)", "lyric_translation": "(Yes) Girl you have your chance", "range": [66.41, 71.08], "ans": [5]},
+    {
+      "lyric_hangul": "I can be your Genie (oh-ah), how 'bout Aladdin? (Oh-ah)",
+      "lyric_translation": "I can be your Genie / How ‘bout Aladdin?",
+      "parts": [
+        {"lyric": "I can be your Genie", "range": [71.08, 73.9], "ans": [5]},
+        {"lyric": "How ‘bout Aladdin?", "range": [73.9, 75.67], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐든 돼 줄게, 날 골라 쓰면 돼, yeah",
+      "lyric_translation": "I can become anything for you / You can choose me yeah",
+      "parts": [
+        {"lyric": "Mwodeun dwae julge", "range": [75.54, 78.44], "ans": [5]},
+        {"lyric": "Nal golla sseumyeon dwae yeah", "range": [78.44, 81.32], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Oh ne kkumcheoreom neol gamssa aneul geoya", "lyric_hangul": "Oh, 네 꿈처럼 널 감싸 안을 거야", "lyric_translation": "Oh I’ll wrap myself around you like in your dream", "range": [81.32, 85.88], "ans": [5]},
+    {"lyric": "Oh eunmilhan speciya", "lyric_hangul": "(Ooh) 은밀한 spec이야", "lyric_translation": "Oh it’s a secret feature*", "range": [85.88, 89.36], "ans": [5]},
+    {"lyric": "Nan neoreul wihae maeil saeroul geoya", "lyric_hangul": "Oh, 난 너를 위해 매일 새로울 거야", "lyric_translation": "I will be new for you everyday", "range": [89.36, 94.49], "ans": [5]},
+    {"lyric": "Neul ttokgateun geon jaemieopjana", "lyric_hangul": "(Ooh, ooh) 늘 똑같은 건 재미없잖아", "lyric_translation": "‘Cause it’s boring to have the same thing everyday, right?", "range": [94.49, 99.13], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Palleteu sok saegeul seokkeo pick your filter", "lyric_hangul": "팔레트 속 색을 섞어, pick your filter", "lyric_translation": "Mix the colours in your palette, pick your filter", "range": [99.13, 104.48], "ans": [5]},
+    {"lyric": "Eotteon nareul wonhae", "lyric_hangul": "어떤 나를 원해 (come on, ayy)", "lyric_translation": "Which me do you want", "range": [104.48, 107.42], "ans": [5]},
+    {"lyric": "Neoye sesangeul byeonhwashikil I’m your filter", "lyric_hangul": "너의 세상을 변화시킬 I'm your filter", "lyric_translation": "I’m your filter that will change your world", "range": [107.42, 113.12], "ans": [5]},
+    {"lyric": "Ne mame sshiwojwo", "lyric_hangul": "네 맘에 씌워줘", "lyric_translation": "Put me over your heart", "range": [113.12, 115.85], "ans": [5]},
+    "",
+    {"lyric": "Bulhyeondeut airo byeohnan nal bwa", "lyric_hangul": "불현듯 아이로 변한 날 봐", "lyric_translation": "Look at me, I’ve suddenly turned into a child", "range": [115.85, 118.38], "ans": [5]},
+    {"lyric": "Bolsurok gwiyeowo michidorok", "lyric_hangul": "볼수록 귀여워 미치도록 (미치도록)", "lyric_translation": "The more you look the cuter I get, it drives you crazy", "range": [118.38, 124.3], "ans": [5]},
+    {"lyric": "Chwihyangdo gijundo ttwieoneomeo", "lyric_hangul": "취향도 기준도 뛰어넘어", "lyric_translation": "I surpass your preferences and standards", "range": [124.3, 126.4], "ans": [5]},
+    {"lyric": "Neon ojik namaneul wonhage dwae", "lyric_hangul": "넌 오직 나만을 원하게 돼", "lyric_translation": "You end up only wanting me", "range": [126.4, 129.66], "ans": [5]},
+    {"lyric": "Yeah nal mandeun saram baro neonikka", "lyric_hangul": "Yeah, 날 만든 사람 바로 너니까", "lyric_translation": "Yeah since you’re the one who made me", "range": [129.66, 133.53], "ans": [5]},
+    "",
+    {"lyric": "Nan yeotae nega bon jeok eopneun brand new filter", "lyric_hangul": "난 여태 네가 본 적 없는 brand-new filter", "lyric_translation": "I’m still a brand new filter that you’ve never seen before", "range": [133.53, 139.77], "ans": [5]},
+    {"lyric": "Naege neol matgyeobwa", "lyric_hangul": "내게 널 맡겨봐 (맡겨봐)", "lyric_translation": "Leave yourself to me", "range": [139.77, 142.62], "ans": [5]},
+    {"lyric": "Deo jjarithan geol bol su itge pick your filter", "lyric_hangul": "더 짜릿한 걸 볼 수 있게, pick your filter", "lyric_translation": "Pick your filter so that you can see something more exciting", "range": [142.62, 147.86], "ans": [5]},
+    {"lyric": "Namaneul damabwa", "lyric_hangul": "나만을 담아봐", "lyric_translation": "Only put me in it", "range": [147.86, 150.67], "ans": [5]},
+    "",
+    {"lyric": "Na na na na na na na na na", "lyric_hangul": "Na, na, na, na, na, na, na, na, na", "lyric_translation": "Na na na na na na na na na", "range": [150.67, 154.76], "ans": [5]},
+    {"lyric": "Pick your filter namaneul damabwa", "lyric_hangul": "Pick your filter, 나만을 담아봐", "lyric_translation": "Pick your filter, only put me in it", "range": [154.76, 159.27], "ans": [5]},
+    {"lyric": "Na na na na na na na na na", "lyric_hangul": "Na, na, na, na, na, na, na, na, na", "lyric_translation": "Na na na na na na na na na", "range": [159.27, 163.72], "ans": [5]},
+    {"lyric": "I’m your filter naege neol matgyeobwa", "lyric_hangul": "I'm your filter, 내게 널 맡겨봐", "lyric_translation": "I’m your filter, leave yourself to me", "range": [163.72, 168.57], "ans": [5]},
+    "",
+    {"lyric": "Saeroun uriga dwel geoya", "lyric_hangul": "새로운 우리가 될 거야", "lyric_translation": "We will become a new us", "range": [168.57, 172.96], "ans": [5]},
+    {"lyric": "Ay nal ne mame sshiwojwo", "lyric_hangul": "Ayy, 날 네 맘에 씌워줘", "lyric_translation": "Ay Put me over your heart", "range": [172.96, 178.0], "ans": [5]}
+  ]
+}

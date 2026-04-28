@@ -1,0 +1,177 @@
+{
+  "name": "Am I Wrong\r",
+  "ogg": "sound/kpop/am_i_wrong.ogg",
+  "id": "am-i-wrong",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/am-i-wrong.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Am I wrong, fallin' in love with you", "lyric_hangul": "Am I wrong, fallin' in love with you", "lyric_translation": "", "range": [0.18, 7.62], "ans": []},
+    {"lyric": "Tell me am I wrong", "lyric_hangul": "Tell me am I wrong", "lyric_translation": "", "range": [7.62, 12.67], "ans": []},
+    {"lyric": "While your other man was out there", "lyric_hangul": "While your other man was out there", "lyric_translation": "", "range": [12.67, 16.17], "ans": []},
+    {"lyric": "Cheatin' and lyin', steppin' all over you", "lyric_hangul": "Cheatin' and lyin', steppin' all over you", "lyric_translation": "", "range": [16.17, 23.01], "ans": []},
+    {"lyric": "The world’s goin’ crazy", "lyric_hangul": "The world's goin' crazy", "lyric_translation": "The world’s goin’ crazy", "range": [23.01, 24.95], "ans": []},
+    {"lyric": "Neon eottae how bout ya", "lyric_hangul": "넌 어때 how bout ya", "lyric_translation": "How about you how bout ya", "range": [24.95, 27.12], "ans": [3]},
+    {"lyric": "You think it is okay?", "lyric_hangul": "You think it is okay", "lyric_translation": "You think it is okay", "range": [27.12, 29.37], "ans": []},
+    {"lyric": "Nan jom anin geot gateo", "lyric_hangul": "난 좀 아닌 것 같어", "lyric_translation": "I don’t think it’s that okay", "range": [29.37, 31.33], "ans": [2]},
+    {"lyric": "Gwiga isseodo deutjil anheo", "lyric_hangul": "귀가 있어도 듣질 않어", "lyric_translation": "Have ears but don’t listen", "range": [31.33, 33.71], "ans": []},
+    {"lyric": "Nuni isseodo bojil anheo", "lyric_hangul": "눈이 있어도 보질 않어", "lyric_translation": "Have eyes but don’t see", "range": [33.71, 35.98], "ans": []},
+    {"lyric": "Da maeume mulgogiga sareo", "lyric_hangul": "다 마음에 물고기가 살어", "lyric_translation": "Fish live in all our hearts", "range": [35.98, 37.69], "ans": []},
+    {"lyric": "Gyae ireum selfish selfish", "lyric_hangul": "걔 이름 SELFISH SELFISH", "lyric_translation": "Its name is selfish selfish", "range": [37.69, 39.8], "ans": []},
+    "",
+    {"lyric": "Urin da gae dwaeji hwanaseo gae doeji", "lyric_hangul": "우린 다 개 돼지 화나서 개 되지", "lyric_translation": "We’re all dogs, pigs, become dogs because we’re angry", "range": [39.8, 44.79], "ans": [2]},
+    {"lyric": "Hwangsae VS baepsae jeonjaengiya errday", "lyric_hangul": "황새 VS 뱁새 전쟁이야 ERRDAY", "lyric_translation": "Stork VS crow-tit warring errday", "range": [44.79, 49.24], "ans": [2]},
+    {"lyric": "Michin sesangi yeah", "lyric_hangul": "미친 세상이 yeah", "lyric_translation": "Crazy world yeah", "range": [49.24, 51.71], "ans": [3]},
+    {"lyric": "Uril michige hae", "lyric_hangul": "우릴 미치게 해", "lyric_translation": "Makes us crazy yeah", "range": [51.71, 53.68], "ans": [3]},
+    {"lyric": "Geurae urin da crazy", "lyric_hangul": "그래 우린 다 CRAZY", "lyric_translation": "That’s right we’re all crazy", "range": [53.68, 55.45], "ans": [3]},
+    {"lyric": "Ja sorijilleo mayday mayday", "lyric_hangul": "자 소리질러 MAYDAY MAYDAY", "lyric_translation": "All right now give a shout mayday mayday", "range": [55.45, 57.84], "ans": [3]},
+    "",
+    {"lyric": "On sesangi da michin geot gata", "lyric_hangul": "온 세상이 다 미친 것 같아", "lyric_translation": "It seems like the entire world has gone crazy", "range": [57.84, 61.5], "ans": [6, 7]},
+    {"lyric": "Kkeutin geot gata", "lyric_hangul": "끝인 것 같아", "lyric_translation": "Seems like the end", "range": [61.5, 61.99], "ans": [6, 7]},
+    {"lyric": "Oh why (oh why)", "lyric_hangul": "Oh why Oh why Oh why Oh why", "lyric_translation": "Oh why (oh why) / Oh why (oh why)", "range": [61.99, 67.42], "ans": [6, 7]},
+    {
+      "lyric_hangul": "Oh why why why why",
+      "lyric_translation": "Oh why why why why / (Oh my God) / (Am I wrong)",
+      "parts": [
+        {"lyric": "Oh why why why why", "range": [66.18, 66.68], "ans": [6, 7]},
+        {"lyric": "(Oh my God)", "range": [66.12, 67.42], "ans": []},
+        {"lyric": "(Am I wrong)", "range": [67.42, 69.35], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "OH MY GOD", "lyric_hangul": "OH MY GOD", "lyric_translation": "", "range": [69.35, 70.43], "ans": []},
+    {"lyric": "Am I Wrong", "lyric_hangul": "Am I Wrong", "lyric_translation": "", "range": [70.43, 70.93], "ans": []},
+    {"lyric": "Naega mwo teullin malhaesseo", "lyric_hangul": "내가 뭐 틀린 말했어", "lyric_translation": "Did I say something wrong", "range": [70.52, 75.04], "ans": [7]},
+    {"lyric": "Am I Wrong", "lyric_hangul": "Am I Wrong", "lyric_translation": "", "range": [75.04, 75.99], "ans": []},
+    {"lyric": "Naega mwo geojitmalhaesseo", "lyric_hangul": "내가 뭐 거짓말했어", "lyric_translation": "Did I lie", "range": [75.99, 79.62], "ans": [7]},
+    {
+      "lyric_hangul": "Going crazy (미쳤어 미쳤어)",
+      "lyric_translation": "Going crazy (gone crazy gone crazy)",
+      "parts": [
+        {"lyric": "Going crazy", "range": [79.62, 81.66], "ans": [5]},
+        {"lyric": "(michyeosseo michyeosseo)", "range": [80.96, 82.61], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Crazy (미쳤어 미쳤어)",
+      "lyric_translation": "Crazy (gone crazy gone crazy)",
+      "parts": [
+        {"lyric": "Crazy", "range": [82.61, 83.58], "ans": [5]},
+        {"lyric": "(michyeosseo michyeosseo)", "range": [82.88, 84.5], "ans": [7]}
+      ]
+    },
+    {"lyric": "Am I wrong", "lyric_hangul": "Am I Wrong (Am I Wrong)", "lyric_translation": "Am I wrong", "range": [84.5, 86.51], "ans": [5]},
+    {"lyric": "Am I wrong", "lyric_hangul": "Am I Wrong (Am I Wrong)", "lyric_translation": "Am I wrong", "range": [86.51, 88.35], "ans": [5]},
+    {"lyric": "Eodiro ganeunji", "lyric_hangul": "어디로 가는지", "lyric_translation": "Where am I going", "range": [88.35, 90.8], "ans": [7]},
+    {"lyric": "Sesangi michyeo doragane", "lyric_hangul": "세상이 미쳐 돌아가네", "lyric_translation": "The world’s going crazy", "range": [90.8, 95.06], "ans": [7]},
+    "",
+    {"lyric": "Are you ready for this", "lyric_hangul": "Are you ready for this (Am I Wrong)", "lyric_translation": "Are you ready for this", "range": [95.06, 97.66], "ans": []},
+    {"lyric": "Are you ready for this", "lyric_hangul": "Are you ready for this (Am I Wrong)", "lyric_translation": "Are you ready for this", "range": [97.66, 99.38], "ans": []},
+    {
+      "lyric_hangul": "Are you ready for this",
+      "lyric_translation": "Are you ready for this / (No I’m not)",
+      "parts": [
+        {"lyric": "Are you ready for this", "range": [99.38, 100.38], "ans": []},
+        {"lyric": "(No I’m not)", "range": [100.38, 100.88], "ans": []}
+      ]
+    },
+    {"lyric": "NO I'M NOT", "lyric_hangul": "NO I'M NOT", "lyric_translation": "", "range": [100.54, 102.68], "ans": []},
+    "",
+    {"lyric": "Geuraemma niga michingyeo", "lyric_hangul": "그램마 니가 미친겨", "lyric_translation": "That’s right kid you gone crazy", "range": [102.68, 104.22], "ans": [3]},
+    {"lyric": "Michin sesange an michin ge michingyeo", "lyric_hangul": "미친 세상에 안 미친 게 미친겨", "lyric_translation": "The fact that you’re not crazy in a crazy world is crazy", "range": [104.22, 106.55], "ans": [3]},
+    {
+      "lyric_hangul": "온 천지 사방이 HELL YEAH",
+      "lyric_translation": "The earth and sky and all around hell yeah",
+      "parts": [
+        {"lyric": "On cheonji sabangi", "range": [106.55, 108.35], "ans": [3]},
+        {"lyric": "Hell yeah", "range": [107.96, 108.98], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "온라인 오프라인이 HELL YEAH",
+      "lyric_translation": "Online offline hell yeah",
+      "parts": [
+        {"lyric": "Onrain opeuraini", "range": [108.71, 110.69], "ans": [3]},
+        {"lyric": "Hell yeah", "range": [109.95, 112.33], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Nyuseureul bwado amureohji anhdamyeon", "lyric_hangul": "뉴스를 봐도 아무렇지 않다면", "lyric_translation": "If what you see on the news is nothing to you", "range": [111.35, 113.23], "ans": []},
+    {"lyric": "Geu daesgeuri amureohji anhdamyeon", "lyric_hangul": "그 댓글이 아무렇지 않다면", "lyric_translation": "If that comment is nothing to you", "range": [113.23, 115.58], "ans": []},
+    {"lyric": "Geu jeungoga amureohji anhdamyeon", "lyric_hangul": "그 증오가 아무렇지 않다면", "lyric_translation": "If that hatred is nothing to you", "range": [115.58, 117.54], "ans": []},
+    {"lyric": "Neon jeongsang anin ge bijeongsang", "lyric_hangul": "넌 정상 아닌 게 비정상", "lyric_translation": "You’re not normal, you’re abnormal", "range": [117.54, 120.19], "ans": []},
+    "",
+    {"lyric": "On sesangi da michin geot gata", "lyric_hangul": "온 세상이 다 미친 것 같아", "lyric_translation": "It seems like the entire world has gone crazy", "range": [120.19, 123.67], "ans": [1, 7]},
+    {"lyric": "Kkeutin geot gata", "lyric_hangul": "끝인 것 같아", "lyric_translation": "Seems like the end", "range": [123.67, 124.14], "ans": [1, 7]},
+    {"lyric": "Oh why (oh why)", "lyric_hangul": "Oh why Oh why Oh why Oh why", "lyric_translation": "Oh why (oh why) / Oh why (oh why)", "range": [124.14, 128.58], "ans": [1, 7]},
+    {
+      "lyric_hangul": "Oh why why why why",
+      "lyric_translation": "Oh why why why why / (Oh my God) / (Am I wrong)",
+      "parts": [
+        {"lyric": "Oh why why why why", "range": [128.35, 128.85], "ans": [1, 7]},
+        {"lyric": "(Oh my God)", "range": [128.4, 129.61], "ans": []},
+        {"lyric": "(Am I wrong)", "range": [129.61, 131.63], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "OH MY GOD", "lyric_hangul": "OH MY GOD", "lyric_translation": "", "range": [131.63, 132.74], "ans": []},
+    {"lyric": "Am I Wrong", "lyric_hangul": "Am I Wrong", "lyric_translation": "", "range": [132.74, 133.68], "ans": []},
+    {"lyric": "Naega mwo teullin malhaesseo", "lyric_hangul": "내가 뭐 틀린 말했어", "lyric_translation": "Did I say something wrong", "range": [133.68, 136.95], "ans": [5]},
+    {"lyric": "Am I Wrong", "lyric_hangul": "Am I Wrong", "lyric_translation": "", "range": [136.95, 138.15], "ans": []},
+    {"lyric": "Naega mwo geojitmalhaesseo", "lyric_hangul": "내가 뭐 거짓말했어", "lyric_translation": "Did I lie", "range": [138.15, 142.01], "ans": [5]},
+    {"lyric": "Going crazy (michyeosseo michyeosseo)", "lyric_hangul": "Going crazy (미쳤어 미쳤어)", "lyric_translation": "Going crazy (gone crazy gone crazy)", "range": [142.01, 144.78], "ans": [7]},
+    {"lyric": "Crazy (michyeosseo michyeosseo)", "lyric_hangul": "Crazy (미쳤어 미쳤어)", "lyric_translation": "Crazy (gone crazy gone crazy)", "range": [144.78, 146.81], "ans": [7]},
+    {"lyric": "Am I wrong", "lyric_hangul": "Am I Wrong (Am I Wrong)", "lyric_translation": "Am I wrong", "range": [146.81, 148.71], "ans": [7]},
+    {"lyric": "Am I wrong", "lyric_hangul": "Am I Wrong (Am I Wrong)", "lyric_translation": "Am I wrong", "range": [148.71, 150.44], "ans": [7]},
+    {"lyric": "Eodiro ganeunji", "lyric_hangul": "어디로 가는지", "lyric_translation": "Where am I going", "range": [150.44, 153.06], "ans": [5]},
+    {"lyric": "Sesangi michyeo doragane", "lyric_hangul": "세상이 미쳐 돌아가네", "lyric_translation": "The world’s going crazy", "range": [153.06, 155.52], "ans": [5]},
+    "",
+    {"lyric": "Michin sesang gireul ilheodo", "lyric_hangul": "미친 세상 길을 잃어도", "lyric_translation": "Though I walk this crazy world’s path", "range": [155.52, 161.02], "ans": [7]},
+    {"lyric": "Am I Wrong (Am I Wrong) Am I Wrong", "lyric_hangul": "Am I Wrong (Am I Wrong) Am I Wrong", "lyric_translation": "", "range": [161.02, 164.13], "ans": []},
+    {"lyric": "Ajigeun deo salgo sipeo", "lyric_hangul": "아직은 더 살고 싶어", "lyric_translation": "I still want to live longer", "range": [164.13, 168.91], "ans": [5]},
+    {
+      "lyric_hangul": "찾고 싶어 나의 믿음을",
+      "lyric_translation": "I want to find it, my faith / (Am I wrong)",
+      "parts": [
+        {"lyric": "Chajgo sipeo naui mideumeul", "range": [168.91, 172.27], "ans": [5]},
+        {"lyric": "(Am I wrong)", "range": [172.27, 177.52], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Am I Wrong", "lyric_hangul": "Am I Wrong", "lyric_translation": "", "range": [177.52, 178.12], "ans": []},
+    {"lyric": "Naega mwo teullin malhaesseo", "lyric_hangul": "내가 뭐 틀린 말했어", "lyric_translation": "Did I say something wrong", "range": [178.12, 181.53], "ans": [7]},
+    {"lyric": "Am I Wrong", "lyric_hangul": "Am I Wrong", "lyric_translation": "", "range": [181.53, 182.53], "ans": []},
+    {"lyric": "Naega mwo geojitmalhaesseo", "lyric_hangul": "내가 뭐 거짓말했어", "lyric_translation": "Did I lie", "range": [182.53, 186.4], "ans": [7]},
+    {
+      "lyric_hangul": "Going crazy (미쳤어 미쳤어)",
+      "lyric_translation": "Going crazy (gone crazy gone crazy)",
+      "parts": [
+        {"lyric": "Going crazy", "range": [186.4, 187.97], "ans": [5]},
+        {"lyric": "(michyeosseo michyeosseo)", "range": [187.27, 189.29], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Crazy (미쳤어 미쳤어)",
+      "lyric_translation": "Crazy (gone crazy gone crazy)",
+      "parts": [
+        {"lyric": "Crazy", "range": [189.29, 190.13], "ans": [5]},
+        {"lyric": "(michyeosseo michyeosseo)", "range": [189.43, 191.29], "ans": [7]}
+      ]
+    },
+    {"lyric": "Am I wrong", "lyric_hangul": "Am I Wrong (Am I Wrong)", "lyric_translation": "Am I wrong", "range": [191.29, 193.14], "ans": [5]},
+    {"lyric": "Am I wrong", "lyric_hangul": "Am I Wrong (Am I Wrong)", "lyric_translation": "Am I wrong", "range": [193.14, 194.99], "ans": [5]},
+    {"lyric": "Eodiro ganeunji", "lyric_hangul": "어디로 가는지", "lyric_translation": "Where am I going", "range": [194.99, 197.47], "ans": [7]},
+    {"lyric": "Sesangi michyeo doragane", "lyric_hangul": "세상이 미쳐 돌아가네", "lyric_translation": "The world’s going crazy", "range": [197.47, 201.55], "ans": [7]},
+    "",
+    {"lyric": "Are you ready for this", "lyric_hangul": "Are you ready for this", "lyric_translation": "Are you ready for this", "range": [201.55, 203.82], "ans": []},
+    {"lyric": "Are you ready for this", "lyric_hangul": "Are you ready for this", "lyric_translation": "Are you ready for this", "range": [203.82, 206.01], "ans": []},
+    {"lyric": "Are you ready for this", "lyric_hangul": "Are you ready for this", "lyric_translation": "Are you ready for this", "range": [206.01, 209.28], "ans": []}
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "name": "Hip Hop Lover (힙합성애자)\r",
+  "ogg": "sound/kpop/hip_hop_lover.ogg",
+  "id": "hip-hop-lover",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/hip-hop-lover.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:50Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "(People wonder why we love this h-i-p h-o-p, shit)", "lyric_hangul": "(People wonder why we love this h-i-p h-o-p, shit)", "lyric_translation": "", "range": [1.8, 8.56], "ans": []},
+    {"lyric": "(Why we got so much guys in this culture, tell me)", "lyric_hangul": "(Why we got so much guys in this culture, tell me)", "lyric_translation": "", "range": [8.56, 12.72], "ans": []},
+    {"lyric": "It was a new world", "lyric_hangul": "It was a new world", "lyric_translation": "It was a new world", "range": [12.72, 13.89], "ans": [4]},
+    {"lyric": "Pyeongsoe geurina sina kkeujeogideon naege", "lyric_hangul": "평소에 글이나 시나 끄적이던 내게", "lyric_translation": "I didn’t think much of writing or poems", "range": [13.89, 16.26], "ans": [4]},
+    {"lyric": "Simcheongimanyang geup dagawa", "lyric_hangul": "심청이마냥 급 다가와", "lyric_translation": "But it came to me suddenly like Shim Chung", "range": [16.26, 17.72], "ans": [4]},
+    {"lyric": "Naega mot tteudeon sae nuneul tteuge haenne", "lyric_hangul": "내가 못 뜨던 새 눈을 뜨게 했네", "lyric_translation": "I used to be a flightless bird but it opened my eyes", "range": [17.72, 19.48], "ans": [4]},
+    {"lyric": "But people keep askin’ baby", "lyric_hangul": "But people keep askin' baby", "lyric_translation": "But people keep askin’ baby", "range": [19.48, 21.2], "ans": [4]},
+    {"lyric": "Why you love that HIPHOP swit?", "lyric_hangul": "Why you love that HIPHOP 쉿?", "lyric_translation": "Why you love that HIPHOP shit?", "range": [21.2, 22.79], "ans": [4]},
+    {"lyric": "Geureom naneun malhae iyun wollae eobseo", "lyric_hangul": "그럼 나는 말해 이윤 원래 없어", "lyric_translation": "Then I tell them, I don’t have a reason,", "range": [22.79, 24.77], "ans": [4]},
+    {"lyric": "Cause it’s HIPHOP", "lyric_hangul": "Cause it's HIPHOP", "lyric_translation": "it’s cause it’s hip hop", "range": [24.77, 25.87], "ans": [4]},
+    {"lyric": "Byeol geo eobseo epikhai,", "lyric_hangul": "별 거 없어 에픽하이,", "lyric_translation": "Nothing special, Epik High,", "range": [25.87, 27.84], "ans": [4]},
+    {"lyric": "Namdeulcheoreom Jay-Z, Nas mullon keullaesikhan", "lyric_hangul": "남들처럼 Jay-Z, Nas 물론 클래식한", "lyric_translation": "just like others Jay-Z, Nas", "range": [27.84, 29.93], "ans": [4]},
+    {"lyric": "Illmaticgwa Doggystyle,", "lyric_hangul": "Illmatic과 Doggystyle,", "lyric_translation": "And of course the classic Illmatic and Doggystyle,", "range": [29.93, 31.15], "ans": [4]},
+    {"lyric": "In My Mind ttohan KRS-ONE", "lyric_hangul": "In My Mind 또한 KRS-ONE", "lyric_translation": "in my mind, KRS-ONE", "range": [31.15, 32.72], "ans": [4]},
+    {"lyric": "Tto Ready to die, Eminemgwa", "lyric_hangul": "또 Ready to die, Eminem과", "lyric_translation": "And Ready To Die, Eminem", "range": [32.72, 33.98], "ans": [4]},
+    {"lyric": "The Chronicgwa geu daeum myeongjak 2001", "lyric_hangul": "The Chronic과 그 다음 명작 2001", "lyric_translation": "and The Chronic and the next classic 2001", "range": [33.98, 35.72], "ans": [4]},
+    {"lyric": "Gang Starr, Black Star, Eric B,", "lyric_hangul": "Gang Starr, Black Star, Eric B,", "lyric_translation": "Gang Starr, Black Star, Eric B,", "range": [35.72, 37.14], "ans": [4]},
+    {"lyric": "Rakim, Pete Rock and CL smooth", "lyric_hangul": "Rakim, Pete Rock and CL smooth", "lyric_translation": "Rakim, Pete Rock and CL smooth", "range": [37.14, 38.34], "ans": [4]},
+    {"lyric": "They juss keep poppin", "lyric_hangul": "They juss keep poppin", "lyric_translation": "They juss keep poppin", "range": [38.34, 39.28], "ans": [4]},
+    {"lyric": "Dalgo sarasseo aju manhi", "lyric_hangul": "달고 살았어 아주 많이", "lyric_translation": "That’s all I listened to", "range": [39.28, 42.42], "ans": [4]},
+    {"lyric": "Geuttaeui nan ajumeoni", "lyric_hangul": "그때의 난 아주머니", "lyric_translation": "I was like an old lady", "range": [42.42, 45.25], "ans": [4]},
+    {"lyric": "Hal mari manhaseo namdeuri", "lyric_hangul": "할 말이 많아서 남들이", "lyric_translation": "I had so much to say that it", "range": [45.25, 47.26], "ans": [4]},
+    {"lyric": "Haejuneun iyagiron bujokhada neukkyeotji", "lyric_hangul": "해주는 이야기론 부족하다 느꼈지", "lyric_translation": "wasn’t enough with what other people told me", "range": [47.26, 49.53], "ans": [4]},
+    {"lyric": "Ildaneun eokji geojit,", "lyric_hangul": "일단은 억지 거짓,", "lyric_translation": "First, I forced it,", "range": [49.53, 50.15], "ans": [4]},
+    {"lyric": "Deokjideokji balla gasarapsigo sseotji", "lyric_hangul": "덕지덕지 발라 가사랍시고 썼지", "lyric_translation": "layer after layer, calling it lyrics", "range": [50.15, 52.81], "ans": [4]},
+    {"lyric": "And that was it! uh that was it", "lyric_hangul": "And that was it! uh that was it", "lyric_translation": "And that was it! uh that was it,", "range": [52.81, 54.53], "ans": [4]},
+    {"lyric": "Naega naega doen sijeom", "lyric_hangul": "내가 내가 된 시점", "lyric_translation": "when I became me", "range": [54.53, 56.27], "ans": [4]},
+    {"lyric": "Hakseupji sai baekjie modu aneun", "lyric_hangul": "학습지 사이 백지에 모두 아는", "lyric_translation": "On the white paper in between my textbooks,", "range": [56.27, 57.94], "ans": [4]},
+    {"lyric": "Nal jamsi kkiwo", "lyric_hangul": "날 잠시 끼워", "lyric_translation": "I put myself", "range": [57.94, 59.29], "ans": [4]},
+    {"lyric": "Geurigo jiwosseo biwosseo", "lyric_hangul": "그리고 지웠어 비웠어", "lyric_translation": "And I erased it, emptied it,", "range": [59.29, 61.12], "ans": [4]},
+    {"lyric": "Biteu wieseomankeumeun nan jayurowo", "lyric_hangul": "비트 위에서만큼은 난 자유로워", "lyric_translation": "I was free on top of the beat", "range": [61.12, 63.14], "ans": [4]},
+    {"lyric": "7nyeon jeonina jigeumina", "lyric_hangul": "7년 전이나 지금이나", "lyric_translation": "Seven years ago or now,", "range": [63.14, 64.48], "ans": [4]},
+    {"lyric": "Ttokgata ige jeil nadawo", "lyric_hangul": "똑같아 이게 제일 나다워", "lyric_translation": "it’s the same, this is the most me", "range": [64.48, 65.95], "ans": [4]},
+    "",
+    {"lyric": "I’ll be down for your rap", "lyric_hangul": "I'll be down for your rap", "lyric_translation": "I’ll be down for your rap", "range": [65.95, 68.13], "ans": [7]},
+    {"lyric": "I’ll be down for your rhythm", "lyric_hangul": "I'll be down for your rhythm", "lyric_translation": "I’ll be down for your rhythm", "range": [68.13, 71.53], "ans": [7]},
+    {"lyric": "Yeojeonhi nae simjangeul ttwige hae", "lyric_hangul": "여전히 내 심장을 뛰게 해", "lyric_translation": "It still makes my heart pound", "range": [71.53, 75.08], "ans": [7]},
+    {"lyric": "Naega jinjja naigo sipge hae", "lyric_hangul": "내가 진짜 나이고 싶게 해", "lyric_translation": "It makes me be the real me", "range": [75.08, 78.25], "ans": [7]},
+    {"lyric": "Yeah I love this", "lyric_hangul": "Yeah I love this", "lyric_translation": "Yeah I love this", "range": [78.25, 80.05], "ans": []},
+    {
+      "lyric_hangul": "(Hip! Hop!) 사람 냄새가 나는",
+      "lyric_translation": "(Hip! Hop!) Has the scent of humans",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [80.05, 81.11], "ans": []},
+        {"lyric": "Saram naemsaega naneun", "range": [81.79, 83.17], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) 인생으로 써내려가는",
+      "lyric_translation": "(Hip! Hop!) Writing down my life",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [83.17, 84.94], "ans": []},
+        {"lyric": "Insaengeuro sseonaeryeoganeun", "range": [84.24, 86.56], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) 이제는 삶의 일부가 된",
+      "lyric_translation": "(Hip! Hop!) Is now part of my life",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [86.56, 88.27], "ans": []},
+        {"lyric": "Ijeneun sarmui ilbuga doen", "range": [87.57, 89.98], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) Yeah this ma (Hip! Hop!)",
+      "lyric_translation": "(Hip! Hop!) Yeah this ma (Hip! Hop!)",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [89.39, 91.49], "ans": []},
+        {"lyric": "Yeah this ma", "range": [90.79, 91.99], "ans": [6]},
+        {"lyric": "(Hip! Hop!)", "range": [91.29, 92.74], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yo ma Hiphop iphak?", "lyric_hangul": "￼Yo ma Hiphop 입학?", "lyric_translation": "Yo ma Hiphop enrollment?", "range": [92.69, 94.34], "ans": [3]},
+    {"lyric": "Momeuro neukkimyeo gaeipham", "lyric_hangul": "몸으로 느끼며 개입함", "lyric_translation": "I felt it with my body as I entered", "range": [94.34, 96.5], "ans": [3]},
+    {"lyric": "Bugallu, kingteot, oldeuseukul rideum ta", "lyric_hangul": "부갈루, 킹텃, 올드스쿨 리듬 타", "lyric_translation": "Boogaloo, King Tut, old school rhythms", "range": [96.5, 99.23], "ans": [3]},
+    {"lyric": "Bikhiteu witage rhymegwa hyeoreul milchak", "lyric_hangul": "빅히트 위탁에 rhyme과 혀를 밀착", "lyric_translation": "Entrusting the beat with rhyme and my tongue", "range": [99.23, 102.36], "ans": [3]},
+    {"lyric": "Dugageul natanae jigeumeun raep daenseu gyojiphap", "lyric_hangul": "두각을 나타내 지금은 랩 댄스 교집합", "lyric_translation": "It shows its prominence, it’s rap dance time", "range": [102.36, 105.97], "ans": [3]},
+    {"lyric": "Yeah ma role model,", "lyric_hangul": "Yeah ma role model,", "lyric_translation": "Yeah ma role model,", "range": [105.97, 107.11], "ans": [3]},
+    {"lyric": "Dadyu beobeol with epik hai", "lyric_hangul": "다듀 버벌 with 에픽 하이", "lyric_translation": "Dynamic Duo, Verbal with Epik High", "range": [107.11, 109.47], "ans": [3]},
+    {"lyric": "Seotun nal iryeokseo", "lyric_hangul": "서툰 날 이력서", "lyric_translation": "I’m still inexperienced as I write my resume,", "range": [109.47, 111.22], "ans": [3]},
+    {"lyric": "Sseo mumyeong kkae mudael fly", "lyric_hangul": "써 무명 깨 무댈 fly", "lyric_translation": "breaking down my namelessness, flying on stage", "range": [111.22, 112.73], "ans": [3]},
+    {"lyric": "Amugeotdo moreun nal ireukyeotji", "lyric_hangul": "아무것도 모른 날 일으켰지 매일", "lyric_translation": "They helped me get up when I didn’t know anything", "range": [112.73, 114.85], "ans": [3]},
+    {"lyric": "Maeil nae mameul ullin Artist, Ring", "lyric_hangul": "내 맘을 울린 Artist, Ring", "lyric_translation": "The artist, ring that rang through my heart", "range": [114.85, 116.5], "ans": [3]},
+    {
+      "lyric_hangul": "몸으로 표현만 했었던 비기와 투팍 and 나스,",
+      "lyric_translation": "Expressing it with their bodies, / Biggie, Tupac, Nas",
+      "parts": [
+        {"lyric": "Momeuro pyohyeonman haesseotdeon", "range": [116.5, 117.66], "ans": [3]},
+        {"lyric": "Bigiwa tupak and naseu,", "range": [117.66, 118.92], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nal deo aragatji uh", "lyric_hangul": "날 더 알아갔지 uh", "lyric_translation": "I found out more about myself", "range": [118.25, 120.49], "ans": [3]},
+    {"lyric": "Hope hope world,", "lyric_hangul": "Hope hope world,", "lyric_translation": "Hope hope world,", "range": [120.49, 121.14], "ans": [3]},
+    {"lyric": "Nae sesangeul mandeulgi jeone Cole world", "lyric_hangul": "내 세상을 만들기 전에 Cole world", "lyric_translation": "before I made my own world, Cole world", "range": [121.14, 122.59], "ans": [3]},
+    {"lyric": "Geuga geumyoil bameul bichul ttaebuteo", "lyric_hangul": "그가 금요일 밤을 비출 때부터", "lyric_translation": "Ever since he shone on Friday nights,", "range": [122.59, 124.17], "ans": [3]},
+    {"lyric": "Deo yeonggameul batgo sseoga nae gogeul", "lyric_hangul": "더 영감을 받고 써가 내 곡을", "lyric_translation": "I got inspiration and wrote my songs", "range": [124.17, 126.28], "ans": [3]},
+    {"lyric": "Mac miller, Kanye, Kendrick", "lyric_hangul": "Mac miller, Kanye, Kendrick", "lyric_translation": "Mac Miller, Kanye, Kendrick,", "range": [126.28, 127.68], "ans": [3]},
+    {"lyric": "Geudeurui eumageun nae gwie budichyeo", "lyric_hangul": "그들의 음악은 내 귀에 부딪혀", "lyric_translation": "their music hits my ears", "range": [127.68, 129.2], "ans": [3]},
+    {"lyric": "Maeil michyeogage teduril jabajun", "lyric_hangul": "매일 미쳐가게 테두릴 잡아준", "lyric_translation": "The best musicians that affixed", "range": [129.2, 131.03], "ans": [3]},
+    {"lyric": "Nae sarmui choegoui myujisyeon", "lyric_hangul": "내 삶의 최고의 뮤지션", "lyric_translation": "my life’s borders that went crazy every day", "range": [131.03, 132.35], "ans": [3]},
+    {"lyric": "Kkeuteomneun diksyeon, all right nae bonneungi golla", "lyric_hangul": "끝없는 딕션, all right 내 본능이 골라", "lyric_translation": "Endless diction, all right, my instincts choose", "range": [132.35, 135.56], "ans": [3]},
+    {"lyric": "Eotteon raebideun eotteon chumideun", "lyric_hangul": "어떤 랩이든 어떤 춤이든", "lyric_translation": "Whatever rap it is, whatever dance it is,", "range": [135.56, 137.87], "ans": [3]},
+    {"lyric": "Gamgakjeogin nae gyogam", "lyric_hangul": "감각적인 내 교감", "lyric_translation": "my response is sensual", "range": [137.87, 139.31], "ans": [3]},
+    {"lyric": "Ijen nae sarm sogui gongganeun hiphabeuro noga", "lyric_hangul": "이젠 내 삶 속의 공간은 힙합으로 녹아", "lyric_translation": "Now my life melts with hip hop", "range": [139.31, 142.34], "ans": [3]},
+    {"lyric": "Oneuldo Wild for the night nae momeun", "lyric_hangul": "오늘도 Wild for the night 내 몸은", "lyric_translation": "Today, I’m wild for the night, my body", "range": [142.34, 144.82], "ans": [3]},
+    {"lyric": "Feel like A$AP A$AP", "lyric_hangul": "Feel like A$AP A$AP", "lyric_translation": "Feel like A$AP A$AP", "range": [144.82, 145.77], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "I’ll be down for your rap", "lyric_hangul": "I'll be down for your rap", "lyric_translation": "I’ll be down for your rap", "range": [145.77, 148.12], "ans": [5]},
+    {"lyric": "I’ll be down for your rhythm", "lyric_hangul": "I'll be down for your rhythm", "lyric_translation": "I’ll be down for your rhythm", "range": [148.12, 151.36], "ans": [5]},
+    {"lyric": "Yeojeonhi nae simjangeul ttwige hae", "lyric_hangul": "여전히 내 심장을 뛰게 해", "lyric_translation": "It still makes my heart pound", "range": [151.36, 155.08], "ans": [5]},
+    {"lyric": "Naega jinjja naigo sipge hae", "lyric_hangul": "내가 진짜 나이고 싶게 해", "lyric_translation": "It makes me be the real me", "range": [155.08, 158.12], "ans": [5]},
+    {"lyric": "Yeah I love this", "lyric_hangul": "Yeah I love this", "lyric_translation": "Yeah I love this", "range": [158.12, 159.79], "ans": [5]},
+    {
+      "lyric_hangul": "(Hip! Hop!) 사람 냄새가 나는",
+      "lyric_translation": "(Hip! Hop!) Has the scent of humans",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [159.79, 161.19], "ans": []},
+        {"lyric": "Saram naemsaega naneun", "range": [161.99, 163.09], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) 인생으로 써내려가는",
+      "lyric_translation": "(Hip! Hop!) Writing down my life",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [162.95, 164.92], "ans": []},
+        {"lyric": "Insaengeuro sseonaeryeoganeun", "range": [164.22, 166.55], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) 이제는 삶의 일부가 된",
+      "lyric_translation": "(Hip! Hop!) Is now part of my life",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [166.55, 168.51], "ans": []},
+        {"lyric": "Ijeneun sarmui ilbuga doen", "range": [167.81, 170.0], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) Yeah this ma (Hip! Hop!)",
+      "lyric_translation": "(Hip! Hop!) Yeah this ma (Hip! Hop!)",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [169.49, 171.49], "ans": []},
+        {"lyric": "Yeah this ma", "range": [170.79, 172.01], "ans": [1]},
+        {"lyric": "(Hip! Hop!)", "range": [171.31, 173.38], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Hiphabeun chajawasseo salmyeosi", "lyric_hangul": "힙합은 찾아왔어 살며시", "lyric_translation": "Hip hop has found me", "range": [173.38, 177.17], "ans": [2]},
+    {"lyric": "Eorinaiga eommareul chatdeusi", "lyric_hangul": "어린아이가 엄마를 찾듯이", "lyric_translation": "Just like a child looks for his mother", "range": [177.17, 179.39], "ans": [2]},
+    {
+      "lyric_hangul": "자연스럽게 내 삶에 스며들었지 그 당시에",
+      "lyric_translation": "It came into / my life naturally",
+      "parts": [
+        {"lyric": "Jayeonseureopge nae sarme", "range": [179.39, 181.27], "ans": [2]},
+        {"lyric": "Seumyeodeureotji geu dangsie", "range": [181.27, 182.95], "ans": [2]}
+      ]
+    },
+    {"lyric": "Chodeunghaksaengil ppunieotdeon", "lyric_hangul": "초등학생일 뿐이었던", "lyric_translation": "I was just an elementary student back then,", "range": [182.51, 184.1], "ans": [2]},
+    {"lyric": "Na geujeseoya kkumeul jaedanhae", "lyric_hangul": "나 그제서야 꿈을 재단해", "lyric_translation": "I set up my dream then", "range": [184.1, 185.82], "ans": [2]},
+    {"lyric": "I want a rapstar namdeulgwa biseutan", "lyric_hangul": "I want a rapstar 남들과 비슷한", "lyric_translation": "I want a rapstar, as others,", "range": [185.82, 187.69], "ans": [2]},
+    {"lyric": "Sarmeul hyeomohaetdeon kkomaengiui josukham", "lyric_hangul": "삶을 혐오했던 꼬맹이의 조숙함", "lyric_translation": "I hated living the same, the prematurity of a little kid", "range": [187.69, 189.56], "ans": [2]},
+    {"lyric": "Juwie moduga butjapgo mallyuhadeorado", "lyric_hangul": "주위에 모두가 붙잡고 만류하더라도", "lyric_translation": "Even if people hold me down and warn me", "range": [189.56, 191.32], "ans": [2]},
+    {"lyric": "Nae aneseo jarireul gosuhan hiphabeun", "lyric_hangul": "내 안에서 자리를 고수한 힙합은", "lyric_translation": "Hip hop persists in me", "range": [191.32, 193.23], "ans": [2]},
+    {"lyric": "Nal songdurijjae dwijibeonwa,", "lyric_hangul": "날 송두리째 뒤집어놔,", "lyric_translation": "and completely turns me inside out", "range": [193.23, 195.35], "ans": [2]},
+    {"lyric": "Geu eorin nal gyogwaseo gwitungie", "lyric_hangul": "그 어린 날 교과서 귀퉁이에", "lyric_translation": "The young me used to write", "range": [195.35, 198.05], "ans": [2]},
+    {"lyric": "Jeogeonaeryeotdeon my 16 bars", "lyric_hangul": "적어내렸던 my 16 bars", "lyric_translation": "my 16 bars on the corner of my textbooks", "range": [198.05, 199.71], "ans": [2]},
+    {"lyric": "Deokbune nan anjeongdoen sarm ppurichigo", "lyric_hangul": "덕분에 난 안정된 삶 뿌리치고", "lyric_translation": "Thanks to that, I threw away my secure life", "range": [199.71, 201.74], "ans": [2]},
+    {"lyric": "Gatdeon daegu namsandongui jageopsire", "lyric_hangul": "갔던 대구 남산동의 작업실에", "lyric_translation": "and went to a studio in Namsan-dong, Daegu", "range": [201.74, 203.3], "ans": [2]},
+    {
+      "lyric_hangul": "날 던지고 밤새도록 갈았던 무딘 펜촉의 날",
+      "lyric_translation": "All night, I sharpened / my blunt pen tip",
+      "parts": [
+        {"lyric": "Nal deonjigo bamsaedorok garatdeon", "range": [203.3, 205.84], "ans": [2]},
+        {"lyric": "Mudin penchogui nal", "range": [205.84, 206.62], "ans": [2]}
+      ]
+    },
+    {"lyric": "Noryeok kkeute nan gyeolguk hakchangsijeore", "lyric_hangul": "노력 끝에 난 결국 학창시절에", "lyric_translation": "At the end of my efforts,", "range": [205.94, 208.22], "ans": [2]},
+    {"lyric": "Batneun eonsuoe daesinhaeseo", "lyric_hangul": "받는 언수외 대신해서", "lyric_translation": "instead of having a language marks for school", "range": [208.22, 210.27], "ans": [2]},
+    {"lyric": "Ppaegokhi chaewogatdeon rhyme", "lyric_hangul": "빼곡히 채워갔던 rhyme", "lyric_translation": "I filled up my rhymes,", "range": [210.27, 211.32], "ans": [2]},
+    {"lyric": "Deoge dreams come true", "lyric_hangul": "덕에 dreams come true", "lyric_translation": "which made my dreams come true", "range": [211.32, 212.73], "ans": [2]},
+    {"lyric": "Juwieseo dadeul mutji hiphabi mwonyago", "lyric_hangul": "주위에서 다들 묻지 힙합이 뭐냐고", "lyric_translation": "Everyone asks me, what is hip hop?", "range": [212.73, 216.12], "ans": [2]},
+    {"lyric": "Dangdanghi dabeul haji naui jeonburago", "lyric_hangul": "당당히 답을 하지 나의 전부라고", "lyric_translation": "Then I confidently answer, my everything", "range": [216.12, 219.43], "ans": [2]},
+    {
+      "lyric_hangul": "그 결과 내 인생 자체를 음악 안에 뼈 묻었어",
+      "lyric_translation": "As a result, my life / has buried itself into music",
+      "parts": [
+        {"lyric": "Geu gyeolgwa nae insaeng jachereul", "range": [219.43, 221.55], "ans": [2]},
+        {"lyric": "Eumak ane ppyeo mudeosseo", "range": [221.55, 222.87], "ans": [2]}
+      ]
+    },
+    {"lyric": "I munhwareul saranghan ge joeramyeon", "lyric_hangul": "이 문화를 사랑한 게 죄라면", "lyric_translation": "If loving this culture is a sin,", "range": [222.81, 224.24], "ans": [2]},
+    {"lyric": "Nan golbaekbeoneun neomge deo jugeosseo", "lyric_hangul": "난 골백번은 넘게 더 죽었어", "lyric_translation": "I’ll die over a hundred times", "range": [224.24, 225.84], "ans": [2]},
+    "",
+    {"lyric": "I’ll be down for your rap", "lyric_hangul": "I'll be down for your rap", "lyric_translation": "I’ll be down for your rap", "range": [225.84, 228.09], "ans": [7]},
+    {"lyric": "I’ll be down for your rhythm", "lyric_hangul": "I'll be down for your rhythm", "lyric_translation": "I’ll be down for your rhythm", "range": [228.09, 231.68], "ans": [7]},
+    {"lyric": "Yeojeonhi nae simjangeul ttwige hae", "lyric_hangul": "여전히 내 심장을 뛰게 해", "lyric_translation": "It still makes my heart pound", "range": [231.68, 234.88], "ans": [5]},
+    {"lyric": "Naega jinjja naigo sipge hae", "lyric_hangul": "내가 진짜 나이고 싶게 해", "lyric_translation": "It makes me be the real me", "range": [234.88, 238.05], "ans": [5]},
+    {"lyric": "Yeah I love this", "lyric_hangul": "Yeah I love this", "lyric_translation": "Yeah I love this", "range": [238.05, 239.66], "ans": [5]},
+    {
+      "lyric_hangul": "(Hip! Hop!) 사람 냄새가 나는",
+      "lyric_translation": "(Hip! Hop!) Has the scent of humans",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [239.66, 241.11], "ans": []},
+        {"lyric": "Saram naemsaega naneun", "range": [241.98, 243.06], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) 인생으로 써내려가는",
+      "lyric_translation": "(Hip! Hop!) Writing down my life",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [242.99, 244.92], "ans": []},
+        {"lyric": "Insaengeuro sseonaeryeoganeun", "range": [244.22, 246.49], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) 이제는 삶의 일부가 된",
+      "lyric_translation": "(Hip! Hop!) Is now part of my life",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [246.38, 248.33], "ans": []},
+        {"lyric": "Ijeneun sarmui ilbuga doen", "range": [247.63, 249.82], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Hip! Hop!) Yeah this ma (Hip! Hop!)",
+      "lyric_translation": "(Hip! Hop!) Yeah this ma (Hip! Hop!)",
+      "parts": [
+        {"lyric": "(Hip! Hop!)", "range": [249.45, 251.46], "ans": []},
+        {"lyric": "Yeah this ma", "range": [250.76, 252.02], "ans": [6]},
+        {"lyric": "(Hip! Hop!)", "range": [251.32, 256.0], "ans": []}
+      ]
+    }
+  ]
+}

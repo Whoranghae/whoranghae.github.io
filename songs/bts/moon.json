@@ -1,0 +1,169 @@
+{
+  "name": "Moon\r",
+  "ogg": "sound/kpop/moon.ogg",
+  "id": "moon",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/moon.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:02Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Dalgwa jiguneun eonjebuteo", "lyric_hangul": "달과 지구는 언제부터", "lyric_translation": "Since when were the moon and", "range": [6.41, 9.74], "ans": [1]},
+    {"lyric": "Ireoke hamkkehaetteon geonji", "lyric_hangul": "이렇게 함께했던 건지", "lyric_translation": "The Earth this close to each other?", "range": [9.74, 13.26], "ans": [1]},
+    {"lyric": "Jonjaerodo bitnaneun neo", "lyric_hangul": "존재로도 빛나는 너", "lyric_translation": "You shine just by existing", "range": [13.26, 16.45], "ans": [1]},
+    {"lyric": "Geu gyeocheul na jikyeodo dwelji", "lyric_hangul": "그 곁을 나 지켜도 될지", "lyric_translation": "Can I stay by your side?", "range": [16.45, 19.64], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "너는 나의 지구 네게 난 just a moon",
+      "lyric_translation": "You are my Earth / To you I am just a moon",
+      "parts": [
+        {"lyric": "Neoneun naye jigu", "range": [19.64, 22.18], "ans": [1]},
+        {"lyric": "Nege nan just a moon", "range": [22.18, 23.18], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ne mameul balkhyeojuneun neoye jageun byeol", "lyric_hangul": "네 맘을 밝혀주는 너의 작은 별", "lyric_translation": "Your little star that brightens your heart", "range": [22.9, 26.36], "ans": [1]},
+    {
+      "lyric_hangul": "너는 나의 지구 and all I see is you",
+      "lyric_translation": "You are my Earth / And all I see is you",
+      "parts": [
+        {"lyric": "Neoneun naye jigu", "range": [26.36, 27.6], "ans": [1]},
+        {"lyric": "And all I see is you", "range": [27.6, 29.96], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ireoke geujeo neol barabol ppunin geol", "lyric_hangul": "이렇게 그저 널 바라볼 뿐인 걸", "lyric_translation": "I am just gazing at you like this", "range": [29.71, 33.07], "ans": [1]},
+    "",
+    {"lyric": "Modudeul naega areumdabda hajiman", "lyric_hangul": "모두들 내가 아름답다 하지만", "lyric_translation": "Everyone says I am beautiful but", "range": [33.07, 36.13], "ans": [1]},
+    {"lyric": "Nae badaneun ontong kkaman geol", "lyric_hangul": "내 바다는 온통 까만 걸", "lyric_translation": "My oceans are all pitch-black", "range": [36.13, 39.58], "ans": [1]},
+    {"lyric": "Kkotteuri pigo haneuri saeparan byeol", "lyric_hangul": "꽃들이 피고 하늘이 새파란 별", "lyric_translation": "A star where flowers bloom and the sky is deep-blue", "range": [39.58, 43.01], "ans": [1]},
+    {"lyric": "Jeongmal areumdaun geon neoya", "lyric_hangul": "정말 아름다운 건 너야", "lyric_translation": "The one that’s truly beautiful is you", "range": [43.01, 46.44], "ans": [1]},
+    "",
+    {"lyric": "Mundeuk saenggakhae neodo nal jigeum bogo isseulkka", "lyric_hangul": "문득 생각해 너도 날 지금 보고 있을까", "lyric_translation": "I wonder all of a sudden, are you also looking at me right now?", "range": [46.44, 53.02], "ans": [1]},
+    {"lyric": "Nae apeun sangcheokkaji nege da deulkijin aneulkka", "lyric_hangul": "내 아픈 상처까지 네게 다 들키진 않을까", "lyric_translation": "Even my painful scars, wouldn’t everything be found out by you?", "range": [53.02, 61.81], "ans": [1]},
+    {
+      "lyric_hangul": "네 주위를 맴돌게 네 곁에 있어 줄게",
+      "lyric_translation": "I will orbit you / I will stay by your side",
+      "parts": [
+        {"lyric": "Ne juwireul maemdolge", "range": [61.81, 65.79], "ans": [1]},
+        {"lyric": "Ne gyeote isseo julge", "range": [65.79, 68.57], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 빛이 되어 줄게 all for you",
+      "lyric_translation": "I will become your light / All for you",
+      "parts": [
+        {"lyric": "Ne bichi dweeo julge", "range": [68.57, 70.85], "ans": [1]},
+        {"lyric": "All for you", "range": [70.85, 74.16], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Nan ireumjocha eopseosseo", "lyric_hangul": "난 이름조차 없었어", "lyric_translation": "I didn’t even have a name", "range": [74.16, 77.45], "ans": [1]},
+    {"lyric": "Naega neol mannagi jeonkkajin", "lyric_hangul": "내가 널 만나기 전까진", "lyric_translation": "Until the moment I met you", "range": [77.45, 80.81], "ans": [1]},
+    {"lyric": "Neon naege sarangeul jwotgo", "lyric_hangul": "넌 내게 사랑을 줬고", "lyric_translation": "You gave me love and", "range": [80.81, 84.17], "ans": [1]},
+    {"lyric": "Ijeneun nae iyuga dwaesseo", "lyric_hangul": "이제는 내 이유가 됐어", "lyric_translation": "Now became my reason", "range": [84.17, 87.22], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "너는 나의 지구 네게 난 just a moon",
+      "lyric_translation": "You are my Earth / To you I am just a moon",
+      "parts": [
+        {"lyric": "Neoneun naye jigu", "range": [87.22, 89.8], "ans": [1]},
+        {"lyric": "Nege nan just a moon", "range": [89.8, 90.74], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ne mameul balkhyeojuneun neoye jageun byeol", "lyric_hangul": "네 맘을 밝혀주는 너의 작은 별", "lyric_translation": "Your little star that brightens your heart", "range": [90.59, 94.03], "ans": [1]},
+    {
+      "lyric_hangul": "너는 나의 지구 and all I see is you",
+      "lyric_translation": "You are my Earth / And all I see is you",
+      "parts": [
+        {"lyric": "Neoneun naye jigu", "range": [94.03, 95.21], "ans": [1]},
+        {"lyric": "And all I see is you", "range": [95.21, 97.57], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ireoke geujeo neol barabol ppunin geol", "lyric_hangul": "이렇게 그저 널 바라볼 뿐인 걸", "lyric_translation": "I am just gazing at you like this", "range": [97.42, 100.57], "ans": [1]},
+    "",
+    {"lyric": "In the crescent moon night", "lyric_hangul": "In the crescent moon night", "lyric_translation": "In the crescent moon night", "range": [100.57, 102.29], "ans": [1]},
+    {"lyric": "Du nuneul gamado neon parake naege millyeowa", "lyric_hangul": "두 눈을 감아도 넌 파랗게 내게 밀려와", "lyric_translation": "Even after closing my eyes you rush in with your blue", "range": [102.29, 107.2], "ans": [1]},
+    {"lyric": "In the full moon night", "lyric_hangul": "In the full moon night", "lyric_translation": "In the full moon night", "range": [107.2, 109.01], "ans": [1]},
+    {"lyric": "Du nuneul tteugoseo neol damado gwaenchaneun geolkka", "lyric_hangul": "두 눈을 뜨고서 널 담아도 괜찮은 걸까", "lyric_translation": "Would it be okay to gather you into my eyes after opening them?", "range": [109.01, 114.02], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Mundeuk saenggakhae neodo nal jigeum bogo isseulkka", "lyric_hangul": "문득 생각해 너도 날 지금 보고 있을까", "lyric_translation": "I wonder all of a sudden, are you also looking at me right now?", "range": [114.02, 120.62], "ans": [1]},
+    {"lyric": "Nae apeun sangcheokkaji nege da deulkijin aneulkka", "lyric_hangul": "내 아픈 상처까지 네게 다 들키진 않을까", "lyric_translation": "Even my painful scars, wouldn’t everything be found out by you?", "range": [120.62, 129.2], "ans": [1]},
+    {
+      "lyric_hangul": "네 주위를 맴돌게 네 곁에 있어 줄게",
+      "lyric_translation": "I will orbit you / I will stay by your side",
+      "parts": [
+        {"lyric": "Ne juwireul maemdolge", "range": [129.2, 133.4], "ans": [1]},
+        {"lyric": "Ne gyeote isseo julge", "range": [133.4, 136.2], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 빛이 되어 줄게 all for you",
+      "lyric_translation": "I will become your light / All for you",
+      "parts": [
+        {"lyric": "Ne bichi dweeo julge", "range": [136.2, 138.46], "ans": [1]},
+        {"lyric": "All for you", "range": [138.46, 140.46], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "환한 낮에도 까만 밤에도",
+      "lyric_translation": "Even in the light of day / Even in the dark of night",
+      "parts": [
+        {"lyric": "Hwanhan najedo", "range": [140.46, 141.7], "ans": [1]},
+        {"lyric": "Kkaman bamedo", "range": [141.7, 143.56], "ans": [1]}
+      ]
+    },
+    {"lyric": "Nae gyeoteul jikyeojuneun neo", "lyric_hangul": "내 곁을 지켜주는 너", "lyric_translation": "You stay by my side", "range": [143.56, 147.14], "ans": [1]},
+    {
+      "lyric_hangul": "슬플 때에도 아플 때에도",
+      "lyric_translation": "Even when I am sad / Even when I am hurt",
+      "parts": [
+        {"lyric": "Seulpeul ttaeedo", "range": [147.14, 148.5], "ans": [1]},
+        {"lyric": "Apeul ttaeedo", "range": [148.5, 150.41], "ans": [1]}
+      ]
+    },
+    {"lyric": "Geujeo nal bichuneun neo", "lyric_hangul": "그저 날 비추는 너", "lyric_translation": "You simply shine on me", "range": [150.41, 153.87], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "어떤 말보다 고맙단 말보다",
+      "lyric_translation": "Rather than saying anything / Rather than thanking you",
+      "parts": [
+        {"lyric": "Eotteon malboda", "range": [153.87, 155.19], "ans": [1]},
+        {"lyric": "Gomabdan malboda", "range": [155.19, 157.05], "ans": [1]}
+      ]
+    },
+    {"lyric": "Nan neoye gyeote isseulge", "lyric_hangul": "난 너의 곁에 있을게", "lyric_translation": "I will stay by your side", "range": [157.01, 160.52], "ans": [1]},
+    {
+      "lyric_hangul": "캄캄한 밤에 훨씬 더 환하게",
+      "lyric_translation": "In the pitch-dark night / I will protect that place next to you",
+      "parts": [
+        {"lyric": "Kamkamhan bame", "range": [160.52, 162.22], "ans": [1]},
+        {"lyric": "Hwolsshin deo hwanhage", "range": [162.22, 163.94], "ans": [1]}
+      ]
+    },
+    {"lyric": "Neoye gyeoteul jikilge", "lyric_hangul": "너의 곁을 지킬게", "lyric_translation": "More brightly", "range": [163.94, 168.14], "ans": [1]},
+    "",
+    {"lyric": "Mundeuk saenggakhae neoneun neol jeongmal algo isseulkka", "lyric_hangul": "문득 생각해 너는 널 정말 알고 있을까", "lyric_translation": "I wonder all of a sudden, do you really know yourself?", "range": [168.14, 174.81], "ans": [1]},
+    {"lyric": "Ne jonjaega eolmana yeppeunji neo algo isseulkka", "lyric_hangul": "네 존재가 얼마나 예쁜지 너 알고 있을까", "lyric_translation": "Do you know how pretty you are?", "range": [174.81, 183.45], "ans": [1]},
+    {
+      "lyric_hangul": "네 주위를 맴돌게 네 곁에 있어 줄게",
+      "lyric_translation": "I will orbit you / I will stay by your side",
+      "parts": [
+        {"lyric": "Ne juwireul maemdolge", "range": [183.45, 187.53], "ans": [1]},
+        {"lyric": "Ne gyeote isseo julge", "range": [187.53, 190.38], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "네 빛이 되어 줄게 all for you",
+      "lyric_translation": "I will become your light / All for you",
+      "parts": [
+        {"lyric": "Ne bichi dweeo julge", "range": [190.38, 192.66], "ans": [1]},
+        {"lyric": "All for you", "range": [192.66, 196.12], "ans": [1]}
+      ]
+    }
+  ]
+}

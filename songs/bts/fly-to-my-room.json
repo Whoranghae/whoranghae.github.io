@@ -1,0 +1,261 @@
+{
+  "name": "Fly To My Room (내 방을 여행하는 법)\r",
+  "ogg": "sound/kpop/fly_to_my_room.ogg",
+  "id": "fly-to-my-room",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-11-20",
+  "album": "BE",
+  "cover": "css/images/covers/fly-to-my-room.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:47Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Tteonabolkka let me fly to my", "lyric_hangul": "떠나볼까 let me fly to my", "lyric_translation": "How about I leave, let me fly to my", "range": [0.75, 3.83], "ans": [5]},
+    {"lyric": "Shiseoneul natchugo eodideun mak zoom", "lyric_hangul": "시선을 낮추고 어디든 막 zoom", "lyric_translation": "Lower my gaze and just go, wherever, zoom", "range": [3.83, 8.63], "ans": [5]},
+    {"lyric": "Jigeum nawa let me fly to my", "lyric_hangul": "지금 나와 let me fly to my", "lyric_translation": "Come out now, let me fly to my", "range": [8.63, 12.47], "ans": [6]},
+    {
+      "lyric_hangul": "Get me outta my blues and now I'm feelin' brand new",
+      "lyric_translation": "Get me outta my blues / And now I’m feelin’ brand new",
+      "parts": [
+        {"lyric": "Get me outta my blues", "range": [12.47, 13.95], "ans": [6]},
+        {"lyric": "And now I’m feelin’ brand new", "range": [13.95, 17.17], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Everyday, 답답해 미치겠어",
+      "lyric_translation": "Everyday / Is so suffocating, I’m going crazy",
+      "parts": [
+        {"lyric": "Everyday", "range": [17.17, 18.77], "ans": [5]},
+        {"lyric": "Dabdabhae michigesseo", "range": [18.77, 21.45], "ans": [5]}
+      ]
+    },
+    {"lyric": "Feel like it’s still day one", "lyric_hangul": "Feel like it's still day one", "lyric_translation": "Feel like it’s still day one", "range": [21.45, 23.43], "ans": [5]},
+    {"lyric": "Nuga jeo shigyereul jom dollyeojweo", "lyric_hangul": "누가 저 시계를 좀 돌려줘", "lyric_translation": "Someone please turn back the clock", "range": [23.43, 26.35], "ans": [5]},
+    {
+      "lyric_hangul": "올해 다 뺏겼어 아직 난 침대 속",
+      "lyric_translation": "This whole year was snatched away / I’m still in my bed",
+      "parts": [
+        {"lyric": "Olhae da ppaetgyeosseo", "range": [26.35, 28.11], "ans": [5]},
+        {"lyric": "Ajik nan chimdae sok", "range": [28.11, 30.6], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "거북해 속이, it's killin' me slowly, nah",
+      "lyric_translation": "My stomach feels uneasy / It’s killin’ me slowly nah",
+      "parts": [
+        {"lyric": "Geobukhae sogi", "range": [30.6, 32.21], "ans": [5]},
+        {"lyric": "It’s killin’ me slowly nah", "range": [32.21, 34.28], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Anyway, 떠나고파 any way",
+      "lyric_translation": "Anyway / I want to leave any way",
+      "parts": [
+        {"lyric": "Anyway", "range": [34.28, 35.45], "ans": [6]},
+        {"lyric": "Tteonagopa any way", "range": [35.45, 37.66], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐 방법이 없어 이 방이 내 전부",
+      "lyric_translation": "But well, there’s no way / This room is my everything",
+      "parts": [
+        {"lyric": "Mweo bangbeobi eopseo", "range": [37.66, 40.51], "ans": [6]},
+        {"lyric": "I bangi nae jeonbu", "range": [40.51, 42.01], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "그럼 뭐 여길 내 세상으로",
+      "lyric_translation": "Well then, let’s just / Turn this place",
+      "parts": [
+        {"lyric": "Geureom mweo yeogil", "range": [42.01, 44.07], "ans": [6]},
+        {"lyric": "Nae sesangeuro", "range": [44.07, 46.33], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "바꿔보지 뭐, yeah",
+      "lyric_translation": "Into my own world / Yeah",
+      "parts": [
+        {"lyric": "Bakkweoboji mweo", "range": [46.33, 48.64], "ans": [6]},
+        {"lyric": "Yeah", "range": [48.64, 50.88], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Tteonabolkka let me fly to my room", "lyric_hangul": "떠나볼까 let me fly to my (room)", "lyric_translation": "How about I leave, let me fly to my room", "range": [50.88, 53.65], "ans": [5]},
+    {"lyric": "Shiseoneul natchugo eodideun mak zoom", "lyric_hangul": "시선을 낮추고 어디든 막 zoom", "lyric_translation": "Lower my gaze and just go, wherever, zoom", "range": [53.65, 58.58], "ans": [5]},
+    {"lyric": "Jigeum nawa let me fly to my room", "lyric_hangul": "지금 나와 let me fly to my (room)", "lyric_translation": "Come out now, let me fly to my room", "range": [58.58, 62.43], "ans": [5]},
+    {
+      "lyric_hangul": "Get me outta my blues and now I'm feelin' brand new",
+      "lyric_translation": "Get me outta my blues / And now I’m feelin’ brand new",
+      "parts": [
+        {"lyric": "Get me outta my blues", "range": [62.43, 64.09], "ans": [5]},
+        {"lyric": "And now I’m feelin’ brand new", "range": [64.09, 67.15], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Everywhere, 여기가 이랬나 싶어",
+      "lyric_translation": "Everywhere / I ask myself, was it always like this here?",
+      "parts": [
+        {"lyric": "Everywhere", "range": [67.15, 68.92], "ans": [6]},
+        {"lyric": "Yeogiga iraenna shipeo", "range": [68.92, 71.37], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "갑자기 낯선 이 풍경 괜히 추억에 잠겨",
+      "lyric_translation": "This landscape, suddenly unfamiliar / I sink into my memories for no good reason",
+      "parts": [
+        {"lyric": "Gabjagi nasseon i punggyeong", "range": [71.37, 73.37], "ans": [6]},
+        {"lyric": "Gwaenhi chueoge jamgyeo", "range": [73.37, 75.59], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "오래된 책상도 달라진 햇빛도",
+      "lyric_translation": "The table I’ve had for so long, / And the sunlight that’s changed,",
+      "parts": [
+        {"lyric": "Oraedwen chaeksangdo", "range": [75.59, 78.11], "ans": [6]},
+        {"lyric": "Dallajin haetbitto", "range": [78.11, 80.77], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "특별해 보이네, I'm little less lonely, nah",
+      "lyric_translation": "All look pretty special now / I’m little less lonely nah",
+      "parts": [
+        {"lyric": "Teukbyeolhae boine", "range": [80.77, 82.23], "ans": [6]},
+        {"lyric": "I’m little less lonely nah", "range": [82.23, 85.17], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Better way, I just found a better way",
+      "lyric_translation": "Better way / I just found a better way",
+      "parts": [
+        {"lyric": "Better way", "range": [84.51, 85.63], "ans": [5, 6]},
+        {"lyric": "I just found a better way", "range": [85.63, 88.12], "ans": [5, 6]}
+      ]
+    },
+    {"lyric": "Sometimes we get to know", "lyric_hangul": "Sometimes we get to know (get to know)", "lyric_translation": "Sometimes we get to know", "range": [88.12, 89.88], "ans": [5]},
+    {"lyric": "Broken is beautiful", "lyric_hangul": "Broken is beautiful", "lyric_translation": "Broken is beautiful", "range": [89.88, 91.98], "ans": [5]},
+    {
+      "lyric_hangul": "가벼워 몸이 날아가 멀리",
+      "lyric_translation": "My body is light / I fly far away",
+      "parts": [
+        {"lyric": "Gabyeoweo momi", "range": [91.98, 94.04], "ans": [5]},
+        {"lyric": "Naraga meolli", "range": [94.04, 96.73], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "This thing so surreal, yeah",
+      "lyric_translation": "This thing so surreal / Yeah",
+      "parts": [
+        {"lyric": "This thing so surreal", "range": [96.73, 98.88], "ans": [5]},
+        {"lyric": "Yeah", "range": [98.88, 100.94], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Tteonabolkka let me fly to my room", "lyric_hangul": "떠나볼까 let me fly to my (room)", "lyric_translation": "How about I leave, let me fly to my room", "range": [100.94, 103.8], "ans": [6]},
+    {"lyric": "Shiseoneul natchugo eodideun mak zoom", "lyric_hangul": "시선을 낮추고 어디든 막 zoom", "lyric_translation": "Lower my gaze and just go, wherever, zoom", "range": [103.8, 108.81], "ans": [6]},
+    {"lyric": "Jigeum nawa let me fly to my room", "lyric_hangul": "지금 나와 let mе fly to my (room)", "lyric_translation": "Come out now, let me fly to my room", "range": [108.81, 112.36], "ans": [6]},
+    {"lyric": "Get me outta my blues", "lyric_hangul": "Get me outta my blues and now I'm feelin' brand nеw", "lyric_translation": "Get me outta my blues", "range": [112.36, 117.0], "ans": [6]},
+    {
+      "lyric_hangul": "이 방은 너무 작지 그래 나의 꿈을 담기에 (야야야야)",
+      "lyric_translation": "This room is too small, right? / Yeah, to contain my dreams",
+      "parts": [
+        {"lyric": "I bangeun neomu jakji", "range": [117.0, 119.08], "ans": [2]},
+        {"lyric": "Geurae naye kkumeul damgie", "range": [119.08, 121.23], "ans": [2]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "침대 그 위로 착지 여기가 제일 안전해 (야야야야)",
+      "lyric_translation": "I land on top of the bed / This is where it’s safest",
+      "parts": [
+        {"lyric": "Chimdae geu wiro chakji", "range": [121.23, 123.41], "ans": [2]},
+        {"lyric": "Yeogiga jeil anjeonhae", "range": [122.93, 125.25], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "어쩜 기쁨도 슬픔도 어떤 감정도 여긴 그저 받아주네 (야야야야)",
+      "lyric_translation": "Whether it’s sadness or happiness or any other feeling / This place just accepts it all",
+      "parts": [
+        {"lyric": "Eojjeom gippeumdo seulpeumdo eotteon gamjeongdo", "range": [124.6, 127.44], "ans": [2]},
+        {"lyric": "Yeogin geujeo badajune", "range": [127.44, 129.01], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "때론 이 방이 감정의 쓰레기통이 돼도 날 안아주네 (야야야야)",
+      "lyric_translation": "Even though sometimes this room becomes a trash can of feelings / It embraces me",
+      "parts": [
+        {"lyric": "Ttaeron i bangi gamjeonge sseuregitongi dwaedo", "range": [128.89, 131.99], "ans": [2]},
+        {"lyric": "Nal anajune", "range": [131.99, 133.75], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "또 나를 반겨주네 사람들 같은 내방 toy들 (hi)",
+      "lyric_translation": "They welcome me again, / The toys in my room that look like people",
+      "parts": [
+        {"lyric": "Tto nareul bangyeojune", "range": [133.26, 134.5], "ans": [3]},
+        {"lyric": "Saramdeul gateun naebang toydeul", "range": [134.5, 137.05], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "마치 시내를 나온 듯이 북적여 TV 소리는",
+      "lyric_translation": "The sound of the TV / It’s like I’ve gone downtown, it’s bustling",
+      "parts": [
+        {"lyric": "Machi shinaereul naon deushi bukjeogyeo", "range": [136.89, 139.73], "ans": [3]},
+        {"lyric": "TV sorineun", "range": [139.73, 141.21], "ans": [3]}
+      ]
+    },
+    {"lyric": "Saenggageun saenggagi bakkumyeon dwae", "lyric_hangul": "생각은 생각이 바꾸면 돼 (yeah)", "lyric_translation": "You can just change thoughts with other thoughts", "range": [141.21, 143.55], "ans": [3]},
+    {"lyric": "Yeogin naman jeulgil su inneun travel", "lyric_hangul": "여긴 나만 즐길 수 있는 travel", "lyric_translation": "Only I can enjoy travelling here", "range": [143.55, 146.12], "ans": [3]},
+    {
+      "lyric_hangul": "배달음식은 stars 낙관적으로 채워봐, I'm full",
+      "lyric_translation": "Delivery food is ⭐⭐⭐ / Fill yourself up with positivity, I’m full",
+      "parts": [
+        {"lyric": "Baedareumshigeun three star", "range": [146.12, 147.22], "ans": [3]},
+        {"lyric": "Nakkwanjeogeuro chaeweobwa, I’m full", "range": [147.22, 151.12], "ans": [3]}
+      ]
+    },
+    {"lyric": "Tteonabolkka let me fly to my", "lyric_hangul": "떠나볼까 let me fly to my", "lyric_translation": "How about I leave, let me fly to my", "range": [151.12, 153.95], "ans": [5, 6]},
+    "",
+    {"lyric": "Shiseoneul natchugo eodideun mak zoom", "lyric_hangul": "시선을 낮추고 어디든 막 zoom", "lyric_translation": "Lower my gaze and just go, wherever, zoom", "range": [153.95, 158.88], "ans": [5, 6]},
+    {"lyric": "Jigeum nawa let me fly to my", "lyric_hangul": "지금 나와 let me fly to my", "lyric_translation": "Come out now, let me fly to my", "range": [158.88, 162.8], "ans": [5, 6]},
+    {
+      "lyric_hangul": "Get me outta my blues and now I'm feelin' brand new (oh-whoa)",
+      "lyric_translation": "And now I’m feelin’ brand new / Get me outta my blues / And now I’m feelin’ brand new",
+      "parts": [
+        {"lyric": "And now I’m feelin’ brand new", "range": [162.8, 164.57], "ans": [6]},
+        {"lyric": "Get me outta my blues", "range": [163.87, 165.62], "ans": [5, 6]},
+        {"lyric": "And now I’m feelin’ brand new", "range": [165.62, 167.86], "ans": [5, 6]}
+      ]
+    },
+    "",
+    {"lyric": "Tteonabolkka let me fly to my room", "lyric_hangul": "떠나볼까 let me fly to my (room)", "lyric_translation": "How about I leave, let me fly to my", "range": [167.86, 170.78], "ans": []},
+    {"lyric": "Shiseoneul natchugo eodideun mak zoom", "lyric_hangul": "시선을 낮추고 어디든 막 zoom", "lyric_translation": "Lower my gaze and just go, wherever, zoom", "range": [170.78, 175.84], "ans": []},
+    {"lyric": "Jigeum nawa let me fly to my room", "lyric_hangul": "지금 나와 let me fly to my (room)", "lyric_translation": "Come out now, let me fly to my room", "range": [175.84, 179.44], "ans": []},
+    {
+      "lyric_hangul": "Get me outta my blues and now I'm feelin' brand new",
+      "lyric_translation": "Get me outta my blues / And now I’m feelin’ brand new",
+      "parts": [
+        {"lyric": "Get me outta my blues", "range": [179.44, 180.94], "ans": []},
+        {"lyric": "And now I’m feelin’ brand new", "range": [180.94, 184.22], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Tteonabolkka let me fly to my room", "lyric_hangul": "떠나볼까 let me fly to my (room)", "lyric_translation": "How about I leave, let me fly to my room", "range": [184.22, 187.35], "ans": []},
+    {"lyric": "Shiseoneul natchugo eodideun mak zoom", "lyric_hangul": "시선을 낮추고 어디든 막 zoom", "lyric_translation": "Lower my gaze and just go, wherever, zoom", "range": [187.35, 192.24], "ans": []},
+    {"lyric": "Jigeum nawa let me fly to my room", "lyric_hangul": "지금 나와 let me fly to my (room)", "lyric_translation": "Come out now, let me fly to my room", "range": [192.24, 196.11], "ans": []},
+    {
+      "lyric_hangul": "Get me outta my blues and now I'm feelin' brand new",
+      "lyric_translation": "Get me outta my blues / And now I’m feelin’ brand new",
+      "parts": [
+        {"lyric": "Get me outta my blues", "range": [196.11, 197.65], "ans": []},
+        {"lyric": "And now I’m feelin’ brand new", "range": [197.65, 201.65], "ans": []}
+      ]
+    }
+  ]
+}

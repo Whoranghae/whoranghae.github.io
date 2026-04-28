@@ -1,0 +1,102 @@
+{
+  "name": "Intro: Boy Meets Evil\r",
+  "ogg": "sound/kpop/intro_boy_meets_evil.ogg",
+  "id": "intro-boy-meets-evil",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/intro-boy-meets-evil.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:54Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Eoduwojyeo ga nae miraee bit", "lyric_hangul": "어두워져 가, 내 미래의 빛", "lyric_translation": "The light of my future is dimming", "range": [15.3, 18.7], "ans": [3]},
+    {
+      "lyric_hangul": "치기 어린 사랑에 잃은 꿈의 길",
+      "lyric_translation": "Because of my childish love, / I lost my way on a path of dream",
+      "parts": [
+        {"lyric": "Chigi eorin sarange", "range": [18.7, 21.08], "ans": [3]},
+        {"lyric": "Ilheun kkume gil", "range": [21.08, 22.15], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 야망의 독기 매일 칼을 갈았지",
+      "lyric_translation": "The venom of my ambition, / I sharpened my knife every day",
+      "parts": [
+        {"lyric": "Nae yamange dokgi", "range": [22.15, 24.01], "ans": [3]},
+        {"lyric": "Maeil kareul garatji", "range": [24.01, 26.04], "ans": [3]}
+      ]
+    },
+    {"lyric": "But chameul su eopneun nae yokshime", "lyric_hangul": "But 참을 수 없는 내 욕심에", "lyric_translation": "But because of my uncontrollable greed,", "range": [26.04, 27.68], "ans": [3]},
+    {
+      "lyric_hangul": "칼은 무뎌져 알고, 있어 다",
+      "lyric_translation": "My knife became dull / I know it all",
+      "parts": [
+        {"lyric": "Kareun mudyeojyeo", "range": [27.68, 28.88], "ans": [3]},
+        {"lyric": "Algo isseo da", "range": [28.88, 30.26], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "이 사랑은 악마의 또 다른 이름, 손을 잡지 마",
+      "lyric_translation": "This love is another name for the devil / Don’t hold her hand",
+      "parts": [
+        {"lyric": "I sarangeun akmae tto dareun ireum", "range": [30.26, 32.65], "ans": [3]},
+        {"lyric": "Soneul japji ma", "range": [32.65, 33.81], "ans": [3]}
+      ]
+    },
+    {"lyric": "Oechyeotjiman jeobeoryeotji nae yangshimeul", "lyric_hangul": "외쳤지만 저버렸지 내 양심을", "lyric_translation": "I shouted but turned away from my conscience", "range": [33.81, 36.07], "ans": [3]},
+    {"lyric": "Nari galsurok neukkineun nalkaroun hyeonshildeul", "lyric_hangul": "날이 갈수록 느끼는 날카로운 현실들", "lyric_translation": "I feel the sharp reality more every day", "range": [36.07, 38.28], "ans": [3]},
+    {"lyric": "Hyeonshire jjijgyeo bulkge mudeun pideul", "lyric_hangul": "현실에 찢겨 붉게 묻은 피들", "lyric_translation": "There’s red blood from being torn apart by reality", "range": [38.28, 39.88], "ans": [3]},
+    {
+      "lyric_hangul": "생각 못했지 그 욕심이 지옥을 부르는 나팔이 될 지는",
+      "lyric_translation": "I never thought that / The greed would become the trumpet heralding hell",
+      "parts": [
+        {"lyric": "Saenggak mothaetji", "range": [39.88, 41.3], "ans": [3]},
+        {"lyric": "Geu yokshimi jiogeul bureuneun napari doel jineun", "range": [41.3, 43.72], "ans": [3]}
+      ]
+    },
+    {"lyric": "Breathe", "lyric_hangul": "Breathe", "lyric_translation": "Breathe", "range": [43.11, 45.34], "ans": [3]},
+    "",
+    {"lyric": "Sumi chaoreugo", "lyric_hangul": "숨이 차오르고", "lyric_translation": "My breath is getting shorter", "range": [45.34, 47.19], "ans": [3]},
+    {"lyric": "Dwiteullin hyeonshire nun gamneun maeil bam", "lyric_hangul": "뒤틀린 현실에 눈 감는 매일 밤", "lyric_translation": "I close my eyes every night from twisted reality", "range": [47.19, 48.81], "ans": [3]},
+    {"lyric": "Ullineun bigeuge oreugol", "lyric_hangul": "울리는 비극의 오르골", "lyric_translation": "The music box of tragedy echoes", "range": [48.81, 50.46], "ans": [3]},
+    {"lyric": "But i joereul beotgien", "lyric_hangul": "But 이 죄를 벗기엔", "lyric_translation": "But in order to be free from this crime", "range": [50.46, 53.26], "ans": [3]},
+    {"lyric": "Geugeol ijneun ge dangchoe pogiga andwae", "lyric_hangul": "그걸 잊는 게 당최 포기가 안돼, eh", "lyric_translation": "It’s impossible to forget and give up", "range": [53.26, 56.35], "ans": [3]},
+    {"lyric": "Geu ipsuri neomu dalkomhaetgie", "lyric_hangul": "그 입술이 너무 달콤했기에", "lyric_translation": "Because those lips were too sweet", "range": [56.35, 58.01], "ans": [3]},
+    "",
+    {"lyric": "Yeonaee chwihaeseo beoryeojin mirae", "lyric_hangul": "연애에 취해서 버려진 미래", "lyric_translation": "I threw my future away because I was drunk on dating", "range": [58.01, 60.41], "ans": [3]},
+    {"lyric": "Kkaeeonago bol ttaen imi sabangen jiroe", "lyric_hangul": "깨어나고 볼 땐, 이미 사방엔 지뢰", "lyric_translation": "When I woke up, I was surrounded by land mines", "range": [60.41, 61.82], "ans": [3]},
+    {"lyric": "Geondeuril su eopneun maeseoun juwie shiseondeul", "lyric_hangul": "건드릴 수 없는 매서운 주위의 시선들", "lyric_translation": "Surrounded by people’s stares that can’t be touched", "range": [61.82, 64.16], "ans": [3]},
+    {
+      "lyric_hangul": "기적을 외쳐 이 현실에 (rewind)",
+      "lyric_translation": "I shout for a miracle in this reality / (Rewind)",
+      "parts": [
+        {"lyric": "Gijeogeul oechyeo i hyeonshire", "range": [64.16, 66.06], "ans": [3]},
+        {"lyric": "(Rewind)", "range": [66.06, 66.6], "ans": [3]}
+      ]
+    },
+    {"lyric": "Michidorok johatji", "lyric_hangul": "미치도록 좋았지", "lyric_translation": "It was crazy good", "range": [65.84, 67.47], "ans": [3]},
+    {"lyric": "Dalkomhame jungdokdoen byeongshin", "lyric_hangul": "달콤함에 중독된 병신", "lyric_translation": "I was an idiot addicted to sweetness", "range": [67.47, 69.67], "ans": [3]},
+    {"lyric": "Geurae byeongshin", "lyric_hangul": "그래, 병신, 신, 신", "lyric_translation": "Yeah an idiot", "range": [69.67, 70.59], "ans": [3]},
+    {"lyric": "Nohchigin shireosseo akmae songireul", "lyric_hangul": "놓치긴 싫었어 악마의 손길을", "lyric_translation": "I didn’t want to let go of the devil’s hand", "range": [70.59, 73.3], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Too bad but it’s too sweet", "lyric_hangul": "Too bad, but it's too sweet", "lyric_translation": "Too bad but it’s too sweet", "range": [73.3, 78.39], "ans": [3]},
+    {"lyric": "It’s too sweet it’s too sweet", "lyric_hangul": "It's too sweet, it's too sweet", "lyric_translation": "It’s too sweet it’s too sweet", "range": [78.39, 80.62], "ans": [3]},
+    {"lyric": "Too bad but it’s too sweet", "lyric_hangul": "Too bad, but it's too sweet", "lyric_translation": "Too bad but it’s too sweet", "range": [80.62, 85.78], "ans": [3]},
+    {"lyric": "It’s too sweet it’s too sweet", "lyric_hangul": "It's too sweet, it's too sweet", "lyric_translation": "It’s too sweet it’s too sweet", "range": [85.78, 87.98], "ans": [3]},
+    "",
+    {"lyric": "Too bad but it’s too sweet", "lyric_hangul": "Too bad, but it's too sweet", "lyric_translation": "Too bad but it’s too sweet", "range": [87.98, 93.29], "ans": [3]},
+    {"lyric": "It’s too sweet it’s too sweet", "lyric_hangul": "It's too sweet, it's too sweet", "lyric_translation": "It’s too sweet it’s too sweet", "range": [93.29, 95.46], "ans": [3]},
+    {"lyric": "Too bad but it’s too sweet", "lyric_hangul": "Too bad, but it's too sweet", "lyric_translation": "Too bad but it’s too sweet", "range": [95.46, 100.76], "ans": [3]},
+    {"lyric": "It’s too sweet it’s too sweet", "lyric_hangul": "It's too sweet, it's too sweet", "lyric_translation": "It’s too sweet it’s too sweet", "range": [100.76, 102.44], "ans": [3]},
+    "",
+    {"lyric": "It’s too evil", "lyric_hangul": "It's too evil", "lyric_translation": "It’s too evil", "range": [102.44, 105.91], "ans": [3]},
+    {"lyric": "It’s too evil", "lyric_hangul": "It's too evil", "lyric_translation": "It’s too evil", "range": [105.91, 109.77], "ans": [3]},
+    {"lyric": "It’s too evil", "lyric_hangul": "It's too evil", "lyric_translation": "It’s too evil", "range": [109.77, 113.81], "ans": [3]},
+    {"lyric": "Yeah it’s evil", "lyric_hangul": "Yeah, it's evil", "lyric_translation": "Yeah it’s evil", "range": [113.81, 116.57], "ans": [3]}
+  ]
+}

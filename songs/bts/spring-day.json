@@ -1,0 +1,209 @@
+{
+  "name": "Spring Day (봄날)\r",
+  "ogg": "sound/kpop/spring_day.ogg",
+  "id": "spring-day",
+  "group": "bts",
+  "language": "ko",
+  "released": "2017-02-13",
+  "album": "YOU NEVER WALK ALONE",
+  "cover": "css/images/covers/spring-day.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:10Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "보고 싶다, 이렇게 말하니까 더 보고 싶다",
+      "lyric_translation": "I miss you / When I say that, I miss you more",
+      "parts": [
+        {"lyric": "Bogo shipda", "range": [16.79, 18.84], "ans": []},
+        {"lyric": "Ireoke malhanikka deo bogo shipda", "range": [18.84, 23.49], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "너희 사진을 보고 있어도 보고 싶다",
+      "lyric_translation": "I’m looking at your photo / But I still miss you",
+      "parts": [
+        {"lyric": "Neohi sajineul bogo isseodo", "range": [23.49, 26.13], "ans": []},
+        {"lyric": "Bogo shipda", "range": [26.13, 27.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "너무 야속한 시간 나는 우리가 밉다",
+      "lyric_translation": "Time is so cruel / I hate us",
+      "parts": [
+        {"lyric": "Neomu yasokhan shigan", "range": [27.01, 29.73], "ans": []},
+        {"lyric": "Naneun uriga mibda", "range": [29.73, 31.93], "ans": []}
+      ]
+    },
+    {"lyric": "Ijen eolgul han beon boneun geotto himdeureojin uriga", "lyric_hangul": "이젠 얼굴 한 번 보는 것 조차 힘들어진 우리가", "lyric_translation": "Now it’s hard to even see each other’s faces", "range": [31.73, 34.47], "ans": []},
+    "",
+    {
+      "lyric_hangul": "여긴 온통 겨울 뿐이야 8월에도 겨울이 와",
+      "lyric_translation": "It’s only winter here / Even in August, winter is here",
+      "parts": [
+        {"lyric": "Yeogin ontong gyeoul ppuniya", "range": [34.47, 37.43], "ans": []},
+        {"lyric": "Palworedo gyeouri wa", "range": [37.43, 39.61], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "마음은 시간을 달려가네 홀로 남은 설국열차",
+      "lyric_translation": "My heart makes time run / Like a Snowpiercer left alone",
+      "parts": [
+        {"lyric": "Maeumeun shiganeul dallyeogane", "range": [38.95, 42.09], "ans": []},
+        {"lyric": "Hollo nameun seolgukyeolcha", "range": [42.09, 44.15], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "니 손 잡고 지구 반대편까지 가 이 겨울을 끝내고파",
+      "lyric_translation": "I wanna hold your hand / And go to the other side of the earth / To end this winter",
+      "parts": [
+        {"lyric": "Ni son jabgo", "range": [43.62, 45.63], "ans": []},
+        {"lyric": "Jigu bandaepyeonkkaji ga", "range": [44.93, 47.18], "ans": [7]},
+        {"lyric": "Gyeoureul kkeutnaegopa", "range": [47.18, 48.54], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "그리움들이 얼마나 눈처럼 내려야 그 봄날이 올까, friend?",
+      "lyric_translation": "How much longing has to fall like snow / For the spring days to come? / Friend",
+      "parts": [
+        {"lyric": "Geuriumdeuri eolmana nuncheoreom naeryeoya", "range": [48.32, 51.87], "ans": []},
+        {"lyric": "Geu bomnari olkka", "range": [51.17, 53.58], "ans": [7]},
+        {"lyric": "Friend", "range": [52.88, 53.86], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Heogongeul tteodoneun", "lyric_hangul": "허공을 떠도는 작은", "lyric_translation": "Like a small piece", "range": [52.94, 56.71], "ans": [5]},
+    {"lyric": "Jageun meonjicheoreom", "lyric_hangul": "먼지처럼, 작은 먼지처럼", "lyric_translation": "Of dust / That floats in the air", "range": [56.71, 61.8], "ans": [5]},
+    {"lyric": "Nallineun nuni naramyeon", "lyric_hangul": "날리는 눈이 나라면", "lyric_translation": "If the flying snow is me", "range": [61.8, 65.63], "ans": [6]},
+    {
+      "lyric_hangul": "조금 더 빨리 네게 닿을 수 있을 텐데?",
+      "lyric_translation": "I could / Reach you faster",
+      "parts": [
+        {"lyric": "Jogeum deo ppalli nege", "range": [65.63, 68.57], "ans": [6]},
+        {"lyric": "Daheul su isseul tende", "range": [68.57, 70.71], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Nunkkochi tteoreojyeoyo", "lyric_hangul": "눈꽃이 떨어져요", "lyric_translation": "Snowflakes are falling", "range": [70.06, 74.26], "ans": [7, 3]},
+    {"lyric": "Tto jogeumsshik meoreojyeoyo", "lyric_hangul": "또 조금씩 멀어져요", "lyric_translation": "Getting farther away", "range": [74.26, 79.4], "ans": [7, 3]},
+    {"lyric": "Bogo shipda (bogo shipda)", "lyric_hangul": "보고 싶다 (보고 싶다)", "lyric_translation": "I miss you (I miss you)", "range": [79.4, 83.52], "ans": [7, 3, 1]},
+    {"lyric": "Bogo shipda (bogo shipda)", "lyric_hangul": "보고 싶다 (보고 싶다)", "lyric_translation": "I miss you (I miss you)", "range": [83.52, 88.5], "ans": [7, 3, 1]},
+    {"lyric": "Eolmana gidaryeoya", "lyric_hangul": "얼마나 기다려야?", "lyric_translation": "How much more do I have to wait?", "range": [88.5, 92.78], "ans": [6, 3]},
+    {"lyric": "Tto myeot bameul deo saewoya", "lyric_hangul": "또 몇 밤을 더 새워야?", "lyric_translation": "How many more nights do I have to stay up?", "range": [92.78, 96.76], "ans": [6, 3]},
+    {"lyric": "Neol boge dwelkka (neol boge dwelkka)", "lyric_hangul": "널 보게 될까? (널 보게 될까?)", "lyric_translation": "Until I can see you? (until I can see you?)", "range": [96.76, 101.73], "ans": [6, 3, 1]},
+    {"lyric": "Mannage dwelkka (mannage dwelkka)", "lyric_hangul": "만나게 될까? (만나게 될까?)", "lyric_translation": "Until I can meet you? (until I can meet you?)", "range": [101.73, 107.43], "ans": [6, 3, 1]},
+    "",
+    {"lyric": "Chuun gyeoul kkeuteul jina", "lyric_hangul": "추운 겨울 끝을 지나", "lyric_translation": "Past the end of this cold winter", "range": [107.43, 112.04], "ans": [7, 3]},
+    {"lyric": "Dashi bomnari ol ttaekkaji", "lyric_hangul": "다시 봄날이 올 때까지", "lyric_translation": "Until the spring comes again", "range": [112.04, 115.57], "ans": [7, 3]},
+    {"lyric": "Kkot piul ttaekkaji", "lyric_hangul": "꽃 피울 때까지", "lyric_translation": "Until the flowers bloom again", "range": [115.57, 119.65], "ans": [7, 3]},
+    {
+      "lyric_hangul": "그곳에 좀 더 머물러줘, 머물러줘",
+      "lyric_translation": "Stay there a little longer / Stay there",
+      "parts": [
+        {"lyric": "Geugose jom deo meomulleojwo", "range": [119.65, 124.4], "ans": [7, 3]},
+        {"lyric": "Meomulleojwo", "range": [123.7, 125.72], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "네가 변한 건지? (네가 변한 건지?)",
+      "lyric_translation": "Did you change? / (Did you change?)",
+      "parts": [
+        {"lyric": "Niga byeonhan geonji", "range": [125.55, 127.55], "ans": [2]},
+        {"lyric": "(niga byeonhan geonji)", "range": [126.85, 127.94], "ans": [2, 5]}
+      ]
+    },
+    {
+      "lyric_hangul": "아니면 내가 변한 건지? (내가 변한 건지?)",
+      "lyric_translation": "Or did I change? / (Did I change?)",
+      "parts": [
+        {"lyric": "Animyeon naega byeonhan geonji", "range": [127.32, 129.72], "ans": [2]},
+        {"lyric": "(naega byeonhan geonji)", "range": [129.02, 130.02], "ans": [2, 5]}
+      ]
+    },
+    {"lyric": "I sungan heureuneun shiganjocha miwo", "lyric_hangul": "이 순간 흐르는 시간조차 미워", "lyric_translation": "I hate even this moment that is passing", "range": [129.13, 131.81], "ans": [2]},
+    {
+      "lyric_hangul": "우리가 변한 거지 뭐? 모두가 그런 거지, 뭐?",
+      "lyric_translation": "I guess we changed / I guess that’s how everything is",
+      "parts": [
+        {"lyric": "Uriga byeonhan geoji mwo", "range": [131.81, 133.53], "ans": [2]},
+        {"lyric": "Moduga geureon geoji mwo", "range": [133.53, 134.7], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "그래, 밉다 니가 넌 떠났지만",
+      "lyric_translation": "Yeah I hate you / Although you left",
+      "parts": [
+        {"lyric": "Geurae mibda niga", "range": [134.01, 135.84], "ans": [2]},
+        {"lyric": "Neon tteonatjiman", "range": [135.84, 136.8], "ans": [2]}
+      ]
+    },
+    {"lyric": "Dan harudo neoreul ijeun jeogi eopseotji nan", "lyric_hangul": "단 하루도 너를 잊은 적이 없었지 난", "lyric_translation": "There hasn’t been a day that I have forgotten you", "range": [136.45, 138.19], "ans": [2]},
+    {
+      "lyric_hangul": "솔직히 보고 싶은데 이만 너를 지울게",
+      "lyric_translation": "Honestly, I miss you / But now I’ll erase you",
+      "parts": [
+        {"lyric": "Soljikhi bogo shipeunde", "range": [138.19, 140.88], "ans": [2]},
+        {"lyric": "Iman neoreul jiulge", "range": [140.18, 141.71], "ans": [2, 5]}
+      ]
+    },
+    {"lyric": "Geuge neol wonmanghagibodan deol apeunikka", "lyric_hangul": "그게 널 원망하기보단 덜 아프니까", "lyric_translation": "Because that will hurt less than resenting you", "range": [141.2, 142.88], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Shirin neol bureonae bonda", "lyric_hangul": "시린 널 불어내 본다", "lyric_translation": "I’m blowing out the cold you", "range": [142.88, 146.68], "ans": [1]},
+    {"lyric": "Yeongicheoreom hayan yeongicheoreom", "lyric_hangul": "연기처럼, 하얀 연기처럼", "lyric_translation": "Like smoke, like white smoke", "range": [146.68, 151.85], "ans": [1]},
+    {"lyric": "Malloneun jiunda haedo", "lyric_hangul": "말로는 지운다 해도", "lyric_translation": "I say that I’m gonna erase you", "range": [151.85, 154.94], "ans": [5]},
+    {"lyric": "Sashil nan ajik neol bonaeji mothaneunde", "lyric_hangul": "사실 난 아직 널 보내지 못하는데", "lyric_translation": "But actually, I still can’t let you go", "range": [154.94, 159.75], "ans": [5]},
+    "",
+    {"lyric": "Nunkkochi tteoreojyeoyo", "lyric_hangul": "눈꽃이 떨어져요", "lyric_translation": "Snowflakes are falling", "range": [159.75, 164.07], "ans": [7, 3]},
+    {"lyric": "Tto jogeumsshik meoreojyeoyo", "lyric_hangul": "또 조금씩 멀어져요", "lyric_translation": "Getting farther away", "range": [164.07, 168.87], "ans": [7, 3]},
+    {"lyric": "Bogo shipda (bogo shipda)", "lyric_hangul": "보고 싶다 (보고 싶다)", "lyric_translation": "I miss you (I miss you)", "range": [168.87, 173.34], "ans": [7, 3, 1]},
+    {"lyric": "Bogo shipda (bogo shipda)", "lyric_hangul": "보고 싶다 (보고 싶다)", "lyric_translation": "I miss you (I miss you)", "range": [173.34, 178.07], "ans": [7, 3, 1]},
+    {"lyric": "Eolmana gidaryeoya", "lyric_hangul": "얼마나 기다려야?", "lyric_translation": "How much more do I have to wait?", "range": [178.07, 182.37], "ans": [6, 3]},
+    {"lyric": "Tto myeot bameul deo saewoya", "lyric_hangul": "또 몇 밤을 더 새워야?", "lyric_translation": "How many more nights do I have to stay up?", "range": [182.37, 186.74], "ans": [6, 3]},
+    {"lyric": "Neol boge dwelkka (neol boge dwelkka)", "lyric_hangul": "널 보게 될까? (널 보게 될까?)", "lyric_translation": "Until I can see you? (until I can see you?)", "range": [186.74, 191.33], "ans": [6, 3, 1]},
+    {"lyric": "Mannage dwelkka (mannage dwelkka)", "lyric_hangul": "만나게 될까? (만나게 될까?)", "lyric_translation": "Until I can meet you? (until I can meet you?)", "range": [191.33, 197.63], "ans": [6, 3, 1]},
+    "",
+    {
+      "lyric_hangul": "You know it all, you're my best friend",
+      "lyric_translation": "You know it all / You’re my best friend",
+      "parts": [
+        {"lyric": "You know it all", "range": [197.63, 200.64], "ans": [6]},
+        {"lyric": "You’re my best friend", "range": [200.64, 202.33], "ans": [6]}
+      ]
+    },
+    {"lyric": "Achimeun dashi ol geoya", "lyric_hangul": "아침은 다시 올 거야", "lyric_translation": "The morning will come again", "range": [202.28, 207.16], "ans": [6]},
+    {
+      "lyric_hangul": "어떤 어둠도, 어떤 계절도",
+      "lyric_translation": "Because no darkness, / No season",
+      "parts": [
+        {"lyric": "Eotteon eodumdo", "range": [207.16, 209.28], "ans": [7]},
+        {"lyric": "Eotteon gyejeoldo", "range": [209.28, 211.12], "ans": [7]}
+      ]
+    },
+    {"lyric": "Yeongweonhal sun eopseunikka", "lyric_hangul": "영원할 순 없으니까", "lyric_translation": "Can last forever", "range": [211.12, 213.47], "ans": [7, 5]},
+    "",
+    {"lyric": "Beotkkochi pinabwayo", "lyric_hangul": "벚꽃이 피나봐요", "lyric_translation": "Cherry blossoms are blooming", "range": [213.47, 217.82], "ans": [5, 3]},
+    {"lyric": "I gyeouldo kkeuchi nayo", "lyric_hangul": "이 겨울도 끝이 나요", "lyric_translation": "The winter is ending", "range": [217.82, 222.86], "ans": [5, 3]},
+    {"lyric": "Bogo shipda ([JK/J] bogo shipda)", "lyric_hangul": "보고 싶다 (보고 싶다)", "lyric_translation": "I miss you (I miss you)", "range": [222.86, 227.2], "ans": [5, 3, 7, 1]},
+    {"lyric": "Bogo shipda ([JK/J] bogo shipda)", "lyric_hangul": "보고 싶다 (보고 싶다)", "lyric_translation": "I miss you (I miss you)", "range": [227.2, 231.77], "ans": [5, 3, 7, 1]},
+    {"lyric": "Jogeumman gidarimyeon (gidarimyeon)", "lyric_hangul": "조금만 기다리면 (기다리면)", "lyric_translation": "If I wait a little longer (if I wait)", "range": [231.77, 235.83], "ans": [7, 3, 6]},
+    {"lyric": "Myeochil bamman deo saeumyeon", "lyric_hangul": "며칠 밤만 더 새우면", "lyric_translation": "If I stay up a few more nights", "range": [235.83, 240.86], "ans": [7, 3]},
+    {"lyric": "Mannareo galge ([JK/V] mannareo galge)", "lyric_hangul": "만나러 갈게 (만나러 갈게)", "lyric_translation": "I’ll go see you (I’ll go see you)", "range": [240.86, 245.16], "ans": [7, 3, 6]},
+    {"lyric": "Derireo galge ([JM/V] derireo galge)", "lyric_hangul": "데리러 갈게 (데리러 갈게, yeah, yeah)", "lyric_translation": "I’ll go pick you up (I’ll go pick you up)", "range": [245.16, 251.21], "ans": [7, 3, 5, 6]},
+    "",
+    {"lyric": "Chuun gyeoul kkeuteul jina", "lyric_hangul": "추운 겨울 끝을 지나", "lyric_translation": "Past the end of this cold winter", "range": [251.21, 255.79], "ans": [1, 3]},
+    {"lyric": "Dashi bomnari ol ttaekkaji", "lyric_hangul": "다시 봄날이 올 때까지", "lyric_translation": "Until the spring comes again", "range": [255.79, 258.93], "ans": [1, 3]},
+    {"lyric": "Kkot piul ttaekkaji", "lyric_hangul": "꽃 피울 때까지", "lyric_translation": "Until the flowers bloom again", "range": [258.93, 262.62], "ans": [1, 3]},
+    {
+      "lyric_hangul": "그곳에 좀 더 머물러줘, 머물러줘",
+      "lyric_translation": "Stay there a little longer / Stay there",
+      "parts": [
+        {"lyric": "Geugose jom deo meomulleojwo", "range": [262.62, 267.61], "ans": [1, 3]},
+        {"lyric": "Meomulleojwo", "range": [267.61, 271.64], "ans": [1]}
+      ]
+    }
+  ]
+}

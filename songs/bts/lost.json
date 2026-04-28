@@ -1,0 +1,166 @@
+{
+  "name": "Lost\r",
+  "ogg": "sound/kpop/lost.ogg",
+  "id": "lost",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/lost.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Oh", "lyric_hangul": "Oh", "lyric_translation": "", "range": [8.63, 10.34], "ans": []},
+    {"lyric": "Nuneul gamgo ajik yeogi seo isseo", "lyric_hangul": "눈을 감고 아직 여기 서 있어", "lyric_translation": "I’m still standing here with my eyes closed", "range": [10.34, 14.1], "ans": [5]},
+    {"lyric": "Samakgwa bada gaunde gireul irhgoseo", "lyric_hangul": "사막과 바다 가운데 길을 잃고서", "lyric_translation": "Lost between the deserts and oceans", "range": [14.1, 16.95], "ans": [5]},
+    {"lyric": "Yeojeonhi hemaego isseo", "lyric_hangul": "여전히 헤매고 있어", "lyric_translation": "I’m still wandering", "range": [16.95, 19.77], "ans": [5]},
+    {"lyric": "Eodiro gaya halji yeah", "lyric_hangul": "어디로 가야 할지, yeah", "lyric_translation": "Where should I go yeah", "range": [19.77, 22.33], "ans": [5]},
+    "",
+    {"lyric": "Irido manheul jul mollasseo", "lyric_hangul": "이리도 많을 줄 몰랐어", "lyric_translation": "I didn’t know there were this many", "range": [22.33, 25.58], "ans": [7]},
+    {"lyric": "Gaji mothan gildo gal su eobneun gildo", "lyric_hangul": "가지 못한 길도, 갈 수 없는 길도", "lyric_translation": "Paths I can’t go and paths I can’t take", "range": [25.58, 28.15], "ans": [7]},
+    {"lyric": "I never felt this way before", "lyric_hangul": "I never felt this way before", "lyric_translation": "I never felt this way before", "range": [28.15, 31.52], "ans": [7]},
+    {"lyric": "Eoreuni doeryeoneunji", "lyric_hangul": "어른이 되려는지?", "lyric_translation": "Am I becoming an adult?", "range": [31.52, 33.6], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "난 너무 어려운 걸, 이 길이 맞는지?",
+      "lyric_translation": "This is too hard, / is this path right for me",
+      "parts": [
+        {"lyric": "Nan neomu eoryeoun geol", "range": [33.6, 36.04], "ans": [6]},
+        {"lyric": "I giri manneunji", "range": [36.04, 39.03], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "정말 너무 혼란스러, never leave me alone",
+      "lyric_translation": "I am confused / Never leave me alone",
+      "parts": [
+        {"lyric": "Jeongmal neomu hollanseureo", "range": [39.03, 41.73], "ans": [1]},
+        {"lyric": "Never leave me alone", "range": [41.73, 44.11], "ans": [1]}
+      ]
+    },
+    {"lyric": "Geuraedo midgo isseo midgiji anhjiman", "lyric_hangul": "그래도 믿고 있어 믿기지 않지만", "lyric_translation": "I still believe even though it’s unbelievable", "range": [44.11, 49.42], "ans": [5]},
+    {
+      "lyric_hangul": "길을 잃는단 건 그 길을 찾는 방법",
+      "lyric_translation": "To lose your path / Is the way to find that path",
+      "parts": [
+        {"lyric": "Gireul ilhneundan geon", "range": [49.42, 52.72], "ans": [7]},
+        {"lyric": "Geu gireul channeun bangbeop", "range": [52.72, 55.15], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [55.15, 56.97], "ans": [7]},
+    {
+      "lyric_hangul": "쉴 새 없이 몰아치는 거친 비바람 속에",
+      "lyric_translation": "Constantly pushing without rest / within the harsh rainstorms",
+      "parts": [
+        {"lyric": "Swil sae eobsi morachineun", "range": [56.97, 58.79], "ans": [5]},
+        {"lyric": "Geochin bibaram soge", "range": [58.79, 60.87], "ans": [5]}
+      ]
+    },
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [60.62, 62.42], "ans": [7]},
+    {"lyric": "Chulguragon eobneun bokjabhan sesang soge", "lyric_hangul": "출구라곤 없는 복잡한 세상 속에", "lyric_translation": "Within a complicated world without an exit", "range": [62.42, 66.85], "ans": [6]},
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way-ayy, way-ayy, way-ayy, ayy", "lyric_translation": "Lost my way", "range": [66.85, 71.92], "ans": [7]},
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [71.92, 74.25], "ans": [5]},
+    {
+      "lyric_hangul": "수없이 헤매도 난, 나의 길을 믿어볼래?",
+      "lyric_translation": "No matter how much I wander, / I want to believe in my path",
+      "parts": [
+        {"lyric": "Sueobsi hemaedo", "range": [74.25, 75.43], "ans": [5]},
+        {"lyric": "Nan naui gireul mideobollae", "range": [75.43, 78.15], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy", "lyric_translation": "Lost my way", "range": [78.15, 83.13], "ans": [7]},
+    {"lyric": "Found my way", "lyric_hangul": "Oh, found my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy", "lyric_translation": "Found my way", "range": [83.13, 88.73], "ans": [1]},
+    {"lyric": "Lost my way", "lyric_hangul": "Oh, lost my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy", "lyric_translation": "Lost my way", "range": [88.73, 94.49], "ans": [6]},
+    {"lyric": "Found my way", "lyric_hangul": "Oh, found my way-ayy, way-ayy, way-ayy, ayy", "lyric_translation": "Found my way", "range": [94.49, 101.55], "ans": [5]},
+    "",
+    {"lyric": "Eodiro ganeun gaemireul bon jeok isseo", "lyric_hangul": "어디로 가는 개미를 본 적 있어", "lyric_translation": "I once saw an ant going somewhere", "range": [101.55, 104.39], "ans": [1]},
+    {"lyric": "Dan han beone gireul channeun beobi eobseo", "lyric_hangul": "단 한 번에 길을 찾는 법이 없어", "lyric_translation": "There is no way to find the path at once", "range": [104.39, 106.75], "ans": [1]},
+    {"lyric": "Sueobsi budijhimyeo gieoganeun", "lyric_hangul": "수없이 부딪히며 기어가는", "lyric_translation": "Constantly crashing and crawling forward", "range": [106.75, 109.1], "ans": [5]},
+    {
+      "lyric_hangul": "먹일 찾기 위해 며칠이고 방황하는",
+      "lyric_translation": "To find something to eat, roaming for days / You know",
+      "parts": [
+        {"lyric": "Meogil chagi wihae myeochirigo banghwanghaneun", "range": [109.1, 111.71], "ans": [5]},
+        {"lyric": "You know", "range": [111.01, 112.48], "ans": [7]}
+      ]
+    },
+    {"lyric": "Sseulmo isseo i jwajeoldo", "lyric_hangul": "(You know) 쓸모 있어, 이 좌절도", "lyric_translation": "There is a reason for all this frustration", "range": [112.48, 115.68], "ans": [1]},
+    {"lyric": "Nan mideo urin baro gago isseo", "lyric_hangul": "난 믿어 우린 바로 가고 있어", "lyric_translation": "I believe that we’re on the right path", "range": [115.68, 118.08], "ans": [1]},
+    {"lyric": "Eonjenga uriga chage doemyeon", "lyric_hangul": "언젠가 우리가 찾게 되면", "lyric_translation": "If we ever find it", "range": [118.08, 120.8], "ans": [7]},
+    {"lyric": "Bunmyeong han beone jibeuro wa gaemicheoreom", "lyric_hangul": "분명 한 번에 집으로 와 개미처럼", "lyric_translation": "We will return home at once just like an ant", "range": [120.8, 123.94], "ans": [7]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "아직은 어려운 걸, 이 길이 맞는지?",
+      "lyric_translation": "This is too hard, / is this path right for me",
+      "parts": [
+        {"lyric": "Ajigeun eoryeoun geol", "range": [123.94, 126.41], "ans": [6]},
+        {"lyric": "I giri manneunji", "range": [126.41, 129.57], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "정말 너무 혼란스러, don't you leave me alone",
+      "lyric_translation": "I am so confused / Don’t you leave me alone",
+      "parts": [
+        {"lyric": "Jeongmal neomu hollanseureo", "range": [129.57, 131.95], "ans": [1]},
+        {"lyric": "Don’t you leave me alone", "range": [131.95, 134.66], "ans": [1]}
+      ]
+    },
+    {"lyric": "Geuraedo midgo sipeo midgiji anhjiman", "lyric_hangul": "그래도 믿고 싶어 믿기지 않지만", "lyric_translation": "I still want to believe even though it’s unbelieveable", "range": [134.66, 139.97], "ans": [7]},
+    {
+      "lyric_hangul": "길을 잃는단 건 그 길을 찾는 방법",
+      "lyric_translation": "To lose your path / Is the way to find that path",
+      "parts": [
+        {"lyric": "Gireul ilhneundan geon", "range": [139.97, 143.09], "ans": [5]},
+        {"lyric": "Geu gireul channeun bangbeop", "range": [143.09, 145.41], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [145.41, 147.04], "ans": [5]},
+    {
+      "lyric_hangul": "쉴 새 없이 몰아치는 거친 비바람 속에",
+      "lyric_translation": "Constantly pushing without rest / within the harsh rainstorms",
+      "parts": [
+        {"lyric": "Swil sae eobsi morachineun", "range": [147.04, 149.18], "ans": [7]},
+        {"lyric": "Geochin bibaram soge", "range": [149.18, 151.26], "ans": [7]}
+      ]
+    },
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [151.22, 153.08], "ans": [5]},
+    {"lyric": "Chulguragon eobneun bokjabhan sesang soge", "lyric_hangul": "출구라곤 없는 복잡한 세상 속에", "lyric_translation": "Within a complicated world without an exit", "range": [153.08, 157.19], "ans": [1]},
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way-ayy, way-ayy, way-ayy, ayy", "lyric_translation": "Lost my way", "range": [157.19, 162.46], "ans": [5]},
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [162.46, 164.38], "ans": [7]},
+    {"lyric": "Sueobsi hemaedo nan naui gireul mideobollae", "lyric_hangul": "수없이 헤매도 난, 나의 길을 믿어볼래?", "lyric_translation": "I wander, I want to believe in my path", "range": [164.38, 168.43], "ans": [7]},
+    "",
+    {"lyric": "So long", "lyric_hangul": "So long", "lyric_translation": "So long", "range": [168.43, 170.14], "ans": [6]},
+    {"lyric": "Giyak eobneun huimangiyeo ijen annyeong", "lyric_hangul": "기약 없는 희망이여 이젠, 안녕", "lyric_translation": "Goodbye to my hope with no promise", "range": [170.14, 174.15], "ans": [6]},
+    {"lyric": "So long", "lyric_hangul": "So long", "lyric_translation": "So long", "range": [174.15, 175.69], "ans": [7]},
+    {"lyric": "Jom neuryeodo nae ballo geotgesseo", "lyric_hangul": "좀 느려도 내, 발로 걷겠어", "lyric_translation": "Even if I’m slow I will walk with my own feet", "range": [175.69, 180.01], "ans": [7]},
+    {"lyric": "I giri bunmyeong naui girinikka", "lyric_hangul": "이 길이 분명 나의 길이니까", "lyric_translation": "Because I know this path is mine to take", "range": [180.01, 183.08], "ans": [5]},
+    {"lyric": "Doragado eonjenga daheul tenikka", "lyric_hangul": "돌아가도, 언젠가 닿을 테니까", "lyric_translation": "Even if I go back, I will reach this path eventually", "range": [183.08, 185.98], "ans": [1]},
+    {"lyric": "I never I will never", "lyric_hangul": "I never, I will never", "lyric_translation": "I never I will never", "range": [185.98, 188.69], "ans": [7]},
+    {"lyric": "I will never lose my dream", "lyric_hangul": "I will never lose my dream, yeah-eh", "lyric_translation": "I will never lose my dream", "range": [188.69, 190.72], "ans": [7]},
+    "",
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [190.72, 192.65], "ans": [7]},
+    {
+      "lyric_hangul": "쉴 새 없이 몰아치는 거친 비바람 속에 (바람 속에)",
+      "lyric_translation": "Constantly pushing without / rest within the harsh rainstorms",
+      "parts": [
+        {"lyric": "Swil sae eobsi morachineun", "range": [192.65, 194.89], "ans": [5]},
+        {"lyric": "Geochin bibaram soge", "range": [194.89, 197.23], "ans": [5]}
+      ]
+    },
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [196.23, 197.99], "ans": [7]},
+    {"lyric": "Chulguragon eobneun bokjabhan sesang soge", "lyric_hangul": "출구라곤 없는 복잡한 세상 속에", "lyric_translation": "Within a complicated world without an exit", "range": [197.99, 202.37], "ans": [6]},
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way-ayy, way-ayy, way-ayy, ayy", "lyric_translation": "Lost my way", "range": [202.37, 207.43], "ans": [7]},
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way", "lyric_translation": "Lost my way", "range": [207.43, 209.71], "ans": [5]},
+    {"lyric": "Sueobsi hemaedo nan naui gireul mideobollae", "lyric_hangul": "수없이 헤매도 난, 나의 길을 믿어볼래?", "lyric_translation": "I wander, I want to believe in my path", "range": [209.71, 213.69], "ans": [5]},
+    "",
+    {"lyric": "Lost my way", "lyric_hangul": "Lost my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy", "lyric_translation": "Lost my way", "range": [213.69, 218.56], "ans": [7]},
+    {"lyric": "Found my way", "lyric_hangul": "Oh, found my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy", "lyric_translation": "Found my way", "range": [218.56, 224.09], "ans": [1]},
+    {"lyric": "Lost my way", "lyric_hangul": "Oh, lost my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy", "lyric_translation": "Lost my way", "range": [224.09, 229.92], "ans": [6]},
+    {"lyric": "Found my way", "lyric_hangul": "Oh, found my way-ayy, way-ayy, way-ayy, ayy", "lyric_translation": "Found my way", "range": [229.92, 238.4], "ans": [5]}
+  ]
+}

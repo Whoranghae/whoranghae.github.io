@@ -1,0 +1,169 @@
+{
+  "name": "Can You Turn Off Your Phone (핸드폰 좀 꺼줄래)\r",
+  "ogg": "sound/kpop/can_you_turn_off_your_phone.ogg",
+  "id": "can-you-turn-off-your-phone",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/can-you-turn-off-your-phone.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:37Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "N/A", "range": [9.26, 12.84], "ans": [7]},
+    {"lyric": "Moduga seumateuhadajiman", "lyric_hangul": "모두가 스마트하다지만", "lyric_translation": "", "range": [12.84, 15.19], "ans": [7]},
+    {"lyric": "Urin jeomjeom meongcheonghaejijanha", "lyric_hangul": "우린 점점 멍청해지잖아", "lyric_translation": "", "range": [15.19, 19.03], "ans": [7]},
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [19.03, 22.78], "ans": [5]},
+    {"lyric": "Eolgul bogo mensyeon nallyeo", "lyric_hangul": "얼굴 보고 멘션 날려", "lyric_translation": "", "range": [22.78, 25.21], "ans": [5]},
+    {"lyric": "Johayoneun nan pillyo eobseo", "lyric_hangul": "좋아요는 난 필요 없어", "lyric_translation": "", "range": [25.21, 28.86], "ans": [5]},
+    "",
+    {"lyric": "Hwajangsil gandan malkkaji neon poneuro hae", "lyric_hangul": "화장실 간단 말까지 넌 폰으로 해", "lyric_translation": "", "range": [28.86, 31.75], "ans": [4]},
+    {"lyric": "Geurigon senseu itdaneun deut saljjakung utne", "lyric_hangul": "그리곤 센스 있다는 듯 살짜쿵 웃네", "lyric_translation": "", "range": [31.75, 33.96], "ans": [4]},
+    {"lyric": "Nan jeonhyeo an utgyeo myeot dal mane bon neo", "lyric_hangul": "난 전혀 안 웃겨 몇 달 만에 본 너", "lyric_translation": "", "range": [33.96, 36.82], "ans": [4]},
+    {"lyric": "Wae geup inginamin cheok? rottorado majasseo?", "lyric_hangul": "왜 급 인기남인 척? 로또라도 맞았어?", "lyric_translation": "", "range": [36.82, 39.05], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "로또라니 정신 차려 새 폰으로 바꿨잖아 친구",
+      "parts": [
+        {"lyric": "Rottorani jeongsin charyeo", "range": [39.05, 40.39], "ans": [2]},
+        {"lyric": "Sae poneuro bakkwotjanha chingu", "range": [40.39, 41.73], "ans": [2]}
+      ]
+    },
+    {"lyric": "Jeongbohwa sidaeya aldasipi daehanminguk ingu", "lyric_hangul": "정보화 시대야 알다시피 대한민국 인구", "lyric_translation": "", "range": [41.53, 44.02], "ans": [2]},
+    {"lyric": "Jeolban isangi seumateuhan 21segi", "lyric_hangul": "절반 이상이 스마트한 21세기", "lyric_translation": "", "range": [44.02, 46.64], "ans": [2]},
+    {
+      "lyric_hangul": "얼굴 보고 얘기하는 건 한물간 먼 나라 얘기",
+      "parts": [
+        {"lyric": "Eolgul bogo yaegihaneun", "range": [46.64, 47.9], "ans": [2]},
+        {"lyric": "Geon hanmulgan meon nara yaegi", "range": [47.9, 49.16], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "오랜만에 만났으면서 왜 또 그렇게 싸워?",
+      "parts": [
+        {"lyric": "Oraenmane mannasseumyeonseo", "range": [49.16, 50.4], "ans": [3]},
+        {"lyric": "Wae tto geureoke ssawo?", "range": [50.4, 52.0], "ans": [3]}
+      ]
+    },
+    {"lyric": "Pon? ildan bap han kkiga uridawo", "lyric_hangul": "폰? 일단 밥 한 끼가 우리다워", "lyric_translation": "", "range": [52.0, 54.31], "ans": [3]},
+    {"lyric": "Yeojachinguneun innya? ni sae poni akkawo", "lyric_hangul": "여자친구는 있냐? 니 새 폰이 아까워", "lyric_translation": "", "range": [54.31, 56.32], "ans": [3]},
+    {
+      "lyric_hangul": "'군대 간 영수처럼.'은 싫다 이뤄져라 마법",
+      "parts": [
+        {"lyric": "‘gundae gan yeongsucheoreom..’eun sirta", "range": [56.32, 58.14], "ans": [3]},
+        {"lyric": "Irwojyeora mabeop", "range": [58.14, 59.33], "ans": [3]}
+      ]
+    },
+    {"lyric": "Eodi gallae? a na jeogi gallae", "lyric_hangul": "어디 갈래? 아 나 저기 갈래", "lyric_translation": "", "range": [59.33, 61.09], "ans": [3]},
+    {"lyric": "Yeogiga jeil hasseupat gatae", "lyric_hangul": "여기가 제일 핫스팟 같애", "lyric_translation": "", "range": [61.09, 63.59], "ans": [3]},
+    {
+      "lyric_hangul": "밥 먹고는 뭐해 우리 식상한 PC방은 그만",
+      "parts": [
+        {"lyric": "Bap meokgoneun mwohae uri siksanghan", "range": [63.59, 65.77], "ans": [3]},
+        {"lyric": "PCbangeun geuman", "range": [65.77, 67.01], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ani geunde, geu sarami malhal ttaeneun jom..", "lyric_hangul": "아니 근데, 그 사람이 말할 때는 좀.", "lyric_translation": "", "range": [67.01, 68.96], "ans": [3]},
+    "",
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [68.96, 72.0], "ans": [7]},
+    {"lyric": "Moduga seumateuhadajiman", "lyric_hangul": "모두가 스마트하다지만", "lyric_translation": "", "range": [72.0, 74.53], "ans": [7]},
+    {"lyric": "Urin jeomjeom meongcheonghaejijanha", "lyric_hangul": "우린 점점 멍청해지잖아", "lyric_translation": "", "range": [74.53, 78.24], "ans": [7]},
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [78.24, 81.96], "ans": [1]},
+    {"lyric": "Eolgul bogo mensyeon nallyeo", "lyric_hangul": "얼굴 보고 멘션 날려", "lyric_translation": "", "range": [81.96, 84.49], "ans": [1]},
+    {"lyric": "Johayoneun nan pillyo eobseo", "lyric_hangul": "좋아요는 난 필요 없어", "lyric_translation": "", "range": [84.49, 88.38], "ans": [1]},
+    "",
+    {"lyric": "Mireoseo jamgeum haeje mireoseo jamgeum haeje", "lyric_hangul": "밀어서 잠금 해제 밀어서 잠금 해제", "lyric_translation": "", "range": [88.38, 93.4], "ans": [6]},
+    {
+      "lyric_hangul": "미웠어 너의 (탁) 미웠어 너의 (쉬웅!)",
+      "parts": [
+        {"lyric": "Miwosseo neoui", "range": [93.4, 95.68], "ans": [6]},
+        {"lyric": "(tak)", "range": [94.98, 96.14], "ans": []},
+        {"lyric": "Miwosseo neoui", "range": [95.44, 98.02], "ans": [6]},
+        {"lyric": "(swiung~!)", "range": [97.32, 98.3], "ans": []}
+      ]
+    },
+    {"lyric": "Mireoseo jamgeum haeje mireoseo jamgeum haeje", "lyric_hangul": "밀어서 잠금 해제 밀어서 잠금 해제", "lyric_translation": "", "range": [98.19, 103.54], "ans": [6]},
+    {
+      "lyric_hangul": "눌러줘 너의 (찰칵 찰칵) 눌러줘 너의 (찰칵)",
+      "parts": [
+        {"lyric": "Nulleojwo neoui", "range": [103.54, 105.47], "ans": [6]},
+        {"lyric": "(chalkak chalkak)", "range": [104.77, 105.58], "ans": []},
+        {"lyric": "Nulleojwo neoui", "range": [106.18, 107.9], "ans": [6]},
+        {"lyric": "(chalkak)", "range": [107.2, 108.04], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Eumsigeul nuneuro meongnya yeojaaedeulcheoreom", "lyric_hangul": "음식을 눈으로 먹냐 여자애들처럼", "lyric_translation": "", "range": [108.04, 110.69], "ans": [4]},
+    {"lyric": "Sajin jom jjikji mara nae immat tteoreojyeo", "lyric_hangul": "사진 좀 찍지 마라 내 입맛 떨어져", "lyric_translation": "", "range": [110.69, 112.99], "ans": [4]},
+    {"lyric": "Tto eopdetagi bappeugetji eolgulchaek anim jjaekjjaegie", "lyric_hangul": "또 업뎃하기 바쁘겠지 얼굴책 아님 짹짹이에", "lyric_translation": "", "range": [112.99, 115.8], "ans": [4]},
+    {"lyric": "Insaengeun 3Dya nae eolgul bogo jjaekjjaekdae", "lyric_hangul": "인생은 3D야 내 얼굴 보고 짹짹대", "lyric_translation": "", "range": [115.8, 118.85], "ans": [4]},
+    "",
+    "[next-col]",
+    {"lyric": "Jjaekjjaekdae neon tap tap hamyeo kekkekdae", "lyric_hangul": "짹짹대 넌 tap tap 하며 켁켁대", "lyric_translation": "", "range": [118.85, 121.18], "ans": [3]},
+    {"lyric": "Babal twieo geu nomui haendeuponeuro baekbaek dae", "lyric_hangul": "밥알 튀어 그 놈의 핸드폰으로 백백 대", "lyric_translation": "", "range": [121.18, 123.49], "ans": [3]},
+    {"lyric": "Majayaji jeongsin jom deulgennya", "lyric_hangul": "맞아야지 정신 좀 들겠냐", "lyric_translation": "", "range": [123.49, 125.57], "ans": [3]},
+    {"lyric": "Ni baeteori eobseul ttae urin chungjeondwae itgennya", "lyric_hangul": "니 배터리 없을 때 우린 충전돼 있겠냐", "lyric_translation": "", "range": [125.57, 127.99], "ans": [3]},
+    "",
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [127.99, 129.85], "ans": [2]},
+    {"lyric": "Animyeon jumeonie neoheojullae", "lyric_hangul": "아니면 주머니에 넣어줄래", "lyric_translation": "", "range": [129.85, 132.2], "ans": [2]},
+    {"lyric": "Yojeum moduga seumateuhaejyeotda hajiman", "lyric_hangul": "요즘 모두가 스마트해졌다 하지만", "lyric_translation": "", "range": [132.2, 134.61], "ans": [2]},
+    {"lyric": "Sidaeneun johajyeotjiman du baero seodureune", "lyric_hangul": "시대는 좋아졌지만 두 배로 서두르네", "lyric_translation": "", "range": [134.61, 137.39], "ans": [2]},
+    {
+      "lyric_hangul": "가끔 그리워 서로 얼굴보고 얘기 나눠대던 그때가",
+      "parts": [
+        {"lyric": "Gakkeum geuriwo", "range": [137.39, 138.55], "ans": [2]},
+        {"lyric": "Seoro eolgulbogo yaegi nanwodaedeon geuttaega", "range": [138.55, 142.01], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "소통은 많아졌지만 우리들 사이엔 시끄러운 침묵만",
+      "parts": [
+        {"lyric": "Sotongeun manhajyeotjiman", "range": [142.01, 144.05], "ans": [2]},
+        {"lyric": "Urideul saien sikkeureoun chimmungman", "range": [144.05, 147.52], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [147.52, 151.2], "ans": [5]},
+    {"lyric": "Moduga seumateuhadajiman", "lyric_hangul": "모두가 스마트하다지만", "lyric_translation": "", "range": [151.2, 153.83], "ans": [5]},
+    {"lyric": "Urin jeomjeom meongcheonghaejijanha", "lyric_hangul": "우린 점점 멍청해지잖아", "lyric_translation": "", "range": [153.83, 157.65], "ans": [5]},
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [157.65, 161.2], "ans": [7]},
+    {"lyric": "Eolgul bogo mensyeon nallyeo", "lyric_hangul": "얼굴 보고 멘션 날려", "lyric_translation": "", "range": [161.2, 163.62], "ans": [7]},
+    {"lyric": "Johayoneun nan pillyo eobseo", "lyric_hangul": "좋아요는 난 필요 없어", "lyric_translation": "", "range": [163.62, 167.58], "ans": [7]},
+    "",
+    {"lyric": "Mesejido selkado nan da pillyo eomneun geol", "lyric_hangul": "메세지도 셀카도 난 다 필요 없는 걸", "lyric_translation": "", "range": [167.58, 172.15], "ans": [7]},
+    {"lyric": "Nan haendeupondo eumsikdo anin neol boreo on geol", "lyric_hangul": "난 핸드폰도 음식도 아닌 널 보러 온 걸", "lyric_translation": "", "range": [172.15, 177.22], "ans": [7]},
+    {"lyric": "Ya igeon jom aniya uriga eotteon saiya", "lyric_hangul": "야 이건 좀 아니야 우리가 어떤 사이야", "lyric_translation": "", "range": [177.22, 182.26], "ans": [1]},
+    {"lyric": "Utgiman haedo haengbokhaetjanha", "lyric_hangul": "웃기만 해도 행복했잖아", "lyric_translation": "", "range": [182.26, 187.68], "ans": [5]},
+    "",
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [189.5, 193.39], "ans": [7]},
+    {"lyric": "Moduga seumateuhadajiman", "lyric_hangul": "모두가 스마트하다지만", "lyric_translation": "", "range": [193.39, 195.75], "ans": [7]},
+    {"lyric": "Urin jeomjeom meongcheonghaejijanha", "lyric_hangul": "우린 점점 멍청해지잖아", "lyric_translation": "", "range": [195.75, 199.58], "ans": [7]},
+    {"lyric": "Haendeupon jom kkeojullae", "lyric_hangul": "핸드폰 좀 꺼줄래", "lyric_translation": "", "range": [199.58, 203.29], "ans": [5]},
+    {"lyric": "Eolgul bogo mensyeon nallyeo", "lyric_hangul": "얼굴 보고 멘션 날려", "lyric_translation": "", "range": [203.29, 205.81], "ans": [5]},
+    {"lyric": "Johayoneun nan pillyo eobseo", "lyric_hangul": "좋아요는 난 필요 없어", "lyric_translation": "", "range": [205.81, 209.54], "ans": [5]},
+    "",
+    {"lyric": "Mireoseo jamgeum haeje mireoseo jamgeum haeje", "lyric_hangul": "밀어서 잠금 해제 밀어서 잠금 해제", "lyric_translation": "", "range": [209.54, 214.82], "ans": [6]},
+    {
+      "lyric_hangul": "미웠어 너의 (탁) 미웠어 너의 (쉬웅!)",
+      "parts": [
+        {"lyric": "Miwosseo neoui", "range": [214.82, 216.92], "ans": [6]},
+        {"lyric": "(tak)", "range": [216.22, 217.01], "ans": []},
+        {"lyric": "Miwosseo neoui", "range": [217.64, 219.26], "ans": [6]},
+        {"lyric": "(swiung~!)", "range": [218.56, 219.44], "ans": []}
+      ]
+    },
+    {"lyric": "Mireoseo jamgeum haeje mireoseo jamgeum haeje", "lyric_hangul": "밀어서 잠금 해제 밀어서 잠금 해제", "lyric_translation": "", "range": [219.44, 224.74], "ans": [6]},
+    {
+      "lyric_hangul": "눌러줘 너의 (찰칵 찰칵) 눌러줘 너의 (찰칵)",
+      "parts": [
+        {"lyric": "Nulleojwo neoui", "range": [224.74, 226.57], "ans": [6]},
+        {"lyric": "(chalkak chalkak)", "range": [225.87, 226.73], "ans": []},
+        {"lyric": "Nulleojwo neoui", "range": [227.44, 229.16], "ans": [6]},
+        {"lyric": "(chalkak)", "range": [228.46, 231.28], "ans": []}
+      ]
+    }
+  ]
+}

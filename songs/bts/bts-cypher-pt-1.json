@@ -1,0 +1,163 @@
+{
+  "name": "BTS Cypher PT. 1\r",
+  "ogg": "sound/kpop/bts_cypher_pt_1.ogg",
+  "id": "bts-cypher-pt-1",
+  "group": "bts",
+  "language": "ko",
+  "released": "2013-09-11",
+  "album": "O!RUL8,2?",
+  "cover": "css/images/covers/bts-cypher-pt-1.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:32Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Damn hipbusim, aidol raeppeo? Cut that bulssi", "lyric_hangul": "Damn 힙부심, 아이돌 랩퍼? Cut that 불씨", "lyric_translation": "Damn the hip-hop pride, idol rapper? Cut that bullshit", "range": [3.96, 6.65], "ans": []},
+    {"lyric": "Eochapi bonjireun aidol swisiramyeo nal musihae", "lyric_hangul": "어차피 본질은 아이돌 쉿이라며 날 무시해", "lyric_translation": "He’s originally an idol shit anyway – they look down on me", "range": [6.65, 9.4], "ans": []},
+    {"lyric": "Jutdae ttawineun gaejugo nae ireumeul biutji", "lyric_hangul": "줏대 따위는 개주고 내 이름을 비웃지", "lyric_translation": "They give their principles to the dogs and laugh at my name", "range": [9.4, 11.44], "ans": []},
+    {
+      "lyric_hangul": "물타기와 무시밖에 모르는 니들이, how you kill me?",
+      "lyric_translation": "You only know how to go with the tide / And look down on others, how you kill me?",
+      "parts": [
+        {"lyric": "Multagiwa musibakke moreuneun nideuri,", "range": [11.44, 14.23], "ans": []},
+        {"lyric": "How you kill me?", "range": [14.23, 14.94], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So I bring the monster back, my monster swag",
+      "lyric_translation": "So I bring the monster back, / my monster swag",
+      "parts": [
+        {"lyric": "So i bring the monster back,", "range": [14.42, 16.68], "ans": []},
+        {"lyric": "My monster swag", "range": [16.68, 17.34], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "So this is the monster track 'cause of my freaking Monster Rap",
+      "lyric_translation": "So this is the monster track / cuz of my freakin monster rap",
+      "parts": [
+        {"lyric": "So this is the monster track", "range": [16.56, 18.62], "ans": []},
+        {"lyric": "Cuz of my freaking monster rap", "range": [18.62, 19.64], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "현대판 홍길동들, 좋은 걸 보고도 좋다고 못해",
+      "lyric_translation": "The modern day Hong Kil Dong’s, / They see good things but can’t call it good",
+      "parts": [
+        {"lyric": "Hyeondaepan honggildongdeul,", "range": [19.55, 21.08], "ans": []},
+        {"lyric": "Joheun geol bogodo johdago mothae", "range": [21.08, 22.27], "ans": []}
+      ]
+    },
+    {"lyric": "Samsedae lideo so imma lead ya igeon sedaegyoche", "lyric_hangul": "3세대 리더 so I'ma lead ya 이건 세대교체", "lyric_translation": "Third generation leader, so I’mma lead ya,", "range": [22.0, 24.33], "ans": []},
+    {
+      "lyric_hangul": "I'm sayin' yeah I'm the top of the top of the top",
+      "lyric_translation": "this is a generation change – I’m sayin / yeah I’m the top of the top of the top",
+      "parts": [
+        {"lyric": "I’m sayin", "range": [24.33, 25.39], "ans": []},
+        {"lyric": "Yeah im the top of the top of the top", "range": [25.39, 27.15], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Poppin 'em, rockin 'em, stoppin 'em, blockin 'em, like the Cassius' lance",
+      "lyric_translation": "Poppin em, rockin em, stoppin em, blockin em, / like the Cassius’ lance – Imma don,",
+      "parts": [
+        {"lyric": "Poppin’em, rockin’em, stoppin’em, blockin’em,", "range": [27.01, 28.39], "ans": []},
+        {"lyric": "Like the Cassius’ lance. Imma don,", "range": [28.39, 29.75], "ans": []}
+      ]
+    },
+    {"lyric": "Biteu kkeujima becuz im not freakin done", "lyric_hangul": "I'ma don, 비트 끄지마 because I'm not freakin' done", "lyric_translation": "don’t turn the beat off becuz I’m not freakin done", "range": [29.39, 31.5], "ans": []},
+    {
+      "lyric_hangul": "비트 위에선 까불지마 'cause every kick is my freaking zone",
+      "lyric_translation": "Don’t play around on top of the beat, / cuz every kick is my freaking zone",
+      "parts": [
+        {"lyric": "Biteu wieseon kkabuljima", "range": [31.5, 33.28], "ans": []},
+        {"lyric": "Cuz every kick is my freaking zone", "range": [33.28, 34.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "난 원래 관대해 but now I'ma murder your rappers",
+      "lyric_translation": "I was always generous / But now I’mma murder you rappers",
+      "parts": [
+        {"lyric": "Nan wollae gwandaehae", "range": [34.14, 35.74], "ans": []},
+        {"lyric": "But now imma murder your rappers", "range": [35.74, 36.92], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "차례대로 썰어버리고 then I'ma murder you haters",
+      "lyric_translation": "Cut em up by order / Then I’mma murder you haters",
+      "parts": [
+        {"lyric": "Charyedaero sseoreobeorigo", "range": [36.7, 38.26], "ans": []},
+        {"lyric": "Then imma murder you haters", "range": [38.26, 39.4], "ans": []}
+      ]
+    },
+    {"lyric": "Ja ije nal bwa, geurigo malhaebwa nuga ni top 5?", "lyric_hangul": "자 이제 날 봐, 그리고 말해봐 누가 니 top five?", "lyric_translation": "Now look at me and tell me, who’s in your top 5?", "range": [38.97, 41.91], "ans": []},
+    {"lyric": "Raepmonseuteo, randa, lida, raepmon, ni appa", "lyric_hangul": "랩몬스터, 란다, 리다, 랩몬, 니 아빠 (아빠) ya", "lyric_translation": "Rap Monster, Randa, Rida, Rapmon, your dad", "range": [41.91, 46.19], "ans": []},
+    "",
+    {"lyric": "Jigeumeun hope world, from BTS", "lyric_hangul": "지금은 Hope World, from BTS", "lyric_translation": "Right now it’s hope world from BTS", "range": [46.19, 47.8], "ans": [3]},
+    {"lyric": "Jeonbu nal follow nae ganeungseongeun riteuwitdwae", "lyric_hangul": "전부 날 follow 내 가능성은 리트윗돼", "lyric_translation": "Everyone follows me, my potential gets retweeted", "range": [47.8, 50.75], "ans": [3]},
+    {
+      "lyric_hangul": "모두에게 알려 내 flow, 고막을 타고 니 몸을 채워",
+      "lyric_translation": "Let everyone know my flow, / Ride your eardrums and fill your bodies",
+      "parts": [
+        {"lyric": "Moduege allyeo nae flow,", "range": [50.75, 52.17], "ans": [3]},
+        {"lyric": "Gomageul tago ni momeul chaewo", "range": [52.17, 54.23], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "칼을 갈았어, 내일을 위해 get back in the days",
+      "lyric_translation": "I sharpened my sword for tomorrow, / Get back in the days",
+      "parts": [
+        {"lyric": "Kareul garasseo, naeireul wihae", "range": [53.74, 55.88], "ans": [3]},
+        {"lyric": "Get back in the days", "range": [55.88, 56.92], "ans": [3]}
+      ]
+    },
+    {"lyric": "Naido naigo, raimdo mollatdeon aigo", "lyric_hangul": "나이도 나이고, 라임도 몰랐던 아이고", "lyric_translation": "Considering my age, I was a kid who didn’t know rhymes", "range": [56.32, 58.5], "ans": [3]},
+    {
+      "lyric_hangul": "그저 아이돌 바라본 광주의 흔한 아이였던 나",
+      "lyric_translation": "I was just a common kid / From Gwangju who looked at idols",
+      "parts": [
+        {"lyric": "Geujeo aidol barabon gwangjuui", "range": [58.5, 61.06], "ans": [3]},
+        {"lyric": "Heunhan aiyeotdeon na", "range": [61.06, 62.18], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geurae ijen boyeojulge i teuraek wi Cyphereseo", "lyric_hangul": "그래 이젠 보여줄게 이 트랙 위 Cypher에서", "lyric_translation": "Now I’ll show you, on the Cypher on top of this track", "range": [61.46, 63.68], "ans": [3]},
+    {"lyric": "Nae pobureul barkhyeo i’m above the minors", "lyric_hangul": "내 포부를 밝혀 I'm above the minors", "lyric_translation": "I’ll reveal my aspirations, I’m above the minors", "range": [63.68, 67.05], "ans": [3]},
+    {
+      "lyric_hangul": "그래 너완 다른 메이저 uh TV screen을 난 채워 uh",
+      "lyric_translation": "It’s a major different from you, uh / I fill up the TV screen",
+      "parts": [
+        {"lyric": "Geurae neowan dareun meijeo uh", "range": [67.05, 70.53], "ans": [3]},
+        {"lyric": "TV screeneul nan chaewo uh", "range": [70.53, 72.0], "ans": [3]}
+      ]
+    },
+    {"lyric": "Raepeo koseutyum? no geopumeul geodugo", "lyric_hangul": "래퍼 코스튬? No 거품을 거두고 내뱉어", "lyric_translation": "Rapper costume? No, I take away the foam and spit it out,", "range": [72.0, 74.64], "ans": [3]},
+    {
+      "lyric_hangul": "내가 원하던 것을, 난 지금 어딜 가도 이슈감",
+      "lyric_translation": "whatever I want – Wherever I go, it becomes an issue / If you’re jealous, go to the hospital, two weeks to heal",
+      "parts": [
+        {"lyric": "Naebaeteo naega wonhadeon geoseul,", "range": [74.64, 77.22], "ans": [3]},
+        {"lyric": "Nan jigeum eodil gado isyugam", "range": [77.22, 78.66], "ans": [3]}
+      ]
+    },
+    {"lyric": "Baega apeumyeon byeongwon ga jeonchi ijugam", "lyric_hangul": "배가 아프면 병원 가 전치 2주감", "lyric_translation": "Everyone who hoped for my defeat is holding onto their necks", "range": [78.11, 80.54], "ans": [3]},
+    {"lyric": "Nae paebaereul baraetdeon saramdeul da dwitmogeul japji", "lyric_hangul": "내 패배를 바랬던 사람들 다 뒷목을 잡지", "lyric_translation": "J-Hope plays a foul on top of the game that rides with", "range": [80.54, 83.25], "ans": [3]},
+    {"lyric": "Hipbusim panchineun geim wi J-hopeeun banchik", "lyric_hangul": "힙부심 판치는 게임 위 J-Hope은 반칙", "lyric_translation": "hip-hop pride", "range": [83.25, 86.25], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Nan mipil but chwimineun jeogyeok", "lyric_hangul": "난 미필 but 취미는 저격", "lyric_translation": "I have yet to go to the army but my hobby is sharpshooting", "range": [86.25, 88.71], "ans": [2]},
+    {"lyric": "We are bulletproofro hanbangeul meogyeotji", "lyric_hangul": "We are bulletproof로 한방을 먹였지", "lyric_translation": "We are bulletproof was a big hit", "range": [88.71, 90.94], "ans": [2]},
+    {"lyric": "Eoseolpeun gajjadeureun jjillyeo baneunghaji", "lyric_hangul": "어설픈 가짜들은 찔려 반응하지", "lyric_translation": "The clumsy fakers was pricked and reacted", "range": [90.94, 93.07], "ans": [2]},
+    {"lyric": "Jomdeo yeolpok haebwara nae bareumhwajireun 4k", "lyric_hangul": "좀더 열폭 해봐라 내 발음화질은 4K", "lyric_translation": "Feel a little more inferior, the quality of my pronunciation is 4k", "range": [93.07, 96.67], "ans": [2]},
+    {"lyric": "I’m dope man nan biteu wieseon syopaeng", "lyric_hangul": "I'm dope man 난 비트 위에선 쇼팽", "lyric_translation": "I’m dope man, I’m the Chopin of the beat", "range": [96.67, 97.82], "ans": [2]},
+    {"lyric": "Nan jeolttae an byeonhae taeeonal ttaebuteo nan motae", "lyric_hangul": "난 절대 안 변해 태어날 때부터 난 모태", "lyric_translation": "I won’t ever change, I was born a rapper,", "range": [97.82, 100.82], "ans": [2]},
+    {"lyric": "Born rapper, my attitudeneun nae mento", "lyric_hangul": "Born rapper, my attitude는 내 멘토", "lyric_translation": "My attitude is my mentor", "range": [100.82, 103.45], "ans": [2]},
+    {"lyric": "Nideuri ssipgo mureo tteudeodo nan memento", "lyric_hangul": "니들이 씹고 물어 뜯어도 난 메멘토", "lyric_translation": "Even if you talk smack about me, I’m memento", "range": [103.45, 105.96], "ans": [2]},
+    {"lyric": "Hipbusim buryeobwa naege neukkineun muryeokgam", "lyric_hangul": "힙부심 부려봐 내게 느끼는 무력감", "lyric_translation": "Show your hip-hop pride but you’ll still feel impotent", "range": [105.96, 108.35], "ans": [2]},
+    {"lyric": "Jiltusim sumgyeora ni aipi da boilla", "lyric_hangul": "질투심 숨겨라 니 아이피 다 보일라", "lyric_translation": "Hide your jealousy, I can see your IP address", "range": [108.35, 110.5], "ans": [2]},
+    {"lyric": "Nan boilleo sunsikgane hothaejyeotji", "lyric_hangul": "난 보일러 순식간에 hot해졌지", "lyric_translation": "I’m a boiler, I get hot in an instant", "range": [110.5, 113.49], "ans": [2]},
+    {"lyric": "Seupoilleocheoreom neoneun an bwado ppeonhaejyeotji", "lyric_hangul": "스포일러처럼 너는 안 봐도 뻔해졌지", "lyric_translation": "Like a spoiler, you’re so typical", "range": [113.49, 115.73], "ans": [2]},
+    {"lyric": "Sokjeol eobsi meongcheonghan hipjjijiril gochyeonwatji", "lyric_hangul": "속절 없이 멍청한 힙찌질일 고쳐놨지", "lyric_translation": "Fixed up and stupid hip-hop losers with nothing inside", "range": [115.73, 118.02], "ans": [2]},
+    {"lyric": "Geunbon eobsi keojyeogan i gayogyen gongjonhagien", "lyric_hangul": "근본 없이 커져간 이 가요곈 공존하기엔", "lyric_translation": "It’s too hard to last in this growing world of K-Pop", "range": [118.02, 120.75], "ans": [2]},
+    {"lyric": "Ppakse geureoni raebeun chwimiro hae", "lyric_hangul": "빡세 그러니 랩은 취미로 해", "lyric_translation": "So just rap as a hobby", "range": [120.75, 123.2], "ans": [2]},
+    {"lyric": "Malseya malse, jjillimyeon noryeokhae what", "lyric_hangul": "말세야 말세, 찔리면 노력해 what (what, what, what)", "lyric_translation": "It’s the end of the world, if you’re guilty, try harder, what", "range": [123.2, 131.0], "ans": [2]}
+  ]
+}

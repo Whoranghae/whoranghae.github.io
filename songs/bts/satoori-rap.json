@@ -1,0 +1,407 @@
+{
+  "name": "Satoori Rap (팔도강산)\r",
+  "ogg": "sound/kpop/satoori_rap.ogg",
+  "id": "satoori-rap",
+  "group": "bts",
+  "language": "ko",
+  "released": "2013-09-11",
+  "album": "O!RUL8,2?",
+  "cover": "css/images/covers/satoori-rap.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:10Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yo once again", "lyric_hangul": "Yo, once again", "lyric_translation": "Yo once again", "range": [0.66, 2.93], "ans": []},
+    {"lyric": "Bighit Represent", "lyric_hangul": "BIGHIT represent", "lyric_translation": "Big Hit Represent", "range": [2.93, 5.17], "ans": []},
+    {"lyric": "Urineun bangtansonyeondan Let Go", "lyric_hangul": "우리는 방탄소년단, uh, le' go (yeah)", "lyric_translation": "We are BTS Let’s Go", "range": [5.17, 8.74], "ans": []},
+    "",
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [8.74, 11.72], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [11.72, 13.92], "ans": []},
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "What is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [13.92, 16.38], "ans": [2]},
+        {"lyric": "(What)", "range": [15.77, 16.43], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "what is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [16.21, 18.75], "ans": [2]},
+        {"lyric": "(What)", "range": [18.2, 18.8], "ans": []}
+      ]
+    },
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [18.42, 20.84], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [20.84, 22.58], "ans": []},
+    {
+      "lyric_hangul": "우리가 와불따고 전하랑께 (what?)",
+      "lyric_translation": "Tell them that we have come (what)",
+      "parts": [
+        {"lyric": "Uriga wabulttago jeonharangkke", "range": [22.58, 25.3], "ans": [3]},
+        {"lyric": "What", "range": [24.83, 25.35], "ans": []}
+      ]
+    },
+    {"lyric": "Urin meotjyeobureo heobeollage", "lyric_hangul": "우린 멋져부러, 허벌라게", "lyric_translation": "we’re real hot stuff", "range": [24.75, 26.95], "ans": [3]},
+    "",
+    {"lyric": "Ajaedeul annyeonghasimnikkeo", "lyric_hangul": "아재들 안녕하십니꺼", "lyric_translation": "Hello misters,", "range": [26.95, 29.2], "ans": [2]},
+    {"lyric": "Naekamo gohyangi daegu aimnikkeo", "lyric_hangul": "내카모 고향이 대구 아입니꺼? (ha-ha)", "lyric_translation": "my hometown is Daegu", "range": [29.2, 31.19], "ans": [2]},
+    {"lyric": "Geukaeseo oneureun saturi raebeuro", "lyric_hangul": "그캐서 오늘은 사투리 랩으로", "lyric_translation": "So today, I’ll rap in satoori", "range": [31.19, 33.75], "ans": [2]},
+    {
+      "lyric_hangul": "머시마, 가시나 신경 쓰지 말고 한번 놀아봅시더",
+      "lyric_translation": "Let’s play, / not caring about",
+      "parts": [
+        {"lyric": "Meosima gasina singyeong sseuji", "range": [33.75, 35.87], "ans": [2]},
+        {"lyric": "Malgo hanbeon norabopsideo", "range": [35.87, 36.71], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "거시기, 여러분 모두 안녕들 하셨지라?",
+      "lyric_translation": "the other boys and girls / Hello everyone,",
+      "parts": [
+        {"lyric": "Geosigi yeoreobun modu", "range": [35.82, 37.86], "ans": [3]},
+        {"lyric": "Annyeongdeul hasyeotjira", "range": [37.86, 38.88], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "오메, 뭐시여? 요 물땜시 랩 하것띠야?",
+      "lyric_translation": "oh my, what is this? / Why are you",
+      "parts": [
+        {"lyric": "Ome mwosiyeo", "range": [38.64, 39.79], "ans": [3]},
+        {"lyric": "Yo multtaemsi raep hageotthtiya", "range": [39.79, 41.14], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "아재, 아짐들도 거가 박혀있지 말고",
+      "lyric_translation": "rapping like that? / Misters and Mrs.’s,",
+      "parts": [
+        {"lyric": "Ajae ajimdeuldo", "range": [40.47, 42.39], "ans": [3]},
+        {"lyric": "Geoga bakhyeoitji malgo", "range": [42.39, 43.49], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "나와서 즐겨, 싹다 잡아블자고잉",
+      "lyric_translation": "don’t just stand there, / come out and have fun",
+      "parts": [
+        {"lyric": "Nawaseo jeulgyeo", "range": [43.06, 44.85], "ans": [3]},
+        {"lyric": "Ssakda jababeuljagoing", "range": [44.85, 45.98], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Ma gaengsangdokamo", "lyric_hangul": "마, 갱상도카모 (카모)", "lyric_translation": "When it comes to Kyeongsangdo,", "range": [45.34, 46.84], "ans": [2]},
+    {
+      "lyric_hangul": "신라의 화랑 후예들이 계속해서 자라나고",
+      "lyric_translation": "the successors of Silla’s Hwarang1 / keep growing",
+      "parts": [
+        {"lyric": "Sillaui hwarang huyedeuri", "range": [46.84, 49.18], "ans": [2]},
+        {"lyric": "Gyesokhaeseo jaranago", "range": [49.18, 50.52], "ans": [2]}
+      ]
+    },
+    {"lyric": "Saturihamo gaengsangdo aiga", "lyric_hangul": "사투리하모 (uh?) 갱상도 아이가?", "lyric_translation": "When it comes to satoori,", "range": [50.31, 52.57], "ans": [2]},
+    {
+      "lyric_hangul": "구수하고 정겨운 게 딱 우리 정서에 맞다 아이가?",
+      "lyric_translation": "Kyeongsangdo is the best / It’s tasty and sounds good,",
+      "parts": [
+        {"lyric": "Gusuhago jeonggyeounge ttak", "range": [52.57, 54.51], "ans": [2]},
+        {"lyric": "Uri jeongseoe matda aiga", "range": [54.51, 54.91], "ans": [2]}
+      ]
+    },
+    {"lyric": "Atta seongnim geogeo urido itdangkke", "lyric_hangul": "아따, 성님 거거 우리도 있당께", "lyric_translation": "perfect for our sentiment", "range": [54.34, 56.58], "ans": [3]},
+    {
+      "lyric_hangul": "뭣좀 묵엇단까? 요 비빔밥이 갑이랑께",
+      "lyric_translation": "Hyung, we have that too – Did you eat? / This bibimbap is the best2",
+      "parts": [
+        {"lyric": "Mwotjom mugeotdankka", "range": [56.58, 58.37], "ans": [3]},
+        {"lyric": "Yo bibimbap gabirangkke", "range": [58.37, 59.88], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ajik ssiburijam sebarui piinikke", "lyric_hangul": "아직 씨부리잠 세발의 피이니께", "lyric_translation": "I haven’t even started talking yet so", "range": [59.24, 61.38], "ans": [3]},
+    {"lyric": "Jjomtta byeo gaeanhage pureobeullanikka", "lyric_hangul": "쫌따 벼, 개안하게 풀어블라니까", "lyric_translation": "I’m gonna let it all out later", "range": [61.38, 64.17], "ans": [3]},
+    "",
+    {"lyric": "Gaga gaga ireon mareun ana", "lyric_hangul": "가가 가가? 이런 말은 아나?", "lyric_translation": "Is that the guy? Do you know this phrase?3", "range": [64.17, 66.21], "ans": [2]},
+    {"lyric": "Gaengsangdoneun eoksidago nuga geukano", "lyric_hangul": "갱상도는 억시다고 누가 그카노?", "lyric_translation": "Kyeongsangdo is bad? Who says!", "range": [66.21, 68.26], "ans": [2]},
+    {
+      "lyric_hangul": "머라케샀노? 갱상도 정 하모 아나바다 같은 거지, 모",
+      "lyric_translation": "What are you saying? Kyeongsangdo is all / about sharing, why don’t you come here and",
+      "parts": [
+        {"lyric": "Meorakesanno gaengsangdo jeonghamo", "range": [68.26, 70.76], "ans": [2]},
+        {"lyric": "Anabada gateungeoji mo", "range": [70.76, 72.12], "ans": [2]}
+      ]
+    },
+    {"lyric": "Niga jikjeobwaseo hanbeonbwara", "lyric_hangul": "네가 직접 와서 한번 봐라", "lyric_translation": "see for yourself?", "range": [71.32, 73.28], "ans": [2]},
+    {"lyric": "A daetta ma", "lyric_hangul": "아, 아, 대따 마", "lyric_translation": "Forget it! I’m a Daegu guy so I don’t say", "range": [73.28, 74.58], "ans": [2]},
+    {
+      "lyric_hangul": "대구 머스마라서 두 말 안 한다카이",
+      "lyric_translation": "things twice / Yes, yes, Kyeongsangdo is the best,",
+      "parts": [
+        {"lyric": "Daegu meoseumaraseo", "range": [74.58, 76.62], "ans": [2]},
+        {"lyric": "Du mal anhandakai", "range": [76.62, 77.88], "ans": [2]}
+      ]
+    },
+    {"lyric": "Hamohamo gaengsangdo jwiginda aingyo", "lyric_hangul": "하모하모 갱상도 쥑인다 아인교?", "lyric_translation": "I’ll just give it to you,", "range": [77.68, 80.0], "ans": [2]},
+    {"lyric": "Ajura ma uriga eodi namingyo", "lyric_hangul": "아주라 마, 우리가 어디 남인교?", "lyric_translation": "we’re not strangers", "range": [80.0, 81.49], "ans": [2]},
+    "",
+    {"lyric": "Sibang meoragora heumi ajjiasseukkana", "lyric_hangul": "시방, 머라고라? 흐미, 아찌아쓰까나?", "lyric_translation": "What did you just say?", "range": [81.49, 83.99], "ans": [3]},
+    {
+      "lyric_hangul": "전라도 씨부림 땜시 아구지 막혀브러싸야",
+      "lyric_translation": "Oh my, your smack talk about Jeollado / is making people clam up",
+      "parts": [
+        {"lyric": "Jeollado ssiburimttaemsi", "range": [83.99, 85.82], "ans": [3]},
+        {"lyric": "Aguji makhyeobeureossaya", "range": [85.82, 87.12], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "흑산도 홍어코 한방 잡수믄 된디",
+      "lyric_translation": "But all they need is to eat Heuksando’s / skatefish4 to clear their minds",
+      "parts": [
+        {"lyric": "Heuksando hongeoko", "range": [86.61, 88.29], "ans": [3]},
+        {"lyric": "Hanbang japsumeun doendi", "range": [88.29, 89.25], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "온몸 구녕이란 구녕은 막 다 뚫릴 텬디",
+      "lyric_translation": "So are you okay with that? / I got a child whose in the",
+      "parts": [
+        {"lyric": "Onmom gunyeongiran gunyeongeun", "range": [88.71, 90.54], "ans": [3]},
+        {"lyric": "Mak da tturlil tyeondi", "range": [90.54, 91.66], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geosigi mwosigi eum gwaenchankeosso", "lyric_hangul": "거시기, 뭐시기, 음, 괜찮것소?", "lyric_translation": "eight to ninth month", "range": [91.22, 93.15], "ans": [3]},
+    {"lyric": "Ajik palguwol pungwol na aegajyeossso", "lyric_hangul": "아직 팔구월 풍월 나 애가졌소 (ha-ha-ha)", "lyric_translation": "A champion who weights 20kg,", "range": [93.15, 95.65], "ans": [3]},
+    {
+      "lyric_hangul": "무등산 수박 크기 20키로 장사여",
+      "lyric_translation": "as big as the watermelon from Mt. Mudeung5 / You take one look at",
+      "parts": [
+        {"lyric": "Mudeungsan subak keugi", "range": [95.65, 97.57], "ans": [3]},
+        {"lyric": "20kiro jangsayeo", "range": [97.57, 98.77], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "겉만 봐도 딱 가시내 울릴 방탄여",
+      "lyric_translation": "it’s clearly a Bangtan / who will make girls cry",
+      "parts": [
+        {"lyric": "Geonman bwado ttak", "range": [98.28, 99.72], "ans": [3]},
+        {"lyric": "Gasinae ullil bangtanyeo", "range": [99.72, 101.12], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [100.59, 102.6], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [102.6, 105.37], "ans": []},
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "What is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [105.37, 107.57], "ans": [2]},
+        {"lyric": "(What)", "range": [107.57, 108.07], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "what is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [107.56, 109.33], "ans": [2]},
+        {"lyric": "(What)", "range": [108.77, 109.38], "ans": []}
+      ]
+    },
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [109.38, 112.21], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [112.21, 114.55], "ans": []},
+    {
+      "lyric_hangul": "우리가 와불따고 전하랑께 (what?)",
+      "lyric_translation": "Tell them that we have come (what)",
+      "parts": [
+        {"lyric": "Uriga wabulttago jeonharangkke", "range": [114.55, 116.81], "ans": [3]},
+        {"lyric": "What", "range": [116.24, 116.86], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "우린 멋져부러, 허벌라게",
+      "lyric_translation": "we’re real hot stuff / (J-Hope and Suga talking)",
+      "parts": [
+        {"lyric": "Urin meotjyeobureo heobeollage", "range": [116.06, 117.6], "ans": [3]},
+        {"lyric": "J-Hope", "range": [117.6, 118.01], "ans": [3]},
+        {"lyric": "And", "range": [117.65, 118.32], "ans": []},
+        {"lyric": "Suga", "range": [117.71, 118.63], "ans": [2]},
+        {"lyric": "Talking)", "range": [118.02, 118.68], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    "",
+    {
+      "lyric_hangul": "아, 이 촌놈들, 난 Seoul state of mind (wow!)",
+      "lyric_translation": "Hey you country boys, / I have a Seoul state of mind",
+      "parts": [
+        {"lyric": "A i chonnomdeul nan", "range": [127.8, 129.31], "ans": []},
+        {"lyric": "Seoul state of mind", "range": [129.31, 130.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "난 서울에서 나서 서울말 잘 배웠다 (shit)",
+      "lyric_translation": "I was born in Seoul / so I learned the Seoul language well",
+      "parts": [
+        {"lyric": "Nan seoureseo naseo", "range": [129.31, 131.26], "ans": []},
+        {"lyric": "Seoulmal jal baewotda", "range": [131.26, 132.74], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "요즘은 뭐, 어디 사투리가 다 벼슬이다만",
+      "lyric_translation": "although these days, / satoori is highly regarded",
+      "parts": [
+        {"lyric": "Yojeumeun mwo eodi", "range": [132.16, 133.58], "ans": []},
+        {"lyric": "Saturiga da byeoseuridaman", "range": [133.58, 135.08], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "그래, 인정할게, 악센트들이 멋은 있다 (uh?)",
+      "lyric_translation": "Yes, I’ll admit it, / the accents are pretty cool",
+      "parts": [
+        {"lyric": "Geurae injeonghalge", "range": [134.59, 136.01], "ans": []},
+        {"lyric": "Aksenteudeuri meoseun itda", "range": [136.01, 137.55], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "하지만 여긴 표준인 만큼 정직해",
+      "lyric_translation": "but as much as / it’s the standard language here,",
+      "parts": [
+        {"lyric": "Hajiman yeogin", "range": [136.87, 138.47], "ans": []},
+        {"lyric": "Pyojunin mankeum jeongjikhae", "range": [138.47, 139.95], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "처음과 끝이 분명하고 딱 정립된",
+      "lyric_translation": "it’s that much honest / The beginning and end",
+      "parts": [
+        {"lyric": "Cheoeumgwa kkeuchi bunmyeonghago", "range": [139.45, 141.27], "ans": []},
+        {"lyric": "Ttak jeongnipdoen", "range": [141.27, 142.25], "ans": []}
+      ]
+    },
+    {"lyric": "Hangungmarui pyoboneuro jeongnidoeji", "lyric_hangul": "한국말의 표본으로 정리되지", "lyric_translation": "are clear and organized", "range": [141.65, 143.87], "ans": []},
+    {
+      "lyric_hangul": "Only ours goes with English, y'all never understand it",
+      "lyric_translation": "as the example of a / well-built Korean language",
+      "parts": [
+        {"lyric": "Only ours goes with English", "range": [143.87, 145.64], "ans": []},
+        {"lyric": "Yall never understand it", "range": [145.64, 146.64], "ans": []}
+      ]
+    },
+    {"lyric": "Okay soljikhi soljikhaejilge", "lyric_hangul": "Okay, 솔직히 솔직해질게", "lyric_translation": "Only ours goes with English,", "range": [146.06, 147.96], "ans": []},
+    {
+      "lyric_hangul": "경상도 사투리는 남자라면 쓰고 싶게 만들어",
+      "lyric_translation": "y’all never understand it / Okay, I’ll honestly become honest",
+      "parts": [
+        {"lyric": "Gyeongsangdo saturineun namjaramyeon", "range": [147.96, 150.46], "ans": []},
+        {"lyric": "Sseugo sipge mandeureo", "range": [150.46, 151.44], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "전라도 말들은 너무나 친근해",
+      "lyric_translation": "Kyeongsangdo accents / make guys want to use it,",
+      "parts": [
+        {"lyric": "Jeollado maldeureun", "range": [150.97, 152.61], "ans": []},
+        {"lyric": "Neomuna chingeunhae", "range": [152.61, 153.43], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "한 번 입에 담으면, 어우 씨, 아, 내가 다 기쁘네",
+      "lyric_translation": "Jeollado words sound so friendly / Once I start to use it, I get all happy",
+      "parts": [
+        {"lyric": "Hanbeon ibe dameumyeon", "range": [153.02, 154.64], "ans": []},
+        {"lyric": "Eouya naega da gippeune", "range": [154.64, 155.78], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Why keep fighting? 결국 같은 한국말들",
+      "lyric_translation": "Why keep fighting, / in the end, it’s all the same Korean",
+      "parts": [
+        {"lyric": "Why keep fighting", "range": [155.17, 156.81], "ans": []},
+        {"lyric": "Gyeolguk gateun hangungmaldeul", "range": [156.81, 157.93], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "올려다 봐, 이렇게 마주한 같은 하늘",
+      "lyric_translation": "Look up, we are all / looking at the same sky",
+      "parts": [
+        {"lyric": "Ollyeoda bwa ireoke", "range": [157.43, 159.07], "ans": []},
+        {"lyric": "Majuhan gateun haneul", "range": [159.07, 160.33], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "살짝 오글거리지만 전부 다 잘났어",
+      "lyric_translation": "This may make you cringe a little / but everyone is awesome",
+      "parts": [
+        {"lyric": "Saljjak ogeulgeorijiman", "range": [159.46, 161.56], "ans": []},
+        {"lyric": "Jeonbuda jallasseo", "range": [161.56, 162.82], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "말 다 통하잖아? 문산부터 마라도",
+      "lyric_translation": "We can all communicate / from Moonsan to Marado",
+      "parts": [
+        {"lyric": "Mal da tonghajanha", "range": [162.06, 163.86], "ans": []},
+        {"lyric": "Munsanbuteo marado", "range": [163.86, 164.96], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [164.6, 166.59], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [166.59, 169.32], "ans": []},
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "What is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [169.32, 171.83], "ans": [2]},
+        {"lyric": "(What)", "range": [171.23, 171.88], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "what is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [171.32, 174.17], "ans": [2]},
+        {"lyric": "(What)", "range": [173.62, 174.22], "ans": []}
+      ]
+    },
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [173.8, 176.3], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [176.3, 178.47], "ans": []},
+    {
+      "lyric_hangul": "우리가 와불따고 전하랑께 (what?)",
+      "lyric_translation": "Tell them that we have come (what)",
+      "parts": [
+        {"lyric": "Uriga wabulttago jeonharangkke", "range": [178.47, 180.71], "ans": [3]},
+        {"lyric": "What", "range": [180.22, 180.76], "ans": []}
+      ]
+    },
+    {"lyric": "Urin meotjyeobureo heobeollage", "lyric_hangul": "우린 멋져부러, 허벌라게", "lyric_translation": "we’re real hot stuff", "range": [180.08, 182.79], "ans": [3]},
+    "",
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [182.79, 185.32], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [185.32, 187.15], "ans": []},
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "What is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [187.15, 190.1], "ans": [2]},
+        {"lyric": "(What)", "range": [189.45, 190.15], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "마! 마! 머라카노? (What?)",
+      "lyric_translation": "what is he saying (what)",
+      "parts": [
+        {"lyric": "Mama meorakano", "range": [189.89, 192.48], "ans": [2]},
+        {"lyric": "(What)", "range": [191.91, 192.53], "ans": []}
+      ]
+    },
+    {"lyric": "Seoul gangwonbuteo gyeongsangdo", "lyric_hangul": "서울, 강원부터 경상도 (ay)", "lyric_translation": "From Seoul to Gangwon, Kyeongsangdo,", "range": [192.05, 194.27], "ans": [3]},
+    {"lyric": "Chungcheongdobuteo jeollado", "lyric_hangul": "충청도부터 전라도 (oh)", "lyric_translation": "Chungcheong to Jeolla", "range": [194.27, 196.33], "ans": []},
+    {
+      "lyric_hangul": "우리가 와불따고 전하랑께 (what?)",
+      "lyric_translation": "Tell them that we have come (what)",
+      "parts": [
+        {"lyric": "Uriga wabulttago jeonharangkke", "range": [196.33, 199.04], "ans": [3]},
+        {"lyric": "What", "range": [198.52, 199.09], "ans": []}
+      ]
+    },
+    {"lyric": "Urin meotjyeobureo heobeollage", "lyric_hangul": "우린 멋져부러, 허벌라게", "lyric_translation": "we’re real hot stuff", "range": [198.41, 202.49], "ans": [3]}
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "name": "MAMA\r",
+  "ogg": "sound/kpop/mama.ogg",
+  "id": "mama",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/mama.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:02Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Time travel icheonyuknyeonui hae", "lyric_hangul": "Time travel 2006년의 해", "lyric_translation": "Time travel to 2006", "range": [21.18, 23.55], "ans": [3]},
+    {"lyric": "Chume michyeo eomma heorittireul jollamaetji", "lyric_hangul": "춤에 미쳐 엄마 허리띠를 졸라매", "lyric_translation": "Crazed for dancing, pinched my mom’s purse", "range": [23.55, 25.96], "ans": [3]},
+    {"lyric": "Appa bandaeedo maeil dallyeodeul ttae", "lyric_hangul": "아빠 반대에도 매일 달려들 때", "lyric_translation": "When my dad opposed but I practiced every day", "range": [25.96, 28.51], "ans": [3]},
+    {
+      "lyric_hangul": "아랑곳하지 않고 띄워주신 꿈의 조각배",
+      "lyric_translation": "She supported me / And the pieces of my dream",
+      "parts": [
+        {"lyric": "Aranggothaji anhgo", "range": [28.51, 28.95], "ans": [3]},
+        {"lyric": "Ttuiwojusin kkumui jogakbae", "range": [28.95, 31.17], "ans": [3]}
+      ]
+    },
+    {"lyric": "But mollatji eommaui keun botaemi", "lyric_hangul": "But 몰랐지 엄마의 큰 보탬이", "lyric_translation": "But I didn’t know my mom’s big contribution", "range": [31.17, 33.64], "ans": [3]},
+    {
+      "lyric_hangul": "펼쳐 있는 지름길 아닌 빚을 쥔 이 꿈의 길",
+      "lyric_translation": "Wasn’t a shortcut / But a path to a dream that resulted in debt",
+      "parts": [
+        {"lyric": "Pyeolchyeo itneun jireumgil anin", "range": [33.64, 34.7], "ans": [3]},
+        {"lyric": "Bijeul jwin i kkumui gil", "range": [34.7, 36.74], "ans": [3]}
+      ]
+    },
+    {"lyric": "(Always) munjeui money eomeonin gyeolguk", "lyric_hangul": "(Always) 문제의 money 어머닌 결국", "lyric_translation": "(Always) the problem is money", "range": [36.74, 39.08], "ans": [3]},
+    {
+      "lyric_hangul": "(Go away) 타지로 일하러 가셨어 (엄마)",
+      "lyric_translation": "(Go away) so my mom ended up working overseas / Over the phone",
+      "parts": [
+        {"lyric": "(Go away) tajiro ilhareo gasyeosseo", "range": [39.08, 40.95], "ans": [3]},
+        {"lyric": "Jeonhwaro", "range": [40.95, 42.37], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "전화로 듣는 엄마의 목소리는 선명하고 (여보세요)",
+      "lyric_translation": "My mom’s voice / That I hear is clear",
+      "parts": [
+        {"lyric": "Deutneun eommaui", "range": [42.37, 44.29], "ans": [3]},
+        {"lyric": "Moksorineun seonmyeonghago", "range": [44.29, 48.23], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "기억나는 건 그때 엄마의 강인함이 내겐 변화구 (Shoot)",
+      "lyric_translation": "What I remember is / My mom’s strength back then was my curve ball / For real",
+      "parts": [
+        {"lyric": "Gieoknaneun geon", "range": [48.23, 48.73], "ans": [3]},
+        {"lyric": "Geuttae eommaui ganginhami naegen byeonhwagu", "range": [48.37, 50.93], "ans": [3]},
+        {"lyric": "Jeongmallo", "range": [50.93, 53.3], "ans": [3]}
+      ]
+    },
+    {"lyric": "Kkok seonggonghaeyagetdago gyeolsimhago", "lyric_hangul": "정말로 꼭 성공해야겠다고 결심하고", "lyric_translation": "I was determined to be successful", "range": [53.3, 57.56], "ans": [3]},
+    {
+      "lyric_hangul": "그 다짐 하나로 지금의 아들로",
+      "lyric_translation": "With that one promise / I became the son I am now",
+      "parts": [
+        {"lyric": "Geu dajim hanaro", "range": [57.56, 58.72], "ans": [3]},
+        {"lyric": "Jigeumui adeullo", "range": [58.72, 62.52], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [62.52, 63.37], "ans": [3]},
+    {"lyric": "Ijen naege gidaedo dwae eonjena yeope", "lyric_hangul": "이젠 내게 기대도 돼 언제나 옆에", "lyric_translation": "You can lean on me now, always by my side", "range": [63.37, 67.11], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [67.11, 68.47], "ans": [3]},
+    {
+      "lyric_hangul": "내게 아낌없이 주셨기에 버팀목이었기에",
+      "lyric_translation": "You gave to me unconditionally, / You were my support",
+      "parts": [
+        {"lyric": "Naege akkimeopsi", "range": [68.47, 68.95], "ans": [3]},
+        {"lyric": "Jusyeotgie beotimmogieotgie", "range": [68.95, 72.29], "ans": [3]}
+      ]
+    },
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [72.29, 73.59], "ans": [3]},
+    {"lyric": "Ijen adeulnaemi mideumyeon dwae useumyeon dwae", "lyric_hangul": "이젠 아들내미 믿으면 돼 웃으면 돼", "lyric_translation": "Now trust your son, you can smile", "range": [73.59, 77.48], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [77.48, 80.51], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [80.51, 85.92], "ans": [3]},
+    "",
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [88.33, 89.41], "ans": [3]},
+    {"lyric": "I’m sorry mama", "lyric_hangul": "I'm sorry mama", "lyric_translation": "I’m sorry mama", "range": [89.41, 90.51], "ans": [3]},
+    {"lyric": "Haneulgateun eunhye ije araseo mama", "lyric_hangul": "하늘같은 은혜 이제 알아서 mama", "lyric_translation": "For realizing now how much you’ve done for me, mama", "range": [90.51, 94.01], "ans": [3]},
+    "",
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [98.58, 99.91], "ans": [3]},
+    {"lyric": "So thanks mama", "lyric_hangul": "So thanks mama", "lyric_translation": "So thanks mama", "range": [99.91, 101.16], "ans": [3]},
+    {"lyric": "Naege piwa sari doeeojusyeoseo mama", "lyric_hangul": "내게 피와 살이 되어주셔서 mama", "lyric_translation": "For being my blood and flesh, mama", "range": [101.16, 104.23], "ans": [3]},
+    "",
+    {"lyric": "Gieokhae mom", "lyric_hangul": "기억해 mom?", "lyric_translation": "Remember Mom?", "range": [104.23, 105.18], "ans": [3]},
+    {"lyric": "Munheungdong hidingkeu pcbang,", "lyric_hangul": "문흥동 히딩크 pc방,", "lyric_translation": "The Hiddink PC cafe at Moonhong,", "range": [105.18, 106.06], "ans": [3]},
+    {"lyric": "Beurodeuwei reseutorang", "lyric_hangul": "브로드웨이 레스토랑", "lyric_translation": "The Broadway restaurant", "range": [106.06, 107.45], "ans": [3]},
+    {"lyric": "Gajeong wihae du bal ttwineun beterang", "lyric_hangul": "가정 위해 두 발 뛰는 베테랑", "lyric_translation": "Two job veteran for your family", "range": [107.45, 109.61], "ans": [3]},
+    {"lyric": "Silpaeneun seonggongui eomeoni eomeoni", "lyric_hangul": "실패는 성공의 어머니 어머니", "lyric_translation": "Failure is the mother of success", "range": [109.61, 111.62], "ans": [3]},
+    {"lyric": "Geureon yeoljeonggwa seongsimeul baewo", "lyric_hangul": "그런 열정과 성심을 배워", "lyric_translation": "I learned that passion and devotion", "range": [111.62, 113.14], "ans": [3]},
+    {"lyric": "Wanna be wanna be", "lyric_hangul": "Wanna be wanna be", "lyric_translation": "Wanna be wanna be", "range": [113.14, 114.39], "ans": [3]},
+    {"lyric": "Ije nado eoreuni doel ttae", "lyric_hangul": "이제 나도 어른이 될 때", "lyric_translation": "Now that I’m an adult", "range": [114.39, 117.44], "ans": [3]},
+    {"lyric": "Saessage keun georeumi doeeotgie", "lyric_hangul": "새싹에 큰 거름이 되었기에", "lyric_translation": "You were like fertilizer to a budding plant", "range": [117.44, 118.91], "ans": [3]},
+    {"lyric": "Kkocci doeeo geudaemanui kkoccgiri doelge", "lyric_hangul": "꽃이 되어 그대만의 꽃길이 될게", "lyric_translation": "Now I’m a flower, I’ll be your flower path", "range": [118.91, 121.92], "ans": [3]},
+    {"lyric": "You walking on way way way", "lyric_hangul": "You walking on way way way", "lyric_translation": "You walking on way way way", "range": [121.92, 124.34], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [124.34, 125.69], "ans": [3]},
+    {"lyric": "Ijen naege gidaedo dwae eonjena yeope", "lyric_hangul": "이젠 내게 기대도 돼 언제나 옆에", "lyric_translation": "You can lean on me now, always by my side", "range": [125.69, 129.57], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [129.57, 130.86], "ans": [3]},
+    {
+      "lyric_hangul": "내게 아낌없이 주셨기에 버팀목이었기에",
+      "lyric_translation": "You gave to me unconditionally, / You were my support",
+      "parts": [
+        {"lyric": "Naege akkimeopsi", "range": [130.86, 131.36], "ans": [3]},
+        {"lyric": "Jusyeotgie beotimmogieotgie", "range": [131.0, 134.7], "ans": [3]}
+      ]
+    },
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [134.7, 136.14], "ans": [3]},
+    {"lyric": "Ijen adeulnaemi mideumyeon dwae useumyeon dwae", "lyric_hangul": "이젠 아들내미 믿으면 돼 웃으면 돼", "lyric_translation": "Now trust your son, you can smile", "range": [136.14, 139.88], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [139.88, 142.85], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [142.85, 146.16], "ans": [3]},
+    "",
+    {"lyric": "Sesangeul neukkige haejun", "lyric_hangul": "세상을 느끼게 해준", "lyric_translation": "You helped me feel the world", "range": [146.16, 148.93], "ans": [3]},
+    {"lyric": "Geudaega mandeureojun sum", "lyric_hangul": "그대가 만들어준 숨", "lyric_translation": "You created my breath", "range": [148.93, 151.26], "ans": [3]},
+    {
+      "lyric_hangul": "오늘따라 문득 더 안고 싶은 품",
+      "lyric_translation": "I want to hold you more today / Higher than anything above ground",
+      "parts": [
+        {"lyric": "Oneulttara mundeuk", "range": [151.26, 153.14], "ans": [3]},
+        {"lyric": "Deo ango sipeun pum", "range": [153.14, 156.25], "ans": [3]}
+      ]
+    },
+    {"lyric": "Ttang wi geu mueosi nopda hario", "lyric_hangul": "땅 위 그 무엇이 높다 하리오", "lyric_translation": "Wider than anything", "range": [156.25, 158.71], "ans": [3]},
+    {"lyric": "Haneul mit geu mueosi neolpda hario", "lyric_hangul": "하늘 밑 그 무엇이 넓다 하리오", "lyric_translation": "Under the sky", "range": [158.71, 161.46], "ans": [3]},
+    {"lyric": "Ojik hana eomma soni yakson", "lyric_hangul": "오직 하나 엄마 손이 약손", "lyric_translation": "Only one, mother’s hands are healing hands", "range": [161.46, 163.78], "ans": [3]},
+    {"lyric": "Geudaeneun yeongwonhan namanui placebo", "lyric_hangul": "그대는 영원한 나만의 placebo", "lyric_translation": "You are my eternal placebo", "range": [163.78, 166.72], "ans": [3]},
+    "",
+    {"lyric": "I love mom", "lyric_hangul": "I love mom", "lyric_translation": "I love mom", "range": [166.72, 168.28], "ans": [3]},
+    "",
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [168.28, 169.76], "ans": [3]},
+    {"lyric": "Ijen naege gidaedo dwae eonjena yeope", "lyric_hangul": "이젠 내게 기대도 돼 언제나 옆에", "lyric_translation": "You can lean on me now, always by my side", "range": [169.76, 173.42], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [173.42, 174.73], "ans": [3]},
+    {
+      "lyric_hangul": "내게 아낌없이 주셨기에 버팀목이었기에",
+      "lyric_translation": "You gave to me unconditionally, / You were my support",
+      "parts": [
+        {"lyric": "Naege akkimeopsi", "range": [174.73, 175.23], "ans": [3]},
+        {"lyric": "Jusyeotgie beotimmogieotgie", "range": [174.85, 178.61], "ans": [3]}
+      ]
+    },
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [178.61, 180.05], "ans": [3]},
+    {"lyric": "Ijen adeulnaemi mideumyeon dwae useumyeon dwae", "lyric_hangul": "이젠 아들내미 믿으면 돼 웃으면 돼 (웃으면 돼)", "lyric_translation": "Now trust your son, you can smile", "range": [180.05, 184.29], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama (Mama)", "lyric_translation": "Hey mama", "range": [184.29, 186.59], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama (Mama)", "lyric_translation": "Hey mama", "range": [186.59, 188.99], "ans": [3]},
+    "",
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [188.99, 190.22], "ans": [3]},
+    {"lyric": "Ijen naege gidaedo dwae eonjena yeope", "lyric_hangul": "이젠 내게 기대도 돼 언제나 옆에", "lyric_translation": "You can lean on me now, always by my side", "range": [190.22, 194.13], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [194.13, 195.48], "ans": [3]},
+    {
+      "lyric_hangul": "내게 아낌없이 주셨기에 버팀목이었기에",
+      "lyric_translation": "You gave to me unconditionally, / You were my support",
+      "parts": [
+        {"lyric": "Naege akkimeopsi", "range": [195.48, 196.81], "ans": [3]},
+        {"lyric": "Jusyeotgie beotimmogieotgie", "range": [196.81, 199.25], "ans": [3]}
+      ]
+    },
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama", "lyric_translation": "Hey mama", "range": [199.25, 200.65], "ans": [3]},
+    {"lyric": "Ijen adeulnaemi mideumyeon dwae useumyeon dwae", "lyric_hangul": "이젠 아들내미 믿으면 돼 웃으면 돼", "lyric_translation": "Now trust your son, you can smile", "range": [200.65, 204.81], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama (hey)", "lyric_translation": "Hey mama", "range": [204.81, 207.6], "ans": [3]},
+    {"lyric": "Hey mama", "lyric_hangul": "Hey mama (ho)", "lyric_translation": "Hey mama", "range": [207.6, 210.46], "ans": [3]}
+  ]
+}

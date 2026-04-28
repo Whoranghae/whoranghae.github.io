@@ -1,0 +1,121 @@
+{
+  "name": "The Truth Untold (전하지 못한 진심) (Feat. Steve Aoki)\r",
+  "ogg": "sound/kpop/the_truth_untold.ogg",
+  "id": "the-truth-untold",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/the-truth-untold.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:12Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Weroumi gadeukhi", "lyric_hangul": "외로움이 가득히", "lyric_translation": "This garden is filled", "range": [0.42, 2.87], "ans": [6]},
+    {"lyric": "Pieoitneun i garden", "lyric_hangul": "피어있는 이 garden", "lyric_translation": "With blossoming loneliness", "range": [2.87, 4.78], "ans": [6]},
+    {"lyric": "Gashituseongi", "lyric_hangul": "가시투성이 umm", "lyric_translation": "I tied myself", "range": [4.78, 9.0], "ans": [6]},
+    {"lyric": "I moraeseonge nan nal maeeosseo", "lyric_hangul": "이 모래성에 난 날 매었어", "lyric_translation": "To this sand castle filled with thorns", "range": [9.0, 14.52], "ans": [6]},
+    "",
+    {"lyric": "Neoye ireumeun mwonji", "lyric_hangul": "너의 이름은 뭔지", "lyric_translation": "What is your name?", "range": [17.14, 19.7], "ans": [7]},
+    {"lyric": "Gal goshi itgin hanji", "lyric_hangul": "갈 곳이 있긴 한지", "lyric_translation": "Do you even have a place to go?", "range": [19.7, 21.98], "ans": [7]},
+    {"lyric": "Oh could you tell me?", "lyric_hangul": "Oh could you tell me? Ehh", "lyric_translation": "Oh could you tell me?", "range": [21.98, 25.96], "ans": [7]},
+    {"lyric": "I jeongwone sumeodeun neol bwasseo", "lyric_hangul": "이 정원에 숨어든 널 봤어", "lyric_translation": "I saw you hiding in this garden", "range": [25.96, 33.18], "ans": [7]},
+    "",
+    {"lyric": "And I know", "lyric_hangul": "And I know", "lyric_translation": "And I know", "range": [33.18, 35.17], "ans": [1]},
+    {"lyric": "Neoye ongin modu da jinjjaran geol", "lyric_hangul": "너의 온긴 모두 다 진짜란 걸", "lyric_translation": "Your heat is real", "range": [35.17, 40.03], "ans": [1]},
+    {"lyric": "Pureun kkocheul kkeokkneun son", "lyric_hangul": "푸른 꽃을 꺾는 손", "lyric_translation": "Your hand picks the blue flowers", "range": [40.03, 42.3], "ans": [1]},
+    {"lyric": "Jabgo shipjiman", "lyric_hangul": "잡고 싶지만", "lyric_translation": "I want to hold it but", "range": [42.3, 49.53], "ans": [1]},
+    "",
+    {"lyric": "Nae unmyeongin geol", "lyric_hangul": "내 운명인 걸", "lyric_translation": "This is my destiny", "range": [49.53, 51.3], "ans": [5]},
+    {"lyric": "Don’t smile on me", "lyric_hangul": "Don't smile on me", "lyric_translation": "Don’t smile on me", "range": [51.3, 53.86], "ans": [5]},
+    {"lyric": "Light on me", "lyric_hangul": "Light on me", "lyric_translation": "Light on me", "range": [53.86, 55.53], "ans": [5]},
+    {"lyric": "Neoege dagaseol su eopseunikka", "lyric_hangul": "너에게 다가설 수 없으니까", "lyric_translation": "Because I can’t go to you", "range": [55.53, 59.84], "ans": [5]},
+    {"lyric": "Naegen bulleojul ireumi eopseo", "lyric_hangul": "내겐 불러줄 이름이 없어", "lyric_translation": "There’s no name to call", "range": [59.84, 66.09], "ans": [5]},
+    "",
+    {"lyric": "You know that I can’t", "lyric_hangul": "You know that I can't", "lyric_translation": "You know that I can’t", "range": [66.09, 68.32], "ans": [7]},
+    {"lyric": "Show you me", "lyric_hangul": "Show you me", "lyric_translation": "Show you me", "range": [68.32, 70.57], "ans": [7]},
+    {"lyric": "Give you me", "lyric_hangul": "Give you me", "lyric_translation": "Give you me", "range": [70.57, 72.8], "ans": [7]},
+    {"lyric": "Chorahan moseub boyeojul sun eopseo", "lyric_hangul": "초라한 모습 보여줄 순 없어", "lyric_translation": "I can’t show you my weakness", "range": [72.8, 76.76], "ans": [7]},
+    {"lyric": "Tto gamyeoneul sseugo neol mannareo ga", "lyric_hangul": "또 가면을 쓰고 널 만나러 가", "lyric_translation": "So I’m putting on a mask to go see you", "range": [76.76, 82.79], "ans": [7]},
+    {"lyric": "But I still want you", "lyric_hangul": "But I still want you (want you, want you)", "lyric_translation": "But I still want you", "range": [82.79, 90.63], "ans": [7]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "외로움의 정원에 핀 너를 닮은 꽃",
+      "lyric_translation": "A flower that resembles you / Blossomed in this garden of loneliness",
+      "parts": [
+        {"lyric": "Weroume jeongwone pin", "range": [93.69, 96.85], "ans": [1]},
+        {"lyric": "Neoreul dalmeun kkot", "range": [96.85, 98.05], "ans": [1]}
+      ]
+    },
+    {"lyric": "Jugo shipeotji", "lyric_hangul": "주고 싶었지 ooh hoo hoo", "lyric_translation": "I wanted to give it to you", "range": [98.05, 102.68], "ans": [1]},
+    {"lyric": "Babo gateun gamyeoneul beotgoseo", "lyric_hangul": "바보 같은 가면을 벗고서", "lyric_translation": "As I take off this stupid mask", "range": [102.68, 108.14], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "But I know 영원히 그럴 수는 없는 걸 숨어야만 하는 걸",
+      "lyric_translation": "But I know / This can’t go on forever / I must hide",
+      "parts": [
+        {"lyric": "But I know", "range": [109.73, 112.39], "ans": [5]},
+        {"lyric": "Yeongweonhi geureol suneun eopneun geol", "range": [112.39, 116.62], "ans": [5]},
+        {"lyric": "Sumeoyaman haneun geol", "range": [116.62, 118.74], "ans": [5]}
+      ]
+    },
+    {"lyric": "Chuhan nanikka", "lyric_hangul": "추한 나니까", "lyric_translation": "Because I’m ugly", "range": [118.52, 126.4], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "난 두려운 걸 초라해",
+      "lyric_translation": "I’m afraid / So pathetic",
+      "parts": [
+        {"lyric": "Nan duryeoun geol", "range": [126.4, 128.38], "ans": [6]},
+        {"lyric": "Chorahae", "range": [128.38, 130.07], "ans": [6]}
+      ]
+    },
+    {"lyric": "I’m so afraid", "lyric_hangul": "I'm so afraid", "lyric_translation": "I’m so afraid", "range": [130.07, 132.34], "ans": [6]},
+    {"lyric": "Gyeolgugen neodo nal tto tteonabeorilkka", "lyric_hangul": "결국엔 너도 날 또 떠나버릴까", "lyric_translation": "In the end, will you leave me too?", "range": [132.34, 136.56], "ans": [6]},
+    {"lyric": "Tto gamyeoneul sseugo neol mannareo ga", "lyric_hangul": "또 가면을 쓰고 널 만나러 가", "lyric_translation": "So I’m putting on a mask to go see you", "range": [136.56, 142.85], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "할 수 있는 건 정원에",
+      "lyric_translation": "What I can do is / To make a pretty flower",
+      "parts": [
+        {"lyric": "Hal su itneun geon", "range": [142.85, 144.84], "ans": [7]},
+        {"lyric": "Jeongwone", "range": [144.84, 146.9], "ans": [7]}
+      ]
+    },
+    {"lyric": "I sesange", "lyric_hangul": "이 세상에", "lyric_translation": "That resembles you", "range": [146.9, 149.27], "ans": [7]},
+    {"lyric": "Yeppeun neoreul dalmeun kkocheul piun daeum", "lyric_hangul": "예쁜 너를 닮은 꽃을 피운 다음", "lyric_translation": "Blossom in this garden, in this world", "range": [149.27, 153.51], "ans": [7]},
+    {"lyric": "Niga aneun naro sumshwineun geot", "lyric_hangul": "니가 아는 나로 숨쉬는 것", "lyric_translation": "Then breathe as the person you know", "range": [153.51, 159.35], "ans": [7]},
+    {"lyric": "But I still want you", "lyric_hangul": "But I still want you Ah, ah", "lyric_translation": "But I still want you", "range": [159.35, 167.83], "ans": [7]},
+    {"lyric": "I still want you", "lyric_hangul": "I still want you, ah", "lyric_translation": "I still want you", "range": [167.83, 174.85], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "어쩌면 그때 조금만",
+      "lyric_translation": "Maybe back then / If I had just a little more",
+      "parts": [
+        {"lyric": "Eojjeomyeon geuttae", "range": [176.88, 179.11], "ans": [1]},
+        {"lyric": "Jogeumman", "range": [179.11, 180.94], "ans": [1]}
+      ]
+    },
+    {"lyric": "Imankeumman", "lyric_hangul": "이만큼만", "lyric_translation": "Courage", "range": [180.94, 183.22], "ans": [1]},
+    {"lyric": "Yonggil naeseo neoye ape seotteoramyeon", "lyric_hangul": "용길 내서 너의 앞에 섰더라면", "lyric_translation": "And stood before you", "range": [183.22, 187.51], "ans": [1]},
+    {"lyric": "Jigeum modeun geon dallajyeosseulkka", "lyric_hangul": "지금 모든 건 달라졌을까", "lyric_translation": "Would everything be different now?", "range": [187.51, 193.96], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "난 울고 있어",
+      "lyric_translation": "I’m crying / At this sandcastle / That’s disappearing",
+      "parts": [
+        {"lyric": "Nan ulgo isseo", "range": [193.96, 194.81], "ans": [5]},
+        {"lyric": "Sarajin", "range": [194.81, 195.31], "ans": [5]},
+        {"lyric": "Muneojin", "range": [195.1, 196.16], "ans": [5]}
+      ]
+    },
+    {"lyric": "Hollo namgyeojin i moraeseongeseo", "lyric_hangul": "홀로 남겨진 이 모래성에서", "lyric_translation": "And breaking down", "range": [200.21, 204.57], "ans": [5]},
+    {"lyric": "Buseojin gamyeoneul barabomyeonseo", "lyric_hangul": "부서진 가면을 바라보면서", "lyric_translation": "As I look at this broken mask", "range": [204.57, 210.02], "ans": [5]},
+    {"lyric": "And I still want you", "lyric_hangul": "And I still want you", "lyric_translation": "And I still want you", "range": [210.02, 214.36], "ans": [5]},
+    "",
+    {"lyric": "But I still want you", "lyric_hangul": "But I still want you", "lyric_translation": "But I still want you", "range": [218.29, 226.63], "ans": [7]},
+    {"lyric": "But I still want you", "lyric_hangul": "But I still want you", "lyric_translation": "But I still want you", "range": [226.63, 235.32], "ans": [7]},
+    {"lyric": "And I still want you", "lyric_hangul": "And I still want you", "lyric_translation": "And I still want you", "range": [235.32, 235.82], "ans": [5]}
+  ]
+}

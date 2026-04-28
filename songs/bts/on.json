@@ -1,0 +1,270 @@
+{
+  "name": "ON\r",
+  "ogg": "sound/kpop/on.ogg",
+  "id": "on",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/on.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:04Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I can’t understand what people are sayin’", "lyric_hangul": "I can't understand what people are sayin'", "lyric_translation": "I can’t understand what people are sayin’", "range": [19.31, 21.59], "ans": [5]},
+    {"lyric": "Eoneu jangdane matchwoya dwelji", "lyric_hangul": "어느 장단에 맞춰야 될지", "lyric_translation": "Whose words should I be following?", "range": [21.59, 23.76], "ans": [5]},
+    {
+      "lyric_hangul": "한 발자국 떼면 한 발자국 커지는 shadow",
+      "lyric_translation": "When I take one step forward / My shadow grows one step bigger",
+      "parts": [
+        {"lyric": "Han baljaguk ttemyeon", "range": [23.76, 25.7], "ans": [5]},
+        {"lyric": "Han baljaguk keojineun shadow", "range": [25.7, 27.85], "ans": [5]}
+      ]
+    },
+    {"lyric": "Jameseo nuneul tteun yeogin tto eodi", "lyric_hangul": "잠에서 눈을 뜬 여긴 또 어디?", "lyric_translation": "Waking up and opening my eyes, where am I?", "range": [27.85, 30.69], "ans": [6]},
+    {"lyric": "Eojjeom seoul tto New York or Paris", "lyric_hangul": "어쩜 서울 또 New York or Paris", "lyric_translation": "Maybe Seoul or New York or Paris", "range": [30.69, 32.71], "ans": [6]},
+    {"lyric": "Ireonani hwicheongineun mom", "lyric_hangul": "일어나니 휘청이는 몸", "lyric_translation": "I’m getting up but my body’s swaying", "range": [32.71, 36.27], "ans": [6]},
+    "",
+    {"lyric": "Look at my feet, look down", "lyric_hangul": "Yeah, look at my feet, look down (down)", "lyric_translation": "Look at my feet, look down", "range": [36.27, 38.92], "ans": [4]},
+    {"lyric": "Nal dalmeun geurimja", "lyric_hangul": "날 닮은 그림자", "lyric_translation": "This shadow resembles me", "range": [38.92, 40.82], "ans": [4]},
+    {"lyric": "Heundeullineun geon inominga", "lyric_hangul": "흔들리는 건 이놈인가", "lyric_translation": "Is it him who’s shaking?", "range": [40.82, 43.34], "ans": [4]},
+    {"lyric": "Animyeon nae jageun balkkeuchinga", "lyric_hangul": "아니면 내 작은 발끝인가", "lyric_translation": "Or is it me and my toes?", "range": [43.34, 45.34], "ans": [4]},
+    {"lyric": "Duryeobjaneul li eopjana", "lyric_hangul": "두렵잖을 리 없잖아", "lyric_translation": "There’s no way I can’t be afraid", "range": [45.34, 47.81], "ans": [4]},
+    {"lyric": "Da gwaenchaneul li eopjana", "lyric_hangul": "다 괜찮을 리 없잖아", "lyric_translation": "There’s no way I’m okay", "range": [47.81, 50.25], "ans": [4]},
+    {
+      "lyric_hangul": "그래도 I know, 서툴게 I flow",
+      "lyric_translation": "But still I know / Awkwardly, I flow",
+      "parts": [
+        {"lyric": "Geuraedo I know", "range": [50.25, 51.66], "ans": [4]},
+        {"lyric": "Seotulge I flow", "range": [51.66, 52.69], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "저 까만 바람과 함께 날아",
+      "lyric_translation": "I’m flying with the dark wind / Hey na na na",
+      "parts": [
+        {"lyric": "Jeo kkaman baramgwa hamkke nara", "range": [52.28, 54.71], "ans": [4]},
+        {"lyric": "Hey na na na", "range": [54.01, 55.19], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "(Hey, na-na-na)", "lyric_hangul": "(Hey, na-na-na)", "lyric_translation": "", "range": [55.19, 56.46], "ans": []},
+    {
+      "lyric_hangul": "미치지 않으려면 미쳐야 해 (Hey, na-na-na) hey",
+      "lyric_translation": "If you don’t wanna go crazy, you gotta go crazy / Hey na na na",
+      "parts": [
+        {"lyric": "Michiji aneuryeomyeon michyeoya hae", "range": [56.46, 60.11], "ans": [7]},
+        {"lyric": "Hey na na na", "range": [59.41, 62.17], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나를 다 던져 이 두 쪽 세상에",
+      "lyric_translation": "I’m throwing myself to both sides of the world / Hey na na na",
+      "parts": [
+        {"lyric": "Nareul da deonjyeo i du jjok sesange", "range": [61.69, 63.76], "ans": [7]},
+        {"lyric": "Hey na na na", "range": [63.06, 64.18], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Hey, na-na-na)", "lyric_hangul": "(Hey, na-na-na)", "lyric_translation": "", "range": [64.18, 66.27], "ans": []},
+    {"lyric": "Can’t hold me down cuz you know I’m a fighter", "lyric_hangul": "Can't hold me down 'cause you know I'm a fighter", "lyric_translation": "Can’t hold me down cuz you know I’m a fighter", "range": [66.27, 67.57], "ans": [1]},
+    {"lyric": "Je ballo deureoon areumdaun gamok", "lyric_hangul": "제 발로 들어온 아름다운 감옥", "lyric_translation": "It’s a beautiful prison that I’ve walked into", "range": [67.57, 70.35], "ans": [1]},
+    {
+      "lyric_hangul": "Find me and I'm gonna live with ya",
+      "lyric_translation": "Find me and I’m gonna live with ya / (Eh-oh)",
+      "parts": [
+        {"lyric": "Find me and I’m gonna live with ya", "range": [70.35, 73.3], "ans": [1]},
+        {"lyric": "(Eh-oh)", "range": [72.62, 73.35], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah",
+      "lyric_translation": "Bring it, bring the pain oh yeah / (Eh-oh)",
+      "parts": [
+        {"lyric": "Gajyeowa bring the pain oh yeah", "range": [73.26, 76.61], "ans": [7]},
+        {"lyric": "(Eh-oh)", "range": [75.91, 78.0], "ans": []}
+      ]
+    },
+    {"lyric": "Ollatabwa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 올라타 봐, bring the pain, oh, yeah", "lyric_translation": "Get on, bring the pain oh yeah", "range": [78.0, 82.67], "ans": [7]},
+    {
+      "lyric_hangul": "Rain be pourin', sky keep fallin' every day, oh-na-na-na",
+      "lyric_translation": "Rain be pourin’ / Sky keep fallin’ / Everyday oh na na na / (Eh-oh)",
+      "parts": [
+        {"lyric": "Rain be pourin’", "range": [82.67, 83.98], "ans": [5]},
+        {"lyric": "Sky keep fallin’", "range": [83.98, 84.49], "ans": [5]},
+        {"lyric": "Everyday oh na na na", "range": [84.49, 86.44], "ans": [5]},
+        {"lyric": "(Eh-oh)", "range": [85.74, 87.23], "ans": []}
+      ]
+    },
+    {"lyric": "Gajyeowa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah", "lyric_translation": "Bring it, bring the pain oh yeah", "range": [87.23, 91.74], "ans": [5]},
+    "",
+    {"lyric": "Bring the pain", "lyric_hangul": "Bring the pain, oh, yeah", "lyric_translation": "Bring the pain", "range": [91.74, 93.19], "ans": [3]},
+    {"lyric": "Modu nae piwa sari dwegetji", "lyric_hangul": "모두 내 피와 살이 되겠지, eh, ooh", "lyric_translation": "Everything will become my blood and flesh", "range": [93.19, 96.27], "ans": [3]},
+    {"lyric": "Bring the pain", "lyric_hangul": "Bring the pain, eh, ooh", "lyric_translation": "Bring the pain", "range": [96.27, 97.62], "ans": [3]},
+    {"lyric": "No fear, bangbeobeul algesseuni", "lyric_hangul": "No fear, 방법을 알겠으니, eh", "lyric_translation": "No fear, cuz I know the way", "range": [97.62, 100.08], "ans": [3]},
+    {"lyric": "Jageun geose breathe", "lyric_hangul": "작은 것에 breathe (uh-huh)", "lyric_translation": "For every thing little, breathe", "range": [100.08, 101.39], "ans": [3]},
+    {"lyric": "Geugeon eodum sok nae sansowa bit", "lyric_hangul": "그건 어둠 속 내 산소와 빛 (uh-huh)", "lyric_translation": "It’s my oxygen and light in the darkness", "range": [101.39, 103.71], "ans": [3]},
+    {"lyric": "Naega naige haneun geotteure him", "lyric_hangul": "내가 나이게 하는 것들의 힘", "lyric_translation": "My strength for everything I do", "range": [103.71, 106.17], "ans": [3]},
+    {"lyric": "Neomeojyeodo dashi ireona scream", "lyric_hangul": "넘어져도 다시 일어나, scream", "lyric_translation": "Even if I fall, I’ll get up again, scream", "range": [106.17, 108.91], "ans": [3]},
+    "",
+    {"lyric": "Neomeojyeodo dashi ireona scream", "lyric_hangul": "넘어져도 다시 일어나, scream", "lyric_translation": "Even if I fall, I’ll get up again, scream", "range": [108.91, 110.66], "ans": [2]},
+    {"lyric": "Eonjena urin geuraesseuni", "lyric_hangul": "언제나 우린 그랬으니", "lyric_translation": "Cuz that’s what we always do", "range": [110.66, 112.66], "ans": [2]},
+    {"lyric": "Seollyeong nae mureupi ttange daheuljieonjeong", "lyric_hangul": "설령 내 무릎이 땅에 닿을지언정", "lyric_translation": "Even if my knees touch the ground", "range": [112.66, 115.16], "ans": [2]},
+    {
+      "lyric_hangul": "파묻히지 않는 이상 그저 그런 해프닝쯤 될 거란 걸",
+      "lyric_translation": "As long as I don’t get buried / It’ll be just another happening",
+      "parts": [
+        {"lyric": "Pamuchiji anneun isang", "range": [115.16, 116.51], "ans": [2]},
+        {"lyric": "Geujeo geureon haepeuningjjeum dwel georan geol", "range": [116.51, 118.91], "ans": [2]}
+      ]
+    },
+    {"lyric": "Win no matter what", "lyric_hangul": "Win no matter what", "lyric_translation": "Win no matter what", "range": [118.37, 120.27], "ans": [2]},
+    {"lyric": "Win no matter what", "lyric_hangul": "Win no matter what, win no matter what", "lyric_translation": "Win no matter what / Win no matter what", "range": [120.27, 122.48], "ans": [2]},
+    {
+      "lyric_hangul": "네가 뭐라던 누가 뭐라던, I don't give a, uh",
+      "lyric_translation": "Whatever you say, whatever anyone says / I don’t give a uhh",
+      "parts": [
+        {"lyric": "Nega mworadeon nuga mworadeon", "range": [122.17, 124.25], "ans": [2]},
+        {"lyric": "I don’t give a uhh", "range": [124.25, 125.09], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't give a, uh, I don't give a, uh, yeah",
+      "lyric_translation": "I don’t give a uhh / I don’t give a uhh / Hey na na na",
+      "parts": [
+        {"lyric": "I don’t give a uhh", "range": [124.29, 125.8], "ans": [2]},
+        {"lyric": "Hey na na na", "range": [125.1, 127.57], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "(Hey, na-na-na)", "lyric_hangul": "(Hey, na-na-na)", "lyric_translation": "", "range": [127.57, 128.88], "ans": []},
+    {
+      "lyric_hangul": "미치지 않으려면 미쳐야 해 (Hey, na-na-na) hey",
+      "lyric_translation": "If you don’t wanna go crazy, you gotta go crazy / Hey na na na",
+      "parts": [
+        {"lyric": "Michiji aneuryeomyeon michyeoya hae", "range": [128.88, 132.58], "ans": [6]},
+        {"lyric": "Hey na na na", "range": [131.88, 134.46], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나를 다 던져 이 두 쪽 세상에 (Hey, na-na-na) hey",
+      "lyric_translation": "I’m throwing myself to both sides of the world / Hey na na na",
+      "parts": [
+        {"lyric": "Nareul da deonjyeo i du jjok sesange", "range": [134.05, 136.87], "ans": [6]},
+        {"lyric": "Hey na na na", "range": [136.17, 138.61], "ans": [5]}
+      ]
+    },
+    {"lyric": "Can’t hold me down cuz you know I’m a fighter", "lyric_hangul": "Can't hold me down 'cause you know I'm a fighter", "lyric_translation": "Can’t hold me down cuz you know I’m a fighter", "range": [138.55, 140.35], "ans": [5]},
+    {"lyric": "Je ballo deureoon areumdaun gamok", "lyric_hangul": "제 발로 들어온 아름다운 감옥", "lyric_translation": "It’s a beautiful prison that I’ve walked into", "range": [140.35, 143.08], "ans": [5]},
+    {
+      "lyric_hangul": "Find me and I'm gonna live with ya",
+      "lyric_translation": "Find me and I’m gonna live with ya / (Eh-oh)",
+      "parts": [
+        {"lyric": "Find me and I’m gonna live with ya", "range": [143.08, 145.75], "ans": [5]},
+        {"lyric": "(Eh-oh)", "range": [145.05, 146.02], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah",
+      "lyric_translation": "Bring it, bring the pain oh yeah / (Eh-oh)",
+      "parts": [
+        {"lyric": "Gajyeowa bring the pain oh yeah", "range": [146.02, 149.05], "ans": [6]},
+        {"lyric": "(Eh-oh)", "range": [148.35, 150.32], "ans": []}
+      ]
+    },
+    {"lyric": "Ollatabwa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 올라타 봐, bring the pain, oh, yeah", "lyric_translation": "Get on, bring the pain oh yeah", "range": [150.32, 155.03], "ans": [6]},
+    {
+      "lyric_hangul": "Rain be pourin', sky keep fallin' every day, oh-na-na-na",
+      "lyric_translation": "Rain be pourin’ / Sky keep fallin’ / Everyday oh na na na / (Eh-oh)",
+      "parts": [
+        {"lyric": "Rain be pourin’", "range": [155.03, 156.42], "ans": [1]},
+        {"lyric": "Sky keep fallin’", "range": [156.42, 156.91], "ans": [1]},
+        {"lyric": "Everyday oh na na na", "range": [156.91, 158.89], "ans": [1]},
+        {"lyric": "(Eh-oh)", "range": [158.19, 159.78], "ans": []}
+      ]
+    },
+    {"lyric": "Gajyeowa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah", "lyric_translation": "Bring it, bring the pain oh yeah", "range": [159.78, 165.82], "ans": [1]},
+    "",
+    {"lyric": "Naye gotongi itneun gose", "lyric_hangul": "나의 고통이 있는 곳에", "lyric_translation": "Please allow me to breathe", "range": [167.63, 172.0], "ans": [7]},
+    {"lyric": "Naega sum shwige hasoseo", "lyric_hangul": "내가 숨 쉬게 하소서", "lyric_translation": "In this place where my pain lives", "range": [172.0, 178.16], "ans": [7]},
+    {
+      "lyric_hangul": "My everythin', my blood and tears",
+      "lyric_translation": "My everythin’ / My blood and tears",
+      "parts": [
+        {"lyric": "My everythin’", "range": [178.16, 180.14], "ans": [7]},
+        {"lyric": "My blood and tears", "range": [180.14, 182.83], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Got no fears, I'm singin', oh-whoa",
+      "lyric_translation": "Got no fears / I’m singin’ ohhhhh",
+      "parts": [
+        {"lyric": "Got no fears", "range": [182.83, 184.83], "ans": [7]},
+        {"lyric": "I’m singin’ ohhhhh", "range": [184.83, 189.1], "ans": [7]}
+      ]
+    },
+    {"lyric": "Oh I’m takin’ over", "lyric_hangul": "Oh, I'm takin' over", "lyric_translation": "Oh I’m takin’ over", "range": [189.1, 194.35], "ans": [7]},
+    {"lyric": "You should know yeah", "lyric_hangul": "You should know, yeah", "lyric_translation": "You should know yeah", "range": [194.35, 197.25], "ans": [7]},
+    {"lyric": "Can’t hold me down cuz you know I’m a fighter", "lyric_hangul": "Can't hold me down 'cause you know I'm a fighter", "lyric_translation": "Can’t hold me down cuz you know I’m a fighter", "range": [197.25, 199.36], "ans": [5]},
+    {"lyric": "Kkamkkamhan shimyeon sok gikkeoi jamgyeo", "lyric_hangul": "깜깜한 심연 속 기꺼이 잠겨", "lyric_translation": "I’ll gladly be locked in this dark abyss", "range": [199.36, 201.73], "ans": [7]},
+    {
+      "lyric_hangul": "Find me and I'm gonna bleed with ya",
+      "lyric_translation": "Find me and I’m gonna bleed with ya / (Eh-oh)",
+      "parts": [
+        {"lyric": "Find me and I’m gonna bleed with ya", "range": [201.73, 204.66], "ans": [5]},
+        {"lyric": "(Eh-oh)", "range": [203.96, 204.97], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah",
+      "lyric_translation": "Bring it, bring the pain oh yeah / (Eh-oh)",
+      "parts": [
+        {"lyric": "Gajyeowa bring the pain oh yeah", "range": [204.97, 207.9], "ans": [1]},
+        {"lyric": "(Eh-oh)", "range": [207.2, 209.06], "ans": []}
+      ]
+    },
+    {"lyric": "Ollatabwa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 올라타 봐, bring the pain, oh, yeah", "lyric_translation": "Get on, bring the pain oh yeah", "range": [209.06, 213.65], "ans": [1]},
+    {
+      "lyric_hangul": "Rain be pourin', sky keep fallin' every day, oh-na-na-na",
+      "lyric_translation": "Rain be pourin’ / Sky keep fallin’ / Everyday oh na na na / (Eh-oh)",
+      "parts": [
+        {"lyric": "Rain be pourin’", "range": [213.65, 215.33], "ans": [6]},
+        {"lyric": "Sky keep fallin’", "range": [215.33, 215.83], "ans": [6]},
+        {"lyric": "Everyday oh na na na", "range": [215.83, 217.77], "ans": [6]},
+        {"lyric": "(Eh-oh)", "range": [217.07, 218.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Eh-oh) find me and I'm gonna bleed with ya",
+      "lyric_translation": "Find me and I’m gonna bleed with ya / (Eh-oh)",
+      "parts": [
+        {"lyric": "Find me and I’m gonna bleed with ya", "range": [218.43, 222.76], "ans": [6]},
+        {"lyric": "(Eh-oh)", "range": [222.06, 223.15], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah",
+      "lyric_translation": "Bring it, bring the pain oh yeah / (Eh-oh)",
+      "parts": [
+        {"lyric": "Gajyeowa bring the pain oh yeah", "range": [223.15, 226.08], "ans": [5]},
+        {"lyric": "(Eh-oh)", "range": [225.38, 227.64], "ans": []}
+      ]
+    },
+    {"lyric": "Ollatabwa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 올라타 봐, bring the pain, oh, yeah", "lyric_translation": "Get on, bring the pain oh yeah", "range": [227.64, 231.9], "ans": [5]},
+    {
+      "lyric_hangul": "All that I know is just goin' on and on and on and on",
+      "lyric_translation": "All that I know / Is just goin’ on & on & on & on / (Eh-oh)",
+      "parts": [
+        {"lyric": "All that I know", "range": [231.9, 233.34], "ans": [7]},
+        {"lyric": "Is just goin’ on & on & on & on", "range": [233.34, 236.31], "ans": [7]},
+        {"lyric": "(Eh-oh)", "range": [235.61, 236.76], "ans": []}
+      ]
+    },
+    {"lyric": "Gajyeowa bring the pain oh yeah", "lyric_hangul": "(Eh-oh) 가져와, bring the pain, oh, yeah", "lyric_translation": "Bring it, bring the pain oh yeah", "range": [236.76, 242.33], "ans": [7]}
+  ]
+}

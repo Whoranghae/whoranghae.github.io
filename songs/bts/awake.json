@@ -1,0 +1,167 @@
+{
+  "name": "Awake\r",
+  "ogg": "sound/kpop/awake.ogg",
+  "id": "awake",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/awake.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "믿는 게 아냐 버텨보는 거야",
+      "lyric_translation": "It’s not that I believe it / But that I want to try holding out",
+      "parts": [
+        {"lyric": "Mitneun ge anya", "range": [19.2, 21.52], "ans": [1]},
+        {"lyric": "Beotyeoboneun geoya", "range": [21.52, 26.46], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "할 수 있는 게 나 이것뿐이라서",
+      "lyric_translation": "Because this is / All that I can do",
+      "parts": [
+        {"lyric": "Hal su itneun ge", "range": [26.46, 28.22], "ans": [1]},
+        {"lyric": "Na igeotppuniraseo", "range": [28.22, 32.91], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "머물고 싶어 더 꿈꾸고 싶어",
+      "lyric_translation": "I want to remain / I want to dream more",
+      "parts": [
+        {"lyric": "Meomulgo sipeo", "range": [32.91, 36.43], "ans": [1]},
+        {"lyric": "Deo kkumkkugo sipeo", "range": [36.43, 40.08], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "그래도 말야 떠날 때가 됐는걸",
+      "lyric_translation": "Even so, what I’m saying is / That it’s time to leave",
+      "parts": [
+        {"lyric": "Geuraedo marya", "range": [40.08, 41.5], "ans": [1]},
+        {"lyric": "Tteonal ttaega dwaetneungeol", "range": [41.5, 46.21], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Yeah it's my truth(woo-ah), It's my truth (woo-ah)",
+      "lyric_translation": "Yeah it’s my truth / It’s my truth",
+      "parts": [
+        {"lyric": "Yeah it’s my truth", "range": [46.21, 50.39], "ans": [1]},
+        {"lyric": "It’s my truth", "range": [50.39, 53.47], "ans": [1]}
+      ]
+    },
+    {"lyric": "Ontong sangcheotuseongigetji", "lyric_hangul": "온통 상처투성이겠지", "lyric_translation": "I will be covered with wounds all over", "range": [53.47, 59.8], "ans": [1]},
+    {
+      "lyric_hangul": "But it's my fate (woo-ah), It's my fate (woo-ah)",
+      "lyric_translation": "But it’s my fate / It’s my fate",
+      "parts": [
+        {"lyric": "But it’s my fate", "range": [59.8, 63.15], "ans": [1]},
+        {"lyric": "It’s my fate", "range": [63.15, 66.29], "ans": [1]}
+      ]
+    },
+    {"lyric": "Geuraedo balbeodungchigo sipeo", "lyric_hangul": "그래도 발버둥치고 싶어 우", "lyric_translation": "Still, I want to struggle and fight", "range": [66.29, 73.07], "ans": [1]},
+    "",
+    {"lyric": "Maybe I, I can never fly", "lyric_hangul": "Maybe I, I can never fly", "lyric_translation": "Maybe I, I can never fly", "range": [73.07, 79.5], "ans": [1]},
+    {
+      "lyric_hangul": "저기 저 꽃잎들처럼 날갤 단 것처럼은 안 돼 yay",
+      "lyric_translation": "I can’t fly like the flower petals over there / Or as though I have wings",
+      "parts": [
+        {"lyric": "Jeogi jeo kkoccipdeulcheoreom", "range": [79.5, 81.86], "ans": [1]},
+        {"lyric": "Nalgael dan geotcheoreomeun an dwae", "range": [81.86, 86.53], "ans": [1]}
+      ]
+    },
+    {"lyric": "Maybe I, I can’t touch the sky", "lyric_hangul": "Maybe I, I can't touch the sky", "lyric_translation": "Maybe I, I can’t touch the sky", "range": [86.53, 92.92], "ans": [1]},
+    {
+      "lyric_hangul": "그래도 손 뻗고 싶어 달려보고 싶어 조금 더",
+      "lyric_translation": "Still, I want to stretch my hand out / I want to run, just a bit more",
+      "parts": [
+        {"lyric": "Geuraedo son ppeotgo sipeo", "range": [92.92, 95.26], "ans": [1]},
+        {"lyric": "Dallyeobogo sipeo jogeum deo", "range": [95.26, 100.21], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "I eodum sogeul geunyang geotgo tto geotgo isseo", "lyric_hangul": "이 어둠 속을 그냥 걷고 또 걷고 있어", "lyric_translation": "I’m just walking and walking, among this darkness", "range": [100.21, 103.98], "ans": [1]},
+    {"lyric": "Haengbokhaetdeon sigandeuri naege mureosseo", "lyric_hangul": "행복했던 시간들이 내게 물었어", "lyric_translation": "My happy times asked me this question", "range": [103.98, 107.41], "ans": [1]},
+    {
+      "lyric_hangul": "너 넌 정말 괜찮은 거냐고 Oh no",
+      "lyric_translation": "You, are you really okay, it asked me / Oh no",
+      "parts": [
+        {"lyric": "Neo neon jeongmal gwaenchanheun geonyago", "range": [107.41, 110.99], "ans": [1]},
+        {"lyric": "Oh no", "range": [110.99, 113.65], "ans": [1]}
+      ]
+    },
+    {"lyric": "Nan daedaphaesseo ani naneun neomu museowo", "lyric_hangul": "난 대답했어 아니 나는 너무 무서워", "lyric_translation": "I replied, no, I’m so afraid", "range": [113.65, 117.15], "ans": [1]},
+    {"lyric": "Geuraedo yeoseot songi kkocceul sone kkok jwigo", "lyric_hangul": "그래도 여섯 송이 꽃을 손에 꼭 쥐고", "lyric_translation": "Still, I hold the 6 flowers tightly in my hands", "range": [117.15, 120.95], "ans": [1]},
+    {
+      "lyric_hangul": "나 난 걷고 있을 뿐이라고 Oh no",
+      "lyric_translation": "I, I’m just walking, I said / Oh no",
+      "parts": [
+        {"lyric": "Na nan geotgo isseul ppunirago", "range": [120.95, 124.05], "ans": [1]},
+        {"lyric": "Oh no", "range": [124.05, 126.64], "ans": [1]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "But it's my fate (woo-ah), It's my fate (woo-ah)",
+      "lyric_translation": "But it’s my fate / It’s my fate",
+      "parts": [
+        {"lyric": "But it’s my fate", "range": [126.64, 129.84], "ans": [1]},
+        {"lyric": "It’s my fate", "range": [129.84, 133.08], "ans": [1]}
+      ]
+    },
+    {"lyric": "Geuraedo balbeodungchigo sipeo", "lyric_hangul": "그래도 발버둥치고 싶어", "lyric_translation": "Still, I want to struggle and fight", "range": [133.08, 139.68], "ans": [1]},
+    "",
+    {"lyric": "Maybe I, I can never fly", "lyric_hangul": "Maybe I, I can never fly", "lyric_translation": "Maybe I, I can never fly", "range": [139.68, 146.02], "ans": [1]},
+    {
+      "lyric_hangul": "저기 저 꽃잎들처럼 날갤 단 것처럼은 안 돼",
+      "lyric_translation": "I can’t fly like the flower petals over there / Or as though I have wings",
+      "parts": [
+        {"lyric": "Jeogi jeo kkoccipdeulcheoreom", "range": [146.02, 148.54], "ans": [1]},
+        {"lyric": "Nalgael dan geotcheoreomeun an dwae", "range": [148.54, 153.13], "ans": [1]}
+      ]
+    },
+    {"lyric": "Maybe I, I can’t touch the sky", "lyric_hangul": "Maybe I, I can't touch the sky", "lyric_translation": "Maybe I, I can’t touch the sky", "range": [153.13, 159.59], "ans": [1]},
+    {
+      "lyric_hangul": "그래도 손 뻗고 싶어 달려보고 싶어 조금 더",
+      "lyric_translation": "Still, I want to stretch my hand out / I want to run, just a bit more",
+      "parts": [
+        {"lyric": "Geuraedo son ppeotgo sipeo", "range": [159.59, 161.97], "ans": [1]},
+        {"lyric": "Dallyeobogo sipeo jogeum deo", "range": [161.97, 167.13], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Wide awake wide awake wide awake", "lyric_hangul": "Wide awake Wide awake Wide awake", "lyric_translation": "Wide awake wide awake wide awake", "range": [167.13, 170.0], "ans": [1]},
+    {"lyric": "Don’t cry", "lyric_hangul": "Don't cry cry cry", "lyric_translation": "Don’t cry", "range": [170.0, 173.82], "ans": [1]},
+    {"lyric": "Wide awake wide awake wide awake", "lyric_hangul": "Wide awake Wide awake Wide awake", "lyric_translation": "Wide awake wide awake wide awake", "range": [173.82, 176.63], "ans": [1]},
+    {"lyric": "No lie", "lyric_hangul": "No lie No lie No lie No lie ye", "lyric_translation": "No lie", "range": [176.63, 180.58], "ans": [1]},
+    {"lyric": "Wide awake wide awake wide awake", "lyric_hangul": "Wide awake Wide awake Wide awake", "lyric_translation": "Wide awake wide awake wide awake", "range": [180.58, 183.75], "ans": [1]},
+    {"lyric": "Don’t cry", "lyric_hangul": "Don't cry (Don't cry) (Don't cry)", "lyric_translation": "Don’t cry", "range": [183.75, 187.15], "ans": [1]},
+    {"lyric": "Wide awake wide awake wide awake", "lyric_hangul": "Wide awake Wide awake Wide awake", "lyric_translation": "Wide awake wide awake wide awake", "range": [187.15, 189.99], "ans": [1]},
+    {"lyric": "No lie", "lyric_hangul": "No lie lie lie", "lyric_translation": "No lie", "range": [189.99, 193.43], "ans": [1]},
+    "",
+    {"lyric": "Maybe I, I can never fly", "lyric_hangul": "Maybe I, I can never fly", "lyric_translation": "Maybe I, I can never fly", "range": [193.43, 199.47], "ans": [1]},
+    {
+      "lyric_hangul": "저기 저 꽃잎들처럼 날갤 단 것처럼은 안 돼",
+      "lyric_translation": "I can’t fly like the flower petals over there / Or as though I have wings",
+      "parts": [
+        {"lyric": "Jeogi jeo kkoccipdeulcheoreom", "range": [199.47, 201.89], "ans": [1]},
+        {"lyric": "Nalgael dan geoscheoreomeun an dwae", "range": [201.89, 206.76], "ans": [1]}
+      ]
+    },
+    {"lyric": "Maybe I, I can’t touch the sky", "lyric_hangul": "Maybe I, I can't touch the sky", "lyric_translation": "Maybe I, I can’t touch the sky", "range": [206.76, 213.05], "ans": [1]},
+    {
+      "lyric_hangul": "그래도 손 뻗고 싶어 달려보고 싶어 조금 더",
+      "lyric_translation": "Still, I want to stretch my hand out / I want to run, / Just a bit more",
+      "parts": [
+        {"lyric": "Geuraedo son ppeotgo sipeo", "range": [213.05, 215.31], "ans": [1]},
+        {"lyric": "Dallyeobogo sipeo", "range": [215.31, 216.97], "ans": [1]},
+        {"lyric": "Jogeum deo", "range": [216.97, 219.95], "ans": [1]}
+      ]
+    }
+  ]
+}

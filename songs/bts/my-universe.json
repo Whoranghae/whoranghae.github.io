@@ -1,0 +1,108 @@
+{
+  "name": "My Universe\r",
+  "ogg": "sound/kpop/my_universe.ogg",
+  "id": "my-universe",
+  "group": "bts",
+  "language": "ko",
+  "released": "2021-09-24",
+  "album": "My Universe",
+  "cover": "css/images/covers/my-universe.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:02Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "You (you), you are (you are) my universe",
+      "lyric_translation": "You, you are my universe and / My universe",
+      "parts": [
+        {"lyric": "You, you are my universe and", "range": [2.21, 5.49], "ans": []},
+        {"lyric": "My universe", "range": [5.49, 6.06], "ans": []}
+      ]
+    },
+    {"lyric": "I just want to put you first", "lyric_hangul": "And I (I) just want (just want) to put you first", "lyric_translation": "I just want to put you first", "range": [6.06, 10.48], "ans": []},
+    "",
+    {"lyric": "And you, you are my universe, and I…", "lyric_hangul": "And you (you), you are (you are) my universe, and I", "lyric_translation": "And you, you are my universe, and I…", "range": [10.48, 22.29], "ans": []},
+    {"lyric": "In the night I lie and look up at you", "lyric_hangul": "In the night, I lie and look up at you", "lyric_translation": "In the night I lie and look up at you", "range": [22.29, 26.97], "ans": []},
+    {"lyric": "When the morning comes I watch you rise", "lyric_hangul": "When the morning comes, I watch you rise", "lyric_translation": "When the morning comes I watch you rise", "range": [26.97, 31.1], "ans": []},
+    {"lyric": "There’s a paradise they couldn’t capture", "lyric_hangul": "There's a paradise they couldn't capture", "lyric_translation": "There’s a paradise they couldn’t capture", "range": [31.1, 34.73], "ans": []},
+    "",
+    {"lyric": "That bright infinity inside your eyes", "lyric_hangul": "That bright infinity inside your eyes", "lyric_translation": "That bright infinity inside your eyes", "range": [34.73, 38.33], "ans": []},
+    {"lyric": "Maeil bam nege naraga (ga)", "lyric_hangul": "매일 밤 네게 날아가 (가)", "lyric_translation": "Every night, I’m flying over to you", "range": [38.33, 40.31], "ans": [7]},
+    {"lyric": "Kkumiran geotto ijeun chae", "lyric_hangul": "꿈이란 것도 잊은 채", "lyric_translation": "Forgetting that this is even a dream", "range": [40.31, 42.54], "ans": [7]},
+    {"lyric": "Na useumyeo neoreul manna (na)", "lyric_hangul": "나 웃으며 너를 만나 (나)", "lyric_translation": "I’m seeing you with a smile", "range": [42.54, 45.14], "ans": [7]},
+    "",
+    {"lyric": "Never ending forever baby", "lyric_hangul": "Never-ending forever, baby", "lyric_translation": "Never ending forever baby", "range": [45.14, 47.95], "ans": [7]},
+    {"lyric": "You, you are my universe and", "lyric_hangul": "You (you), you are (you are) my universe", "lyric_translation": "You, you are my universe and", "range": [47.95, 51.95], "ans": []},
+    {"lyric": "I just want to put you first", "lyric_hangul": "And I (I) just want (just want) to put you first", "lyric_translation": "I just want to put you first", "range": [51.95, 56.75], "ans": []},
+    {"lyric": "And you, you are my universe, and", "lyric_hangul": "And you (you), you are (you are) my universe", "lyric_translation": "And you, you are my universe, and", "range": [56.75, 60.25], "ans": []},
+    "",
+    {"lyric": "You make my world light up inside", "lyric_hangul": "And you make my world light up inside", "lyric_translation": "You make my world light up inside", "range": [60.25, 67.78], "ans": []},
+    {"lyric": "Eodumi naegen deo pyeonhaesseotji", "lyric_hangul": "어둠이 내겐 더 편했었지", "lyric_translation": "I was more comfortable in the darkness", "range": [67.78, 72.56], "ans": [6]},
+    "",
+    {"lyric": "Gireojin geurimja sogeseo (eyes)", "lyric_hangul": "길어진 그림자 속에서 (eyes)", "lyric_translation": "Being in the long shadows (eyes)", "range": [72.56, 76.82], "ans": [6]},
+    {"lyric": "And they said that we can’t be together", "lyric_hangul": "And they said that we can't be together", "lyric_translation": "And they said that we can’t be together", "range": [76.82, 80.39], "ans": [4]},
+    {
+      "lyric_hangul": "Because, because we come from different sides",
+      "lyric_translation": "Because / Because we come from different sides",
+      "parts": [
+        {"lyric": "Because", "range": [80.39, 81.95], "ans": [4]},
+        {"lyric": "Because we come from different sides", "range": [81.25, 84.28], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "You, you are my universe and", "lyric_hangul": "You (you), you are (you are) my universe", "lyric_translation": "You, you are my universe and", "range": [84.28, 88.23], "ans": []},
+    {"lyric": "I just want to put you first", "lyric_hangul": "And I (I) just want (just want) to put you first", "lyric_translation": "I just want to put you first", "range": [88.23, 93.5], "ans": []},
+    {"lyric": "And you, you are my universe, and", "lyric_hangul": "And you (you), you are (you are) my universe", "lyric_translation": "And you, you are my universe, and", "range": [93.5, 96.82], "ans": []},
+    "",
+    {"lyric": "You make my world light up inside", "lyric_hangul": "And you make my world light up inside", "lyric_translation": "You make my world light up inside", "range": [96.82, 101.53], "ans": []},
+    {"lyric": "My universe (do do, do do)", "lyric_hangul": "My universe (doo-doo, doo-doo)", "lyric_translation": "My universe (do do, do do)", "range": [101.53, 105.98], "ans": []},
+    {"lyric": "My universe (do do, do do)", "lyric_hangul": "My universe (doo-doo, doo-doo)", "lyric_translation": "My universe (do do, do do)", "range": [105.98, 110.49], "ans": []},
+    {
+      "lyric_hangul": "My universe (doo-doo, doo-doo)",
+      "lyric_translation": "My universe (do do, do do) / (you make my world)",
+      "parts": [
+        {"lyric": "My universe (do do, do do)", "range": [110.49, 113.23], "ans": []},
+        {"lyric": "(you make my world)", "range": [113.23, 115.05], "ans": []}
+      ]
+    },
+    {"lyric": "(You make my world)", "lyric_hangul": "(You make my world)", "lyric_translation": "", "range": [115.05, 115.89], "ans": []},
+    "",
+    "[next-col]",
+    {"lyric": "You make my world light up inside", "lyric_hangul": "You make my world light up inside", "lyric_translation": "You make my world light up inside", "range": [115.89, 118.13], "ans": []},
+    "",
+    {"lyric": "Make my world light up inside", "lyric_hangul": "You make my world light up inside", "lyric_translation": "Make my world light up inside", "range": [118.13, 121.17], "ans": []},
+    {"lyric": "Nareul balkhyeojuneun geon", "lyric_hangul": "나를 밝혀주는 건", "lyric_translation": "What shines on me", "range": [121.17, 122.96], "ans": [3]},
+    {"lyric": "Neoran sarangeuro su nohajin byeol", "lyric_hangul": "너란 사랑으로 수 놓아진 별", "lyric_translation": "Are the stars that were placed there by your love", "range": [122.96, 125.95], "ans": [3]},
+    {"lyric": "Nae ujuye neon", "lyric_hangul": "내 우주의 넌", "lyric_translation": "In my universe", "range": [125.95, 127.53], "ans": [3]},
+    "",
+    {"lyric": "Tto dareun sesangeul mandeureo juneun geol", "lyric_hangul": "또 다른 세상을 만들어 주는 걸", "lyric_translation": "You’ve created a whole new world", "range": [127.53, 129.55], "ans": [3]},
+    {"lyric": "Neoneun nae byeolija naye ujunikka", "lyric_hangul": "너는 내 별이자 나의 우주니까", "lyric_translation": "You’re my star, my universe", "range": [129.55, 131.84], "ans": [2]},
+    {"lyric": "Jigeum i shiryeondo gyeolgugen jamshinikka", "lyric_hangul": "지금 이 시련도 결국엔 잠시니까", "lyric_translation": "These hardships are only momentary", "range": [131.84, 134.11], "ans": [2]},
+    {
+      "lyric_hangul": "너는 언제까지나 지금처럼 밝게만 빛나줘",
+      "lyric_translation": "So just shine brightly for me just like now, / until always",
+      "parts": [
+        {"lyric": "Neoneun eonjekkajina", "range": [134.11, 135.45], "ans": [2]},
+        {"lyric": "Jigeumcheoreom balkgeman binnajweo", "range": [135.45, 136.97], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Urineun neoreul ttara i gin bameul sunoheul geoya", "lyric_hangul": "우리는 너를 따라 이 긴 밤을 수놓을 거야", "lyric_translation": "We will be laid across the long night, just like you", "range": [136.91, 139.07], "ans": [2]},
+    {"lyric": "Neowa hamkke naraga (ga)", "lyric_hangul": "너와 함께 날아가 (가)", "lyric_translation": "I’m flying with you", "range": [139.07, 141.45], "ans": [7]},
+    {"lyric": "When I’m without you I’m crazy", "lyric_hangul": "When I'm without you, I'm crazy", "lyric_translation": "When I’m without you I’m crazy", "range": [141.45, 143.24], "ans": [7]},
+    {"lyric": "Ja eoseo nae soneul jaba (a)", "lyric_hangul": "자 어서 내 손을 잡아 (아)", "lyric_translation": "Now hurry and hold my hand", "range": [143.24, 145.89], "ans": [5, 7]},
+    "",
+    {"lyric": "We are made of each other baby", "lyric_hangul": "We are made of each other, baby", "lyric_translation": "We are made of each other baby", "range": [145.89, 148.25], "ans": []},
+    {"lyric": "You, you are my universe and", "lyric_hangul": "You (you), you are (you are) my universe", "lyric_translation": "You, you are my universe and", "range": [148.25, 152.03], "ans": []},
+    {"lyric": "I just want to put you first", "lyric_hangul": "And I (I) just want (just want) to put you first", "lyric_translation": "I just want to put you first", "range": [152.03, 157.42], "ans": []},
+    {"lyric": "And you, you are my universe, and", "lyric_hangul": "And you (you), you are (you are) my universe", "lyric_translation": "And you, you are my universe, and", "range": [157.42, 160.67], "ans": []},
+    "",
+    {"lyric": "You make my world light up inside", "lyric_hangul": "And you make my world light up inside", "lyric_translation": "You make my world light up inside", "range": [160.67, 165.57], "ans": []},
+    {"lyric": "My universe (you, you are)", "lyric_hangul": "My universe (you, you are)", "lyric_translation": "My universe (you, you are)", "range": [165.57, 170.09], "ans": []},
+    {"lyric": "My universe (I just want)", "lyric_hangul": "My universe (I just want)", "lyric_translation": "My universe (I just want)", "range": [170.09, 174.69], "ans": []},
+    {"lyric": "My universe (you, you are)", "lyric_hangul": "My universe (you, you are my universe, and I)", "lyric_translation": "My universe (you, you are)", "range": [174.69, 183.22], "ans": []},
+    "",
+    {"lyric": "My universe, and I", "lyric_hangul": "My universe", "lyric_translation": "My universe, and I", "range": [183.22, 186.08], "ans": []}
+  ]
+}

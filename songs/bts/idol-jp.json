@@ -1,0 +1,214 @@
+{
+  "name": "IDOL (Japanese Ver.)\r",
+  "ogg": "sound/kpop/idol_jp.ogg",
+  "id": "idol-jp",
+  "group": "bts",
+  "language": "ja",
+  "released": "2020-07-15",
+  "album": "Map Of The Soul 7:The Journey",
+  "cover": "css/images/covers/idol-jp.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:53Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "You can call me artist", "lyric_hangul": "You can call me artist (artist)", "lyric_translation": "N/A", "range": [14.79, 16.56], "ans": [4]},
+    {"lyric": "You can call me idol", "lyric_hangul": "You can call me idol (idol)", "lyric_translation": "", "range": [16.56, 18.34], "ans": [4]},
+    {"lyric": "Dō yobareta tte kamawanai", "lyric_hangul": "どう呼ばれたって 構わない", "lyric_translation": "", "range": [18.34, 20.79], "ans": [4]},
+    {"lyric": "I don’ t care", "lyric_hangul": "I don't care", "lyric_translation": "", "range": [20.79, 23.05], "ans": [4]},
+    {"lyric": "I’ m proud of it", "lyric_hangul": "I'm proud of it (proud of it)", "lyric_translation": "", "range": [23.05, 24.43], "ans": [3]},
+    {"lyric": "Yaritai yō ni", "lyric_hangul": "やりたいように", "lyric_translation": "", "range": [24.43, 26.58], "ans": [3]},
+    {"lyric": "No more irony", "lyric_hangul": "No more irony (irony)", "lyric_translation": "", "range": [26.58, 27.66], "ans": [3]},
+    {"lyric": "Kawarazukita sutōrī", "lyric_hangul": "変わらず来たストーリー", "lyric_translation": "", "range": [27.66, 29.59], "ans": [3]},
+    "",
+    {"lyric": "Nan da tte ī dare ka no ushiroyubi nante", "lyric_hangul": "なんだっていい 誰かの後ろ指なんて", "lyric_translation": "", "range": [29.59, 33.49], "ans": [2]},
+    {"lyric": "Ki ni shinai kara sono riyū ga nan da tte", "lyric_hangul": "気にしないから その理由がなんだって", "lyric_translation": "", "range": [33.49, 37.79], "ans": [2]},
+    {"lyric": "I know what I am", "lyric_hangul": "I know what I am (I know what I am)", "lyric_translation": "", "range": [37.79, 39.21], "ans": [4]},
+    {"lyric": "I know what I want", "lyric_hangul": "I know what I want (I know what I want)", "lyric_translation": "", "range": [39.21, 41.13], "ans": [4]},
+    {"lyric": "I never gon’ change", "lyric_hangul": "I never gon' change (I never gon' change)", "lyric_translation": "", "range": [41.13, 43.41], "ans": [4]},
+    {
+      "lyric_hangul": "I never gon' trade",
+      "parts": [
+        {"lyric": "I never gon’ trade", "range": [43.41, 44.09], "ans": [4]},
+        {"lyric": "(Trade off)", "range": [44.09, 44.47], "ans": [4]}
+      ]
+    },
+    {"lyric": "(Trade off, uh, uh)", "lyric_hangul": "(Trade off, uh, uh)", "lyric_translation": "", "range": [44.26, 45.72], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Oh why you all 何を騒いでるの？",
+      "parts": [
+        {"lyric": "Oh why you all nan o sawaideru no？", "range": [45.72, 47.24], "ans": [6]},
+        {"lyric": "Talkin’ talkin’ talkin’", "range": [48.12, 50.27], "ans": [4]}
+      ]
+    },
+    {"lyric": "(Talkin', talkin', talkin')", "lyric_hangul": "(Talkin', talkin', talkin')", "lyric_translation": "", "range": [50.27, 52.65], "ans": []},
+    {
+      "lyric_hangul": "I do what I do だから構うなもう",
+      "parts": [
+        {"lyric": "I do what I do da kara kamauna mō", "range": [52.65, 55.84], "ans": [5]},
+        {"lyric": "Dirty dirty", "range": [55.14, 58.8], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "You can't stop me lovin' myself",
+      "parts": [
+        {"lyric": "You can’ t stop me lovin’ myself", "range": [58.8, 59.83], "ans": [5]},
+        {"lyric": "Hoo hoo", "range": [59.13, 60.61], "ans": [7]},
+        {"lyric": "Eolssu joda", "range": [59.91, 62.42], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You can't stop me lovin' myself",
+      "parts": [
+        {"lyric": "You can’ t stop me lovin’ myself", "range": [66.32, 67.45], "ans": [5]},
+        {"lyric": "Hoo hoo", "range": [66.75, 68.25], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [67.55, 70.33], "ans": [4]}
+      ]
+    },
+    {"lyric": "You can’ t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "", "range": [73.92, 76.36], "ans": [5]},
+    {"lyric": "Oh, oh, oh-woah", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [76.36, 78.06], "ans": []},
+    "",
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, oh-woah, oh-woah", "lyric_translation": "", "range": [78.06, 80.49], "ans": []},
+    {"lyric": "Oh, oh, oh-woah", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [80.49, 81.85], "ans": []},
+    {"lyric": "トンギドッ クンドロロ", "lyric_hangul": "トンギドッ クンドロロ", "lyric_translation": "", "range": [81.85, 83.18], "ans": [7]},
+    {"lyric": "オルッス", "lyric_hangul": "オルッス", "lyric_translation": "", "range": [83.18, 84.29], "ans": [3]},
+    {"lyric": "OHOHOHOHOHOH", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [84.29, 85.69], "ans": []},
+    {"lyric": "Oh, oh, oh-woah, oh-woah", "lyric_hangul": "Oh, oh, oh-woah, oh-woah", "lyric_translation": "", "range": [85.69, 87.84], "ans": []},
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [87.84, 89.24], "ans": []},
+    "",
+    {"lyric": "Tongido kundororo", "lyric_hangul": "トンギドッ クンドロロ", "lyric_translation": "", "range": [89.24, 90.74], "ans": [7]},
+    {
+      "lyric_hangul": "オルッス",
+      "parts": [
+        {"lyric": "Oru ssu", "range": [90.74, 91.13], "ans": [4]},
+        {"lyric": "OHOHOHOH", "range": [90.79, 91.18], "ans": []},
+        {"lyric": "OHOHOHOHOHOH", "range": [91.18, 91.68], "ans": []},
+        {"lyric": "OHOHOHOH", "range": [91.4, 91.9], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Face off just like John woo ay", "lyric_hangul": "Face off just like ジョン・ウー ayy", "lyric_translation": "", "range": [91.24, 93.46], "ans": [3]},
+    {"lyric": "Top star with that spotlight ay", "lyric_hangul": "Top star with that spotlight, ayy", "lyric_translation": "", "range": [93.46, 94.94], "ans": [3]},
+    {"lyric": "Toki ni sūpā hīrō ni natte", "lyric_hangul": "時にスーパーヒーローになって", "lyric_translation": "", "range": [94.94, 96.71], "ans": [3]},
+    {"lyric": "Mawasu kimi noAnpanman", "lyric_hangul": "回す君のAnpanman", "lyric_translation": "", "range": [96.71, 99.37], "ans": [3]},
+    {"lyric": "Jikan tarinai", "lyric_hangul": "時間 足りない", "lyric_translation": "", "range": [99.37, 100.82], "ans": [2]},
+    {"lyric": "Mayou hima sura nai", "lyric_hangul": "迷う暇すらない", "lyric_translation": "", "range": [100.82, 103.62], "ans": [2]},
+    {"lyric": "I do my thang", "lyric_hangul": "I do my thang (I do my thang)", "lyric_translation": "", "range": [103.62, 105.24], "ans": [2]},
+    {"lyric": "I love myself", "lyric_hangul": "I love myself (I love myself)", "lyric_translation": "", "range": [105.24, 106.46], "ans": [2]},
+    "",
+    {"lyric": "I love myself I love my fans", "lyric_hangul": "I love myself (I love myself) I love my fans", "lyric_translation": "", "range": [106.46, 108.47], "ans": [7]},
+    {"lyric": "Love my dance and my what", "lyric_hangul": "Love my dance and my what", "lyric_translation": "", "range": [108.47, 109.89], "ans": [7]},
+    {"lyric": "Ore no naka ni ironna jibun ga nan-nin mo iru", "lyric_hangul": "俺の中に 色んな自分が何人もいる", "lyric_translation": "", "range": [109.89, 113.58], "ans": [7]},
+    {"lyric": "Kyō mo chigau jibun ga ite", "lyric_hangul": "今日も違う自分がいて", "lyric_translation": "", "range": [113.58, 115.62], "ans": [6]},
+    {"lyric": "Jibun o sarakedashite iku", "lyric_hangul": "自分をさらけ出していく", "lyric_translation": "", "range": [115.62, 117.42], "ans": [6]},
+    {"lyric": "Nayamanai ze saki e", "lyric_hangul": "悩まないぜ先へ", "lyric_translation": "", "range": [117.42, 119.4], "ans": [6]},
+    {"lyric": "Runnin’ man", "lyric_hangul": "Runnin' man", "lyric_translation": "", "range": [119.4, 120.0], "ans": [6]},
+    {"lyric": "Runnin’ man", "lyric_hangul": "Runnin' man", "lyric_translation": "", "range": [120.0, 120.8], "ans": [6]},
+    {"lyric": "Runnin’ man", "lyric_hangul": "Runnin' man", "lyric_translation": "", "range": [120.8, 122.2], "ans": [6]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Oh why you all 何を騒いでるの？",
+      "parts": [
+        {"lyric": "Oh why you all nan o sawaideru no？", "range": [122.2, 123.5], "ans": [1]},
+        {"lyric": "Talkin talkin talkin", "range": [124.26, 126.38], "ans": [2]}
+      ]
+    },
+    {"lyric": "(Talkin', talkin', talkin')", "lyric_hangul": "(Talkin', talkin', talkin')", "lyric_translation": "", "range": [126.38, 129.03], "ans": []},
+    {
+      "lyric_hangul": "I do what I do だから構うなもう",
+      "parts": [
+        {"lyric": "I do what I do da kara kamauna mō", "range": [129.03, 131.74], "ans": [7]},
+        {"lyric": "Dirty dirty", "range": [131.04, 134.96], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "You can't stop me lovin' myself",
+      "parts": [
+        {"lyric": "You can’ t stop me lovin’ myself", "range": [134.96, 136.03], "ans": [5]},
+        {"lyric": "Hoo hoo", "range": [135.33, 136.79], "ans": [7]},
+        {"lyric": "Eolssu joda", "range": [136.09, 138.7], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You can't stop me lovin' myself",
+      "parts": [
+        {"lyric": "You can’t stop me lovin’myself", "range": [142.53, 143.64], "ans": [5]},
+        {"lyric": "Hoo hoo", "range": [142.94, 144.54], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [143.84, 146.35], "ans": [3]}
+      ]
+    },
+    {"lyric": "You can’ t stop me lovin’ myself", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "", "range": [150.06, 152.57], "ans": [5]},
+    {"lyric": "Oh, oh, oh-woah", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [152.57, 154.46], "ans": []},
+    "",
+    {"lyric": "OHOHOHOHOHOH", "lyric_hangul": "Oh, oh, oh-woah, oh-woah", "lyric_translation": "", "range": [154.46, 156.48], "ans": []},
+    {"lyric": "Oh, oh, oh-woah", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [156.48, 157.96], "ans": []},
+    {"lyric": "Tongido kundororo", "lyric_hangul": "トンギドッ クンドロロ", "lyric_translation": "", "range": [157.96, 159.42], "ans": [7]},
+    {"lyric": "Oru ssu", "lyric_hangul": "オルッス", "lyric_translation": "", "range": [159.42, 160.41], "ans": [4]},
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [160.41, 162.11], "ans": []},
+    {"lyric": "Oh, oh, oh-woah, oh-woah", "lyric_hangul": "Oh, oh, oh-woah, oh-woah", "lyric_translation": "", "range": [162.11, 164.04], "ans": []},
+    {"lyric": "Tongido kundororo", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [164.04, 165.68], "ans": []},
+    "",
+    {"lyric": "Oru ssu", "lyric_hangul": "トンギドッ クンドロロ", "lyric_translation": "", "range": [165.68, 166.85], "ans": [7]},
+    {
+      "lyric_hangul": "オルッス",
+      "parts": [
+        {"lyric": "オルッス", "range": [166.85, 167.52], "ans": [3]},
+        {"lyric": "OHOHOHOHOHOH", "range": [166.9, 167.57], "ans": []},
+        {"lyric": "OHOHOHOH", "range": [167.57, 167.93], "ans": []},
+        {"lyric": "Tongido kundororo", "range": [167.93, 168.29], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm so fine wherever I go (I go, I go)",
+      "parts": [
+        {"lyric": "I’m so fine wherever I go", "range": [168.05, 170.06], "ans": [5]},
+        {"lyric": "Go go go go", "range": [169.36, 171.46], "ans": [7]}
+      ]
+    },
+    {"lyric": "It’ s okay I’ m in love with my myself", "lyric_hangul": "例え遠回りでも", "lyric_translation": "", "range": [171.32, 174.82], "ans": [5]},
+    {"lyric": "[Jin/Jimin] It’ s okay ima ga shiawase", "lyric_hangul": "It's okay, I'm in love with my-my myself", "lyric_translation": "", "range": [174.82, 178.13], "ans": [1]},
+    {
+      "lyric_hangul": "It's okay 今が幸せ",
+      "parts": [
+        {"lyric": "(Hoo hoo) eolssu joda", "range": [178.13, 179.56], "ans": [1, 5]},
+        {"lyric": "Hoo hoo", "range": [178.86, 181.17], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [180.47, 184.42], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You can't stop me lovin' myself",
+      "parts": [
+        {"lyric": "You can’ t stop me lovin’ myself", "range": [188.35, 189.34], "ans": [5]},
+        {"lyric": "Hoo hoo", "range": [188.64, 190.33], "ans": [7]},
+        {"lyric": "Jihwaja joda", "range": [189.63, 192.03], "ans": [2]}
+      ]
+    },
+    {"lyric": "OHOHOHOH", "lyric_hangul": "You can't stop me lovin' myself", "lyric_translation": "", "range": [195.83, 198.37], "ans": [5]},
+    {"lyric": "Oh, oh, oh-woah", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [198.37, 200.15], "ans": []},
+    "",
+    {"lyric": "OHOHOHOH", "lyric_hangul": "Oh, oh, oh-woah, oh-woah", "lyric_translation": "", "range": [200.15, 202.16], "ans": []},
+    {"lyric": "Oh, oh, oh-woah", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [202.16, 203.66], "ans": []},
+    {"lyric": "Oru ssu", "lyric_hangul": "トンギドッ クンドロロ", "lyric_translation": "", "range": [203.66, 204.85], "ans": [7]},
+    {"lyric": "オルッス", "lyric_hangul": "オルッス", "lyric_translation": "", "range": [204.85, 206.16], "ans": [3]},
+    {"lyric": "Tongido kundororo", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [206.16, 207.82], "ans": []},
+    {"lyric": "Oh, oh, oh-woah, oh-woah", "lyric_hangul": "Oh, oh, oh-woah, oh-woah", "lyric_translation": "", "range": [207.82, 209.85], "ans": []},
+    {"lyric": "Oru ssu", "lyric_hangul": "Oh, oh, oh-woah", "lyric_translation": "", "range": [209.85, 211.23], "ans": []},
+    "",
+    {"lyric": "トンギドッ クンドロロ", "lyric_hangul": "トンギドッ クンドロロ", "lyric_translation": "", "range": [211.23, 212.75], "ans": [7]},
+    {
+      "lyric_hangul": "オルッス",
+      "parts": [
+        {"lyric": "OHOHOHOH", "range": [212.75, 213.09], "ans": [3]},
+        {"lyric": "OHOHOHOH", "range": [212.8, 213.24], "ans": []},
+        {"lyric": "Tongido kundororo", "range": [213.14, 213.64], "ans": []},
+        {"lyric": "Oru ssu", "range": [213.34, 215.53], "ans": []}
+      ]
+    }
+  ]
+}

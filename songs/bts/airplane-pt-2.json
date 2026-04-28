@@ -1,0 +1,232 @@
+{
+  "name": "Airplane Pt. 2\r",
+  "ogg": "sound/kpop/airplane_pt_2.ogg",
+  "id": "airplane-pt-2",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/airplane-pt-2.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "이상한 꼬마 숨 쉬듯 노래했네",
+      "lyric_translation": "A strange little boy / He sang like he breathed",
+      "parts": [
+        {"lyric": "Isanghan kkoma", "range": [19.4, 21.02], "ans": [7]},
+        {"lyric": "Sumshwideut noraehaetne", "range": [21.02, 23.3], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "어디든 좋아 음악이 하고 싶었네",
+      "lyric_translation": "It didn’t matter where / He just wanted to do music",
+      "parts": [
+        {"lyric": "Eodideun joa", "range": [22.8, 24.28], "ans": [7]},
+        {"lyric": "Eumagi hago shipeotne", "range": [24.28, 26.76], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "오직 노래 심장을 뛰게 하던 thing",
+      "lyric_translation": "Only singing / Was the thing that made his heart race",
+      "parts": [
+        {"lyric": "Ojik norae", "range": [26.56, 27.76], "ans": [7]},
+        {"lyric": "Shimjangeul ttwige hadeon thing", "range": [27.76, 30.28], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "하나뿐이던 길을 걸었지만",
+      "lyric_translation": "He only walked / On one path but",
+      "parts": [
+        {"lyric": "Hanappunideon", "range": [29.93, 31.35], "ans": [7]},
+        {"lyric": "Gireul georeotjiman", "range": [31.35, 32.89], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "쉽지 않아 실패와 절망",
+      "lyric_translation": "It’s not easy / Failures and despair",
+      "parts": [
+        {"lyric": "Shwipji ana", "range": [32.36, 33.7], "ans": [5]},
+        {"lyric": "Shilpaewa jeolmang", "range": [33.7, 35.82], "ans": [5]}
+      ]
+    },
+    {"lyric": "Jichin nal nugunga bulleo sewo geonnen mal", "lyric_hangul": "지친 날 누군가 불러 세워 건넨 말", "lyric_translation": "But on a tired day, someone said", "range": [35.72, 39.37], "ans": [5]},
+    {"lyric": "You’re a singing star", "lyric_hangul": "You're a singing star, you're a singing star", "lyric_translation": "You’re a singing star / You’re a singing star", "range": [39.37, 42.21], "ans": [6]},
+    {
+      "lyric_hangul": "But I see no star 몇 년이 흘러가 버린 뒤",
+      "lyric_translation": "But I see no star / After a few years passed",
+      "parts": [
+        {"lyric": "But I see no star", "range": [42.15, 45.31], "ans": [6]},
+        {"lyric": "Myeot nyeoni heulleogabeorin dwi", "range": [45.31, 47.25], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(We still) sky high, sky fly, sky dope",
+      "lyric_translation": "(We still) Sky high, sky fly, sky dope",
+      "parts": [
+        {"lyric": "(We still)", "range": [46.58, 48.51], "ans": [1]},
+        {"lyric": "Sky high, sky fly, sky dope", "range": [47.81, 50.37], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We still) same try, same scar, same work",
+      "lyric_translation": "(We still) Same try, same scar, same work",
+      "parts": [
+        {"lyric": "(We still)", "range": [50.37, 51.43], "ans": [1]},
+        {"lyric": "Same try, same scar, same work", "range": [50.73, 53.66], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We still) 세상 어딜 가도",
+      "lyric_translation": "(We still) Wherever we go in the world",
+      "parts": [
+        {"lyric": "(We still)", "range": [53.66, 54.98], "ans": [1]},
+        {"lyric": "Sesang eodil gado", "range": [54.28, 57.07], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We still) 호텔 방서 작업",
+      "lyric_translation": "(We still) We’re working in our hotel rooms",
+      "parts": [
+        {"lyric": "(We still)", "range": [57.07, 57.67], "ans": [1]},
+        {"lyric": "Hotelbangseo jageob", "range": [58.21, 60.16], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(I still) 하루는 너무 잘 돼, 그 다음날은 망해",
+      "lyric_translation": "(I still) Some days, it’s so good, / some days, not so good",
+      "parts": [
+        {"lyric": "(I still)", "range": [60.16, 61.52], "ans": [1]},
+        {"lyric": "Haruneun neomu jal dwae", "range": [60.82, 62.51], "ans": [4]},
+        {"lyric": "Geu daeumnareun manghae", "range": [62.51, 63.66], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(I still) 오늘은 뭐로 살지? 김남준 아님 RM",
+      "lyric_translation": "(I still) Who should I live as today, Kim Namjoon or RM?",
+      "parts": [
+        {"lyric": "(I still)", "range": [63.2, 64.99], "ans": [1]},
+        {"lyric": "Oneureun mworo salji gimnamjun anim RM?", "range": [64.29, 66.96], "ans": [4]}
+      ]
+    },
+    {"lyric": "Seumuldaseot jal saneun beobeun ajikdo moreugesseo", "lyric_hangul": "25 잘 사는 법은 아직도 모르겠어", "lyric_translation": "25, I still don’t know how to live well", "range": [66.61, 70.05], "ans": [4]},
+    {"lyric": "Geureoni oneuldo urineun geunyang go", "lyric_hangul": "그러니 오늘도 우리는 그냥 go", "lyric_translation": "So today, let’s just go", "range": [70.05, 73.02], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "We goin' from NY to Cali, London to Paris",
+      "lyric_translation": "We goin’ from NY to Cali / London to Paris",
+      "parts": [
+        {"lyric": "We goin’ from NY to Cali", "range": [73.02, 75.4], "ans": [5]},
+        {"lyric": "London to Paris", "range": [75.4, 76.84], "ans": [5]}
+      ]
+    },
+    {"lyric": "Uriga ganeun geu goshi eodideun party", "lyric_hangul": "우리가 가는 그 곳이 어디든 party", "lyric_translation": "Wherever we go, that place is party", "range": [76.59, 80.25], "ans": [5]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El mariachi, el mariachi, el mariachi (uh, uh)", "lyric_translation": "El Mariachi / El Mariachi / El Mariachi", "range": [80.25, 86.55], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "We goin' from Tokyo, Italy, Hong Kong to Brazil",
+      "lyric_translation": "We goin’ from Tokyo, Italy / Hong Kong to Brazil",
+      "parts": [
+        {"lyric": "We goin’ from Tokyo, Italy", "range": [86.11, 89.51], "ans": [7]},
+        {"lyric": "Hong Kong to Brazil", "range": [89.21, 90.31], "ans": [7]}
+      ]
+    },
+    {"lyric": "I segye eodiseorado nan noraehari", "lyric_hangul": "이 세계 어디서라도 난 노래하리", "lyric_translation": "Wherever in the world, I will sing", "range": [90.22, 94.08], "ans": [7]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El mariachi, el mariachi, el mariachi", "lyric_translation": "El Mariachi / El Mariachi / El Mariachi", "range": [94.08, 100.03], "ans": [7]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El mariachi", "lyric_translation": "El Mariachi", "range": [100.03, 103.85], "ans": [7]},
+    "",
+    "[next-col]",
+    {"lyric": "Gureum wireul maeil gureum wireul maeil", "lyric_hangul": "구름 위를 매일, 구름 위를 매일 (ayy, oh)", "lyric_translation": "Walking on clouds every day", "range": [115.56, 119.18], "ans": [3]},
+    {"lyric": "Gureum wie nae feel gureum wie check it", "lyric_hangul": "구름 위에 내 feel, 구름 위에 check it (ayy, oh)", "lyric_translation": "I’m feeling it on the clouds, check it on the clouds", "range": [119.18, 122.46], "ans": [3]},
+    {"lyric": "Gureumgwaye kemi gureumgwa haru jongil", "lyric_hangul": "구름과의 케미, 구름과 하루 종일 (ayy. ah)", "lyric_translation": "A cloudy chemistry, all day with the clouds", "range": [122.46, 126.09], "ans": [3]},
+    {
+      "lyric_hangul": "구름 타는 재미, 구름 보며 fade in, 너흰 몰라 maybe",
+      "lyric_translation": "Having fun riding clouds, looking at clouds and fade in / You guys don’t know, maybe",
+      "parts": [
+        {"lyric": "Gureum taneun jaemi, gureum bomyeo fade in", "range": [126.09, 128.24], "ans": [3]},
+        {"lyric": "Neohin molla maybe", "range": [128.24, 128.97], "ans": [3]}
+      ]
+    },
+    {"lyric": "Myeot nyeon dongane bihaeng tase", "lyric_hangul": "몇 년 동안의 비행 탓에", "lyric_translation": "Been riding airplanes for the past few years", "range": [128.97, 130.9], "ans": [3]},
+    {"lyric": "Maillijiman myeot shipman dae", "lyric_hangul": "마일리지만 몇 십만 대", "lyric_translation": "Mileage is way over tens of thousands", "range": [130.9, 132.26], "ans": [3]},
+    {"lyric": "Mot irun neohideureul wirohaejul ttaeya", "lyric_hangul": "못 이룬 너희들을 위로해줄 때야", "lyric_translation": "It’s time to go to you and comfort you", "range": [132.26, 133.57], "ans": [3]},
+    {"lyric": "Geu bihaeng pointeuro seonmul halge", "lyric_hangul": "그 비행 포인트로 선물 할게", "lyric_translation": "I’ll give it to you with those mileage points", "range": [133.57, 135.25], "ans": [3]},
+    {"lyric": "Love eeopeullein modeu shingyeongeun da off", "lyric_hangul": "Love 에어플레인 모드", "lyric_translation": "Love, airplane mode, take your mind off of everything", "range": [135.25, 136.57], "ans": [3]},
+    {"lyric": "Geu nugudeunji mworadeon", "lyric_hangul": "신경은 다 off 그 누구든지 뭐라던", "lyric_translation": "Whoever it is, whatever they say", "range": [136.57, 138.83], "ans": [3]},
+    {"lyric": "Geujeo gyesok peoseuteureul jikimyeo", "lyric_hangul": "그저 계속 퍼스트를 지키며", "lyric_translation": "Just keep protecting what’s first", "range": [138.83, 140.2], "ans": [3]},
+    {"lyric": "Bam haneureul bolge jigeum nae jarie matchwo", "lyric_hangul": "밤 하늘을 볼게 지금 내 자리에 맞춰", "lyric_translation": "Look at the night sky, I’m adjusting my seat", "range": [140.2, 142.96], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "I don't know, I don't know, I don't know, I don't know",
+      "lyric_translation": "I don’t know, I don’t know, I don’t know, I don’t know / How to stop",
+      "parts": [
+        {"lyric": "I don’t know, I don’t know, I don’t know, I don’t know", "range": [142.96, 144.73], "ans": [5]},
+        {"lyric": "Geurae meomchuneun beobdo", "range": [144.03, 145.19], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't know, I don't know, I don't know, I don't know",
+      "lyric_translation": "I don’t know, I don’t know, I don’t know, I don’t know / How to rest",
+      "parts": [
+        {"lyric": "I don’t know, I don’t know, I don’t know, I don’t know", "range": [146.3, 148.59], "ans": [5]},
+        {"lyric": "Geurae jom shwineun beobdo", "range": [147.89, 149.28], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't know, I don't know, I don't know, I don't know",
+      "lyric_translation": "I don’t know, I don’t know, I don’t know, I don’t know / How to fail",
+      "parts": [
+        {"lyric": "I don’t know, I don’t know, I don’t know, I don’t know", "range": [149.82, 151.59], "ans": [5]},
+        {"lyric": "Shilpaehaneun beobdo", "range": [150.89, 152.02], "ans": [2]}
+      ]
+    },
+    {"lyric": "I don’t know, I don’t know, I don’t know, I don’t know", "lyric_hangul": "I don't know, I don't know, I don't know, I don't know", "lyric_translation": "I don’t know, I don’t know, I don’t know, I don’t know", "range": [153.14, 154.8], "ans": [5]},
+    {
+      "lyric_hangul": "TV 나와서 하는 귀여운 돈 자랑들은 fed up",
+      "lyric_translation": "Fed up with people / Showing off their money on TV",
+      "parts": [
+        {"lyric": "TV nawaseo haneun gwiyeoun", "range": [154.8, 157.02], "ans": [2]},
+        {"lyric": "Don jarangdeureun fed up", "range": [157.02, 158.34], "ans": [2]}
+      ]
+    },
+    {"lyric": "Yeogwoneun gwarosa jikjeon", "lyric_hangul": "여권은 과로사 직전 (uh)", "lyric_translation": "My passport is about to die from overworking", "range": [158.16, 159.57], "ans": [2]},
+    {"lyric": "Midieoye hyetaegeun doeryeo neonega badatji", "lyric_hangul": "미디어의 혜택은 되려", "lyric_translation": "You guys are the ones who got the media advantage", "range": [159.57, 161.7], "ans": [2]},
+    {"lyric": "Kkalkkalkkalkkal", "lyric_hangul": "너네가 받았지 깔, 깔, 깔, 깔", "lyric_translation": "hahaha", "range": [161.7, 163.79], "ans": [2]},
+    {"lyric": "Ya ya selleomnorineun neonega deo jalhae", "lyric_hangul": "야, 야, 셀럽놀이는 너네가 더 잘해 (oh, yeah)", "lyric_translation": "You’re the ones who are better at playing the celebrity", "range": [163.79, 166.7], "ans": [2]},
+    {
+      "lyric_hangul": "우린 여전히 그때와 똑같어, whoa",
+      "lyric_translation": "We’re still the same as before / Woo!",
+      "parts": [
+        {"lyric": "Urin yeojeonhi geuttaewa ttokgateo", "range": [166.7, 168.89], "ans": [2]},
+        {"lyric": "Woo!", "range": [168.89, 169.39], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "We goin' from Mexico City, London to Paris",
+      "lyric_translation": "We goin’ from Mexico City / London to Paris",
+      "parts": [
+        {"lyric": "We goin’ from Mexico City", "range": [168.97, 171.4], "ans": [6]},
+        {"lyric": "London to Paris", "range": [171.4, 173.11], "ans": [6]}
+      ]
+    },
+    {"lyric": "Uriga ganeun geu goshi eodideun party", "lyric_hangul": "우리가 가는, 그 곳이 어디든 party", "lyric_translation": "Wherever we go, that place is party", "range": [173.11, 176.71], "ans": [6]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El mariachi, el mariachi, el mariachi (uh, uh)", "lyric_translation": "El Mariachi / El Mariachi / El Mariachi", "range": [176.71, 182.54], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "We goin' from Tokyo, Italy, Hong Kong to Brazil",
+      "lyric_translation": "We goin’ from Tokyo, Italy / Hong Kong to Brazil",
+      "parts": [
+        {"lyric": "We goin’ from Tokyo, Italy", "range": [182.31, 185.49], "ans": [1]},
+        {"lyric": "Hong Kong to Brazil", "range": [185.11, 186.93], "ans": [1]}
+      ]
+    },
+    {"lyric": "I segye eodiseorado nan noraehari", "lyric_hangul": "이 세계 어디서라도 난 노래하리 (yeah, yeah)", "lyric_translation": "Wherever in the world, I will sing", "range": [186.93, 190.41], "ans": [1]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El mariachi, el mariachi, el mariachi", "lyric_translation": "El Mariachi / El Mariachi / El Mariachi", "range": [190.41, 196.42], "ans": [1]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El mariachi", "lyric_translation": "El Mariachi", "range": [196.42, 200.08], "ans": [1]}
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "name": "Yet To Come\r",
+  "ogg": "sound/kpop/yet_to_come.ogg",
+  "id": "yet-to-come",
+  "group": "bts",
+  "language": "ko",
+  "released": "2022-06-10",
+  "album": "Proof",
+  "cover": "css/images/covers/yet-to-come.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:14Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Was it honestly the best?", "lyric_hangul": "Was it honestly the best?", "lyric_translation": "Was it honestly the best?", "range": [0.32, 2.89], "ans": [7]},
+    {"lyric": "Cause I just wanna see the next", "lyric_hangul": "'Cause I just wanna see the next", "lyric_translation": "Cause I just wanna see the next", "range": [2.89, 5.01], "ans": [7]},
+    {"lyric": "Bujireonhi jinaon", "lyric_hangul": "부지런히 지나온", "lyric_translation": "Diligently passing through", "range": [5.01, 7.34], "ans": [7]},
+    {
+      "lyric_hangul": "어제들 속에 참 아름답게",
+      "lyric_translation": "All our yesterdays / So beautifully",
+      "parts": [
+        {"lyric": "Eojedeul soge", "range": [7.34, 9.12], "ans": [5]},
+        {"lyric": "Cham areumdabge", "range": [9.12, 10.7], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Yeah the past was honestly the best", "lyric_hangul": "Yeah, the past was honestly the best", "lyric_translation": "Yeah the past was honestly the best", "range": [10.7, 14.3], "ans": [6]},
+    {"lyric": "But my best is what comes next", "lyric_hangul": "But my best is what comes next", "lyric_translation": "But my best is what comes next", "range": [14.3, 16.68], "ans": [6]},
+    {"lyric": "I’m not playin’, nah for sure", "lyric_hangul": "I'm not playin', nah, for sure", "lyric_translation": "I’m not playin’, nah for sure", "range": [16.68, 18.88], "ans": [6]},
+    {
+      "lyric_hangul": "그날을 향해, 숨이 벅차게",
+      "lyric_translation": "Heading towards the day / ‘Till I get winded",
+      "parts": [
+        {"lyric": "Geunareul hyanghae", "range": [18.88, 20.34], "ans": [1]},
+        {"lyric": "Sumi beokchage", "range": [20.34, 21.42], "ans": [1]}
+      ]
+    },
+    {"lyric": "You and I, best moment is yet to come", "lyric_hangul": "You and I, best moment is yet to come", "lyric_translation": "You and I, best moment is yet to come", "range": [21.03, 28.04], "ans": [7]},
+    {"lyric": "Moment is yet to come, yeah", "lyric_hangul": "Moment is yet to come, yeah", "lyric_translation": "Moment is yet to come, yeah", "range": [28.04, 33.99], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "다들 언제부턴가 말하네 우릴 최고라고",
+      "lyric_translation": "Not sure since when / But they say we’re the best",
+      "parts": [
+        {"lyric": "Dadeul eonjebuteonga", "range": [33.99, 35.83], "ans": [6]},
+        {"lyric": "Malhane uril chwegorago", "range": [35.83, 40.06], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "온통 알 수 없는 names, 이젠 무겁기만 해",
+      "lyric_translation": "Full of these unfamiliar names / Now they just feel heavy",
+      "parts": [
+        {"lyric": "Ontong al su eomneun names", "range": [40.06, 41.9], "ans": [6]},
+        {"lyric": "Ijen mugeobgiman hae", "range": [41.9, 45.51], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "노래가 좋았다고, 그저 달릴 뿐이라고",
+      "lyric_translation": "We just loved music / We’re just running forward",
+      "parts": [
+        {"lyric": "Noraega joattago", "range": [45.51, 47.81], "ans": [7]},
+        {"lyric": "Geujeo dallil ppunirago", "range": [47.81, 51.59], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Promise that we'll keep on coming back for more",
+      "lyric_translation": "Promise that we’ll / Keep on coming back for more",
+      "parts": [
+        {"lyric": "Promise that we’ll", "range": [51.59, 53.29], "ans": [7]},
+        {"lyric": "Keep on coming back for more", "range": [53.29, 56.45], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "너의 마음속 깊은 어딘가 여전한 소년이 있어",
+      "lyric_translation": "Somewhere deep inside your heart / There still lives a young boy",
+      "parts": [
+        {"lyric": "Neoye maeumsok gipeun eodinga", "range": [56.45, 59.77], "ans": [1]},
+        {"lyric": "Yeojeonhan sonyeoni isseo", "range": [59.77, 62.92], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "My moment is yet to come, yet to come",
+      "lyric_translation": "My moment is yet to come / Yet to come / (Do you have a dream?) / (What’s at the end of that path?)",
+      "parts": [
+        {"lyric": "My moment is yet to come", "range": [62.92, 66.1], "ans": [7]},
+        {"lyric": "Yet to come", "range": [66.1, 66.87], "ans": [7]},
+        {"lyric": "(dangshineun kkumkkuneunga)", "range": [66.17, 67.62], "ans": [2]},
+        {"lyric": "(geu gire kkeucheun mueosilkka)", "range": [67.62, 68.92], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moment is yet to come, yeah",
+      "lyric_translation": "Moment is yet to come, yeah / (In the hush of night) / (We won’t stop moving)",
+      "parts": [
+        {"lyric": "Moment is yet to come, yeah", "range": [72.38, 73.81], "ans": [6]},
+        {"lyric": "(moduga sumjugin bam)", "range": [73.11, 74.1], "ans": [3]},
+        {"lyric": "(urin bareul meomchuji ana)", "range": [74.1, 74.84], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yet to come",
+      "lyric_translation": "Yet to come / (We gonna touch the sky) / (‘Fore the day we die)",
+      "parts": [
+        {"lyric": "Yet to come", "range": [78.54, 79.59], "ans": [1]},
+        {"lyric": "(We gonna touch the sky)", "range": [78.89, 79.64], "ans": [4]},
+        {"lyric": "(‘Fore the day we die)", "range": [79.64, 80.02], "ans": [4]}
+      ]
+    },
+    {"lyric": "Uh, we gonna touch the sky, 'fore the day we die", "lyric_hangul": "Uh, we gonna touch the sky, 'fore the day we die", "lyric_translation": "", "range": [79.98, 83.7], "ans": []},
+    {
+      "lyric_hangul": "Moment is yet to come, yeah",
+      "lyric_translation": "Moment is yet to come, yeah / (This is only the beginning) / (The best yet to come)",
+      "parts": [
+        {"lyric": "Moment is yet to come, yeah", "range": [83.7, 85.05], "ans": [5]},
+        {"lyric": "(ja ije shijagiya)", "range": [84.35, 86.14], "ans": [2, 3, 4]},
+        {"lyric": "(The best yet to come)", "range": [86.14, 86.64], "ans": [2, 3, 4]}
+      ]
+    },
+    "",
+    {"lyric": "Eonjengabuteo buteun bulpyeonhan sushigeo", "lyric_hangul": "언젠가부터 붙은 불편한 수식어", "lyric_translation": "That uncomfortable title we were given one day", "range": [90.69, 93.93], "ans": [2]},
+    {"lyric": "Chwegoran mareun ajikkkaji natganjireoweo", "lyric_hangul": "\"최고란\" 말은 아직까지 낯간지러워", "lyric_translation": "We are still abashed by being called the best", "range": [93.93, 96.75], "ans": [2]},
+    {"lyric": "Nan nan marya gyang eumagi joeun geol", "lyric_hangul": "난, 난 말야 걍 음악이 좋은 걸", "lyric_translation": "You know, I, I, just love music", "range": [96.75, 99.16], "ans": [2]},
+    {"lyric": "Yeojeonhi geuttaewa dareun ge byeollo eomneungeol", "lyric_hangul": "여전히 그때와 다른 게 별로 없는걸", "lyric_translation": "Nothing much has changed from back then", "range": [99.16, 101.45], "ans": [2]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "아마 다른 게 별로 없다면, you'll say it's all a lie, yeah",
+      "lyric_translation": "If nothing much has changed, probably / You’ll say it’s all a lie, yeah",
+      "parts": [
+        {"lyric": "Ama dareun ge byeollo eopttamyeon", "range": [101.45, 103.42], "ans": [4]},
+        {"lyric": "You’ll say it’s all a lie, yeah", "range": [103.42, 104.95], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "난 변화는 많았지만 변함은 없었다 해",
+      "lyric_translation": "There were a lot of changes but / I’m still the same",
+      "parts": [
+        {"lyric": "Nan byeonhwaneun manatjiman", "range": [104.13, 106.15], "ans": [4]},
+        {"lyric": "Byeonhameun eopseotta hae", "range": [106.15, 107.6], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "A new chapter, 매 순간이 새로운 최선",
+      "lyric_translation": "A new chapter / Every moment is my new best",
+      "parts": [
+        {"lyric": "A new chapter", "range": [107.6, 108.56], "ans": [4]},
+        {"lyric": "Mae sungani saeroun chweseon", "range": [108.56, 110.28], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "지금 난 마치 열세 살 그때의 나처럼 뱉어, huh",
+      "lyric_translation": "Like I’m thirteen years old again / Spittin’ bars just like I did back then / Huh",
+      "parts": [
+        {"lyric": "Jigeum nan machi yeolse sal", "range": [110.27, 111.28], "ans": [4]},
+        {"lyric": "Geuttaeye nacheoreom baeteo", "range": [111.28, 112.29], "ans": [4]},
+        {"lyric": "Huh", "range": [112.29, 112.79], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "아직도 배울게 많고 나의 인생 채울게 많아",
+      "lyric_translation": "Still got a lot to learn / My life, got a lot to fulfill",
+      "parts": [
+        {"lyric": "Ajikdo baeul ge manko", "range": [112.42, 114.21], "ans": [3]},
+        {"lyric": "Naye insaeng chaeul ge mana", "range": [114.21, 115.61], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "그 이유를 물어본다면 내 심장이 말하잖아",
+      "lyric_translation": "If you’re askin’ me why / My heart’s tellin’ you",
+      "parts": [
+        {"lyric": "Geu iyureul mureobondamyeon", "range": [115.1, 116.9], "ans": [3]},
+        {"lyric": "Nae shimjangi malhajana", "range": [116.9, 118.36], "ans": [3]}
+      ]
+    },
+    {"lyric": "We ain’t about it i sesange gidae", "lyric_hangul": "We ain't about it, 이 세상의 기대", "lyric_translation": "We ain’t about it, the world’s expectations", "range": [118.36, 120.76], "ans": [3]},
+    {
+      "lyric_hangul": "We ain't about it, 최고란 기준의 step",
+      "lyric_translation": "We ain’t about it, that step of being the best / (We ain’t about it)",
+      "parts": [
+        {"lyric": "We ain’t about it chwegoran gijune step", "range": [120.76, 122.71], "ans": [3]},
+        {"lyric": "(We ain’t about it)", "range": [122.01, 123.88], "ans": [2, 3, 4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(We ain't about it) 왕관과 꽃, 수많은 트로피",
+      "lyric_translation": "Crowns and flowers, countless trophies / (We ain’t about it)",
+      "parts": [
+        {"lyric": "Wanggwangwa kkot, sumaneun teuropi", "range": [123.69, 126.44], "ans": [2]},
+        {"lyric": "(We ain’t about it)", "range": [125.74, 126.99], "ans": [2, 3, 4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We ain't about it) dream and hope and goin' forward",
+      "lyric_translation": "Dream & hope & goin’ forward / (We so about it)",
+      "parts": [
+        {"lyric": "Dream & hope & goin’ forward", "range": [126.34, 128.83], "ans": [4]},
+        {"lyric": "(We so about it)", "range": [128.13, 129.72], "ans": [2, 3, 4]}
+      ]
+    },
+    {"lyric": "Gingin weoneul dora gyeolguk tto jejari", "lyric_hangul": "(We so about it) 긴긴 원을 돌아 결국 또 제자리", "lyric_translation": "It’s back to square one after making one long turn", "range": [129.36, 132.98], "ans": [3]},
+    {"lyric": "Back to one", "lyric_hangul": "Back to one", "lyric_translation": "Back to one", "range": [132.98, 134.62], "ans": [2, 3, 4]},
+    "",
+    {
+      "lyric_hangul": "너의 마음속 깊은 어딘가 여전한 소년이 있어",
+      "lyric_translation": "Somewhere deep inside your heart / There still lives a young boy",
+      "parts": [
+        {"lyric": "Neoye maeumsok gipeun eodinga", "range": [134.62, 137.92], "ans": [5]},
+        {"lyric": "Yeojeonhan sonyeoni isseo", "range": [137.92, 141.22], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "My moment is yet to come, yet to come",
+      "lyric_translation": "My moment is yet to come / Yet to come / (Do you have a dream?) / (What’s at the end of that path?)",
+      "parts": [
+        {"lyric": "My moment is yet to come", "range": [141.22, 144.4], "ans": [6]},
+        {"lyric": "Yet to come", "range": [144.4, 145.03], "ans": [6]},
+        {"lyric": "(dangshineun kkumkkuneunga)", "range": [144.45, 145.73], "ans": [2]},
+        {"lyric": "(geu gire kkeucheun mueoshilkka)", "range": [145.73, 147.07], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Moment is yet to come, yeah",
+      "lyric_translation": "Moment is yet to come, yeah / (In the hush of night) / (We won’t stop moving)",
+      "parts": [
+        {"lyric": "Moment is yet to come, yeah", "range": [150.96, 152.01], "ans": [7]},
+        {"lyric": "(moduga sumjugin bam)", "range": [151.31, 152.22], "ans": [3]},
+        {"lyric": "(urin bareul meomchuji ana)", "range": [152.22, 153.1], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yet to come",
+      "lyric_translation": "Yet to come / (We gonna touch the sky) / (‘Fore the day we die)",
+      "parts": [
+        {"lyric": "Yet to come", "range": [156.66, 157.71], "ans": [5]},
+        {"lyric": "(We gonna touch the sky)", "range": [157.23, 157.76], "ans": [4]},
+        {"lyric": "(‘Fore the day we die)", "range": [157.76, 158.27], "ans": [4]}
+      ]
+    },
+    {"lyric": "Uh, we gonna touch the sky, 'fore the day we die", "lyric_hangul": "Uh, we gonna touch the sky, 'fore the day we die", "lyric_translation": "", "range": [158.27, 161.8], "ans": []},
+    {
+      "lyric_hangul": "Moment is yet to come, yeah",
+      "lyric_translation": "Moment is yet to come, yeah / (This is only the beginning) / (The best yet to come)",
+      "parts": [
+        {"lyric": "Moment is yet to come, yeah", "range": [161.8, 162.96], "ans": [1]},
+        {"lyric": "(ja ije shijagiya)", "range": [162.26, 163.24], "ans": [2, 3, 4]},
+        {"lyric": "(The best yet to come)", "range": [163.24, 163.79], "ans": [2, 3, 4]}
+      ]
+    },
+    "",
+    {"lyric": "So was it honestly the best?", "lyric_hangul": "So was it honestly the best?", "lyric_translation": "So was it honestly the best?", "range": [167.76, 170.33], "ans": [1]},
+    {"lyric": "Cause I just wanna see the next", "lyric_hangul": "'Cause I just wanna see the next", "lyric_translation": "Cause I just wanna see the next", "range": [170.33, 172.43], "ans": [1]},
+    {"lyric": "Nunbushige jinaon", "lyric_hangul": "눈부시게 지나온", "lyric_translation": "Dazzlingly passing through", "range": [172.43, 174.74], "ans": [1]},
+    {
+      "lyric_hangul": "기억들 속에 참 아름답게",
+      "lyric_translation": "The memories / So beautifully",
+      "parts": [
+        {"lyric": "Gieokdeul soge", "range": [174.74, 176.6], "ans": [7]},
+        {"lyric": "Cham areumdabge", "range": [176.6, 178.6], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Yeah the past was honestly the best", "lyric_hangul": "Yeah, the past was honestly the best", "lyric_translation": "Yeah the past was honestly the best", "range": [178.6, 181.48], "ans": [5]},
+    {"lyric": "But my best is what comes next", "lyric_hangul": "But my best is what comes next", "lyric_translation": "But my best is what comes next", "range": [181.48, 183.94], "ans": [5]},
+    {"lyric": "We’ll be singin’ till the morn", "lyric_hangul": "We'll be singin' 'til the morn'", "lyric_translation": "We’ll be singin’ till the morn", "range": [183.94, 186.25], "ans": [5]},
+    {
+      "lyric_hangul": "그날을 향해, 더 우리답게",
+      "lyric_translation": "Heading towards the day / More like ourselves",
+      "parts": [
+        {"lyric": "Geunareul hyanghae", "range": [186.25, 187.81], "ans": [6]},
+        {"lyric": "Deo uridabge", "range": [187.81, 189.05], "ans": [6]}
+      ]
+    },
+    {"lyric": "You and I, best moment is yet to come", "lyric_hangul": "You and I, best moment is yet to come", "lyric_translation": "You and I, best moment is yet to come", "range": [188.99, 194.0], "ans": [7]}
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "name": "Intro : Skool Luv Affair\r",
+  "ogg": "sound/kpop/intro_skool_luv_affair.ogg",
+  "id": "intro-skool-luv-affair",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-02-12",
+  "album": "Skool Luv Affair",
+  "cover": "css/images/covers/intro-skool-luv-affair.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:56Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Cheot mannam cheot munja cheot tonghwa", "lyric_hangul": "첫 만남 첫 문자 첫 통화", "lyric_translation": "First encounter, first text, first phone call", "range": [9.62, 12.64], "ans": [2]},
+    {"lyric": "Cheot deiteu cheot kiseuwa dulmanui gonggan", "lyric_hangul": "첫 데이트 첫 키스와 둘만의 공간", "lyric_translation": "First date, first kiss In our own space,", "range": [12.64, 16.3], "ans": [2]},
+    {"lyric": "Sogeseo neul modeun ge neowa cheoeumigopa", "lyric_hangul": "속에서 늘 모든 게 너와 처음이고파", "lyric_translation": "I want everything to be a first with you", "range": [16.3, 19.07], "ans": [2]},
+    {"lyric": "Nan geosikjeung mwol meogeodo hangsang niga gopa", "lyric_hangul": "난 거식증 뭘 먹어도 항상 니가 고파", "lyric_translation": "I have an eating disorder, whatever I eat, I’m still hungry", "range": [19.07, 22.52], "ans": [2]},
+    {"lyric": "Igeol jungdogiran daneoroseoman pyohyeonhal sun eobseo", "lyric_hangul": "이걸 중독이란 단어로서만 표현할 순 없어", "lyric_translation": "for you. The word “addiction” can’t express all of this", "range": [22.52, 26.3], "ans": [2]},
+    {
+      "lyric_hangul": "너란 여잔 묘사 불가, 시적 허용을 넘어섰어",
+      "lyric_translation": "Describing a girl like you is impossible, / it transcends the poetic",
+      "parts": [
+        {"lyric": "Neoran yeojan myosa bulga,", "range": [26.3, 28.88], "ans": [2]},
+        {"lyric": "Sijeok heoyongeul neomeoseosseo", "range": [28.88, 30.56], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "이게 너 때문이야 널 대문자처럼 내 인생 맨 앞에 두고파",
+      "lyric_translation": "It’s because of you, like a capital letter, / I want to place you first in my life",
+      "parts": [
+        {"lyric": "Ige neo ttaemuniya neol daemunjacheoreom", "range": [29.84, 33.06], "ans": [2]},
+        {"lyric": "Nae insaeng maen ape dugopa", "range": [33.06, 34.44], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "좋은 집 좋은 차, 그런 게 행복일 순 없겠지만 꼭 주고파",
+      "lyric_translation": "A good house, a good car, those things can’t be / happiness but I want to give it to you / (“Hold on, hold on, / turn off the music for a second” / “Why?” / “Hyung, this isn’t it, hyung” / “What?” / “What’s up with that last line ‘doo go bwa’ / (which means ‘just wait’)” / “It’s actually ‘joo go pa’ / (which means ‘want to give you’)” / “Oh really? Well let me show you my style. / Give me the music! Yeah, / that’s right, this is it! / Hyung, this kinda style! / Love should be hopeful!”)",
+      "parts": [
+        {"lyric": "Joheun jip joheun cha,", "range": [34.0, 34.4], "ans": [2]},
+        {"lyric": "Geureon ge haengbogil sun eopgetjiman kkok jugopa", "range": [34.4, 35.07], "ans": [2]},
+        {"lyric": "(“Hold on, hold on,", "range": [34.45, 35.12], "ans": [3]},
+        {"lyric": "Turn off the music for a second”", "range": [35.12, 35.42], "ans": [3]},
+        {"lyric": "“Why?”", "range": [35.17, 35.52], "ans": [2]},
+        {"lyric": "“Hyung, this isn’t it, hyung”", "range": [35.22, 35.69], "ans": [3]},
+        {"lyric": "“What?”", "range": [35.27, 35.97], "ans": [2]},
+        {"lyric": "“What’s up with that last line ‘doo go bwa’", "range": [35.39, 36.22], "ans": [3]},
+        {"lyric": "(which means ‘just wait’)”", "range": [35.67, 36.46], "ans": []},
+        {"lyric": "“It’s actually ‘joo go pa’", "range": [35.92, 36.81], "ans": [2]},
+        {"lyric": "(which means ‘want to give you’)”", "range": [36.16, 37.21], "ans": []},
+        {"lyric": "“Oh really? Well let me show you my style.", "range": [36.51, 37.26], "ans": [3]},
+        {"lyric": "Give me the music! Yeah,", "range": [37.26, 37.66], "ans": [3]},
+        {"lyric": "That’s right, this is it!", "range": [37.66, 37.92], "ans": [3]},
+        {"lyric": "Hyung, this kinda style!", "range": [37.84, 38.34], "ans": [3]},
+        {"lyric": "Love should be hopeful!”)", "range": [38.02, 40.2], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Mangseorim eobsi gobaekhaneun ge naui style", "lyric_hangul": "망설임 없이 고백하는 게 나의 style", "lyric_translation": "Confessing my love without hesitating is my style", "range": [60.57, 62.89], "ans": [3]},
+    {"lyric": "Neol wihaeseoramyeon i han mom da bachil type", "lyric_hangul": "널 위해서라면 이 한 몸 다 바칠 type", "lyric_translation": "If it’s for you, I’m the type to sacrifice my body", "range": [62.89, 64.89], "ans": [3]},
+    {"lyric": "Hangsang neol hyanghae jomyeongeul bichulge girl", "lyric_hangul": "항상 널 향해 조명을 비출게 girl", "lyric_translation": "I’ll always shine the light on you girl", "range": [64.89, 67.19], "ans": [3]},
+    {"lyric": "Igeon neowa nal wihan sarangui mudaein geol", "lyric_hangul": "이건 너와 날 위한 사랑의 무대인 걸", "lyric_translation": "This is a love stage for you and me", "range": [67.19, 69.76], "ans": [3]},
+    {"lyric": "Urineun kongkkakji ssuieotji, alkongdalkong", "lyric_hangul": "우리는 콩깍지 씌었지, 알콩달콩", "lyric_translation": "We’re blinded by love, sweet and playful", "range": [69.76, 72.31], "ans": [3]},
+    {"lyric": "Uriui miraeneun barkgo hwasahae, allokdallok", "lyric_hangul": "우리의 미래는 밝고 화사해, 알록달록", "lyric_translation": "Our future is bright and dazzling, colorful", "range": [72.31, 74.78], "ans": [3]},
+    {"lyric": "Neoman isseumyeon mwodeun da gajyeotji like a milli", "lyric_hangul": "너만 있으면 뭐든 다 가졌지 like a milli", "lyric_translation": "If I have you, it’s like I have everything, like a milli", "range": [74.78, 76.74], "ans": [3]},
+    {
+      "lyric_hangul": "너와 지금부터 사랑의 문이 열리지 go in",
+      "lyric_translation": "The door of love has opened now with you, go in / (“Ahh, this is awesome! / Love should be hopeful!” / “How can life always be hopeful? / This is not the Bang Tan style.” / “Then what is it?” / “Bang Tan style is hip-hop” / “Hip-hop?” / “Let’s go”)",
+      "parts": [
+        {"lyric": "Neowa jigeumbuteo sarangui muni yeolliji, go in", "range": [76.74, 77.94], "ans": [3]},
+        {"lyric": "(“Ahh, this is awesome!", "range": [77.94, 78.44], "ans": [3]},
+        {"lyric": "Love should be hopeful!”", "range": [78.09, 78.91], "ans": [3]},
+        {"lyric": "“How can life always be hopeful?", "range": [78.21, 79.2], "ans": []},
+        {"lyric": "This is not the Bang Tan style.”", "range": [79.2, 79.85], "ans": []},
+        {"lyric": "“Then what is it?”", "range": [79.37, 80.19], "ans": [3]},
+        {"lyric": "“Bang Tan style is hip-hop”", "range": [79.55, 80.38], "ans": []},
+        {"lyric": "“Hip-hop?”", "range": [79.89, 80.78], "ans": [3]},
+        {"lyric": "“Let’s go”)", "range": [80.08, 82.62], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "BTS, uriga saranghaneun beop", "lyric_hangul": "BTS, 우리가 사랑하는 법", "lyric_translation": "BTS, the way we love", "range": [99.9, 102.37], "ans": []},
+    {"lyric": "10daedeon 20daedeon gata saranghaneun geon", "lyric_hangul": "10대던 20대던 같아 사랑하는 건", "lyric_translation": "Whether you’re in your", "range": [102.37, 105.43], "ans": []},
+    {"lyric": "RM, so now Im telling you the story", "lyric_hangul": "RM, so now I'm telling you the story", "lyric_translation": "teens or twenties, love is all the same", "range": [105.43, 107.36], "ans": []},
+    {"lyric": "Nan ireokekkaji saranghaebwasseo neon eotteoni", "lyric_hangul": "난 이렇게까지 사랑해봤어 넌 어떠니", "lyric_translation": "RM, so now I’m telling you the story", "range": [107.36, 110.12], "ans": []},
+    {
+      "lyric_hangul": "This is just an intro shouting 'bout my whole mind and body",
+      "lyric_translation": "I loved this much before, how about you? / This is just an intro shouting bout",
+      "parts": [
+        {"lyric": "This is just an intro shouting bout", "range": [110.12, 112.56], "ans": []},
+        {"lyric": "My whole mind and body", "range": [112.56, 113.2], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "You know that her refusals and bad words could never stop me",
+      "lyric_translation": "my whole mind and body / You know that her refusals",
+      "parts": [
+        {"lyric": "You know that her refusals", "range": [112.85, 114.53], "ans": []},
+        {"lyric": "And bad words could never stop me", "range": [114.53, 115.77], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "They could never retard me, this is my ideology",
+      "lyric_translation": "and bad words could never stop me / They could never retard me,",
+      "parts": [
+        {"lyric": "They could never retard me,", "range": [115.45, 117.19], "ans": []},
+        {"lyric": "This is my ideology", "range": [117.19, 117.87], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Who in the world can dampen my heart's blood? Nobody",
+      "lyric_translation": "this is my ideology / Who in the world can dampen",
+      "parts": [
+        {"lyric": "Who in the world can dampen", "range": [117.78, 119.72], "ans": []},
+        {"lyric": "My heart’s blood? Nobody", "range": [119.72, 120.76], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Wassup) 다시 물을게 (Wassup) 넌 어떠니",
+      "lyric_translation": "my heart’s blood? Nobody / (Wassup) I’ll ask you again",
+      "parts": [
+        {"lyric": "(Wassup)dasi mureulge", "range": [120.17, 122.22], "ans": []},
+        {"lyric": "(Wassup)neon eotteoni", "range": [122.22, 123.23], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "사랑해보지 않았다면 꼭 나처럼 해보는 게",
+      "lyric_translation": "(Wassup) How about yo? / If you haven’t loved yet,",
+      "parts": [
+        {"lyric": "Saranghaeboji anhatdamyeon", "range": [122.76, 124.8], "ans": []},
+        {"lyric": "Kkok nacheoreom haeboneun ge", "range": [124.8, 125.92], "ans": []}
+      ]
+    },
+    {"lyric": "Eottae cham saram gamjeongiran ge myohan ge", "lyric_hangul": "어때 참 사람 감정이란 게 묘한 게", "lyric_translation": "how about doing it like me?", "range": [125.07, 127.86], "ans": []},
+    {
+      "lyric_hangul": "난 널 웃게 했는데 넌 널 울게 하는 놈에게 가더라고",
+      "lyric_translation": "A person’s emotions is so strange / I’m the one who makes you smile but",
+      "parts": [
+        {"lyric": "Nan neol utge haenneunde", "range": [127.86, 129.44], "ans": []},
+        {"lyric": "Neon neol ulge haneun nomege gadeorago", "range": [129.44, 131.02], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(I said) Yeah, that's love (I said) 그래 그게 사랑",
+      "lyric_translation": "you go to the bastard who makes you cry / (I said) Yeah that’s love",
+      "parts": [
+        {"lyric": "(I said)Yeah that’s love", "range": [130.62, 133.01], "ans": []},
+        {"lyric": "(I said)geurae geuge sarang", "range": [133.01, 133.7], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "누군 찌질 하다고 말하지만 난 정말 괜찮아",
+      "lyric_translation": "(I said) yeah that’s love / Some may call me a loser but I’m really OK",
+      "parts": [
+        {"lyric": "Nugun jjijil hadago malhajiman", "range": [133.21, 135.39], "ans": []},
+        {"lyric": "Nan jeongmal gwaenchanha", "range": [135.39, 136.23], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "사랑할 땐 한 번도 상처받지 않은 것처럼",
+      "lyric_translation": "As if I’ve never been hurt by love before / As if I’ll give even more",
+      "parts": [
+        {"lyric": "Saranghal ttaen han beondo", "range": [136.05, 137.45], "ans": []},
+        {"lyric": "Sangcheobatji anheun geotcheoreom", "range": [137.45, 138.51], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "내 모든 걸 앗아간대도 더 줄 것처럼 wassup",
+      "lyric_translation": "when she takes away my all / Wassup",
+      "parts": [
+        {"lyric": "Nae modeun geol asagandaedo deo jul geotcheoreom", "range": [138.21, 141.41], "ans": []},
+        {"lyric": "Wassup", "range": [141.41, 141.85], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Saranghal ttaeneun jom hwakkeunhage", "lyric_hangul": "사랑할 때는 좀 화끈하게", "lyric_translation": "When in love, be passionate", "range": [140.88, 143.35], "ans": []},
+    {"lyric": "Noraehal ttaeneun jom ttakkeumhage", "lyric_hangul": "노래할 때는 좀 따끔하게", "lyric_translation": "When you’re singing, make it prickly", "range": [143.35, 146.99], "ans": []},
+    {"lyric": "Jom hwakkeunhage jom ttakkeumhage", "lyric_hangul": "좀 화끈하게 좀 따끔하게", "lyric_translation": "Passionate and prickly", "range": [146.99, 150.92], "ans": []},
+    "",
+    {"lyric": "Uri saranghal ttaeneun jom hwakkeunhage", "lyric_hangul": "우리 사랑할 때는좀 화끈하게", "lyric_translation": "When we’re in love, we’re passionate", "range": [150.92, 153.68], "ans": []},
+    {"lyric": "Noraehal ttaeneun jom ttakkeumhage", "lyric_hangul": "노래할 때는 좀 따끔하게", "lyric_translation": "When we’re singing, we’re prickly", "range": [153.68, 157.33], "ans": []},
+    {"lyric": "Jom hwakkeunhage jom ttakkeumhage", "lyric_hangul": "좀 화끈하게 좀 따끔하게", "lyric_translation": "Passionate and prickly", "range": [157.33, 161.68], "ans": []},
+    "",
+    {"lyric": "Ige han madiro bangtan style", "lyric_hangul": "이게 한 마디로 방탄 style (Wassup)", "lyric_translation": "This is Bang Tan style", "range": [161.68, 164.55], "ans": []},
+    {"lyric": "Ige han madiro bangtan style", "lyric_hangul": "이게 한 마디로 방탄 style (Wassup)", "lyric_translation": "This is Bang Tan style", "range": [164.55, 166.81], "ans": [3]},
+    {"lyric": "Ige han madiro bangtan style", "lyric_hangul": "이게 한 마디로 방탄 style (Wassup)", "lyric_translation": "This is Bang Tan style", "range": [166.81, 168.91], "ans": [2]},
+    {
+      "lyric_hangul": "방탄 style, 방탄 style, wassup",
+      "lyric_translation": "Bang Tan style, Bang Tan style / Wassup",
+      "parts": [
+        {"lyric": "Bangtan style, bangtan style", "range": [168.91, 170.83], "ans": []},
+        {"lyric": "Wassup", "range": [170.83, 174.63], "ans": []}
+      ]
+    }
+  ]
+}

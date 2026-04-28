@@ -1,0 +1,300 @@
+{
+  "name": "Blanket Kick (이불킥)\r",
+  "ogg": "sound/kpop/blanket_kick.ogg",
+  "id": "blanket-kick",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/blanket-kick.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:27Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "One, two, three, four", "lyric_hangul": "One, two, three, four", "lyric_translation": "", "range": [8.39, 10.54], "ans": []},
+    {
+      "lyric_hangul": "나 가지가지 하다 나무 되겠어",
+      "lyric_translation": "(One, two, three, four) / I’m doing so many things, I’ve become a tree 1",
+      "parts": [
+        {"lyric": "(One, two, three, four)", "range": [10.54, 11.8], "ans": []},
+        {"lyric": "Na gajigaji hada namu doegesseo", "range": [11.8, 13.62], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Wae jakku isanghaejilkka hangsang ni apeseon", "lyric_hangul": "왜 자꾸 이상해질까? 항상 네 앞에선", "lyric_translation": "Why am I getting weirder in front of you?", "range": [13.62, 16.13], "ans": []},
+    {
+      "lyric_hangul": "난 유치원생도 아닌데 모든 게 다 유치해",
+      "lyric_translation": "I’m not a pre-schooler / but why is",
+      "parts": [
+        {"lyric": "Nan yuchiwonsaengdo aninde", "range": [16.13, 18.13], "ans": []},
+        {"lyric": "Modeun ge da yuchihae", "range": [18.13, 19.59], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "사실, 내가 방금 친 말장난보다 좀 더 유치해",
+      "lyric_translation": "everything / so childish?",
+      "parts": [
+        {"lyric": "Sasil naega banggeum chin maljangnanboda", "range": [19.12, 21.54], "ans": []},
+        {"lyric": "Jom deo yuchihae", "range": [21.54, 22.44], "ans": []}
+      ]
+    },
+    {"lyric": "Look at my eyes", "lyric_hangul": "Look at my eyes", "lyric_translation": "Look at my eyes,", "range": [21.94, 22.8], "ans": []},
+    {"lyric": "Nae jitgujeun mareun jinsimi anya", "lyric_hangul": "내 짓궂은 말은 진심이 아냐", "lyric_translation": "my jokes aren’t serious", "range": [22.8, 25.2], "ans": []},
+    {
+      "lyric_hangul": "이 한 마디가 겁나 어렵더라, 아, 관심 있다고",
+      "lyric_translation": "Saying this is so hard, / I like you",
+      "parts": [
+        {"lyric": "I han madiga geomna eoryeopdeora..", "range": [25.2, 26.61], "ans": []},
+        {"lyric": "A gwansim itdago", "range": [26.61, 27.73], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "네게 해가 되기 부끄러워, 차가운 달이 됐지만",
+      "lyric_translation": "I was too shy to become your sun / so I became a cold moon",
+      "parts": [
+        {"lyric": "Nege haega doegi bukkeureowo", "range": [27.73, 29.37], "ans": []},
+        {"lyric": "Chagaun dari dwaetjiman", "range": [29.37, 30.43], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "그 후로, 자꾸 만들어 침대 바다 위 이불 파도",
+      "lyric_translation": "But afterwards, I keep making / a wave of blankets on top of my ocean bed / (Slam! Slam!)",
+      "parts": [
+        {"lyric": "Geu huro jakku mandeureo chimdae", "range": [30.42, 31.66], "ans": []},
+        {"lyric": "Bada wi ibul pado", "range": [31.66, 32.56], "ans": []},
+        {"lyric": "(cheolsseok! cheolsseok!)", "range": [32.56, 33.31], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Michinnomcheoreom peoljjeok", "lyric_hangul": "(철썩, 철썩) 미친놈처럼 펄쩍", "lyric_translation": "I jump around like a crazy guy", "range": [33.31, 35.52], "ans": []},
+    {
+      "lyric_hangul": "뛰다 챙피함을 UFC로 승화시킨 게 내 업적",
+      "lyric_translation": "Winning over embarrassment with some / UFC moves",
+      "parts": [
+        {"lyric": "Ttwida chaengpihameul", "range": [35.52, 37.1], "ans": []},
+        {"lyric": "UFCro seunghwasikin ge nae eopjeok", "range": [37.1, 38.9], "ans": []}
+      ]
+    },
+    {"lyric": "Haikikdo nallyeotdaga jaep hugeuro mak chyeotdaga", "lyric_hangul": "하이킥도 날렸다가 잽 훅으로 막 쳤다가", "lyric_translation": "With a high kick and a jab and a hook", "range": [38.61, 41.68], "ans": []},
+    {
+      "lyric_hangul": "파운딩했다가, 이불 쥐어뜯고 막 또 하소연하다가",
+      "lyric_translation": "With some pounding, / I let it all out in my blanket",
+      "parts": [
+        {"lyric": "Paundinghaetdaga ibul jwieotteutgo", "range": [41.68, 43.57], "ans": []},
+        {"lyric": "Mak tto hasoyeonhadaga", "range": [43.57, 44.73], "ans": []}
+      ]
+    },
+    {"lyric": "Oh gimme darimi nae sonbal pyeojul", "lyric_hangul": "Oh, gimme 다리미 내 손발 펴줄", "lyric_translation": "Oh gimme an iron so I can smooth out my hands and feet", "range": [44.53, 47.73], "ans": []},
+    {
+      "lyric_hangul": "Oh, 이미 너의 의미는 내게 가사 몇 줄",
+      "lyric_translation": "You have already made it / into several lines of my lyrics",
+      "parts": [
+        {"lyric": "Oh imi neoui uimineun", "range": [47.73, 49.27], "ans": []},
+        {"lyric": "Naege gasa myeot jul", "range": [49.27, 50.23], "ans": []}
+      ]
+    },
+    {"lyric": "Geu isangiya geunde", "lyric_hangul": "그 이상이야 근데", "lyric_translation": "It’s even more than that,", "range": [50.07, 51.22], "ans": []},
+    {"lyric": "Nae ibureun museun joeya mureonae", "lyric_hangul": "내 이불은 무슨 죄야? 물어내", "lyric_translation": "but my poor blanket", "range": [51.22, 53.52], "ans": []},
+    {"lyric": "Geunyang niga isseosseumyeon hae", "lyric_hangul": "그냥 네가 있었으면 해", "lyric_translation": "I just wish you were here", "range": [53.52, 55.72], "ans": []},
+    "",
+    {"lyric": "Only you only you", "lyric_hangul": "Only you, only you", "lyric_translation": "Only you only you", "range": [55.72, 61.18], "ans": [7]},
+    {"lyric": "Nan tto ni apeseo isanghan jitman golla hage dwae", "lyric_hangul": "난 또 네 앞에서 이상한 짓만 골라 하게 돼", "lyric_translation": "Again, I’m acting weird in front of you", "range": [61.18, 66.67], "ans": [6]},
+    {"lyric": "Jeongmal yeppeo yeppeo yeppeo", "lyric_hangul": "정말 예뻐, 예뻐, 예뻐", "lyric_translation": "You’re so pretty pretty pretty", "range": [66.67, 69.8], "ans": [7]},
+    {"lyric": "Oh naega wae geuraenneunji", "lyric_hangul": "Oh, 내가 왜 그랬는지?", "lyric_translation": "But why am I like this?", "range": [69.8, 73.11], "ans": [6]},
+    {"lyric": "Jada ibulkik nalligesseo", "lyric_hangul": "자다, 이불킥 날리겠어", "lyric_translation": "I sleep and kick my blankets around", "range": [73.11, 78.34], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Only you, ooh-ooh, ooh-ooh, ooh-ooh (you!)",
+      "lyric_translation": "Only you woo woo woo woo woo (you!)",
+      "parts": [
+        {"lyric": "Only you woo woo woo woo woo", "range": [78.34, 81.65], "ans": [7]},
+        {"lyric": "(you!)", "range": [80.95, 81.86], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "You, ooh-ooh, ooh-ooh, ooh-ooh (you!)",
+      "lyric_translation": "You woo woo woo woo woo (you!)",
+      "parts": [
+        {"lyric": "You woo woo woo woo woo", "range": [81.86, 85.04], "ans": [7]},
+        {"lyric": "(you!)", "range": [84.34, 85.19], "ans": []}
+      ]
+    },
+    {"lyric": "Wae geuraesseulkka? meorineun (bingbing)", "lyric_hangul": "왜 그랬을까? 머리는 (빙빙)", "lyric_translation": "Why did I do that? My head is spinning", "range": [84.83, 87.36], "ans": [3]},
+    {"lyric": "Joe eomneun ibulman cha (kikkik)", "lyric_hangul": "죄 없는 이불만 차 (킥킥)", "lyric_translation": "I keep kicking my innocent blankets (kick kick)", "range": [87.36, 89.92], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "Oh, 예뻐, 예뻐, 예뻐 (예뻐!)",
+      "lyric_translation": "Oh pretty pretty pretty (pretty)",
+      "parts": [
+        {"lyric": "Oh yeppeo yeppeo yeppeo", "range": [89.92, 92.64], "ans": [1]},
+        {"lyric": "(yeppeo!)", "range": [91.94, 93.04], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh, 예뻐, 예뻐, 예뻐 (예뻐!)",
+      "lyric_translation": "Oh pretty pretty pretty (pretty)",
+      "parts": [
+        {"lyric": "Oh yeppeo yeppeo yeppeo", "range": [92.78, 95.25], "ans": [7]},
+        {"lyric": "(yeppeo!)", "range": [94.55, 95.63], "ans": []}
+      ]
+    },
+    {"lyric": "Naegen Only You", "lyric_hangul": "나에겐, only you (only you)", "lyric_translation": "To me, it’s only you", "range": [95.36, 100.33], "ans": [7]},
+    {"lyric": "Only You", "lyric_hangul": "Only you", "lyric_translation": "Only you", "range": [100.33, 101.25], "ans": [5]},
+    "",
+    {"lyric": "Neoui nun, ko, ip ttaraseo", "lyric_hangul": "너의 눈, 코, 입 따라서", "lyric_translation": "My eyes follow your eyes, nose, lips", "range": [101.25, 103.75], "ans": [2]},
+    {"lyric": "Siseoni idonghajiman jebal ohaeneun marajwo", "lyric_hangul": "시선이 이동하지만 제발, 오해는 말아줘", "lyric_translation": "But please don’t misunderstand", "range": [103.75, 106.71], "ans": [2]},
+    {
+      "lyric_hangul": "널 보면, 주체를 못해 이거 참 주책인 건데",
+      "lyric_translation": "I can’t hold it in when I see you, / this is such a pain",
+      "parts": [
+        {"lyric": "Neol bomyeon juchereul motae", "range": [106.71, 108.37], "ans": [2]},
+        {"lyric": "Igeo cham juchaegin geonde", "range": [108.37, 109.67], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "마른침 꿀꺽 삼키며 말하지, \"물 대신 건배\"",
+      "lyric_translation": "I take a big gulp and say, / “cheers instead of water”",
+      "parts": [
+        {"lyric": "Mareunchim kkulkkeok samkimyeo malhaji", "range": [109.53, 111.74], "ans": [2]},
+        {"lyric": "‘mul daesin geonbae’", "range": [111.74, 112.75], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "취하지도 않는데 취한 척 괜시리 애교",
+      "lyric_translation": "I’m not even drunk but / I pretend to be drunk and act cute",
+      "parts": [
+        {"lyric": "Chwihajido annneunde", "range": [112.29, 113.71], "ans": [2]},
+        {"lyric": "Chwihan cheok gwaensiri aegyo", "range": [113.71, 115.49], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "연필도 아닌데 자꾸 네게 흑심이 생겨",
+      "lyric_translation": "I’m not a pencil but / I keep getting dark thoughts toward you",
+      "parts": [
+        {"lyric": "Yeonpildo aninde", "range": [115.18, 116.54], "ans": [2]},
+        {"lyric": "Jakku nege heuksimi saenggyeo", "range": [116.54, 118.33], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ireon sikeomeon maeum hoksi nunchichaesseulkka", "lyric_hangul": "이런 시커먼 마음 혹시 눈치챘을까?", "lyric_translation": "Did you notice my dark thoughts?", "range": [118.33, 120.82], "ans": [2]},
+    {
+      "lyric_hangul": "본심을 숨기려 해도, 안 돼, 마른 세수만 어느새",
+      "lyric_translation": "I try to hide it but I can’t, / it’s just useless efforts",
+      "parts": [
+        {"lyric": "Bonsimeul sumgiryeo haedo an dwae,", "range": [120.82, 122.74], "ans": [2]},
+        {"lyric": "Mareun sesuman eoneusae", "range": [122.74, 124.2], "ans": [2]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "시간은, tick-tock, 흘러가서 니 집 앞에 다다랐을 때",
+      "lyric_translation": "Time goes tick tock and / when I’m in front of your house",
+      "parts": [
+        {"lyric": "Siganeun tik tok heulleogaseo", "range": [124.05, 126.08], "ans": [2]},
+        {"lyric": "Ni jip ape dadarasseul ttae", "range": [126.08, 127.86], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "괜히 더 분위기 잡고, 이번엔 진짜 미친 척하고",
+      "lyric_translation": "I try to set the mood / This time, I’ll really pretend I’m crazy",
+      "parts": [
+        {"lyric": "Gwaenhi deo bunwigi japgo", "range": [127.75, 129.77], "ans": [2]},
+        {"lyric": "Ibeonen jinjja michin cheokhago", "range": [129.77, 131.93], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "찐한 키스나 한번 해 볼까? 하며 어깨를 잡어",
+      "lyric_translation": "And give you a deep kiss / so I grab your shoulders",
+      "parts": [
+        {"lyric": "Jjinhan kiseuna hanbeon hae bolkka", "range": [131.78, 134.05], "ans": [2]},
+        {"lyric": "Hamyeo eokkaereul jabeo", "range": [134.05, 135.2], "ans": [2]}
+      ]
+    },
+    {"lyric": "Geunde ttaemachim ullin han tongui jeonhwa", "lyric_hangul": "근데 때마침 울린 한 통의 전화 (\"안녕하세요\")", "lyric_translation": "But then the phone rings", "range": [134.75, 137.57], "ans": [2]},
+    {"lyric": "Eonje deureoonyaneun neoui abeonimui seonghwa", "lyric_hangul": "언제 들어오냐는 너의 아버님의 성화", "lyric_translation": "Your dad asks when you’re coming back home", "range": [137.57, 140.64], "ans": [2]},
+    {"lyric": "Oh my god bunwigi johanneunde", "lyric_hangul": "Oh, my God (oh, my God) 분위기 좋았는데", "lyric_translation": "Oh my god, the mood was so good", "range": [140.64, 143.32], "ans": [2]},
+    {
+      "lyric_hangul": "자기 전 괜히, 이불에 화풀이 좋았는데",
+      "lyric_translation": "Before I sleep, I get angry at my blanket again / It was so good…",
+      "parts": [
+        {"lyric": "Jagi jeon gwaenhi ibure hwapuri", "range": [143.32, 145.42], "ans": [2]},
+        {"lyric": "Johanneunde..", "range": [145.42, 146.24], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Only you only you", "lyric_hangul": "Only you, only you", "lyric_translation": "Only you only you", "range": [146.24, 151.25], "ans": [6]},
+    {"lyric": "Nan tto ni apeseo isanghan jitman golla hage dwae", "lyric_hangul": "난 또 네 앞에서 이상한 짓만 골라 하게 돼", "lyric_translation": "Again, I’m acting weird in front of you", "range": [151.25, 157.17], "ans": [5]},
+    {"lyric": "Jeongmal yeppeo yeppeo yeppeo", "lyric_hangul": "정말 예뻐, 예뻐, 예뻐", "lyric_translation": "You’re so pretty pretty pretty", "range": [157.17, 160.57], "ans": [6]},
+    {"lyric": "Oh naega wae geuraenneunji", "lyric_hangul": "Oh, 내가 왜 그랬는지?", "lyric_translation": "But why am I like this?", "range": [160.57, 163.39], "ans": [5]},
+    {"lyric": "Jada ibulkik nalligesseo", "lyric_hangul": "자다, 이불킥 날리겠어 (ayy, ayy)", "lyric_translation": "I sleep and kick my blankets around", "range": [163.39, 168.95], "ans": [6]},
+    "",
+    {"lyric": "Galkka malkka hadaga dagagatji", "lyric_hangul": "갈까? 말까? 하다가 다가갔지?", "lyric_translation": "Should I go or not? Then I went", "range": [168.95, 172.13], "ans": [3]},
+    {"lyric": "Halkka malkka hadaga haebeoryeotji", "lyric_hangul": "할까? 말까? 하다가 해버렸지?", "lyric_translation": "Should I do it or not? Then I did it", "range": [172.13, 174.78], "ans": [3]},
+    {
+      "lyric_hangul": "야심찬 개그와, 장난, 스킨쉽과 또 앙탈",
+      "lyric_translation": "Making jokes and playing around, / getting physical and acting cute",
+      "parts": [
+        {"lyric": "Yasimchan gaegeuwa jangnan,", "range": [174.78, 176.27], "ans": [3]},
+        {"lyric": "Seukinswipgwa tto angtal", "range": [176.27, 177.62], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "근데 내 화살은 너란 과녁을 자꾸 피해가기만 해",
+      "lyric_translation": "But my arrow / keeps missing your target",
+      "parts": [
+        {"lyric": "Geunde nae hwasareun neoran gwanyeogeul", "range": [177.03, 179.15], "ans": [3]},
+        {"lyric": "Jakku pihaegagiman hae", "range": [179.15, 180.61], "ans": [3]}
+      ]
+    },
+    {"lyric": "Eodilkka ni mameun geogilkka?", "lyric_hangul": "어딜까? 네 맘은 거길까?", "lyric_translation": "Where is it? Is that where your heart is?", "range": [180.61, 183.04], "ans": [3]},
+    {"lyric": "A naega wae geuttae geuraesseulkka", "lyric_hangul": "아, 내가 왜 그때 그랬을까?", "lyric_translation": "Why did I do that the other day?", "range": [183.04, 185.52], "ans": [3]},
+    {"lyric": "Oneuldo jam mot deuneun bam,", "lyric_hangul": "오늘도 잠 못 드는 밤", "lyric_translation": "It’s a sleepless night again today,", "range": [185.52, 186.62], "ans": [3]},
+    {"lyric": "Chimdae wi ibureun nae saendeubaek", "lyric_hangul": "침대 위 이불은 내 샌드백", "lyric_translation": "the blanket on my bed is my sandbag", "range": [186.62, 189.44], "ans": [3]},
+    {"lyric": "Kick kick kick", "lyric_hangul": "Kick, kick, kick", "lyric_translation": "Kick kick kick", "range": [189.44, 191.12], "ans": [3]},
+    "",
+    {"lyric": "Only You only You", "lyric_hangul": "Only you (only you), only you (you)", "lyric_translation": "Only you only you", "range": [191.12, 196.46], "ans": [7]},
+    {"lyric": "Nan tto ni apeseo isanghan jitman golla hage dwae", "lyric_hangul": "난 또 네 앞에서 이상한 짓만 골라 하게 돼", "lyric_translation": "Again, I’m acting weird in front of you", "range": [196.46, 202.21], "ans": [1]},
+    {"lyric": "Jeongmal yeppeo yeppeo yeppeo", "lyric_hangul": "정말 예뻐, 예뻐, 예뻐 (oh, only you)", "lyric_translation": "You’re so pretty pretty pretty", "range": [202.21, 205.77], "ans": [7]},
+    {"lyric": "Oh naega wae geuraenneunji", "lyric_hangul": "Oh, 내가 왜 그랬는지? (Oh)", "lyric_translation": "But why am I like this?", "range": [205.77, 208.59], "ans": [1]},
+    {"lyric": "Jada ibulkik nalligesseo", "lyric_hangul": "자다, 이불킥 날리겠어", "lyric_translation": "I sleep and kick my blankets around", "range": [208.59, 213.86], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Only you, ooh-ooh, ooh-ooh, ooh-ooh (you!)",
+      "lyric_translation": "Only you woo woo woo woo woo (you!)",
+      "parts": [
+        {"lyric": "Only you woo woo woo woo woo", "range": [213.86, 217.19], "ans": [7]},
+        {"lyric": "(you!)", "range": [216.49, 217.36], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "You, ooh-ooh, ooh-ooh, ooh-ooh (you!)",
+      "lyric_translation": "You woo woo woo woo woo (you!)",
+      "parts": [
+        {"lyric": "You woo woo woo woo woo", "range": [217.36, 220.56], "ans": [7]},
+        {"lyric": "(you!)", "range": [219.86, 220.69], "ans": []}
+      ]
+    },
+    {"lyric": "Wae geuraesseulkka? meorin (bingbing)", "lyric_hangul": "왜 그랬을까? 머린 (빙빙)", "lyric_translation": "Why did I do that? My head is spinning", "range": [219.93, 222.81], "ans": [3]},
+    {"lyric": "Joe eomneun ibulman cha (kikkik)", "lyric_hangul": "죄 없는 이불만 차 (킥킥)", "lyric_translation": "I keep kicking my innocent blankets (kick kick)", "range": [222.81, 225.74], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "Oh, 예뻐, 예뻐, 예뻐 (예뻐!)",
+      "lyric_translation": "Oh pretty pretty pretty (pretty)",
+      "parts": [
+        {"lyric": "Oh yeppeo yeppeo yeppeo", "range": [225.74, 228.13], "ans": [1]},
+        {"lyric": "(yeppeo!)", "range": [227.43, 228.59], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Oh, 예뻐, 예뻐, 예뻐 (예뻐!)",
+      "lyric_translation": "Oh pretty pretty pretty (pretty)",
+      "parts": [
+        {"lyric": "Oh yeppeo yeppeo yeppeo", "range": [228.33, 230.92], "ans": [7]},
+        {"lyric": "(yeppeo!)", "range": [230.22, 231.25], "ans": []}
+      ]
+    },
+    {"lyric": "Naegen Only you", "lyric_hangul": "나에겐, only you (only you)", "lyric_translation": "To me, it’s only you", "range": [230.91, 236.03], "ans": [7]},
+    {"lyric": "Only You", "lyric_hangul": "Only you", "lyric_translation": "Only you", "range": [236.03, 239.39], "ans": [5]}
+  ]
+}

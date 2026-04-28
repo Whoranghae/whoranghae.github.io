@@ -1,0 +1,267 @@
+{
+  "name": "Dionysus\r",
+  "ogg": "sound/kpop/dionysus.ogg",
+  "id": "dionysus",
+  "group": "bts",
+  "language": "ko",
+  "released": "2019-04-12",
+  "album": "MAP OF THE SOUL : PERSONA",
+  "cover": "css/images/covers/dionysus.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:38Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Jjuk deurikyeo", "lyric_hangul": "쭉 들이켜", "lyric_translation": "Drink up", "range": [9.85, 11.06], "ans": [6]},
+    {
+      "lyric_hangul": "술잔 (sippin') 팔짱 (tippin') 한 입",
+      "lyric_translation": "Drink (sippin’), arm (tippin’) / One gulp",
+      "parts": [
+        {"lyric": "Suljan (sippin’) paljjang (tippin’)", "range": [11.06, 13.2], "ans": [3]},
+        {"lyric": "Han ip", "range": [12.5, 13.75], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "티르소스 (grippin') 포도 (eatin') 쭉 들이켜",
+      "lyric_translation": "Thyrsus (grippin’), grape (eatin’) / Drink up",
+      "parts": [
+        {"lyric": "Tireusoseu (grippin’) podo (eatin’)", "range": [13.75, 15.88], "ans": [3]},
+        {"lyric": "Jjuk deurikyeo", "range": [15.18, 16.85], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "분위기 (keep it) D style (rip it) 한 입",
+      "lyric_translation": "Mood (keep it) D style (rip it) / One gulp",
+      "parts": [
+        {"lyric": "Bunwigi (keep it) D style (rip it)", "range": [16.36, 18.78], "ans": [3]},
+        {"lyric": "Han ip", "range": [18.08, 19.54], "ans": [6]}
+      ]
+    },
+    {"lyric": "Yeogi (kill it) let’s steal it", "lyric_hangul": "여기 (kill it) let's steal it", "lyric_translation": "Here (kill it) let’s steal it", "range": [18.94, 20.49], "ans": [3]},
+    {"lyric": "The illest", "lyric_hangul": "The illest", "lyric_translation": "The illest", "range": [20.49, 21.32], "ans": [3]},
+    "",
+    {"lyric": "Geunyang chwihae machi dionisoseu", "lyric_hangul": "그냥 취해 마치 디오니소스", "lyric_translation": "Just get drunk like Dionysus", "range": [21.32, 24.14], "ans": [4]},
+    {"lyric": "Han sone suljan, dareun sone deun tireusoseu", "lyric_hangul": "한 손에 술잔, 다른 손에 든 티르소스", "lyric_translation": "Drink in one hand, thyrsus in the other", "range": [24.14, 26.37], "ans": [4]},
+    {"lyric": "Tumyeonghan keuriseutal jan sok challangineun yesul", "lyric_hangul": "투명한 크리스탈 잔 속 찰랑이는 예술", "lyric_translation": "In the clear crystal glass, art swirls around", "range": [26.37, 29.33], "ans": [4]},
+    {"lyric": "Yesuldo suriji mweo, mashimyeon chwihae fool", "lyric_hangul": "예술도 술이지 뭐, 마시면 취해 fool", "lyric_translation": "Art is alcohol, you drink it, you get drunk, fool", "range": [29.33, 32.6], "ans": [4]},
+    {"lyric": "You dunno, you dunno", "lyric_hangul": "You dunno, you dunno", "lyric_translation": "", "range": [32.6, 33.5], "ans": []},
+    {"lyric": "You dunno you dunno you dunno what to do with", "lyric_hangul": "You dunno, you dunno You dunno what to do with", "lyric_translation": "You dunno you dunno you dunno what to do with", "range": [32.6, 35.07], "ans": [4]},
+    {"lyric": "Naega boyeojulge nan jeonhyeo dareun geol chujin", "lyric_hangul": "내가 보여줄게 난 전혀 다른 걸 추진", "lyric_translation": "I’ll show you, I go for something completely different", "range": [35.07, 37.73], "ans": [4]},
+    {"lyric": "Aibiwa geochin namuro doen mic", "lyric_hangul": "아이비와 거친 나무로 된 mic", "lyric_translation": "A mic made with ivy and rough wood", "range": [37.73, 39.9], "ans": [4]},
+    {"lyric": "Jeoldae dan han sume naoneun sori ttawin eobtta", "lyric_hangul": "절대 단 한 숨에 나오는 소리 따윈 없다", "lyric_translation": "There’s no sound that comes out at one try", "range": [39.9, 43.23], "ans": [4]},
+    "",
+    {"lyric": "Haega tteul ttaekkaji where the party at", "lyric_hangul": "해가 뜰 때까지 where the party at", "lyric_translation": "Till the sun rises, where the party at", "range": [43.23, 45.92], "ans": [7]},
+    {"lyric": "Jami deul ttaekkaji where the party at", "lyric_hangul": "잠이 들 때까지 where the party at", "lyric_translation": "Till we fall asleep, where the party at", "range": [45.92, 48.6], "ans": [7]},
+    {"lyric": "Sing it bulleo dashi", "lyric_hangul": "Sing it 불러 다시", "lyric_translation": "Sing it, sing it again", "range": [48.6, 50.05], "ans": [3, 7]},
+    {"lyric": "Drink it mashyeo dashi", "lyric_hangul": "Drink it 마셔 다시", "lyric_translation": "Drink it, drink it again", "range": [50.05, 51.41], "ans": [3, 7]},
+    {"lyric": "Urin du beon taeeonaji", "lyric_hangul": "우린 두 번 태어나지", "lyric_translation": "We’re born again", "range": [51.41, 54.03], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "쭉 들이켜 (창작의 고통) 한 입 (시대의 호통)",
+      "lyric_translation": "Drink up (to the pain of creation) / One gulp (to the shouts of the generation)",
+      "parts": [
+        {"lyric": "Jjuk deurikyeo", "range": [54.03, 55.64], "ans": [1]},
+        {"lyric": "Changjage gotong", "range": [54.94, 57.27], "ans": [3]},
+        {"lyric": "Han ip", "range": [56.57, 57.86], "ans": [1]},
+        {"lyric": "Shidaeye hotong", "range": [57.16, 59.6], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "쭉 들이켜 (나와의 소통) 한 입 (Okay, now I'm ready fo' sho')",
+      "lyric_translation": "Drink up (to communicating with me) / One gulp (Okay now I’m ready fo sho)",
+      "parts": [
+        {"lyric": "Jjuk deurikyeo", "range": [59.6, 61.08], "ans": [1]},
+        {"lyric": "Nawaye sotong", "range": [60.38, 62.5], "ans": [3]},
+        {"lyric": "Han ip", "range": [61.8, 63.07], "ans": [1]},
+        {"lyric": "Okay now I’m ready fo sho", "range": [62.37, 64.99], "ans": [3]}
+      ]
+    },
+    {"lyric": "Da mashyeo mashyeo mashyeo mashyeo nae suljan ay", "lyric_hangul": "다 마셔 마셔 마셔 마셔 내 술잔 ay", "lyric_translation": "Drink it all, drink it all, drink it all up", "range": [64.99, 67.87], "ans": [6]},
+    {"lyric": "Da ppajyeo ppajyeo ppajyeo michin yesulgae", "lyric_hangul": "다 빠져 빠져 빠져 미친 예술가에", "lyric_translation": "Everyone fall, fall, fall into this crazy artist", "range": [67.87, 70.77], "ans": [6]},
+    {"lyric": "Han jan (one shot) du jan (two shot)", "lyric_hangul": "한 잔 (one shot) 두 잔 (two shots)", "lyric_translation": "One drink (one shot) two drinks (two shots)", "range": [70.77, 73.24], "ans": [5]},
+    {"lyric": "Yesure chwihae bulleo ongheya", "lyric_hangul": "예술에 취해 불러 옹헤야", "lyric_translation": "Drunk with the arts, singing", "range": [73.24, 75.91], "ans": [5]},
+    "",
+    {"lyric": "Da mashyeo mashyeo mashyeo mashyeo nae suljan ay", "lyric_hangul": "다 마셔 마셔 마셔 마셔 내 술잔 ay", "lyric_translation": "Drink it all, drink it all, drink it all up", "range": [75.91, 78.71], "ans": [7]},
+    {"lyric": "Da ppajyeo ppajyeo ppajyeo michin yesulgae", "lyric_hangul": "다 빠져 빠져 빠져 미친 예술가에", "lyric_translation": "Everyone fall, fall, fall into this crazy artist", "range": [78.71, 81.78], "ans": [7]},
+    {"lyric": "Han jan (one shot) du jan (two shot)", "lyric_hangul": "한 잔 (one shot) 두 잔 (two shots)", "lyric_translation": "One drink (one shot) two drinks (two shots)", "range": [81.78, 84.2], "ans": [5]},
+    {"lyric": "The illest", "lyric_hangul": "The illest", "lyric_translation": "", "range": [97.08, 97.82], "ans": []},
+    {"lyric": "Nan jigeum sesange mun ape isseo", "lyric_hangul": "난 지금 세상의 문 앞에 있어", "lyric_translation": "I’m in front of the door to the world", "range": [97.82, 99.92], "ans": [6]},
+    "",
+    {"lyric": "Mudaee oreul ttae deullineun hwanhoseong", "lyric_hangul": "무대에 오를 때 들리는 환호성", "lyric_translation": "I hear the shouts when I get on stage", "range": [99.92, 103.23], "ans": [6]},
+    {"lyric": "Can’t you see my stacked broken thyrsus", "lyric_hangul": "Can't you see my stacked Broken thyrsus", "lyric_translation": "Can’t you see my stacked broken thyrsus", "range": [103.23, 104.93], "ans": [7]},
+    {"lyric": "Ije nan dashi taeeonane biroso", "lyric_hangul": "이제 난 다시 태어나네 비로소", "lyric_translation": "Now I’m being born again", "range": [104.93, 109.0], "ans": [7]},
+    {"lyric": "When the night comes", "lyric_hangul": "When the night comes", "lyric_translation": "", "range": [109.0, 110.58], "ans": []},
+    {"lyric": "When the night comes mumble mumble mumble", "lyric_hangul": "When the night comes Mumble, mumble, mumble When the night comes", "lyric_translation": "When the night comes mumble mumble mumble", "range": [109.0, 113.26], "ans": [3]},
+    {"lyric": "When the night comes tumble tumble tumble", "lyric_hangul": "Tumble, tumble, tumble", "lyric_translation": "When the night comes tumble tumble tumble", "range": [113.26, 114.5], "ans": [3]},
+    "",
+    {"lyric": "Studioreul chaeun jeoeum jeoeum jeoeum", "lyric_hangul": "Studio 를 채운 저음 저음 저음", "lyric_translation": "The low notes fill up the studio", "range": [114.5, 117.01], "ans": [3]},
+    {"lyric": "Bass drum goes like deomdeomdeom", "lyric_hangul": "Bass drum goes like 덤덤덤 (yeah)", "lyric_translation": "Bass drum goes like dum dum dum", "range": [117.01, 119.49], "ans": [3]},
+    {"lyric": "Haega tteul ttaekkaji where the party at", "lyric_hangul": "해가 뜰 때까지 where the party at", "lyric_translation": "Till the sun rises, where the party at", "range": [119.49, 122.29], "ans": [5]},
+    {"lyric": "Jami deul ttaekkaji where the party at", "lyric_hangul": "잠이 들 때까지 where the party at", "lyric_translation": "Till we fall asleep, where the party at", "range": [122.29, 124.87], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Sing it bulleo dashi", "lyric_hangul": "Sing it 불러 다시", "lyric_translation": "Sing it, sing it again", "range": [124.87, 126.46], "ans": [4, 5]},
+    {"lyric": "Drink it mashyeo dashi", "lyric_hangul": "Drink it 마셔 다시", "lyric_translation": "Drink it, drink it again", "range": [126.46, 127.85], "ans": [4, 5]},
+    {"lyric": "Urin du beon taeeonaji", "lyric_hangul": "우린 두 번 태어나지", "lyric_translation": "We’re born again", "range": [127.85, 130.43], "ans": [5]},
+    {
+      "lyric_hangul": "쭉 들이켜 (창작의 고통) 한 입 (시대의 호통)",
+      "lyric_translation": "Drink up (to the pain of creation) / One gulp (to the shouts of the generation)",
+      "parts": [
+        {"lyric": "Jjuk deurikyeo", "range": [130.43, 132.01], "ans": [1]},
+        {"lyric": "(changjage gotong", "range": [131.31, 133.63], "ans": [4]},
+        {"lyric": "Han ip", "range": [132.93, 134.36], "ans": [1]},
+        {"lyric": "(shidaeye hotong", "range": [133.66, 135.68], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "쭉 들이켜 (나와의 소통) 한 입 (Okay, now I'm ready fo' sho')",
+      "lyric_translation": "Drink up (to communicating with me) / One gulp (Okay now I’m ready fo sho)",
+      "parts": [
+        {"lyric": "Jjuk deurikyeo", "range": [135.66, 137.21], "ans": [1]},
+        {"lyric": "Nawaye sotong", "range": [136.51, 138.36], "ans": [4]},
+        {"lyric": "Han ip", "range": [138.36, 139.31], "ans": [1]},
+        {"lyric": "Okay now I’m ready fo sho", "range": [138.61, 141.36], "ans": [4]}
+      ]
+    },
+    {"lyric": "Da mashyeo mashyeo mashyeo mashyeo nae suljan ay", "lyric_hangul": "다 마셔 마셔 마셔 마셔 내 술잔 ay", "lyric_translation": "Drink it all, drink it all, drink it all up", "range": [141.36, 144.17], "ans": [5]},
+    {"lyric": "Da ppajyeo ppajyeo ppajyeo michin yesulgae", "lyric_hangul": "다 빠져 빠져 빠져 미친 예술가에", "lyric_translation": "Everyone fall, fall, fall into this crazy artist", "range": [144.17, 147.42], "ans": [5]},
+    "",
+    {"lyric": "Han jan (one shot) du jan (two shot)", "lyric_hangul": "한 잔 (one shot) 두 잔 (two shots)", "lyric_translation": "One drink (one shot) two drinks (two shots)", "range": [147.42, 149.68], "ans": [7]},
+    {"lyric": "Yesure chwihae bulleo ongheya", "lyric_hangul": "예술에 취해 불러 옹헤야", "lyric_translation": "Drunk with the arts, singing", "range": [149.68, 152.35], "ans": [7]},
+    {"lyric": "Da mashyeo mashyeo mashyeo mashyeo nae suljan ay", "lyric_hangul": "다 마셔 마셔 마셔 마셔 내 술잔 ay", "lyric_translation": "Drink it all, drink it all, drink it all up", "range": [152.35, 155.21], "ans": [1]},
+    {"lyric": "Da ppajyeo ppajyeo ppajyeo michin yesulgae", "lyric_hangul": "다 빠져 빠져 빠져 미친 예술가에", "lyric_translation": "Everyone fall, fall, fall into this crazy artist", "range": [155.21, 158.11], "ans": [1]},
+    "",
+    {"lyric": "Han jan (one shot) du jan (two shot)", "lyric_hangul": "한 잔 (one shot) 두 잔 (two shots)", "lyric_translation": "One drink (one shot) two drinks (two shots)", "range": [158.11, 160.62], "ans": [7]},
+    {
+      "lyric_hangul": "꽹과리 치며 불러 옹헤야",
+      "lyric_translation": "Clang the brass, singing / Clang the brass, singing",
+      "parts": [
+        {"lyric": "Kkwaenggwari chimyeo bulleo ongheya", "range": [160.62, 162.71], "ans": [5]},
+        {"lyric": "Kkwaenggwari chimyeo bulleo ongheya", "range": [162.01, 163.4], "ans": [7]}
+      ]
+    },
+    {"lyric": "Uriga tteotta hamyeon jeonsegye", "lyric_hangul": "우리가 떴다 하면", "lyric_translation": "When we arrive, wherever it is in the world", "range": [163.07, 164.39], "ans": [2]},
+    "",
+    {"lyric": "Seodideunji stadium party ay", "lyric_hangul": "전세계 어디든지 stadium party, ay", "lyric_translation": "It’s a stadium party ay", "range": [164.39, 165.89], "ans": [2]},
+    {"lyric": "Kpop aidollo taeeona dashi hwansaenghan artist", "lyric_hangul": "K-pop 아이돌로 태어나 다시 환생한 artist 다시 환생한 artist", "lyric_translation": "Born as a kpop idol, reborn as an artist", "range": [165.89, 169.93], "ans": [2]},
+    {"lyric": "Dashi hwansaenghan artist dashi hwansaenghan artist", "lyric_hangul": "다시 환생한 artist", "lyric_translation": "Reborn as an artist, reborn as an artist", "range": [169.93, 171.18], "ans": [2]},
+    {"lyric": "Naega aidorideun yesulgaideun", "lyric_hangul": "내가 아이돌이든 예술가이든", "lyric_translation": "What’s so important whether I’m an idol or an artist", "range": [171.18, 172.75], "ans": [2]},
+    "",
+    {"lyric": "Mweoga jungyohae jjanhae", "lyric_hangul": "뭐가 중요해 짠해", "lyric_translation": "Let’s cheers", "range": [172.75, 174.14], "ans": [2]},
+    {"lyric": "Yesuldo i jeongdomyeon gwaeumiji gwaeum yeah", "lyric_hangul": "예술도 이 정도면 과음이지 과음 yeah", "lyric_translation": "Art, at this rate, is excessive drinking yeah", "range": [174.14, 176.9], "ans": [2]},
+    {"lyric": "Sae girogeun jashingwa ssaumiji ssaum yeah", "lyric_hangul": "새 기록은 자신과 싸움이지 싸움 yeah", "lyric_translation": "Setting a new record is a fight against yourself yeah", "range": [176.9, 179.59], "ans": [2]},
+    {"lyric": "Chukbaereul deureoolligo one shot", "lyric_hangul": "축배를 들어올리고 one shot", "lyric_translation": "Raise your glasses, one shot", "range": [179.59, 181.82], "ans": [2]},
+    {"lyric": "Heona nan yeojeonhi mongmalla", "lyric_hangul": "허나 난 여전히 목말라", "lyric_translation": "But I’m still thirsty", "range": [181.82, 185.18], "ans": [2]},
+    {"lyric": "What", "lyric_hangul": "What", "lyric_translation": "What", "range": [185.18, 187.79], "ans": [2]},
+    {"lyric": "Are you ready for this?", "lyric_hangul": "You ready for this?", "lyric_translation": "Are you ready for this?", "range": [187.79, 190.11], "ans": [4]},
+    {"lyric": "Are you ready to get hyped up?", "lyric_hangul": "Are you ready to get hyped up?", "lyric_translation": "Are you ready to get hyped up?", "range": [190.11, 193.41], "ans": [4]},
+    {"lyric": "Come on!", "lyric_hangul": "Come on", "lyric_translation": "Come on!", "range": [193.41, 195.97], "ans": [4]},
+    {"lyric": "Da mashyeo mashyeo mashyeo mashyeo nae suljan ay", "lyric_hangul": "다 마셔 마셔 마셔 마셔 내 술잔 ay", "lyric_translation": "Drink it all, drink it all, drink it all up", "range": [195.97, 198.79], "ans": [5, 7]},
+    {"lyric": "Da ppajyeo ppajyeo ppajyeo michin yesulgae", "lyric_hangul": "다 빠져 빠져 빠져 미친 예술가에", "lyric_translation": "Everyone fall, fall, fall into this crazy artist", "range": [198.79, 201.87], "ans": [5, 7]},
+    "",
+    {"lyric": "Han jan (one shot) du jan (two shot)", "lyric_hangul": "한 잔 (one shot) 두 잔 (two shots)", "lyric_translation": "One drink (one shot) two drinks (two shots)", "range": [201.87, 204.35], "ans": [6]},
+    {"lyric": "Yesure chwihae bulleo ongheya", "lyric_hangul": "예술에 취해 불러 옹헤야", "lyric_translation": "Drunk with the arts, singing", "range": [204.35, 206.94], "ans": [6]},
+    {"lyric": "Da mashyeo mashyeo mashyeo mashyeo nae suljan ay", "lyric_hangul": "다 마셔 마셔 마셔 마셔 내 술잔 ay", "lyric_translation": "Drink it all, drink it all, drink it all up", "range": [206.94, 209.61], "ans": [1]},
+    "",
+    {"lyric": "Da ppajyeo ppajyeo ppajyeo michin yesulgae", "lyric_hangul": "다 빠져 빠져 빠져 미친 예술가에", "lyric_translation": "Everyone fall, fall, fall into this crazy artist", "range": [209.61, 212.51], "ans": [1]},
+    {"lyric": "Han jan (one shot) du jan (two shot)", "lyric_hangul": "한 잔 (one shot) 두 잔 (two shots)", "lyric_translation": "One drink (one shot) two drinks (two shots)", "range": [212.51, 215.1], "ans": [6]},
+    {"lyric": "Kkwaenggwari chimyeo bulleo ongheya", "lyric_hangul": "꽹과리 치며 불러 옹헤야", "lyric_translation": "Clang the brass, singing", "range": [215.1, 218.28], "ans": [6]},
+    {
+      "lyric_hangul": "술잔 (sippin') 팔짱 (tippin')",
+      "lyric_translation": "Drink (sippin’), arm (tippin’) / Drink (sippin’), arm (tippin’)",
+      "parts": [
+        {"lyric": "Suljan", "range": [218.28, 218.81], "ans": [2]},
+        {"lyric": "Sippin’", "range": [218.33, 219.11], "ans": [6]},
+        {"lyric": "Paljjang", "range": [218.51, 219.4], "ans": [2]},
+        {"lyric": "Tippin’", "range": [218.81, 219.69], "ans": [6]},
+        {"lyric": "술잔", "range": [219.1, 219.98], "ans": [4]},
+        {"lyric": "Sippin’", "range": [219.39, 220.27], "ans": [6]},
+        {"lyric": "팔짱", "range": [219.68, 220.59], "ans": [4]},
+        {"lyric": "Tippin’", "range": [219.97, 220.64], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "티르소스 (grippin') 포도 (eatin')",
+      "lyric_translation": "Thyrsus (grippin’), grape (eatin’) / Thyrsus (grippin’), grape (eatin’)",
+      "parts": [
+        {"lyric": "티르소스", "range": [220.64, 221.38], "ans": [2]},
+        {"lyric": "Grippin’", "range": [220.82, 221.64], "ans": [6]},
+        {"lyric": "포도", "range": [221.08, 221.77], "ans": [2]},
+        {"lyric": "(", "range": [221.34, 222.17], "ans": [7]},
+        {"lyric": "Eatin’", "range": [221.47, 222.57], "ans": [6]},
+        {"lyric": "티르소스", "range": [221.87, 222.96], "ans": [4]},
+        {"lyric": "Grippin’", "range": [222.4, 223.22], "ans": [6]},
+        {"lyric": "포도", "range": [222.66, 223.62], "ans": [4]},
+        {"lyric": "Eatin’", "range": [222.92, 223.68], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "분위기 (keep it) D style (rip it)",
+      "lyric_translation": "Mood (keep it) D style (rip it) / Mood (keep it) D style (rip it)",
+      "parts": [
+        {"lyric": "Bunwigi", "range": [223.68, 224.43], "ans": [2]},
+        {"lyric": "Keep it", "range": [223.73, 224.56], "ans": [6]},
+        {"lyric": "D style", "range": [224.13, 224.83], "ans": [2]},
+        {"lyric": "Rip it", "range": [224.26, 225.23], "ans": [6]},
+        {"lyric": "Bunwigi", "range": [224.53, 225.63], "ans": [4]},
+        {"lyric": "Keep it", "range": [224.93, 225.76], "ans": [6]},
+        {"lyric": "D style", "range": [225.33, 226.03], "ans": [4]},
+        {"lyric": "Rip it", "range": [225.46, 226.08], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "여기 (kill it) let's steal it",
+      "lyric_translation": "Here (kill it) let’s steal it / Here (kill it) let’s steal it",
+      "parts": [
+        {"lyric": "Yeogi (kill it) let’s steal it", "range": [226.08, 228.18], "ans": [2, 6]},
+        {"lyric": "Yeogi (kill it) let’s steal it", "range": [227.48, 228.3], "ans": [4, 6]}
+      ]
+    },
+    {
+      "lyric_hangul": "The illest",
+      "lyric_translation": "The illest / The illest",
+      "parts": [
+        {"lyric": "The illest", "range": [227.98, 228.7], "ans": [2, 6]},
+        {"lyric": "The illest", "range": [228.03, 229.06], "ans": [4, 6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "술잔 (sippin') 팔짱 (tippin')",
+      "lyric_translation": "Drink (sippin’), arm (tippin’)",
+      "parts": [
+        {"lyric": "Suljan", "range": [229.06, 230.15], "ans": [3]},
+        {"lyric": "Sippin’", "range": [229.45, 230.83], "ans": [6]},
+        {"lyric": "Paljjang", "range": [230.13, 231.58], "ans": [3]},
+        {"lyric": "Tippin’", "range": [230.88, 231.72], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "티르소스 (grippin') 포도 (eatin')",
+      "lyric_translation": "Thyrsus (grippin’), grape (eatin’)",
+      "parts": [
+        {"lyric": "Tireusoseu", "range": [231.33, 233.07], "ans": [3]},
+        {"lyric": "Grippin’", "range": [232.37, 233.69], "ans": [6]},
+        {"lyric": "Podo", "range": [232.99, 234.12], "ans": [3]},
+        {"lyric": "Eatin’", "range": [233.42, 234.34], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "분위기 (keep it) D style (rip it)",
+      "lyric_translation": "Mood (keep it) D style (rip it)",
+      "parts": [
+        {"lyric": "분위기", "range": [234.04, 235.41], "ans": [3]},
+        {"lyric": "(", "range": [234.77, 235.81], "ans": [7]},
+        {"lyric": "Keep it", "range": [235.11, 236.51], "ans": [6]},
+        {"lyric": "D style", "range": [235.81, 236.99], "ans": [3]},
+        {"lyric": "Rip it", "range": [236.29, 237.23], "ans": [6]}
+      ]
+    },
+    {"lyric": "Yeogi (kill it) let’s steal it", "lyric_hangul": "여기 (kill it) let's steal it", "lyric_translation": "Here (kill it) let’s steal it", "range": [236.83, 238.95], "ans": [3, 6]},
+    {"lyric": "The illest", "lyric_hangul": "The illest", "lyric_translation": "The illest", "range": [238.95, 240.05], "ans": [3, 6]},
+    {"lyric": "Yeah, hey!", "lyric_hangul": "Yeah, hey!", "lyric_translation": "", "range": [240.05, 243.67], "ans": []}
+  ]
+}

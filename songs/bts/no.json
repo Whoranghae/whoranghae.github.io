@@ -1,0 +1,243 @@
+{
+  "name": "N.O\r",
+  "ogg": "sound/kpop/no.ogg",
+  "id": "no",
+  "group": "bts",
+  "language": "ko",
+  "released": "2013-09-11",
+  "album": "O!RUL8,2?",
+  "cover": "css/images/covers/no.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:03Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "좋은 집 좋은 차 그런 게 행복일 수 있을까?",
+      "lyric_translation": "A good house, / A good car, / Will these things bring happiness?",
+      "parts": [
+        {"lyric": "Joheun jip(joheun jip)", "range": [12.57, 13.33], "ans": []},
+        {"lyric": "Joheun cha(joheun cha)", "range": [13.33, 16.07], "ans": []},
+        {"lyric": "Geureon ge haengbogil su isseulkka?(isseulkka)", "range": [16.07, 19.12], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "In Seoul to the sky, 부모님은 정말 행복해질까?",
+      "lyric_translation": "In Seoul / To the SKY, / Will parents really be happy?",
+      "parts": [
+        {"lyric": "In Seoul(In Seoul)", "range": [19.12, 21.69], "ans": []},
+        {"lyric": "To the SKY(To the SKY),", "range": [21.69, 23.28], "ans": []},
+        {"lyric": "Bumonimeun jeongmal haengbokhaejilkka?(haejilkka)", "range": [23.28, 25.68], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Kkum eobseojyeotji sumswil teumdo eobsi", "lyric_hangul": "꿈 없어졌지 숨 쉴 틈도 없이", "lyric_translation": "Dreams disappeared,", "range": [25.68, 28.92], "ans": []},
+    {
+      "lyric_hangul": "학교와 집 아니면 피씨방이 다인 쳇바퀴",
+      "lyric_translation": "There was no time to rest / It’s a cycle of school,",
+      "parts": [
+        {"lyric": "Hakgyowa jip animyeon", "range": [28.92, 30.48], "ans": []},
+        {"lyric": "Pissibangi dain chetbakwi", "range": [30.48, 32.98], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "같은 삶들을 살며 일등을 강요",
+      "lyric_translation": "Home or an Internet cafe / Everyone lives the same life",
+      "parts": [
+        {"lyric": "Gateun sarmdeureul salmyeo", "range": [32.01, 34.11], "ans": []},
+        {"lyric": "Ildeungeul gangyo", "range": [34.11, 35.73], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "받는 학생은 꿈과 현실 사이의 이중간첩",
+      "lyric_translation": "Students who are pressured to be number / One live in between dreams and reality",
+      "parts": [
+        {"lyric": "Batneun haksaengeun kkumgwa", "range": [35.42, 36.92], "ans": []},
+        {"lyric": "Hyeonsil saiui ijunggancheop", "range": [36.92, 39.09], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우릴 공부하는 기계로 만든 건 누구?",
+      "lyric_translation": "Who is the one who made us into studying machines? / They classify us to either",
+      "parts": [
+        {"lyric": "Uril gongbuhaneun gigyero", "range": [39.09, 40.05], "ans": []},
+        {"lyric": "Mandeun geon nugu?", "range": [40.05, 40.79], "ans": []}
+      ]
+    },
+    {"lyric": "Ildeungi animyeon nagoro gubun", "lyric_hangul": "일등이 아니면 낙오로 구분", "lyric_translation": "Being number one or dropping out", "range": [40.37, 42.05], "ans": []},
+    {
+      "lyric_hangul": "짓게 만든 건 틀에 가둔 건 어른이란 걸 쉽게 수긍",
+      "lyric_translation": "They trap us in borders, the adults / There’s no choice but to consent",
+      "parts": [
+        {"lyric": "Jitge mandeun geon teure gadun geon", "range": [42.05, 44.15], "ans": []},
+        {"lyric": "Eoreuniran geol swipge sugeung", "range": [44.15, 45.65], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "할 수밖에 단순하게 생각해도 약육강식 아래",
+      "lyric_translation": "Even if we think simply, / It’s the survival of the fittest",
+      "parts": [
+        {"lyric": "Hal subakke dansunhage", "range": [45.14, 47.16], "ans": []},
+        {"lyric": "Saenggakhaedo yagyukgangsik arae", "range": [47.16, 48.88], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "친한 친구도 밟고 올라서게 만든 게 누구라 생각해 what?",
+      "lyric_translation": "Who do you think is the one who makes us step / On even our close friends to climb up? What?",
+      "parts": [
+        {"lyric": "Chinhan chingudo barpgo ollaseoge", "range": [48.49, 50.79], "ans": []},
+        {"lyric": "Mandeun ge nugura saenggakhae what?", "range": [50.79, 52.65], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "어른들은 내게 말하지 힘든 건 지금뿐이라고",
+      "lyric_translation": "Adults tell me that hardships / Are only momentary",
+      "parts": [
+        {"lyric": "Eoreundeureun naege malhaji", "range": [52.65, 55.49], "ans": []},
+        {"lyric": "Himdeun geon jigeumppunirago", "range": [55.49, 58.67], "ans": []}
+      ]
+    },
+    {"lyric": "Jogeum deo chameurago najunge harago", "lyric_hangul": "조금 더 참으라고 나중에 하라고", "lyric_translation": "To endure a little more, to do it later", "range": [58.5, 63.48], "ans": []},
+    "",
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [63.48, 65.86], "ans": []},
+    {"lyric": "Deoneun najungiran mallo andwae", "lyric_hangul": "더는 나중이란 말로 안돼", "lyric_translation": "It can’t be any later", "range": [65.86, 69.08], "ans": []},
+    {"lyric": "Deoneun namui kkume gatyeo salji ma", "lyric_hangul": "더는 남의 꿈에 갇혀 살지 마", "lyric_translation": "Don’t be trapped in someone else’s dream", "range": [69.08, 72.94], "ans": []},
+    {
+      "lyric_hangul": "We roll (We roll) We roll (We roll) We roll",
+      "lyric_translation": "We roll (We roll) / We roll (We roll) We roll",
+      "parts": [
+        {"lyric": "We roll (We roll)", "range": [72.94, 76.02], "ans": []},
+        {"lyric": "We roll (We roll) We roll", "range": [76.02, 77.06], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [77.06, 78.93], "ans": []},
+    {"lyric": "Jeongmal jigeumi animyeon andwae", "lyric_hangul": "정말 지금이 아니면 안돼", "lyric_translation": "It has to be now or never", "range": [78.93, 82.15], "ans": []},
+    {"lyric": "Ajik amugeotdo haebon ge eobtjanha", "lyric_hangul": "아직 아무것도 해본 게 없잖아", "lyric_translation": "We still haven’t done anything", "range": [82.15, 85.96], "ans": []},
+    {
+      "lyric_hangul": "We roll (We roll) We roll (We roll) We roll",
+      "lyric_translation": "We roll (We roll) / We roll (We roll) We roll",
+      "parts": [
+        {"lyric": "We roll (We roll)", "range": [85.96, 89.07], "ans": []},
+        {"lyric": "We roll (We roll) We roll", "range": [89.07, 90.61], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Everybody say NO!",
+      "lyric_translation": "Everybody say NO! / A good house, / A good car,",
+      "parts": [
+        {"lyric": "Everybody say NO!", "range": [90.11, 90.69], "ans": []},
+        {"lyric": "Joheun jip (joheun jip)", "range": [90.69, 91.25], "ans": []},
+        {"lyric": "Joheun cha (joheun cha)", "range": [91.25, 91.79], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Geureon ge haengbogil su isseulkka? (isseulkka)", "lyric_hangul": "좋은 집 좋은 차 그런 게 행복일 수 있을까?", "lyric_translation": "Will these things bring happiness?", "range": [91.45, 97.45], "ans": []},
+    {
+      "lyric_hangul": "In Seoul to the sky, 부모님은 정말 행복해질까?",
+      "lyric_translation": "In Seoul / To the SKY, / Will parents really be happy?",
+      "parts": [
+        {"lyric": "In Seoul (In Seoul)", "range": [97.45, 100.09], "ans": []},
+        {"lyric": "To the SKY (To the SKY),", "range": [100.09, 101.65], "ans": []},
+        {"lyric": "Bumonimeun jeongmal haengbokhaejilkka? (haejilkka)", "range": [101.65, 103.83], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Nolgo meokgo sipeo", "lyric_hangul": "놀고 먹고 싶어", "lyric_translation": "I want to play and eat,", "range": [103.83, 105.58], "ans": []},
+    {"lyric": "Gyobok jjitgo sipeo", "lyric_hangul": "교복 찢고 싶어", "lyric_translation": "I want to tear my uniform", "range": [105.58, 107.14], "ans": []},
+    {"lyric": "Make money good money", "lyric_hangul": "Make money good money", "lyric_translation": "Make money, good money,", "range": [107.14, 108.79], "ans": []},
+    {"lyric": "Beolsseo ppittakhan siseon", "lyric_hangul": "벌써 삐딱한 시선", "lyric_translation": "But they already view me crookedly", "range": [108.79, 110.63], "ans": []},
+    {
+      "lyric_hangul": "막연함뿐인 통장 내 불행은 한도초과지",
+      "lyric_translation": "My obscure bank account, / My unhappiness is past its limit",
+      "parts": [
+        {"lyric": "Magyeonhamppunin tongjang,", "range": [110.63, 112.36], "ans": []},
+        {"lyric": "Nae bulhaengeun handochogwaji", "range": [112.36, 114.04], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "공부하는 한숨 공장 계속되는 돌려막기",
+      "lyric_translation": "A factory of sighs while studying, / A continuous cycle",
+      "parts": [
+        {"lyric": "Gongbuhaneun hansum gongjang,", "range": [113.64, 115.72], "ans": []},
+        {"lyric": "Gyesokdoeneun dollyeomakgi", "range": [115.72, 117.4], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "어른들이 하는 고백 너넨 참 편한 거래",
+      "lyric_translation": "The grown-ups confess / That we have it so easy",
+      "parts": [
+        {"lyric": "Eoreundeuri haneun gobaek", "range": [116.98, 118.92], "ans": []},
+        {"lyric": "Neonen cham pyeonhan georae", "range": [118.92, 120.52], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "분에 넘치게 행복한 거래 그럼 이렇게도 불행한 나는 뭔데",
+      "lyric_translation": "They say that we are happier than our portion / Then how do you explain my unhappiness?",
+      "parts": [
+        {"lyric": "Bune neomchige haengbokhan georae", "range": [120.25, 122.07], "ans": []},
+        {"lyric": "Geureom ireokedo bulhaenghan naneun mwonde", "range": [122.07, 123.71], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "공부 외엔 대화주제가 없어 밖엔 나 같은 애가 넘쳐",
+      "lyric_translation": "There’s no conversation topics beside studying / Outside, there are so many kids like me,",
+      "parts": [
+        {"lyric": "Gongbu oeen daehwajujega eobseo", "range": [123.43, 125.33], "ans": []},
+        {"lyric": "Bakken na gateun aega neomchyeo", "range": [125.33, 127.13], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "똑같은 꼭두각시 인생 도대체 누가 책임져줘?",
+      "lyric_translation": "Living the life of a puppet / Who will take responsibility?",
+      "parts": [
+        {"lyric": "Ttokgateun kkokdugaksi insaeng", "range": [127.13, 128.67], "ans": []},
+        {"lyric": "Dodaeche nuga chaegimjyeojwo?", "range": [128.67, 131.08], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "어른들은 내게 말하지 힘든 건 지금뿐이라고",
+      "lyric_translation": "Adults tell me that hardships / Are only momentary",
+      "parts": [
+        {"lyric": "Eoreundeureun naege malhaji", "range": [131.08, 133.9], "ans": []},
+        {"lyric": "Himdeun geon jigeumppunirago", "range": [133.9, 137.02], "ans": []}
+      ]
+    },
+    {"lyric": "Jogeum deo chameurago najunge harago", "lyric_hangul": "조금 더 참으라고 나중에 하라고", "lyric_translation": "To endure a little more, to do it later", "range": [136.96, 141.85], "ans": []},
+    "",
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [141.85, 144.27], "ans": []},
+    {"lyric": "Deoneun najungiran mallo andwae", "lyric_hangul": "더는 나중이란 말로 안돼", "lyric_translation": "It can’t be any later", "range": [144.27, 147.52], "ans": []},
+    {"lyric": "Deoneun namui kkume gatyeo salji ma", "lyric_hangul": "더는 남의 꿈에 갇혀 살지 마", "lyric_translation": "Don’t be trapped in someone else’s dream", "range": [147.52, 151.03], "ans": []},
+    {
+      "lyric_hangul": "We roll (We roll) We roll (We roll) We roll",
+      "lyric_translation": "We roll (We roll) / We roll (We roll) We roll",
+      "parts": [
+        {"lyric": "We roll (We roll)", "range": [151.03, 154.41], "ans": []},
+        {"lyric": "We roll (We roll) We roll", "range": [154.41, 155.28], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [155.28, 157.45], "ans": []},
+    {"lyric": "Jeongmal jigeumi animyeon andwae", "lyric_hangul": "정말 지금이 아니면 안돼", "lyric_translation": "It has to be now or never", "range": [157.45, 160.56], "ans": []},
+    {"lyric": "Ajik amugeotdo haebon ge eobtjanha", "lyric_hangul": "아직 아무것도 해본 게 없잖아", "lyric_translation": "We still haven’t done anything", "range": [160.56, 164.42], "ans": []},
+    {
+      "lyric_hangul": "We roll (We roll) We roll (We roll) We roll",
+      "lyric_translation": "We roll (We roll) / We roll (We roll) We roll",
+      "parts": [
+        {"lyric": "We roll (We roll)", "range": [164.42, 167.41], "ans": []},
+        {"lyric": "We roll (We roll) We roll", "range": [167.41, 169.02], "ans": []}
+      ]
+    },
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [168.52, 172.6], "ans": []},
+    "",
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [174.63, 181.43], "ans": []},
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [181.43, 187.97], "ans": []},
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [187.97, 200.78], "ans": []},
+    {"lyric": "Everybody say NO!", "lyric_hangul": "Everybody say NO!", "lyric_translation": "Everybody say NO!", "range": [200.78, 204.92], "ans": []}
+  ]
+}

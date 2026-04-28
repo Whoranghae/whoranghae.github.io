@@ -1,0 +1,106 @@
+{
+  "name": "Dimple (보조개)\r",
+  "ogg": "sound/kpop/dimple.ogg",
+  "id": "dimple",
+  "group": "bts",
+  "language": "ko",
+  "released": "2017-09-18",
+  "album": "LOVE YOURSELF 承 ‘Her’",
+  "cover": "css/images/covers/dimple.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:38Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Kkokkkok sumeottaga useumyeon natana", "lyric_hangul": "꼭꼭 숨었다가 웃으면 나타나", "lyric_translation": "You hide but only appear when you smile", "range": [6.6, 10.23], "ans": [6]},
+    {"lyric": "Eodiseo on geolkka", "lyric_hangul": "어디서 온 걸까", "lyric_translation": "Where did you come from?", "range": [10.23, 13.95], "ans": [6]},
+    {"lyric": "Geojitmalhajima cheonsaga matjana", "lyric_hangul": "거짓말하지마 천사가 맞잖아", "lyric_translation": "Don’t lie, I know you’re an angel", "range": [13.95, 17.4], "ans": [5]},
+    {"lyric": "Ni jeongchega mwoya", "lyric_hangul": "니 정체가 뭐야", "lyric_translation": "What are you?", "range": [17.4, 20.42], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "But you 그 미소는 잔인하다 못해",
+      "lyric_translation": "But you / That smile is so cruel",
+      "parts": [
+        {"lyric": "But you", "range": [20.42, 22.7], "ans": [7]},
+        {"lyric": "Geu misoneun janinhada mothae", "range": [22.7, 24.98], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Cruel 그 볼을 못 봤어야 해",
+      "lyric_translation": "Cruel / I shouldn’t have seen that cheek / You",
+      "parts": [
+        {"lyric": "Cruel", "range": [24.42, 26.13], "ans": [7]},
+        {"lyric": "Geu boreul mot bwasseoya hae", "range": [25.43, 28.23], "ans": [1]},
+        {"lyric": "You", "range": [27.55, 28.28], "ans": [7]}
+      ]
+    },
+    {"lyric": "Sashil jinjja wiheomhan geon", "lyric_hangul": "You 사실 진짜 위험한 건", "lyric_translation": "What’s really dangerous", "range": [28.05, 31.6], "ans": [5]},
+    {"lyric": "Neoegeman itneun geoya", "lyric_hangul": "너에게만 있는 거야", "lyric_translation": "Is only in your possession", "range": [31.6, 34.47], "ans": [5]},
+    "",
+    {"lyric": "Geu bojogaen illegal", "lyric_hangul": "그 보조갠 illegal (illegal)", "lyric_translation": "That dimple is illegal", "range": [34.47, 38.9], "ans": [7]},
+    {"lyric": "Andwae wiheomhae oh yes", "lyric_hangul": "안돼 위험해, oh yes", "lyric_translation": "No, it’s dangerous, oh yes", "range": [38.9, 41.69], "ans": [7]},
+    {"lyric": "So I call you illegirl", "lyric_hangul": "So I call you illegirl (illegirl)", "lyric_translation": "So I call you illegirl", "range": [41.69, 45.85], "ans": [5]},
+    {"lyric": "Jonjae jachega beomjoe", "lyric_hangul": "존재 자체가 범죄", "lyric_translation": "Your existence alone is a crime", "range": [45.85, 48.28], "ans": [5]},
+    "",
+    {"lyric": "Cheonsaga namgin shilsuyeotna", "lyric_hangul": "천사가 남긴 실수였나", "lyric_translation": "Was it a mistake made by an angel?", "range": [48.28, 51.69], "ans": [1]},
+    {"lyric": "Animyeon jinhan kiseuyeotna", "lyric_hangul": "아니면 진한 키스였나", "lyric_translation": "Or a deep kiss?", "range": [51.69, 55.43], "ans": [1]},
+    {"lyric": "Geu bojogaen illegal", "lyric_hangul": "그 보조갠 illegal (illegal)", "lyric_translation": "That dimple is illegal", "range": [55.43, 60.56], "ans": [6]},
+    {"lyric": "But I want it anyway anyway anyway", "lyric_hangul": "But I want it anyway, anyway, anyway", "lyric_translation": "But I want it anyway anyway anyway", "range": [60.56, 63.75], "ans": [6, 7]},
+    "",
+    {"lyric": "Naegeneun eopseoseo neoegeman isseoseo", "lyric_hangul": "내게는 없어서 너에게만 있어서", "lyric_translation": "I don’t have it, only you have it", "range": [63.75, 67.34], "ans": [1]},
+    {"lyric": "Ireoke himdeun geolkka", "lyric_hangul": "이렇게 힘든 걸까", "lyric_translation": "Is that why it’s so hard?", "range": [67.34, 70.94], "ans": [1]},
+    {"lyric": "Ppajyeo jukgo shipeo jamgyeo jukgo shipeo", "lyric_hangul": "빠져 죽고 싶어 잠겨 죽고 싶어", "lyric_translation": "I wanna die fallen in you, I wanna die locked in you", "range": [70.94, 74.48], "ans": [7]},
+    {"lyric": "Neon naege hosuya", "lyric_hangul": "넌 내게 호수야", "lyric_translation": "You are my lake", "range": [74.48, 77.34], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "'Cause you 웃을 때면 어질어질해",
+      "lyric_translation": "Cause you / When you smile, I get dizzy",
+      "parts": [
+        {"lyric": "Cause you", "range": [77.34, 80.41], "ans": [7]},
+        {"lyric": "Useul ttaemyeon eojireojilhae", "range": [79.71, 81.68], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "True 너 제발 조심해줄래",
+      "lyric_translation": "True / Please be careful / You",
+      "parts": [
+        {"lyric": "True", "range": [81.32, 82.25], "ans": [7]},
+        {"lyric": "Neo jebal joshimhaejullae", "range": [81.55, 84.91], "ans": [5]},
+        {"lyric": "You", "range": [84.21, 85.24], "ans": [7]}
+      ]
+    },
+    {"lyric": "Sashil jom deo wiheomhan geon", "lyric_hangul": "You 사실 좀 더 위험한 건", "lyric_translation": "What’s really dangerous", "range": [84.97, 88.48], "ans": [1]},
+    {"lyric": "Neoegeman itneun geoya", "lyric_hangul": "너에게만 있는 거야", "lyric_translation": "Is only in your possession", "range": [88.48, 91.32], "ans": [1]},
+    "",
+    {"lyric": "Geu bojogaen illegal", "lyric_hangul": "그 보조갠 illegal (illegal)", "lyric_translation": "That dimple is illegal", "range": [91.32, 95.78], "ans": [6]},
+    {"lyric": "Andwae wiheomhae oh yes", "lyric_hangul": "안돼 위험해, oh yes", "lyric_translation": "No, it’s dangerous, oh yes", "range": [95.78, 98.56], "ans": [7]},
+    {"lyric": "So I call you illegirl", "lyric_hangul": "So I call you illegirl (illegirl)", "lyric_translation": "So I call you illegirl", "range": [98.56, 102.87], "ans": [1]},
+    {"lyric": "Jonjae jachega beomjoe", "lyric_hangul": "존재 자체가 범죄", "lyric_translation": "Your existence alone is a crime", "range": [102.87, 105.19], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Cheonsaga namgin shilsuyeotna", "lyric_hangul": "천사가 남긴 실수였나", "lyric_translation": "Was it a mistake made by an angel?", "range": [105.19, 108.58], "ans": [5]},
+    {"lyric": "Animyeon jinhan kiseuyeotna", "lyric_hangul": "아니면 진한 키스였나", "lyric_translation": "Or a deep kiss?", "range": [108.58, 112.62], "ans": [5]},
+    {"lyric": "Geu bojogaen illegal", "lyric_hangul": "그 보조갠 illegal (illegal)", "lyric_translation": "That dimple is illegal", "range": [112.62, 117.42], "ans": [7]},
+    {"lyric": "But I love it anyway anyway anyway", "lyric_hangul": "But I want it anyway, anyway, anyway", "lyric_translation": "But I love it anyway anyway anyway", "range": [117.42, 120.38], "ans": [7]},
+    "",
+    {"lyric": "Bol ttaemada maeumi wiheomhaejyeo", "lyric_hangul": "볼 때마다 마음이 위험해져", "lyric_translation": "Every time I see you, my heart gets dangerous", "range": [120.38, 126.98], "ans": [6]},
+    {"lyric": "Bol ttaemada jeomjeom wiheomhaejyeo", "lyric_hangul": "볼 때마다 점점 위험해져", "lyric_translation": "Every time I see you, it gets more dangerous", "range": [126.98, 134.0], "ans": [5]},
+    {"lyric": "Oh baby no hey", "lyric_hangul": "Oh baby, no, hey, oh no", "lyric_translation": "Oh baby no hey", "range": [134.0, 141.11], "ans": [1]},
+    {"lyric": "Oh baby no hey", "lyric_hangul": "Oh baby, no, hey", "lyric_translation": "Oh baby no hey", "range": [141.11, 144.66], "ans": [7]},
+    {"lyric": "I sesange itgin neomu wiheomhan geol", "lyric_hangul": "이 세상에 있긴 너무 위험한 걸", "lyric_translation": "You’re too dangerous to live in this world", "range": [144.66, 148.35], "ans": [7]},
+    "",
+    {"lyric": "Geu bojogaen illegal", "lyric_hangul": "그 보조갠 illegal (Illegal)", "lyric_translation": "That dimple is illegal", "range": [148.35, 152.86], "ans": [7]},
+    {"lyric": "Andwae wiheomhae oh yes", "lyric_hangul": "안돼 위험해, oh yes", "lyric_translation": "No, it’s dangerous, oh yes", "range": [152.86, 155.42], "ans": [7]},
+    {"lyric": "So I call you illegirl", "lyric_hangul": "So I call you illegirl (illegirl)", "lyric_translation": "So I call you illegirl", "range": [155.42, 159.65], "ans": [5]},
+    {"lyric": "Jonjae jachega beomjoe", "lyric_hangul": "존재 자체가 범죄", "lyric_translation": "Your existence alone is a crime", "range": [159.65, 162.15], "ans": [5]},
+    "",
+    {"lyric": "Cheonsaga namgin shilsuyeotna", "lyric_hangul": "천사가 남긴 실수였나", "lyric_translation": "Was it a mistake made by an angel?", "range": [162.15, 165.58], "ans": [1]},
+    {"lyric": "Animyeon jinhan kiseuyeotna", "lyric_hangul": "아니면 진한 키스였나", "lyric_translation": "Or a deep kiss?", "range": [165.58, 169.25], "ans": [1]},
+    {"lyric": "Geu bojogaen illegal", "lyric_hangul": "그 보조갠 illegal (illegal)", "lyric_translation": "That dimple is illegal", "range": [169.25, 174.36], "ans": [6]},
+    {"lyric": "But I want it anyway anyway anyway", "lyric_hangul": "But I want it anyway, anyway, anyway", "lyric_translation": "But I want it anyway anyway anyway", "range": [174.36, 178.07], "ans": [6, 7]},
+    "",
+    {"lyric": "Illegal", "lyric_hangul": "Illegal", "lyric_translation": "Illegal", "range": [178.07, 185.06], "ans": [7]},
+    {"lyric": "Illegal", "lyric_hangul": "Illegal", "lyric_translation": "Illegal", "range": [185.06, 188.52], "ans": [7]},
+    {"lyric": "But I want it anyway anyway anyway", "lyric_hangul": "But I want it anyway, anyway, anyway", "lyric_translation": "But I want it anyway anyway anyway", "range": [188.52, 193.26], "ans": [7]}
+  ]
+}

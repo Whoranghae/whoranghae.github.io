@@ -1,0 +1,230 @@
+{
+  "name": "First Love\r",
+  "ogg": "sound/kpop/first_love.ogg",
+  "id": "first-love",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/first-love.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:46Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "내 기억의 구석 한켠에 자리 잡은 갈색 piano",
+      "lyric_translation": "The corner of my memory / A brown piano settled on one side",
+      "parts": [
+        {"lyric": "Nae gieogui guseok", "range": [3.58, 5.18], "ans": [2]},
+        {"lyric": "Han kyeone jarijabeun galsaek piano", "range": [5.18, 14.4], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "어릴 적 집 안의 구석 한 켠에 자리 잡은 갈색 piano",
+      "lyric_translation": "In the corner of my childhood house / A brown piano settled on one side",
+      "parts": [
+        {"lyric": "Eoril jeok jip anui guseok", "range": [14.4, 17.04], "ans": [2]},
+        {"lyric": "Han kyeone jarijabeun galsaek piano", "range": [17.04, 20.84], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "그때 기억해 내 키보다 훨씬 더 컸던",
+      "lyric_translation": "I remember that moment / Way taller than my height",
+      "parts": [
+        {"lyric": "Geuttae gieokhae", "range": [24.67, 25.75], "ans": [2]},
+        {"lyric": "Nae kiboda hwolssin deo keotdeon", "range": [25.75, 27.65], "ans": [2]}
+      ]
+    },
+    {"lyric": "Galsaek piano geuge nal ikkeul ttae", "lyric_hangul": "갈색 piano 그게 날 이끌 때", "lyric_translation": "The brown piano that guided me", "range": [27.09, 30.06], "ans": [2]},
+    {
+      "lyric_hangul": "널 우러러보며 동경했었네",
+      "lyric_translation": "I looked up to you / I yearned for you",
+      "parts": [
+        {"lyric": "Neol ureoreobomyeo", "range": [30.06, 31.3], "ans": [2]},
+        {"lyric": "Donggyeonghaesseone", "range": [31.3, 32.93], "ans": [2]}
+      ]
+    },
+    {"lyric": "Jageun songarageuro neol eorumanjil ttae", "lyric_hangul": "작은 손가락으로 널 어루만질 때", "lyric_translation": "When I touched you with my small finger", "range": [32.93, 35.95], "ans": [2]},
+    {"lyric": "“I feel so nice, mom I feel so nice”", "lyric_hangul": "\"I feel so nice, mom, I feel so nice\"", "lyric_translation": "I feel so nice mom I feel so nice", "range": [35.95, 38.52], "ans": [2]},
+    {"lyric": "Geujeo son gadeon daero geonildeon geonban", "lyric_hangul": "그저 손 가던 대로 거닐던 건반", "lyric_translation": "I played the piano wherever my hands took me", "range": [38.52, 40.82], "ans": [2]},
+    {"lyric": "Geuttaen neoui uimireul mollasseone", "lyric_hangul": "그땐 너의 의미를 몰랐었네", "lyric_translation": "I didn’t know your significance back then", "range": [40.82, 43.97], "ans": [2]},
+    {"lyric": "Barabogiman haedo johatdeon geuttae", "lyric_hangul": "바라보기만 해도 좋았던 그때", "lyric_translation": "Back then I was content with just looking at you", "range": [43.97, 46.21], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "그때 기억해 초등학교 무렵",
+      "lyric_translation": "I remember back / during my elementary school days",
+      "parts": [
+        {"lyric": "Geuttae gieokhae", "range": [46.21, 47.79], "ans": [2]},
+        {"lyric": "Chodeunghakgyo muryeop", "range": [47.79, 49.27], "ans": [2]}
+      ]
+    },
+    {"lyric": "Nae kiga neoui kiboda deo keojyeotdeon geuttae", "lyric_hangul": "내 키가 너의 키보다 더 커졌던 그때", "lyric_translation": "When my height became taller than yours", "range": [49.15, 52.18], "ans": [2]},
+    {"lyric": "Geutorok donggyeonghaetdeon neol deunghansihamyeo", "lyric_hangul": "그토록 동경했던 널 등한시하며", "lyric_translation": "I neglected you when I once yearned for you so", "range": [52.18, 54.53], "ans": [2]},
+    {
+      "lyric_hangul": "백옥 같던 건반 그 위 먼지가 쌓여가며",
+      "lyric_translation": "On top of the white jade-like keyboard / Dust is piling on",
+      "parts": [
+        {"lyric": "Baegok gatdeon geonban geu", "range": [54.53, 55.93], "ans": [2]},
+        {"lyric": "Wi meonjiga ssahyeogamyeo", "range": [55.93, 57.39], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "방치됐던 네 모습 그때도 몰랐었지",
+      "lyric_translation": "Your image that has been neglected / Even then I didn’t know your significance",
+      "parts": [
+        {"lyric": "Bangchidwaetdeon ni moseup", "range": [57.29, 58.69], "ans": [2]},
+        {"lyric": "Geuttaedo mollasseoji", "range": [58.69, 60.19], "ans": [2]}
+      ]
+    },
+    {"lyric": "Neoui uimi naega eodi itdeun hangsang neon geu jaril", "lyric_hangul": "너의 의미 내가 어디 있든 넌 항상 그자릴", "lyric_translation": "No matter where I am", "range": [60.05, 62.76], "ans": [2]},
+    {
+      "lyric_hangul": "지켰으니 그런데 그게 마지막이 될 줄 몰랐네",
+      "lyric_translation": "You always defended that spot / But I didn’t know that would be the last",
+      "parts": [
+        {"lyric": "Jikyeosseuni geureonde", "range": [62.76, 64.0], "ans": [2]},
+        {"lyric": "Geuge majimagi doel jul mollane", "range": [64.0, 66.74], "ans": [2]}
+      ]
+    },
+    {"lyric": "Idaeron gajima you say..", "lyric_hangul": "이대론 가지 마, you say...", "lyric_translation": "You say don’t leave like this", "range": [66.61, 68.62], "ans": [2]},
+    "",
+    {"lyric": "“naega tteonado geokjeongeun hajima", "lyric_hangul": "\"내가 떠나도 걱정은 하지 마\"", "lyric_translation": "Don’t worry even if I leave", "range": [68.62, 71.75], "ans": [2]},
+    {"lyric": "Neon seuseuro jal haenael tenikka", "lyric_hangul": "\"넌 스스로 잘 해낼 테니까\"", "lyric_translation": "You’ll do well on your own", "range": [71.75, 74.45], "ans": [2]},
+    {"lyric": "Neol cheoeum mannatdeon", "lyric_hangul": "\"널 처음 만났던 그때가\"", "lyric_translation": "I remember when I first met you", "range": [74.45, 76.19], "ans": [2]},
+    {
+      "lyric_hangul": "\"생각나 어느새 훌쩍 커버렸네 네가\"",
+      "lyric_translation": "Before I knew it you grew up / Though we are putting an end to our relationship",
+      "parts": [
+        {"lyric": "Geuttaega saenggakna", "range": [76.19, 77.45], "ans": [2]},
+        {"lyric": "Eoneusae huljjeok keobeoryeone niga", "range": [76.71, 79.39], "ans": [2]}
+      ]
+    },
+    {"lyric": "Uri gwangyeneun machimpyoreul jjikjiman jeoldae", "lyric_hangul": "\"우리 관계는 마침표를 찍지만\"", "lyric_translation": "Don’t ever feel sorry to me", "range": [79.39, 81.9], "ans": [2]},
+    {"lyric": "Naege mianhae hajima", "lyric_hangul": "\"절대 내게 미안해하지 마\"", "lyric_translation": "I will get to meet you again", "range": [81.9, 85.01], "ans": [2]},
+    {"lyric": "Eotteon hyeongtaerodeun nal dasi mannage doel geoya", "lyric_hangul": "\"어떤 형태로든 날 다시 만나게 될 거야\"", "lyric_translation": "no matter what form", "range": [85.01, 88.16], "ans": [2]},
+    {"lyric": "Geuttae bangapge dasi majajwo”", "lyric_hangul": "\"그때 반갑게 다시 맞아줘\"", "lyric_translation": "Greet me happily then", "range": [88.16, 90.62], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "그때 기억해 까맣게 잊고 있었던",
+      "lyric_translation": "I remember back then when I met you that / I had completely forgotten,",
+      "parts": [
+        {"lyric": "Geuttae gieokhae", "range": [90.62, 91.9], "ans": [2]},
+        {"lyric": "Kkamake itgo isseotdeon", "range": [91.9, 93.26], "ans": [2]}
+      ]
+    },
+    {"lyric": "Neol dasi majuhaetdeon ttae yeollesal muryeop", "lyric_hangul": "널 다시 마주했던 때 14살 무렵", "lyric_translation": "when I was around 14", "range": [93.23, 95.85], "ans": [2]},
+    {
+      "lyric_hangul": "어색도 잠시 다시 널 어루만졌지",
+      "lyric_translation": "The awkwardness / was only for a moment, I touched you again",
+      "parts": [
+        {"lyric": "Eosaekdo jamsi", "range": [95.85, 97.09], "ans": [2]},
+        {"lyric": "Dasi neol eorumanjyeoji", "range": [97.09, 98.77], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "긴 시간 떠나있어도 절대 거부감 없이",
+      "lyric_translation": "Even though I was gone for a long time / Without repulsion",
+      "parts": [
+        {"lyric": "Gin sigan tteonaisseodo", "range": [98.5, 100.04], "ans": [2]},
+        {"lyric": "Jeoldae geobugam eobsi", "range": [100.04, 101.61], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "날 받아줬던 너, without you, I'm nothing",
+      "lyric_translation": "You accepted me / Without you there’s nothing",
+      "parts": [
+        {"lyric": "Nal badajwotdeon neo", "range": [101.61, 102.57], "ans": [2]},
+        {"lyric": "Without you there’s nothing", "range": [102.57, 104.19], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "새벽을 지나서 둘이서 함께 맞는 아침",
+      "lyric_translation": "After the dawn, two of us / We welcomed the morning together",
+      "parts": [
+        {"lyric": "Saebyeogeul jinaseo duriseo", "range": [104.14, 105.9], "ans": [2]},
+        {"lyric": "Hamkke manneun achim", "range": [105.9, 106.98], "ans": [2]}
+      ]
+    },
+    {"lyric": "Yeongwonhi neoneun naui soneul nohjima", "lyric_hangul": "영원히 너는 나의 손을 놓지 마", "lyric_translation": "Don’t let go of my hand forever,", "range": [106.9, 109.12], "ans": [2]},
+    {"lyric": "Nado dasi neol nohji anheul tenikka", "lyric_hangul": "나도 다시 널 놓지 않을 테니까", "lyric_translation": "I won’t let go of you again either", "range": [109.12, 112.52], "ans": [2]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "그때 기억해 나의 십 대의 마지막을",
+      "lyric_translation": "I remember back then / We burned up the last of my teen’s",
+      "parts": [
+        {"lyric": "Geuttae gieokhae", "range": [112.52, 114.0], "ans": [2]},
+        {"lyric": "Naui sipdaeui majimageul", "range": [114.0, 115.82], "ans": [2]}
+      ]
+    },
+    {"lyric": "Hamkke bultaewotdeon neo geurae han chi apdo", "lyric_hangul": "함께 불태웠던 너 그래 한 치 앞도", "lyric_translation": "Yes the days when we couldn’t see an inch in front of us", "range": [115.37, 118.19], "ans": [2]},
+    {"lyric": "Boeji anhdeon geuttae ulgo, utgo", "lyric_hangul": "뵈지 않던 그때 울고, 웃고", "lyric_translation": "We laughed, we cried", "range": [118.19, 120.93], "ans": [2]},
+    {
+      "lyric_hangul": "너와 함께여서 그 순간조차 이제는 추억으로",
+      "lyric_translation": "Those days with you, / those moments are now in memories",
+      "parts": [
+        {"lyric": "Neowa hamkkeyeoseo geu sunganjocha", "range": [120.93, 122.97], "ans": [2]},
+        {"lyric": "Ijeneun chueogeuro", "range": [122.97, 123.97], "ans": [2]}
+      ]
+    },
+    {"lyric": "Baksallan eokkael buyeojapgo malhaeji", "lyric_hangul": "박살난 어깰 부여잡고 말했지", "lyric_translation": "I said, grasping my crushed shoulder", "range": [123.72, 126.03], "ans": [2]},
+    {"lyric": "Na deo isangeun jinjja mothagetdago", "lyric_hangul": "나 더 이상은 진짜 못하겠다고", "lyric_translation": "I really can’t do any more", "range": [126.03, 128.61], "ans": [2]},
+    {
+      "lyric_hangul": "포기하고 싶던 그때마다 곁에서 넌 말했지",
+      "lyric_translation": "Every time I wanted to give up / By my side you said",
+      "parts": [
+        {"lyric": "Pogihago sipdeon geuttaemada", "range": [128.61, 130.73], "ans": [2]},
+        {"lyric": "Gyeoteseo neon malhaeji", "range": [130.73, 131.98], "ans": [2]}
+      ]
+    },
+    {"lyric": "Saekkya neoneun jinjja hal su itdago", "lyric_hangul": "\"새꺄 너는 진짜 할 수 있다고\"", "lyric_translation": "Bastard you can really do it", "range": [131.98, 134.16], "ans": [2]},
+    {
+      "lyric_hangul": "그래, 그래, 그때 기억해 지치고 방황했었던",
+      "lyric_translation": "Yeah, yeah / I remember back then / When I was fed up and lost",
+      "parts": [
+        {"lyric": "Geurae geurae", "range": [134.16, 134.93], "ans": [2]},
+        {"lyric": "Geuttae gieokhae", "range": [134.93, 135.84], "ans": [2]},
+        {"lyric": "Jichigo banghwanghaesseotdeon", "range": [135.84, 137.44], "ans": [2]}
+      ]
+    },
+    {"lyric": "Jeolmangui gipeun sureonge", "lyric_hangul": "절망의 깊은 수렁에 빠졌던 그때", "lyric_translation": "Back then when I fell into a pit of despair", "range": [137.4, 140.08], "ans": [2]},
+    {
+      "lyric_hangul": "내가 널 밀어내고 널 만난 걸 원망해도",
+      "lyric_translation": "Even when I pushed you away / Even when I resented meeting you",
+      "parts": [
+        {"lyric": "Ppajyeotdeon geuttae naega neol mireonaego", "range": [140.08, 141.66], "ans": [2]},
+        {"lyric": "Neol mannan geol wonmanghaedo", "range": [141.66, 142.78], "ans": [2]}
+      ]
+    },
+    {"lyric": "Neon kkutkkusi nae gyeoteul jikyeoji mal an haedo", "lyric_hangul": "넌 꿋꿋이 내 곁을 지켰지 말 안 해도", "lyric_translation": "You were firmly by my side", "range": [142.78, 145.6], "ans": [2]},
+    {
+      "lyric_hangul": "그러니 절대 너는 내 손을 놓지 마",
+      "lyric_translation": "You didn’t have to say anything / So don’t ever let go of my hand",
+      "parts": [
+        {"lyric": "Geureoni jeoldae", "range": [145.6, 146.58], "ans": [2]},
+        {"lyric": "Neoneun nae soneul nohjima", "range": [146.58, 148.64], "ans": [2]}
+      ]
+    },
+    {"lyric": "Du beon dasi naega neol nohji anheul tenikka", "lyric_hangul": "두 번 다시 내가 널 놓지 않을 테니까", "lyric_translation": "I won’t let you go ever again either", "range": [148.44, 151.09], "ans": [2]},
+    {"lyric": "Naui tansaeng geurigo nae salmui kkeut", "lyric_hangul": "나의 탄생 그리고 내 삶의 끝", "lyric_translation": "My birth and the end of my life", "range": [151.09, 153.75], "ans": [2]},
+    {"lyric": "Geu modeun geol jikyeobol neoil tenikka", "lyric_hangul": "그 모든 걸 지켜볼 너일 테니까", "lyric_translation": "You will be there to watch over it all", "range": [153.75, 158.47], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "내 기억의 구석 한 켠에 자리잡은 갈색 piano",
+      "lyric_translation": "The corner of my memory / A brown piano settled on one side",
+      "parts": [
+        {"lyric": "Nae gieogui guseog", "range": [158.47, 160.43], "ans": [2]},
+        {"lyric": "Han kyeone jarijabeun galsaek piano", "range": [160.43, 169.19], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "어릴 적 집 안의 구석 한 켠에 자리잡은 갈색 piano",
+      "lyric_translation": "In the corner of my childhood house / A brown piano settled on one side",
+      "parts": [
+        {"lyric": "Eolil jeog jip anui guseog", "range": [169.19, 171.55], "ans": [2]},
+        {"lyric": "Han kyeone jarijabeun galsaek piano", "range": [171.55, 175.07], "ans": [2]}
+      ]
+    }
+  ]
+}

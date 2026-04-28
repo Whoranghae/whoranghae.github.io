@@ -1,0 +1,130 @@
+{
+  "name": "Fake Love (Japanese Ver.)\r",
+  "ogg": "sound/kpop/fake_love_jp.ogg",
+  "id": "fake-love-jp",
+  "group": "bts",
+  "language": "ja",
+  "released": "2020-07-15",
+  "album": "Map Of The Soul 7:The Journey",
+  "cover": "css/images/covers/fake-love-jp.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:45Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Kimi no tame nara kanashiku te mo egao de ireta", "lyric_hangul": "君の為なら 悲しくても笑顔でいれた", "lyric_translation": "N/A", "range": [0.37, 5.91], "ans": [6]},
+    {"lyric": "Kimi no tame nara itami sae mo misezu ni ireta", "lyric_hangul": "君の為なら 痛みさえも見せずにいれた", "lyric_translation": "", "range": [5.91, 12.47], "ans": [6]},
+    {"lyric": "Ai de mina mitasareru yō ni", "lyric_hangul": "愛で皆満たされるように", "lyric_translation": "", "range": [12.47, 15.62], "ans": [6]},
+    {"lyric": "Boku no yowa-sa o kakusu yō ni", "lyric_hangul": "僕の弱さを隠すように", "lyric_translation": "", "range": [15.62, 18.44], "ans": [7]},
+    {"lyric": "Kanawanai yume no naka", "lyric_hangul": "叶わない夢の中", "lyric_translation": "", "range": [18.44, 20.49], "ans": [7]},
+    {"lyric": "Sakanai hana sodateta", "lyric_hangul": "咲かない花育てた", "lyric_translation": "", "range": [20.49, 24.55], "ans": [7]},
+    {"lyric": "I’m so sick of this", "lyric_hangul": "I'm so sick of this fake love, fake love, fake love", "lyric_translation": "", "range": [24.55, 30.42], "ans": [5]},
+    {
+      "lyric_hangul": "I'm so sorry but it's fake love, fake love, fake love",
+      "parts": [
+        {"lyric": "Fake Love Fake Love Fake Love", "range": [30.42, 31.84], "ans": [1]},
+        {"lyric": "I’m so sorry but it’s", "range": [31.84, 36.61], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "I wanna be a good man (just for you)",
+      "parts": [
+        {"lyric": "Fake Love Fake Love Fake Love", "range": [36.61, 38.91], "ans": []},
+        {"lyric": "Just for you", "range": [38.91, 40.58], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "世界だって (just for you)",
+      "parts": [
+        {"lyric": "I wanna be a good man", "range": [40.58, 41.66], "ans": []},
+        {"lyric": "Just for you", "range": [40.96, 43.57], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "全部変えて (just for you)",
+      "parts": [
+        {"lyric": "Sekai da tte", "range": [43.57, 44.7], "ans": []},
+        {"lyric": "Just for you", "range": [44.0, 46.89], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "But I dunno me (who are you?)",
+      "parts": [
+        {"lyric": "Zenbu kaete", "range": [46.89, 47.96], "ans": []},
+        {"lyric": "Just for you", "range": [47.26, 49.86], "ans": [4, 7]}
+      ]
+    },
+    {"lyric": "Now I dunno me", "lyric_hangul": "二人のroot 君はもういない", "lyric_translation": "", "range": [49.61, 52.9], "ans": [3]},
+    {"lyric": "[RM/Jungkook] who are you?", "lyric_hangul": "過ごしたroute 覚えてもない", "lyric_translation": "", "range": [52.9, 56.52], "ans": [3]},
+    {"lyric": "Futari no root kimi wa mō inai", "lyric_hangul": "今じゃもう自分でも全て見失い", "lyric_translation": "", "range": [56.52, 59.69], "ans": [3]},
+    {"lyric": "Fugoshita route oboete mo nai", "lyric_hangul": "問いかける鏡に映る君は誰だ？", "lyric_translation": "", "range": [59.69, 61.86], "ans": [3]},
+    {"lyric": "Ima ja mō jibun de mo subete miushinai", "lyric_hangul": "君の為なら 悲しくても笑顔でいれた", "lyric_translation": "", "range": [61.86, 67.72], "ans": [5]},
+    {"lyric": "Toikakeru kagami ni utsuru kimi wa dare da?", "lyric_hangul": "君の為なら 痛みさえも見せずにいれた", "lyric_translation": "", "range": [67.72, 74.47], "ans": [5]},
+    {"lyric": "愛で 皆 満たされるように", "lyric_hangul": "愛で皆満たされるように", "lyric_translation": "", "range": [74.47, 77.45], "ans": [1]},
+    {"lyric": "Kimi no tame nara kanashiku te mo egao de ireta", "lyric_hangul": "僕の弱さを隠すように", "lyric_translation": "", "range": [77.45, 80.3], "ans": [1]},
+    {"lyric": "Kimi no tame nara itami sae mo misezu ni ireta", "lyric_hangul": "叶わない夢の中", "lyric_translation": "", "range": [80.3, 82.61], "ans": [1]},
+    {"lyric": "Ai de mina mitasareru yō ni", "lyric_hangul": "咲かない花育てた", "lyric_translation": "", "range": [82.61, 86.55], "ans": [1]},
+    {"lyric": "Boku no yowa-sa o kakusu yō ni", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "", "range": [86.55, 89.72], "ans": [7]},
+    {"lyric": "Kanawanai yume no naka", "lyric_hangul": "君の為偽る嘘で", "lyric_translation": "", "range": [89.72, 92.75], "ans": [7]},
+    {"lyric": "Sakanai hana sodateta", "lyric_hangul": "Love you so mad, love you so mad", "lyric_translation": "", "range": [92.75, 96.12], "ans": [6]},
+    {"lyric": "自分を君の色に染める", "lyric_hangul": "自分を君の色に染める", "lyric_translation": "", "range": [96.12, 99.27], "ans": [6]},
+    {"lyric": "Love you so bad Love you so bad", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "", "range": [99.27, 102.11], "ans": [7]},
+    {"lyric": "Kimi no tame itsuwaru uso de", "lyric_hangul": "君の為偽る嘘で", "lyric_translation": "", "range": [102.11, 105.2], "ans": [7]},
+    {"lyric": "Love it’s so mad Love it’s so mad", "lyric_hangul": "Love you so mad, love you so mad", "lyric_translation": "", "range": [105.2, 108.32], "ans": [6]},
+    {"lyric": "Jibun o kimi no iro ni someru", "lyric_hangul": "自分を君の色に染める", "lyric_translation": "", "range": [108.32, 111.27], "ans": [6]},
+    {
+      "lyric_hangul": "I'm so sick of this fake love, fake love, fake love",
+      "parts": [
+        {"lyric": "Love you so bad Love you so bad", "range": [111.27, 112.19], "ans": [5]},
+        {"lyric": "Kimi no tame itsuwaru uso de", "range": [112.19, 117.18], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm so sorry but it's fake love, fake love, fake love",
+      "parts": [
+        {"lyric": "Love it’s so mad Love it’s so mad", "range": [117.18, 118.55], "ans": [1]},
+        {"lyric": "Jibun o kimi no iro ni someru", "range": [118.55, 124.37], "ans": [1]}
+      ]
+    },
+    {"lyric": "Why you sad? I don’t know 何も", "lyric_hangul": "Why you sad? I don't know 何も", "lyric_translation": "", "range": [124.37, 128.08], "ans": [4]},
+    {"lyric": "I’m so sick of this", "lyric_hangul": "今は聞きたい愛を", "lyric_translation": "", "range": [128.08, 131.12], "ans": [4]},
+    {"lyric": "Fake Love Fake Love Fake Love", "lyric_hangul": "前の自分はいないもう", "lyric_translation": "", "range": [131.12, 134.28], "ans": [4]},
+    {"lyric": "I’m so sorry but it’s", "lyric_hangul": "君の理解すらないもう", "lyric_translation": "", "range": [134.28, 137.23], "ans": [4]},
+    {"lyric": "Fake Love Fake Love Fake Love", "lyric_hangul": "純粋なままの君を求めても", "lyric_translation": "", "range": [137.23, 140.35], "ans": [2]},
+    {"lyric": "すれ違いすでに戻れない元へと", "lyric_hangul": "すれ違いすでに戻れない元へと", "lyric_translation": "", "range": [140.35, 143.34], "ans": [2]},
+    {"lyric": "Why you sad? I don’t know nani mo", "lyric_hangul": "なぜなのかもうわからない", "lyric_translation": "", "range": [143.34, 146.59], "ans": [2]},
+    {"lyric": "Ima wa kikitai ai o", "lyric_hangul": "愛なのかすらも it's all fake love", "lyric_translation": "", "range": [146.59, 149.56], "ans": [2]},
+    {"lyric": "Mae no jibun wa inai mō", "lyric_hangul": "Woo, I dunno, I dunno, I dunno why", "lyric_translation": "", "range": [149.56, 156.01], "ans": [5]},
+    {"lyric": "Kimi no rikai sura nai mō", "lyric_hangul": "Woo 僕も僕が見えなくて", "lyric_translation": "", "range": [156.01, 162.09], "ans": [5]},
+    {"lyric": "Junsui na mama no kimi o motomete mo", "lyric_hangul": "Woo, I just know, I just know, I just know why", "lyric_translation": "", "range": [162.09, 167.19], "ans": [1]},
+    {"lyric": "Surechigai sudeni modorenai moto e to", "lyric_hangul": "'Cause it's all fake love, fake love, fake love", "lyric_translation": "", "range": [167.19, 173.19], "ans": [1]},
+    {"lyric": "Naze na no ka mō wakaranai", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "", "range": [173.19, 176.4], "ans": [7]},
+    {"lyric": "Ai na no ka sura mo It’s all fake love", "lyric_hangul": "君の為偽る嘘で", "lyric_translation": "", "range": [176.4, 179.32], "ans": [7]},
+    {"lyric": "Love it’s so mad Love it’s so mad", "lyric_hangul": "Love you so mad, love you so mad", "lyric_translation": "", "range": [179.32, 182.88], "ans": [5]},
+    {"lyric": "(Woo) I dunno I dunno I dunno why", "lyric_hangul": "自分を君の色に染める", "lyric_translation": "", "range": [182.88, 185.64], "ans": [5]},
+    {"lyric": "(Woo) boku mo boku ga mienakute", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "", "range": [185.64, 188.78], "ans": [7]},
+    {"lyric": "(Woo) I just know I just know I just know why", "lyric_hangul": "君の為偽る嘘で", "lyric_translation": "", "range": [188.78, 192.04], "ans": [7]},
+    {"lyric": "Cuz it’s all Fake Love Fake Love Fake Love", "lyric_hangul": "Love you so mad, love you so mad", "lyric_translation": "", "range": [192.04, 195.14], "ans": [5]},
+    {"lyric": "自分を君の色に染める", "lyric_hangul": "自分を君の色に染める", "lyric_translation": "", "range": [195.14, 197.99], "ans": [5]},
+    {
+      "lyric_hangul": "I'm so sick of this fake love, fake love, fake love",
+      "parts": [
+        {"lyric": "Love you so bad Love you so bad", "range": [197.99, 198.93], "ans": [5]},
+        {"lyric": "Kimi no tame itsuwaru uso de", "range": [198.93, 204.29], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm so sorry but it's fake love, fake love, fake love",
+      "parts": [
+        {"lyric": "Love it’s so mad Love it’s so mad", "range": [204.29, 205.25], "ans": [1]},
+        {"lyric": "Jibun o kimi no iro ni someru", "range": [205.25, 210.35], "ans": [1]}
+      ]
+    },
+    {"lyric": "Love you so bad Love you so bad", "lyric_hangul": "君の為なら 悲しくても笑顔でいれた", "lyric_translation": "", "range": [210.35, 216.54], "ans": [5, 6]},
+    {"lyric": "Kimi no tame itsuwaru uso de", "lyric_hangul": "君の為なら 痛みさえも見せずにいれた", "lyric_translation": "", "range": [216.54, 223.05], "ans": [5, 6]},
+    {"lyric": "Love it’s so mad Love it’s so mad", "lyric_hangul": "愛で皆満たされるように", "lyric_translation": "", "range": [223.05, 226.29], "ans": [1, 7]},
+    {"lyric": "Jibun o kimi no iro ni someru", "lyric_hangul": "僕の弱さを隠すように", "lyric_translation": "", "range": [226.29, 229.06], "ans": [1, 7]},
+    {"lyric": "叶わない夢の中", "lyric_hangul": "叶わない夢の中", "lyric_translation": "", "range": [229.06, 231.15], "ans": [1, 7]},
+    {"lyric": "I’m so sick of this", "lyric_hangul": "咲かない花育てた", "lyric_translation": "", "range": [231.15, 235.89], "ans": [1, 7]}
+  ]
+}

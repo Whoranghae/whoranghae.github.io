@@ -1,0 +1,106 @@
+{
+  "name": "My Time (시차)\r",
+  "ogg": "sound/kpop/my_time.ogg",
+  "id": "my-time",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/my-time.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:02Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ah yeah!", "lyric_hangul": "Ah yeah!", "lyric_translation": "", "range": [0.65, 19.84], "ans": []},
+    {"lyric": "24 nuguboda deo ppalli eoreuni dwen geotman gata", "lyric_hangul": "Twenty four 누구보다 더 빨리 어른이 된 것만 같아", "lyric_translation": "Twenty-four, it seems like I’ve become an adult faster than anyone else", "range": [19.84, 24.13], "ans": [7]},
+    {"lyric": "My life has been a movie all the time", "lyric_hangul": "My life has been a movie, all the time", "lyric_translation": "My life has been a movie all the time", "range": [24.13, 28.76], "ans": [7]},
+    {"lyric": "Hae tteuneun goseuro dallyeosseo every single night", "lyric_hangul": "해 뜨는 곳으로 달렸어 every single night", "lyric_translation": "I ran towards where the sun would rise every single night", "range": [28.76, 33.49], "ans": [7]},
+    {"lyric": "Nuguye naeire gabwatteon geotto gata", "lyric_hangul": "누구의 내일에 가봤던 것도 같아", "lyric_translation": "It even seems like I’ve been to someone’s tomorrow", "range": [33.49, 37.48], "ans": [7]},
+    {"lyric": "On sesangi neomu keotteon geu sonyeon", "lyric_hangul": "온 세상이 너무 컸던 그 소년", "lyric_translation": "The boy to whom the world seemed too big", "range": [37.48, 40.19], "ans": [7]},
+    {"lyric": "Keep on runnin’ errday mic jabadeureo", "lyric_hangul": "Keep on runnin' all day, mic 잡아들어", "lyric_translation": "Keep on runnin’ errday, holding the mic", "range": [40.19, 43.12], "ans": [7]},
+    {"lyric": "Friends ridin’ subway, I’ll be in the airplane mode", "lyric_hangul": "Friends ridin' subway, I'll be in the airplane mode", "lyric_translation": "Friends ridin’ subway, I’ll be in the airplane mode", "range": [43.12, 44.91], "ans": [7]},
+    {"lyric": "Jeon segyereul rock on I made my own lotto", "lyric_hangul": "전 세계를 rock on I made my own lotto", "lyric_translation": "The whole world rock on I made my own lotto", "range": [44.91, 47.42], "ans": [7]},
+    {"lyric": "But neomu ppareun geonji nochyeobeorin heunjeogi", "lyric_hangul": "But 너무 빠른 건지 놓쳐버린 흔적이", "lyric_translation": "But is it too fast, the traces that I’ve missed out", "range": [47.42, 50.49], "ans": [7]},
+    {
+      "lyric_hangul": "Don't know what to do with, am I livin' this right?",
+      "lyric_translation": "Don’t know what to do with / Am I livin’ this right?",
+      "parts": [
+        {"lyric": "Don’t know what to do with", "range": [50.49, 53.38], "ans": [7]},
+        {"lyric": "Am I livin’ this right?", "range": [53.38, 54.69], "ans": [7]}
+      ]
+    },
+    {"lyric": "Wae naman dareun shigonggan sogin geolkka", "lyric_hangul": "왜 나만 다른 시공간 속인 걸까?", "lyric_translation": "Am I the only one living in a different space-time", "range": [54.69, 56.99], "ans": [7]},
+    "",
+    {"lyric": "Oh I can’t call ya I can’t hol’ ya", "lyric_hangul": "Oh, I can't call ya I can't hol' ya", "lyric_translation": "Oh I can’t call ya I can’t hol’ ya", "range": [56.99, 61.73], "ans": [7]},
+    {"lyric": "Oh I can’t", "lyric_hangul": "Oh, I can't", "lyric_translation": "Oh I can’t", "range": [61.73, 64.65], "ans": [7]},
+    {"lyric": "And yes you know yes you know", "lyric_hangul": "And yes you know, yes you know", "lyric_translation": "And yes you know yes you know", "range": [64.65, 67.84], "ans": [7]},
+    {"lyric": "Oh I can’t call ya I can’t touch ya", "lyric_hangul": "Oh, I can't call ya I can't touch ya", "lyric_translation": "Oh I can’t call ya I can’t touch ya", "range": [67.84, 74.19], "ans": [7]},
+    {"lyric": "Oh I can’t", "lyric_hangul": "Oh, I can't", "lyric_translation": "Oh I can’t", "range": [74.19, 74.76], "ans": [7]},
+    {"lyric": "Let me know", "lyric_hangul": "Let me know", "lyric_translation": "Let me know", "range": [74.76, 75.83], "ans": [7]},
+    {"lyric": "Can I someday finna find my time", "lyric_hangul": "Can I someday finna find my time?", "lyric_translation": "Can I someday finna find my time", "range": [75.83, 76.77], "ans": [7]},
+    {"lyric": "(Yeah, finna find my time)", "lyric_hangul": "(Yeah, finna find my time)", "lyric_translation": "", "range": [76.77, 77.27], "ans": []},
+    {"lyric": "Finna find my time", "lyric_hangul": "Finna find my time", "lyric_translation": "Finna find my time", "range": [77.11, 77.99], "ans": [7]},
+    {"lyric": "Someday finna find my time", "lyric_hangul": "Someday finna find my time", "lyric_translation": "Someday finna find my time", "range": [77.99, 79.0], "ans": [7]},
+    "",
+    {"lyric": "Oh I think I was in yesterday", "lyric_hangul": "Oh, I think I was in yesterday", "lyric_translation": "Oh I think I was in yesterday", "range": [79.0, 79.79], "ans": [7]},
+    {"lyric": "Cuz everybody walk too fast", "lyric_hangul": "'Cause everybody walk too fast", "lyric_translation": "Cuz everybody walk too fast", "range": [79.79, 80.29], "ans": [7]},
+    {
+      "lyric_hangul": "나도 모르게 커버린 어린 나",
+      "lyric_translation": "The young me that grew up without even realising / (Like a kid who lost his way)",
+      "parts": [
+        {"lyric": "Nado moreuge keobeorin eorin na", "range": [79.89, 80.53], "ans": [7]},
+        {"lyric": "(gireul ireobeorin eorinaicheoreom)", "range": [80.53, 81.11], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "This got me oh just trippin', 서성대는 이 느낌",
+      "lyric_translation": "This got me oh just trippin’ / This feeling of just hovering around",
+      "parts": [
+        {"lyric": "This got me oh just trippin’", "range": [80.85, 80.88], "ans": [7]},
+        {"lyric": "Seoseongdaeneun i neukkim", "range": [80.88, 81.12], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Don't know what to do with, am I livin' this right?",
+      "lyric_translation": "Don’t know what to do with / Am I livin’ this right",
+      "parts": [
+        {"lyric": "Don’t know what to do with", "range": [80.92, 81.41], "ans": [7]},
+        {"lyric": "Am I livin’ this right?", "range": [81.22, 81.57], "ans": [7]}
+      ]
+    },
+    {"lyric": "Wae naman dareun shigonggan sogin geolkka", "lyric_hangul": "왜 나만 다른 시공간 속인 걸까?", "lyric_translation": "Am I the only one living in a different space-time", "range": [81.51, 82.01], "ans": [7]},
+    "",
+    {"lyric": "Oh I can’t call ya I can’t hol’ ya", "lyric_hangul": "Oh, I can't call ya I can't hol' ya", "lyric_translation": "Oh I can’t call ya I can’t hol’ ya", "range": [81.67, 82.34], "ans": [7]},
+    {"lyric": "Oh I can’t", "lyric_hangul": "Oh, I can't", "lyric_translation": "Oh I can’t", "range": [82.34, 82.88], "ans": [7]},
+    {"lyric": "And yes you know yes you know", "lyric_hangul": "And yes you know, yes you know", "lyric_translation": "And yes you know yes you know", "range": [82.88, 83.38], "ans": [7]},
+    {"lyric": "Oh I can’t call ya I can’t touch ya", "lyric_hangul": "Oh, I can't call ya I can't touch ya", "lyric_translation": "Oh I can’t call ya I can’t touch ya", "range": [83.19, 83.72], "ans": [7]},
+    {"lyric": "Oh I can’t", "lyric_hangul": "Oh, I can't", "lyric_translation": "Oh I can’t", "range": [83.72, 84.15], "ans": [7]},
+    {"lyric": "Let me know", "lyric_hangul": "Let me know", "lyric_translation": "Let me know", "range": [84.15, 84.65], "ans": [7]},
+    {"lyric": "Can I someday finna find my time", "lyric_hangul": "Can I someday finna find my time?", "lyric_translation": "Can I someday finna find my time", "range": [84.29, 84.77], "ans": [7]},
+    {"lyric": "(Yeah, finna find my time)", "lyric_hangul": "(Yeah, finna find my time)", "lyric_translation": "", "range": [84.77, 85.01], "ans": []},
+    {"lyric": "Finna find my time", "lyric_hangul": "Finna find my time (Yeah)", "lyric_translation": "Finna find my time", "range": [84.99, 85.34], "ans": [7]},
+    {"lyric": "Someday finna find my time", "lyric_hangul": "Someday finna find my time (Oh, yeah)", "lyric_translation": "Someday finna find my time", "range": [85.11, 85.61], "ans": [7]},
+    "",
+    {"lyric": "Ttaeron naye sum makhil ttaemyeon", "lyric_hangul": "때론 나의 숨 막힐 때면", "lyric_translation": "Sometimes when I feel suffocated", "range": [85.44, 85.83], "ans": [7]},
+    {"lyric": "Mojal nulleosseugo gyesok dallyeo", "lyric_hangul": "모잘 눌러쓰고 계속 달려", "lyric_translation": "I press my hat on and run", "range": [85.83, 85.98], "ans": [7]},
+    {"lyric": "Yeah I don’t gotta know where I go", "lyric_hangul": "Yeah, I don't gotta know where I go", "lyric_translation": "Yeah I don’t gotta know where I go", "range": [85.98, 86.11], "ans": [7]},
+    {"lyric": "Even if it’s opposite of sun", "lyric_hangul": "Even if it's opposite of sun", "lyric_translation": "Even if it’s opposite of sun", "range": [85.99, 86.31], "ans": [7]},
+    {"lyric": "One time for the present", "lyric_hangul": "One time for the present", "lyric_translation": "One time for the present", "range": [86.21, 86.67], "ans": [7]},
+    {"lyric": "Two time for the past", "lyric_hangul": "Two time for the past", "lyric_translation": "Two time for the past", "range": [86.41, 86.77], "ans": [7]},
+    {"lyric": "Happy that we met each other", "lyric_hangul": "Happy that we met each other", "lyric_translation": "Happy that we met each other", "range": [86.77, 87.38], "ans": [7]},
+    {"lyric": "Now til’ the very end", "lyric_hangul": "Now til' the very end", "lyric_translation": "Now til’ the very end", "range": [87.38, 87.88], "ans": [7]},
+    "",
+    {"lyric": "Oh I will call ya I will hol’ ya", "lyric_hangul": "Oh, I will call ya I will hol' ya", "lyric_translation": "Oh I will call ya I will hol’ ya", "range": [87.7, 88.32], "ans": [7]},
+    {"lyric": "Oh I will", "lyric_hangul": "Oh, I will", "lyric_translation": "Oh I will", "range": [88.32, 88.82], "ans": [7]},
+    {"lyric": "And yes you know yes you know", "lyric_hangul": "And yes you know, yes you know", "lyric_translation": "And yes you know yes you know", "range": [88.62, 89.12], "ans": [7]},
+    {"lyric": "Oh I will call ya I will touch ya", "lyric_hangul": "Oh, I will call ya I will touch ya", "lyric_translation": "Oh I will call ya I will touch ya", "range": [88.94, 89.66], "ans": [7]},
+    {"lyric": "Oh I will", "lyric_hangul": "Oh, I will", "lyric_translation": "Oh I will", "range": [89.66, 90.16], "ans": [7]},
+    {"lyric": "And you know", "lyric_hangul": "And you know", "lyric_translation": "And you know", "range": [89.97, 90.27], "ans": [7]},
+    {"lyric": "Can I someday finna find my time", "lyric_hangul": "Can I someday finna find my time? (Yeah)", "lyric_translation": "Can I someday finna find my time", "range": [90.27, 90.37], "ans": [7]},
+    {"lyric": "Can I someday finna find my time", "lyric_hangul": "Can I someday finna find my time?", "lyric_translation": "Can I someday finna find my time", "range": [90.37, 90.46], "ans": [7]},
+    {"lyric": "Finna find my time", "lyric_hangul": "Finna find my time (Yeah, oh, yeah)", "lyric_translation": "Finna find my time", "range": [90.42, 90.92], "ans": [7]},
+    {"lyric": "Find my time", "lyric_hangul": "Find my time", "lyric_translation": "Find my time", "range": [90.56, 91.34], "ans": [7]},
+    {"lyric": "(Someday finna find my time)", "lyric_hangul": "(Someday finna find my time)", "lyric_translation": "", "range": [91.34, 93.94], "ans": []}
+  ]
+}

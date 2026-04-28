@@ -1,0 +1,86 @@
+{
+  "name": "Begin\r",
+  "ogg": "sound/kpop/begin.ogg",
+  "id": "begin",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/begin.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:26Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Amugeotdo eobtdeon yeoldaseosui na", "lyric_hangul": "아무것도 없던 열다섯의 나-", "lyric_translation": "The fifteen year old me who didn’t have anything", "range": [6.66, 21.16], "ans": [7]},
+    {"lyric": "Sesangeun cham keosseo neomu jageun na", "lyric_hangul": "세상은 참 컸어 너무 작은 나", "lyric_translation": "The world was so big, I was so small", "range": [21.16, 35.03], "ans": [7]},
+    {"lyric": "Ije nan sangsanghal sudo eobseo", "lyric_hangul": "이제 난 상상할 수도 없어", "lyric_translation": "Now I can’t even imagine it", "range": [35.03, 39.65], "ans": [7]},
+    {"lyric": "Hyanggiga eobtdeon teong bieoitdeon na na", "lyric_hangul": "향기가 없던 텅 비어있던 나 나", "lyric_translation": "Now I can’t even imagine myself", "range": [39.65, 46.24], "ans": [7]},
+    {"lyric": "I pray", "lyric_hangul": "I pray", "lyric_translation": "who used to have no scent, who used to be empty", "range": [46.24, 49.62], "ans": [7]},
+    "",
+    {"lyric": "Love you my brother hyeongdeuri isseo", "lyric_hangul": "Love you my brother 형들이 있어", "lyric_translation": "Love you my brother, thanks to my brothers", "range": [49.62, 54.07], "ans": [7]},
+    {"lyric": "Gamjeongi saenggyeosseo na naega dwaesseo", "lyric_hangul": "감정이 생겼어 나 내가 됐어", "lyric_translation": "I now have emotions I became me", "range": [54.07, 57.78], "ans": [7]},
+    {"lyric": "So I’m me", "lyric_hangul": "So I'm me", "lyric_translation": "So I’m me", "range": [57.78, 60.9], "ans": [7]},
+    {"lyric": "Now I’m me", "lyric_hangul": "Now I'm me", "lyric_translation": "Now I’m me", "range": [60.9, 63.44], "ans": [7]},
+    "",
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin", "lyric_translation": "You make me begin", "range": [63.44, 70.8], "ans": [7]},
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin", "lyric_translation": "You make me begin", "range": [70.8, 78.27], "ans": [7]},
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin", "lyric_translation": "You make me begin", "range": [78.27, 81.96], "ans": [7]},
+    {"lyric": "(Smile with me, smile with me,", "lyric_hangul": "Smile with me smile with me", "lyric_translation": "(Smile with me smile with me", "range": [81.96, 85.27], "ans": [7]},
+    {"lyric": "Smile with me)", "lyric_hangul": "Smile with me", "lyric_translation": "smile with me)", "range": [85.27, 86.47], "ans": [7]},
+    {
+      "lyric_hangul": "You make me begin",
+      "lyric_translation": "You make me begin / (Smile with me smile with me)",
+      "parts": [
+        {"lyric": "You make me begin", "range": [86.47, 86.89], "ans": [7]},
+        {"lyric": "(Smile with me, smile with me)", "range": [86.89, 89.63], "ans": [7]}
+      ]
+    },
+    {"lyric": "Smile with me smile with me", "lyric_hangul": "Smile with me smile with me", "lyric_translation": "", "range": [89.63, 95.06], "ans": []},
+    "",
+    {"lyric": "Chameul suga eobseo", "lyric_hangul": "참을 수가 없어 (Yeah)", "lyric_translation": "I can’t stand", "range": [95.06, 101.73], "ans": [7]},
+    {"lyric": "Ulgo inneun neo", "lyric_hangul": "울고 있는 너", "lyric_translation": "you crying", "range": [101.73, 109.26], "ans": [7]},
+    {"lyric": "Daesin ulgo sipeo", "lyric_hangul": "대신 울고 싶어", "lyric_translation": "I want to cry instead", "range": [109.26, 116.42], "ans": [7]},
+    {"lyric": "Hal sun eobjiman", "lyric_hangul": "할 순 없지만", "lyric_translation": "Although I can’t", "range": [116.42, 122.03], "ans": [7]},
+    "",
+    "[next-col]",
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin", "lyric_translation": "You make me begin", "range": [122.03, 129.44], "ans": [7]},
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin", "lyric_translation": "You make me begin", "range": [129.44, 136.74], "ans": [7]},
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin", "lyric_translation": "You make me begin", "range": [136.74, 140.41], "ans": [7]},
+    {"lyric": "(Cry with me, cry with me,", "lyric_hangul": "Cry with me cry with me", "lyric_translation": "(Cry with me cry with me", "range": [140.41, 143.96], "ans": [7]},
+    {"lyric": "Cry with me)", "lyric_hangul": "Cry with me", "lyric_translation": "cry with me)", "range": [143.96, 145.08], "ans": [7]},
+    {
+      "lyric_hangul": "You make me begin",
+      "lyric_translation": "You make me begin / (Cry with me cry with me)",
+      "parts": [
+        {"lyric": "You make me begin", "range": [145.08, 146.08], "ans": [7]},
+        {"lyric": "(Cry with me, cry with me)", "range": [146.08, 147.66], "ans": [7]}
+      ]
+    },
+    {"lyric": "Cry with me cry with me", "lyric_hangul": "Cry with me cry with me", "lyric_translation": "", "range": [147.66, 152.69], "ans": []},
+    "",
+    {"lyric": "Jugeul geot gata hyeongi seulpeumyeon", "lyric_hangul": "죽을 것 같아 형이 슬프면", "lyric_translation": "I feel like I’m going to die when hyung is sad", "range": [152.69, 156.87], "ans": [7]},
+    {"lyric": "Hyeongi apeumyeon naega apeun geotboda apa", "lyric_hangul": "형이 아프면 내가 아픈 것보다 아파", "lyric_translation": "When hyung is in pain, it hurts more than when I’m in pain", "range": [156.87, 166.85], "ans": [7]},
+    "",
+    {"lyric": "Brother let’s cry, cry ulgo malja", "lyric_hangul": "Brother let's cry cry 울고 말자", "lyric_translation": "Brother let’s cry cry let’s just cry", "range": [166.85, 171.48], "ans": [7]},
+    {"lyric": "Seulpeumeun jal moreujiman geunyang ullae", "lyric_hangul": "슬픔은 잘 모르지만 그냥 울래", "lyric_translation": "I don’t know sadness well, but I’ll just cry", "range": [171.48, 175.74], "ans": [7]},
+    {"lyric": "Because, because", "lyric_hangul": "Because because", "lyric_translation": "Because because", "range": [175.74, 180.62], "ans": [7]},
+    "",
+    {"lyric": "You made me again", "lyric_hangul": "You made me again", "lyric_translation": "You made me again", "range": [180.62, 188.02], "ans": [7]},
+    {"lyric": "You made me again", "lyric_hangul": "You made me again", "lyric_translation": "You made me again", "range": [188.02, 195.48], "ans": [7]},
+    {"lyric": "You made me again", "lyric_hangul": "You made me again", "lyric_translation": "You made me again", "range": [195.48, 199.07], "ans": [7]},
+    {"lyric": "(Fly with me, fly with me, fly with me)", "lyric_hangul": "Fly with me fly with me fly with me", "lyric_translation": "(Fly with me fly with me / fly with me)", "range": [199.07, 203.24], "ans": [7]},
+    {
+      "lyric_hangul": "You made me again",
+      "lyric_translation": "You made me again / (Fly with me fly with me)",
+      "parts": [
+        {"lyric": "You made me again", "range": [203.24, 204.52], "ans": [7]},
+        {"lyric": "(Fly with me, fly with me)", "range": [204.52, 206.56], "ans": [7]}
+      ]
+    },
+    {"lyric": "Fly with me fly with me", "lyric_hangul": "Fly with me fly with me", "lyric_translation": "", "range": [206.56, 210.65], "ans": []},
+    "",
+    {"lyric": "You make me begin", "lyric_hangul": "You make me begin (oh, woah, uh)", "lyric_translation": "You make me begin", "range": [210.65, 217.54], "ans": [7]},
+    {"lyric": "You made me again", "lyric_hangul": "You made me again", "lyric_translation": "You made me again", "range": [217.54, 221.9], "ans": [7]}
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "name": "ON (Japanese Ver.)\r",
+  "ogg": "sound/kpop/on_jp.ogg",
+  "id": "on-jp",
+  "group": "bts",
+  "language": "ja",
+  "released": "2020-07-15",
+  "album": "Map Of The Soul 7:The Journey",
+  "cover": "css/images/covers/on-jp.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:05Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I can’t understand what people are sayin’", "lyric_hangul": "I can't understand what people are sayin'", "lyric_translation": "N/A", "range": [19.27, 21.52], "ans": [5]},
+    {"lyric": "Dono rizumu ni awasubeki", "lyric_hangul": "どのリズムに合わすべき", "lyric_translation": "", "range": [21.52, 23.96], "ans": [5]},
+    {"lyric": "Ichi ho zutsu fumi ichi ho zutsu nobirushadow", "lyric_hangul": "一歩ずつ踏み 一歩ずつ伸びるshadow", "lyric_translation": "", "range": [23.96, 27.8], "ans": [5]},
+    {"lyric": "Nemuri kara sameta koko wa", "lyric_hangul": "眠りから覚めたここは", "lyric_translation": "", "range": [27.8, 30.57], "ans": [6]},
+    {"lyric": "Is it Seoul or New York or Paris", "lyric_hangul": "Is it Seoul or New York or Paris", "lyric_translation": "", "range": [30.57, 33.13], "ans": [6]},
+    {"lyric": "Furatsuku ashimoto mo", "lyric_hangul": "ふらつく足元も", "lyric_translation": "", "range": [33.13, 37.56], "ans": [6]},
+    "",
+    {"lyric": "Look at my feet look down", "lyric_hangul": "Look at my feet, look down", "lyric_translation": "", "range": [37.56, 39.66], "ans": [4]},
+    {"lyric": "Shadows like me nah", "lyric_hangul": "Shadows like me, nah", "lyric_translation": "", "range": [39.66, 41.41], "ans": [4]},
+    {"lyric": "Yureru no wa sono kage ka", "lyric_hangul": "揺れるのはその影か", "lyric_translation": "", "range": [41.41, 43.79], "ans": [4]},
+    {"lyric": "Sore ka kono ashi dake ka", "lyric_hangul": "それかこの足だけか", "lyric_translation": "", "range": [43.79, 45.83], "ans": [4]},
+    {"lyric": "Kowaku nai wake nai sa", "lyric_hangul": "怖くないわけないさ", "lyric_translation": "", "range": [45.83, 48.12], "ans": [4]},
+    {"lyric": "Heiki na wake nai sa", "lyric_hangul": "平気なわけないさ", "lyric_translation": "", "range": [48.12, 50.53], "ans": [4]},
+    {"lyric": "Every time I know", "lyric_hangul": "Every time, I know", "lyric_translation": "", "range": [50.53, 51.24], "ans": [4]},
+    {"lyric": "Hisshi ni I flow", "lyric_hangul": "必死に I flow", "lyric_translation": "", "range": [51.24, 52.23], "ans": [4]},
+    {"lyric": "Ano makkuroi kaze tofly now", "lyric_hangul": "あの真っ黒い風とfly now", "lyric_translation": "", "range": [52.23, 55.34], "ans": [4]},
+    "",
+    {"lyric": "Hey na na na", "lyric_hangul": "Hey, na-na-na", "lyric_translation": "", "range": [55.34, 56.73], "ans": [5]},
+    {"lyric": "Matomo ja irarenai sekai e", "lyric_hangul": "まともじゃいられない世界へ", "lyric_translation": "", "range": [56.73, 59.79], "ans": [7]},
+    {"lyric": "Hey na na na", "lyric_hangul": "Hey, na-na-na", "lyric_translation": "", "range": [59.79, 61.39], "ans": [5]},
+    {"lyric": "Kono mi subete o nagedashite", "lyric_hangul": "この身全てを投げ出して", "lyric_translation": "", "range": [61.39, 64.49], "ans": [7]},
+    {"lyric": "Hey na na na", "lyric_hangul": "Hey, na-na-na", "lyric_translation": "", "range": [64.49, 66.28], "ans": [5]},
+    {"lyric": "Can’t hold me down", "lyric_hangul": "Can't hold me down", "lyric_translation": "", "range": [66.28, 66.87], "ans": [1]},
+    {"lyric": "Cuz you know I’m a fighter", "lyric_hangul": "'Cause you know I'm a fighter", "lyric_translation": "", "range": [66.87, 68.63], "ans": [1]},
+    {"lyric": "Mizukara toraware no mi e", "lyric_hangul": "自ら囚われの身へ", "lyric_translation": "", "range": [68.63, 70.64], "ans": [1]},
+    {
+      "lyric_hangul": "Find me and I'm gonna live with ya",
+      "parts": [
+        {"lyric": "Find me and I’m gonna live with ya", "range": [70.64, 73.25], "ans": [1]},
+        {"lyric": "(Eh oh)", "range": [72.55, 73.64], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [73.64, 74.78], "ans": []},
+    {
+      "lyric_hangul": "持って来い bring the pain, oh yeah",
+      "parts": [
+        {"lyric": "Motte koi bring the pain oh yeah", "range": [74.78, 77.28], "ans": [7]},
+        {"lyric": "(Eh oh)", "range": [76.58, 78.37], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [78.37, 79.48], "ans": []},
+    {"lyric": "Notte mina bring the pain oh yeah", "lyric_hangul": "乗ってみな bring the pain, oh yeah", "lyric_translation": "", "range": [79.48, 82.64], "ans": [7]},
+    {"lyric": "Rain be pourin’", "lyric_hangul": "Rain be pourin'", "lyric_translation": "", "range": [82.64, 84.04], "ans": [5]},
+    {"lyric": "Sky keep fallin’", "lyric_hangul": "Sky keep fallin'", "lyric_translation": "", "range": [84.04, 84.96], "ans": [5]},
+    {
+      "lyric_hangul": "Everyday, oh na-na-na",
+      "parts": [
+        {"lyric": "Everyday oh na na na", "range": [84.96, 86.77], "ans": [5]},
+        {"lyric": "(Eh oh)", "range": [86.07, 87.45], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [87.45, 88.36], "ans": []},
+    {"lyric": "Motte koi bring the pain oh yeah", "lyric_hangul": "持って来い bring the pain, oh yeah", "lyric_translation": "", "range": [88.36, 91.73], "ans": [5]},
+    "",
+    {"lyric": "Bring the pain", "lyric_hangul": "Bring the pain", "lyric_translation": "", "range": [91.73, 93.47], "ans": [3]},
+    {"lyric": "Izure wa mi ni naru kara", "lyric_hangul": "いずれは身になるから", "lyric_translation": "", "range": [93.47, 96.33], "ans": [3]},
+    {"lyric": "Bring the pain", "lyric_hangul": "Bring the pain", "lyric_translation": "", "range": [96.33, 97.8], "ans": [3]},
+    {"lyric": "No fear michi wakaru kara", "lyric_hangul": "No fear 道わかるから", "lyric_translation": "", "range": [97.8, 100.43], "ans": [3]},
+    {"lyric": "Wazuka na breathe", "lyric_hangul": "わずかな breathe", "lyric_translation": "", "range": [100.43, 101.7], "ans": [3]},
+    {"lyric": "Sore wa boku no naka no hikari", "lyric_hangul": "それは僕の中の光", "lyric_translation": "", "range": [101.7, 104.12], "ans": [3]},
+    {"lyric": "Boku-rashī chikara ni nari", "lyric_hangul": "僕らしい力になり", "lyric_translation": "", "range": [104.12, 106.93], "ans": [3]},
+    {"lyric": "Futatabi tachiagari scream", "lyric_hangul": "再び立ち上がり scream", "lyric_translation": "", "range": [106.93, 108.64], "ans": [3]},
+    "",
+    {"lyric": "Futatabi tachiagari scream", "lyric_hangul": "再び立ち上がり scream", "lyric_translation": "", "range": [108.64, 110.84], "ans": [2]},
+    {"lyric": "Ima made sō datta yō ni", "lyric_hangul": "今までそうだったように", "lyric_translation": "", "range": [110.84, 112.61], "ans": [2]},
+    {"lyric": "Tatoe kono hiza tsuita to shite mo", "lyric_hangul": "例えこの膝ついたとしても", "lyric_translation": "", "range": [112.61, 114.96], "ans": [2]},
+    {"lyric": "Taorenai ijō", "lyric_hangul": "倒れない以上", "lyric_translation": "", "range": [114.96, 115.78], "ans": [2]},
+    {"lyric": "Tada yoku aru hapuningu teido no yō", "lyric_hangul": "ただよくあるハプニング程度のよう", "lyric_translation": "", "range": [115.78, 118.66], "ans": [2]},
+    {"lyric": "Win no matter what", "lyric_hangul": "Win no matter what", "lyric_translation": "", "range": [118.66, 120.36], "ans": [2]},
+    {"lyric": "Win no matter what", "lyric_hangul": "Win no matter what", "lyric_translation": "", "range": [120.36, 121.37], "ans": [2]},
+    {"lyric": "Win no matter what", "lyric_hangul": "Win no matter what", "lyric_translation": "", "range": [121.37, 122.55], "ans": [2]},
+    {"lyric": "Even you gon’say, even who gon’say", "lyric_hangul": "Even you gon' say, even who gon' say", "lyric_translation": "", "range": [122.55, 123.98], "ans": [2]},
+    {"lyric": "I don't give a uh", "lyric_hangul": "I don't give a uh", "lyric_translation": "", "range": [123.98, 124.63], "ans": []},
+    {"lyric": "I don't give a uh", "lyric_hangul": "I don't give a uh", "lyric_translation": "", "range": [124.63, 125.52], "ans": []},
+    {"lyric": "I don’t give a uhh", "lyric_hangul": "I don't give a uh I don't give a uh I don't give a uh", "lyric_translation": "", "range": [123.98, 127.72], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Hey na na na", "lyric_hangul": "Hey, na-na-na", "lyric_translation": "", "range": [127.72, 129.49], "ans": [5]},
+    {"lyric": "Matomo ja irarenai sekai e", "lyric_hangul": "まともじゃいられない世界へ", "lyric_translation": "", "range": [129.49, 132.57], "ans": [6]},
+    {"lyric": "Hey na na na", "lyric_hangul": "Hey, na-na-na", "lyric_translation": "", "range": [132.57, 133.84], "ans": [5]},
+    {"lyric": "Kono mi subete o nagedashite", "lyric_hangul": "この身全てを投げ出して", "lyric_translation": "", "range": [133.84, 136.86], "ans": [6]},
+    {"lyric": "Hey na na na", "lyric_hangul": "Hey, na-na-na", "lyric_translation": "", "range": [136.86, 138.8], "ans": [5]},
+    {"lyric": "Can’t hold me down", "lyric_hangul": "Can't hold me down", "lyric_translation": "", "range": [138.8, 139.28], "ans": [5]},
+    {"lyric": "Cuz you know I’m a fighter", "lyric_hangul": "'Cause you know I'm a fighter", "lyric_translation": "", "range": [139.28, 140.84], "ans": [5]},
+    {"lyric": "Mizukara toraware no mi e", "lyric_hangul": "自ら囚われの身へ", "lyric_translation": "", "range": [140.84, 142.86], "ans": [5]},
+    {
+      "lyric_hangul": "Find me and I'm gonna live with ya",
+      "parts": [
+        {"lyric": "Find me and I’m gonna live with ya", "range": [142.86, 145.69], "ans": [5]},
+        {"lyric": "(Eh oh)", "range": [144.99, 146.21], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [146.21, 147.25], "ans": []},
+    {
+      "lyric_hangul": "持って来い bring the pain, oh yeah",
+      "parts": [
+        {"lyric": "Motte koi bring the pain oh yeah", "range": [147.25, 149.86], "ans": [6]},
+        {"lyric": "(Eh oh)", "range": [149.16, 150.49], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [150.49, 151.89], "ans": []},
+    {"lyric": "Notte mina bring the pain oh yeah", "lyric_hangul": "乗ってみな bring the pain, oh yeah", "lyric_translation": "", "range": [151.89, 155.13], "ans": [6]},
+    {"lyric": "Rain be pourin’", "lyric_hangul": "Rain be pourin'", "lyric_translation": "", "range": [155.13, 156.2], "ans": [1]},
+    {"lyric": "Sky keep fallin’", "lyric_hangul": "Sky keep fallin'", "lyric_translation": "", "range": [156.2, 157.4], "ans": [1]},
+    {
+      "lyric_hangul": "Everyday, oh na-na-na",
+      "parts": [
+        {"lyric": "Everyday oh na na na", "range": [157.4, 159.29], "ans": [1]},
+        {"lyric": "(Eh oh)", "range": [158.59, 159.86], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [159.86, 160.82], "ans": []},
+    {"lyric": "Motte koi bring the pain oh yeah", "lyric_hangul": "持って来い bring the pain, oh yeah", "lyric_translation": "", "range": [160.82, 165.66], "ans": [1]},
+    "",
+    {"lyric": "Itami no aru kata de", "lyric_hangul": "痛みのある方で", "lyric_translation": "", "range": [168.36, 172.85], "ans": [7]},
+    {"lyric": "Kono kokyū o sasete", "lyric_hangul": "この呼吸をさせて", "lyric_translation": "", "range": [172.85, 178.21], "ans": [7]},
+    {"lyric": "My everythin’", "lyric_hangul": "My everythin'", "lyric_translation": "", "range": [178.21, 179.97], "ans": [7]},
+    {"lyric": "My blood and tears", "lyric_hangul": "My blood and tears", "lyric_translation": "", "range": [179.97, 182.52], "ans": [7]},
+    {"lyric": "Got no fears", "lyric_hangul": "Got no fears", "lyric_translation": "", "range": [182.52, 184.79], "ans": [7]},
+    {"lyric": "I’m singin’ohhhhh", "lyric_hangul": "I'm singin' oh", "lyric_translation": "", "range": [184.79, 189.53], "ans": [7]},
+    {"lyric": "Oh I’m takin’over", "lyric_hangul": "Oh I'm takin' over", "lyric_translation": "", "range": [189.53, 194.52], "ans": [7]},
+    {"lyric": "You should know yeah", "lyric_hangul": "You should know, yeah", "lyric_translation": "", "range": [194.52, 197.49], "ans": [7]},
+    {"lyric": "Can’t hold me down", "lyric_hangul": "Can't hold me down", "lyric_translation": "", "range": [197.49, 198.09], "ans": [5]},
+    {"lyric": "Cuz you know I’m a fighter", "lyric_hangul": "'Cause you know I'm a fighter", "lyric_translation": "", "range": [198.09, 199.7], "ans": [5]},
+    {"lyric": "Yami no naka e mizukaradive", "lyric_hangul": "闇の中へ自らdive", "lyric_translation": "", "range": [199.7, 201.71], "ans": [7]},
+    {
+      "lyric_hangul": "Find me and I'm gonna bleed with ya",
+      "parts": [
+        {"lyric": "Find me and I’m gonna bleed with ya", "range": [201.71, 204.6], "ans": [5]},
+        {"lyric": "(Eh oh)", "range": [203.9, 205.06], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [205.06, 206.0], "ans": []},
+    {
+      "lyric_hangul": "持って来い bring the pain, oh yeah",
+      "parts": [
+        {"lyric": "Motte koi bring the pain oh yeah", "range": [206.0, 208.59], "ans": [1]},
+        {"lyric": "(Eh oh)", "range": [207.89, 209.36], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [209.36, 210.79], "ans": []},
+    {"lyric": "Notte mina bring the pain oh yeah", "lyric_hangul": "乗ってみな bring the pain, oh yeah", "lyric_translation": "", "range": [210.79, 213.98], "ans": [1]},
+    {"lyric": "Rain be pourin’", "lyric_hangul": "Rain be pourin'", "lyric_translation": "", "range": [213.98, 215.26], "ans": [6]},
+    {"lyric": "Sky keep fallin’", "lyric_hangul": "Sky keep fallin'", "lyric_translation": "", "range": [215.26, 216.32], "ans": [6]},
+    {
+      "lyric_hangul": "Everyday, oh na-na-na",
+      "parts": [
+        {"lyric": "Everyday oh na na na", "range": [216.32, 218.16], "ans": [6]},
+        {"lyric": "(Eh oh)", "range": [217.46, 218.41], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [218.41, 220.27], "ans": []},
+    {
+      "lyric_hangul": "Find me and I'm gonna bleed with ya",
+      "parts": [
+        {"lyric": "Find me and I’m gonna bleed with ya", "range": [220.27, 222.68], "ans": [6]},
+        {"lyric": "(Eh oh)", "range": [221.98, 222.97], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [222.97, 224.4], "ans": []},
+    {
+      "lyric_hangul": "持って来い bring the pain, oh yeah",
+      "parts": [
+        {"lyric": "Motte koi bring the pain oh yeah", "range": [224.4, 226.77], "ans": [5]},
+        {"lyric": "(Eh oh)", "range": [226.07, 227.68], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [227.68, 228.52], "ans": []},
+    {"lyric": "Notte mina bring the pain oh yeah", "lyric_hangul": "乗ってみな bring the pain, oh yeah", "lyric_translation": "", "range": [228.52, 232.01], "ans": [5]},
+    {"lyric": "All that I know", "lyric_hangul": "All that I know", "lyric_translation": "", "range": [232.01, 232.69], "ans": [7]},
+    {
+      "lyric_hangul": "Is just goin' on, and on, and on, and on",
+      "parts": [
+        {"lyric": "Is just goin’on & on & on & on", "range": [232.69, 236.35], "ans": [7]},
+        {"lyric": "(Eh-oh)", "range": [235.65, 236.68], "ans": []}
+      ]
+    },
+    {"lyric": "(Eh-oh)", "lyric_hangul": "(Eh-oh)", "lyric_translation": "", "range": [236.68, 237.71], "ans": []},
+    {"lyric": "Motte koi bring the pain oh yeah", "lyric_hangul": "持って来い bring the pain, oh yeah", "lyric_translation": "", "range": [237.71, 241.43], "ans": [7]}
+  ]
+}

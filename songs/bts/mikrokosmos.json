@@ -1,0 +1,140 @@
+{
+  "name": "Mikrokosmos (소우주)\r",
+  "ogg": "sound/kpop/mikrokosmos.ogg",
+  "id": "mikrokosmos",
+  "group": "bts",
+  "language": "ko",
+  "released": "2019-04-12",
+  "album": "MAP OF THE SOUL : PERSONA",
+  "cover": "css/images/covers/mikrokosmos.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:02Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Banjagineun byeolbitdeul", "lyric_hangul": "반짝이는 별빛들", "lyric_translation": "Like the twinkling stars", "range": [7.64, 11.89], "ans": [7]},
+    {"lyric": "Kkamppagineun bul kyeojin geonmul", "lyric_hangul": "깜빡이는 불 켜진 건물", "lyric_translation": "Like a building with flickering lights", "range": [11.89, 15.9], "ans": [7]},
+    {"lyric": "Urin binnago inne", "lyric_hangul": "우린 빛나고 있네", "lyric_translation": "We’re shining", "range": [15.9, 20.03], "ans": [6]},
+    {"lyric": "Gakjaye bang gakjaye byeoreseo", "lyric_hangul": "각자의 방 각자의 별에서", "lyric_translation": "In each of our rooms, in each of our planets", "range": [20.03, 24.8], "ans": [6]},
+    "",
+    {"lyric": "Eotteon bicheun yamang", "lyric_hangul": "어떤 빛은 야망", "lyric_translation": "Some of the lights are ambition", "range": [24.8, 27.16], "ans": [3]},
+    {"lyric": "Eotteon bicheun banghwang", "lyric_hangul": "어떤 빛은 방황", "lyric_translation": "Some of the lights are wandering", "range": [27.16, 29.29], "ans": [3]},
+    {"lyric": "Saramdeure bulbicteul", "lyric_hangul": "사람들의 불빛들", "lyric_translation": "Everyone’s light", "range": [29.29, 31.37], "ans": [3]},
+    {"lyric": "Modu sojunghan hana", "lyric_hangul": "모두 소중한 하나", "lyric_translation": "Is so precious", "range": [31.37, 33.55], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "어두운 밤 (외로워 마)",
+      "lyric_translation": "In the dark night (don’t be lonely)",
+      "parts": [
+        {"lyric": "Eoduun bam", "range": [33.55, 34.93], "ans": [3]},
+        {"lyric": "Oeroweo ma", "range": [34.23, 35.46], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "별처럼 다 (우린 빛나)",
+      "lyric_translation": "Like the stars (we shine)",
+      "parts": [
+        {"lyric": "Byeolcheoreom da", "range": [35.46, 36.98], "ans": [3]},
+        {"lyric": "Urin binna", "range": [36.28, 37.51], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "사라지지 마 큰 존재니까",
+      "lyric_translation": "Don’t disappear / Because you’re a great existence",
+      "parts": [
+        {"lyric": "Sarajiji ma", "range": [37.3, 38.83], "ans": [4]},
+        {"lyric": "Keun jonjaenikka", "range": [38.13, 39.86], "ans": [2]}
+      ]
+    },
+    {"lyric": "Let us shine", "lyric_hangul": "Let us shine", "lyric_translation": "Let us shine", "range": [39.86, 42.39], "ans": [2, 4]},
+    "",
+    {"lyric": "Eojjeom i bame pyojeongi itorok tto areumdaun geon", "lyric_hangul": "어쩜 이 밤의 표정이 이토록 또 아름다운 건 oh", "lyric_translation": "The expression of the night is so beautiful", "range": [42.39, 50.72], "ans": [5]},
+    {"lyric": "Jeo byeoldeuldo bulbitto anin uri ttaemunil geoya", "lyric_hangul": "저 별들도 불빛도 아닌 우리 때문일 거야", "lyric_translation": "Not because of the stars or starlight, but because of us", "range": [50.72, 57.23], "ans": [1]},
+    {"lyric": "You got me", "lyric_hangul": "You got me", "lyric_translation": "You got me", "range": [57.23, 59.49], "ans": [5]},
+    {"lyric": "Nan neoreul bomyeo kkumeul kkweo", "lyric_hangul": "난 너를 보며 꿈을 꿔", "lyric_translation": "I look at you and dream", "range": [59.49, 61.6], "ans": [5]},
+    {"lyric": "I got you", "lyric_hangul": "I got you", "lyric_translation": "I got you", "range": [61.6, 63.68], "ans": [7]},
+    {"lyric": "Chireuk gatdeon bamdeul sok", "lyric_hangul": "칠흑 같던 밤들 속", "lyric_translation": "In the dark nights", "range": [63.68, 65.42], "ans": [7]},
+    {"lyric": "Seoroga bon seoroye bit", "lyric_hangul": "서로가 본 서로의 빛", "lyric_translation": "We saw each other’s light", "range": [65.42, 67.55], "ans": [5]},
+    {"lyric": "Gateun mareul hago isseotteon geoya urin", "lyric_hangul": "같은 말을 하고 있었던 거야 우린", "lyric_translation": "We were saying the same things", "range": [67.55, 71.52], "ans": [7]},
+    "",
+    {"lyric": "Gajang gipeun bame deo binnaneun byeolbit", "lyric_hangul": "가장 깊은 밤에 더 빛나는 별빛", "lyric_translation": "The stars shine the most in the deepest of nights", "range": [71.52, 75.56], "ans": [5]},
+    {"lyric": "(Oh oh oh oh oh oh oh oh oh)", "lyric_hangul": "(Oh oh oh oh oh oh oh oh oh)", "lyric_translation": "", "range": [75.56, 80.1], "ans": []},
+    {"lyric": "Gajang gipeun bame deo binnaneun byeolbit", "lyric_hangul": "가장 깊은 밤에 더 빛나는 별빛", "lyric_translation": "The stars shine the most in the deepest of nights", "range": [80.1, 83.89], "ans": [7]},
+    {"lyric": "(Oh oh oh oh oh oh oh oh oh)", "lyric_hangul": "(Oh oh oh oh oh oh oh oh oh)", "lyric_translation": "", "range": [83.89, 88.35], "ans": []},
+    {"lyric": "Bami gipeulsurok deo binnaneun byeolbit", "lyric_hangul": "밤이 깊을수록 더 빛나는 별빛", "lyric_translation": "The deeper the night, the more the stars shine", "range": [88.35, 92.28], "ans": [5]},
+    "",
+    {"lyric": "Han sarame hanaye yeoksa", "lyric_hangul": "한 사람에 하나의 역사", "lyric_translation": "Each person has their own history", "range": [92.28, 94.59], "ans": [4]},
+    {"lyric": "Han sarame hanaye byeol", "lyric_hangul": "한 사람에 하나의 별", "lyric_translation": "Each person has their own star", "range": [94.59, 96.55], "ans": [4]},
+    {"lyric": "Chilshipeok gaeye bicheuro binnaneun", "lyric_hangul": "70억 개의 빛으로 빛나는", "lyric_translation": "7 billion stars shine", "range": [96.55, 98.74], "ans": [4]},
+    {"lyric": "Chilshipeok gajiye world", "lyric_hangul": "70억 가지의 world", "lyric_translation": "In each of the 7 billion worlds", "range": [98.74, 100.74], "ans": [4]},
+    "",
+    {"lyric": "Chilshipeok gajiye sam doshiye yagyeongeun", "lyric_hangul": "70억 가지의 삶 도시의 야경은", "lyric_translation": "7 billion lives, the night view of the city", "range": [100.74, 103.29], "ans": [2]},
+    {"lyric": "Eojjeomyeon tto dareun doshiye bam", "lyric_hangul": "어쩌면 또 다른 도시의 밤", "lyric_translation": "Might be the night of another city", "range": [103.29, 105.64], "ans": [2]},
+    {"lyric": "Gakjamane kkum Let us shine", "lyric_hangul": "각자만의 꿈 let us shine", "lyric_translation": "Each dream, let us shine", "range": [105.64, 107.54], "ans": [2]},
+    {
+      "lyric_hangul": "넌 누구보다 밝게 빛나, one",
+      "lyric_translation": "Brighter than anyone else / One",
+      "parts": [
+        {"lyric": "Neon nuguboda bakge binna", "range": [107.54, 109.52], "ans": [2]},
+        {"lyric": "One", "range": [109.52, 110.94], "ans": [2]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Eojjeom i bame pyojeongi itorok tto areumdaun geon", "lyric_hangul": "어쩜 이 밤의 표정이 이토록 또 아름다운 건 oh", "lyric_translation": "The expression of the night is so beautiful", "range": [110.94, 119.07], "ans": [6]},
+    {"lyric": "Jeo eodumdo dalbitto anin uri ttaemunil geoya", "lyric_hangul": "저 어둠도 달빛도 아닌 우리 때문일 거야", "lyric_translation": "Not because of the darkness or the moonlight, but because of us", "range": [119.07, 125.62], "ans": [7]},
+    {"lyric": "You got me", "lyric_hangul": "You got me", "lyric_translation": "You got me", "range": [125.62, 127.74], "ans": [1]},
+    {"lyric": "Nan neoreul bomyeo kkumeul kkweo", "lyric_hangul": "난 너를 보며 꿈을 꿔", "lyric_translation": "I look at you and dream", "range": [127.74, 129.86], "ans": [1]},
+    {"lyric": "I got you", "lyric_hangul": "I got you", "lyric_translation": "I got you", "range": [129.86, 131.9], "ans": [6]},
+    {"lyric": "Chireuk gatdeon bamdeul sok", "lyric_hangul": "칠흑 같던 밤들 속", "lyric_translation": "In the dark nights", "range": [131.9, 133.69], "ans": [6]},
+    {"lyric": "Seoroga bon seoroye bit", "lyric_hangul": "서로가 본 서로의 빛", "lyric_translation": "We saw each other’s light", "range": [133.69, 135.78], "ans": [1]},
+    {"lyric": "Gateun mareul hago isseotteon geoya urin", "lyric_hangul": "같은 말을 하고 있었던 거야 우린", "lyric_translation": "We were saying the same things", "range": [135.78, 139.72], "ans": [6]},
+    "",
+    {"lyric": "Gajang gipeun bame deo binnaneun byeolbit", "lyric_hangul": "가장 깊은 밤에 더 빛나는 별빛", "lyric_translation": "The stars shine the most in the deepest of nights", "range": [139.72, 143.72], "ans": [1]},
+    {"lyric": "(Oh oh oh oh oh oh oh oh oh)", "lyric_hangul": "(Oh oh oh oh oh oh oh oh oh)", "lyric_translation": "", "range": [143.72, 148.38], "ans": []},
+    {"lyric": "Gajang gipeun bame deo binnaneun byeolbit", "lyric_hangul": "가장 깊은 밤에 더 빛나는 별빛", "lyric_translation": "The stars shine the most in the deepest of nights", "range": [148.38, 152.19], "ans": [6]},
+    {"lyric": "(Oh oh oh oh oh oh oh oh oh)", "lyric_hangul": "(Oh oh oh oh oh oh oh oh oh)", "lyric_translation": "", "range": [152.19, 156.6], "ans": []},
+    {"lyric": "Bami gipeulsurok deo bitnaneun byeolbit", "lyric_hangul": "밤이 깊을수록 더 빛나는 별빛", "lyric_translation": "The deeper the night, the more the stars shine", "range": [156.6, 160.4], "ans": [1]},
+    "",
+    {"lyric": "Doshiye bul, i doshiye byeol", "lyric_hangul": "도시의 불, 이 도시의 별", "lyric_translation": "The light of the city, the stars of the city", "range": [160.4, 163.86], "ans": [6]},
+    {"lyric": "Eoril jeok ollyeobon bamhaneureul nan tteoollyeo", "lyric_hangul": "어릴 적 올려본 밤하늘을 난 떠올려", "lyric_translation": "I remember the night sky I looked up at when I was young", "range": [163.86, 168.23], "ans": [1]},
+    {"lyric": "Saramiran bul, saramiran byeollo", "lyric_hangul": "사람이란 불, 사람이란 별로", "lyric_translation": "The light of a person, the star of a person", "range": [168.23, 172.86], "ans": [7]},
+    {
+      "lyric_hangul": "가득한 바로 이 곳에서 we shinin'",
+      "lyric_translation": "Fills this place up / We shinin’",
+      "parts": [
+        {"lyric": "Gadeukhan baro i goseseo", "range": [172.86, 174.32], "ans": [7]},
+        {"lyric": "We shinin’", "range": [174.32, 175.92], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "You got me", "lyric_hangul": "You got me", "lyric_translation": "You got me", "range": [175.52, 177.35], "ans": [5, 6]},
+    {"lyric": "Nan neoreul bomyeo sumeul shwieo", "lyric_hangul": "난 너를 보며 숨을 쉬어", "lyric_translation": "I look at you and breathe", "range": [177.35, 179.55], "ans": [5, 6]},
+    {"lyric": "I got you", "lyric_hangul": "I got you", "lyric_translation": "I got you", "range": [179.55, 181.48], "ans": [5, 6]},
+    {"lyric": "Chireuk gatdeon bamdeul soge", "lyric_hangul": "칠흑 같던 밤들 속에", "lyric_translation": "In the dark nights", "range": [181.48, 184.0], "ans": [5]},
+    "",
+    {"lyric": "Shine, dream, smile", "lyric_hangul": "Shine, dream, smile", "lyric_translation": "Shine, dream, smile", "range": [184.0, 186.58], "ans": [1, 7]},
+    {"lyric": "Oh let ut light up the night", "lyric_hangul": "Oh let us light up the night", "lyric_translation": "Oh let us light up the night", "range": [186.58, 188.77], "ans": [1, 7]},
+    {"lyric": "Urin uridaero binna", "lyric_hangul": "우린 우리대로 빛나", "lyric_translation": "We shine just as we are", "range": [188.77, 192.0], "ans": [1, 7]},
+    {"lyric": "Shine, dream, smile", "lyric_hangul": "Shine, dream, smile", "lyric_translation": "Shine, dream, smile", "range": [192.0, 194.79], "ans": [1, 7]},
+    {"lyric": "Oh let us light up the night", "lyric_hangul": "Oh let us light up the night", "lyric_translation": "Oh let us light up the night", "range": [194.79, 197.01], "ans": [1, 7]},
+    {
+      "lyric_hangul": "우리 그 자체로 빛나 tonight",
+      "lyric_translation": "We shine just by being us / Tonight",
+      "parts": [
+        {"lyric": "Uri geu jachero binna", "range": [197.01, 199.83], "ans": [1, 7]},
+        {"lyric": "Tonight", "range": [199.83, 200.62], "ans": [1, 7]}
+      ]
+    },
+    "",
+    {"lyric": "Na na na na na na", "lyric_hangul": "Na na na na na na", "lyric_translation": "Na na na na na na", "range": [200.62, 202.78], "ans": []},
+    {"lyric": "Na na na na na na na", "lyric_hangul": "Na na na na na na na", "lyric_translation": "Na na na na na na na", "range": [202.78, 204.98], "ans": []},
+    {"lyric": "Na na na na na na", "lyric_hangul": "Na na na na na na", "lyric_translation": "Na na na na na na", "range": [204.98, 206.65], "ans": []},
+    {"lyric": "Na na na na na na na na", "lyric_hangul": "Na na na na na na na na", "lyric_translation": "Na na na na na na na na", "range": [206.65, 209.06], "ans": []},
+    "",
+    {"lyric": "Na na na na na na", "lyric_hangul": "Na na na na na na", "lyric_translation": "Na na na na na na", "range": [209.06, 211.16], "ans": []},
+    {"lyric": "Na na na na na na na", "lyric_hangul": "Na na na na na na na", "lyric_translation": "Na na na na na na na", "range": [211.16, 213.2], "ans": []},
+    {"lyric": "Na na na na na na", "lyric_hangul": "Na na na na na na", "lyric_translation": "Na na na na na na", "range": [213.2, 214.83], "ans": []},
+    {"lyric": "Na na na na na na na na", "lyric_hangul": "Na na na na na na na na", "lyric_translation": "Na na na na na na na na", "range": [214.83, 219.09], "ans": []}
+  ]
+}

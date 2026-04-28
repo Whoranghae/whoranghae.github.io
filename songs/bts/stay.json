@@ -1,0 +1,188 @@
+{
+  "name": "Stay\r",
+  "ogg": "sound/kpop/stay.ogg",
+  "id": "stay",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-11-20",
+  "album": "BE",
+  "cover": "css/images/covers/stay.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "꿈이었을까 널 본 것 같아",
+      "lyric_translation": "Was it a dream? / I think I saw you",
+      "parts": [
+        {"lyric": "Kkumieosseulkka", "range": [14.37, 19.01], "ans": [7]},
+        {"lyric": "Neol bon geot gata", "range": [19.01, 22.27], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "눈뜨면 다시 아무도 없는 방",
+      "lyric_translation": "When I wake up again / There’s nobody in the room",
+      "parts": [
+        {"lyric": "Nuntteumyeon dashi", "range": [22.27, 24.73], "ans": [1]},
+        {"lyric": "Amudo eomneun bang", "range": [24.73, 29.29], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Gamanhi nan jumuneul georeo", "lyric_hangul": "가만히 난 주문을 걸어", "lyric_translation": "I quietly cast a spell", "range": [29.29, 32.19], "ans": [7]},
+    {"lyric": "Geu eoneu ttaeboda keuge ttwineun heart", "lyric_hangul": "그 어느 때보다 크게 뛰는 heart", "lyric_translation": "My heart is beating faster than ever", "range": [32.19, 36.02], "ans": [7]},
+    {"lyric": "I sungan uri eonjerado eodi ittaedo", "lyric_hangul": "이 순간 우리 언제라도 어디 있대도", "lyric_translation": "In this moment, whenever, wherever, we are", "range": [36.02, 41.4], "ans": [1]},
+    {
+      "lyric_hangul": "Together, wherever, yeah (wherever, yeah)",
+      "lyric_translation": "Together, wherever yeah / (Wherever yeah)",
+      "parts": [
+        {"lyric": "Together, wherever yeah", "range": [41.4, 43.57], "ans": [1]},
+        {"lyric": "(Wherever yeah)", "range": [43.57, 45.15], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "반복도 복인 것 같아 나도 모르겠어 나의 속을 (uh-huh)",
+      "lyric_translation": "Even repetition seems like a blessing* / Even I don’t know my inner self",
+      "parts": [
+        {"lyric": "Banbokdo bogin geot gata", "range": [45.06, 46.62], "ans": [4]},
+        {"lyric": "Nado moreugesseo naye sogeul", "range": [46.62, 49.31], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "널 볼 순 없을까 가만히 모아보네 두 손을 (uh-huh)",
+      "lyric_translation": "Can’t I see you? / I quietly put my hands together",
+      "parts": [
+        {"lyric": "Neol bol sun eopseulkka", "range": [49.14, 50.62], "ans": [4]},
+        {"lyric": "Gamanhi moabone du soneul", "range": [50.62, 53.06], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "변하지 않는 내일 미친놈처럼 I keep sayin'",
+      "lyric_translation": "The unchanging tomorrow / Like a lunatic, I keep sayin’",
+      "parts": [
+        {"lyric": "Byeonhaji anneun naeil", "range": [52.87, 55.01], "ans": [4]},
+        {"lyric": "Michinnomcheoreom I keep sayin’", "range": [54.54, 56.74], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Wherever you are, I know you always...",
+      "lyric_translation": "Wherever you are / I know you always stay / In that place where clouds have passed by",
+      "parts": [
+        {"lyric": "Wherever you are", "range": [56.41, 56.97], "ans": [4, 7]},
+        {"lyric": "I know you always stay", "range": [56.97, 59.06], "ans": [4, 7]},
+        {"lyric": "Jeo gureumi jinagan jarie", "range": [58.36, 61.1], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Stay (저 구름이 지나간 자리에)",
+      "lyric_translation": "Stay / With dry lips I say to you",
+      "parts": [
+        {"lyric": "Stay", "range": [61.1, 61.77], "ans": [1]},
+        {"lyric": "Mareun ibsullo neoege malhae", "range": [61.15, 64.57], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay (마른 입술로 너에게 말해) Stay, stay, stay, stay (always)",
+      "lyric_translation": "Stay, stay, stay, stay / (Always)",
+      "parts": [
+        {"lyric": "Stay", "range": [64.57, 66.94], "ans": [7]},
+        {"lyric": "Stay", "range": [66.24, 67.62], "ans": [1]},
+        {"lyric": "Stay", "range": [66.92, 68.18], "ans": [7]},
+        {"lyric": "Stay", "range": [67.48, 69.81], "ans": [1]},
+        {"lyric": "(Always)", "range": [69.11, 73.42], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [73.42, 80.78], "ans": [7]},
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [80.78, 88.74], "ans": [1]},
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [88.74, 91.91], "ans": [7]},
+    "",
+    {"lyric": "Challanhan oneure", "lyric_hangul": "찬란한 오늘의 (oh-oh-oh-oh)", "lyric_translation": "For everyone who’s a part of", "range": [91.91, 95.59], "ans": [1]},
+    {"lyric": "Geu modureul wihae", "lyric_hangul": "그 모두를 위해, hey, yeah", "lyric_translation": "this splendid today", "range": [95.59, 99.6], "ans": [7]},
+    {"lyric": "Oh every night and day", "lyric_hangul": "Oh, every night and day (oh-oh-oh-oh)", "lyric_translation": "Oh every night and day", "range": [99.6, 104.05], "ans": [1]},
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [104.05, 106.67], "ans": [7]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "바로 지금 난 널 생각해 니가 어디에 있던지",
+      "lyric_translation": "I’m thinking about you right now / Wherever you are",
+      "parts": [
+        {"lyric": "Baro jigeum nan neol saenggakhae", "range": [106.67, 109.07], "ans": [4]},
+        {"lyric": "Niga eodie itteonji", "range": [109.07, 111.14], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "그게 뭐가 중요해, we connect to 7G",
+      "lyric_translation": "It’s really not important / We connect to 7G",
+      "parts": [
+        {"lyric": "Geuge mweoga jungyohae", "range": [111.14, 112.96], "ans": [4]},
+        {"lyric": "We connect to 7G", "range": [112.96, 115.09], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "It ain't the end of the world, the present, it shine like a pearl",
+      "lyric_translation": "It ain’t the end of the world / The present, it shine like a pearl",
+      "parts": [
+        {"lyric": "It ain’t the end of the world", "range": [115.09, 116.4], "ans": [4]},
+        {"lyric": "The present, it shine like a pearl", "range": [116.4, 118.14], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "이건 몇 파동에 불과 하지만 내가 널 바꿔놓을 거야",
+      "lyric_translation": "These might be just a few waves** / But I’ll leave you changed",
+      "parts": [
+        {"lyric": "Igeon myeot padonge bulgwa", "range": [117.76, 119.5], "ans": [4]},
+        {"lyric": "Hajiman naega neol bakkweonoeul geoya", "range": [119.5, 121.26], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Gamanhi nan jumuneul georeo", "lyric_hangul": "가만히 난 주문을 걸어", "lyric_translation": "I quietly cast a spell", "range": [120.55, 123.99], "ans": [1, 7]},
+    {"lyric": "Geu eoneu ttaeboda balkge boineun star", "lyric_hangul": "그 어느 때보다 밝게 보이는 star", "lyric_translation": "The stars look brighter than ever", "range": [123.99, 127.55], "ans": [1, 7]},
+    {"lyric": "I sungan urin eonjerado eodi ittaedo", "lyric_hangul": "이 순간 우린 언제라도 어디 있대도", "lyric_translation": "In this moment, whenever, wherever, we are", "range": [127.55, 132.76], "ans": [7]},
+    {
+      "lyric_hangul": "Wherever you are, I know you always...",
+      "lyric_translation": "Wherever you are / I know you always stay / In that sea the breeze flew past",
+      "parts": [
+        {"lyric": "Wherever you are", "range": [132.76, 133.18], "ans": [7, 4]},
+        {"lyric": "I know you always stay", "range": [133.18, 135.27], "ans": [7, 4]},
+        {"lyric": "Jeo barami jinagan badae", "range": [134.57, 137.23], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Stay (저 바람이 지나간 바다에)",
+      "lyric_translation": "Stay / With stiff lips I tell you",
+      "parts": [
+        {"lyric": "Stay", "range": [137.23, 137.92], "ans": [1]},
+        {"lyric": "Gudeun ibsullo nege mareul hae", "range": [137.28, 141.01], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay (굳은 입술로 네게 말을 해) Stay, stay, stay, stay (always)",
+      "lyric_translation": "Stay, stay, stay, stay / (Always)",
+      "parts": [
+        {"lyric": "Stay", "range": [141.01, 143.14], "ans": [7]},
+        {"lyric": "Stay", "range": [142.44, 143.8], "ans": [1]},
+        {"lyric": "Stay", "range": [143.1, 144.22], "ans": [7]},
+        {"lyric": "Stay", "range": [143.52, 145.99], "ans": [1]},
+        {"lyric": "(Always)", "range": [145.29, 149.87], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [149.87, 157.4], "ans": [1]},
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [157.4, 165.24], "ans": [7]},
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [165.24, 168.04], "ans": [1]},
+    "",
+    {"lyric": "Challanhan oneure", "lyric_hangul": "찬란한 오늘의 (oh-oh-oh-oh)", "lyric_translation": "For everyone who’s a part of", "range": [168.04, 171.87], "ans": [7]},
+    {"lyric": "Geu modureul wihae", "lyric_hangul": "그 모두를 위해, hey, yeah", "lyric_translation": "this splendid today", "range": [171.87, 176.04], "ans": [1]},
+    {"lyric": "Oh every night and day", "lyric_hangul": "Oh, every night and day (oh-oh-oh-oh)", "lyric_translation": "Oh every night and day", "range": [176.04, 180.31], "ans": [7]},
+    {"lyric": "Yeah I know you always stay", "lyric_hangul": "Yeah, I know you always stay", "lyric_translation": "Yeah I know you always stay", "range": [180.31, 183.17], "ans": [1]},
+    "",
+    {"lyric": "Chanbarami bureowa", "lyric_hangul": "찬바람이 불어와", "lyric_translation": "A chilly wind is blowing", "range": [183.17, 187.25], "ans": [7]},
+    {"lyric": "Son naemireo ne sumgyeoreul neukkyeo", "lyric_hangul": "손 내밀어 네 숨결을 느껴", "lyric_translation": "Give me your hand, I feel your breath", "range": [187.25, 191.07], "ans": [7]},
+    {"lyric": "Nun gameun eoneusae", "lyric_hangul": "눈 감은 어느새", "lyric_translation": "I closed my eyes and suddenly", "range": [191.07, 194.13], "ans": [7]},
+    {"lyric": "Urin hamkkein geol", "lyric_hangul": "우린 함께인 걸", "lyric_translation": "I realize we are together", "range": [194.13, 199.53], "ans": [7]}
+  ]
+}

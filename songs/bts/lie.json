@@ -1,0 +1,146 @@
+{
+  "name": "Lie\r",
+  "ogg": "sound/kpop/lie.ogg",
+  "id": "lie",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/lie.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "내게 말해 너의 달콤한 미소로 내게",
+      "lyric_translation": "Tell me / With your sweet smile",
+      "parts": [
+        {"lyric": "Naege malhae", "range": [21.76, 23.44], "ans": [5]},
+        {"lyric": "Neoui dalkomhan misoro naege", "range": [23.44, 26.22], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "내게 말해 속삭이듯 내 귓가에 말해",
+      "lyric_translation": "Tell me / Tell me like you’re whispering into my ears",
+      "parts": [
+        {"lyric": "Naege malhae", "range": [25.8, 27.29], "ans": [5]},
+        {"lyric": "Soksagideut nae gwitgae malhae", "range": [27.29, 30.51], "ans": [5]}
+      ]
+    },
+    {"lyric": "Don’t be like a prey", "lyric_hangul": "Don't be like a prey", "lyric_translation": "Don’t be like a prey", "range": [30.51, 32.72], "ans": [5]},
+    {"lyric": "(Be) Smooth like a like a snake", "lyric_hangul": "(Be) Smooth like a like a snake", "lyric_translation": "Be Smooth like a like a snake", "range": [32.72, 33.95], "ans": [5]},
+    {
+      "lyric_hangul": "벗어나고 싶은데",
+      "lyric_translation": "I want to escape but / Ah woo woo",
+      "parts": [
+        {"lyric": "Beoseonago sipeunde", "range": [33.95, 35.51], "ans": [5]},
+        {"lyric": "(Ah woo woo)", "range": [35.51, 37.85], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "(Ah woo woo)", "lyric_hangul": "(Ah woo woo)", "lyric_translation": "", "range": [37.85, 41.18], "ans": []},
+    {"lyric": "Naegeseo tteona tteona tteonajwo", "lyric_hangul": "내게서 떠나 떠나 떠나줘", "lyric_translation": "Get away away away from me", "range": [41.18, 43.97], "ans": [5]},
+    {
+      "lyric_hangul": "내게서 떠나 떠나줘",
+      "lyric_translation": "Get away away from me / Ah woo woo",
+      "parts": [
+        {"lyric": "Naegeseo tteona tteonajwo", "range": [43.97, 45.65], "ans": [5]},
+        {"lyric": "(Ah woo woo)", "range": [45.65, 46.8], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Ah woo woo)", "lyric_hangul": "(Ah woo woo)", "lyric_translation": "", "range": [46.8, 48.67], "ans": []},
+    {"lyric": "Mworado nareul nareul guhaejwo", "lyric_hangul": "뭐라도 나를 나를 구해줘", "lyric_translation": "Whatever it takes, save me, me", "range": [48.67, 51.46], "ans": [5]},
+    {"lyric": "Nareul guhaejwo", "lyric_hangul": "나를 구해줘", "lyric_translation": "Save me", "range": [51.46, 53.02], "ans": [5]},
+    "",
+    {"lyric": "Gyesokdwae domangchyeobwado", "lyric_hangul": "계속돼 도망쳐봐도", "lyric_translation": "It keeps happening even though I run away", "range": [53.02, 56.61], "ans": [5]},
+    {"lyric": "Geojit soge ppajyeoisseo", "lyric_hangul": "거짓 속에 빠져있어", "lyric_translation": "I’m caught in a lie", "range": [56.61, 60.15], "ans": [5]},
+    "",
+    {"lyric": "Caught in a lie", "lyric_hangul": "Caught in a lie", "lyric_translation": "Caught in a lie", "range": [60.15, 64.14], "ans": [5]},
+    {"lyric": "Sungyeolhaetdeon nal chajajwo", "lyric_hangul": "순결했던 날 찾아줘", "lyric_translation": "Find the me that was innocent", "range": [64.14, 68.08], "ans": [5]},
+    {"lyric": "I geojit soge heeonal su eobseo", "lyric_hangul": "이 거짓 속에 헤어날 수 없어", "lyric_translation": "I can’t free myself from this lie", "range": [68.08, 71.95], "ans": [5]},
+    {"lyric": "Nae useumeul dollyeonwajwo", "lyric_hangul": "내 웃음을 돌려놔줘", "lyric_translation": "Give me back my laughter", "range": [71.95, 75.19], "ans": [5]},
+    "",
+    {"lyric": "Caught in a lie", "lyric_hangul": "Caught in a lie", "lyric_translation": "Caught in a lie", "range": [75.19, 79.62], "ans": [5]},
+    {"lyric": "I jiogeseo nal kkeonaejwo", "lyric_hangul": "이 지옥에서 날 꺼내줘", "lyric_translation": "Take me out of this hell", "range": [79.62, 83.28], "ans": [5]},
+    {"lyric": "I gotongeseo heeonal su eobseo", "lyric_hangul": "이 고통에서 헤어날 수 없어", "lyric_translation": "I can’t free myself from this pain", "range": [83.28, 87.23], "ans": [5]},
+    {"lyric": "Beolbanneun nareul guhaejwo", "lyric_hangul": "벌받는 나를 구해줘", "lyric_translation": "Save the me who’s being punished", "range": [87.23, 92.39], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "나를 원해 길을 잃고 헤매이는 나를",
+      "lyric_translation": "Want me / The me who has lost the way",
+      "parts": [
+        {"lyric": "Nareul wonhae", "range": [94.88, 96.24], "ans": [5]},
+        {"lyric": "Gireul irhgo hemaeineun", "range": [96.24, 99.63], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나를 원해 매일 그랬듯 나",
+      "lyric_translation": "Want me / Like always, I",
+      "parts": [
+        {"lyric": "Nareul wonhae", "range": [98.55, 100.05], "ans": [5]},
+        {"lyric": "Maeil geuraedeut na", "range": [100.05, 103.24], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "I feel so far away", "lyric_hangul": "I feel so far away", "lyric_translation": "I feel so far away", "range": [103.24, 104.97], "ans": []},
+    {"lyric": "You always come my way", "lyric_hangul": "You always come my way", "lyric_translation": "You always come my way", "range": [104.97, 106.77], "ans": []},
+    {
+      "lyric_hangul": "또 다시 반복돼 난",
+      "lyric_translation": "I repeat again / Ah woo woo",
+      "parts": [
+        {"lyric": "Tto dasi banbokdwae nan", "range": [106.77, 108.3], "ans": [5]},
+        {"lyric": "(Ah woo woo)", "range": [108.3, 111.25], "ans": [5]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "(Ah woo woo)", "lyric_hangul": "(Ah woo woo)", "lyric_translation": "", "range": [111.25, 113.86], "ans": []},
+    {"lyric": "Naegeseo tteona tteona tteonajwo", "lyric_hangul": "내게서 떠나 떠나 떠나줘", "lyric_translation": "Get away away away from me", "range": [113.86, 116.86], "ans": [5]},
+    {
+      "lyric_hangul": "내게서 떠나 떠나줘",
+      "lyric_translation": "Get away away from me / Ah woo woo",
+      "parts": [
+        {"lyric": "Naegeseo tteona tteonajwo", "range": [116.86, 118.4], "ans": [5]},
+        {"lyric": "(Ah woo woo)", "range": [118.4, 119.31], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Ah woo woo)", "lyric_hangul": "(Ah woo woo)", "lyric_translation": "", "range": [119.31, 121.46], "ans": []},
+    {"lyric": "Mworado nareul nareul guhaejwo", "lyric_hangul": "뭐라도 나를 나를 구해줘", "lyric_translation": "Whatever it takes, save me, me", "range": [121.46, 124.22], "ans": [5]},
+    {"lyric": "Nareul guhaejwo", "lyric_hangul": "나를 구해줘", "lyric_translation": "Save me", "range": [124.22, 125.69], "ans": [5]},
+    "",
+    {"lyric": "Gyesokdwae domangchyeobwado", "lyric_hangul": "계속돼 도망쳐봐도", "lyric_translation": "It keeps happening even though I run away", "range": [125.69, 129.34], "ans": [5]},
+    {"lyric": "Geojit soge ppajyeoisseo", "lyric_hangul": "거짓 속에 빠져있어", "lyric_translation": "I’m caught in a lie", "range": [129.34, 132.85], "ans": [5]},
+    "",
+    {"lyric": "Caught in a lie", "lyric_hangul": "Caught in a lie", "lyric_translation": "Caught in a lie", "range": [132.85, 136.94], "ans": [5]},
+    {"lyric": "Sungyeolhaetdeon nal chajajwo", "lyric_hangul": "순결했던 날 찾아줘", "lyric_translation": "Find the me that was innocent", "range": [136.94, 140.88], "ans": [5]},
+    {"lyric": "I geojit soge heeonal su eobseo", "lyric_hangul": "이 거짓 속에 헤어날 수 없어", "lyric_translation": "I can’t free myself from this lie", "range": [140.88, 144.53], "ans": [5]},
+    {"lyric": "Nae useumeul dollyeonwajwo", "lyric_hangul": "내 웃음을 돌려놔줘", "lyric_translation": "Give me back my laughter", "range": [144.53, 147.82], "ans": [5]},
+    "",
+    {"lyric": "Caught in a lie", "lyric_hangul": "Caught in a lie", "lyric_translation": "Caught in a lie", "range": [147.82, 152.15], "ans": [5]},
+    {"lyric": "I jiogeseo nal kkeonaejwo", "lyric_hangul": "이 지옥에서 날 꺼내줘", "lyric_translation": "Take me out of this hell", "range": [152.15, 155.6], "ans": [5]},
+    {"lyric": "I gotongeseo heeonal su eobseo", "lyric_hangul": "이 고통에서 헤어날 수 없어", "lyric_translation": "I can’t free myself from this pain", "range": [155.6, 159.99], "ans": [5]},
+    {"lyric": "Beolbanneun nareul guhaejwo", "lyric_hangul": "벌받는 나를 구해줘", "lyric_translation": "Save the me who’s being punished", "range": [159.99, 164.67], "ans": [5]},
+    "",
+    {"lyric": "Ajik naneun yeojeonhi ttokgateun nainde", "lyric_hangul": "아직 나는 여전히 똑같은 나인데", "lyric_translation": "I’m still the same me", "range": [164.67, 168.02], "ans": []},
+    {"lyric": "Yejeongwa ttokgateun naneun yeogi inneunde", "lyric_hangul": "예전과 똑같은 나는 여기 있는데", "lyric_translation": "The me from before is still here but", "range": [168.02, 171.13], "ans": []},
+    {
+      "lyric_hangul": "너무나 커져버린 거짓이 날 삼키려 해",
+      "lyric_translation": "The lie that’s gotten too big / Is trying to swallow me up",
+      "parts": [
+        {"lyric": "Neomuna keojyeobeorin", "range": [171.13, 173.49], "ans": [5]},
+        {"lyric": "Geojisi nal samkiryeo hae", "range": [173.49, 178.52], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Caught in a lie", "lyric_hangul": "Caught in a lie", "lyric_translation": "Caught in a lie", "range": [178.52, 182.91], "ans": [5]},
+    {"lyric": "Sungyeolhaetdeon nal chajajwo", "lyric_hangul": "순결했던 날 찾아줘", "lyric_translation": "Find the me that was innocent", "range": [182.91, 186.79], "ans": [5]},
+    {"lyric": "I geojit soge heeonal su eobseo", "lyric_hangul": "이 거짓 속에 헤어날 수 없어", "lyric_translation": "I can’t free myself from this lie", "range": [186.79, 190.71], "ans": [5]},
+    {"lyric": "Nae useumeul dollyeonwajwo", "lyric_hangul": "내 웃음을 돌려놔줘", "lyric_translation": "Give me back my laughter", "range": [190.71, 193.73], "ans": [5]},
+    "",
+    {"lyric": "Caught in a lie", "lyric_hangul": "Caught in a lie", "lyric_translation": "Caught in a lie", "range": [193.73, 198.27], "ans": [5]},
+    {"lyric": "I jiogeseo nal kkeonaejwo", "lyric_hangul": "이 지옥에서 날 꺼내줘", "lyric_translation": "Take me out of this hell", "range": [198.27, 202.05], "ans": [5]},
+    {"lyric": "I gotongeseo heeonal su eobseo", "lyric_hangul": "이 고통에서 헤어날 수 없어", "lyric_translation": "I can’t free myself from this pain", "range": [202.05, 205.82], "ans": [5]},
+    {"lyric": "Beolbanneun nareul guhaejwo", "lyric_hangul": "벌받는 나를 구해줘", "lyric_translation": "Save the me who’s being punished", "range": [205.82, 211.1], "ans": [5]}
+  ]
+}

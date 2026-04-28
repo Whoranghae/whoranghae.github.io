@@ -1,0 +1,195 @@
+{
+  "name": "Pied Piper\r",
+  "ogg": "sound/kpop/pied_piper.ogg",
+  "id": "pied-piper",
+  "group": "bts",
+  "language": "ko",
+  "released": "2017-09-18",
+  "album": "LOVE YOURSELF 承 ‘Her’",
+  "cover": "css/images/covers/pied-piper.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Nappeun geora deo joeun geoya", "lyric_hangul": "나쁜 거라 더 좋은 거야", "lyric_translation": "It’s bad so it’s better", "range": [10.36, 15.22], "ans": [7]},
+    {"lyric": "Sogeuron algo itjana", "lyric_hangul": "속으론 알고 있잖아", "lyric_translation": "You know on the inside", "range": [15.22, 20.87], "ans": [7]},
+    {"lyric": "Ijen meomchwojiji anneun geoya (you can’t stop)", "lyric_hangul": "이젠 멈춰지지 않는 거야 (you can't stop)", "lyric_translation": "You can’t stop it now (you can’t stop)", "range": [20.87, 26.03], "ans": [7]},
+    {
+      "lyric_hangul": "좀 더 솔직해져 봐 (stop)",
+      "lyric_translation": "So be honest with me / Stop",
+      "parts": [
+        {"lyric": "Jom deo soljikhaejyeobwa", "range": [26.03, 28.57], "ans": [7]},
+        {"lyric": "Stop", "range": [27.87, 29.85], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Ije geuman bogo shiheomgongbuhae", "lyric_hangul": "이제 그만 보고 시험공부 해", "lyric_translation": "Now stop watching and study for your test", "range": [29.85, 32.25], "ans": []},
+    {"lyric": "Ni bumonimgwa bujangnim nal miwohae", "lyric_hangul": "네 부모님과 부장님 날 미워해", "lyric_translation": "Your parents and director hate me", "range": [32.25, 34.58], "ans": []},
+    {"lyric": "Bwatteon yeongsang gakjong sajin teuwiteo", "lyric_hangul": "봤던 영상 각종 사진 트위터", "lyric_translation": "Video clips, pictures, tweets", "range": [34.58, 37.09], "ans": []},
+    {
+      "lyric_hangul": "브이앱, 본보야지, 알아 좋은 걸 어떡해",
+      "lyric_translation": "V app, Bon Voyage / I know, you can’t help what you like",
+      "parts": [
+        {"lyric": "Beuiaeb bonboyaji", "range": [37.09, 38.75], "ans": []},
+        {"lyric": "Ara joeun geol eotteokhae", "range": [38.75, 40.12], "ans": []}
+      ]
+    },
+    {"lyric": "Geumanhae myubineun najunge haeseokhago", "lyric_hangul": "그만해 뮤비는 나중에 해석하고", "lyric_translation": "But stop, interpret the music video later", "range": [40.12, 42.54], "ans": []},
+    {"lyric": "Eochapi nae sajin ni bangedo manchaneo", "lyric_hangul": "어차피 내 사진 네 방에도 많잖어", "lyric_translation": "You have so many pictures of me in your room anyway", "range": [42.54, 45.5], "ans": []},
+    {"lyric": "Han shigani mwoya irinyeoneul sunsakhae", "lyric_hangul": "한 시간이 뭐야? 일이 년을 순삭해", "lyric_translation": "It’s not just one hour, it’s a whole year that’ll disappear", "range": [45.5, 48.18], "ans": []},
+    {
+      "lyric_hangul": "이 노랜 내가 네게 주는 상 (착해)",
+      "lyric_translation": "So this song is an award I’m giving to you / Good",
+      "parts": [
+        {"lyric": "I noraen naega nege juneun sang", "range": [48.18, 49.78], "ans": []},
+        {"lyric": "Chakhae", "range": [49.78, 50.43], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "벌 받는 건 아니잖아, 이리 와, 난 너의 paradise (paradise)",
+      "lyric_translation": "You’re not being punished / Come here, I’m your paradise",
+      "parts": [
+        {"lyric": "Beol batneun geon anijana", "range": [50.43, 55.46], "ans": [1]},
+        {"lyric": "Iri wa nan neoye paradise", "range": [54.76, 57.4], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Can't close your eyes (can't close your eyes)",
+      "lyric_translation": "Can’t close your eyes / Can’t close your eyes",
+      "parts": [
+        {"lyric": "Can’t close your eyes", "range": [57.4, 59.32], "ans": [1]},
+        {"lyric": "Can’t close your eyes", "range": [58.62, 60.39], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "발버둥 쳐봐도 더는 소용없을 걸 (날 거부하지 마)",
+      "lyric_translation": "You can throw a fit but it’s no use / (Don’t reject me)",
+      "parts": [
+        {"lyric": "Balbeodungchyeobwado deoneun soyongeopseul geol", "range": [60.33, 64.27], "ans": [5]},
+        {"lyric": "(nal geobuhaji ma)", "range": [63.57, 65.69], "ans": [7]}
+      ]
+    },
+    {"lyric": "Geunyang nuneul gamgo gwi giuryeobwa", "lyric_hangul": "그냥 눈을 감고 귀 기울여봐", "lyric_translation": "Just close your eyes, tune your ears", "range": [65.52, 69.48], "ans": [5]},
+    "",
+    {"lyric": "Pirisoril ttarawa", "lyric_hangul": "피리 소릴 따라와 (ooh)", "lyric_translation": "Follow the sound of the pipe", "range": [69.48, 72.29], "ans": [7]},
+    {"lyric": "Pirisoril ttarawa i noraereul ttarawa", "lyric_hangul": "이 노래를 따라와 (ooh)", "lyric_translation": "Follow the sound of the pipe, follow this song", "range": [72.29, 74.81], "ans": [1]},
+    {"lyric": "Jogeum wiheomhaedo na cham daljana", "lyric_hangul": "조금 위험해도 나 (ooh) 참 (ooh) 달잖아", "lyric_translation": "It’s a bit dangerous but I’m so sweet", "range": [74.81, 80.24], "ans": [1]},
+    {"lyric": "Neol guhareo on geoya neol mangchireo on geoya", "lyric_hangul": "널 구하러 온 거야 (ooh) 널 망치러 온 거야 (ooh)", "lyric_translation": "I’m here to save you, I’m here to ruin you", "range": [80.24, 85.43], "ans": [6]},
+    {"lyric": "Niga nal bureun geoya bwa daljana", "lyric_hangul": "네가 날 부른 거야 (ooh), 봐? (Ooh), 달잖아", "lyric_translation": "You called me, see? I’m so sweet", "range": [85.43, 89.92], "ans": [6]},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [92.28, 94.88], "ans": []},
+    {"lyric": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [94.88, 97.37], "ans": []},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [97.37, 99.76], "ans": []},
+    "",
+    {"lyric": "I’m takin’ over you", "lyric_hangul": "I'm takin' over you", "lyric_translation": "I’m takin’ over you", "range": [99.76, 102.53], "ans": [7]},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [102.53, 105.16], "ans": []},
+    {"lyric": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [105.16, 107.66], "ans": []},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [107.66, 110.05], "ans": []},
+    {"lyric": "I’m takin’ over you", "lyric_hangul": "I'm takin' over you", "lyric_translation": "I’m takin’ over you", "range": [110.05, 115.02], "ans": [7]},
+    "",
+    {"lyric": "Imi shijakdoen geol aljana", "lyric_hangul": "이미 시작된 걸 알잖아", "lyric_translation": "You know it has already started", "range": [115.02, 120.54], "ans": [6]},
+    {"lyric": "Geu soril deutge doen sungan", "lyric_hangul": "그 소릴 듣게 된 순간 (yeah, Suga)", "lyric_translation": "The moment you hear that sound", "range": [120.54, 123.9], "ans": [6]},
+    "",
+    "[next-col]",
+    {"lyric": "Eojjeomyeon geurae naneun jogeum wiheomhae", "lyric_hangul": "어쩌면 그래 나는 조금 위험해, huh, 조금 위험해, huh)", "lyric_translation": "Maybe I’m a bit dangerous", "range": [123.9, 126.86], "ans": [2]},
+    {"lyric": "Neol ikkeuneun piri buneun sanaicheoreom", "lyric_hangul": "널 이끄는 피리 부는 사나이처럼", "lyric_translation": "Like the pied piper", "range": [126.86, 129.93], "ans": [2]},
+    {"lyric": "Naneun neoreul shiheomhae", "lyric_hangul": "나는 너를 시험해, huh, 너를 시험해, huh", "lyric_translation": "I’m testing you", "range": [129.93, 132.23], "ans": [2]},
+    {"lyric": "Almyeonseodo ikkeullineun seonakgwacheoreom", "lyric_hangul": "알면서도 이끌리는 선악과처럼", "lyric_translation": "Like the fruit from the tree of good and evil", "range": [132.23, 134.74], "ans": [2]},
+    "",
+    {"lyric": "Nae pirineun modeun geol kkaewo", "lyric_hangul": "내 피리는 모든 걸 깨워", "lyric_translation": "My pipe awakens everything", "range": [134.74, 135.57], "ans": [3]},
+    {
+      "lyric_hangul": "그 소린 널 애태워 더 이끌려 반응하는 너",
+      "lyric_translation": "That sound burns you up even more / You’re pulled by it, you react",
+      "parts": [
+        {"lyric": "Geu sorin neol haetaewo deo", "range": [135.57, 137.75], "ans": [3]},
+        {"lyric": "Ikkeullyeo baneunghaneun neo", "range": [137.75, 139.85], "ans": [3]}
+      ]
+    },
+    {"lyric": "Kkeunimeopshi sumeul bureonae", "lyric_hangul": "끊임없이 숨을 불어내, huh", "lyric_translation": "I’m endlessly blowing", "range": [139.85, 142.29], "ans": [3]},
+    {
+      "lyric_hangul": "난 너의 guilty pleasure, 헤어나올 순 없어, never",
+      "lyric_translation": "I’m your guilty pleasure / You can’t escape / Never",
+      "parts": [
+        {"lyric": "Nan neoye guilty pleasure", "range": [142.29, 142.89], "ans": [3]},
+        {"lyric": "Heeonaol sun eopseo", "range": [142.89, 144.09], "ans": [3]},
+        {"lyric": "Never", "range": [144.09, 145.18], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "벌 받는 건 아니잖아, 이리 와, 난 너의 paradise (paradise)",
+      "lyric_translation": "You’re not being punished / Come here, I’m your paradise",
+      "parts": [
+        {"lyric": "Beol batneun geon anijana", "range": [145.18, 149.9], "ans": [5]},
+        {"lyric": "Iri wa nan neoye paradise", "range": [149.2, 151.93], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Can't close your eyes (can't close your eyes)",
+      "lyric_translation": "Can’t close your eyes / Can’t close your eyes",
+      "parts": [
+        {"lyric": "Can’t close your eyes", "range": [151.93, 153.82], "ans": [6]},
+        {"lyric": "Can’t close your eyes", "range": [153.12, 155.23], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "발버둥 쳐봐도 더는 소용없을 걸 (날 거부하지 마)",
+      "lyric_translation": "You can throw a fit but it’s no use / (Don’t reject me)",
+      "parts": [
+        {"lyric": "Balbeodungchyeobwado deoneun soyongeopseul geol", "range": [155.23, 158.7], "ans": [1]},
+        {"lyric": "(nal geobuhaji ma)", "range": [158.0, 160.03], "ans": [6]}
+      ]
+    },
+    {"lyric": "Geunyang nuneul gamgo gwi giuryeobwa", "lyric_hangul": "그냥 눈을 감고 귀 기울여봐", "lyric_translation": "Just close your eyes, tune your ears", "range": [159.91, 164.1], "ans": [1]},
+    "",
+    {"lyric": "Pirisoril ttarawa i noraereul ttarawa", "lyric_hangul": "피리 소릴 따라와 (ooh) 이 노래를 따라와 (ooh)", "lyric_translation": "Follow the sound of the pipe, follow this song", "range": [164.1, 169.33], "ans": [5]},
+    {"lyric": "Jogeum wiheomhaedo na cham daljana", "lyric_hangul": "조금 위험해도 나 (ooh) 참 (ooh) 달잖아", "lyric_translation": "It’s a bit dangerous but I’m so sweet", "range": [169.33, 174.6], "ans": [5]},
+    {"lyric": "Neol guhareo on geoya neol mangchireo on geoya", "lyric_hangul": "널 구하러 온 거야 (ooh) 널 망치러 온 거야 (ooh)", "lyric_translation": "I’m here to save you, I’m here to ruin you", "range": [174.6, 179.56], "ans": [7]},
+    {"lyric": "Niga nal bureun geoya bwa daljana", "lyric_hangul": "네가 날 부른 거야 (ooh), 봐? (Ooh), 달잖아", "lyric_translation": "You called me, see? I’m so sweet", "range": [179.56, 185.28], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "그래 내가 좀 위험해, 나도 나를 감당 못해",
+      "lyric_translation": "Yeah, I’m a bit dangerous / I can’t even handle myself",
+      "parts": [
+        {"lyric": "Geurae naega jom wiheomhae", "range": [185.28, 187.31], "ans": [7]},
+        {"lyric": "Nado nareul gamdang mothae", "range": [187.31, 190.45], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "걱정 마 나의 손은 너에게만 따뜻해 따뜻해",
+      "lyric_translation": "Don’t worry, my hands / They’re only warm for you",
+      "parts": [
+        {"lyric": "Geokjeong ma naye soneun", "range": [190.45, 192.93], "ans": [7]},
+        {"lyric": "Neoegeman ttatteuthae ttatteuthae", "range": [192.93, 195.77], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "만약에 내가 널 망치고 있는 거라면",
+      "lyric_translation": "If I’m / Ruining you right now",
+      "parts": [
+        {"lyric": "Manyage naega neol", "range": [195.77, 197.61], "ans": [5]},
+        {"lyric": "Mangchigo itneun georamyeon", "range": [197.61, 201.03], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "나를 용서해줄래, 넌 나 없인 못 사니까, 다 아니까",
+      "lyric_translation": "Please forgive me / Because you can’t live without me / Because you know all of this",
+      "parts": [
+        {"lyric": "Nareul yongseohaejullae", "range": [201.03, 203.22], "ans": [5]},
+        {"lyric": "Neon na eopshin mot sanikka", "range": [203.22, 205.07], "ans": [5]},
+        {"lyric": "Da anikka", "range": [205.07, 207.14], "ans": [5]}
+      ]
+    },
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [207.14, 209.97], "ans": []},
+    {"lyric": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [209.97, 212.47], "ans": []},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [212.47, 214.62], "ans": []},
+    "",
+    {"lyric": "I’m takin’ over you", "lyric_hangul": "I'm takin' over you", "lyric_translation": "I’m takin’ over you", "range": [214.62, 217.23], "ans": [7]},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [217.23, 220.13], "ans": []},
+    {"lyric": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [220.13, 222.58], "ans": []},
+    {"lyric": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_hangul": "Ooh-ooh-ooh, ah-ooh-ah-ah-ah", "lyric_translation": "", "range": [222.58, 224.96], "ans": []},
+    {"lyric": "I’m takin’ over you", "lyric_hangul": "I'm takin' over you", "lyric_translation": "I’m takin’ over you", "range": [224.96, 228.76], "ans": [7]}
+  ]
+}

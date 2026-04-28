@@ -1,0 +1,192 @@
+{
+  "name": "Intro : Persona\r",
+  "ogg": "sound/kpop/intro_persona.ogg",
+  "id": "intro-persona",
+  "group": "bts",
+  "language": "ko",
+  "released": "2019-04-12",
+  "album": "MAP OF THE SOUL : PERSONA",
+  "cover": "css/images/covers/intro-persona.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:55Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "You gimme love", "lyric_hangul": "You gimme love", "lyric_translation": "", "range": [1.1, 3.96], "ans": []},
+    {"lyric": "(Make it lo lo lovin')", "lyric_hangul": "(Make it lo lo lovin')", "lyric_translation": "", "range": [3.96, 6.6], "ans": []},
+    {"lyric": "Naneun nuguinga pyeongsaeng mureoon jilmun", "lyric_hangul": "나는 누구인가 평생 물어온 질문", "lyric_translation": "‘Who am I’ the question I had my whole life", "range": [10.89, 14.39], "ans": [4]},
+    {"lyric": "Ama pyeongsaeng jeongdapeun chajji mothal geu jilmun", "lyric_hangul": "아마 평생 정답은 찾지 못할 그 질문", "lyric_translation": "The question which I probably won’t find an answer to my whole life", "range": [14.39, 17.26], "ans": [4]},
+    {"lyric": "Naran nomeul gojak mal myeot gaero daphal su isseottamyeon", "lyric_hangul": "나란 놈을 고작 말 몇 개로 답할 수 있었다면", "lyric_translation": "If I were answerable with a few mere words", "range": [17.26, 20.44], "ans": [4]},
+    {
+      "lyric_hangul": "신께서 그 수많은 아름다움을 다 만드시진 않았겠지",
+      "lyric_translation": "Then God wouldn’t have created / All those various beauties",
+      "parts": [
+        {"lyric": "Shinkkeseo geu sumaneun areumdaumeul", "range": [20.44, 22.44], "ans": [4]},
+        {"lyric": "Da mandeushijin anatgetji", "range": [22.44, 23.84], "ans": [4]}
+      ]
+    },
+    {"lyric": "How you feel? jigeum gibuni eottae", "lyric_hangul": "How you feel? 지금 기분이 어때", "lyric_translation": "How you feel? How’re you feeling right now?", "range": [23.47, 25.43], "ans": [4]},
+    {"lyric": "Sashil nan neomu joa geunde jogeum bulpyeonae", "lyric_hangul": "사실 난 너무 좋아 근데 조금 불편해", "lyric_translation": "Actually I am real good but a little uncomfortable", "range": [25.43, 28.36], "ans": [4]},
+    {
+      "lyric_hangul": "나는 내가 개인지 돼진지 뭔지도 아직 잘 모르겠는데",
+      "lyric_translation": "I am still not so sure / If I am a dog or a pig or what else",
+      "parts": [
+        {"lyric": "Naneun naega gaeinji dwaejinji", "range": [28.36, 30.18], "ans": [4]},
+        {"lyric": "Mweonjido ajik jal moreugenneunde", "range": [30.18, 31.87], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "남들이 와서 진주목걸일 거네, 칵 퉤",
+      "lyric_translation": "But then other people come and put the pearl necklace on me / Ptui",
+      "parts": [
+        {"lyric": "Namdeuri waseo jinjumokgeoril geone", "range": [31.87, 34.21], "ans": [4]},
+        {"lyric": "Kak twe", "range": [34.21, 34.81], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Yejeonbodan jaju useo", "lyric_hangul": "예전보단 자주 웃어", "lyric_translation": "I laugh more than I did before", "range": [34.45, 36.3], "ans": [4]},
+    {"lyric": "Soweonhaetteon Superhero", "lyric_hangul": "소원했던 superhero", "lyric_translation": "I dreamt of becoming a superhero", "range": [36.3, 37.76], "ans": [4]},
+    {"lyric": "Ijen jinja doen geot gateo", "lyric_hangul": "이젠 진짜 된 것 같어", "lyric_translation": "Now it feels like I really became one", "range": [37.76, 39.1], "ans": [4]},
+    {"lyric": "Geunde galsurok mweon maldeuri maneo", "lyric_hangul": "근데 갈수록 뭔 말들이 많어", "lyric_translation": "But as it goes on there’s so much blabbering", "range": [39.1, 40.39], "ans": [4]},
+    {"lyric": "Nugun dallirago nugun meomchweoseora hae", "lyric_hangul": "누군 달리라고 누군 멈춰서라 해", "lyric_translation": "One says ‘run’ another says ‘stop’", "range": [40.39, 42.66], "ans": [4]},
+    {"lyric": "Yaeneun supeul borago gyaeneun deukkocheul bora hae", "lyric_hangul": "얘는 숲을 보라고 걔는 들꽃을 보라 해", "lyric_translation": "This one says ‘look at the forest’, that one says ‘look at the wild flower’", "range": [42.66, 45.88], "ans": [4]},
+    {"lyric": "Nae geurimja, naneun mangseorimira sseugo bulleonne", "lyric_hangul": "내 그림자, 나는 망설임이라 쓰고 불렀네", "lyric_translation": "My shadow, I wrote and called it ‘hesitation’", "range": [45.88, 48.99], "ans": [4]},
+    {"lyric": "Gyaen geuge doego naseo mangseorin jeogi eopseonne", "lyric_hangul": "걘 그게 되고 나서 망설인 적이 없었네", "lyric_translation": "It has never hesitated after becoming that", "range": [48.99, 51.62], "ans": [4]},
+    {"lyric": "Mudae araedeun anim jomyeong araedeun jakku natana", "lyric_hangul": "무대 아래든 아님 조명 아래든 자꾸 나타나", "lyric_translation": "It keeps appearing under the stage or the light", "range": [51.62, 54.2], "ans": [4]},
+    {
+      "lyric_hangul": "아지랑이처럼 뜨겁게 자꾸 날 노려보네 (oh shit)",
+      "lyric_translation": "Keeps glaring at me scorchingly like a heat wave / (oh shit)",
+      "parts": [
+        {"lyric": "Ajirangicheoreom tteugeopge jakku nal noryeobone", "range": [54.2, 56.83], "ans": [4]},
+        {"lyric": "(Oh shit)", "range": [56.83, 57.7], "ans": [4]}
+      ]
+    },
+    {"lyric": "Ya i jiseul wae shijakhan geonji beolsseo ijeonnya", "lyric_hangul": "야 이 짓을 왜 시작한 건지 벌써 잊었냐", "lyric_translation": "Hey have you already forgotten why you even started this", "range": [56.97, 59.46], "ans": [4]},
+    {"lyric": "Neon geunyang deureojuneun nuga ittan ge mak joatteon geoya", "lyric_hangul": "넌 그냥 들어주는 누가 있단 게 막 좋았던 거야", "lyric_translation": "You were just digging it that someone was listening", "range": [59.46, 62.14], "ans": [4]},
+    {"lyric": "Gakkeumeun geunyang ssak da heossori gata", "lyric_hangul": "가끔은 그냥 싹 다 헛소리 같아", "lyric_translation": "Sometimes everything sounds like freakin’ nonsense", "range": [62.14, 64.85], "ans": [4]},
+    {"lyric": "Chwihamyeon naoneun geo alji.. chigi gata", "lyric_hangul": "취하면 나오는 거 알지... heh 치기 같아", "lyric_translation": "You know what comes out of you when your drunk.. like immaturity", "range": [64.85, 67.01], "ans": [4]},
+    {"lyric": "Na ttawiga museun music", "lyric_hangul": "나 따위가 무슨 music", "lyric_translation": "Someone like me ain’t good enough for music", "range": [67.01, 68.27], "ans": [4]},
+    {"lyric": "Na ttawiga museun truth", "lyric_hangul": "나 따위가 무슨 truth", "lyric_translation": "Someone like me ain’t good enough for the truth", "range": [68.27, 69.68], "ans": [4]},
+    {"lyric": "Na ttawiga museun somyeong", "lyric_hangul": "나 따위가 무슨 소명", "lyric_translation": "Someone like me ain’t good enough for a calling", "range": [69.68, 71.26], "ans": [4]},
+    {"lyric": "Na ttawiga museun muse", "lyric_hangul": "나 따위가 무슨 muse", "lyric_translation": "Someone like me ain’t good enough to be a muse", "range": [71.26, 72.76], "ans": [4]},
+    {"lyric": "Naega aneun naye heum eojjeom geuge sashil nae jeonbu", "lyric_hangul": "내가 아는 나의 흠 어쩜 그게 사실 내 전부", "lyric_translation": "The flaws of mine that I know, maybe that’s all I have got really", "range": [72.76, 75.73], "ans": [4]},
+    {"lyric": "Sesangeun sashil amu gwanshim eopseo, naye seotum", "lyric_hangul": "세상은 사실 아무 관심 없어, 나의 서툼", "lyric_translation": "The world is actually not interested in my clumsiness at all", "range": [75.73, 77.75], "ans": [4]},
+    {"lyric": "Ije jilijido anneun huhoedeulgwa", "lyric_hangul": "이제 질리지도 않는 후회들과", "lyric_translation": "The regrets that I don’t even get sick of anymore", "range": [77.75, 79.81], "ans": [4]},
+    {"lyric": "Maeil bam jinggeureobge dwinggulgo", "lyric_hangul": "매일 밤 징그럽게 뒹굴고", "lyric_translation": "I tumble with them every night until I am disgusted", "range": [79.81, 81.48], "ans": [4]},
+    {"lyric": "Dollil gil eomneun shigandeureul seubgwancheoreom biteureodo", "lyric_hangul": "돌릴 길 없는 시간들을 습관처럼 비틀어도", "lyric_translation": "And twist the irreversible time habitually", "range": [81.48, 84.31], "ans": [4]},
+    {
+      "lyric_hangul": "그때마다 날 또 일으켜 세운 것, 최초의 질문",
+      "lyric_translation": "There’s something that raised me up again every time / The first question",
+      "parts": [
+        {"lyric": "Geuttaemada nal tto ireugyeo seun geos", "range": [84.31, 86.49], "ans": [4]},
+        {"lyric": "Choechoye jilmun", "range": [86.49, 87.51], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "내 이름 석 자 그 가장 앞에 와야 할, but",
+      "lyric_translation": "The three syllables of my name and the word ‘but’ / That should come before any of those",
+      "parts": [
+        {"lyric": "Nae ireum seok ja", "range": [87.51, 88.27], "ans": [4]},
+        {"lyric": "Geu gajang ape waya hal But", "range": [88.27, 90.49], "ans": [4]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "So I’m askin’ once again yeah", "lyric_hangul": "So, I'm askin' once again yeah", "lyric_translation": "So I’m askin’ once again yeah", "range": [89.95, 91.78], "ans": [4]},
+    {"lyric": "Who the hell am I?", "lyric_hangul": "Who the hell am I? (Yeah)", "lyric_translation": "Who the hell am I?", "range": [91.78, 92.91], "ans": [4]},
+    {"lyric": "Tell me all your names baby", "lyric_hangul": "Tell me all your names, baby", "lyric_translation": "Tell me all your names baby", "range": [92.91, 94.72], "ans": [4]},
+    {"lyric": "Do you wanna die?", "lyric_hangul": "Do you wanna die? (Oh)", "lyric_translation": "Do you wanna die?", "range": [94.72, 95.93], "ans": [4]},
+    {"lyric": "Oh do you wanna go?", "lyric_hangul": "Oh, do you wanna go? (Go)", "lyric_translation": "Oh do you wanna go?", "range": [95.93, 97.22], "ans": [4]},
+    {"lyric": "Do you wanna fly?", "lyric_hangul": "Do you wanna fly? (Fly)", "lyric_translation": "Do you wanna fly?", "range": [97.22, 98.58], "ans": [4]},
+    {"lyric": "Where’s your soul? where’s your dream?", "lyric_hangul": "Where's your soul? Where's your dream?", "lyric_translation": "Where’s your soul? where’s your dream?", "range": [98.58, 99.79], "ans": [4]},
+    {"lyric": "Do you think you’re alive?", "lyric_hangul": "Do you think you're alive?", "lyric_translation": "Do you think you’re alive?", "range": [99.79, 103.73], "ans": [4]},
+    {"lyric": "Oh shit", "lyric_hangul": "Oh shit", "lyric_translation": "", "range": [103.73, 105.82], "ans": []},
+    {"lyric": "I don't know man", "lyric_hangul": "I don't know man", "lyric_translation": "", "range": [105.82, 108.94], "ans": []},
+    {"lyric": "But I know one thing", "lyric_hangul": "But I know one thing", "lyric_translation": "", "range": [108.94, 111.51], "ans": []},
+    "",
+    {"lyric": "My name is R", "lyric_hangul": "Yeah my name is R", "lyric_translation": "My name is R", "range": [111.51, 112.8], "ans": [4]},
+    {"lyric": "Naega gieokhago saramdeuri aneun na", "lyric_hangul": "내가 기억하고 사람들이 아는 나", "lyric_translation": "The ‘me’ that I remember and people know", "range": [112.8, 114.51], "ans": [4]},
+    {"lyric": "Nal torohagi wihae naega seuseuro mandeureonaen na", "lyric_hangul": "날 토로하기 위해 내가 스스로 만들어낸 나", "lyric_translation": "The ‘me’ that I created myself to vent out", "range": [114.51, 117.22], "ans": [4]},
+    {
+      "lyric_hangul": "Yeah 난 날 속여왔을지도 뻥쳐왔을지도",
+      "lyric_translation": "Yeah maybe I’ve been deceiving myself / Maybe I have been lying",
+      "parts": [
+        {"lyric": "Yeah nan nal sogyeowasseuljido", "range": [117.22, 118.84], "ans": [4]},
+        {"lyric": "Ppeongchyeowasseuljido", "range": [118.84, 120.43], "ans": [4]}
+      ]
+    },
+    {"lyric": "But bukkeureobji ana ige nae yeonghone jido", "lyric_hangul": "But 부끄럽지 않아 이게 내 영혼의 지도", "lyric_translation": "But I am not embarrassed anymore this is the map of my soul", "range": [120.43, 122.89], "ans": [4]},
+    {"lyric": "Dear myself", "lyric_hangul": "Dear myself", "lyric_translation": "", "range": [122.89, 123.58], "ans": []},
+    {"lyric": "Dear myself neon jeoldaero neoye ondoreul ilchi ma", "lyric_hangul": "Dear myself 넌 절대로 너의 온도를 잃지 마", "lyric_translation": "Dear myself, you must never lose your temperature", "range": [122.89, 125.37], "ans": [4]},
+    {"lyric": "Ttatteushido chagapgedo doel piryo eopseunikka", "lyric_hangul": "따뜻히도 차갑게도 될 필요 없으니까", "lyric_translation": "Cuz you don’t need to be neither warm nor cold", "range": [125.37, 128.25], "ans": [4]},
+    {"lyric": "Gakkeumeun wiseonjeogieodo wiakjeogieodo", "lyric_hangul": "가끔은 위선적이어도 위악적이어도", "lyric_translation": "Though I might sometimes be hypocritical or pretend to be evil", "range": [128.25, 131.11], "ans": [4]},
+    {"lyric": "Ige naega georeodugo shipeun nae banghyange cheokdo", "lyric_hangul": "이게 내가 걸어두고 싶은 내 방향의 척도", "lyric_translation": "This is the barometer of my direction I want to keep", "range": [131.11, 134.11], "ans": [4]},
+    {
+      "lyric_hangul": "내가 되고 싶은 나, 사람들이 원하는 나",
+      "lyric_translation": "The ‘me’ that I want myself to be / The ‘me’ that people want me to be",
+      "parts": [
+        {"lyric": "Naega doego shipeun na", "range": [134.11, 135.42], "ans": [4]},
+        {"lyric": "Saramdeuri weonaneun na", "range": [135.42, 137.02], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "니가 사랑하는 나, 또 내가 빚어내는 나",
+      "lyric_translation": "The ‘me’ that you love / And the ‘me’ that I create",
+      "parts": [
+        {"lyric": "Niga saranghaneun na", "range": [137.02, 138.18], "ans": [4]},
+        {"lyric": "Tto naega bijeonaeneun na", "range": [138.18, 139.71], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "웃고 있는 나, 가끔은 울고 있는 나",
+      "lyric_translation": "The ‘me’ that’s smiling / The ‘me’ that’s sometimes in tear",
+      "parts": [
+        {"lyric": "Utgo inneun na", "range": [139.71, 140.93], "ans": [4]},
+        {"lyric": "Gakkeumeun ulgo inneun na", "range": [140.93, 142.23], "ans": [4]}
+      ]
+    },
+    {"lyric": "Jigeumdo maebun maesungan sara sumshwineun", "lyric_hangul": "지금도 매분 매순간 살아 숨쉬는", "lyric_translation": "Vividly breathing each second and every moment even now", "range": [142.19, 144.28], "ans": [4]},
+    "",
+    {"lyric": "Persona", "lyric_hangul": "Persona", "lyric_translation": "Persona", "range": [144.28, 146.06], "ans": [4]},
+    {"lyric": "Who the hell am I", "lyric_hangul": "Who the hell am I?", "lyric_translation": "Who the hell am I", "range": [146.06, 147.39], "ans": [4]},
+    {"lyric": "I just wanna go", "lyric_hangul": "I just wanna go", "lyric_translation": "", "range": [147.39, 148.86], "ans": []},
+    {"lyric": "I just wanna go I just wanna fly", "lyric_hangul": "I just wanna go I just wanna fly", "lyric_translation": "I just wanna go I just wanna fly", "range": [147.39, 150.14], "ans": [4]},
+    {
+      "lyric_hangul": "I just wanna give you all the voices 'til I die",
+      "lyric_translation": "I just wanna give you / All the voices till I die",
+      "parts": [
+        {"lyric": "I just wanna give you", "range": [150.14, 151.44], "ans": [4]},
+        {"lyric": "All the voices till I die", "range": [151.44, 152.68], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I just wanna give you all the shoulders when you cry",
+      "lyric_translation": "I just wanna give you / All the shoulders when you cry",
+      "parts": [
+        {"lyric": "I just wanna give you", "range": [152.32, 154.38], "ans": [4]},
+        {"lyric": "All the shoulders when you cry", "range": [154.18, 155.5], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Persona", "lyric_hangul": "Persona", "lyric_translation": "Persona", "range": [155.5, 157.07], "ans": [4]},
+    {"lyric": "Who the hell am I", "lyric_hangul": "Who the hell am I?", "lyric_translation": "Who the hell am I", "range": [157.07, 158.41], "ans": [4]},
+    {"lyric": "I just wanna go", "lyric_hangul": "I just wanna go", "lyric_translation": "", "range": [158.41, 159.86], "ans": []},
+    {"lyric": "I just wanna go I just wanna fly", "lyric_hangul": "I just wanna go I just wanna fly", "lyric_translation": "I just wanna go I just wanna fly", "range": [158.41, 161.2], "ans": [4]},
+    {
+      "lyric_hangul": "I just wanna give you all the voices 'til I die",
+      "lyric_translation": "I just wanna give you / All the voices till I die",
+      "parts": [
+        {"lyric": "I just wanna give you", "range": [161.2, 162.46], "ans": [4]},
+        {"lyric": "All the voices till I die", "range": [162.46, 164.19], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I just wanna give you all the shoulders when you... cry",
+      "lyric_translation": "I just wanna give you / All the shoulders when you cry",
+      "parts": [
+        {"lyric": "I just wanna give you", "range": [164.19, 165.41], "ans": [4]},
+        {"lyric": "All the shoulders when you cry", "range": [165.23, 169.14], "ans": [4]}
+      ]
+    }
+  ]
+}

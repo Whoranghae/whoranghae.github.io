@@ -1,0 +1,140 @@
+{
+  "name": "UGH! (욱)\r",
+  "ogg": "sound/kpop/ugh.ogg",
+  "id": "ugh",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/ugh.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:12Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Let's go, yeah, yeah, yeah!", "lyric_hangul": "Let's go, yeah, yeah, yeah!", "lyric_translation": "", "range": [10.61, 11.62], "ans": []},
+    {"lyric": "Tadak tto taoreuneun jeo bulsshi", "lyric_hangul": "타닥 또 타오르는 저 불씨", "lyric_translation": "Crackle crackle, the spark that flares up again", "range": [11.62, 13.17], "ans": [2]},
+    {"lyric": "Gireume daki jeone meonjeo jibeosamkine", "lyric_hangul": "기름에 닿기 전에 먼저 집어삼키네", "lyric_translation": "Before it reaches the gas, I swallow it up first", "range": [13.17, 15.59], "ans": [2]},
+    {"lyric": "Pilshi hwipsseullyeogagetji ye ye eum", "lyric_hangul": "필시 휩쓸려가겠지 예 예 음", "lyric_translation": "I’ll surely get swept up yeah yeah uhm", "range": [15.59, 18.1], "ans": [2]},
+    {"lyric": "Oneure seonsu ibjanghashine geonsureul yeah", "lyric_hangul": "오늘의 선수 입장하시네 건수를, yeah", "lyric_translation": "Today’s players are entering, the numbers yeah", "range": [18.1, 20.51], "ans": [2]},
+    {
+      "lyric_hangul": "물기 시작하면 둥둥둥 동네북이 돼 둥둥둥",
+      "lyric_translation": "If you start to bite them boom boom boom / You become the local punching bag boom boom boom",
+      "parts": [
+        {"lyric": "Mulgi shijakhamyeon dungdungdung", "range": [20.51, 22.39], "ans": [2]},
+        {"lyric": "Dongnebugi dwae dungdungdung", "range": [22.39, 24.04], "ans": [2]}
+      ]
+    },
+    {"lyric": "Tuktuk geondeune gwaenshiri tuktuk yeah", "lyric_hangul": "툭툭 건드네 괜시리 툭툭, yeah", "lyric_translation": "Poke poke you bother me for no reason poke poke yeah", "range": [24.04, 26.68], "ans": [2]},
+    {"lyric": "Baneungi eopseum gyang damgwobeoriji pukpuk yeah", "lyric_hangul": "반응이 없음 걍 담궈버리지 푹푹, yeah", "lyric_translation": "If there’s no response you simply bury me in it deep deep yeah", "range": [26.68, 29.44], "ans": [2]},
+    {
+      "lyric_hangul": "진실도 거짓이 돼 거짓도 진실이 돼",
+      "lyric_translation": "Even the truth becomes a lie / And lies become the truth",
+      "parts": [
+        {"lyric": "Jinshildo geojishi dwae", "range": [29.44, 30.84], "ans": [2]},
+        {"lyric": "Geojitto jinshiri dwae", "range": [30.84, 31.98], "ans": [2]}
+      ]
+    },
+    {"lyric": "Igoseseon moduga dodeokjeok sagowa", "lyric_hangul": "이곳에선 모두가 도덕적 사고와", "lyric_translation": "In here, everyone becomes a person", "range": [31.79, 33.36], "ans": [2]},
+    {"lyric": "Pandani wanbyeokhan sarami dwae utgishine", "lyric_hangul": "판단이 완벽한 사람이 돼 웃기시네", "lyric_translation": "With moral thinking and perfect judgement, it’s funny", "range": [33.36, 35.2], "ans": [2]},
+    "",
+    {"lyric": "Bunno? mullon piryohaji", "lyric_hangul": "분노? 물론 필요하지", "lyric_translation": "Anger? Of course you need it sometimes", "range": [35.2, 36.54], "ans": [4]},
+    {"lyric": "Taoreul ttaen iyuga isseu", "lyric_hangul": "타오를 땐 이유가 있어", "lyric_translation": "There’s a reason why it fires up", "range": [36.54, 37.91], "ans": [4]},
+    {"lyric": "Eojjeomyeon uriye yeoksaji", "lyric_hangul": "어쩌면 우리의 역사지", "lyric_translation": "Well, maybe it’s our history", "range": [37.91, 39.37], "ans": [4]},
+    {"lyric": "Geuge sesangeul bakkugido haji", "lyric_hangul": "그게 세상을 바꾸기도 하지", "lyric_translation": "It sometimes changes the world", "range": [39.37, 40.71], "ans": [4]},
+    {"lyric": "But igeon bunno anin bunnyo", "lyric_hangul": "But 이건 분노 아닌 분뇨", "lyric_translation": "But this is not anger, it’s a dung cart*", "range": [40.71, 42.62], "ans": [4]},
+    {"lyric": "Mwoga bunnoinji you know?", "lyric_hangul": "뭐가 분노인지 you know?", "lyric_translation": "What real anger is, you know?", "range": [42.62, 43.74], "ans": [4]},
+    {"lyric": "Bunnoin cheokhamyeo jugyeo jinjja bunno", "lyric_hangul": "분노인 척하며 죽여 진짜 분노", "lyric_translation": "While pretending it’s anger you kill it, real anger", "range": [43.74, 45.05], "ans": [4]},
+    {"lyric": "Jillyeobeorin sudo eopshi maneun people", "lyric_hangul": "질려버린 수도 없이 많은 people", "lyric_translation": "The countless many people who have become tired of it", "range": [45.05, 47.11], "ans": [4]},
+    {"lyric": "Neon naman jugineun ge aniya", "lyric_hangul": "넌 나만 죽이는 게 아니야 (아니야)", "lyric_translation": "I’m not the only one you’re killing", "range": [47.11, 49.75], "ans": [4]},
+    {"lyric": "Ttong balbneun ge iksukhae uriya", "lyric_hangul": "똥 밟는 게 익숙해 우리야 (우리야)", "lyric_translation": "As for us, we’ve become used to stepping on dung", "range": [49.75, 52.77], "ans": [4]},
+    {"lyric": "Mugamgakhaejin jeo saramdeul bwa", "lyric_hangul": "무감각해진 저 사람들 봐 (봐)", "lyric_translation": "Look at those people who have become unfeeling", "range": [52.77, 55.65], "ans": [4]},
+    {
+      "lyric_hangul": "분뇨, 무관심 너넨 팀이야, yeah",
+      "lyric_translation": "Dung cart, disinterestedness, you’re a team / Eh",
+      "parts": [
+        {"lyric": "Bunnyo, mugwanshim neonen timiya", "range": [55.65, 57.79], "ans": [4]},
+        {"lyric": "Eh", "range": [57.79, 58.29], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises**, temper rises", "range": [57.86, 60.85], "ans": [2]},
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [60.85, 63.69], "ans": [2]},
+    {"lyric": "Naneun agee gadeuk chan bunnoe bunnohae", "lyric_hangul": "나는 악의에 가득 찬 분노에 분노해", "lyric_translation": "I get angry at the anger filled with malicious intent", "range": [63.69, 66.42], "ans": [2]},
+    {"lyric": "Naneun agee gadeuk chan bunnoe bunnohae", "lyric_hangul": "나는 악의에 가득 찬 분노에 분노해", "lyric_translation": "I get angry at the anger filled with malicious intent", "range": [66.42, 69.36], "ans": [2]},
+    "",
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [69.36, 72.27], "ans": [4]},
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [72.27, 75.06], "ans": [4]},
+    {"lyric": "Naneun kkeojyeoyaman haetteon bunnoe bunnohae", "lyric_hangul": "나는 꺼져야만 했던 분노에 분노해", "lyric_translation": "I get angry at the anger that had to die out", "range": [75.06, 78.32], "ans": [4]},
+    {"lyric": "Naneun kkeojyeoyaman haetteon geu bunnoe bunnohae", "lyric_hangul": "나는 꺼져야만 했던 그 분노에 분노해 (Yeah, yeah)", "lyric_translation": "I get angry at the anger that had to die out", "range": [78.32, 81.0], "ans": [4]},
+    "",
+    {"lyric": "Geurae uk uk ukhaera uk", "lyric_hangul": "그래 욱 욱 욱해라 욱", "lyric_translation": "That’s right, ugh, ugh, lose your temper, ugh", "range": [81.0, 84.07], "ans": [2]},
+    {"lyric": "Jaega dwel ttaekkaji geurae ukhaera uk", "lyric_hangul": "재가 될 때까지 그래 욱해라 욱", "lyric_translation": "Until it becomes ash, that’s right, lose your temper, ugh", "range": [84.07, 86.83], "ans": [2]},
+    {"lyric": "Geurae uk uk ukhaera uk", "lyric_hangul": "그래 욱 욱 욱해라 욱", "lyric_translation": "That’s right, ugh, ugh, lose your temper, ugh", "range": [86.83, 89.8], "ans": [4]},
+    {"lyric": "Bureojil ttaekkaji geurae ukhaera uk", "lyric_hangul": "부러질 때까지 그래 욱해라 욱", "lyric_translation": "Until it breaks, that’s right, lose your temper, ugh", "range": [89.8, 92.57], "ans": [4]},
+    "",
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [92.57, 95.35], "ans": [3]},
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [95.35, 98.22], "ans": [3]},
+    {"lyric": "Naneun agee gadeuk chan bunnoe bunnohae", "lyric_hangul": "나는 악의에 가득 찬 분노에 분노해", "lyric_translation": "I get angry at the anger filled with malicious intent", "range": [98.22, 101.1], "ans": [2]},
+    {"lyric": "Naneun kkeojyeoyaman haetteon geu bunnoe bunnohae", "lyric_hangul": "나는 꺼져야만 했던 그 분노에 분노해", "lyric_translation": "I get angry at the anger that had to die out", "range": [101.1, 104.75], "ans": [2]},
+    "",
+    {"lyric": "I sesang bunnoga jibaeham", "lyric_hangul": "이 세상 분노가 지배함", "lyric_translation": "This world is ruled by anger", "range": [104.75, 107.92], "ans": [3]},
+    {"lyric": "Bunnoga eopseum da mot sana bwa", "lyric_hangul": "분노가 없음 다 못 사나 봐", "lyric_translation": "It seems that no one can live without anger", "range": [107.92, 110.47], "ans": [3]},
+    {"lyric": "Bunnohago tto bunnohago bunnohago", "lyric_hangul": "분노하고 또 분노하고 분노하고", "lyric_translation": "You get angry, then get angry again, and again", "range": [110.47, 113.21], "ans": [3]},
+    {"lyric": "Geuri michyeogago uk uk uk uk", "lyric_hangul": "그리 미쳐가고 욱 욱 욱 욱", "lyric_translation": "And go crazy that way, ugh ugh ugh ugh", "range": [113.21, 116.26], "ans": [3]},
+    {"lyric": "Bunnohaneun iyudo da suman gaji", "lyric_hangul": "분노하는 이유도 다 수만 가지", "lyric_translation": "There’s a hundred thousand reasons for your anger", "range": [116.26, 119.18], "ans": [3]},
+    {"lyric": "Seonewa agedo da maehangaji", "lyric_hangul": "선의와 악의도 다 매한가지", "lyric_translation": "Be it good will or bad will, it’s all the same", "range": [119.18, 121.99], "ans": [3]},
+    {"lyric": "Bunnohal su ittaman name salme", "lyric_hangul": "분노할 수 있다만 남의 삶에", "lyric_translation": "You’re allowed to be angry, but bothering", "range": [121.99, 124.77], "ans": [3]},
+    {"lyric": "Pihaega itneun geon I don’t like", "lyric_hangul": "피해가 있는 건 I don't like", "lyric_translation": "Someone else’s life, I don’t like", "range": [124.77, 127.14], "ans": [3]},
+    {"lyric": "Geugeon stop ayy", "lyric_hangul": "그건 stop, ayy", "lyric_translation": "Stop that, ayy", "range": [127.14, 128.13], "ans": [3]},
+    {"lyric": "Nuguye haengdonge nuguneun apahae", "lyric_hangul": "누구의 행동에 누구는 아파해", "lyric_translation": "Because of somebody’s actions, someone else gets hurt", "range": [128.13, 130.92], "ans": [3]},
+    {"lyric": "Nuguye eonhaenge nuguneun amdamhae", "lyric_hangul": "누구의 언행에 누구는 암담해", "lyric_translation": "Because of somebody’s words, someone else feels bleak", "range": [130.92, 133.81], "ans": [3]},
+    {"lyric": "Nuguye chalnae nugu sungani dwae", "lyric_hangul": "누구의 찰나에 누구 순간이 돼", "lyric_translation": "Somebody’s instant becomes a moment for another", "range": [133.81, 136.58], "ans": [3]},
+    {
+      "lyric_hangul": "누구의 분노에 누구 목숨이 돼 썩을 퉤",
+      "lyric_translation": "Somebody’s anger becomes another’s life / Curse you, ptooey***",
+      "parts": [
+        {"lyric": "Nuguye bunnoe nugu moksumi dwae", "range": [136.58, 138.64], "ans": [3]},
+        {"lyric": "Sseogeul twe", "range": [138.64, 139.05], "ans": [3]}
+      ]
+    },
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [139.05, 141.45], "ans": [2]},
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises", "range": [141.45, 144.45], "ans": [2]},
+    {"lyric": "Naneun agee gadeuk chan bunnoe bunnohae", "lyric_hangul": "나는 악의에 가득 찬 분노에 분노해", "lyric_translation": "I get angry at the anger filled with malicious intent", "range": [144.45, 147.45], "ans": [3]},
+    {"lyric": "Naneun kkeojyeoyaman haetteon geu bunnoe bunnohae", "lyric_hangul": "나는 꺼져야만 했던 그 분노에 분노해", "lyric_translation": "I get angry at the anger that had to die out", "range": [147.45, 151.2], "ans": [3]},
+    "",
+    "[next-col]",
+    {"lyric": "A daeche yok jom meokneun ge wae", "lyric_hangul": "아 대체 욕 좀 먹는 게 왜", "lyric_translation": "Oh so what if you get cursed at a little, so what", "range": [151.2, 154.02], "ans": [2]},
+    {"lyric": "Jal beoljana tto jingjingdae wae", "lyric_hangul": "잘 벌잖아 또 징징대 왜", "lyric_translation": "You earn a lot, so what are you whining at, why", "range": [154.02, 156.93], "ans": [2]},
+    {"lyric": "Geu jeongdon gamsuhaeyaji ehem", "lyric_hangul": "그 정돈 감수해야지 에헴", "lyric_translation": "You should just take that much in stride, ahem", "range": [156.93, 158.97], "ans": [3]},
+    {"lyric": "Ehem ehem ehem ehem", "lyric_hangul": "에헴 에헴 에헴 에헴", "lyric_translation": "Ahem ahem ahem ahem", "range": [158.97, 162.18], "ans": [3]},
+    {
+      "lyric_hangul": "니네 에헴 에헴 에헴 에헴",
+      "lyric_translation": "You ahem / Ahem ahem ahem",
+      "parts": [
+        {"lyric": "Nine ehem", "range": [162.18, 163.1], "ans": [4]},
+        {"lyric": "Ehem ehem ehem", "range": [163.1, 165.22], "ans": [4]}
+      ]
+    },
+    {"lyric": "Na shikyeosseobwa da chama", "lyric_hangul": "나 시켰어봐 다 참아", "lyric_translation": "If I’d been the one to do that, I’d have withstood it all", "range": [165.13, 167.0], "ans": [4]},
+    {
+      "lyric_hangul": "니네 에헴 니네 에헴 에헴 에헴 에헴",
+      "lyric_translation": "You ahem / You ahem ahem ahem ahem",
+      "parts": [
+        {"lyric": "Nine ehem", "range": [167.0, 168.88], "ans": [4]},
+        {"lyric": "Ehem ehem ehem", "range": [168.88, 171.0], "ans": [3]}
+      ]
+    },
+    {"lyric": "Na shikyeosseobwa geunyang ehem bihem ehem", "lyric_hangul": "나 시켰어봐 그냥 에헴 비헴 에헴", "lyric_translation": "If I’d been the one to do that, I’d have just ahem behem ahem", "range": [170.72, 173.89], "ans": [3]},
+    "",
+    {"lyric": "Geurae uk uk ukhaera uk", "lyric_hangul": "그래 욱 (욱) 욱 (욱) 욱해라 욱 (욱)", "lyric_translation": "That’s right, ugh, ugh, lose your temper, ugh", "range": [173.89, 176.8], "ans": [3]},
+    {"lyric": "Jaega dwel ttaekkaji geurae ukhaera uk", "lyric_hangul": "재가 될 때까지 그래 욱해라 욱 (욱)", "lyric_translation": "Until it becomes ash, that’s right, lose your temper, ugh", "range": [176.8, 179.81], "ans": [3]},
+    {"lyric": "Geurae uk uk ukhaera uk", "lyric_hangul": "그래 욱 (욱) 욱 (욱) 욱해라 욱", "lyric_translation": "That’s right, ugh, ugh, lose your temper, ugh", "range": [179.81, 182.35], "ans": [3]},
+    {"lyric": "Bureojil ttaekkaji geurae ukhaera uk", "lyric_hangul": "부러질 때까지 그래 욱해라 욱", "lyric_translation": "Until it breaks, that’s right, lose your temper, ugh", "range": [182.35, 185.09], "ans": [3]},
+    "",
+    {"lyric": "Naneun ukhae ukhae", "lyric_hangul": "나는 욱해 욱해 나는 욱해 욱해", "lyric_translation": "My temper rises, temper rises / My temper rises, temper rises", "range": [185.09, 190.65], "ans": [4]},
+    {"lyric": "Naneun agee gadeuk chan bunnoe bunnohae", "lyric_hangul": "나는 악의에 가득 찬 분노에 분노해", "lyric_translation": "I get angry at the anger filled with malicious intent", "range": [190.53, 193.97], "ans": [2]},
+    {"lyric": "Naneun kkeojyeoyaman haetteon geu bunnoe bunnohae", "lyric_hangul": "나는 꺼져야만 했던 그 분노에 분노해 (Hey, hey)", "lyric_translation": "I get angry at the anger that had to die out", "range": [193.97, 197.96], "ans": [2]},
+    {"lyric": "Let's go", "lyric_hangul": "Let's go", "lyric_translation": "", "range": [197.96, 200.94], "ans": []}
+  ]
+}

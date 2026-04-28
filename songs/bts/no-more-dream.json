@@ -1,0 +1,243 @@
+{
+  "name": "No More Dream\r",
+  "ogg": "sound/kpop/no_more_dream.ogg",
+  "id": "no-more-dream",
+  "group": "bts",
+  "language": "ko",
+  "released": "2013-06-12",
+  "album": "2 Cool 4 Skool",
+  "cover": "css/images/covers/no-more-dream.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:03Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [8.35, 11.21], "ans": []},
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [11.21, 14.17], "ans": []},
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [14.17, 16.51], "ans": []},
+    {"lyric": "Ni ggumeun gyeou geugeoni", "lyric_hangul": "네 꿈은 겨우 그거니?", "lyric_translation": "Is that all your dream is?", "range": [16.51, 19.67], "ans": []},
+    "",
+    {"lyric": "I wanna big house, big cars & big rings", "lyric_hangul": "I wanna big house, big cars and big rings (ooh)", "lyric_translation": "I wanna big house, big cars & big rings", "range": [19.67, 23.02], "ans": []},
+    {"lyric": "But sasireun I dun have any big dreams", "lyric_hangul": "But 사실은, I don't have any big dreams (yeah)", "lyric_translation": "But actually, I don’t have any big dreams", "range": [23.02, 26.09], "ans": []},
+    {"lyric": "Haha nan cham pyeonhage sareo", "lyric_hangul": "하하, 난 참 편하게 살아", "lyric_translation": "Haha, I live quite comfortably", "range": [26.09, 28.17], "ans": []},
+    {"lyric": "Ggum ddawi an ggwodo amudo mwora an hajanheo", "lyric_hangul": "꿈 따위 안 꿔도 아무도 뭐라 안 하잖아", "lyric_translation": "Even if I don’t dream, no one says anything", "range": [28.17, 30.6], "ans": []},
+    {
+      "lyric_hangul": "전부 다-다-다 똑가같이 나처럼 생각하고 있어",
+      "lyric_translation": "Everyone is thinking / the same way as me",
+      "parts": [
+        {"lyric": "Jeonbu dadada ddokgagati", "range": [30.6, 32.88], "ans": []},
+        {"lyric": "Nacheoreom saenggakhago isseo", "range": [32.88, 34.13], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "새까-까-까맣게 까먹은 꿈 많던 어린 시절",
+      "lyric_translation": "I completely forgot about my childhood / when I had a lot of dreams",
+      "parts": [
+        {"lyric": "Saeggakkakkamake ggameogeun", "range": [34.13, 35.77], "ans": []},
+        {"lyric": "Ggum manhdeon eorin sijeol", "range": [35.77, 37.01], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "대학은 걱정 마, 멀리 라도 갈 거니까",
+      "lyric_translation": "Don’t worry about college, / I’ll at least go to a school that’s far away",
+      "parts": [
+        {"lyric": "Daehageun geokjeong ma", "range": [37.01, 38.62], "ans": []},
+        {"lyric": "Meollirado gal geonikka", "range": [38.62, 40.51], "ans": []}
+      ]
+    },
+    {"lyric": "Arasseo eomma jigeum dokseosil gandanikka", "lyric_hangul": "알았어, 엄마, 지금 독서실 간다니까", "lyric_translation": "Ok mom, I’m going to the library right now", "range": [40.51, 41.76], "ans": []},
+    "",
+    {"lyric": "Niga ggumkkwo-on ni moseubi mwoyeo", "lyric_hangul": "네가 꿈꿔온 네 모습이 뭐야?", "lyric_translation": "What is the you that you’ve dreamed of?", "range": [41.76, 45.0], "ans": []},
+    {"lyric": "Jigeum ni geoul sogen nuga boyeo, I gotta say", "lyric_hangul": "지금 네 거울 속엔 누가 보여?", "lyric_translation": "Who do you see in the mirror? I gotta say", "range": [45.0, 47.85], "ans": []},
+    {
+      "lyric_hangul": "I gotta say, 너의 길을 가라고 단 하루를 살아도",
+      "lyric_translation": "Go on your path / Even if you live for a day",
+      "parts": [
+        {"lyric": "Neoui gireul garago", "range": [47.85, 49.53], "ans": []},
+        {"lyric": "Dan harureul sarado", "range": [49.53, 51.33], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐라도 하라고 나약함은 담아둬",
+      "lyric_translation": "Do something / Put away your weakness",
+      "parts": [
+        {"lyric": "Mworado harago", "range": [51.05, 52.77], "ans": []},
+        {"lyric": "Nayakhameun damadwo", "range": [52.77, 54.63], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "왜 말 못하고 있어? 공부는 하기 싫다면서",
+      "lyric_translation": "Why aren’t you saying anything? / You don’t wanna study",
+      "parts": [
+        {"lyric": "Wae mal mothago isseo?", "range": [53.89, 55.56], "ans": []},
+        {"lyric": "Gongbuneun hagi silhdamyeonseo", "range": [55.56, 56.67], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "학교 때려 치기는 겁나지? 이거 봐, 등교할 준비하네 벌써",
+      "lyric_translation": "but you’re scared to quit school? / See, you’re already getting ready for school",
+      "parts": [
+        {"lyric": "Hakgyo ddaeryeo chigineun geobnaji?", "range": [56.55, 58.12], "ans": []},
+        {"lyric": "Igeo bwa deunggyohal junbihane beolsseo", "range": [58.12, 59.53], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "철 좀 들어 제발 좀, 너 입만 살아가지고, 인마, 유리 멘탈 boy",
+      "lyric_translation": "Please grow up, you’re all talk dude, / you have a glass mentality, boy",
+      "parts": [
+        {"lyric": "Cheol jom deureo jebal jom, neo ibman saragajigo", "range": [59.24, 61.84], "ans": []},
+        {"lyric": "Imma yurimental boy", "range": [61.84, 62.94], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Stop! 자신에게 물어봐, 언제 네가 열심히 노력했냐고?",
+      "lyric_translation": "(Stop) Ask yourself if you’ve ever / worked hard for anything",
+      "parts": [
+        {"lyric": "(Stop!) jasinege mureobwa eon", "range": [62.6, 64.2], "ans": []},
+        {"lyric": "Je niga yeolsimhi noryeokhaetnyago", "range": [64.2, 65.62], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [65.16, 68.0], "ans": []},
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [68.0, 70.8], "ans": []},
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [70.8, 73.43], "ans": []},
+    {"lyric": "Ni ggumeun gyeou geugeoni", "lyric_hangul": "네 꿈은 겨우 그거니?", "lyric_translation": "Is that all your dream is?", "range": [73.43, 76.6], "ans": []},
+    "",
+    {"lyric": "Geojitmariya you such a liar", "lyric_hangul": "거짓말이야, you such a liar", "lyric_translation": "That’s a lie, you such a liar", "range": [76.6, 79.42], "ans": []},
+    {"lyric": "See me see me ya neon wiseonjaya", "lyric_hangul": "See me, see me, ya, 넌 위선자야", "lyric_translation": "See me, see me, ya you’re a hypocrite", "range": [79.42, 82.39], "ans": []},
+    {"lyric": "Wae jakku ddan gireul garae ya neona jalhae", "lyric_hangul": "왜 자꾸 딴 길을 가래? 야, 너나 잘해", "lyric_translation": "Why’re you telling to go a different path? Take care of yourself", "range": [82.39, 85.58], "ans": []},
+    {
+      "lyric_hangul": "제발 강요하진 말아줘",
+      "lyric_translation": "Please don’t force me / (Lalalalala)",
+      "parts": [
+        {"lyric": "Jebal gangyohajin marajwo", "range": [85.58, 87.34], "ans": []},
+        {"lyric": "(La la la la la)", "range": [87.34, 88.2], "ans": []}
+      ]
+    },
+    {"lyric": "Say, la-la-la-la-la", "lyric_hangul": "Say, la-la-la-la-la", "lyric_translation": "", "range": [88.17, 91.21], "ans": []},
+    {
+      "lyric_hangul": "네 꿈이 뭐니? 네 꿈이 뭐니, 뭐니?",
+      "lyric_translation": "What’s your dream, what’s your dream? / (Lalalalala)",
+      "parts": [
+        {"lyric": "Ni ggumi mwoni ni ggumi mwoni mwoni", "range": [91.21, 93.41], "ans": []},
+        {"lyric": "(La la la la la)", "range": [93.41, 94.19], "ans": []}
+      ]
+    },
+    {"lyric": "Say, la-la-la-la-la", "lyric_hangul": "Say, la-la-la-la-la", "lyric_translation": "", "range": [93.83, 96.95], "ans": []},
+    {"lyric": "Gojak igeoni gojak igeoni geoni", "lyric_hangul": "고작 이거니? 고작 이거니-거니?", "lyric_translation": "Is that it? Is that it?", "range": [96.95, 99.15], "ans": []},
+    "",
+    {"lyric": "Jigyeoun same day, banbokdoeneun maeire", "lyric_hangul": "Okay, 지겨운 same day, 반복되는 매일에", "lyric_translation": "Sick of the same day, the repeating days", "range": [99.15, 102.5], "ans": []},
+    {
+      "lyric_hangul": "어른들과 부모님은 틀에 박힌 꿈을 주입해",
+      "lyric_translation": "Grown-ups and my parents / keep instilling confined dreams to me / Number one future career is a government worker?",
+      "parts": [
+        {"lyric": "Eoreundeulgwa bumonimeun", "range": [102.5, 103.5], "ans": []},
+        {"lyric": "Teure bakhin ggumeul juibhae", "range": [103.5, 104.58], "ans": []},
+        {"lyric": "Jangnaehuimang neombeowon.. gongmuwon?", "range": [104.58, 105.4], "ans": []}
+      ]
+    },
+    {"lyric": "Gangyodoen ggumeun anya, guhoemal guwontusu", "lyric_hangul": "강요된 꿈은 아니야, 9회말 구원투수", "lyric_translation": "It’s not a forced dream, a ninth inning relief pitcher", "range": [108.63, 110.65], "ans": []},
+    {"lyric": "Sigannangbiin yajae doljikgureul nallyeo", "lyric_hangul": "시간 낭비인 야자에 돌직구를 날려", "lyric_translation": "Throw a fast ball at the waste of time that is night study sessions", "range": [110.65, 113.54], "ans": []},
+    {
+      "lyric_hangul": "지옥 같은 사회에 반항해 꿈을 특별사면",
+      "lyric_translation": "Rebel against the hellish society, / dreams are a special pardon / Ask yourself about your dream profile",
+      "parts": [
+        {"lyric": "Jiok gateun sahwe-e banhanghae,", "range": [113.54, 115.16], "ans": []},
+        {"lyric": "Ggumeul teukbyeolsamyeon", "range": [115.16, 115.74], "ans": []},
+        {"lyric": "Jasinege mureobwa ni ggumui profile", "range": [115.74, 117.04], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "억압만 받던 인생 네 삶의 주어가 되어봐",
+      "lyric_translation": "Become the main subject of your life / that has always been suppressed",
+      "parts": [
+        {"lyric": "Eogabman batdeon insaeng", "range": [119.71, 121.12], "ans": []},
+        {"lyric": "Ni sarmui jueoga doe-eobwa", "range": [121.12, 122.48], "ans": []}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Niga ggumkkwo-on ni moseubi mwoyeo", "lyric_hangul": "네가 꿈꿔온 네 모습이 뭐야?", "lyric_translation": "What is the you that you’ve dreamed of?", "range": [122.25, 125.01], "ans": []},
+    {"lyric": "Jigeum ni geoul sogen nuga boyeo, I gotta say", "lyric_hangul": "지금 네 거울 속엔 누가 보여?", "lyric_translation": "Who do you see in the mirror? I gotta say", "range": [125.01, 127.68], "ans": []},
+    {
+      "lyric_hangul": "I gotta say, 너의 길을 가라고 단 하루를 살아도",
+      "lyric_translation": "Go on your path / Even if you live for a day",
+      "parts": [
+        {"lyric": "Neoui gireul garago", "range": [127.68, 129.52], "ans": []},
+        {"lyric": "Dan harureul sarado", "range": [129.52, 131.36], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "뭐라도 하라고 나약함은 담아둬",
+      "lyric_translation": "Do something / Put away your weakness",
+      "parts": [
+        {"lyric": "Mworado harago", "range": [130.95, 132.77], "ans": []},
+        {"lyric": "Nayakhameun damadwo", "range": [132.77, 134.29], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [133.65, 136.41], "ans": []},
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [136.41, 139.71], "ans": []},
+    {"lyric": "Yamma ni ggumeun mwoni", "lyric_hangul": "야, 인마, 네 꿈은 뭐니? (뭐니?)", "lyric_translation": "Hey you, what’s your dream?", "range": [139.71, 142.19], "ans": []},
+    {"lyric": "Ni ggumeun gyeou geugeoni", "lyric_hangul": "네 꿈은 겨우 그거니?", "lyric_translation": "Is that all your dream is?", "range": [142.19, 145.09], "ans": []},
+    "",
+    {"lyric": "Geojitmariya you such a liar", "lyric_hangul": "거짓말이야, you such a liar", "lyric_translation": "That’s a lie, you such a liar", "range": [145.09, 147.99], "ans": []},
+    {"lyric": "See me see me ya neon wiseonjaya", "lyric_hangul": "See me, see me, ya, 넌 위선자야", "lyric_translation": "See me, see me, ya you’re a hypocrite", "range": [147.99, 151.0], "ans": []},
+    {"lyric": "Wae jakku ddan gireul garae ya neona jalhae", "lyric_hangul": "왜 자꾸 딴 길을 가래? 야, 너나 잘해", "lyric_translation": "Why’re you telling to go a different path? Take care of yourself", "range": [151.0, 154.02], "ans": []},
+    {
+      "lyric_hangul": "제발 강요하진 말아줘",
+      "lyric_translation": "Please don’t force me / (Lalalalala)",
+      "parts": [
+        {"lyric": "Jebal gangyohajin marajwo", "range": [154.02, 155.9], "ans": []},
+        {"lyric": "(La la la la la)", "range": [155.9, 156.78], "ans": []}
+      ]
+    },
+    {"lyric": "Say, la-la-la-la-la", "lyric_hangul": "Say, la-la-la-la-la", "lyric_translation": "", "range": [156.73, 159.72], "ans": []},
+    {
+      "lyric_hangul": "네 꿈이 뭐니? 네 꿈이 뭐니, 뭐니?",
+      "lyric_translation": "What’s your dream, what’s your dream? / (Lalalalala)",
+      "parts": [
+        {"lyric": "Ni ggumi mwoni ni ggumi mwoni mwoni", "range": [159.72, 161.98], "ans": []},
+        {"lyric": "(La la la la la)", "range": [161.98, 162.76], "ans": []}
+      ]
+    },
+    {"lyric": "Say, la-la-la-la-la", "lyric_hangul": "Say, la-la-la-la-la", "lyric_translation": "", "range": [162.13, 165.54], "ans": []},
+    {"lyric": "Gojak igeoni gojak igeoni geoni", "lyric_hangul": "고작 이거니? 고작 이거니-거니?", "lyric_translation": "Is that it? Is that it?", "range": [165.54, 169.19], "ans": []},
+    "",
+    {"lyric": "Saraganeun beobeul molla", "lyric_hangul": "살아가는 법을 몰라", "lyric_translation": "Don’t know how to live", "range": [169.19, 172.29], "ans": []},
+    {"lyric": "Naraganeun beobeul molla", "lyric_hangul": "날아가는 법을 몰라", "lyric_translation": "Don’t know how to fly", "range": [172.29, 175.0], "ans": []},
+    {"lyric": "Gyeoljeonghaneun beobeul molla", "lyric_hangul": "결정하는 법을 몰라", "lyric_translation": "Don’t know how to decide", "range": [175.0, 177.88], "ans": []},
+    {"lyric": "Ijen ggumkkuneun beobdo molla", "lyric_hangul": "이젠 꿈꾸는 법도 몰라", "lyric_translation": "Don’t know how to dream now", "range": [177.88, 179.95], "ans": []},
+    "",
+    {"lyric": "Nuneul nuneul nuneul ddeora da ije", "lyric_hangul": "눈을, 눈을, 눈을 떠라 다 이제", "lyric_translation": "Open your eyes now", "range": [179.95, 182.82], "ans": []},
+    {"lyric": "Chumeul chumeul chumeul chwobwa ja dasi", "lyric_hangul": "춤을, 춤을, 춤을 춰봐 자, 다시", "lyric_translation": "Dance a dance now", "range": [182.82, 185.55], "ans": []},
+    {"lyric": "Ggumeul ggumeul ggumeul ggwobwa da", "lyric_hangul": "꿈을, 꿈을, 꿈을 꿔봐 다", "lyric_translation": "Dream a dream now", "range": [185.55, 188.5], "ans": []},
+    {"lyric": "Neo ggumuldaejima umuljjumul daejima wussup!", "lyric_hangul": "너 꾸물대지 마, 우물쭈물대지 마, what's up!", "lyric_translation": "Stop hesitating, stop being indecisive, wussup!", "range": [188.5, 190.89], "ans": []},
+    "",
+    {"lyric": "Geojitmariya you such a liar", "lyric_hangul": "거짓말이야, you such a liar", "lyric_translation": "That’s a lie, you such a liar", "range": [190.89, 193.67], "ans": []},
+    {"lyric": "See me see me ya neon wiseonjaya", "lyric_hangul": "See me, see me, ya, 넌 위선자야", "lyric_translation": "See me, see me, ya you’re a hypocrite", "range": [193.67, 196.65], "ans": []},
+    {"lyric": "Wae jakku [JK/JM] ddan gireul garae ya neona jalhae", "lyric_hangul": "왜 자꾸 딴 길을 가래? 야, 너나 잘해", "lyric_translation": "Why’re you telling to go a different path? Take care of yourself", "range": [196.65, 199.94], "ans": []},
+    {
+      "lyric_hangul": "제발 강요하진 말아줘",
+      "lyric_translation": "Please don’t force me / (Lalalalala)",
+      "parts": [
+        {"lyric": "Jebal gangyohajin marajwo", "range": [199.94, 201.62], "ans": []},
+        {"lyric": "(La la la la la)", "range": [201.62, 202.46], "ans": []}
+      ]
+    },
+    {"lyric": "Say, la-la-la-la-la", "lyric_hangul": "Say, la-la-la-la-la", "lyric_translation": "", "range": [201.97, 205.69], "ans": []},
+    {
+      "lyric_hangul": "네 꿈이 뭐니? 네 꿈이 뭐니, 뭐니?",
+      "lyric_translation": "What’s your dream, what’s your dream? / (Lalalalala)",
+      "parts": [
+        {"lyric": "Ni ggumi mwoni ni ggumi mwoni mwoni", "range": [205.69, 207.69], "ans": []},
+        {"lyric": "(La la la la la)", "range": [207.69, 208.45], "ans": []}
+      ]
+    },
+    {"lyric": "Say, la-la-la-la-la", "lyric_hangul": "Say, la-la-la-la-la", "lyric_translation": "", "range": [207.78, 211.68], "ans": []},
+    {"lyric": "[RM/JM] gojak igeoni gojak igeoni geoni", "lyric_hangul": "고작 이거니? 고작 이거니-거니?", "lyric_translation": "Is that it? Is that it?", "range": [211.68, 216.76], "ans": []},
+    "",
+    {"lyric": "To all the youngsters without dreams.", "lyric_hangul": "To all the youngsters without dreams", "lyric_translation": "To all the youngsters without dreams.", "range": [216.76, 222.0], "ans": []}
+  ]
+}

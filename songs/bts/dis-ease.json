@@ -1,0 +1,186 @@
+{
+  "name": "Dis-ease (병)\r",
+  "ogg": "sound/kpop/dis_ease.ogg",
+  "id": "dis-ease",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-11-20",
+  "album": "BE",
+  "cover": "css/images/covers/dis-ease.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:39Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Mweonga nochindeuthae", "lyric_hangul": "어, 뭔가 놓친듯해", "lyric_translation": "It feels like I’ve let something go", "range": [10.0, 11.79], "ans": [3]},
+    {"lyric": "Keopi han mogeumeuro buranhameul haeso", "lyric_hangul": "커피 한 모금으로 불안함을 해소", "lyric_translation": "Easing my anxiety with a sip of coffee", "range": [11.79, 15.24], "ans": [3]},
+    {"lyric": "An endless rest", "lyric_hangul": "어, an endless rest", "lyric_translation": "An endless rest", "range": [15.24, 16.58], "ans": [3]},
+    {"lyric": "Naege gabjagi dagaon bulpyeonhan haengbok", "lyric_hangul": "내게 갑자기 다가온 불편한 행복", "lyric_translation": "An uneasy happiness that has suddenly come to me", "range": [16.58, 19.13], "ans": [3]},
+    {"lyric": "24 hours shigan cham mana", "lyric_hangul": "24 hours, 시간 참 많아", "lyric_translation": "24 hours is a lot of time", "range": [19.13, 21.45], "ans": [3]},
+    {"lyric": "Haru jongil jamjado jigeumeun no problem", "lyric_hangul": "하루 종일 잠자도 지금은, no problem", "lyric_translation": "I could even sleep the whole day, now it’s no problem", "range": [21.45, 23.73], "ans": [3]},
+    {"lyric": "Mom buseojyeora mweol haeya hal geo gateunde", "lyric_hangul": "몸 부서져라 뭘 해야 할 거 같은데", "lyric_translation": "I feel like I have to do something body-breaking", "range": [23.73, 25.9], "ans": [3]},
+    {"lyric": "Manyang samshi sekki da meongeun naran saekki", "lyric_hangul": "마냥 삼시 세끼 다 먹는 나란 새끼", "lyric_translation": "Me, the brat eating three meals a day to my heart’s content*", "range": [25.9, 28.86], "ans": [3]},
+    {"lyric": "Nae jwe, shwineun nae jashineul mureotteudneun gae", "lyric_hangul": "쉬는 내 자신을 물어뜯는 개-개-개-개", "lyric_translation": "My crime, being the dog that bites myself for resting", "range": [31.09, 33.81], "ans": [3]},
+    {"lyric": "Don’t do that wechyeobwado seonggwae mokmae maeil", "lyric_hangul": "외쳐봐도 성과에 목매 매-매-매-매일", "lyric_translation": "Even if I shout out ‘Don’t do that’, I hang myself to success everyday", "range": [35.8, 38.16], "ans": [3]},
+    {"lyric": "Errday do ma thang, damn if I fail", "lyric_hangul": "Errday do ma thang, damn, if I fail", "lyric_translation": "Errday do ma thang, damn if I fail", "range": [38.16, 40.44], "ans": [3]},
+    {"lyric": "Gyesok eureureongdae sseogeun dongajureul tap", "lyric_hangul": "계속 으르렁대 썩은 동아줄을 tap, 음", "lyric_translation": "I keep on barking, I tap the rotten rope", "range": [40.44, 43.47], "ans": [3]},
+    {"lyric": "Buranjeonhae igeon byeong", "lyric_hangul": "불안전해 이건 병", "lyric_translation": "It’s volatile, this is a disease", "range": [43.47, 44.89], "ans": [3]},
+    {"lyric": "Mullijeogin geon jigeobi juneun stun!", "lyric_hangul": "물리적인 건 직업이 주는 stun, ow!", "lyric_translation": "A natural gun, my job that stuns", "range": [44.89, 47.01], "ans": [3]},
+    "",
+    {"lyric": "Maybe", "lyric_hangul": "Maybe", "lyric_translation": "Maybe", "range": [47.01, 48.52], "ans": [6]},
+    {
+      "lyric_hangul": "내가 아파서 그래 생각이 많은 탓",
+      "lyric_translation": "It’s because I’m sick / Because I have too many thoughts",
+      "parts": [
+        {"lyric": "Naega apaseo geurae", "range": [48.52, 49.86], "ans": [6]},
+        {"lyric": "Saenggagi maneun tat", "range": [49.86, 51.8], "ans": [6]}
+      ]
+    },
+    {"lyric": "I hate that", "lyric_hangul": "I hate that", "lyric_translation": "I hate that", "range": [51.8, 53.13], "ans": [7]},
+    {"lyric": "Dansunhaji mothan chigi eorin na", "lyric_hangul": "단순하지 못한 치기 어린 나", "lyric_translation": "My childish self, incapable of being simple", "range": [53.13, 57.15], "ans": [7]},
+    {"lyric": "Nado cham eoryeo momman eoreun", "lyric_hangul": "나도 참 어려 몸만 어른", "lyric_translation": "I’m still such a child, only my body’s grown up", "range": [57.15, 59.7], "ans": [1]},
+    {"lyric": "Jeolttukgeoryeo insaeng georeum", "lyric_hangul": "절뚝거려 인생 걸음", "lyric_translation": "I limp my way through the walk of life", "range": [59.7, 61.58], "ans": [1]},
+    {"lyric": "One for the laugh, two for the show", "lyric_hangul": "One for the laugh, two for the show", "lyric_translation": "One for the laugh, two for the show", "range": [61.58, 63.52], "ans": [5]},
+    {"lyric": "Just like I’m so fine", "lyric_hangul": "Just like I'm so fine", "lyric_translation": "Just like I’m so fine", "range": [63.52, 66.26], "ans": [5]},
+    "",
+    {"lyric": "Everyday nareul wirohae", "lyric_hangul": "Everyday 나를 위로해", "lyric_translation": "Everyday, I comfort myself", "range": [66.26, 68.2], "ans": [7]},
+    {"lyric": "Da ttokgateun saramiya ain’t so special", "lyric_hangul": "다 똑같은 사람이야, ain't so special", "lyric_translation": "Everyone’s just the same, ain’t so special", "range": [68.2, 71.27], "ans": [7]},
+    {"lyric": "Ay man keep one, two step", "lyric_hangul": "Ayy, man, keep one, two step", "lyric_translation": "Ay man keep one, two step", "range": [71.27, 72.9], "ans": [5]},
+    {
+      "lyric_hangul": "차분하게 모두 치료해보자고",
+      "lyric_translation": "Let’s try calmly healing everyone / My disease / Dis-dis-dis-dis-dis-ease / Throw away fear / Fe-fe-fe-fe-fe-ar",
+      "parts": [
+        {"lyric": "Chabunhage modu chiryohaebojago", "range": [72.9, 74.3], "ans": [5]},
+        {"lyric": "Naye byeong", "range": [74.3, 74.78], "ans": [5]},
+        {"lyric": "Byeobyeobyeobyeobyeong", "range": [74.35, 75.34], "ans": [3]},
+        {"lyric": "Beoryeo geob", "range": [74.64, 75.78], "ans": [5]},
+        {"lyric": "Geogeogeogeogeob", "range": [75.08, 76.07], "ans": [3]}
+      ]
+    },
+    {"lyric": "R.M., yeah", "lyric_hangul": "R.M., yeah", "lyric_translation": "", "range": [83.66, 85.63], "ans": []},
+    "",
+    {"lyric": "Maeumedo banghagi piryohae", "lyric_hangul": "마음에도 방학이 필요해 (음, nah, oh, yeah)", "lyric_translation": "My heart needs a vacation too", "range": [85.63, 89.65], "ans": [4]},
+    {"lyric": "A geunyang ireun illo hae", "lyric_hangul": "아, 그냥 일은 일로 해 (음, nah, oh, 제발)", "lyric_translation": "Ah, just let work be work", "range": [89.65, 95.0], "ans": [4]},
+    {"lyric": "I’m ill, geurae naega il geu jache", "lyric_hangul": "I'm ill, 그래 내가 일 그 자체", "lyric_translation": "I’m ill, yeah, I’m work** itself", "range": [95.0, 97.62], "ans": [4]},
+    {"lyric": "Shwimiran chingu oh I never liked him", "lyric_hangul": "쉼이란 친구, oh, I never liked him", "lyric_translation": "That Rest guy? Oh, I never liked him", "range": [97.62, 99.9], "ans": [4]},
+    {"lyric": "Eolmareul beoreoya haengbokagenni?", "lyric_hangul": "얼마를 벌어야 행복하겠니?", "lyric_translation": "How much more do you need to earn to be happy?", "range": [99.9, 102.64], "ans": [4]},
+    {"lyric": "I yuri gateun byeongi ttaeriji ni meori", "lyric_hangul": "이 유리 같은 병이 때리지 니 머리", "lyric_translation": "This glass bottle***, it hits your head", "range": [102.64, 104.68], "ans": [4]},
+    {"lyric": "Byeongdeun ge sesanginji nanji hetgallyeo", "lyric_hangul": "병든 게 세상인지 난지 헷갈려", "lyric_translation": "Has the world caught a disease or have I? I’m confused", "range": [104.68, 106.78], "ans": [4]},
+    {"lyric": "Angyeongeul beoseodo eodumeun an heurithaejyeo", "lyric_hangul": "안경을 벗어도, 어둠은 안 흐릿해져", "lyric_translation": "Even if I take off my glasses, the darkness doesn’t turn blurry", "range": [106.78, 108.81], "ans": [4]},
+    {"lyric": "I shigan dwie eotteon raberi butgeon", "lyric_hangul": "이 시간 뒤에 어떤 라벨이 붙건", "lyric_translation": "No matter what label we stick behind this time", "range": [108.81, 111.75], "ans": [4]},
+    {
+      "lyric_hangul": "부디 그게 전부 너길 바래 너의 너, 너",
+      "lyric_translation": "I really hope it’s all you / Your you, you",
+      "parts": [
+        {"lyric": "Budi geuge jeonbu neogil barae", "range": [111.75, 112.99], "ans": [4]},
+        {"lyric": "Neoye neo, neo", "range": [112.99, 113.96], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Dadeul byeongdeuri mana naega hetgallineun geon", "lyric_hangul": "다들 병들이 많아, 내가 헷갈리는 건 (yo)", "lyric_translation": "Everyone has a lot of diseases, what confuses me is", "range": [113.96, 116.38], "ans": [2]},
+    {"lyric": "Inganiran bondi chuakhameul gajindaneun geot", "lyric_hangul": "인간이란 본디 추악함을 가진다는 것 (uh-huh)", "lyric_translation": "The fact that humans, by nature, carry within us an ugliness", "range": [116.38, 118.9], "ans": [2]},
+    {"lyric": "Maeume byeonge gajitsudeulman sabaekgaega deo", "lyric_hangul": "마음의 병의 가짓수들만 400개가 더 (yo, yo)", "lyric_translation": "The fact that there are over 400 diseases of the mind alone", "range": [118.9, 121.54], "ans": [2]},
+    {"lyric": "Dweneunde haedang an dweneun ja geo byeollo eopttan geot", "lyric_hangul": "되는데 해당 안 되는 자 거 별로 없단 것 (no, 없어)", "lyric_translation": "So there aren’t really that many people they don’t apply to", "range": [121.54, 123.87], "ans": [2]},
+    {"lyric": "Yo byeongdeun ge sesanginji nainji", "lyric_hangul": "Yo, 병든 게 세상인지 나인지", "lyric_translation": "Yo, has the world caught a disease or have I?", "range": [123.87, 125.85], "ans": [2]},
+    {
+      "lyric_hangul": "단순히 바라보는 해석들의 차인지, 그게 다인지",
+      "lyric_translation": "Is it simply a difference in interpretation / Amongst those who are watching? / Is that all it is?",
+      "parts": [
+        {"lyric": "Dansunhi baraboneun", "range": [125.85, 126.29], "ans": [2]},
+        {"lyric": "Haeseokdeure chainji", "range": [126.29, 127.43], "ans": [2]},
+        {"lyric": "Geuge dainji", "range": [127.43, 128.18], "ans": [2]}
+      ]
+    },
+    {"lyric": "I don’t know nugungareul bakkweoboneun geot", "lyric_hangul": "I don't know 누군가를 바꿔보는 것", "lyric_translation": "I don’t know, it’s faster for me to change", "range": [128.18, 130.57], "ans": [2]},
+    {"lyric": "Geugeotboda ppareun geoseun naega byeonhwahaneun geot", "lyric_hangul": "그것보다 빠른 것은 내가 변화하는 것, yo", "lyric_translation": "Than to try and change someone else", "range": [130.57, 133.12], "ans": [2]},
+    "",
+    "[next-col]",
+    {"lyric": "Maybe", "lyric_hangul": "Maybe", "lyric_translation": "Maybe", "range": [133.12, 134.08], "ans": [1]},
+    {
+      "lyric_hangul": "내가 아파서 그래 생각이 많은 탓",
+      "lyric_translation": "It’s because I’m sick / Because I have too many thoughts",
+      "parts": [
+        {"lyric": "Naega apaseo geurae", "range": [134.08, 135.38], "ans": [1]},
+        {"lyric": "Saenggagi maneun tat", "range": [135.38, 137.38], "ans": [1]}
+      ]
+    },
+    {"lyric": "I hate that", "lyric_hangul": "I hate that", "lyric_translation": "I hate that", "range": [137.38, 138.5], "ans": [5]},
+    {"lyric": "Dansunhaji mothan chigi eorin na", "lyric_hangul": "단순하지 못한 치기 어린 나", "lyric_translation": "My childish self, incapable of being simple", "range": [138.5, 142.3], "ans": [5]},
+    {"lyric": "Nado cham eoryeo momman eoreun", "lyric_hangul": "나도 참 어려 몸만 어른", "lyric_translation": "I’m still such a child, only my body’s grown up", "range": [142.3, 144.96], "ans": [7]},
+    {"lyric": "Jeolttukgeoryeo insaeng georeum", "lyric_hangul": "절뚝거려 인생 걸음", "lyric_translation": "I limp my way through the walk of life", "range": [144.96, 147.19], "ans": [7]},
+    {"lyric": "One for the laugh, two for the show", "lyric_hangul": "One for the laugh, two for the show", "lyric_translation": "One for the laugh, two for the show", "range": [147.19, 149.16], "ans": [6]},
+    {"lyric": "Just like I’m so fine", "lyric_hangul": "Just like I'm so fine", "lyric_translation": "Just like I’m so fine", "range": [149.16, 151.62], "ans": [6]},
+    "",
+    {"lyric": "Everyday nareul wirohae", "lyric_hangul": "Everyday 나를 위로해", "lyric_translation": "Everyday, I comfort myself", "range": [151.62, 154.35], "ans": [6]},
+    {"lyric": "Da ttokgateun saramiya ain’t so special", "lyric_hangul": "다 똑같은 사람이야, ain't so special", "lyric_translation": "Everyone’s just the same, ain’t so special", "range": [154.35, 157.09], "ans": [6]},
+    {"lyric": "Ay man keep one, two step", "lyric_hangul": "Ayy, man, keep one, two step", "lyric_translation": "Ay man keep one, two step", "range": [157.09, 158.68], "ans": [1]},
+    {
+      "lyric_hangul": "차분하게 모두 치료해보자고",
+      "lyric_translation": "Let’s try calmly healing everyone / My disease / Dis-dis-dis-dis-dis-ease / Throw away fear / Fe-fe-fe-fe-fe-ar / (Sick & tired)",
+      "parts": [
+        {"lyric": "Chabunhage modu chiryohaebojago", "range": [158.68, 159.86], "ans": [1]},
+        {"lyric": "Naye byeong", "range": [159.86, 160.33], "ans": [1]},
+        {"lyric": "Byeobyeobyeobyeobyeong", "range": [159.91, 160.7], "ans": [3]},
+        {"lyric": "Beoryeo geob", "range": [160.18, 161.1], "ans": [1]},
+        {"lyric": "Geogeogeogeogeob", "range": [160.4, 161.35], "ans": [3]},
+        {"lyric": "(Sick & tired)", "range": [160.83, 161.4], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "(Sick and tired)", "lyric_hangul": "(Sick and tired)", "lyric_translation": "", "range": [171.37, 172.86], "ans": []},
+    {
+      "lyric_hangul": "But I don't wanna mess up 'cause life goes on",
+      "lyric_translation": "But I don’t wanna mess up / Cause life goes on / (Through the fire)",
+      "parts": [
+        {"lyric": "But I don’t wanna mess up", "range": [172.86, 174.1], "ans": [5]},
+        {"lyric": "Cause life goes on", "range": [174.1, 175.43], "ans": [5]},
+        {"lyric": "(Through the fire)", "range": [174.73, 176.12], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Through the fire)", "lyric_hangul": "(Through the fire)", "lyric_translation": "", "range": [176.12, 177.85], "ans": []},
+    {
+      "lyric_hangul": "걸어갈게 더 나답게, whoa",
+      "lyric_translation": "I’ll walk on, in a way that’s more ‘me’ woah / (Walk it, walk it, walk it)",
+      "parts": [
+        {"lyric": "Georeogalge deo nadabge woah", "range": [177.85, 179.72], "ans": [5]},
+        {"lyric": "(Walk it, walk it, walk it)", "range": [179.02, 180.79], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Walk it, walk it, walk it)", "lyric_hangul": "(Walk it, walk it, walk it)", "lyric_translation": "", "range": [180.49, 182.84], "ans": []},
+    {
+      "lyric_hangul": "밤이 되면, 내 두 눈 감고서",
+      "lyric_translation": "When night falls, I’ll close my eyes / (Walk it, walk it, walk it)",
+      "parts": [
+        {"lyric": "Bami dwemyeon nae du nun gamgoseo", "range": [182.84, 184.41], "ans": [1]},
+        {"lyric": "(Walk it, walk it, walk it)", "range": [183.71, 185.26], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Walk it, walk it, walk it)", "lyric_hangul": "(Walk it, walk it, walk it)", "lyric_translation": "", "range": [185.26, 187.33], "ans": []},
+    {"lyric": "Naega aldeon nal dashi mideullae", "lyric_hangul": "내가 알던 날 다시 믿을래", "lyric_translation": "And believe once again in the ‘me’ that knew myself", "range": [187.33, 189.79], "ans": [1]},
+    "",
+    {"lyric": "Ja ireona one more time", "lyric_hangul": "자 일어나 one more time", "lyric_translation": "Okay, get up, one more time", "range": [189.79, 191.76], "ans": [7]},
+    {"lyric": "Dashi achimiya oneureul naya hae", "lyric_hangul": "다시 아침이야, 오늘을 나야 해", "lyric_translation": "It’s morning again, you have to get through today", "range": [191.76, 194.96], "ans": [7]},
+    {"lyric": "Gabojago one more night", "lyric_hangul": "가보자고 one more night", "lyric_translation": "Let’s go, one more night", "range": [194.96, 196.75], "ans": [6]},
+    {"lyric": "I kkeute mweoga isseulji molla ayy", "lyric_hangul": "이 끝에 뭐가 있을지 몰라, hey, hey", "lyric_translation": "I don’t know what’ll be at the end of this ayy", "range": [196.75, 202.98], "ans": [6]},
+    {"lyric": "Yeongweonhan bameun eopseo", "lyric_hangul": "영원한 밤은 없어", "lyric_translation": "There is no eternal night", "range": [202.98, 204.35], "ans": [7]},
+    {"lyric": "Nan ganghaejyeosseo", "lyric_hangul": "난 강해졌어", "lyric_translation": "I’ve become stronger", "range": [204.35, 205.53], "ans": [6]},
+    {"lyric": "Bulkkochi teojyeo", "lyric_hangul": "불꽃이 터져", "lyric_translation": "Fireworks explode", "range": [205.53, 206.87], "ans": [1]},
+    {"lyric": "I will never fade away", "lyric_hangul": "I will never fade away", "lyric_translation": "I will never fade away", "range": [206.87, 209.37], "ans": [5]},
+    "",
+    {"lyric": "Everyday nareul wirohae", "lyric_hangul": "Everyday 나를 위로해", "lyric_translation": "Everyday, I comfort myself", "range": [209.37, 211.55], "ans": [5]},
+    {"lyric": "Da ttokgateun saramiya ain’t so special", "lyric_hangul": "다 똑같은 사람이야, ain't so special", "lyric_translation": "Everyone’s just the same, ain’t so special", "range": [211.55, 214.28], "ans": [5]},
+    {"lyric": "Ay man keep one, two step", "lyric_hangul": "Ayy, man, keep one, two step", "lyric_translation": "Ay man keep one, two step", "range": [214.28, 216.26], "ans": [7]},
+    {
+      "lyric_hangul": "차분하게 모두 치료해보자고",
+      "lyric_translation": "Let’s try calmly healing everyone / My disease / Dis-dis-dis-dis-dis-ease / Throw away fear / Fe-fe-fe-fe-fe-ar",
+      "parts": [
+        {"lyric": "Chabunhage modu chiryohae bojago", "range": [216.26, 217.16], "ans": [7]},
+        {"lyric": "Naye byeong", "range": [217.16, 217.71], "ans": [7]},
+        {"lyric": "Byeobyeobyeobyeobyeo byeong", "range": [217.21, 217.92], "ans": [3]},
+        {"lyric": "Beoryeo geob", "range": [217.42, 218.32], "ans": [7]},
+        {"lyric": "Geogeogeogeogeo geob", "range": [217.62, 218.67], "ans": [3]}
+      ]
+    },
+    {"lyric": "Beoryeo geobgeobgeob beoryeo", "lyric_hangul": "버려 겁 (거거거거거겁) 버려 겁겁겁 버려", "lyric_translation": "Throw away fear", "range": [223.36, 230.26], "ans": [5, 3]}
+  ]
+}

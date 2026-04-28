@@ -1,0 +1,276 @@
+{
+  "name": "Stay Gold\r",
+  "ogg": "sound/kpop/stay_gold.ogg",
+  "id": "stay-gold",
+  "group": "bts",
+  "language": "ja",
+  "released": "2020-07-15",
+  "album": "Map Of The Soul 7:The Journey",
+  "cover": "css/images/covers/stay-gold.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:11Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Ooh ooh", "lyric_hangul": "Ooh ooh", "lyric_translation": "Ooh ooh", "range": [1.86, 5.18], "ans": [7]},
+    {"lyric": "In a world where you feel cold", "lyric_hangul": "In a world where you feel cold", "lyric_translation": "In a world where you feel cold", "range": [5.18, 10.16], "ans": [7]},
+    {"lyric": "You gotta stay gold", "lyric_hangul": "You gotta stay gold", "lyric_translation": "You gotta stay gold", "range": [10.16, 12.85], "ans": [7]},
+    {
+      "lyric_hangul": "Oh baby yeah",
+      "lyric_translation": "Oh baby / Yeah",
+      "parts": [
+        {"lyric": "Oh baby", "range": [12.85, 13.81], "ans": [7]},
+        {"lyric": "Yeah", "range": [13.81, 15.83], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Miwaku-teki na Moon Light", "lyric_hangul": "魅惑的な Moon light", "lyric_translation": "The alluring moon light", "range": [15.83, 17.44], "ans": [2]},
+    {"lyric": "Koyoi mo nemuranai", "lyric_hangul": "今宵も眠らない", "lyric_translation": "I can’t sleep again tonight", "range": [17.44, 19.1], "ans": [2]},
+    {"lyric": "Tsukiakari o tayori ni", "lyric_hangul": "月明かりを頼りに", "lyric_translation": "Relying on the light of the moon", "range": [19.1, 21.32], "ans": [2]},
+    {"lyric": "Kimi no moto e Hide and Seek", "lyric_hangul": "君の元へ Hide and seek", "lyric_translation": "Playing hide and see towards you", "range": [21.32, 24.24], "ans": [2]},
+    {"lyric": "Kokoro e to shinobikonde kimi no majika", "lyric_hangul": "心へと忍びこんで 君の間近", "lyric_translation": "Stealthily towards your heart, the distance with you", "range": [24.24, 26.39], "ans": [2]},
+    {"lyric": "Chikazuku no sa itsu no aida ni ka", "lyric_hangul": "近づくのさ いつの間にか", "lyric_translation": "Is getting closer, before I knew it", "range": [26.39, 30.23], "ans": [2]},
+    "",
+    {"lyric": "Kegare o shiranai na", "lyric_hangul": "穢れを知らないな", "lyric_translation": "Free from any impurity", "range": [30.23, 32.18], "ans": [4]},
+    {"lyric": "Sono hitomi wa daiya", "lyric_hangul": "その瞳はダイヤ", "lyric_translation": "Your eyes are diamonds", "range": [32.18, 34.25], "ans": [4]},
+    {"lyric": "Donna hōseki yori mo Beautiful", "lyric_hangul": "どんな宝石よりも Beautiful", "lyric_translation": "More beautiful than any precious stone", "range": [34.25, 39.06], "ans": [4]},
+    {"lyric": "Nani do mo mitorete shimau hodo", "lyric_hangul": "何度も見惚れてしまうほど", "lyric_translation": "That i’m fascinated no matter how many times I look", "range": [39.06, 42.35], "ans": [4]},
+    {"lyric": "Kimi kara me hanasenai No more", "lyric_hangul": "君から目離せない No more", "lyric_translation": "Unable to take my eyes off you, no more", "range": [42.35, 45.36], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "時計の針さえ 動きを止めるよ",
+      "lyric_translation": "Even the hand of a clock / Would stop its moving",
+      "parts": [
+        {"lyric": "Tokei no hari sae", "range": [45.36, 48.92], "ans": [6]},
+        {"lyric": "Ugoki o tomeru yo", "range": [48.92, 54.36], "ans": [6]}
+      ]
+    },
+    {"lyric": "Uh let it glow", "lyric_hangul": "Uh let it glow", "lyric_translation": "Uh let it glow", "range": [54.36, 58.45], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Stay gold 夢の中でも",
+      "lyric_translation": "Stay Gold / Even in your dreams",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [58.45, 61.68], "ans": [1]},
+        {"lyric": "Yume no naka de mo", "range": [60.98, 62.97], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 探しあてるよ",
+      "lyric_translation": "Stay Gold / I’ll find you",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [62.43, 65.6], "ans": [1]},
+        {"lyric": "Sagashiateru yo", "range": [64.9, 66.52], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold, Gold 君に触れたくて",
+      "lyric_translation": "Stay Gold Gold / I want to feel your touch",
+      "parts": [
+        {"lyric": "Stay Gold Gold", "range": [66.52, 71.93], "ans": [1]},
+        {"lyric": "Kimi ni furetakute", "range": [71.23, 73.34], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 君の全てに",
+      "lyric_translation": "Stay Gold / Everything about you",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [73.34, 76.67], "ans": [5]},
+        {"lyric": "Kimi no subete ni", "range": [75.97, 77.88], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 心惹かれて",
+      "lyric_translation": "Stay Gold / Captivates my heart",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [77.2, 79.78], "ans": [5]},
+        {"lyric": "Kokoro hikarete", "range": [78.8, 81.25], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 手に入れたくて",
+      "lyric_translation": "Stay Gold / I want to have you",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [81.01, 86.8], "ans": [5]},
+        {"lyric": "Te ni iretakute", "range": [86.1, 89.31], "ans": [1]}
+      ]
+    },
+    {"lyric": "Stay Gold Stay Gold Stay Gold", "lyric_hangul": "Stay gold stay gold stay gold", "lyric_translation": "Stay Gold Stay Gold Stay Gold", "range": [89.31, 92.84], "ans": [5, 7]},
+    {"lyric": "Stay Gold Stay Gold Stay Gold", "lyric_hangul": "Stay gold stay gold stay gold", "lyric_translation": "Stay Gold Stay Gold Stay Gold", "range": [92.84, 96.65], "ans": [5, 7]},
+    {"lyric": "Stay Gold Stay Gold Stay Gold", "lyric_hangul": "Stay gold stay gold stay gold", "lyric_translation": "Stay Gold Stay Gold Stay Gold", "range": [96.65, 100.79], "ans": [5, 7]},
+    {"lyric": "Stay Gold", "lyric_hangul": "Stay gold", "lyric_translation": "Stay Gold", "range": [100.79, 101.88], "ans": [5, 7]},
+    {"lyric": "Itsu made mo Forever Gold", "lyric_hangul": "いつまでも Forever gold", "lyric_translation": "Stay gold forever, forever gold", "range": [101.88, 104.57], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "気付かれないように 近づいてく Slowly",
+      "lyric_translation": "Without you noticing / I’m getting closer, slowly",
+      "parts": [
+        {"lyric": "Kizukarenai yō ni", "range": [104.57, 106.61], "ans": [3]},
+        {"lyric": "Chikazuiteku Slowly", "range": [106.61, 108.45], "ans": [3]}
+      ]
+    },
+    {"lyric": "Yokoku suru yo Baby mu bōbi na", "lyric_hangul": "予告するよ Baby 無防備な", "lyric_translation": "I’m not notifying you in advance baby", "range": [108.45, 111.8], "ans": [3]},
+    {
+      "lyric_hangul": "君を優しく いただくのさ",
+      "lyric_translation": "The defenceless you / I’ll gently take",
+      "parts": [
+        {"lyric": "Kimi o yasashiku", "range": [111.8, 114.78], "ans": [3]},
+        {"lyric": "Itadaku no sa", "range": [114.78, 116.92], "ans": [3]}
+      ]
+    },
+    {"lyric": "Kimi no fukai tokoro now…", "lyric_hangul": "君の深いところ Now", "lyric_translation": "The deepest parts of you now…", "range": [116.63, 119.84], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "高鳴る想いは 鼓動を早める",
+      "lyric_translation": "My ringing thoughts / The palpitations are accelerating",
+      "parts": [
+        {"lyric": "Takanaru omoi wa", "range": [119.84, 124.5], "ans": [7]},
+        {"lyric": "Kodō o hayameru", "range": [124.5, 129.06], "ans": [7]}
+      ]
+    },
+    {"lyric": "Uh let it show", "lyric_hangul": "Uh let it show", "lyric_translation": "Uh let it show", "range": [129.06, 133.5], "ans": [7]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Stay gold 君さえいれば",
+      "lyric_translation": "Stay Gold / As long as you’re here",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [133.5, 136.26], "ans": [5]},
+        {"lyric": "Kimi sae ire ba", "range": [135.56, 137.38], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 何もいらない",
+      "lyric_translation": "Stay Gold / I don’t need anything",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [137.38, 139.02], "ans": [5]},
+        {"lyric": "Nani mo iranai", "range": [138.52, 141.5], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold, gold 抱きしめたくて",
+      "lyric_translation": "Stay Gold Gold / I want to hug you",
+      "parts": [
+        {"lyric": "Stay Gold Gold", "range": [141.5, 144.99], "ans": [5]},
+        {"lyric": "Dakishimetakute", "range": [144.48, 148.5], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 愛は果てなく",
+      "lyric_translation": "Stay Gold / Love will not perish",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [148.5, 150.56], "ans": [1]},
+        {"lyric": "Ai wa hatenaku", "range": [149.68, 152.26], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 光を放つ",
+      "lyric_translation": "Stay Gold / Cast the light",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [152.26, 154.12], "ans": [1]},
+        {"lyric": "Hikari o hanatsu", "range": [153.34, 155.95], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold どんな星よりも",
+      "lyric_translation": "Stay Gold / More than any star",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [155.95, 161.59], "ans": [1]},
+        {"lyric": "Donna hoshi yori mo", "range": [160.89, 164.73], "ans": [5]}
+      ]
+    },
+    {"lyric": "Stay Gold Stay Gold Stay Gold", "lyric_hangul": "Stay gold, stay gold, stay gold", "lyric_translation": "Stay Gold Stay Gold Stay Gold", "range": [164.73, 168.29], "ans": [5, 6]},
+    {"lyric": "Stay Gold Stay Gold Stay Gold", "lyric_hangul": "Stay gold, stay gold, stay gold", "lyric_translation": "Stay Gold Stay Gold Stay Gold", "range": [168.29, 172.03], "ans": [5, 6]},
+    {"lyric": "Stay Gold Stay Gold Stay Gold", "lyric_hangul": "Stay gold, stay gold, stay gold", "lyric_translation": "Stay Gold Stay Gold Stay Gold", "range": [172.03, 175.1], "ans": [5, 6]},
+    {"lyric": "Stay Gold", "lyric_hangul": "Stay gold", "lyric_translation": "Stay Gold", "range": [175.1, 176.86], "ans": [5, 6]},
+    {"lyric": "Itsu made mo Forever Gold", "lyric_hangul": "いつまでも Forever gold", "lyric_translation": "Stay gold forever, forever gold", "range": [176.86, 179.29], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Just close your eyes 何も言わない",
+      "lyric_translation": "Just close your eyes / Without saying anything",
+      "parts": [
+        {"lyric": "Just close your eyes", "range": [179.29, 181.88], "ans": [6]},
+        {"lyric": "Nani mo iwanai", "range": [181.11, 182.87], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'll steal your heart 魔法のように",
+      "lyric_translation": "I’ll steal your heart / Like magic",
+      "parts": [
+        {"lyric": "I’ll steal your heart", "range": [182.87, 185.74], "ans": [1]},
+        {"lyric": "Mahō no yō ni", "range": [184.89, 187.09], "ans": [7]}
+      ]
+    },
+    {"lyric": "Kiseki nara boku ga misete ageru (yeah)", "lyric_hangul": "奇跡なら僕が見せてあげる (Yeah)", "lyric_translation": "If there’s a miracle I’ll show it to you (yeah)", "range": [187.09, 191.54], "ans": [7]},
+    {"lyric": "Sono te o dashite", "lyric_hangul": "その手を出して", "lyric_translation": "Reach out your hand", "range": [191.54, 193.2], "ans": [5, 7]},
+    "",
+    {
+      "lyric_hangul": "Stay gold 夢の中でも",
+      "lyric_translation": "Stay Gold / Even in my dreams",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [193.2, 195.06], "ans": [5, 7]},
+        {"lyric": "Yume no naka de mo", "range": [194.34, 196.91], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 探しあてるよ",
+      "lyric_translation": "Stay Gold / I’ll find you",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [196.91, 198.83], "ans": [5]},
+        {"lyric": "Sagashiateru yo", "range": [198.03, 201.03], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold, gold 君に触れたくて",
+      "lyric_translation": "Stay Gold Gold / I want to feel your touch",
+      "parts": [
+        {"lyric": "Stay Gold Gold", "range": [201.03, 204.62], "ans": [5]},
+        {"lyric": "Kimi ni furetakute", "range": [204.09, 208.01], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 君の全てに",
+      "lyric_translation": "Stay Gold / Everything about you",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [208.01, 209.63], "ans": [7]},
+        {"lyric": "Kimi no subete ni", "range": [209.07, 212.22], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold (Stay gold) 心惹かれて",
+      "lyric_translation": "Stay Gold / Captivates my heart",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [212.22, 214.38], "ans": [7]},
+        {"lyric": "Kokoro hikarete", "range": [213.68, 215.5], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "Stay gold 手に入れたくて",
+      "lyric_translation": "Stay Gold / I want to have you",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [215.5, 217.92], "ans": [7]},
+        {"lyric": "Te ni iretakute", "range": [217.92, 220.97], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Nozokimi suru Moon Light", "lyric_hangul": "のぞき見する Moon light", "lyric_translation": "The moonlight that’s peeking through", "range": [224.22, 226.15], "ans": []},
+    {"lyric": "Koyoi nemurasenai", "lyric_hangul": "今宵眠らせない", "lyric_translation": "Is not letting me sleep tonight", "range": [226.15, 227.9], "ans": []},
+    {
+      "lyric_hangul": "握りしめたその手を 離したくはないよ",
+      "lyric_translation": "Your hand that I’m grasping tightly / I don’t want to let it go",
+      "parts": [
+        {"lyric": "Nigirishimeta sono te o", "range": [227.9, 229.8], "ans": []},
+        {"lyric": "Hanashitaku wa nai yo", "range": [229.8, 234.16], "ans": [5, 7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Stay gold uh yeah",
+      "lyric_translation": "Stay Gold / Uh yeah",
+      "parts": [
+        {"lyric": "Stay Gold", "range": [234.16, 234.66], "ans": [5, 7]},
+        {"lyric": "Uh yeah", "range": [234.5, 239.8], "ans": [5, 7]}
+      ]
+    }
+  ]
+}

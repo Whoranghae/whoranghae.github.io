@@ -1,0 +1,142 @@
+{
+  "name": "Airplane Pt. 2 (Japanese Ver.)\r",
+  "ogg": "sound/kpop/airplane_pt2_jp.ogg",
+  "id": "airplane-pt2-jp",
+  "group": "bts",
+  "language": "ja",
+  "released": "2020-07-15",
+  "album": "Map Of The Soul 7:The Journey",
+  "cover": "css/images/covers/airplane-pt2-jp.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:25Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Chīsana ko de", "lyric_hangul": "小さな子で", "lyric_translation": "N/A", "range": [19.68, 21.35], "ans": [7]},
+    {"lyric": "Zutto utatte ita", "lyric_hangul": "ずっと歌っていた", "lyric_translation": "", "range": [21.35, 23.02], "ans": [7]},
+    {"lyric": "Doko de mo ī", "lyric_hangul": "どこでもいい", "lyric_translation": "", "range": [23.02, 24.72], "ans": [7]},
+    {"lyric": "Ongaku ga shitakute", "lyric_hangul": "音楽がしたくて", "lyric_translation": "", "range": [24.72, 26.73], "ans": [7]},
+    {"lyric": "Utai oto de", "lyric_hangul": "歌い 音で", "lyric_translation": "", "range": [26.73, 28.29], "ans": [7]},
+    {"lyric": "Kokoro ugokashita thing", "lyric_hangul": "心動かした thing", "lyric_translation": "", "range": [28.29, 30.18], "ans": [7]},
+    {"lyric": "Mayowazu ni", "lyric_hangul": "迷わずに", "lyric_translation": "", "range": [30.18, 31.56], "ans": [7]},
+    {"lyric": "Kite mita kedo", "lyric_hangul": "来てみたけど", "lyric_translation": "", "range": [31.56, 32.74], "ans": [7]},
+    "",
+    {"lyric": "Kantan ja nai", "lyric_hangul": "簡単じゃない", "lyric_translation": "", "range": [32.74, 34.22], "ans": [5]},
+    {"lyric": "Shippai bakari", "lyric_hangul": "失敗ばかり", "lyric_translation": "", "range": [34.22, 35.95], "ans": [5]},
+    {"lyric": "Tsukarekitta hi kikoeta kotoba wa", "lyric_hangul": "疲れ切った日 聞こえた言葉は", "lyric_translation": "", "range": [35.95, 39.2], "ans": [5]},
+    {"lyric": "You’ re a singing star", "lyric_hangul": "You're a singing star", "lyric_translation": "", "range": [39.2, 40.99], "ans": [6]},
+    {"lyric": "You’ re a singing star", "lyric_hangul": "You're a singing star", "lyric_translation": "", "range": [40.99, 43.02], "ans": [6]},
+    {"lyric": "But I see no star. .", "lyric_hangul": "But I see no star", "lyric_translation": "", "range": [43.02, 45.09], "ans": [6]},
+    {"lyric": "Soshite toki wa tachi", "lyric_hangul": "そして時は経ち", "lyric_translation": "", "range": [45.09, 46.58], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "(We still) Sky high, sky fly, sky dope",
+      "parts": [
+        {"lyric": "We still", "range": [46.58, 48.38], "ans": [1]},
+        {"lyric": "Sky high sky fly sky dope", "range": [47.6, 50.47], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We still) Same try, same scar, same work",
+      "parts": [
+        {"lyric": "We still", "range": [50.47, 51.01], "ans": [1]},
+        {"lyric": "Same try same scar same work", "range": [51.51, 53.63], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We still) 世界中で稼働",
+      "parts": [
+        {"lyric": "We still", "range": [53.54, 55.84], "ans": [1]},
+        {"lyric": "Sekai-chū de kadō", "range": [54.94, 57.16], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(We still) ホテル内も作業",
+      "parts": [
+        {"lyric": "We still", "range": [57.16, 59.22], "ans": [1]},
+        {"lyric": "Hoteru-nai mo sagyō", "range": [58.44, 60.67], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(I still) 時によくなって たまにダメになって",
+      "parts": [
+        {"lyric": "I still", "range": [60.67, 63.3], "ans": [1]},
+        {"lyric": "Ji ni yoku natte tamani dame ni natte", "range": [62.6, 64.02], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "(I still) 今日は誰になってる? キム・ナムジュン or RM?",
+      "parts": [
+        {"lyric": "I still", "range": [64.02, 66.48], "ans": [1]},
+        {"lyric": "Kyō wa dare ni natteru？ Kimu. Namujun or RM?", "range": [65.78, 67.65], "ans": [4]}
+      ]
+    },
+    {"lyric": "Niijuugo da shi iki kata nante umaku nai", "lyric_hangul": "25だし生き方なんて上手くない", "lyric_translation": "", "range": [67.65, 70.46], "ans": [4]},
+    {"lyric": "Da kara hitasura ni tada go", "lyric_hangul": "だからひたすらにただ go", "lyric_translation": "", "range": [70.46, 73.26], "ans": [4]},
+    "",
+    {"lyric": "Tonde NY ya Cali", "lyric_hangul": "飛んで NY や CaIi", "lyric_translation": "", "range": [73.26, 75.29], "ans": [5]},
+    {"lyric": "London ni Paris", "lyric_hangul": "London に Paris", "lyric_translation": "", "range": [75.29, 77.18], "ans": [5]},
+    {"lyric": "Ore-ra ga ike ba doko da tte party", "lyric_hangul": "俺らが行けばどこだって party", "lyric_translation": "", "range": [77.18, 80.69], "ans": [5]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [80.69, 82.22], "ans": [5]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [82.22, 83.84], "ans": [5]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [83.84, 86.68], "ans": [5]},
+    "",
+    {"lyric": "Tonde Tokyo ya Italy", "lyric_hangul": "飛んで Tokyo や Italy", "lyric_translation": "", "range": [86.68, 89.06], "ans": [7]},
+    {"lyric": "Hong Kong ni Brazil", "lyric_hangul": "Hong Kong に Brazil", "lyric_translation": "", "range": [89.06, 91.34], "ans": [7]},
+    {"lyric": "Sekai-chū doko ni de mo utai ni iku", "lyric_hangul": "世界中どこにでも歌いに行く", "lyric_translation": "", "range": [91.34, 94.23], "ans": [7]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [94.23, 95.89], "ans": [7]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [95.89, 97.56], "ans": [7]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [97.56, 100.75], "ans": [7]},
+    {"lyric": "El Mariachi. .", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [100.75, 104.13], "ans": [7]},
+    "",
+    "[next-col]",
+    {"lyric": "Kumo no ue check it kumo no ue check it", "lyric_hangul": "雲の上 check it 雲の上 check it", "lyric_translation": "", "range": [115.88, 119.54], "ans": [3]},
+    {"lyric": "Kumo no ue de feel kumo no ue check it", "lyric_hangul": "雲の上で feel 雲の上 check it", "lyric_translation": "", "range": [119.54, 122.61], "ans": [3]},
+    {"lyric": "Kumo to no chemi kumo to zutto sesshi", "lyric_hangul": "雲との chemi 雲とずっと接し", "lyric_translation": "", "range": [122.61, 126.39], "ans": [3]},
+    {"lyric": "Kumo-nori playin’ kumo no naka fade in", "lyric_hangul": "雲乗り playin' 雲の中 fade in", "lyric_translation": "", "range": [126.39, 127.97], "ans": [3]},
+    {"lyric": "You don’ t know it maybe", "lyric_hangul": "You don't know it, maybe", "lyric_translation": "", "range": [127.97, 128.76], "ans": [3]},
+    {"lyric": "Nan nen mo kono jōkyō de", "lyric_hangul": "何年もこの状況で", "lyric_translation": "", "range": [128.76, 130.63], "ans": [3]},
+    {"lyric": "Maireiji mo jōshō shite", "lyric_hangul": "マイレージも上昇して", "lyric_translation": "", "range": [130.63, 132.52], "ans": [3]},
+    {"lyric": "Ima kimi-ra e kimochi o kangen suru", "lyric_hangul": "今君らへ気持ちを還元する", "lyric_translation": "", "range": [132.52, 134.14], "ans": [3]},
+    {"lyric": "Kono pointo tsukai zōtei", "lyric_hangul": "このポイント使い贈呈", "lyric_translation": "", "range": [134.14, 134.98], "ans": [3]},
+    {"lyric": "Love airplane mode-mawari wa off", "lyric_hangul": "Love airplane mode 周りは off", "lyric_translation": "", "range": [134.98, 137.67], "ans": [3]},
+    {"lyric": "Sashizu wa iranai mō", "lyric_hangul": "指図はいらないもう", "lyric_translation": "", "range": [137.67, 139.02], "ans": [3]},
+    {"lyric": "Kono mama fāsuto kīpu shi", "lyric_hangul": "このままフアースト キープし", "lyric_translation": "", "range": [139.02, 140.23], "ans": [3]},
+    {"lyric": "Kono seki kara nagameru yozora o", "lyric_hangul": "この席から眺める夜空を", "lyric_translation": "", "range": [140.23, 143.43], "ans": [3]},
+    "",
+    {"lyric": "I don’ t know I don’ t know I don’ t know I don’ t know", "lyric_hangul": "I don't know, I don't know, I don't know, I don't know", "lyric_translation": "", "range": [143.43, 145.29], "ans": [5]},
+    {"lyric": "Tomeru hōhō mo", "lyric_hangul": "止める方法も", "lyric_translation": "", "range": [145.29, 146.85], "ans": [2]},
+    {"lyric": "I don’ t know I don’ t know I don’ t know I don’ t know", "lyric_hangul": "I don't know, I don't know, I don't know, I don't know", "lyric_translation": "", "range": [146.85, 148.8], "ans": [5]},
+    {"lyric": "Yasumu hōhō mo", "lyric_hangul": "休む方法も", "lyric_translation": "", "range": [148.8, 149.97], "ans": [2]},
+    {"lyric": "I don’ t know I don’ t know I don’ t know I don’ t know", "lyric_hangul": "I don't know, I don't know, I don't know, I don't know", "lyric_translation": "", "range": [149.97, 152.2], "ans": [5]},
+    {"lyric": "Machigau hōhō mo", "lyric_hangul": "間違う方法も", "lyric_translation": "", "range": [152.2, 153.77], "ans": [2]},
+    {"lyric": "I don’ t know I don’ t know I don’ t know I don’ t know", "lyric_hangul": "I don't know, I don't know, I don't know, I don't know", "lyric_translation": "", "range": [153.77, 155.68], "ans": [5]},
+    {"lyric": "Terebi de yaru kawairashī", "lyric_hangul": "テレビでやる可愛らしい", "lyric_translation": "", "range": [155.68, 156.93], "ans": [2]},
+    {"lyric": "Jiman wa mō fed up", "lyric_hangul": "自慢はもう fed up", "lyric_translation": "", "range": [156.93, 158.3], "ans": [2]},
+    {"lyric": "Ryoken wa hirō de genkai", "lyric_hangul": "旅券は疲労で限界", "lyric_translation": "", "range": [158.3, 159.83], "ans": [2]},
+    {"lyric": "Media kara no onkei wa", "lyric_hangul": "メディアからの恩恵は", "lyric_translation": "", "range": [159.83, 161.58], "ans": [2]},
+    {"lyric": "Socchi no hō de bomb ha ha ha ha", "lyric_hangul": "そっらの方でbombハハハハ", "lyric_translation": "", "range": [161.58, 163.97], "ans": [2]},
+    {"lyric": "Ya ya serebu asobi nara yatte na", "lyric_hangul": "Ya ya セレプ遊びならやってな", "lyric_translation": "", "range": [163.97, 167.26], "ans": [2]},
+    {
+      "lyric_hangul": "俺たちは何も変わってない Woo!",
+      "parts": [
+        {"lyric": "Ore-tachi wa nan mo kawattenai", "range": [167.26, 168.0], "ans": [2]},
+        {"lyric": "Woo!", "range": [168.0, 169.37], "ans": [2]}
+      ]
+    },
+    {"lyric": "Tonde Mexico City", "lyric_hangul": "飛んで Mexico City", "lyric_translation": "", "range": [168.85, 171.32], "ans": [6]},
+    {"lyric": "London ni Paris", "lyric_hangul": "London に Paris", "lyric_translation": "", "range": [171.32, 173.08], "ans": [6]},
+    {"lyric": "Ore-ra ga ike ba doko da tte party", "lyric_hangul": "俺らが行けばどこだって party", "lyric_translation": "", "range": [173.08, 176.51], "ans": [6]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [176.51, 178.26], "ans": [6]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [178.26, 179.99], "ans": [6]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [179.99, 182.43], "ans": [6]},
+    "",
+    {"lyric": "Tonde Tokyo ya Italy", "lyric_hangul": "飛んで Tokyo や Italy", "lyric_translation": "", "range": [182.43, 185.2], "ans": [1]},
+    {"lyric": "Hong Kong ni Brazil", "lyric_hangul": "Hong Kong に Brazil", "lyric_translation": "", "range": [185.2, 187.46], "ans": [1]},
+    {"lyric": "Sekai-chū doko ni de mo utai ni iku", "lyric_hangul": "世界中どこにでも歌いに行く", "lyric_translation": "", "range": [187.46, 190.37], "ans": [1]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [190.37, 191.91], "ans": [1]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [191.91, 193.69], "ans": [1]},
+    {"lyric": "El Mariachi", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [193.69, 196.68], "ans": [1]},
+    {"lyric": "El Mariachi.", "lyric_hangul": "El Mariachi", "lyric_translation": "", "range": [196.68, 200.32], "ans": [1]}
+  ]
+}

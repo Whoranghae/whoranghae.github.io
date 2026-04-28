@@ -1,0 +1,1034 @@
+{
+  "name": "HOME\r",
+  "ogg": "sound/kpop/home.ogg",
+  "id": "home",
+  "group": "bts",
+  "language": "ko",
+  "released": "2019-04-12",
+  "album": "MAP OF THE SOUL : PERSONA",
+  "cover": "css/images/covers/home.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:50Z",
+  "hidden": true,
+  "slots": [],
+  "lines": [
+    {
+      "lyric": "I’m exhausted, man",
+      "lyric_hangul": "I'm exhausted man",
+      "lyric_translation": "I’m exhausted, man",
+      "range": [
+        4.07,
+        7.43
+      ],
+      "ans": [
+        4
+      ]
+    },
+    {
+      "lyric": "Oh, guess what",
+      "lyric_hangul": "Oh, guess what?",
+      "lyric_translation": "Oh, guess what",
+      "range": [
+        7.43,
+        10.28
+      ],
+      "ans": [
+        4
+      ]
+    },
+    {
+      "lyric": "I just wanna go home",
+      "lyric_hangul": "I just wanna go home",
+      "lyric_translation": "I just wanna go home",
+      "range": [
+        10.28,
+        13.08
+      ],
+      "ans": [
+        4
+      ]
+    },
+    "",
+    {
+      "lyric": "Michildeuthan seolleime",
+      "lyric_hangul": "미칠듯한 설레임에",
+      "lyric_translation": "Because of my heart’s crazy fluttering",
+      "range": [
+        13.08,
+        16.5
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Insajocha mothaesseo",
+      "lyric_hangul": "인사조차 (yeah) 못했어 (right)",
+      "lyric_translation": "I couldn’t even say hello",
+      "range": [
+        16.5,
+        20.1
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Yeah I’m going out baby",
+      "lyric_hangul": "Yeah, I'm going out baby",
+      "lyric_translation": "Yeah I’m going out baby",
+      "range": [
+        20.1,
+        23.14
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "On sesangi nae jib",
+      "lyric_hangul": "온 세상이 내 집 (whoa, whoa, whoa)",
+      "lyric_translation": "The whole world is like my home",
+      "range": [
+        23.14,
+        26.81
+      ],
+      "ans": [
+        5
+      ]
+    },
+    "",
+    {
+      "lyric": "Crazy for myself",
+      "lyric_hangul": "Crazy for myself (yeah)",
+      "lyric_translation": "Crazy for myself",
+      "range": [
+        26.81,
+        28.45
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Jeo muneul yeolmyeon mwodeun da dwel geotcheoreom",
+      "lyric_hangul": "저 문을 열면 뭐든 다 될 것처럼 (right)",
+      "lyric_translation": "If I open that door, feels like everything will go right",
+      "range": [
+        28.45,
+        32.11
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Machi museun bonttaereul boyeojul geotcheoreom",
+      "lyric_hangul": "마치 무슨 본때를 보여줄 것처럼 (uh)",
+      "lyric_translation": "As if I’m out to show myself",
+      "range": [
+        32.11,
+        35.2
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric_hangul": "집을 나섰지",
+      "lyric_translation": "I left the house / (I hope all of this won’t end as an illusion)",
+      "parts": [
+        {
+          "lyric": "Jibeul naseotji",
+          "range": [
+            35.2,
+            36.06
+          ],
+          "ans": [
+            6
+          ]
+        },
+        {
+          "lyric": "(i modeun sangsangi da shingiruro kkeutnaji ankil)",
+          "range": [
+            35.36,
+            37.14
+          ],
+          "ans": [
+            4
+          ]
+        }
+      ]
+    },
+    "",
+    {
+      "lyric": "Oh yeah I did it, me shine with flashin’ lights",
+      "lyric_hangul": "Oh yeah I did it, me shine with flashin' lights",
+      "lyric_translation": "Oh yeah I did it, me shine with flashin’ lights",
+      "range": [
+        40.59,
+        43.77
+      ],
+      "ans": [
+        4
+      ]
+    },
+    {
+      "lyric": "Got lotta friends, gojeuneokhan nae gonggan",
+      "lyric_hangul": "Got lotta friends, 고즈넉한 내 공간",
+      "lyric_translation": "Got lotta friends, my quiet place",
+      "range": [
+        43.77,
+        47.28
+      ],
+      "ans": [
+        4
+      ]
+    },
+    {
+      "lyric": "Geurae gieokhae mwodeun da hal su isseul geotman gatdeon ttae",
+      "lyric_hangul": "그래 기억해 뭐든 다 할 수 있을 것만 같던 때",
+      "lyric_translation": "I remember back in the days, when I thought I could do everything",
+      "range": [
+        47.28,
+        49.98
+      ],
+      "ans": [
+        4
+      ]
+    },
+    {
+      "lyric": "I saw the ocean yeah i muneul yeolgido jeone",
+      "lyric_hangul": "I saw the ocean, yeah, 이 문을 열기도 전에 (oh yeah)",
+      "lyric_translation": "I saw the ocean yeah even before I opened this door",
+      "range": [
+        49.98,
+        54.28
+      ],
+      "ans": [
+        4
+      ]
+    },
+    {
+      "lyric": "Mwonga chaeulsurok deo bieoga",
+      "lyric_hangul": "뭔가 채울수록 더 비어가 (비어가)",
+      "lyric_translation": "The more I’m filled, the more I empty out",
+      "range": [
+        54.28,
+        57.91
+      ],
+      "ans": [
+        5
+      ]
+    },
+    "",
+    {
+      "lyric": "Hamkkeilsurok deo honjain geot gata",
+      "lyric_hangul": "함께일수록 더 혼자인 것 같아 (whoa)",
+      "lyric_translation": "The more we’re together, the more I feel alone",
+      "range": [
+        57.91,
+        61.29
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Banjeum gamgin nun, jam mot deuneun bam",
+      "lyric_hangul": "반쯤 감긴 눈, 잠 못 드는 밤",
+      "lyric_translation": "Half-closed eyes, sleepless nights",
+      "range": [
+        61.29,
+        63.41
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Niga itneun got",
+      "lyric_hangul": "니가 있는 곳",
+      "lyric_translation": "To the place you are",
+      "range": [
+        63.41,
+        65.02
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Ama geugoshi Mi Casa",
+      "lyric_hangul": "아마 그곳이 mi casa",
+      "lyric_translation": "That place is probably my home",
+      "range": [
+        65.02,
+        68.92
+      ],
+      "ans": [
+        5
+      ]
+    },
+    "",
+    {
+      "lyric": "With you I’mma feel rich",
+      "lyric_hangul": "With you I'mma feel rich (yeah)",
+      "lyric_translation": "With you I’mma feel rich",
+      "range": [
+        68.92,
+        71.63
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Baro geugoshi Mi Casa",
+      "lyric_hangul": "바로 그곳이 mi casa",
+      "lyric_translation": "That place is my home",
+      "range": [
+        71.63,
+        75.48
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric_hangul": "미리 켜둬 너의 switch (switch), yeah",
+      "lyric_translation": "Oh yeah / Turn on your switch / Yeah",
+      "parts": [
+        {
+          "lyric": "Oh yeah",
+          "range": [
+            75.48,
+            76.67
+          ],
+          "ans": [
+            4
+          ]
+        },
+        {
+          "lyric": "Miri kyeodwo neoye switch",
+          "range": [
+            75.97,
+            78.88
+          ],
+          "ans": [
+            1
+          ]
+        },
+        {
+          "lyric": "Yeah",
+          "range": [
+            78.88,
+            79.9
+          ],
+          "ans": [
+            1
+          ]
+        }
+      ]
+    },
+    "",
+    {
+      "lyric": "Mareul an haedo pyeonanhal geoya",
+      "lyric_hangul": "말을 안 해도 편안할 거야 (right)",
+      "lyric_translation": "We won’t talk but we’ll be comfortable",
+      "range": [
+        79.71,
+        83.02
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Neoman ittamyeon da nae jibi dwel geoya",
+      "lyric_hangul": "너만 있다면 다 내 집이 될 거야 (yeah)",
+      "lyric_translation": "If only I have you, it’ll be my home",
+      "range": [
+        83.02,
+        85.72
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric_hangul": "You know I want that home",
+      "lyric_translation": "You know I want that / Home",
+      "parts": [
+        {
+          "lyric": "You know I want that",
+          "range": [
+            85.72,
+            88.67
+          ],
+          "ans": [
+            6
+          ]
+        },
+        {
+          "lyric": "Home",
+          "range": [
+            88.67,
+            89.65
+          ],
+          "ans": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "lyric_hangul": "You know you got that home (woo)",
+      "lyric_translation": "You know you got that / Home",
+      "parts": [
+        {
+          "lyric": "You know you got that",
+          "range": [
+            89.65,
+            92.97
+          ],
+          "ans": [
+            6
+          ]
+        },
+        {
+          "lyric": "Home",
+          "range": [
+            92.97,
+            93.92
+          ],
+          "ans": [
+            6
+          ]
+        }
+      ]
+    },
+    "",
+    {
+      "lyric": "Your love your love your love (I miss that)",
+      "lyric_hangul": "Your love, your love, your love, I miss that",
+      "lyric_translation": "Your love your love your love (I miss that)",
+      "range": [
+        93.92,
+        97.52
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Your love your love your love (I want that)",
+      "lyric_hangul": "Your love, your love, your love, I want that",
+      "lyric_translation": "Your love your love your love (I want that)",
+      "range": [
+        97.52,
+        100.79
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Your touch your touch your touch (I need that)",
+      "lyric_hangul": "Your touch, your touch, your touch, I need that",
+      "lyric_translation": "Your touch your touch your touch (I need that)",
+      "range": [
+        100.79,
+        104.79
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "La la la la la la la la I love it",
+      "lyric_hangul": "La-la-la-la-la-la-la-la, I love it (yeah, yeah, yeah)",
+      "lyric_translation": "La la la la la la la la I love it",
+      "range": [
+        104.79,
+        107.63
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Bul kkeojin hyeongwane nae bari isanghae",
+      "lyric_hangul": "불 꺼진 현관에 (eh) 내 발이 이상해 (eh)",
+      "lyric_translation": "My feet feel weird at the dark front door",
+      "range": [
+        107.63,
+        111.18
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Nun gamgo ibul ane isseodo isanghae",
+      "lyric_hangul": "눈 감고 이불 안에 (eh) 있어도 이상해 (eh)",
+      "lyric_translation": "I feel weird even when I close my eyes under the blanket",
+      "range": [
+        111.18,
+        114.19
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Dung bung tteun gibun bing doneun du nun",
+      "lyric_hangul": "둥 붕 뜬 기분 빙 도는 두 눈",
+      "lyric_translation": "Feels like I’m floating, my eyes are spinning",
+      "range": [
+        114.19,
+        117.79
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "I meotjin gonggane na wanjeon chorahae",
+      "lyric_hangul": "이 멋진 공간에 (whoa) 나 완전 초라해",
+      "lyric_translation": "I’m in this grand place but I feel so miserable",
+      "range": [
+        117.79,
+        120.32
+      ],
+      "ans": [
+        3
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric": "Wanjeon chorahae",
+      "lyric_hangul": "(Suga) 완전 초라해",
+      "lyric_translation": "So miserable",
+      "range": [
+        120.32,
+        121.42
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Sesangeun uriga sesangeul da gajin jul aneungun",
+      "lyric_hangul": "세상은 우리가 세상을 다 가진 줄 아는군 (oh yah)",
+      "lyric_translation": "The world thinks that we have the whole world",
+      "range": [
+        121.42,
+        123.82
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Kkume geurideon Big house, big cars, big rings",
+      "lyric_hangul": "꿈에 그리던 big house, big cars, big rings",
+      "lyric_translation": "Dreamed of big house, big cars, big rings",
+      "range": [
+        123.82,
+        125.44
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Naega wonhan geon modeun geol gajyeodo",
+      "lyric_hangul": "내가 원한 건 모든 걸 가져도 (가져도)",
+      "lyric_translation": "Even if I have everything I want",
+      "range": [
+        125.44,
+        126.86
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric_hangul": "뭔가 허전한 지금 모든 걸 이룬 자가 느낀 낯선 기분 (ay, ay)",
+      "lyric_translation": "I feel empty right now, that strange feeling you get / Once you’ve achieved everything",
+      "parts": [
+        {
+          "lyric": "Mwonga heojeonhan jigeum modeun geol irun",
+          "range": [
+            126.86,
+            129.62
+          ],
+          "ans": [
+            2
+          ]
+        },
+        {
+          "lyric": "Jaga neukkin nasseon gibun",
+          "range": [
+            129.62,
+            131.04
+          ],
+          "ans": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "lyric": "But jigeum tteonado doraol goshi itgie naseoneun mun",
+      "lyric_hangul": "But 지금 떠나도 돌아올 곳이 있기에 나서는 문 (huh?)",
+      "lyric_translation": "But even now, I have a place to go to so I’m going out the door",
+      "range": [
+        130.34,
+        135.13
+      ],
+      "ans": [
+        2
+      ]
+    },
+    "",
+    {
+      "lyric": "Gallimgireseo jakku saenggakna",
+      "lyric_hangul": "갈림길에서 자꾸 생각나 (생각나)",
+      "lyric_translation": "I keep thinking about that split road",
+      "range": [
+        135.13,
+        137.17
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Bolpumeobtteon nal arajwotteon neo",
+      "lyric_hangul": "볼품없던 날 알아줬던 너 (너)",
+      "lyric_translation": "You recognized me when I had nothing to offer",
+      "range": [
+        137.17,
+        141.32
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Ni saenggage useul su isseosseo",
+      "lyric_hangul": "니 생각에 웃을 수 있었어",
+      "lyric_translation": "At the thought of you, I was able to smile",
+      "range": [
+        141.32,
+        144.12
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Niga itneun got",
+      "lyric_hangul": "니가 있는 곳 (ah)",
+      "lyric_translation": "To the place you are",
+      "range": [
+        144.12,
+        145.72
+      ],
+      "ans": [
+        1,
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Ama geugoshi Mi Casa",
+      "lyric_hangul": "아마 그곳이 mi casa (casa)",
+      "lyric_translation": "That place is probably my home",
+      "range": [
+        145.72,
+        149.76
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "With you I’mma feel rich",
+      "lyric_hangul": "With you I'mma feel rich (rich, rich, rich)",
+      "lyric_translation": "With you I’mma feel rich",
+      "range": [
+        149.76,
+        152.87
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Baro geugoshi Mi Casa",
+      "lyric_hangul": "바로 그곳이 mi casa (mi casa)",
+      "lyric_translation": "That place is my home",
+      "range": [
+        152.87,
+        156.49
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric_hangul": "미리 켜둬 너의 switch (switch, switch, switch), yeah",
+      "lyric_translation": "Turn on your switch / Yeah",
+      "parts": [
+        {
+          "lyric": "Miri kyeodwo neoye switch",
+          "range": [
+            156.49,
+            158.87
+          ],
+          "ans": [
+            6
+          ]
+        },
+        {
+          "lyric": "Yeah",
+          "range": [
+            158.87,
+            159.73
+          ],
+          "ans": [
+            6
+          ]
+        }
+      ]
+    },
+    "",
+    {
+      "lyric": "Mareul an haedo pyeonanhal geoya",
+      "lyric_hangul": "말을 안 해도 (도) 편안할 거야",
+      "lyric_translation": "We won’t talk but we’ll be comfortable",
+      "range": [
+        159.18,
+        163.12
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Neoman ittamyeon da nae jibi dwel geoya",
+      "lyric_hangul": "너만 있다면 다 내 집이 될 거야",
+      "lyric_translation": "If only I have you, it’ll be my home",
+      "range": [
+        163.12,
+        166.56
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric_hangul": "You know I want that home (home)",
+      "lyric_translation": "You know I want that / Home",
+      "parts": [
+        {
+          "lyric": "You know I want that",
+          "range": [
+            166.56,
+            168.77
+          ],
+          "ans": [
+            6
+          ]
+        },
+        {
+          "lyric": "Home",
+          "range": [
+            168.77,
+            169.68
+          ],
+          "ans": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "lyric": "You know you got that",
+      "lyric_hangul": "You know you got that (home)",
+      "lyric_translation": "You know you got that",
+      "range": [
+        169.68,
+        174.08
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Geu eonjenga",
+      "lyric_hangul": "그 언젠가",
+      "lyric_translation": "Some day",
+      "range": [
+        174.08,
+        175.7
+      ],
+      "ans": [
+        5
+      ]
+    },
+    "",
+    {
+      "lyric": "Choinjongi se beon ullimyeon",
+      "lyric_hangul": "초인종이 세 번 울리면",
+      "lyric_translation": "When the bell rings three times",
+      "range": [
+        175.7,
+        178.2
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Muneul yeoreojugetni",
+      "lyric_hangul": "문을 열어주겠니",
+      "lyric_translation": "Will you open the door?",
+      "range": [
+        178.2,
+        180.16
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Micheo mothan insareul jeonhal su itge",
+      "lyric_hangul": "미처 못한 인사를 전할 수 있게",
+      "lyric_translation": "So I can give you the greeting I never gave",
+      "range": [
+        180.16,
+        184.33
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Geuttaen malhalge",
+      "lyric_hangul": "그땐 말할게 (ay, ay)",
+      "lyric_translation": "Then I’ll tell you",
+      "range": [
+        184.33,
+        186.68
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Oraenmaniya Mi Casa",
+      "lyric_hangul": "오랜만이야 mi casa (casa)",
+      "lyric_translation": "It’s been a while my home",
+      "range": [
+        186.68,
+        190.02
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "With you I just feel rich",
+      "lyric_hangul": "With you I just feel rich (rich, rich, rich)",
+      "lyric_translation": "With you I just feel rich",
+      "range": [
+        190.02,
+        192.85
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Danyeowasseo Hi Mi Casa",
+      "lyric_hangul": "다녀왔어, hi mi casa (mi casa, woah)",
+      "lyric_translation": "I’m back, hi my home",
+      "range": [
+        192.85,
+        196.42
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric_hangul": "켜뒀구나 너의 switch (switch, switch, switch), yeah",
+      "lyric_translation": "You left your switch on / Yeah",
+      "parts": [
+        {
+          "lyric": "Kyeodwotguna neoye switch",
+          "range": [
+            196.42,
+            198.95
+          ],
+          "ans": [
+            1
+          ]
+        },
+        {
+          "lyric": "Yeah",
+          "range": [
+            198.95,
+            200.52
+          ],
+          "ans": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "lyric": "Mareul an haedo pyeonanhajana",
+      "lyric_hangul": "말을 안 해도 (도) 편안하잖아 (yeah)",
+      "lyric_translation": "We won’t talk but we’ll be comfortable",
+      "range": [
+        200.52,
+        203.27
+      ],
+      "ans": [
+        6
+      ]
+    },
+    "",
+    {
+      "lyric": "Niga isseoseo naye jibi dwen geoya",
+      "lyric_hangul": "니가 있어서 나의 집이 된 거야",
+      "lyric_translation": "If only I have you, it’ll be my home",
+      "range": [
+        203.27,
+        207.16
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric_hangul": "You know I want that home (home)",
+      "lyric_translation": "Home / You know I want that / Home",
+      "parts": [
+        {
+          "lyric": "Home",
+          "range": [
+            207.16,
+            208.13
+          ],
+          "ans": [
+            6
+          ]
+        },
+        {
+          "lyric": "You know I want that",
+          "range": [
+            207.43,
+            209.65
+          ],
+          "ans": [
+            5
+          ]
+        },
+        {
+          "lyric": "Home",
+          "range": [
+            209.65,
+            210.27
+          ],
+          "ans": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "lyric_hangul": "You know you got that home (yeah, home)",
+      "lyric_translation": "You know you got that / Home",
+      "parts": [
+        {
+          "lyric": "You know you got that",
+          "range": [
+            210.27,
+            213.61
+          ],
+          "ans": [
+            5
+          ]
+        },
+        {
+          "lyric": "Home",
+          "range": [
+            213.61,
+            214.56
+          ],
+          "ans": [
+            5
+          ]
+        }
+      ]
+    },
+    "",
+    {
+      "lyric": "Your love your love your love (I miss that)",
+      "lyric_hangul": "Your love, your love, your love, I miss that",
+      "lyric_translation": "Your love your love your love (I miss that)",
+      "range": [
+        214.56,
+        218.42
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Your love your love your love (I want that)",
+      "lyric_hangul": "Your love, your love, your love, I want that",
+      "lyric_translation": "Your love your love your love (I want that)",
+      "range": [
+        218.42,
+        221.81
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Your touch your touch your touch (I need that)",
+      "lyric_hangul": "Your touch, your touch, your touch, I need that",
+      "lyric_translation": "Your touch your touch your touch (I need that)",
+      "range": [
+        221.81,
+        225.65
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "La la la la la la la la I love it",
+      "lyric_hangul": "La-la-la-la-la-la-la-la, love it",
+      "lyric_translation": "La la la la la la la la I love it",
+      "range": [
+        225.65,
+        233.0
+      ],
+      "ans": [
+        6
+      ]
+    }
+  ]
+}

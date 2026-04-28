@@ -1,0 +1,459 @@
+{
+  "name": "Born Singer\r",
+  "ogg": "sound/kpop/born_singer.ogg",
+  "id": "born-singer",
+  "group": "bts",
+  "language": "ko",
+  "released": "2022-06-10",
+  "album": "Proof",
+  "cover": "css/images/covers/born-singer.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:28Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "I'm a born singer, 좀 늦어버린 고백, I swear",
+      "lyric_translation": "I’m a born singer / A little belated confession (I swear)",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [0.35, 2.66], "ans": [7]},
+        {"lyric": "Jom neujeobeorin gobaek (I swear)", "range": [2.66, 6.59], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "언제나 멀기만 했었던 신기루가 눈 앞에 있어 (여기 있어)",
+      "lyric_translation": "The mirage that always seemed so far away / is now before my eyes",
+      "parts": [
+        {"lyric": "Eonjena meolgiman haesseotteon", "range": [6.59, 8.41], "ans": [7]},
+        {"lyric": "Shingiruga nun ape isseo", "range": [8.41, 12.63], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a born singer, 어쩌면 이른 고백 (이른 고백)",
+      "lyric_translation": "I’m a born singer / Perhaps an early confession",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [12.63, 15.31], "ans": [6]},
+        {"lyric": "Eojjeomyeon ireun gobaek", "range": [14.73, 17.77], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "그래도 너무 행복해, I'm good, whoa, whoa, yeah, yeah, yeah (SUGA)",
+      "lyric_translation": "But I’m so happy / I’m good",
+      "parts": [
+        {"lyric": "Geuraedo neomu haengbokhae", "range": [17.77, 22.15], "ans": [6]},
+        {"lyric": "I’m good, yeah", "range": [22.15, 24.94], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "난생 처음 방탄이란 이름으로 선 무대",
+      "lyric_translation": "The very first stage we stood / under the name Bangtan",
+      "parts": [
+        {"lyric": "Nansaeng cheoeum bangtaniran", "range": [24.16, 26.1], "ans": [2]},
+        {"lyric": "Ireumeuro seon mudae", "range": [26.1, 27.36], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "삼년 전 첫 무대의 마음을 다시 검문해",
+      "lyric_translation": "I revisit how we felt about / our first stage 3 years ago",
+      "parts": [
+        {"lyric": "Samnyeon jeon cheot mudaeye", "range": [27.05, 28.85], "ans": [2]},
+        {"lyric": "Maeumeul dashi geommunhae", "range": [28.85, 30.47], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "여전히 대구 촌놈 랩퍼와 다를게 없었지",
+      "lyric_translation": "Still I’m nothing different / from a rural Daegu rapper but",
+      "parts": [
+        {"lyric": "Yeojeonhi daegu chonnom raeppeowa", "range": [30.03, 32.49], "ans": [2]},
+        {"lyric": "Dareulge eopseotji but", "range": [32.49, 33.71], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "But 아마추어란 단어 위에 프로란 단어를 덧 썼지",
+      "lyric_translation": "I wrote the word “pro” / on top of “amateur”",
+      "parts": [
+        {"lyric": "Amachueoran daneo wie", "range": [33.55, 35.63], "ans": [2]},
+        {"lyric": "Peuroran daneoreul deossseotji", "range": [35.63, 37.21], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "그토록 원하던 무대 랩을 하며 춤 출때",
+      "lyric_translation": "While rapping and dancing / on the stage I wanted so badly",
+      "parts": [
+        {"lyric": "Geutorok weonhadeon mudae,", "range": [36.84, 38.53], "ans": [2]},
+        {"lyric": "Raepeul hamyeo chumchul ttae", "range": [38.53, 40.11], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "아직 살아 있음을 느껴 피곤하고 고된 출퇴근",
+      "lyric_translation": "I feel yet alive, the tiresome trip / to work and back home",
+      "parts": [
+        {"lyric": "Ajik saraisseumeul neukkyeo", "range": [39.7, 41.72], "ans": [2]},
+        {"lyric": "Pigonhago godwen chultwegeun", "range": [41.72, 43.48], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "따위는 견딜만해, 내 사람들이 지켜보니까",
+      "lyric_translation": "I can withstand such troubles / because my people are watching me",
+      "parts": [
+        {"lyric": "Ttawineun gyeondilman hae", "range": [43.34, 44.89], "ans": [2]},
+        {"lyric": "Nae saramdeuri jikyeobonikka", "range": [44.89, 46.22], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "몸이 아파도 버틸만해, 함성들이 밀려 오니까",
+      "lyric_translation": "Because even if my body hurts, / the cheers come rolling in",
+      "parts": [
+        {"lyric": "Momi apado beotilman hae", "range": [46.19, 47.94], "ans": [2]},
+        {"lyric": "Hamseongdeuri millyeoonikka", "range": [47.94, 49.29], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "데뷔 전후의 차의점 아이돌과 랩퍼 사이 경계에",
+      "lyric_translation": "Before and after debut difference / lies on the boundary between idol and rapper",
+      "parts": [
+        {"lyric": "Debwi jeonhuye chaijeom", "range": [48.81, 50.91], "ans": [2]},
+        {"lyric": "Aidolgwa raeppeo sai gyeonggyee", "range": [50.91, 52.71], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "살아도 여전히 내 공책엔 라임이 차 있어",
+      "lyric_translation": "Living on, my notebook’s / still filled with rhymes",
+      "parts": [
+        {"lyric": "Sarado yeojeonhi", "range": [52.48, 53.8], "ans": [2]},
+        {"lyric": "Nae gongchaegen raimi chaisseo", "range": [53.8, 55.36], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "대기실과 무대 사이에선 펜을 들고 가사를 써",
+      "lyric_translation": "In the waiting room and between performances / I hold a pen and write the lyrics",
+      "parts": [
+        {"lyric": "Daegishilgwa mudae", "range": [55.05, 56.35], "ans": [2]},
+        {"lyric": "Saieseon peneul deulgo gasareul sseo", "range": [56.35, 58.55], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "이런 내가 니들 눈에는 뭐가 달라졌어?",
+      "lyric_translation": "This is how I am, / did something about me change before your eyes?",
+      "parts": [
+        {"lyric": "Ireon naega nideul", "range": [58.55, 59.69], "ans": [2]},
+        {"lyric": "Nuneneun mweoga dallajyeosseo?", "range": [59.69, 61.73], "ans": [2]}
+      ]
+    },
+    {"lyric": "Damn, shit nan yeojeonhae", "lyric_hangul": "Damn, shit, 난 여전해", "lyric_translation": "Damn, shit I’m still the same", "range": [61.73, 64.93], "ans": [2]},
+    {
+      "lyric_hangul": "내가 변했다고? (What?) 가서 전해",
+      "lyric_translation": "I changed, you say? / Go and tell them",
+      "parts": [
+        {"lyric": "Naega byeonhaettago?", "range": [64.93, 66.84], "ans": [2]},
+        {"lyric": "Gaseo jeonhae", "range": [66.84, 67.99], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "변함없이 본질을 지켜, I'm still rapper, man",
+      "lyric_translation": "Without change I keep my essence / I’m still rapperman",
+      "parts": [
+        {"lyric": "Byeonhameopshi bonjileul jigyeo", "range": [67.97, 69.66], "ans": [2]},
+        {"lyric": "I’m still rapperman", "range": [69.66, 70.85], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "삼년 전과 다름없이 랩하고 노래해, I'm out",
+      "lyric_translation": "Unchanging since 3 years ago / I rap and sing I’m out",
+      "parts": [
+        {"lyric": "Samnyeon jeongwa dareumeopshi", "range": [70.71, 72.31], "ans": [2]},
+        {"lyric": "Raephago noraehae (I’m out)", "range": [72.31, 73.89], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'm a born singer, 좀 늦어버린 고백, I swear",
+      "lyric_translation": "I’m a born singer / A little belated confession (I swear)",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [73.13, 75.57], "ans": [7]},
+        {"lyric": "Jom neujeobeorin gobaek (I swear)", "range": [75.57, 79.19], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "언제나 멀기만 했었던 신기루가 눈 앞에 있어 (여기 있어)",
+      "lyric_translation": "The mirage that always seemed so far away / is now before my eyes",
+      "parts": [
+        {"lyric": "Eonjena meolgiman haesseotteon", "range": [79.19, 81.25], "ans": [7]},
+        {"lyric": "Shingiruga nun ape isseo", "range": [81.25, 85.36], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a born singer, 어쩌면 이른 고백 (이른 고백)",
+      "lyric_translation": "I’m a born singer / Perhaps an early confession",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [85.36, 88.24], "ans": [1]},
+        {"lyric": "Eojjeomyeon ireun gobaek", "range": [87.68, 91.03], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "그래도 너무 행복해, I'm good, whoa, whoa, yeah, yeah, yeah",
+      "lyric_translation": "But I’m so happy / I’m good",
+      "parts": [
+        {"lyric": "Geuraedo neomu haengbokhae", "range": [90.39, 94.25], "ans": [1]},
+        {"lyric": "I’m good, yeah", "range": [94.25, 97.95], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "솔직해 두려웠었어 큰 소린 쳐놨는데 날 증명한다는 게",
+      "lyric_translation": "Truthfully, I was afraid, / I said I’d show them all but / I was afraid of proving myself",
+      "parts": [
+        {"lyric": "Soljikhi duryeoweosseosseo", "range": [97.08, 98.78], "ans": [4]},
+        {"lyric": "Keun sorin chyeonwanneunde", "range": [98.78, 99.88], "ans": [4]},
+        {"lyric": "Nal jeungmyeonghandaneunge", "range": [99.88, 101.08], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "펜과 책만 알던 애가 이제 세상을 놀래킨다는게",
+      "lyric_translation": "The fact that a kid who grew up on pens and books / is now surprising the world",
+      "parts": [
+        {"lyric": "Pengwa chaegman aldeon", "range": [100.59, 101.99], "ans": [4]},
+        {"lyric": "Naega ije sesangeul nollaekindaneunge", "range": [101.99, 104.0], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I don't know, 세상의 기대치와 너무 비대칭 할까봐 두려웠어",
+      "lyric_translation": "I dunno / I was afraid I’d stand asymmetrical",
+      "parts": [
+        {"lyric": "I dunno, sesange gidaechiwa", "range": [104.0, 106.02], "ans": [4]},
+        {"lyric": "Neomu bidaechinghalkkabwa", "range": [106.02, 107.92], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "나를 믿어줬던 모든 사람들을 배신하게 될까 봐",
+      "lyric_translation": "to the world’s expectations / In case I betray all those",
+      "parts": [
+        {"lyric": "Duryeoweosseo nareul mideojweotteon", "range": [107.4, 109.48], "ans": [4]},
+        {"lyric": "Modeun saramdeureul baeshin", "range": [109.48, 110.68], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "무건운 어께를 펴고 첫 무대에 올라 (올라)",
+      "lyric_translation": "who had faith in me / I straighten my heavy shoulders",
+      "parts": [
+        {"lyric": "Hage dwelkkabwa mugeoun eokkaereul", "range": [110.68, 112.05], "ans": [4]},
+        {"lyric": "Pyeogo cheot mudaee olla", "range": [112.05, 113.12], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "차나의 짧은 정적 숨을 골라",
+      "lyric_translation": "and go up on my first stage / During the brief static of the moment,",
+      "parts": [
+        {"lyric": "Challaye jjalpeun jeongjeok,", "range": [112.52, 114.86], "ans": [4]},
+        {"lyric": "Sumeul golla", "range": [114.86, 115.94], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "내가 지켜봤던 사람들이 이젠 날 지켜보고 있네",
+      "lyric_translation": "I steady my breath / People I’ve been watching",
+      "parts": [
+        {"lyric": "Naega jigyeobwatteon saramdeuri", "range": [115.58, 117.34], "ans": [4]},
+        {"lyric": "Ijen nal jigyeobogo inne", "range": [117.34, 119.1], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "항상 올려봤던 TV속 그들이 지금은 내 밑에",
+      "lyric_translation": "are now all watching me / Those I looked up to on TV,",
+      "parts": [
+        {"lyric": "Hangsang ollyeobwatteon TV sok", "range": [118.75, 120.65], "ans": [4]},
+        {"lyric": "Geudeuri jigeumeun nae mite", "range": [120.65, 122.21], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "Uh, 주마등처럼 스칠 틈도 없이 한 번뿐인 연극은 시작 돼버렸지",
+      "lyric_translation": "right now they’re beneath me / Like a kaleidoscope, the one chance act / without a moment to brush past had begun / 3 year’s battle with the mic doused",
+      "parts": [
+        {"lyric": "Jumadeungcheoreom seuchil teumdo eopshi", "range": [121.74, 123.54], "ans": [4]},
+        {"lyric": "Han beonppunin yeongeugeun shijakdwaebeoryeotji", "range": [123.54, 124.5], "ans": [4]},
+        {"lyric": "Sambun mane jeungbalhan", "range": [124.5, 124.96], "ans": [4]},
+        {"lyric": "Nae samnyeone pittam", "range": [124.96, 125.42], "ans": [4]}
+      ]
+    },
+    {"lyric": "Pi teojineun maikeuwaye gi ssaum", "lyric_hangul": "삼번 만에 증발한, 내 삼년의 피땀, 피 터지는 마이크와의 기 싸움", "lyric_translation": "in blood and sweat evaporates in 3 minutes", "range": [124.92, 128.62], "ans": [4]},
+    {
+      "lyric_hangul": "몇십초일 뿐이었지만 똑똑히 쏟아내, I'm f-king real",
+      "lyric_translation": "I was merely 0 seconds but I pour them out / clearly I’m fucking real",
+      "parts": [
+        {"lyric": "Myeotshipchoil ppunieotjiman", "range": [128.62, 130.5], "ans": [4]},
+        {"lyric": "Ttokttokhi ssodanae I’m fucking real", "range": [129.9, 131.83], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "야, 인마, 니 꿈은 뭐야? 나는 랩스타가 되는 거야, can't you feel?",
+      "lyric_translation": "“Hey, kid. What’s your dream?” / Mine is to become a rap star / can’t you feel",
+      "parts": [
+        {"lyric": "Yamma ni kkumeun mweoya", "range": [131.83, 132.73], "ans": [4]},
+        {"lyric": "Naneun raepseutaga dweneun geoya", "range": [132.73, 133.73], "ans": [4]},
+        {"lyric": "Can’t you feel", "range": [133.73, 134.73], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "그리고 내려온 순간, 그 함성, yeah, I could read your mind (uh, yeah)",
+      "lyric_translation": "And the moment it drops, those cheers / yeah I could read your mind",
+      "parts": [
+        {"lyric": "Geurigo naeryeoon sungan geu hamseong", "range": [134.73, 136.69], "ans": [4]},
+        {"lyric": "Yeah I could read your mind,", "range": [136.69, 138.32], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "I could read your mind, 물음표 내신 미소만 (uh, yeah)",
+      "lyric_translation": "I could read your mind / Just smiles instead of question mark",
+      "parts": [
+        {"lyric": "I could read your mind", "range": [137.84, 139.66], "ans": [4]},
+        {"lyric": "Mureumpyo daeshin misoman", "range": [139.2, 141.34], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "말없이 멤버들은 그저 내 어깨를 두드렸줬어",
+      "lyric_translation": "The members patted / my shoulder wordlessly",
+      "parts": [
+        {"lyric": "Mareopshi membeodeureun geujeo", "range": [140.34, 142.18], "ans": [4]},
+        {"lyric": "Nae eokkaereul dudeuryeojweosseo", "range": [142.18, 143.71], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "꼭 엊그제 같은데, 스무 밤이 흘러가 버렸어",
+      "lyric_translation": "It feels just like the day before yesterday / but 20 nights have passed already",
+      "parts": [
+        {"lyric": "Kkok eotgeuje gateunde", "range": [143.71, 145.02], "ans": [4]},
+        {"lyric": "Seumu bami heulleobeoryeosseo", "range": [145.02, 146.67], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "And let the haters hate on me, 걔네가 늘상 해온 일",
+      "lyric_translation": "And let the haters on me / It’s a day job they’ve always been at",
+      "parts": [
+        {"lyric": "And let the haters hate on me", "range": [146.49, 148.32], "ans": [4]},
+        {"lyric": "Gyaenega neulsang haeon il", "range": [148.32, 149.71], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "니네가 키보드 놀릴 동안 난 내 꿈들을 채웠지",
+      "lyric_translation": "While you were teasing the keyboard / I fulfilled my dreams",
+      "parts": [
+        {"lyric": "Ninega kibodeu nollil dongan", "range": [149.1, 151.2], "ans": [4]},
+        {"lyric": "Nan nae kkumdeureul chaeweotji", "range": [151.2, 152.74], "ans": [4]}
+      ]
+    },
+    {"lyric": "Seongeullaseu, hairstyle, wae yokhaneunji ara", "lyric_hangul": "썬글라스, hairstyle, 뭘 욕하는지 알아", "lyric_translation": "Sunglasses, hairstyle I know why you ridicule me", "range": [152.69, 155.68], "ans": [4]},
+    {
+      "lyric_hangul": "어쨌든 스무 살에 너보다 잘나가는 나야, 하하",
+      "lyric_translation": "In any case, it’s me who’s gone further / than you at age 20 / haha",
+      "parts": [
+        {"lyric": "Eojjaetteun seumusare neoboda", "range": [155.68, 156.98], "ans": [4]},
+        {"lyric": "Jal naganeun naya", "range": [156.98, 157.76], "ans": [4]},
+        {"lyric": "Haha", "range": [157.76, 158.26], "ans": [4]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "I'm a born singer, 좀 늦어버린 고백, I swear",
+      "lyric_translation": "I’m a born singer / A little belated confession (I swear)",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [158.02, 160.6], "ans": [6]},
+        {"lyric": "Jom neujeobeorin gobaek (I swear)", "range": [160.6, 163.94], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "언제나 멀기만 했었던 신기루가 눈 앞에 있어 (여기 있어)",
+      "lyric_translation": "The mirage that always seemed so far away / is now before my eyes",
+      "parts": [
+        {"lyric": "Eonjena meolgiman haesseotteon", "range": [163.94, 166.34], "ans": [6]},
+        {"lyric": "Shingiruga nun ape isseo", "range": [166.34, 170.38], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a born singer, 어쩌면 이른 고백 (이른 고백)",
+      "lyric_translation": "I’m a born singer / Perhaps an early confession",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [170.38, 173.32], "ans": [5]},
+        {"lyric": "Eojjeomyeon ireun gobaek", "range": [172.72, 175.49], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "그래도 너무 행복해, I'm good, whoa, whoa, yeah, yeah, yeah",
+      "lyric_translation": "But I’m so happy / I’m good",
+      "parts": [
+        {"lyric": "Geuraedo neomu haengbokhae", "range": [174.82, 178.83], "ans": [5]},
+        {"lyric": "I’m good, yeah", "range": [178.83, 183.24], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "우리가 뛰었던 날, 우리 같이 겪었던 날",
+      "lyric_translation": "The days we’ve run through, / the days we’ve experienced together",
+      "parts": [
+        {"lyric": "Uriga ttwieotteon nal,", "range": [182.79, 184.49], "ans": [3]},
+        {"lyric": "Uri gachi gyeokkeotteon nal", "range": [184.49, 185.86], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "삼년 이란 시간 모두 하나가 됐던 마음",
+      "lyric_translation": "How we became one mind / in 3 year’s time",
+      "parts": [
+        {"lyric": "Samnyeoniran shigan,", "range": [185.86, 187.02], "ans": [3]},
+        {"lyric": "Modu hanaga dwaetteon maeum", "range": [187.02, 188.86], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geureoke heullin pittami nal jeokshine", "lyric_hangul": "그렇게 흘린 피땀이 날 적시네 (적시네)", "lyric_translation": "I’m drenched with the blood and sweat I’ve spilled", "range": [188.55, 191.79], "ans": [3]},
+    {"lyric": "Mudaega kkeunnan dwi nunmuri beonjine", "lyric_hangul": "무대가 끝난 뒤 눈물이 번지네 (번지네)", "lyric_translation": "After the performance tears leak through", "range": [191.79, 194.05], "ans": [3]},
+    {
+      "lyric_hangul": "매순간 마다 자신에게 다짐해 초심을 잃지 않게",
+      "lyric_translation": "Every moment I make sure / not to lose my integrity",
+      "parts": [
+        {"lyric": "Mae sunganmada jashinege", "range": [194.05, 196.11], "ans": [3]},
+        {"lyric": "Dajimhae choshimeul ilchi anke", "range": [196.11, 197.89], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "한상 나답게 처음의 나에게 부끄럽지 않게",
+      "lyric_translation": "To always be myself, / so I don’t embarrass the me from the beginning",
+      "parts": [
+        {"lyric": "Hangsang nadapge,", "range": [197.63, 198.99], "ans": [3]},
+        {"lyric": "Cheoeume naege bukkeureopji anke", "range": [198.99, 200.85], "ans": [3]}
+      ]
+    },
+    {"lyric": "So we go we go we go", "lyric_hangul": "So we go, we go, we go", "lyric_translation": "So we go we go we go", "range": [200.84, 203.74], "ans": [3]},
+    {"lyric": "Deo wiro wiro wiro", "lyric_hangul": "더 위로, 위로, 위로", "lyric_translation": "Higher higher higher", "range": [203.74, 207.11], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "I'm a born singer, 좀 늦어버린 고백, I swear",
+      "lyric_translation": "I’m a born singer / A little belated confession (I swear)",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [207.11, 209.23], "ans": []},
+        {"lyric": "Jom neujeobeorin gobaek (I swear)", "range": [209.23, 213.04], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "언제나 멀기만 했었던 신기루가 눈 앞에 있어 (여기 있어)",
+      "lyric_translation": "The mirage that always seemed so far away / is now before my eyes",
+      "parts": [
+        {"lyric": "Eonjena meolgiman haesseotteon", "range": [213.04, 214.94], "ans": []},
+        {"lyric": "Shingiruga nun ape isseo", "range": [214.94, 219.76], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "I'm a born singer, 어쩌면 이른 고백 (이른 고백)",
+      "lyric_translation": "I’m a born singer / Perhaps an early confession",
+      "parts": [
+        {"lyric": "I’m a born singer", "range": [219.3, 221.92], "ans": []},
+        {"lyric": "Eojjeomyeon ireun gobaek", "range": [221.32, 224.09], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "그래도 너무 행복해, I'm good, whoa, whoa, yeah, yeah, yeah",
+      "lyric_translation": "But I’m so happy / I’m good",
+      "parts": [
+        {"lyric": "Geuraedo neomu haengbokhae", "range": [223.98, 227.53], "ans": []},
+        {"lyric": "I’m good, yeah", "range": [227.53, 233.68], "ans": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "name": "BTS Cypher PT.3: KILLER (ft. Supreme Boi)\r",
+  "ogg": "sound/kpop/bts_cypher_pt3_killer.ogg",
+  "id": "bts-cypher-pt3-killer",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/bts-cypher-pt3-killer.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:32Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "What you gonna do? (Kill 'em, kill 'em, kill 'em)", "lyric_hangul": "What you gonna do? (Kill 'em, kill 'em, kill 'em)", "lyric_translation": "", "range": [14.45, 17.07], "ans": []},
+    {"lyric": "Niga mueoseul hadeun I will kill for", "lyric_hangul": "네가 무엇을 하든, I will kill for", "lyric_translation": "Whatever you do, I will kill for", "range": [17.07, 20.83], "ans": []},
+    {"lyric": "Naega mueoseul hadeun I’ll be real for", "lyric_hangul": "내가 무엇을 하든, I'll be real for", "lyric_translation": "Whatever I do, I’ll be real for", "range": [20.83, 24.55], "ans": []},
+    {
+      "lyric_hangul": "똑바로 봐, 이게 바로 네가 바 바란 beast mode",
+      "lyric_translation": "Look carefully, / this is what you wanted, the beast mode",
+      "parts": [
+        {"lyric": "Ttokbaro bwa", "range": [24.55, 25.35], "ans": []},
+        {"lyric": "Ige baro niga ba baran beast mode", "range": [25.35, 27.22], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "남자는 담배, 여자는 바람 필 때",
+      "lyric_translation": "When guys are smoking / and girls are cheating",
+      "parts": [
+        {"lyric": "Namjaneun dambae,", "range": [27.22, 28.35], "ans": []},
+        {"lyric": "Yeojaneun baram pil ttae", "range": [28.35, 29.15], "ans": []}
+      ]
+    },
+    {"lyric": "I smoke beat this a beat smoke", "lyric_hangul": "I smoke beat, this a beat smoke", "lyric_translation": "I smoke beat this a beat smoke", "range": [28.75, 30.8], "ans": []},
+    {"lyric": "Who the man told you crazy", "lyric_hangul": "Who the man told you crazy? (Crazy)", "lyric_translation": "Who the man told you crazy", "range": [30.8, 32.48], "ans": []},
+    {"lyric": "Who the fella told you crazy", "lyric_hangul": "Who the fella told you crazy?", "lyric_translation": "who the fella told you crazy", "range": [32.48, 33.6], "ans": []},
+    {"lyric": "I’m better than ya lazy", "lyric_hangul": "I'm better than ya, lazy", "lyric_translation": "I’m better than ya lazy", "range": [33.6, 34.44], "ans": []},
+    {
+      "lyric_hangul": "키보드로 힙합 하는 놈들보다 백 배는 열심히 살지",
+      "lyric_translation": "I work a hundred times harder than / the bastards who do hiphop with keyboards",
+      "parts": [
+        {"lyric": "Kibodeuro hiphap haneun nomdeulboda", "range": [34.44, 35.92], "ans": []},
+        {"lyric": "Baek baeneun yeolsimhi salji", "range": [35.92, 37.12], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "랩은 만만한, genre too many generals",
+      "lyric_translation": "Rap is an easy genre to them, / too many generals",
+      "parts": [
+        {"lyric": "Raeb=manmanhan genre,", "range": [37.12, 37.82], "ans": []},
+        {"lyric": "Too many generals", "range": [37.82, 38.8], "ans": []}
+      ]
+    },
+    {"lyric": "Eojungitteojungideura da gatchwora maeneoreul", "lyric_hangul": "어중이떠중이들아 다 갖춰라 매너를", "lyric_translation": "All you anyones and everyones, have some manners", "range": [38.8, 40.14], "ans": []},
+    {"lyric": "Museun beolseu hanado jedaero mot kkeureoganeun", "lyric_hangul": "무슨 벌스 하나도 제대로 못 끌어가는 놈들이", "lyric_translation": "Bastards who can’t even give a single verse properly", "range": [40.14, 41.98], "ans": []},
+    {"lyric": "Nomdeuri raebina eumageul nonharyeo hanideul", "lyric_hangul": "랩이나 음악을 논하려 하니들", "lyric_translation": "They try to discuss rap and music", "range": [41.98, 43.86], "ans": []},
+    {"lyric": "Geuraeseo yeogineun jigeumdo ttokgachi", "lyric_hangul": "그래서, 여기는 지금도", "lyric_translation": "That’s why everyone raps", "range": [43.86, 45.24], "ans": []},
+    {"lyric": "Jeonbu da ireoke raebeul haji", "lyric_hangul": "똑같이 전부 다 이렇게 랩을 하지 (ah, yeah)", "lyric_translation": "the same way here", "range": [45.24, 46.72], "ans": []},
+    {"lyric": "Se geulja animyeon du geuljassikbakke", "lyric_hangul": "세 글자 아니면 두 글자씩밖에", "lyric_translation": "Only saying three or two words at a time", "range": [46.72, 49.2], "ans": []},
+    {
+      "lyric_hangul": "못 말해, 다 중환자지, motherfather",
+      "lyric_translation": "like some hospital patient / Motherfather verbal apoplexy patients",
+      "parts": [
+        {"lyric": "Mot malhae da junghwanjaji", "range": [49.2, 50.77], "ans": []},
+        {"lyric": "Motherfather sireojeung hwanjadeul,", "range": [50.77, 51.23], "ans": []}
+      ]
+    },
+    {"lyric": "Jeonbu sajjadeul", "lyric_hangul": "실어증 환자들 전부 사짜들 (yeah, yeah)", "lyric_translation": "They’re all fakes,", "range": [51.23, 52.58], "ans": []},
+    {"lyric": "Back yourself and look at the mirror", "lyric_hangul": "Back yourself and look at the mirror", "lyric_translation": "back yourself and look at the mirror", "range": [52.58, 54.11], "ans": []},
+    {"lyric": "Gajyeoollamyeon", "lyric_hangul": "가져올라면 독창적으로", "lyric_translation": "If you wanna bring some,", "range": [54.11, 55.94], "ans": []},
+    {
+      "lyric_hangul": "좀 해봐 뭐, suckas, 성의들이 zero",
+      "lyric_translation": "bring it originally suckas, / you have zero sincerity",
+      "parts": [
+        {"lyric": "Dokchangjeogeuro jom haebwa mwo suckas", "range": [55.94, 57.28], "ans": []},
+        {"lyric": "Seonguideuri zero", "range": [57.28, 57.88], "ans": []}
+      ]
+    },
+    {"lyric": "I go by the name of monster", "lyric_hangul": "I go by the name of Monster", "lyric_translation": "I go by the name of monster", "range": [57.29, 59.13], "ans": []},
+    {"lyric": "Welcome to the monster plaza", "lyric_hangul": "Welcome to the Monster Plaza", "lyric_translation": "Welcome to the monster plaza", "range": [59.13, 61.29], "ans": []},
+    {"lyric": "This a cypher im a rider", "lyric_hangul": "This a cypher, I'm a rider", "lyric_translation": "This a cypher im a rider", "range": [61.29, 62.25], "ans": []},
+    {"lyric": "Imma ride it like a biker", "lyric_hangul": "I'ma ride it like a biker", "lyric_translation": "imma ride it like a biker", "range": [62.25, 64.56], "ans": []},
+    {"lyric": "Oh swit geokkuro dollyeobwa beat", "lyric_hangul": "Oh, 쉿, 거꾸로 돌려봐 beat", "lyric_translation": "Oh shit turn the beat backwards", "range": [64.56, 66.01], "ans": []},
+    {"lyric": "Neon hasugu nan gusuhaji", "lyric_hangul": "넌 하수구 난 구수하지", "lyric_translation": "You’re like a sewer and I’m savory 1", "range": [66.01, 67.77], "ans": []},
+    {"lyric": "Sillyeogi paeopjungin aedeuri", "lyric_hangul": "실력이 파업 중인 애들이", "lyric_translation": "Kids whose skills have gone on strike", "range": [67.77, 69.27], "ans": []},
+    {"lyric": "Nae dwieseo siwineun geomna haji", "lyric_hangul": "내 뒤에서 시위는 겁나 하지", "lyric_translation": "They go on protests behind my back", "range": [69.27, 71.08], "ans": []},
+    {"lyric": "Man what you afraid of", "lyric_hangul": "Man, what you afraid of?", "lyric_translation": "Man what you afraid of,", "range": [71.08, 72.71], "ans": []},
+    {"lyric": "Nan biteu wieseo dangdanghae", "lyric_hangul": "난 비트 위에서 당당해", "lyric_translation": "I’m confident when I’m on the beat", "range": [72.71, 74.31], "ans": []},
+    {"lyric": "Neon geojin da", "lyric_hangul": "넌 거진 다 주머니와", "lyric_translation": "Like a beggar,", "range": [74.31, 75.92], "ans": []},
+    {
+      "lyric_hangul": "없는 실력까지 가난해",
+      "lyric_translation": "you have no skills in your pockets, / so poor",
+      "parts": [
+        {"lyric": "Jumeoniwa eomneun sillyeokkkaji", "range": [75.92, 77.3], "ans": []},
+        {"lyric": "Gananhae", "range": [77.3, 78.08], "ans": []}
+      ]
+    },
+    {"lyric": "I don’t need GIVENCHY, cuz im a star", "lyric_hangul": "I don't need Givenchy 'cause I'm a star", "lyric_translation": "I don’t need GIVENCHY, cuz im a star", "range": [77.49, 79.73], "ans": []},
+    {"lyric": "I don’t need HUGO, already a boss", "lyric_hangul": "I don't need Hugo, already a boss", "lyric_translation": "I don’t need HUGO, already a boss", "range": [79.73, 81.26], "ans": []},
+    {"lyric": "Nan anya bucheo, but im a butcher", "lyric_hangul": "난 아냐 부처, but I'm a butcher", "lyric_translation": "I’m not Buddha but I’m a butcher,", "range": [81.26, 82.99], "ans": []},
+    {"lyric": "Ni sareul kkakkabeoryeo like a", "lyric_hangul": "니 살을 깎아버려 like a", "lyric_translation": "I’ll cut away your skin like a", "range": [82.99, 84.85], "ans": []},
+    {"lyric": "Bakkwora ni iphone,", "lyric_hangul": "바바바바꿔라 니 iPhone", "lyric_translation": "Change your iPhone,", "range": [84.85, 86.7], "ans": []},
+    {"lyric": "You dont need your airplane mode", "lyric_hangul": "You don't need your airplane mode", "lyric_translation": "you dont need your airplane mode", "range": [86.7, 88.51], "ans": []},
+    {"lyric": "Nan roming yogeumman myeotsip don,", "lyric_hangul": "난 로밍 요금만 몇십 돈", "lyric_translation": "My roaming charges are hundreds", "range": [88.51, 90.34], "ans": []},
+    {"lyric": "And you know I can take it more", "lyric_hangul": "And you know I can take it more", "lyric_translation": "and you know I can take it more", "range": [90.34, 91.9], "ans": []},
+    {"lyric": "Don beoreora dollo, pareo dorina dolparideul", "lyric_hangul": "돈 벌어라 돌로 팔어 돌이나 돌팔이들", "lyric_translation": "Make money from rocks, sell rocks, you rock cobblers", "range": [91.9, 95.33], "ans": []},
+    {"lyric": "San paulo to Stockholm", "lyric_hangul": "San Paulo to Stockholm", "lyric_translation": "San paulo to Stockholm,", "range": [95.33, 97.01], "ans": []},
+    {
+      "lyric_hangul": "니넨 평생 못 앉을 자리들, I sit",
+      "lyric_translation": "seats that you all can never sit on in your lifetime / I sit",
+      "parts": [
+        {"lyric": "Ninen pyeongsaeng mot anjeul jarideul", "range": [97.01, 99.16], "ans": []},
+        {"lyric": "I sit", "range": [99.16, 99.54], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hater, 들은 많지, but no problem, I kill",
+      "lyric_translation": "So many haters / But no problem, I kill",
+      "parts": [
+        {"lyric": "Haterdeureun manchi", "range": [99.2, 100.06], "ans": []},
+        {"lyric": "But no problem, I kill", "range": [100.06, 102.26], "ans": []}
+      ]
+    },
+    {"lyric": "Nal mutgi wihae nae keorieoeda padaeneun sapjil", "lyric_hangul": "날 묻기 위해 내 커리어에다 파대는 삽질", "lyric_translation": "They try to chip away my career to bury me", "range": [102.24, 106.07], "ans": []},
+    {
+      "lyric_hangul": "But I don't care, you can't control my 쉿",
+      "lyric_translation": "But I don’t care / You can’t control my shit",
+      "parts": [
+        {"lyric": "But I don’t care", "range": [106.07, 108.47], "ans": []},
+        {"lyric": "You can’t control my swit", "range": [108.47, 109.34], "ans": []}
+      ]
+    },
+    {"lyric": "Bulsineul chamanaen ninjaga dwae dasi dorawatji", "lyric_hangul": "불신을 참아낸 닌자가 돼 다시 돌아왔지 (whoo)", "lyric_translation": "I became a ninja who overcame disbelief and returned", "range": [109.34, 113.06], "ans": []},
+    "",
+    {"lyric": "I ne beonjjae aelbeom jeonggyuui gwanjeom Cypher", "lyric_hangul": "이 네 번째 앨범 정규의 관점 cypher (whoo)", "lyric_translation": "The official standpoint of this fourth album is Cypher", "range": [113.06, 116.35], "ans": []},
+    {"lyric": "I teuraegi naomyeon Haterdeul wanjeon amjeon", "lyric_hangul": "이 트랙이 나오면 hater 들 완전 암전 (whoo)", "lyric_translation": "When this track comes out, haters will fall silent", "range": [116.35, 119.83], "ans": []},
+    {"lyric": "Bulbeobin i ssine i gogeun hapbeop, hamjeong", "lyric_hangul": "불법인 이 씬에 이 곡은 합법 함정 (whoo)", "lyric_translation": "In this illegal scene, this track is the law", "range": [119.83, 123.22], "ans": []},
+    {
+      "lyric_hangul": "다 빠지겠지 매일 다들, hang, hang, over bang",
+      "lyric_translation": "Everyone will fall into the rap, / every day, they hang hang over bang",
+      "parts": [
+        {"lyric": "Da ppajigetji", "range": [123.22, 124.58], "ans": [3]},
+        {"lyric": "Maeil dadeul Hang hang over bang", "range": [124.58, 126.72], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "터져 나와 swag, 어딜 가든 직진",
+      "lyric_translation": "My swag explodes, / wherever I go, I’ll go forward",
+      "parts": [
+        {"lyric": "Teojyeo nawa Swag,", "range": [126.72, 127.52], "ans": [3]},
+        {"lyric": "Eodil gadeun jikjin", "range": [127.52, 129.8], "ans": [3]}
+      ]
+    },
+    {"lyric": "Tto eodil gadeun itji modeun hipjjijiri hipjjil", "lyric_hangul": "또 어딜 가든 있지 모든 힙찌질이 힙찔 (do it)", "lyric_translation": "Wherever I go, there are hip-hop losers", "range": [129.78, 133.34], "ans": [3]},
+    {
+      "lyric_hangul": "비례적인 위치, 날 욕하기엔 busy",
+      "lyric_translation": "I’m too busy for them / to compare me and talk smack about me",
+      "parts": [
+        {"lyric": "Biryejeogin wichi", "range": [133.34, 135.32], "ans": [3]},
+        {"lyric": "Nal yokhagien Busy", "range": [135.32, 136.75], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "But 난 입질 왔담 삐끼, 모든 언니스 call me 삐삐",
+      "lyric_translation": "But I’m getting a bite, / all the touting girls call me Pippi",
+      "parts": [
+        {"lyric": "But nan ipjil watdam ppikki", "range": [136.75, 138.69], "ans": [3]},
+        {"lyric": "Modeun eonnis call me ppippi", "range": [138.69, 141.67], "ans": [3]}
+      ]
+    },
+    {"lyric": "Nuga nal bogo yokhago geurae", "lyric_hangul": "누가 날 보고 욕하고 그래", "lyric_translation": "Who is talking smack about me?", "range": [141.67, 143.15], "ans": [3]},
+    {"lyric": "Ni sanghwangina bogoseo orago geurae", "lyric_hangul": "네 상황이나 보고서 오라고 그래", "lyric_translation": "Tell them to look at their own situation before doing that", "range": [143.15, 144.51], "ans": [3]},
+    {"lyric": "Nan nambureoul ge eobseo da borago geurae", "lyric_hangul": "난 남부러울 게 없어, 다 보라고 그래", "lyric_translation": "I have nothing to be jealous of, tell them to look at me", "range": [144.51, 146.66], "ans": [3]},
+    {"lyric": "Oh nan biteu biteu wi", "lyric_hangul": "Oh, 난 비트 비트 위, wiggle wiggling", "lyric_translation": "Oh I’m on the beat,", "range": [146.66, 148.13], "ans": [3]},
+    {
+      "lyric_hangul": "Jingle jingling, 뒹굴 뒹굴지, 비글 비글짓",
+      "lyric_translation": "wiggle wiggling jingle jingling / Rolling around, beagle beagling",
+      "parts": [
+        {"lyric": "Wiggle wiggling jingle jingling", "range": [148.13, 149.59], "ans": [3]},
+        {"lyric": "Dwinggul dwinggulji, bigeul bigeuljit", "range": [149.59, 150.57], "ans": [3]}
+      ]
+    },
+    {"lyric": "Tto igeurigeul him,", "lyric_hangul": "또 이글이글 힘, 지금, 지금 링", "lyric_translation": "With burning power,", "range": [150.18, 151.44], "ans": [3]},
+    {
+      "lyric_hangul": "위를 위를 지배를 하는 신 이름 오를 킹",
+      "lyric_translation": "I’m the god who controls this ring, / an ascending king",
+      "parts": [
+        {"lyric": "Jigeum jigeum ring wireul wireul jibaereul haneun sin", "range": [151.44, 153.61], "ans": [3]},
+        {"lyric": "Ireum oreul king", "range": [153.61, 155.15], "ans": [3]}
+      ]
+    },
+    {"lyric": "Igeon matbogiil ppun ajigeun gansik", "lyric_hangul": "이건 맛보기일 뿐 아직은 간식", "lyric_translation": "This is just a taste, it’s just the appetizer", "range": [155.15, 158.58], "ans": [3]},
+    {"lyric": "Nae raebeun got ni baereul chaeuneun hansik", "lyric_hangul": "내 랩은 곧 네 배를 채우는 한식", "lyric_translation": "My rap is like the Korean meal that fills your stomach", "range": [158.58, 161.34], "ans": [3]},
+    {
+      "lyric_hangul": "그래, 내 나라 한국 어설픈 영어 지껄이는",
+      "lyric_translation": "Yeah, I’m from Korea / so all you bastards who try to",
+      "parts": [
+        {"lyric": "Geurae nae nara hanguk", "range": [161.34, 162.92], "ans": [3]},
+        {"lyric": "Eoseolpeun yeongeo jikkeorineun", "range": [162.92, 164.35], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "랩 만식이들 다 봐라, 지금 누가 네 위에 있는지, what",
+      "lyric_translation": "rap in English / Look and see who’s on top of you right now, what",
+      "parts": [
+        {"lyric": "Raep mansigideul da bwara", "range": [164.35, 165.87], "ans": [3]},
+        {"lyric": "Jigeum nuga ni wie inneunji What", "range": [165.87, 168.43], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Hater 들은 많지, but no problem, I kill",
+      "lyric_translation": "So many haters / But no problem, I kill",
+      "parts": [
+        {"lyric": "Haterdeureun manchi", "range": [167.95, 168.63], "ans": []},
+        {"lyric": "But no problem, I kill", "range": [168.63, 170.83], "ans": []}
+      ]
+    },
+    {"lyric": "Nal mutgi wihae nae keorieoeda padaeneun sapjil", "lyric_hangul": "날 묻기 위해 내 커리어에다 파대는 삽질", "lyric_translation": "They try to chip away my career to bury me", "range": [170.65, 174.68], "ans": []},
+    {
+      "lyric_hangul": "But I don't care, you can't control my 쉿",
+      "lyric_translation": "But I don’t care / You can’t control my shit",
+      "parts": [
+        {"lyric": "But I don’t care", "range": [174.68, 177.04], "ans": []},
+        {"lyric": "You can’t control my swit", "range": [177.04, 178.03], "ans": []}
+      ]
+    },
+    {"lyric": "Bulsineul chamanaen ninjaga dwae dasi dorawatji", "lyric_hangul": "불신을 참아낸 닌자가 돼 다시 돌아왔지 (SUGA)", "lyric_translation": "I became a ninja who overcame disbelief and returned", "range": [178.03, 180.95], "ans": []},
+    "",
+    {"lyric": "SUGA a.k.a Agust D du beonjjae ireum", "lyric_hangul": "S-U-G-A a.k.a. Agust D 두 번째 이름", "lyric_translation": "SUGA a.k.a Agust D is my second name", "range": [180.95, 184.93], "ans": [2]},
+    {"lyric": "Gilgeorireul georeo danimyeon sugundae nae ireum", "lyric_hangul": "길거리를 걸어 다니면 수군대 내 이름", "lyric_translation": "When I’m walking on the street, people whisper my name", "range": [184.93, 188.62], "ans": [2]},
+    {"lyric": "Daegueseobuteo apgujeongkkaji kkara noheun nae biteu", "lyric_hangul": "대구에서부터 압구정까지 깔아 놓은 내 비트", "lyric_translation": "My beat spreads from Daegu to Apgujung", "range": [188.62, 191.35], "ans": [2]},
+    {
+      "lyric_hangul": "전 세계 사방 곳곳 살아 숨쉬는 내 음악들의 생기 (whoo)",
+      "lyric_translation": "The life of my music lives and breathes / all over the world",
+      "parts": [
+        {"lyric": "Jeon segye sabang gotgot sara sumswineun", "range": [191.35, 193.83], "ans": [2]},
+        {"lyric": "Nae eumakdeurui saenggi", "range": [193.83, 195.2], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "나는 비트란 작두를 타는 애기 무당, that's me",
+      "lyric_translation": "Riding the haycutter that is my beat, / I’m a baby shaman, that’s me",
+      "parts": [
+        {"lyric": "Naneun biteuran jakdureul taneun", "range": [194.87, 197.37], "ans": [2]},
+        {"lyric": "Aegi mudang, that’s me", "range": [197.37, 198.31], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "티비속에 비치는 모습 반은 카게무샤인 건 아니",
+      "lyric_translation": "Did you know that half the things / you see on TV are Kagemusha?",
+      "parts": [
+        {"lyric": "TVsoge bichineun moseup baneun", "range": [198.19, 200.26], "ans": [2]},
+        {"lyric": "Kagemusyain geon ani", "range": [200.26, 201.92], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "너의 세치 혀로 객기 부려봤자 그건 rapping",
+      "lyric_translation": "You can try to make rash sounds with your bird tongue / But that’s just you trying to pass it off as rapping",
+      "parts": [
+        {"lyric": "Neoui sechi hyeoro gaekgi buryeobwatja", "range": [201.85, 203.75], "ans": [2]},
+        {"lyric": "Geugeon rapping hogaek haengwi", "range": [203.75, 204.31], "ans": [2]}
+      ]
+    },
+    {"lyric": "Nompaengideurui ppaengkkireul hyanghae ttaerineun", "lyric_hangul": "호객 행위 놈팽이들의 뺑끼를", "lyric_translation": "The fighting spirit of my heavy king-like rap", "range": [203.7, 205.56], "ans": [2]},
+    {"lyric": "Mukjikhan nae paewangnaebui paegi", "lyric_hangul": "향해 때리는 묵직한 내 패왕랩의 패기", "lyric_translation": "hits all the bums that play around", "range": [205.56, 208.61], "ans": [2]},
+    {"lyric": "Geonbang tteoneun rapper deutbojapdeureul jabada", "lyric_hangul": "건방 떠는 rapper 듣보잡들을 잡아다", "lyric_translation": "My flow job catches all the noname rappers", "range": [208.61, 212.6], "ans": [2]},
+    {"lyric": "Nongnaksikyeobeorineun nae flow job, gojak", "lyric_hangul": "농락시켜버리는 내 flow job", "lyric_translation": "who think they’re all that and cajoles them", "range": [212.6, 214.84], "ans": [2]},
+    {
+      "lyric_hangul": "고작 그 따위 말로 날 극딜해봤자, 난 더 강해져",
+      "lyric_translation": "You can try to get to me with those little words / but I’ll just become stronger, it’s a wonder",
+      "parts": [
+        {"lyric": "Geu ttawi mallo nal geukdilhaebwatja", "range": [214.84, 216.78], "ans": [2]},
+        {"lyric": "Nan deo ganghaejyeo bulgasaui", "range": [216.78, 218.69], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "불가사의 난 니들의 시기 질투를 먹고 자라는 불가사리",
+      "lyric_translation": "I’m a starfish that eats and grows on / your jealousy and envy",
+      "parts": [
+        {"lyric": "Nan nideurui sigi jiltureul", "range": [218.69, 220.55], "ans": [2]},
+        {"lyric": "Meokgo jaraneun bulgasari", "range": [220.55, 222.55], "ans": [2]}
+      ]
+    },
+    {"lyric": "Aldasipi nae moksorin jom kkollim", "lyric_hangul": "알다시피 내 목소린 좀 꼴림", "lyric_translation": "As you know, my voice will turn you on", "range": [221.87, 224.73], "ans": [2]},
+    {
+      "lyric_hangul": "남자든 여자든 랩으로 홍콩을 보내는 유연한 내 혀놀림",
+      "lyric_translation": "Whether it’s a guy or girl, / my tongue will make you come",
+      "parts": [
+        {"lyric": "Namjadeun yeojadeun raebeuro hongkongeul", "range": [224.73, 227.51], "ans": [2]},
+        {"lyric": "Bonaeneun yuyeonhan nae hyeonollim", "range": [227.51, 229.35], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "이 먹이사슬 위 난 항상 정상 위의",
+      "lyric_translation": "On this food chain, / I’m always on the top of the top",
+      "parts": [
+        {"lyric": "I meogisaseul wi", "range": [228.83, 230.69], "ans": [2]},
+        {"lyric": "Nan hangsang jeongsang wiui jeongsang choesangwi", "range": [230.69, 233.13], "ans": [2]}
+      ]
+    },
+    {"lyric": "Meomchuji annneun ttolkki", "lyric_hangul": "정상 최상위 멈추지 않는 똘끼, whoa", "lyric_translation": "My craziness won’t stop", "range": [233.13, 235.87], "ans": [2]},
+    {"lyric": "Nuga nae dwieseo nareul yeotmaegideun", "lyric_hangul": "누가 내 뒤에서 나를 엿맥이든", "lyric_translation": "Even if someone betrays me from behind", "range": [235.87, 237.75], "ans": [2]},
+    {"lyric": "Nideuri chyeonol ttae urin segyeilju", "lyric_hangul": "니들이 쳐놀 때 우린 세계일주", "lyric_translation": "When you all are playing, we’re heading toward the world", "range": [237.75, 239.37], "ans": [2]},
+    {"lyric": "Naireul heoturu chyeomeogeun haengnimdeul", "lyric_hangul": "나이를 허투루 쳐먹은 행님들", "lyric_translation": "All you older hyungs who are getting older by the day", "range": [239.37, 241.12], "ans": [2]},
+    {"lyric": "Nae gijuneseoneun neodo aegi sujun", "lyric_hangul": "내 기준에서는 너도 애기 수준", "lyric_translation": "In my standards, you all are like babies", "range": [241.12, 243.0], "ans": [2]},
+    {"lyric": "Naega mwo wackideun naega mwo fakeideun", "lyric_hangul": "내가 뭐 wack, 이든 내가 뭐 fake", "lyric_translation": "Whether you call me wack or fake", "range": [243.0, 244.21], "ans": [2]},
+    {"lyric": "Eojjaetdeun jeojjaetdeun gayogye sae gijun", "lyric_hangul": "이든 어쨌든 저쨌든 가요계 새 기준", "lyric_translation": "Whatever it is, I’m a new standard to kpop", "range": [244.21, 246.16], "ans": [2]},
+    {"lyric": "I raebeun kkondae gwittaegie", "lyric_hangul": "이 랩은 꼰대 귀때기에 쌔리는", "lyric_translation": "This rap will cut through your ears", "range": [246.16, 248.26], "ans": [2]},
+    {
+      "lyric_hangul": "폭풍 귀싸대기, chop, chop, chop",
+      "lyric_translation": "A slap to your ears like a storm, / chop chop chop",
+      "parts": [
+        {"lyric": "Ssaerineun pokpung gwissadaegi", "range": [248.26, 249.88], "ans": [2]},
+        {"lyric": "Chop chop chop", "range": [249.7, 250.22], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Hater 들은 많지, but no problem, I kill",
+      "lyric_translation": "So many haters / But no problem, I kill",
+      "parts": [
+        {"lyric": "Haterdeureun manchi", "range": [249.67, 250.93], "ans": []},
+        {"lyric": "But no problem, I kill", "range": [250.93, 253.09], "ans": []}
+      ]
+    },
+    {"lyric": "Nal mutgi wihae nae keorieoeda padaeneun sapjil", "lyric_hangul": "날 묻기 위해 내 커리어에다 파대는 삽질", "lyric_translation": "They try to chip away my career to bury me", "range": [252.95, 256.98], "ans": []},
+    {
+      "lyric_hangul": "But I don't care, you can't control my 쉿",
+      "lyric_translation": "But I don’t care / You can’t control my shit",
+      "parts": [
+        {"lyric": "But I don’t care", "range": [256.98, 259.32], "ans": []},
+        {"lyric": "You can’t control my swit", "range": [259.32, 260.05], "ans": []}
+      ]
+    },
+    {"lyric": "Bulsineul chamanaen ninjaga dwae dasi dorawatji", "lyric_hangul": "불신을 참아낸 닌자가 돼 다시 돌아왔지 (whoo)", "lyric_translation": "I became a ninja who overcame disbelief and returned", "range": [260.05, 265.87], "ans": []}
+  ]
+}

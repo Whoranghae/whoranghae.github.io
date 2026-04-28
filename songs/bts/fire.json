@@ -1,0 +1,196 @@
+{
+  "name": "FIRE (불타오르네)\r",
+  "ogg": "sound/kpop/fire.ogg",
+  "id": "fire",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-05-02",
+  "album": "화양연화 Young Forever",
+  "cover": "css/images/covers/fire.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:46Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Bultaoreune", "lyric_hangul": "불타오르네", "lyric_translation": "It’s on fire", "range": [8.18, 9.51], "ans": [2]},
+    {"lyric": "Fire (oh)", "lyric_hangul": "Fire (oh)", "lyric_translation": "", "range": [9.51, 14.26], "ans": []},
+    {"lyric": "Fire (eh-oh, eh-oh)", "lyric_hangul": "Fire (eh-oh, eh-oh)", "lyric_translation": "", "range": [14.26, 19.25], "ans": []},
+    "",
+    {"lyric": "Fire Fire Fire Fire", "lyric_hangul": "Fire (oh) Fire (eh-oh, eh-oh) Fire (oh) Fire (eh-oh, eh-oh)", "lyric_translation": "Fire Fire Fire Fire", "range": [9.51, 27.64], "ans": []},
+    {"lyric": "When I wake up in my room nan mwotdo eoptji", "lyric_hangul": "When I wake up in my room (room) 난 뭣도 없지 (뭣도 없지)", "lyric_translation": "When I wake up in my room, I have nothing", "range": [27.64, 32.67], "ans": [3]},
+    {"lyric": "Haega jigo nan hu biteuldaemyeo geotji", "lyric_hangul": "해가 지고 난 후 (후) 비틀대며 걷지 (비틀대며 걷지)", "lyric_translation": "After the sun sets, I sway as I walk", "range": [32.67, 36.96], "ans": [3]},
+    {"lyric": "Da mansinchangiro chwihaesseo chwihaesseo", "lyric_hangul": "다 만신창이로 취했어, 취했어", "lyric_translation": "I’m completely drunk, drunk", "range": [36.96, 40.1], "ans": [2]},
+    {"lyric": "Mak yokhae gireseo gireseo", "lyric_hangul": "막 욕해 길에서, 길에서", "lyric_translation": "I’m swearing on the streets", "range": [40.1, 42.17], "ans": [2]},
+    {"lyric": "Na masi gatji michinnom gatji", "lyric_hangul": "나 맛이 갔지 미친놈 같지", "lyric_translation": "I’ve lost it, I’m like a crazy guy", "range": [42.17, 44.93], "ans": [2]},
+    {"lyric": "Da eongmangjinchang, livin’ like ppi-i-", "lyric_hangul": "다 엉망진창 livin' like 삐이", "lyric_translation": "Everything’s a mess, livin’ like", "range": [44.93, 47.3], "ans": [2]},
+    "",
+    {"lyric": "Ni meotdaero sareo eochapi ni kkeoya", "lyric_hangul": "니 멋대로 살어, 어차피 니 꺼야", "lyric_translation": "Live however you want, it’s yours anyway", "range": [47.3, 51.87], "ans": [7]},
+    {"lyric": "Aesseuji jom mareo jyeodo gwaenchanha", "lyric_hangul": "애쓰지 좀 말어, 져도 괜찮아", "lyric_translation": "Stop trying, it’s okay to lose", "range": [51.87, 56.59], "ans": [7]},
+    {
+      "lyric_hangul": "Errbody say, la-la-la-la-la (la-la-la-la-la)",
+      "lyric_translation": "Errbody say La la la la la (La la la la la)",
+      "parts": [
+        {"lyric": "Errbody say La la la la la", "range": [56.59, 59.32], "ans": [5]},
+        {"lyric": "(La la la la la)", "range": [58.62, 59.68], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Say la-la-la-la-la (la-la-la-la-la)",
+      "lyric_translation": "Say La la la la la (La la la la la)",
+      "parts": [
+        {"lyric": "Say La la la la la", "range": [59.34, 61.75], "ans": [5]},
+        {"lyric": "(La la la la la)", "range": [61.05, 61.94], "ans": []}
+      ]
+    },
+    {"lyric": "Soneul deureo sorijilleo Burn it up", "lyric_hangul": "손을 들어 소리질러 burn it up", "lyric_translation": "Throw your hands up, scream, burn it up", "range": [61.5, 65.75], "ans": [5]},
+    {
+      "lyric_hangul": "불타오르네",
+      "lyric_translation": "It’s on fire / (Eh eh oh eh oh)",
+      "parts": [
+        {"lyric": "Bultaoreune", "range": [65.75, 66.68], "ans": [2]},
+        {"lyric": "(Eh eh oh eh oh)", "range": [65.98, 68.85], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "(Eh, eh-oh, eh-oh)", "lyric_hangul": "(Eh, eh-oh, eh-oh)", "lyric_translation": "", "range": [68.85, 73.69], "ans": []},
+    {
+      "lyric_hangul": "싹 다 불태워라, bow-wow-wow",
+      "lyric_translation": "Set everything on fire, bow wow wow / (Eh eh oh eh oh) / Set everything on fire, bow wow wow",
+      "parts": [
+        {"lyric": "Ssak da bultaewora bow wow wow", "range": [73.69, 75.18], "ans": [6]},
+        {"lyric": "(Eh eh oh eh oh)", "range": [74.48, 75.94], "ans": [7]},
+        {"lyric": "Ssak da bultaewora bow wow wow", "range": [75.24, 78.51], "ans": [6]}
+      ]
+    },
+    {"lyric": "(Eh, eh-oh, eh-oh)", "lyric_hangul": "(Eh, eh-oh, eh-oh)", "lyric_translation": "", "range": [78.51, 82.86], "ans": []},
+    "",
+    {"lyric": "Ssak da bultaewora bow wow wow", "lyric_hangul": "싹 다 불태워라, bow-wow-wow", "lyric_translation": "Set everything on fire, bow wow wow", "range": [82.86, 86.22], "ans": [6]},
+    {"lyric": "Hey, burn it up jeonbu da taeul geot gachi", "lyric_hangul": "Hey (hey), burn it up (burn it up) 전부 다 태울 것 같이 (ay)", "lyric_translation": "Hey, burn it up Like you’re gonna set everything on fire", "range": [86.22, 91.05], "ans": [3]},
+    {"lyric": "Hey, turn it up saebyeogi da gal ttaekkaji", "lyric_hangul": "Hey (hey), turn it up (turn it up) 새벽이 다 갈 때까지", "lyric_translation": "Hey, turn it up Until the dawn is gone", "range": [91.05, 95.13], "ans": [3]},
+    {
+      "lyric_hangul": "그냥 살아도 돼 우린 젊기에",
+      "lyric_translation": "Just live because we’re young",
+      "parts": [
+        {"lyric": "Geunyang sarado dwae", "range": [95.13, 97.1], "ans": []},
+        {"lyric": "Urin jeomgie", "range": [96.4, 97.99], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "그 말하는 넌 뭔 수저길래",
+      "lyric_translation": "Who are you to compare me with others?",
+      "parts": [
+        {"lyric": "Geu malhaneun neon", "range": [97.81, 99.72], "ans": []},
+        {"lyric": "Mwon sujeogillae", "range": [99.02, 100.61], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "수저 수저 거려 난 사람인데, so what?",
+      "lyric_translation": "I’m only human / (So what~)",
+      "parts": [
+        {"lyric": "Sujeosujeo georyeo nan saraminde", "range": [100.61, 102.95], "ans": [3]},
+        {"lyric": "(So what~)", "range": [102.95, 104.46], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Ni meotdaero sareo eochapi ni kkeoya", "lyric_hangul": "니 멋대로 살어, 어차피 니 꺼야", "lyric_translation": "Live however you want, it’s yours anyway", "range": [104.46, 109.4], "ans": [1]},
+    {"lyric": "Aesseuji jom mareo jyeodo gwaenchanha", "lyric_hangul": "애쓰지 좀 말어, 져도 괜찮아", "lyric_translation": "Stop trying, it’s okay to lose", "range": [109.4, 114.15], "ans": [1]},
+    {
+      "lyric_hangul": "Errbody say, la-la-la-la-la (la-la-la-la-la)",
+      "lyric_translation": "Errbody say La la la la la (La la la la la)",
+      "parts": [
+        {"lyric": "Errbody say La la la la la", "range": [114.15, 116.9], "ans": [5]},
+        {"lyric": "(La la la la la)", "range": [116.2, 117.2], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "Say la-la-la-la-la (la-la-la-la-la)",
+      "lyric_translation": "Say La la la la la (La la la la la)",
+      "parts": [
+        {"lyric": "Say La la la la la", "range": [116.89, 119.32], "ans": [5]},
+        {"lyric": "(La la la la la)", "range": [118.62, 119.61], "ans": []}
+      ]
+    },
+    {"lyric": "Soneul deureo sorijilleo Burn it up", "lyric_hangul": "손을 들어 소리질러 burn it up", "lyric_translation": "Throw your hands up, scream, burn it up", "range": [119.15, 123.45], "ans": [5]},
+    "",
+    {
+      "lyric_hangul": "불타오르네",
+      "lyric_translation": "It’s on fire / (Eh eh oh eh oh)",
+      "parts": [
+        {"lyric": "Bultaoreune", "range": [123.45, 124.3], "ans": [2]},
+        {"lyric": "(Eh eh oh eh oh)", "range": [123.6, 126.76], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Eh, eh-oh, eh-oh)", "lyric_hangul": "(Eh, eh-oh, eh-oh)", "lyric_translation": "", "range": [126.76, 131.1], "ans": []},
+    {
+      "lyric_hangul": "싹 다 불태워라, bow-wow-wow",
+      "lyric_translation": "Set everything on fire, bow wow wow / (Eh eh oh eh oh)",
+      "parts": [
+        {"lyric": "Ssak da bultaewora bow wow wow", "range": [131.1, 133.55], "ans": [6]},
+        {"lyric": "(Eh eh oh eh oh)", "range": [132.85, 136.32], "ans": [7]}
+      ]
+    },
+    {"lyric": "(Eh, eh-oh, eh-oh)", "lyric_hangul": "(Eh, eh-oh, eh-oh)", "lyric_translation": "", "range": [136.32, 140.45], "ans": []},
+    "",
+    {"lyric": "Ssak da bultaewora bow wow wow", "lyric_hangul": "싹 다 불태워라, bow-wow-wow", "lyric_translation": "Set everything on fire, bow wow wow", "range": [140.45, 143.9], "ans": [6]},
+    {
+      "lyric_hangul": "Fire, 겁 많은 자여 여기로",
+      "lyric_translation": "(Fire) All you with a lot of fear, come here",
+      "parts": [
+        {"lyric": "(Fire)", "range": [143.9, 145.67], "ans": [7]},
+        {"lyric": "Geop manheun jayeo yeogiro", "range": [144.97, 146.46], "ans": [1]}
+      ]
+    },
+    {"lyric": "(Fire) [Jin/JK] goeroun jayeo yeogiro", "lyric_hangul": "Fire, 괴로운 자여 여기로", "lyric_translation": "(Fire) All you who are suffering, come here", "range": [146.23, 148.34], "ans": [7, 1]},
+    {"lyric": "(Fire) [Jin/JK] maenjumeogeul deulgo All night long", "lyric_hangul": "Fire, 맨 주먹을 들고 all night long", "lyric_translation": "(Fire) Lift up your fists, all night long", "range": [148.34, 153.46], "ans": [7, 1]},
+    {
+      "lyric_hangul": "Fire, 진군하는 발걸음으로",
+      "lyric_translation": "(Fire) With marching footsteps",
+      "parts": [
+        {"lyric": "(Fire)", "range": [153.46, 154.52], "ans": [7]},
+        {"lyric": "Jingunhaneun balgeoreumeuro", "range": [153.82, 155.88], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Fire, 뛰어봐, 미쳐버려 다 (aww)",
+      "lyric_translation": "(Fire) Run and go crazy",
+      "parts": [
+        {"lyric": "(Fire)", "range": [155.73, 156.77], "ans": [7]},
+        {"lyric": "Ttwieobwa michyeobeoryeo da", "range": [156.77, 165.48], "ans": [5]}
+      ]
+    },
+    {"lyric": "(Hot, hot, hot, hotter)", "lyric_hangul": "(Hot, hot, hot, hotter)", "lyric_translation": "", "range": [165.48, 169.59], "ans": []},
+    {"lyric": "Ssak da bultaewora bow wow wow", "lyric_hangul": "싹 다 불태워라, bow-wow-wow", "lyric_translation": "Set everything on fire, bow wow wow", "range": [169.59, 173.05], "ans": [6]},
+    {"lyric": "(Hot, hot, hot, hotter)", "lyric_hangul": "(Hot, hot, hot, hotter)", "lyric_translation": "", "range": [173.05, 178.91], "ans": []},
+    "",
+    {
+      "lyric_hangul": "싹 다 불태워라, bow-wow-wow",
+      "lyric_translation": "Set everything on fire, bow wow wow / (Fire Fire)",
+      "parts": [
+        {"lyric": "Ssak da bultaewora bow wow wow", "range": [178.91, 181.53], "ans": [6]},
+        {"lyric": "(Fire Fire)", "range": [180.83, 182.39], "ans": []}
+      ]
+    },
+    {"lyric": "Fire (hot, hot, hot, hotter)", "lyric_hangul": "Fire (hot, hot, hot, hotter)", "lyric_translation": "", "range": [182.33, 186.99], "ans": []},
+    {
+      "lyric_hangul": "Fire, 싹 다 불태워라, bow-wow-wow",
+      "lyric_translation": "Set everything on fire, bow wow wow / (Fire Fire)",
+      "parts": [
+        {"lyric": "Ssak da bultaewora bow wow wow", "range": [186.99, 191.13], "ans": [6]},
+        {"lyric": "(Fire Fire)", "range": [190.43, 192.06], "ans": []}
+      ]
+    },
+    {"lyric": "Fire (hot, hot, hot, hotter)", "lyric_hangul": "Fire (hot, hot, hot, hotter)", "lyric_translation": "", "range": [192.06, 196.65], "ans": []},
+    {
+      "lyric_hangul": "Fire, 싹 다 불태워라, bow-wow-wow",
+      "lyric_translation": "Set everything on fire, bow wow wow / (Fire Fire)",
+      "parts": [
+        {"lyric": "Ssak da bultaewora bow wow wow", "range": [196.65, 200.72], "ans": [6]},
+        {"lyric": "(Fire Fire)", "range": [200.02, 201.55], "ans": []}
+      ]
+    },
+    "",
+    {"lyric": "Yongseohaejulge", "lyric_hangul": "용서해줄게", "lyric_translation": "I’ll forgive you", "range": [201.23, 203.0], "ans": [2]}
+  ]
+}

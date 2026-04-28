@@ -1,0 +1,157 @@
+{
+  "name": "Danger\r",
+  "ogg": "sound/kpop/danger.ogg",
+  "id": "danger",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/danger.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:38Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "You in danger", "lyric_hangul": "Yo in Danger", "lyric_translation": "You in danger", "range": [11.21, 15.67], "ans": [4]},
+    {"lyric": "You in danger", "lyric_hangul": "Yo in Danger", "lyric_translation": "You in danger", "range": [15.67, 19.91], "ans": [4]},
+    {"lyric": "You in danger", "lyric_hangul": "Yo in Danger", "lyric_translation": "You in danger", "range": [19.91, 24.12], "ans": [4]},
+    {
+      "lyric_hangul": "Yo in Danger",
+      "lyric_translation": "You in danger / You’re always like this / You are you, I am me, your formula",
+      "parts": [
+        {"lyric": "You in danger", "range": [24.12, 24.48], "ans": [4]},
+        {"lyric": "Maennal ireon shik", "range": [24.48, 26.0], "ans": [4]},
+        {"lyric": "Neoneun neo naneun na neoye gongshik", "range": [26.0, 26.62], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "Haendeuponeun jangshik", "lyric_hangul": "핸드폰은 장식", "lyric_translation": "My phone is just a mere accessory", "range": [26.14, 30.93], "ans": [4]},
+    {"lyric": "Na namchini matgin hani? I’m sick", "lyric_hangul": "나남친이 맞긴 하니? I'm Sick", "lyric_translation": "Am I really your boyfriend? I’m sick", "range": [30.93, 33.71], "ans": [4]},
+    {
+      "lyric_hangul": "왜 숙제처럼표현들을 미뤄",
+      "lyric_translation": "Why do you push off expressing / your feelings like homework? / Are we in a business relationship? Or do you not like me?",
+      "parts": [
+        {"lyric": "Wae sukjecheoreom", "range": [33.71, 34.19], "ans": [4]},
+        {"lyric": "Pyohyeondeureul mirweo", "range": [34.19, 34.72], "ans": [4]},
+        {"lyric": "Uri museun Business? anim naega shireo?", "range": [34.72, 36.03], "ans": [4]}
+      ]
+    },
+    {"lyric": "Deong deong digi deong deong", "lyric_hangul": "덩 덩 디기덩덩", "lyric_translation": "This magic spell", "range": [37.89, 39.73], "ans": [4]},
+    {"lyric": "Jom salgaweojeora oneuldo tto jumuneul bireo", "lyric_hangul": "좀살가워져라 오늘도또 주문을빌어", "lyric_translation": "Please be kinder, I’ll recite it again today", "range": [39.73, 42.52], "ans": [4]},
+    "",
+    {"lyric": "Urin pyeonghaengseon", "lyric_hangul": "우린 평행선,", "lyric_translation": "We are like parallel lines", "range": [42.52, 44.15], "ans": [7]},
+    {"lyric": "Gateun goseul bojiman neom dareuji", "lyric_hangul": "같은 곳을 보지만 너무 다르지", "lyric_translation": "We look at the same place but are so different", "range": [44.15, 46.89], "ans": [7]},
+    {"lyric": "Nan neobakke eomneunde", "lyric_hangul": "난 너밖에없는데", "lyric_translation": "I don’t have anyone but you", "range": [46.89, 48.52], "ans": [7]},
+    {"lyric": "Wae neo bakke inneun geonman gateunji", "lyric_hangul": "왜 너 밖에 있는 것만 같은지", "lyric_translation": "But why does it feel like I’m outside of you?", "range": [48.52, 50.76], "ans": [7]},
+    {"lyric": "Kkonghamyeon neon mureo “ppicheonni?”", "lyric_hangul": "꽁하면 넌 물어 \"삐졋니?\"", "lyric_translation": "If I stay quiet, you ask, “Are you mad?”", "range": [50.76, 52.75], "ans": [7]},
+    {"lyric": "Nal ppichige haetteon jeogina isseonni?", "lyric_hangul": "날 삐치게했던 적이나 있었니", "lyric_translation": "Well, did you even do anything to make me mad?", "range": [52.75, 55.03], "ans": [7]},
+    {"lyric": "Neon gwiyomi nan jimonmi", "lyric_hangul": "넌 귀요미, 난 지뭇미", "lyric_translation": "You’re a cutie and I am pitiful", "range": [55.03, 56.96], "ans": [4, 7]},
+    {"lyric": "Saenggigil niga deo saranghaneun gijeogi", "lyric_hangul": "생기길 니가 더 사랑하는 기적이", "lyric_translation": "I hope for a miracle of you loving me more than I love you", "range": [56.96, 59.5], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "넌 내가 없는데 난 너로 가득해",
+      "lyric_translation": "You don’t have me but I’m filled with you / It’s driving me crazy",
+      "parts": [
+        {"lyric": "Neon naega eomneunde nan neoro gadeukae", "range": [59.5, 62.5], "ans": [1]},
+        {"lyric": "Michil geot gata Whoa whoa", "range": [62.5, 63.97], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "근데 왜 이러는데 왜 바보를 만들어",
+      "lyric_translation": "Why are you doing this? / Why are you making me into a fool?",
+      "parts": [
+        {"lyric": "Geunde wae ireoneunde wae", "range": [67.83, 70.43], "ans": [5]},
+        {"lyric": "Babol mandeureo", "range": [70.43, 72.3], "ans": [5]}
+      ]
+    },
+    {"lyric": "Na ije gyeonggohae hetgallige haji ma", "lyric_hangul": "나이제 경고해 헷갈리게 하지마", "lyric_translation": "I’m warning you now, stop confusing me", "range": [72.3, 78.9], "ans": [5]},
+    "",
+    {"lyric": "Jangnanhae neo? dodaeche naega mweoya?", "lyric_hangul": "장난해 너 도대체 내가 뭐야", "lyric_translation": "Are you joking? What am I to you?", "range": [78.9, 83.15], "ans": [7]},
+    {"lyric": "Manmanhae Uh? nal gatgo noneun geoya?", "lyric_hangul": "만만해 uh 날갖고 노는거야", "lyric_translation": "Am I easy to you? Are you playing with me?", "range": [83.15, 87.32], "ans": [7]},
+    {"lyric": "Neo jigeum wiheomhae wae nareul shiheomhae?", "lyric_hangul": "너 지금위엄해 왜 나를 시험해", "lyric_translation": "You’re in danger right now, why are you testing me?", "range": [87.32, 91.4], "ans": [5]},
+    {"lyric": "Wae nareul shiheomhae? hetgallige haji ma", "lyric_hangul": "왜 나를 시험해 헷갈리게 하지마", "lyric_translation": "Why are you testing me? Stop confusing me", "range": [91.4, 96.05], "ans": [5]},
+    "",
+    {"lyric": "Jangnanhae neo? dodaeche naega mweoya?", "lyric_hangul": "장난해 너 도대체 내가 뭐야", "lyric_translation": "Are you joking? What am I to you?", "range": [96.05, 100.31], "ans": [6]},
+    {"lyric": "Manmanhae Uh? nal gatgo noneun geoya?", "lyric_hangul": "만만해 uh 날갖고 노는거야", "lyric_translation": "Am I easy to you? Are you playing with me?", "range": [100.31, 104.47], "ans": [6]},
+    {"lyric": "Neo jigeum wiheomhae wae nareul shiheomhae?", "lyric_hangul": "너 지금위엄해 왜 나를 시험해", "lyric_translation": "You’re in danger right now, why are you testing me?", "range": [104.47, 108.71], "ans": [5]},
+    {"lyric": "Wae nareul shiheomhae? hetgallige haji ma", "lyric_hangul": "왜 나를 시험해 헷갈리게 하지마", "lyric_translation": "Why are you testing me? Stop confusing me", "range": [108.71, 113.06], "ans": [5]},
+    "",
+    {"lyric": "Neo ttaeme neomu apa", "lyric_hangul": "너 때문에 너무 아파", "lyric_translation": "It hurts so much because of you", "range": [113.06, 115.28], "ans": [6]},
+    {"lyric": "Neo ttaeme neomu apa", "lyric_hangul": "너 때문에 너무 아파", "lyric_translation": "It hurts so much because of you", "range": [115.28, 117.39], "ans": [6]},
+    {"lyric": "Neo ttaeme neomu apa", "lyric_hangul": "너 때문에 너무 아파", "lyric_translation": "It hurts so much because of you", "range": [117.39, 119.67], "ans": [6]},
+    {"lyric": "Hetgallige haji ma", "lyric_hangul": "헷갈리게 하지마", "lyric_translation": "Stop confusing me", "range": [119.67, 121.7], "ans": [5]},
+    {"lyric": "Neo naege neomu nappa", "lyric_hangul": "넌 내게 너무 나빠", "lyric_translation": "You’re so bad to me", "range": [121.7, 123.73], "ans": [6]},
+    {"lyric": "Neo naege neomu nappa", "lyric_hangul": "넌 내게 너무 나빠", "lyric_translation": "You’re so bad to me", "range": [123.73, 125.91], "ans": [6]},
+    {"lyric": "Neo naege neomu nappa", "lyric_hangul": "넌 내게 너무 나빠", "lyric_translation": "You’re so bad to me", "range": [125.91, 128.01], "ans": [6]},
+    {"lyric": "Hetgallige haji ma", "lyric_hangul": "헷갈리게 하지마", "lyric_translation": "Stop confusing me", "range": [128.01, 132.08], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Yeollak bujaejung Unlock subae jung", "lyric_hangul": "연락 부재중 unlock 수배 중", "lyric_translation": "You’re not answering, I’m looking for how to unlock you", "range": [132.08, 134.3], "ans": [3]},
+    {"lyric": "Neoran yeoja bonshimeul susaek jung", "lyric_hangul": "너란 여자 본심을 수색 중", "lyric_translation": "I’m investigating a girl like you and your true feelings", "range": [134.3, 136.46], "ans": [3]},
+    {"lyric": "Gojak bonae jun ge munja duse jul", "lyric_hangul": "고작 보내준 게 문자 두 세줄", "lyric_translation": "All you send me is a line or two through text", "range": [136.46, 138.85], "ans": [3]},
+    {
+      "lyric_hangul": "이게 내가 바랬던 연애, 꿈?",
+      "lyric_translation": "Is this the relationship and dream that I’ve wanted? / Where did my exciting love story go?",
+      "parts": [
+        {"lyric": "Ige naega baraetteon yeonae kkum?", "range": [138.85, 139.82], "ans": [3]},
+        {"lyric": "Paranmanjang Love story da eodi ganna?", "range": [139.82, 140.85], "ans": [3]}
+      ]
+    },
+    {"lyric": "Drama-e naon juingongdeul da jeori gara", "lyric_hangul": "드라마에 나온 주인공들 다 저리가라", "lyric_translation": "Move out of the way, drama characters", "range": [142.95, 145.08], "ans": [3]},
+    {"lyric": "Neo ttaemune subaek beon jwieo jamneun meorikarak", "lyric_hangul": "너 때문에 수 백번 쥐어 잡는 머리카락", "lyric_translation": "I rip out my hair hundreds of times because of you", "range": [145.08, 147.13], "ans": [3]},
+    {"lyric": "Neo damdam geujeo dangdang nal cha ppangppang", "lyric_hangul": "너 담담 그저 당당 날차 빵빵", "lyric_translation": "But you don’t care, you think it’s fine and you kick me", "range": [147.13, 149.43], "ans": [3]},
+    "",
+    {"lyric": "Mweoni mweoni nan nege mweoni?", "lyric_hangul": "뭐니 뭐니 난 네가 뭐니", "lyric_translation": "What, what, what am I to you?", "range": [149.43, 151.43], "ans": [2]},
+    {"lyric": "Neoboda ni chinguege jeonhae deunneun soshik", "lyric_hangul": "너 보다 니 친구에게 전해 드는 소식", "lyric_translation": "I hear about you from your friends rather than you", "range": [151.43, 153.78], "ans": [2]},
+    {"lyric": "Weonhae weonhae Huh neoreul weonhae", "lyric_hangul": "원해 uh 너를 원해", "lyric_translation": "I want you, I want you, huh, I want you", "range": [153.78, 155.73], "ans": [2]},
+    {"lyric": "Neoran yeojan sagikkun nae mameul heundeun beomin", "lyric_hangul": "너란여자 사기꾼 내 맘을 흔들 범인", "lyric_translation": "A girl like you, a con-artist, a criminal who shook my heart", "range": [155.73, 157.9], "ans": [2]},
+    {"lyric": "Buri butgi jeonbuteo nae mam da sseugo", "lyric_hangul": "불이불기 전부터 내 맘 다 쓰고", "lyric_translation": "You used up my heart before the fire even started", "range": [157.9, 160.02], "ans": [2]},
+    {
+      "lyric_hangul": "일방적인 구애들 해 봤자 혓수고",
+      "lyric_translation": "I can try to have a one-sided relationship / but it’ll be useless",
+      "parts": [
+        {"lyric": "Ilbangjeogin guaedeul", "range": [160.02, 161.04], "ans": [2]},
+        {"lyric": "Hae bwatja heossugo", "range": [161.04, 162.24], "ans": [2]}
+      ]
+    },
+    {"lyric": "Neoyege nan geujeo yeonini anin ujeongi", "lyric_hangul": "너에게 난 그저 연인이 아닌 우정이", "lyric_translation": "Maybe you’re more comfortable with being friends", "range": [162.24, 164.38], "ans": [2]},
+    {"lyric": "Pyeonhaesseuljjido molla I’m a love loser", "lyric_hangul": "편했을지 도 몰라 I'm a love loser", "lyric_translation": "Instead of lovers, I’m a love loser", "range": [164.38, 166.77], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "넌 내가 없는데 난 너로 가득해",
+      "lyric_translation": "You don’t have me but I’m filled with you / It’s driving me crazy",
+      "parts": [
+        {"lyric": "Neon naega eomneunde nan neoro gadeukae", "range": [166.77, 169.65], "ans": [1]},
+        {"lyric": "Michil geot gata Whoa whoa", "range": [169.65, 170.95], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "근데 왜 이러는데 왜 바보를 만들어",
+      "lyric_translation": "Why are you doing this? / Why are you making me into a fool?",
+      "parts": [
+        {"lyric": "Geunde wae ireoneunde wae", "range": [174.99, 177.57], "ans": [5]},
+        {"lyric": "Babol mandeureo", "range": [177.57, 179.33], "ans": [5]}
+      ]
+    },
+    {"lyric": "Na ije gyeonggohae hetgallige haji ma", "lyric_hangul": "나이제 경고해 헷갈리게 하지마", "lyric_translation": "I’m warning you now, stop confusing me", "range": [179.33, 186.16], "ans": [5]},
+    "",
+    {"lyric": "Jangnanhae neo? dodaeche naega mweoya?", "lyric_hangul": "장난해 너 도대체 내가 뭐야", "lyric_translation": "Are you joking? What am I to you?", "range": [186.16, 190.36], "ans": [7]},
+    {"lyric": "Manmanhae Uh? nal gatgo noneun geoya?", "lyric_hangul": "만만해 uh 날갖고 노는거야", "lyric_translation": "Am I easy to you? Are you playing with me?", "range": [190.36, 194.45], "ans": [7]},
+    {"lyric": "Neo jigeum wiheomhae wae nareul shiheomhae?", "lyric_hangul": "너 지금위엄해 왜 나를 시험해", "lyric_translation": "You’re in danger right now, why are you testing me?", "range": [194.45, 198.43], "ans": [5]},
+    {"lyric": "Wae nareul shiheomhae? hetgallige haji ma", "lyric_hangul": "왜 나를 시험해 헷갈리게 하지마", "lyric_translation": "Why are you testing me? Stop confusing me", "range": [198.43, 203.25], "ans": [5]},
+    "",
+    {"lyric": "Jangnanhae neo? dodaeche naega mweoya?", "lyric_hangul": "장난해 너 도대체 내가 뭐야", "lyric_translation": "Are you joking? What am I to you?", "range": [203.25, 207.34], "ans": [6]},
+    {"lyric": "Manmanhae Uh? nal gatgo noneun geoya?", "lyric_hangul": "만만해 uh 날갖고 노는거야", "lyric_translation": "Am I easy to you? Are you playing with me?", "range": [207.34, 211.5], "ans": [6]},
+    {"lyric": "Neo jigeum wiheomhae wae nareul shiheomhae?", "lyric_hangul": "너 지금위엄해 왜 나를 시험해", "lyric_translation": "You’re in danger right now, why are you testing me?", "range": [211.5, 215.86], "ans": [5]},
+    {"lyric": "Wae nareul shiheomhae? hetgallige haji ma", "lyric_hangul": "왜 나를 시험해 헷갈리게 하지마", "lyric_translation": "Why are you testing me? Stop confusing me", "range": [215.86, 220.17], "ans": [5]},
+    "",
+    {"lyric": "Neo ttaeme neomu apa", "lyric_hangul": "너 때문에 너무 아파", "lyric_translation": "It hurts so much because of you", "range": [220.17, 222.31], "ans": [6]},
+    {"lyric": "Neo ttaeme neomu apa", "lyric_hangul": "너 때문에 너무 아파", "lyric_translation": "It hurts so much because of you", "range": [222.31, 224.48], "ans": [6]},
+    {"lyric": "Neo ttaeme neomu apa", "lyric_hangul": "너 때문에 너무 아파", "lyric_translation": "It hurts so much because of you", "range": [224.48, 226.75], "ans": [6]},
+    {"lyric": "Hetgallige haji ma", "lyric_hangul": "헷갈리게 하지마", "lyric_translation": "Stop confusing me", "range": [226.75, 228.81], "ans": [5]},
+    {"lyric": "Neo naege neomu nappa", "lyric_hangul": "넌 내게 너무 나빠", "lyric_translation": "You’re so bad to me", "range": [228.81, 230.83], "ans": [6]},
+    {"lyric": "Neo naege neomu nappa", "lyric_hangul": "넌 내게 너무 나빠", "lyric_translation": "You’re so bad to me", "range": [230.83, 233.01], "ans": [6]},
+    {"lyric": "Neo naege neomu nappa", "lyric_hangul": "넌 내게 너무 나빠", "lyric_translation": "You’re so bad to me", "range": [233.01, 235.17], "ans": [6]},
+    {"lyric": "Hetgallige haji ma", "lyric_hangul": "헷갈리게 하지마", "lyric_translation": "Stop confusing me", "range": [235.17, 239.09], "ans": [5]}
+  ]
+}

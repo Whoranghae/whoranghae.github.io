@@ -1,0 +1,216 @@
+{
+  "name": "Let Me Know\r",
+  "ogg": "sound/kpop/let_me_know.ogg",
+  "id": "let-me-know",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/let-me-know.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Mamuri doen i seonyul wieseo", "lyric_hangul": "마무리 된 이 선율 위에서", "lyric_translation": "On top of this ending tune", "range": [13.75, 17.1], "ans": [6]},
+    {"lyric": "Na hollo beotigo isseo", "lyric_hangul": "나 홀로 버티고 있어", "lyric_translation": "I am standing here alone", "range": [17.1, 19.77], "ans": [6]},
+    {"lyric": "Ijen naege malhaejwo", "lyric_hangul": "이젠 내게 말해줘", "lyric_translation": "Now tell me", "range": [19.77, 23.75], "ans": [6]},
+    {"lyric": "Kkeutnatdan geol LET ME KNOW", "lyric_hangul": "끝났단 걸, let me know, eh, eh", "lyric_translation": "That it’s over, let me know", "range": [23.75, 27.78], "ans": [6]},
+    "",
+    {"lyric": "Sungandanwiro nungaen", "lyric_hangul": "순간단위로 눈가엔", "lyric_translation": "Suddenly, in my eyes", "range": [27.78, 29.84], "ans": [2]},
+    {"lyric": "Ttukttukttuk biga goyeo (nega goyeo)", "lyric_hangul": "뚝뚝뚝 비가 고여", "lyric_translation": "rain wells up", "range": [29.84, 31.7], "ans": [2]},
+    {"lyric": "Nega goyeo", "lyric_hangul": "(네가 고여) 네가 고여", "lyric_translation": "You well up,", "range": [31.7, 33.23], "ans": [2]},
+    {"lyric": "Summan swieodo nega boyeo", "lyric_hangul": "숨만 쉬어도 네가 보여", "lyric_translation": "I see you even when I breathe", "range": [33.23, 34.79], "ans": [2]},
+    {"lyric": "Sarangeun beotkkoccheoreom", "lyric_hangul": "사랑은 벚꽃처럼", "lyric_translation": "Love blooms", "range": [34.79, 36.17], "ans": [2]},
+    {"lyric": "Pyeotdaga swipge jineun ge matnabwa", "lyric_hangul": "폈다가 쉽게 지는 게 맞나봐", "lyric_translation": "like cherry blossoms", "range": [36.17, 38.54], "ans": [2]},
+    {"lyric": "Kkumkkuneun geotcheoreom urin bulkkoccheoreom", "lyric_hangul": "꿈꾸는 것처럼, 우린 불꽃처럼", "lyric_translation": "but burns and becomes ashes", "range": [38.54, 40.11], "ans": [2]},
+    {"lyric": "Tatdaga jaeman namge dwaetjanha", "lyric_hangul": "탔다가 재만 남게 됐잖아, hey, yah", "lyric_translation": "Hey girl I know,", "range": [40.11, 43.05], "ans": [2]},
+    {"lyric": "Ara nega ilbangjeogeuro naerin gyeollon", "lyric_hangul": "알아, 네가 일방적으로 내린 결론", "lyric_translation": "the conclusion you made by yourself", "range": [43.05, 45.36], "ans": [2]},
+    {"lyric": "Ne son ne mom jeokdoboda tteugeowotdeon", "lyric_hangul": "네 손, 네 몸, 적도보다 뜨거웠던", "lyric_translation": "Your hand, your body, your body heat", "range": [45.36, 47.2], "ans": [2]},
+    {"lyric": "Neoui ongijocha sarajin seonyurwieseo", "lyric_hangul": "너의 온기조차 사라진 선율위에서", "lyric_translation": "that was hotter than the equator", "range": [47.2, 49.66], "ans": [2]},
+    {"lyric": "Nan gyesokhaeseo jejari dodoripyo", "lyric_hangul": "난 계속해서 제자리 도돌이표", "lyric_translation": "I’m still here, on repeat on top of the disappeared tune", "range": [49.66, 52.31], "ans": [2]},
+    {"lyric": "Machimpyo geueojin akbowie na hollo dolgo isseo", "lyric_hangul": "마침표 그어진 악보위에 나 홀로 돌고 있어", "lyric_translation": "I’m turning by myself on top of this music that has ended", "range": [52.31, 56.17], "ans": [2]},
+    "",
+    {"lyric": "Mamuri doen i seonyul wieseo", "lyric_hangul": "마무리 된 이 선율 위에서", "lyric_translation": "On top of this ending tune", "range": [56.17, 59.44], "ans": [6]},
+    {"lyric": "Na hollo beotigo isseo", "lyric_hangul": "나 홀로 버티고 있어", "lyric_translation": "I am standing here alone", "range": [59.44, 62.19], "ans": [6]},
+    {"lyric": "Ijen naege malhaejwo", "lyric_hangul": "이젠 내게 말해줘", "lyric_translation": "Now tell me", "range": [62.19, 65.82], "ans": [6]},
+    {"lyric": "Kkeutnatdan geol LET ME KNOW", "lyric_hangul": "끝났단 걸, let me know, eh, eh", "lyric_translation": "That it’s over, let me know", "range": [65.82, 70.37], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Girl, let me know, girl, let me know",
+      "lyric_translation": "Girl let me know / Girl let me know",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW", "range": [70.37, 72.12], "ans": [7]},
+        {"lyric": "GIRL LET ME KNOW​", "range": [72.12, 73.53], "ans": [7]}
+      ]
+    },
+    {"lyric": "Imi da kkeutnan geon algo itjiman", "lyric_hangul": "이미 다 끝난 건 알고 있지만", "lyric_translation": "Although I already know everything is over", "range": [73.52, 75.35], "ans": [7]},
+    {"lyric": "Miryeonirado namji ankeman", "lyric_hangul": "미련이라도 남지 않게만", "lyric_translation": "Although you’re over me", "range": [75.35, 77.45], "ans": [7]},
+    {"lyric": "GIRL LET ME KNOW", "lyric_hangul": "Girl, let me know, girl, let me know", "lyric_translation": "Girl let me know / Girl let me know", "range": [77.45, 81.05], "ans": [7]},
+    {
+      "lyric_hangul": "Girl, let me know, 뭐라도 말해줘",
+      "lyric_translation": "Girl let me know / Tell me something / I just wanna know",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW​​", "range": [81.05, 82.05], "ans": [7]},
+        {"lyric": "Mworado malhaejwo", "range": [82.05, 83.2], "ans": [7]},
+        {"lyric": "(I JUST WANNA)​", "range": [82.5, 83.95], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I just wanna know, know, know",
+      "lyric_translation": "know know / I just wanna know",
+      "parts": [
+        {"lyric": "KNOW ​​KNOW​​ KNOW​​", "range": [83.95, 84.59], "ans": [6]},
+        {"lyric": "(I JUST WANNA)", "range": [84.59, 87.23], "ans": [6]}
+      ]
+    },
+    {"lyric": "KNOW ​​KNOW​​ KNOW​", "lyric_hangul": "I just wanna know, know, know", "lyric_translation": "know know", "range": [87.23, 90.47], "ans": [6]},
+    {"lyric": "Miryeoni machimpyo apeseo beotigo isseo", "lyric_hangul": "미련이 마침표 앞에서 버티고 있어", "lyric_translation": "My lingering feelings are trying to withstand the end", "range": [90.47, 94.62], "ans": [7]},
+    {"lyric": "Geureoni mworado naege malhaejwo", "lyric_hangul": "그러니 뭐라도 내게 말해줘", "lyric_translation": "So please tell me something,", "range": [94.62, 97.79], "ans": [7]},
+    {"lyric": "GIRL LET ME KNOW​​", "lyric_hangul": "Girl, let me know", "lyric_translation": "girl let me know", "range": [97.79, 98.43], "ans": [7]},
+    "",
+    {"lyric": "Hamkkehan dajim eodiro", "lyric_hangul": "함께한 다짐 어디로", "lyric_translation": "The promises we made disappeared", "range": [98.43, 100.12], "ans": [3]},
+    {"lyric": "Sigangwa hamkke sarajigo", "lyric_hangul": "시간과 함께 사라지고", "lyric_translation": "with the time we spent together", "range": [100.12, 101.47], "ans": [3]},
+    {"lyric": "Ibyeorui hime muneojin domino", "lyric_hangul": "이별의 힘에 무너진 도미노", "lyric_translation": "The dominos have fallen with our breakup", "range": [101.47, 103.49], "ans": [3]},
+    {"lyric": "Machi julliet & romio", "lyric_hangul": "마치 줄리엣 and 로미오", "lyric_translation": "Like Juliet and Romeo", "range": [103.49, 104.9], "ans": [3]},
+    {"lyric": "Neomu tteugeopge neol johahangeonji", "lyric_hangul": "너무 뜨겁게 널 좋아한건지", "lyric_translation": "Did I like you too much?", "range": [104.9, 106.71], "ans": [3]},
+    {"lyric": "Neowa nae ongiga an sikhyeojiji", "lyric_hangul": "너와 내 온기가 안 식혀지지", "lyric_translation": "The heat between me and you won’t cool down", "range": [106.71, 108.68], "ans": [3]},
+    {"lyric": "Ijewa dorikyeo neowaui pilleum", "lyric_hangul": "이제와, 돌이켜, 너와의 필름", "lyric_translation": "Now I look back at the film with you", "range": [108.68, 110.06], "ans": [3]},
+    {"lyric": "Oh I gotta need a ne saenggakgwa", "lyric_hangul": "Oh, I gotta need a 네 생각과", "lyric_translation": "Too early to do anything by thinking of you", "range": [110.06, 111.4], "ans": [3]},
+    {"lyric": "Jigeum neon naui bamui byeoreul gajyeoga", "lyric_hangul": "지금 넌 나의 밤의 별을 가져가", "lyric_translation": "You took away my stars at night,", "range": [111.4, 113.99], "ans": [3]},
+    {"lyric": "Najui haereul gajyeoga", "lyric_hangul": "낮의 해를 가져가", "lyric_translation": "my sun at day", "range": [113.99, 116.06], "ans": [3]},
+    {"lyric": "Gyeolguk nameun geon hana", "lyric_hangul": "결국, 남은 건 하나", "lyric_translation": "Only leaving me with the darkness", "range": [116.06, 117.46], "ans": [3]},
+    {"lyric": "Chan gureume eoduumman", "lyric_hangul": "찬 구름에 어두움만", "lyric_translation": "of a single cold cloud", "range": [117.46, 119.08], "ans": [3]},
+    {"lyric": "Geurae mannamdo isseumyeon", "lyric_hangul": "그래, 만남도 있으면", "lyric_translation": "If there are hellos,", "range": [119.08, 120.71], "ans": [3]},
+    {
+      "lyric_hangul": "헤어짐도 있을 거라는 법 never, ever",
+      "lyric_translation": "then there’s bound to be goodbyes? / Never ever",
+      "parts": [
+        {"lyric": "Heeojimdo isseul georaneun beop", "range": [120.71, 122.19], "ans": [3]},
+        {"lyric": "Never ever", "range": [122.19, 123.45], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geuge museun beobideun eogigo sipeo", "lyric_hangul": "그게 무슨 법이든 어기고 싶어", "lyric_translation": "I don’t care about that,", "range": [122.97, 124.69], "ans": [3]},
+    {
+      "lyric_hangul": "스스로 외면, 너에게 최면",
+      "lyric_translation": "I don’t want to stick to that / I’ll turn away, hypnotizing myself",
+      "parts": [
+        {"lyric": "Seuseuro oemyeon", "range": [124.69, 126.12], "ans": [3]},
+        {"lyric": "Neoege choemyeon", "range": [126.12, 126.97], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Mamuri doen i seonyul wieseo", "lyric_hangul": "마무리 된 이 선율 위에서", "lyric_translation": "On top of this ending tune", "range": [126.82, 130.04], "ans": [6]},
+    {"lyric": "Na hollo beotigo isseo", "lyric_hangul": "나 홀로 버티고 있어", "lyric_translation": "I am standing here alone", "range": [130.04, 132.84], "ans": [6]},
+    {"lyric": "Ijen naege malhaejwo", "lyric_hangul": "이젠 내게 말해줘", "lyric_translation": "Now tell me", "range": [132.84, 136.57], "ans": [6]},
+    {"lyric": "Kkeutnatdan geol LET ME KNOW", "lyric_hangul": "끝났단 걸, let me know, eh, eh", "lyric_translation": "That it’s over, let me know", "range": [136.57, 140.77], "ans": [6]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Girl, let me know, girl, let me know",
+      "lyric_translation": "Girl let me know / Girl let me know",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW", "range": [140.77, 142.73], "ans": [1]},
+        {"lyric": "GIRL LET ME KNOW​", "range": [142.73, 144.19], "ans": [1]}
+      ]
+    },
+    {"lyric": "Imi da kkeutnan geon algo itjiman", "lyric_hangul": "이미 다 끝난 건 알고 있지만", "lyric_translation": "Although I already know everything is over", "range": [144.08, 146.13], "ans": [1]},
+    {"lyric": "Miryeonirado namji ankeman", "lyric_hangul": "미련이라도 남지 않게만", "lyric_translation": "Although you’re over me", "range": [146.13, 148.16], "ans": [1]},
+    {"lyric": "GIRL LET ME KNOW", "lyric_hangul": "Girl, let me know, girl, let me know", "lyric_translation": "Girl let me know / Girl let me know", "range": [148.16, 151.58], "ans": [1]},
+    {
+      "lyric_hangul": "Girl, let me know, 뭐라도 말해줘",
+      "lyric_translation": "Girl let me know / Tell me something / I just wanna know",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW​​", "range": [151.58, 152.68], "ans": [1]},
+        {"lyric": "​mworado malhaejwo", "range": [152.68, 153.81], "ans": [1]},
+        {"lyric": "(I JUST WANNA)​", "range": [153.11, 154.61], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I just wanna know, know, know",
+      "lyric_translation": "know know / I just wanna know",
+      "parts": [
+        {"lyric": "KNOW ​​KNOW​​ KNOW​​", "range": [154.61, 155.17], "ans": [5]},
+        {"lyric": "(I JUST WANNA)", "range": [155.17, 157.86], "ans": [5]}
+      ]
+    },
+    {"lyric": "KNOW ​​KNOW​​ KNOW", "lyric_hangul": "I just wanna know, know, know", "lyric_translation": "know know", "range": [157.86, 160.97], "ans": [5]},
+    {"lyric": "Miryeoni machimpyo apeseo beotigo isseo", "lyric_hangul": "미련이 마침표 앞에서 버티고 있어", "lyric_translation": "My lingering feelings are trying to withstand the end", "range": [160.97, 165.27], "ans": [5]},
+    {"lyric": "Geureoni mworado naege malhaejwo", "lyric_hangul": "그러니 뭐라도 내게 말해줘", "lyric_translation": "So please tell me something,", "range": [165.27, 168.35], "ans": [5]},
+    {"lyric": "GIRL LET ME KNOW", "lyric_hangul": "Girl, let me know", "lyric_translation": "girl let me know", "range": [168.35, 168.85], "ans": [5]},
+    "",
+    {"lyric": "Eojjeom urin da babo meongcheongiilji molla", "lyric_hangul": "어쩜 우린 다 바보 멍청이일지 몰라", "lyric_translation": "Maybe we’re all just a bunch of fools", "range": [168.56, 171.4], "ans": []},
+    {"lyric": "Imi da kkeutnan sarang hanajjeum ango saljanha", "lyric_hangul": "이미 다 끝난 사랑 하나쯤 안고 살잖아", "lyric_translation": "Everyone lives with a love that has come to an end", "range": [171.4, 175.23], "ans": []},
+    {"lyric": "Mami inneun geon anya", "lyric_hangul": "맘이 있는 건 아냐, oh, oh, oh", "lyric_translation": "It’s not that I still have feelings for you", "range": [175.23, 178.47], "ans": []},
+    {"lyric": "Doel su eopdan geotdo ara", "lyric_hangul": "될 수 없단 것도 알아, oh, oh, oh", "lyric_translation": "I know we can’t work out", "range": [178.47, 182.0], "ans": []},
+    {"lyric": "Geunde gakkeumssik chwihan deusi wae", "lyric_hangul": "근데 가끔씩 취한 듯이", "lyric_translation": "But why does it feel like I’m having indigestion?", "range": [182.0, 183.87], "ans": []},
+    {"lyric": "Chehan deusi dasi", "lyric_hangul": "왜 체한 듯이 다시?", "lyric_translation": "As if my insides will explode,", "range": [183.87, 185.75], "ans": []},
+    {"lyric": "Meorissogeseo teojilgeotcheoreom ulkeok ollawa", "lyric_hangul": "머릿속에서 터질것처럼 울컥 올라와", "lyric_translation": "cries come up my throat,", "range": [185.75, 188.13], "ans": []},
+    {"lyric": "Nal tohage mandeune", "lyric_hangul": "날 토하게 만드네", "lyric_translation": "making me throw up", "range": [188.13, 189.66], "ans": []},
+    {
+      "lyric_hangul": "상상속에서 너와 싸우고와, 화해하고 널 이해해",
+      "lyric_translation": "In my imagination, I fight with you, / make up with you and understand you",
+      "parts": [
+        {"lyric": "Sangsangsogeseo neowa ssaugowa", "range": [189.66, 192.51], "ans": []},
+        {"lyric": "Hwahaehago neol ihaehae", "range": [192.51, 193.88], "ans": []}
+      ]
+    },
+    {"lyric": "Ne sonjit ne nunbit", "lyric_hangul": "네 손짓, 네 눈빛 희미한데, 왜?", "lyric_translation": "Your hand gestures, your eyes,", "range": [193.79, 195.95], "ans": []},
+    {"lyric": "Huimihande wae sarajijin anheulkka", "lyric_hangul": "사라지진 않을까? 왜?", "lyric_translation": "they are faded but not gone", "range": [195.95, 199.82], "ans": []},
+    {"lyric": "Sarajijin anheulkka wae", "lyric_hangul": "사라지진 않을까? 왜?", "lyric_translation": "Why won’t it go away?", "range": [199.82, 203.13], "ans": []},
+    {"lyric": "Sarajijin anheulkka wae", "lyric_hangul": "사라지진 않을까? 왜?", "lyric_translation": "Why won’t it go away?", "range": [203.13, 206.62], "ans": []},
+    {"lyric": "Sarajijin anheulkka", "lyric_hangul": "사라지진 않을까?", "lyric_translation": "Why won’t it go away?", "range": [206.62, 211.51], "ans": []},
+    "",
+    {
+      "lyric_hangul": "Girl, let me know, girl, let me know",
+      "lyric_translation": "Girl let me know / Girl let me know",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW", "range": [211.51, 213.29], "ans": [7]},
+        {"lyric": "GIRL LET ME KNOW​", "range": [213.29, 214.72], "ans": [7]}
+      ]
+    },
+    {"lyric": "Imi da kkeutnan geon algo itjiman", "lyric_hangul": "이미 다 끝난 건 알고 있지만", "lyric_translation": "Although I already know everything is over", "range": [214.69, 216.57], "ans": [7]},
+    {"lyric": "Miryeonirado namji ankeman", "lyric_hangul": "미련이라도 남지 않게만", "lyric_translation": "Although you’re over me", "range": [216.57, 218.91], "ans": [7]},
+    {"lyric": "GIRL LET ME KNOW", "lyric_hangul": "Girl, let me know (girl, let me know), girl, let me know (girl, let me know)", "lyric_translation": "Girl let me know / Girl let me know", "range": [218.91, 222.58], "ans": [7]},
+    {
+      "lyric_hangul": "Girl, let me know, 뭐라도 말해줘 (eh, eh, hey, yeah)",
+      "lyric_translation": "Girl let me know / Tell me something / I just wanna know",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW​​", "range": [222.42, 223.1], "ans": [7]},
+        {"lyric": "​mworado malhaejwo", "range": [223.1, 224.47], "ans": [7]},
+        {"lyric": "(I JUST WANNA)​", "range": [223.77, 224.81], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I just wanna know, know, know (know)",
+      "lyric_translation": "know know / I just wanna know",
+      "parts": [
+        {"lyric": "KNOW ​​KNOW​​ KNOW​​", "range": [224.81, 225.78], "ans": [6]},
+        {"lyric": "(know, I just wanna know~)", "range": [225.08, 227.62], "ans": [7]},
+        {"lyric": "(I JUST WANNA)", "range": [226.92, 228.51], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "I just wanna know, know, know (I just wanna know, whoa, know, know)",
+      "lyric_translation": "know know",
+      "parts": [
+        {"lyric": "KNOW ​​KNOW​​ KNOW​​", "range": [228.51, 229.97], "ans": [6]},
+        {"lyric": "(know~)", "range": [230.16, 231.96], "ans": [7]}
+      ]
+    },
+    {"lyric": "Miryeoni machimpyo apeseo beotigo isseo", "lyric_hangul": "미련이 마침표 앞에서 버티고 있어 (버티고 있어)", "lyric_translation": "My lingering feelings are trying to withstand the end", "range": [231.96, 235.8], "ans": [7]},
+    {"lyric": "Geureoni mworado naege malhaejwo", "lyric_hangul": "그러니 뭐라도 내게 말해줘", "lyric_translation": "So please tell me something,", "range": [235.8, 239.05], "ans": [7]},
+    {
+      "lyric_hangul": "Girl, let me know",
+      "lyric_translation": "girl let me know / (let me know)",
+      "parts": [
+        {"lyric": "GIRL LET ME KNOW​​", "range": [239.05, 239.47], "ans": [7]},
+        {"lyric": "(LET ME KNOW)​​", "range": [239.47, 242.33], "ans": [7]}
+      ]
+    },
+    {"lyric": "Let me know, yeah, yeah", "lyric_hangul": "Let me know, yeah, yeah", "lyric_translation": "", "range": [242.33, 250.31], "ans": []}
+  ]
+}

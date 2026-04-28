@@ -1,0 +1,213 @@
+{
+  "name": "FAKE LOVE\r",
+  "ogg": "sound/kpop/fake_love.ogg",
+  "id": "fake-love",
+  "group": "bts",
+  "language": "ko",
+  "released": "2018-05-18",
+  "album": "LOVE YOURSELF 轉 ‘Tear’",
+  "cover": "css/images/covers/fake-love.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:44Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "널 위해서라면 난 슬퍼도 기쁜 척 할 수가 있었어",
+      "lyric_translation": "If it’s for you / I can act like I’m happy even when I’m sad",
+      "parts": [
+        {"lyric": "Neol wihaeseoramyeon nan", "range": [0.2, 1.92], "ans": [6]},
+        {"lyric": "Seulpeodo gippeun cheok hal suga isseosseo", "range": [1.92, 5.61], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "널 위해서라면 난 아파도 강한 척 할 수가 있었어",
+      "lyric_translation": "If it’s for you / I can act strong even when it hurts",
+      "parts": [
+        {"lyric": "Neol wihaeseoramyeon nan", "range": [5.61, 8.24], "ans": [6]},
+        {"lyric": "Apado ganghan cheok hal suga isseosseo", "range": [8.24, 11.81], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "사랑이 사랑만으로 완벽하길 내 모든 약점들은 다 숨겨지길",
+      "lyric_translation": "Hoping love will be perfected with only love / Hoping that all my weaknesses will be hidden",
+      "parts": [
+        {"lyric": "Sarangi sarangmaneuro wanbyeokhagil", "range": [11.81, 15.67], "ans": [7]},
+        {"lyric": "Nae modeun yakjeomdeureun da sumgyeojigil", "range": [15.67, 18.71], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "이뤄지지 않는 꿈속에서 피울 수 없는 꽃을 키웠어",
+      "lyric_translation": "In this dream that won’t ever come true / I grew a flower that couldn’t be blossomed",
+      "parts": [
+        {"lyric": "Irweojiji anneun kkumsogeseo", "range": [18.39, 20.95], "ans": [7]},
+        {"lyric": "Piul su eomneun kkocheul kiweosseo", "range": [20.95, 24.03], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "I’m so sick of this", "lyric_hangul": "I'm so sick of this fake love", "lyric_translation": "I’m so sick of this", "range": [24.03, 27.1], "ans": [5]},
+    {"lyric": "Fake love, fake love, fake love", "lyric_hangul": "Fake love, fake love", "lyric_translation": "Fake love, fake love, fake love", "range": [27.1, 30.33], "ans": [5]},
+    {"lyric": "I’m so sorry but it’s", "lyric_hangul": "I'm so sorry but it's fake love", "lyric_translation": "I’m so sorry but it’s", "range": [30.33, 33.24], "ans": [1]},
+    {"lyric": "Fake love, fake love, fake love", "lyric_hangul": "Fake love, fake love", "lyric_translation": "Fake love, fake love, fake love", "range": [33.24, 36.65], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "I wanna be a good man just for you",
+      "lyric_translation": "I wanna be a good man / just for you",
+      "parts": [
+        {"lyric": "I wanna be a good man", "range": [36.65, 39.03], "ans": [4]},
+        {"lyric": "Just for you", "range": [38.33, 40.32], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "세상을 줬네 just for you",
+      "lyric_translation": "I gave you the world, / just for you",
+      "parts": [
+        {"lyric": "Sesangeul jweonne", "range": [40.19, 41.65], "ans": [4]},
+        {"lyric": "Just for you", "range": [41.65, 43.49], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "전부 바꿨어 just for you",
+      "lyric_translation": "I changed everything / just for you",
+      "parts": [
+        {"lyric": "Jeonbu bakkweosseo", "range": [43.16, 44.76], "ans": [4]},
+        {"lyric": "Just for you", "range": [44.76, 46.76], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "Now I don't know me, who are you?",
+      "lyric_translation": "Now I dunno me / Who are you?",
+      "parts": [
+        {"lyric": "Now I dunno me", "range": [46.76, 48.07], "ans": [4]},
+        {"lyric": "Who are you?", "range": [47.37, 49.78], "ans": [4, 7]}
+      ]
+    },
+    {"lyric": "Urimane sup neoneun eopseosseo", "lyric_hangul": "Hey, 우리만의 숲 너는 없었어", "lyric_translation": "In our forest, you weren’t there", "range": [49.65, 52.81], "ans": [3]},
+    {"lyric": "Naega watteon Route ijeobeoryeosseo", "lyric_hangul": "내가 왔던 route 잊어버렸어", "lyric_translation": "I forgot the route that I came on", "range": [52.81, 55.97], "ans": [3]},
+    {"lyric": "Nado naega nuguyeonneunjido jal moreuge dwaesseo", "lyric_hangul": "나도 내가 누구였는지도 잘 모르게 됐어", "lyric_translation": "Now I don’t even know who I used to be", "range": [55.97, 59.54], "ans": [3]},
+    {"lyric": "Geoureda jikkeoryeobwa neoneun daeche nuguni", "lyric_hangul": "거울에다 지껄여봐, 너는 대체 누구니?", "lyric_translation": "So I ask the mirror, who are you?", "range": [59.54, 61.89], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "널 위해서라면 난 슬퍼도 기쁜 척 할 수가 있었어",
+      "lyric_translation": "If it’s for you / I can act like I’m happy even when I’m sad",
+      "parts": [
+        {"lyric": "Neol wihaeseoramyeon nan", "range": [61.89, 63.93], "ans": [5]},
+        {"lyric": "Seulpeodo gippeun cheok hal suga isseosseo", "range": [63.93, 67.62], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "널 위해서라면 난 아파도 강한 척 할 수가 있었어",
+      "lyric_translation": "If it’s for you / I can act strong even when it hurts",
+      "parts": [
+        {"lyric": "Neol wihaeseoramyeon nan", "range": [67.62, 70.13], "ans": [5]},
+        {"lyric": "Apado ganghan cheok hal suga isseosseo", "range": [70.13, 73.82], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "사랑이 사랑만으로 완벽하길 내 모든 약점들은 다 숨겨지길",
+      "lyric_translation": "Hoping love will be perfected with only love / Hoping that all my weaknesses will be hidden",
+      "parts": [
+        {"lyric": "Sarangi sarangmaneuro wanbyeokhagil", "range": [73.82, 77.6], "ans": [1]},
+        {"lyric": "Nae modeun yakjeomdeureun da sumgyeojigil", "range": [77.6, 80.64], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "이뤄지지 않는 꿈속에서 피울 수 없는 꽃을 키웠어",
+      "lyric_translation": "In this dream that won’t ever come true / I grew a flower that couldn’t be blossomed",
+      "parts": [
+        {"lyric": "Irweojiji anneun kkumsogeseo", "range": [80.37, 82.83], "ans": [1]},
+        {"lyric": "Piul su eomneun kkocheul kiweosseo", "range": [82.83, 86.35], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "Love you so bad, love you so bad", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "Love you so bad, love you so bad", "range": [86.35, 89.2], "ans": [7]},
+    {"lyric": "Neol wihae yeppeun geojiseul bijeonae", "lyric_hangul": "널 위해 예쁜 거짓을 빚어내", "lyric_translation": "For you, I’m enacting a pretty lie", "range": [89.2, 92.81], "ans": [7]},
+    {"lyric": "Love it’s so mad, love it’s so mad", "lyric_hangul": "Love, it's so mad, love, it's so mad", "lyric_translation": "Love it’s so mad, love it’s so mad", "range": [92.81, 95.42], "ans": [6]},
+    {"lyric": "Nal jiweo neoye inhyeongi doeryeo hae", "lyric_hangul": "날 지워 너의 인형이 되려 해", "lyric_translation": "I’m erasing myself to become your doll", "range": [95.42, 99.08], "ans": [6]},
+    {"lyric": "Love you so bad, love you so bad", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "Love you so bad, love you so bad", "range": [99.08, 101.6], "ans": [7]},
+    {"lyric": "Neol wihae yeppeun geojiseul bijeonae", "lyric_hangul": "널 위해 예쁜 거짓을 빚어내", "lyric_translation": "For you, I’m enacting a pretty lie", "range": [101.6, 105.29], "ans": [7]},
+    {"lyric": "Love it’s so mad, love it’s so mad", "lyric_hangul": "Love, it's so mad, love, it's so mad", "lyric_translation": "Love it’s so mad, love it’s so mad", "range": [105.29, 107.86], "ans": [6]},
+    {"lyric": "Nal jiweo neoye inhyeongi doeryeo hae", "lyric_hangul": "날 지워 너의 인형이 되려 해", "lyric_translation": "I’m erasing myself to become your doll", "range": [107.86, 110.84], "ans": [6]},
+    "",
+    {"lyric": "I’m so sick of this", "lyric_hangul": "I'm so sick of this fake love", "lyric_translation": "I’m so sick of this", "range": [110.84, 113.8], "ans": [5]},
+    {"lyric": "Fake love, fake love, fake love", "lyric_hangul": "Fake love, fake love", "lyric_translation": "Fake love, fake love, fake love", "range": [113.8, 117.08], "ans": [5]},
+    {"lyric": "I’m so sorry but it’s", "lyric_hangul": "I'm so sorry but it's fake love", "lyric_translation": "I’m so sorry but it’s", "range": [117.08, 119.77], "ans": [1]},
+    {"lyric": "Fake love, fake love, fake love", "lyric_hangul": "Fake love, fake love", "lyric_translation": "Fake love, fake love, fake love", "range": [119.77, 124.41], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "Why you sad? I don’t know nan molla", "lyric_hangul": "Why you sad? I don't know, 난 몰라", "lyric_translation": "Why you sad? I don’t know, I don’t know", "range": [124.41, 127.52], "ans": [4]},
+    {"lyric": "Useobwa saranghae malhaebwa", "lyric_hangul": "웃어봐 사랑해 말해봐", "lyric_translation": "Smile, tell me you love me", "range": [127.52, 130.83], "ans": [4]},
+    {"lyric": "Nareul bwa najochado beorin na", "lyric_hangul": "나를 봐 나조차도 버린 나", "lyric_translation": "Look at me, I threw myself away", "range": [130.83, 134.14], "ans": [4]},
+    {"lyric": "Neojocha ihaehal su eomneun na", "lyric_hangul": "너조차 이해할 수 없는 나", "lyric_translation": "Not even you can understand me", "range": [134.14, 137.16], "ans": [4]},
+    {
+      "lyric_hangul": "낯설다 하네 네가 좋아하던 나로 변한 내가",
+      "lyric_translation": "You say I’m strange / when I changed into the person you liked",
+      "parts": [
+        {"lyric": "Nasseolda hane niga", "range": [137.16, 138.68], "ans": [2]},
+        {"lyric": "Joahadeon naro byeonan naega", "range": [138.68, 140.31], "ans": [2]}
+      ]
+    },
+    {"lyric": "Anira hane yejeone niga jal algo itteon naega", "lyric_hangul": "아니라 하네 예전에 네가 잘 알고 있던 내가", "lyric_translation": "You say I’m not the person you used to know", "range": [140.31, 143.56], "ans": [2]},
+    {"lyric": "Anigin mweoga anya nan nun meoreosseo", "lyric_hangul": "아니긴 뭐가? 아냐 난 눈 멀었어", "lyric_translation": "What do you mean? No, I’ve grown blind", "range": [143.56, 146.68], "ans": [2]},
+    {
+      "lyric_hangul": "사랑은 뭐가 사랑? It's all fake love",
+      "lyric_translation": "What do you mean this is love, it’s all fake love / Woo, I dunno, I dunno, I dunno why",
+      "parts": [
+        {"lyric": "Sarangeun mweoga sarang It’s all fake love", "range": [146.68, 147.95], "ans": [2]},
+        {"lyric": "Woo, I dunno, I dunno, I dunno why", "range": [147.25, 149.96], "ans": [5]}
+      ]
+    },
+    "",
+    {"lyric": "Ooh, I don't know, I don't know, I don't know why", "lyric_hangul": "Ooh, I don't know, I don't know, I don't know why", "lyric_translation": "", "range": [149.96, 155.65], "ans": []},
+    {"lyric": "Woo nado nal nado nal moreugesseo", "lyric_hangul": "Ooh, 나도 날 나도 날 모르겠어", "lyric_translation": "Woo, I don’t even know myself", "range": [155.65, 161.99], "ans": [5]},
+    {"lyric": "Woo, I just know, I just know, I just know why", "lyric_hangul": "Ooh, I just know, I just know, I just know why", "lyric_translation": "Woo, I just know, I just know, I just know why", "range": [161.99, 167.08], "ans": [1]},
+    {"lyric": "’cause it’s all fake love, fake love, fake love", "lyric_hangul": "'Cause it's all fake love, fake love, fake love", "lyric_translation": "’cause it’s all fake love, fake love, fake love", "range": [167.08, 173.09], "ans": [1]},
+    "",
+    {"lyric": "Love you so bad, love you so bad", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "Love you so bad, love you so bad", "range": [173.09, 176.07], "ans": [7]},
+    {"lyric": "Neol wihae yeppeun geojiseul bijeonae", "lyric_hangul": "널 위해 예쁜 거짓을 빚어내", "lyric_translation": "For you, I’m enacting a pretty lie", "range": [176.07, 179.53], "ans": [7]},
+    {"lyric": "Love it’s so mad, love it’s so mad", "lyric_hangul": "Love, it's so mad, love, it's so mad", "lyric_translation": "Love it’s so mad, love it’s so mad", "range": [179.53, 182.16], "ans": [5]},
+    {"lyric": "Nal jiweo neoye inhyeongi doeryeo hae", "lyric_hangul": "날 지워 너의 인형이 되려 해", "lyric_translation": "I’m erasing myself to become your doll", "range": [182.16, 185.8], "ans": [5]},
+    {"lyric": "Love you so bad, love you so bad", "lyric_hangul": "Love you so bad, love you so bad", "lyric_translation": "Love you so bad, love you so bad", "range": [185.8, 188.37], "ans": [7]},
+    {"lyric": "Neol wihae yeppeun geojiseul bijeonae", "lyric_hangul": "널 위해 예쁜 거짓을 빚어내", "lyric_translation": "For you, I’m enacting a pretty lie", "range": [188.37, 191.81], "ans": [7]},
+    {"lyric": "Love it’s so mad, love it’s so mad", "lyric_hangul": "Love, it's so mad, love, it's so mad", "lyric_translation": "Love it’s so mad, love it’s so mad", "range": [191.81, 194.5], "ans": [5]},
+    {"lyric": "Nal jiweo neoye inhyeongi doeryeo hae", "lyric_hangul": "날 지워 너의 인형이 되려 해", "lyric_translation": "I’m erasing myself to become your doll", "range": [194.5, 197.57], "ans": [5]},
+    "",
+    {"lyric": "I’m so sick of this", "lyric_hangul": "I'm so sick of this fake love", "lyric_translation": "I’m so sick of this", "range": [197.57, 200.17], "ans": [5]},
+    {"lyric": "Fake love, fake love, fake love", "lyric_hangul": "Fake love, fake love", "lyric_translation": "Fake love, fake love, fake love", "range": [200.17, 203.79], "ans": [5]},
+    {"lyric": "I’m so sorry but it’s", "lyric_hangul": "I'm so sorry but it's fake love", "lyric_translation": "I’m so sorry but it’s", "range": [203.79, 206.52], "ans": [1]},
+    {"lyric": "Fake love, fake love, fake love", "lyric_hangul": "Fake love, fake love", "lyric_translation": "Fake love, fake love, fake love", "range": [206.52, 210.25], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "널 위해서라면 난 슬퍼도 기쁜 척 할 수가 있었어",
+      "lyric_translation": "If it’s for you / I can act like I’m happy even when I’m sad",
+      "parts": [
+        {"lyric": "Neol wihaeseoramyeon nan", "range": [210.25, 212.53], "ans": [5, 6]},
+        {"lyric": "Seulpeodo gippeun cheok hal suga isseosseo", "range": [212.53, 216.35], "ans": [5, 6]}
+      ]
+    },
+    {
+      "lyric_hangul": "널 위해서라면 난 아파도 강한 척 할 수가 있었어",
+      "lyric_translation": "If it’s for you / I can act strong even when it hurts",
+      "parts": [
+        {"lyric": "Neol wihaeseoramyeon nan", "range": [216.35, 218.77], "ans": [5, 6]},
+        {"lyric": "Apado ganghan cheok hal suga isseosseo", "range": [218.77, 222.47], "ans": [5, 6]}
+      ]
+    },
+    {
+      "lyric_hangul": "사랑이 사랑만으로 완벽하길 내 모든 약점들은 다 숨겨지길",
+      "lyric_translation": "Hoping love will be perfected with only love / Hoping that all my weaknesses will be hidden",
+      "parts": [
+        {"lyric": "Sarangi sarangmaneuro wanbyeokhagil", "range": [222.47, 226.17], "ans": [1, 7]},
+        {"lyric": "Nae modeun yakjeomdeureun da sumgyeojigil", "range": [226.17, 229.29], "ans": [1, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "이뤄지지 않는 꿈속에서 피울 수 없는 꽃을 키웠어",
+      "lyric_translation": "In this dream that won’t ever come true / I grew a flower that couldn’t be blossomed",
+      "parts": [
+        {"lyric": "Irweojiji anneun kkumsogeseo", "range": [228.85, 231.49], "ans": [1, 7]},
+        {"lyric": "Piul su eomneun kkocheul kiweosseo", "range": [231.49, 235.77], "ans": [1, 7]}
+      ]
+    }
+  ]
+}

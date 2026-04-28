@@ -1,0 +1,113 @@
+{
+  "name": "Reflection\r",
+  "ogg": "sound/kpop/reflection.ogg",
+  "id": "reflection",
+  "group": "bts",
+  "language": "ko",
+  "released": "2016-10-10",
+  "album": "WINGS",
+  "cover": "css/images/covers/reflection.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "I know every life's a movie",
+      "lyric_translation": "I know / Every life’s a movie",
+      "parts": [
+        {"lyric": "I know", "range": [43.13, 43.95], "ans": [4]},
+        {"lyric": "Every life’s a movie", "range": [43.95, 46.85], "ans": [4]}
+      ]
+    },
+    {"lyric": "We got different start and stories", "lyric_hangul": "We got different stars and stories", "lyric_translation": "We got different stars and stories", "range": [46.85, 49.64], "ans": [4]},
+    {"lyric": "We got different nights and mornings", "lyric_hangul": "We got different nights and mornings", "lyric_translation": "We got different nights and mornings", "range": [49.64, 53.24], "ans": [4]},
+    {"lyric": "Our scenarios ain’t just boring", "lyric_hangul": "Our scenarios ain't just boring", "lyric_translation": "Our scenarios ain’t just boring", "range": [53.24, 55.26], "ans": [4]},
+    "",
+    {"lyric": "Naneun i yeonghwaga neomu jaemisseo", "lyric_hangul": "나는 이 영화가 너무 재밌어", "lyric_translation": "I find this movie very amusing", "range": [55.26, 59.07], "ans": [4]},
+    {"lyric": "Maeilmaeil jal jjikgo sipeo", "lyric_hangul": "매일매일 잘 찍고 싶어", "lyric_translation": "Everyday, I want to shoot it well", "range": [59.07, 62.35], "ans": [4]},
+    {"lyric": "Nan nal sseudadeumeojugo sipeo", "lyric_hangul": "난 날 쓰다듬어주고 싶어", "lyric_translation": "I want to caress myself", "range": [62.35, 65.78], "ans": [4]},
+    {"lyric": "Nal sseudadeumeojugo sipeo", "lyric_hangul": "날 쓰다듬어주고 싶어", "lyric_translation": "I want to caress myself", "range": [65.78, 68.05], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "근데 말야 가끔 나는 내가 너무너무 미워",
+      "lyric_translation": "But you know, sometimes I / really really hate myself",
+      "parts": [
+        {"lyric": "Geunde marya gakkeum naneun naega", "range": [68.05, 70.35], "ans": [4]},
+        {"lyric": "Neomuneomu miwo", "range": [70.35, 72.01], "ans": [4]}
+      ]
+    },
+    {"lyric": "Sasil kkwaena jaju naneun naega neomu miwo", "lyric_hangul": "사실, 꽤나 자주 나는 내가 너무 미워", "lyric_translation": "To be honest, quite often, I really hate myself", "range": [72.01, 75.01], "ans": [4]},
+    {"lyric": "Naega neomu miul ttae nan ttukseome wa", "lyric_hangul": "내가 너무 미울 때 난 뚝섬에 와", "lyric_translation": "When I really hate myself, I go to Dduksum", "range": [75.01, 78.61], "ans": [4]},
+    {"lyric": "Geunyang seo isseo, iksukhan eodumgwa", "lyric_hangul": "그냥 서 있어 익숙한 어둠과", "lyric_translation": "I just stand there with the familiar darkness", "range": [78.61, 81.17], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "웃고 있는 사람들과, 나를 웃게 하는 beer",
+      "lyric_translation": "With the people that are smiling and beer, / Which makes me smile",
+      "parts": [
+        {"lyric": "Utgo itneun saramdeulgwa", "range": [81.17, 83.2], "ans": [4]},
+        {"lyric": "Nareul utge haneun beer", "range": [83.2, 84.85], "ans": [4]}
+      ]
+    },
+    {"lyric": "Seulmyeosi dagawaseo naui soneul japneun fear", "lyric_hangul": "슬며시 다가와서, 나의 손을 잡는 fear", "lyric_translation": "Coming to me softly, fear, which holds my hand", "range": [84.85, 88.09], "ans": [4]},
+    {"lyric": "Gwaenchanha da dulsesinikka", "lyric_hangul": "괜찮아 다 둘셋이니까", "lyric_translation": "It’s okay because everyone is in twos or threes", "range": [88.09, 91.19], "ans": [4]},
+    {"lyric": "Nado chinguga isseum johjanha", "lyric_hangul": "나도 친구가 있음 좋잖아", "lyric_translation": "It’d be nice if I had friends too", "range": [91.19, 95.79], "ans": [4]},
+    "",
+    "[next-col]",
+    {"lyric": "Sesangeun jeolmangui tto dareun ireum", "lyric_hangul": "세상은 절망의 또 다른 이름", "lyric_translation": "The world is just another name for despair", "range": [124.13, 127.17], "ans": [4]},
+    {"lyric": "Naui kineun jiguui tto dareun jireum", "lyric_hangul": "나의 키는 지구의 또 다른 지름", "lyric_translation": "My height is just another diameter for the earth", "range": [127.17, 130.38], "ans": [4]},
+    {"lyric": "Naneun naui modeun gippeumija sireum", "lyric_hangul": "나는 나의 모든 기쁨이자 시름", "lyric_translation": "I am all of my joy and anxiety", "range": [130.38, 133.65], "ans": [4]},
+    {"lyric": "Maeil banbokdwae nal hyanghan johgo silheum", "lyric_hangul": "매일 반복돼, 날 향한 좋고 싫음", "lyric_translation": "It repeats everyday, the love and hate directed to me", "range": [133.65, 136.54], "ans": [4]},
+    {"lyric": "Jeogi hangangeul boneun chinguya", "lyric_hangul": "저기 한강을 보는 친구야", "lyric_translation": "Hey you, who’s looking over the Han River", "range": [136.54, 139.84], "ans": [4]},
+    {"lyric": "Uri osgiseul seuchimyeon inyeoni doelkka", "lyric_hangul": "우리 옷깃을 스치면, 인연이 될까?", "lyric_translation": "If we bump into each other while passing, would it be fate?", "range": [139.84, 142.9], "ans": [4]},
+    {"lyric": "Ani uri jeonsaenge seuchyeosseulji molla", "lyric_hangul": "아니, 우리 전생에 스쳤을지 몰라", "lyric_translation": "Or maybe we bumped into each other in our past life", "range": [142.9, 146.02], "ans": [4]},
+    {"lyric": "Eojjeom sueopsi budijhyeosseuljido molla", "lyric_hangul": "어쩜 수없이 부딪혔을지도 몰라", "lyric_translation": "Maybe we bumped into each other countless times", "range": [146.02, 148.78], "ans": [4]},
+    "",
+    {
+      "lyric_hangul": "어둠 속에서 사람들은 낮보다 행복해 보이네",
+      "lyric_translation": "In the darkness, / People look happier than the day",
+      "parts": [
+        {"lyric": "Eodum sogeseo saramdeureun", "range": [148.78, 151.2], "ans": [4]},
+        {"lyric": "Najboda haengbokhae boine", "range": [151.2, 152.94], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "다들 자기가 있을 곳을 아는데, 나만 하릴없이 걷네",
+      "lyric_translation": "Everyone else knows where they’re supposed to be / But only I walk without purpose",
+      "parts": [
+        {"lyric": "Dadeul jagiga isseul goseul aneunde", "range": [152.93, 155.47], "ans": [4]},
+        {"lyric": "Naman harileopsi geotne", "range": [155.47, 156.94], "ans": [4]}
+      ]
+    },
+    {"lyric": "Geuraedo yeogi seokkyeoitneun ge deo pyeonhae", "lyric_hangul": "그래도, 여기 섞여있는 게 더 편해", "lyric_translation": "But still, blending in with them is more comfortable", "range": [156.94, 158.92], "ans": [4]},
+    {
+      "lyric_hangul": "밤을 삼킨 뚝섬은 나에게 전혀 다른 세상을 건네",
+      "lyric_translation": "Dduksum, which has swallowed up the night / Hands me an entirely different world",
+      "parts": [
+        {"lyric": "Bameul samkin ttukseomeun naege", "range": [158.92, 161.44], "ans": [4]},
+        {"lyric": "Jeonhyeo dareun sesangeul geonne", "range": [161.44, 163.38], "ans": [4]}
+      ]
+    },
+    {"lyric": "Naneun jayuropgo sipda", "lyric_hangul": "나는 자유롭고 싶다", "lyric_translation": "I want to be free", "range": [162.82, 165.59], "ans": [4]},
+    {"lyric": "Jayuegeseo jayuropgo sipda", "lyric_hangul": "자유에게서 자유롭고 싶다", "lyric_translation": "I want to be free from freedom", "range": [165.59, 168.77], "ans": [4]},
+    {"lyric": "Jigeumeun haengbokhande bulhaenghanikka", "lyric_hangul": "지금은 행복한데, 불행하니까", "lyric_translation": "Because right now I’m happy but I’m unhappy", "range": [168.77, 172.31], "ans": [4]},
+    {
+      "lyric_hangul": "나는 나를 보네 뚝섬에서, yeah",
+      "lyric_translation": "I’m looking at myself / At Dduksum",
+      "parts": [
+        {"lyric": "Naneun nareul bone", "range": [172.31, 173.93], "ans": [4]},
+        {"lyric": "Ttukseomeseo", "range": [173.93, 178.15], "ans": [4]}
+      ]
+    },
+    "",
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [202.04, 205.31], "ans": [4]},
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [205.31, 208.45], "ans": [4]},
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [208.45, 211.8], "ans": [4]},
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [211.8, 215.08], "ans": [4]},
+    "",
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [215.08, 218.26], "ans": [4]},
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [218.26, 221.48], "ans": [4]},
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [221.48, 224.74], "ans": [4]},
+    {"lyric": "I wish I could love myself", "lyric_hangul": "I wish I could love myself", "lyric_translation": "I wish I could love myself", "range": [224.74, 228.94], "ans": [4]}
+  ]
+}

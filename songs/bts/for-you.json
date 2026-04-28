@@ -1,0 +1,1143 @@
+{
+  "name": "FOR YOU\r",
+  "ogg": "sound/kpop/for_you.ogg",
+  "id": "for-you",
+  "group": "bts",
+  "language": "ja",
+  "released": "2015-08-24",
+  "album": "FOR YOU",
+  "cover": "css/images/covers/for-you.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:47Z",
+  "hidden": true,
+  "slots": [],
+  "lines": [
+    {
+      "lyric": "Kimi no kaori ga suru",
+      "lyric_hangul": "君の香りがする",
+      "lyric_translation": "It smells like you",
+      "range": [
+        14.83,
+        16.85
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Kono michi o tadotte iku",
+      "lyric_hangul": "この道を辿って行く",
+      "lyric_translation": "The road that I walk on",
+      "range": [
+        16.85,
+        20.13
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Iyahon sashikomu kono kodouni",
+      "lyric_hangul": "イヤホン差し込むこの鼓動に",
+      "lyric_translation": "I plug my earphone to my status",
+      "range": [
+        20.13,
+        22.65
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Tashikana omoi ga sono sakini aru",
+      "lyric_hangul": "確かな想いがその先にある",
+      "lyric_translation": "My true feelings lie beyond there",
+      "range": [
+        22.65,
+        26.49
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Baby why you far away?",
+      "lyric_hangul": "Baby why you far away?",
+      "lyric_translation": "Baby why you far away",
+      "range": [
+        26.49,
+        28.88
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Narenai kimi ga i nai to nankane",
+      "lyric_hangul": "慣れない君がいないと なんかね",
+      "lyric_translation": "I can’t get used to you not being here",
+      "range": [
+        28.88,
+        30.93
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Nani ga tarinai kisuru",
+      "lyric_hangul": "何か足りない気がする",
+      "lyric_translation": "I feel like something is missing",
+      "range": [
+        30.93,
+        33.48
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Zutto isshoni futari itai dakenanoni",
+      "lyric_hangul": "ずっと一緒に2人いたいだけなのに",
+      "lyric_translation": "I just want to be together with you always",
+      "range": [
+        33.48,
+        37.28
+      ],
+      "ans": []
+    },
+    "",
+    {
+      "lyric": "Kidzukeba kimi wa kono sumaho no nakadake de",
+      "lyric_hangul": "気付けば君はこのスマホの中だけで",
+      "lyric_translation": "When I realize we were only be able to meet inside this smartphone",
+      "range": [
+        37.28,
+        40.17
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Shika aenai me no maeni arawarete",
+      "lyric_hangul": "しか会えない目の前に現れて",
+      "lyric_translation": "You appeared before my eyes",
+      "range": [
+        40.17,
+        42.58
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Isshoni irenai sabishisa kyoumo kamishime",
+      "lyric_hangul": "一緒にいれない寂しさ 今日も噛み締め",
+      "lyric_translation": "Today too I feel the sadness of not able to see you",
+      "range": [
+        42.58,
+        46.21
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Omoi to urahara jikandake sugi teku",
+      "lyric_hangul": "想いと裏腹 時間だけ過ぎてく",
+      "lyric_translation": "Contrary to my feelings time passes rapidly",
+      "range": [
+        46.21,
+        49.57
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Fuan na kimochi ni nattemo",
+      "lyric_hangul": "不安な気持ちになっても",
+      "lyric_translation": "Even if I feel insecure",
+      "range": [
+        49.57,
+        52.0
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Kyori yori mo kokoro hanarenaide to",
+      "lyric_hangul": "距離の様 心離れないでと",
+      "lyric_translation": "I believe that my heart will not leave you",
+      "range": [
+        52.0,
+        55.45
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Shinjite todokeru kaze no sakini ha",
+      "lyric_hangul": "信じて届ける風の先には",
+      "lyric_translation": "My heart will reach past beyond the wind",
+      "range": [
+        55.45,
+        58.02
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Itsumo ore ga iru onaji sora no shita my baby",
+      "lyric_hangul": "いつも俺がいる 同じ空の下 my baby...",
+      "lyric_translation": "I am always under the same sky my baby",
+      "range": [
+        58.02,
+        61.25
+      ],
+      "ans": []
+    },
+    "",
+    {
+      "lyric": "Subete for you",
+      "lyric_hangul": "すべて for you",
+      "lyric_translation": "Everything is for you",
+      "range": [
+        61.25,
+        63.27
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Kotae nante",
+      "lyric_hangul": "答えなんて",
+      "lyric_translation": "Everything is alright",
+      "range": [
+        63.27,
+        66.01
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Nakute ii subete wa",
+      "lyric_hangul": "なくていい全ては",
+      "lyric_translation": "Even if there is no answer",
+      "range": [
+        66.01,
+        68.74
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Kimi no egao nakani aru",
+      "lyric_hangul": "君の笑顔の中にある",
+      "lyric_translation": "Everything is inside your smile",
+      "range": [
+        68.74,
+        71.77
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "Truth",
+      "range": [
+        71.77,
+        74.77
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Hanarete itemo",
+      "lyric_hangul": "離れていても",
+      "lyric_translation": "Even if we are apart",
+      "range": [
+        74.77,
+        78.18
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Kokoro to kokoro wa tsunagate iru",
+      "lyric_hangul": "心と心は繋がっている",
+      "lyric_translation": "Our hearts are connected to each other",
+      "range": [
+        78.18,
+        82.03
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Forever kimi to",
+      "lyric_hangul": "Forever 君と",
+      "lyric_translation": "Forever with you",
+      "range": [
+        82.03,
+        83.93
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Hira hira mau",
+      "lyric_hangul": "ヒラヒラ舞う",
+      "lyric_translation": "Flutter already",
+      "range": [
+        83.93,
+        85.18
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Hanabira no shawa",
+      "lyric_hangul": "花びらのシャワー",
+      "lyric_translation": "Flower petals shower",
+      "range": [
+        85.18,
+        86.66
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Kira kira mau",
+      "lyric_hangul": "キラキラ舞う",
+      "lyric_translation": "Sparkle already",
+      "range": [
+        86.66,
+        87.92
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Taiyou no naka",
+      "lyric_hangul": "太陽の中",
+      "lyric_translation": "Inside the sun",
+      "range": [
+        87.92,
+        89.77
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Boku wa dakishimete iru",
+      "lyric_hangul": "僕は抱きしめている",
+      "lyric_translation": "I am embracing you always",
+      "range": [
+        89.77,
+        92.62
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Mune no nakade kimi wo zutto",
+      "lyric_hangul": "胸の中で君をずっと",
+      "lyric_translation": "Inside my heart forever",
+      "range": [
+        92.62,
+        95.76
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Hira hira mau",
+      "lyric_hangul": "ヒラヒラ舞う",
+      "lyric_translation": "Flutter already",
+      "range": [
+        95.76,
+        96.6
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric_hangul": "花びらのシャワー",
+      "lyric_translation": "Flower petals shower",
+      "parts": [
+        {
+          "lyric": "Hanabira no",
+          "range": [
+            96.6,
+            98.18
+          ],
+          "ans": [
+            7
+          ]
+        },
+        {
+          "lyric": "Shawa",
+          "range": [
+            97.48,
+            99.06
+          ],
+          "ans": []
+        }
+      ]
+    },
+    {
+      "lyric": "Kirakira mau",
+      "lyric_hangul": "キラキラ舞う",
+      "lyric_translation": "Sparkle already",
+      "range": [
+        98.07,
+        99.43
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Taiyou no shita de zutto futari wa",
+      "lyric_hangul": "太陽の下でずっと二人は",
+      "lyric_translation": "Under the sun forever just the two of us",
+      "range": [
+        99.43,
+        103.86
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Donna tokimo tsunagatte irukara daijoubu",
+      "lyric_hangul": "どんな時も繋がっているからね大丈夫",
+      "lyric_translation": "It is alright since we are connected always",
+      "range": [
+        103.86,
+        112.28
+      ],
+      "ans": [
+        7
+      ]
+    },
+    "",
+    {
+      "lyric": "Tooi basho sugosu futari",
+      "lyric_hangul": "遠い場所 過ごす2人",
+      "lyric_translation": "We live far away from each other",
+      "range": [
+        113.96,
+        116.23
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Kyou wa nanka mou sukkari",
+      "lyric_hangul": "今日は何かもうすっかり",
+      "lyric_translation": "Today too I feel lonely",
+      "range": [
+        116.23,
+        119.23
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Sabishikute aitai",
+      "lyric_hangul": "寂しくて会いたい",
+      "lyric_translation": "I want to see you",
+      "range": [
+        119.23,
+        121.43
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Hitori no yoru yokei kanjiru sono ookisani",
+      "lyric_hangul": "独りの夜 よけい感じるその大きさに",
+      "lyric_translation": "The night that I am alone I unnecessarily feel the lonelier",
+      "range": [
+        121.43,
+        124.42
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Kyori to kokoro hireisuru nante",
+      "lyric_hangul": "距離と心 比例するなんて",
+      "lyric_translation": "With distance my heart opens more",
+      "range": [
+        124.42,
+        127.71
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Uwasa ga kininari tamaranaku natte",
+      "lyric_hangul": "噂が気になりたまらくなって",
+      "lyric_translation": "It feels unbearable when I hear your rumor",
+      "range": [
+        127.71,
+        129.72
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Shinpaini naru motto toki wa sugi don don",
+      "lyric_hangul": "心配になるもっと 時は過ぎどんどん",
+      "lyric_translation": "I become more frustrated with more time passes",
+      "range": [
+        129.72,
+        133.33
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Afureru tameiki no kazu mo sotto",
+      "lyric_hangul": "溢れるため息の数も相当",
+      "lyric_translation": "The amount that over flows always",
+      "range": [
+        133.33,
+        136.45
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Oh girl kimi no sono egao ga nokotteru no sa",
+      "lyric_hangul": "Oh girl, 君のその笑顔が残ってるのさ",
+      "lyric_translation": "Oh girl your smile still remains here",
+      "range": [
+        136.45,
+        142.41
+      ],
+      "ans": []
+    },
+    {
+      "lyric": "Hanare tete mo kimochi nara itsumo",
+      "lyric_hangul": "離れていても気持ちならいつも",
+      "lyric_translation": "Even if we are apart my feelings are",
+      "range": [
+        142.41,
+        144.97
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Onaji futari wa itsumo demo issho",
+      "lyric_hangul": "同じ2人はいつまでも一緒",
+      "lyric_translation": "Still the same, we are always together",
+      "range": [
+        144.97,
+        146.99
+      ],
+      "ans": [
+        2
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric": "Subete for you",
+      "lyric_hangul": "すべて for you",
+      "lyric_translation": "Everything is for you",
+      "range": [
+        146.99,
+        150.2
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Kotae nante",
+      "lyric_hangul": "答えなんて",
+      "lyric_translation": "Everything is alright",
+      "range": [
+        150.2,
+        152.76
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Nakute ii subete wa",
+      "lyric_hangul": "なくていい全ては",
+      "lyric_translation": "Even if there is no answer",
+      "range": [
+        152.76,
+        155.87
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Kimi no egao no nakani aru",
+      "lyric_hangul": "君の笑顔の中にある",
+      "lyric_translation": "Everything is inside your smile",
+      "range": [
+        155.87,
+        158.94
+      ],
+      "ans": [
+        6
+      ]
+    },
+    "",
+    {
+      "lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "Truth",
+      "range": [
+        158.94,
+        161.24
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Hanarete itemo",
+      "lyric_hangul": "離れていても",
+      "lyric_translation": "Even if we are apart",
+      "range": [
+        161.24,
+        164.44
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Kokoro to kokoro wa tsunagate iru",
+      "lyric_hangul": "心と心は繋がっている",
+      "lyric_translation": "Our hearts are connected to each other",
+      "range": [
+        164.44,
+        168.82
+      ],
+      "ans": [
+        6
+      ]
+    },
+    {
+      "lyric": "Forever kimi to",
+      "lyric_hangul": "Forever 君と",
+      "lyric_translation": "Forever with you",
+      "range": [
+        168.82,
+        170.57
+      ],
+      "ans": [
+        6
+      ]
+    },
+    "",
+    {
+      "lyric": "Hira hira mau",
+      "lyric_hangul": "ヒラヒラ舞う",
+      "lyric_translation": "Flutter already",
+      "range": [
+        170.57,
+        171.88
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Hanabira no shawa",
+      "lyric_hangul": "花びらのシャワー",
+      "lyric_translation": "Flower petals shower",
+      "range": [
+        171.88,
+        173.2
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Kira kira mau",
+      "lyric_hangul": "キラキラ舞う",
+      "lyric_translation": "Sparkle already",
+      "range": [
+        173.2,
+        174.48
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Taiyou no naka",
+      "lyric_hangul": "太陽の中",
+      "lyric_translation": "Inside the sun",
+      "range": [
+        174.48,
+        176.5
+      ],
+      "ans": [
+        2
+      ]
+    },
+    {
+      "lyric": "Boku wa dakishimete iru",
+      "lyric_hangul": "僕は抱きしめている",
+      "lyric_translation": "I am embracing you always",
+      "range": [
+        176.5,
+        179.51
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Mune no nakade kimi wo zutto",
+      "lyric_hangul": "胸の中で君をずっと",
+      "lyric_translation": "Inside my heart forever",
+      "range": [
+        179.51,
+        182.06
+      ],
+      "ans": [
+        5
+      ]
+    },
+    "",
+    {
+      "lyric": "Hira hira mau",
+      "lyric_hangul": "ヒラヒラ舞う",
+      "lyric_translation": "Flutter already",
+      "range": [
+        182.06,
+        183.77
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric_hangul": "花びらのシャワー",
+      "lyric_translation": "Flower petals shower",
+      "parts": [
+        {
+          "lyric": "Hanabira no",
+          "range": [
+            183.77,
+            185.31
+          ],
+          "ans": [
+            7
+          ]
+        },
+        {
+          "lyric": "Shawa",
+          "range": [
+            184.61,
+            186.15
+          ],
+          "ans": []
+        }
+      ]
+    },
+    {
+      "lyric": "Kira kira mau",
+      "lyric_hangul": "キラキラ舞う",
+      "lyric_translation": "Sparkle already",
+      "range": [
+        185.17,
+        186.63
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Taiyou no shita de zutto futari wa",
+      "lyric_hangul": "太陽の下でずっと二人は",
+      "lyric_translation": "Under the sun forever just the two of us",
+      "range": [
+        186.63,
+        190.7
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Donna tokimo tsunagatte irukara daijoubu",
+      "lyric_hangul": "どんな時も繋がっているからね大丈夫",
+      "lyric_translation": "It is alright since we are connected always",
+      "range": [
+        190.7,
+        194.83
+      ],
+      "ans": [
+        5
+      ]
+    },
+    "",
+    {
+      "lyric": "Tatoe tookuni itemo",
+      "lyric_hangul": "例え遠くにいても",
+      "lyric_translation": "Even if we are far away",
+      "range": [
+        194.83,
+        196.7
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Futari onaji sora miteruyo",
+      "lyric_hangul": "2人同じ空見てるよ",
+      "lyric_translation": "We are looking at the same sky",
+      "range": [
+        196.7,
+        200.22
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Tatoe naniga attemo",
+      "lyric_hangul": "例え何があっても",
+      "lyric_translation": "Even if something happens",
+      "range": [
+        200.22,
+        202.83
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Kimi ga ireba nanimo kowakuwanaiyo mou",
+      "lyric_hangul": "君がいれば何も怖くはないよもう",
+      "lyric_translation": "If you are here I am not afraid anymore",
+      "range": [
+        202.83,
+        205.92
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Shinji atterukara",
+      "lyric_hangul": "信じ合ってるから",
+      "lyric_translation": "I believe",
+      "range": [
+        205.92,
+        208.44
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Tagai no ai ga kagayaki auyouni",
+      "lyric_hangul": "互いの愛が輝き合う様に",
+      "lyric_translation": "Our love will lit for eternity",
+      "range": [
+        208.44,
+        212.11
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Kimi wa futari no mama sa",
+      "lyric_hangul": "奇麗な2人のままさ",
+      "lyric_translation": "It will always stay beautiful as it is",
+      "range": [
+        212.11,
+        213.66
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Sakura no hanabira youni",
+      "lyric_hangul": "桜の花びらの様に",
+      "lyric_translation": "It will always be like cherry blossom pedals",
+      "range": [
+        213.66,
+        215.68
+      ],
+      "ans": [
+        3
+      ]
+    },
+    "",
+    {
+      "lyric": "Subete for you",
+      "lyric_hangul": "すべて for you",
+      "lyric_translation": "Everything is for you",
+      "range": [
+        215.68,
+        218.76
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Kotae nante",
+      "lyric_hangul": "答えなんて",
+      "lyric_translation": "Everything is alright",
+      "range": [
+        218.76,
+        221.99
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Nakute ii subetewa",
+      "lyric_hangul": "なくていい全ては",
+      "lyric_translation": "Even if there is no answer",
+      "range": [
+        221.99,
+        225.07
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Kimi no egao no nakani aru",
+      "lyric_hangul": "君の笑顔の中にある",
+      "lyric_translation": "Everything is inside your smile",
+      "range": [
+        225.07,
+        227.85
+      ],
+      "ans": [
+        1
+      ]
+    },
+    "",
+    {
+      "lyric": "Truth",
+      "lyric_hangul": "Truth",
+      "lyric_translation": "Truth",
+      "range": [
+        227.85,
+        231.08
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Hanarete itemo",
+      "lyric_hangul": "離れていても",
+      "lyric_translation": "Even if we are apart",
+      "range": [
+        231.08,
+        233.94
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Kokoro to kokoro wa tsunagate iru",
+      "lyric_hangul": "心と心は繋がっている",
+      "lyric_translation": "Our hearts are connected to each other",
+      "range": [
+        233.94,
+        237.92
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Forever kimi to",
+      "lyric_hangul": "Forever 君と",
+      "lyric_translation": "Forever with you",
+      "range": [
+        237.92,
+        240.22
+      ],
+      "ans": [
+        1
+      ]
+    },
+    "",
+    {
+      "lyric": "Hira hira mau",
+      "lyric_hangul": "ヒラヒラ舞う",
+      "lyric_translation": "Flutter already",
+      "range": [
+        240.22,
+        241.58
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Hanabira no shawa",
+      "lyric_hangul": "花びらのシャワー",
+      "lyric_translation": "Flower petals shower",
+      "range": [
+        241.58,
+        242.87
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Kira kira mau",
+      "lyric_hangul": "キラキラ舞う",
+      "lyric_translation": "Sparkle already",
+      "range": [
+        242.87,
+        244.14
+      ],
+      "ans": [
+        7
+      ]
+    },
+    {
+      "lyric": "Taiyou no naka",
+      "lyric_hangul": "太陽の中",
+      "lyric_translation": "Inside the sun",
+      "range": [
+        244.14,
+        246.26
+      ],
+      "ans": [
+        3
+      ]
+    },
+    {
+      "lyric": "Boku wa dakishimete iru",
+      "lyric_hangul": "僕は抱きしめている",
+      "lyric_translation": "I am embracing you always",
+      "range": [
+        246.26,
+        248.35
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Mune no nakade kimi wo zutto",
+      "lyric_hangul": "胸の中で君をずっと",
+      "lyric_translation": "Inside my heart forever",
+      "range": [
+        248.35,
+        251.84
+      ],
+      "ans": [
+        1
+      ]
+    },
+    "",
+    {
+      "lyric": "Hira hira mau",
+      "lyric_hangul": "ヒラヒラ舞う",
+      "lyric_translation": "Flutter already",
+      "range": [
+        251.84,
+        253.0
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric_hangul": "花びらのシャワー",
+      "lyric_translation": "Flower petals shower",
+      "parts": [
+        {
+          "lyric": "Hanabira no",
+          "range": [
+            253.0,
+            254.08
+          ],
+          "ans": [
+            7
+          ]
+        },
+        {
+          "lyric": "Shawa",
+          "range": [
+            253.38,
+            254.46
+          ],
+          "ans": []
+        }
+      ]
+    },
+    {
+      "lyric": "Kira kira mau",
+      "lyric_hangul": "キラキラ舞う",
+      "lyric_translation": "Sparkle already",
+      "range": [
+        254.46,
+        255.81
+      ],
+      "ans": [
+        5
+      ]
+    },
+    {
+      "lyric": "Taiyou no shita de zutto futari wa",
+      "lyric_hangul": "太陽の下でずっと二人は",
+      "lyric_translation": "Under the sun forever just the two of us",
+      "range": [
+        255.81,
+        258.47
+      ],
+      "ans": [
+        1
+      ]
+    },
+    {
+      "lyric": "Donna tokimo tsunagatte irukara daijoubu",
+      "lyric_hangul": "どんな時も繋がっているからね大丈夫",
+      "lyric_translation": "It is alright since we are connected always",
+      "range": [
+        258.47,
+        285.0
+      ],
+      "ans": [
+        7
+      ]
+    }
+  ]
+}

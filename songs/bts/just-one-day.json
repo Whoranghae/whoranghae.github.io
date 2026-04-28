@@ -1,0 +1,281 @@
+{
+  "name": "Just One Day (하루만)\r",
+  "ogg": "sound/kpop/just_one_day.ogg",
+  "id": "just-one-day",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-02-12",
+  "album": "Skool Luv Affair",
+  "cover": "css/images/covers/just-one-day.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:59Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Yeah yeah", "lyric_hangul": "Yeah, yeah", "lyric_translation": "Yeah yeah", "range": [3.14, 6.03], "ans": [7]},
+    {"lyric": "Yeah just one, day one night", "lyric_hangul": "Yeah, just one day, one night", "lyric_translation": "Yeah just one, day one night", "range": [6.03, 8.7], "ans": []},
+    {"lyric": "That's all I would want", "lyric_hangul": "That's all I would want", "lyric_translation": "", "range": [8.7, 9.41], "ans": []},
+    "",
+    {"lyric": "Haruman naege sigani itdamyeon", "lyric_hangul": "하루만 내게 시간이 있다면", "lyric_translation": "If only I had just one day", "range": [9.41, 11.54], "ans": [2]},
+    {
+      "lyric_hangul": "달콤한 네 향기에 취해서 곤히 난 잠들고파",
+      "lyric_translation": "I want to peacefully fall asleep / intoxicated with your sweet scent",
+      "parts": [
+        {"lyric": "Dalkomhan ni hyanggie chwihaeseo", "range": [11.54, 13.64], "ans": [2]},
+        {"lyric": "Gonhi nan jamdeulgopa", "range": [13.64, 14.78], "ans": [2]}
+      ]
+    },
+    {"lyric": "Ppakppakhan seukejul saie gihoega itdamyeon", "lyric_hangul": "빡빡한 스케줄 사이에 기회가 있다면", "lyric_translation": "If there’s a chance in my busy schedule", "range": [14.25, 16.99], "ans": [2]},
+    {"lyric": "Ttaseuhago gipeun nun ane mom damgeugopa", "lyric_hangul": "따스하고 깊은 눈 안에 몸 담그고파", "lyric_translation": "I want to put my body in your warm and deep eyes", "range": [16.99, 19.76], "ans": [2]},
+    {"lyric": "I like that, neoui geu gilgo gin saengmeori", "lyric_hangul": "I like that, 너의 그 길고 긴 생머리", "lyric_translation": "I like that, your long, straight hair", "range": [19.76, 21.69], "ans": [2]},
+    {
+      "lyric_hangul": "올려 묶을 때의 아찔한 목선과 흘러내린 잔머리",
+      "lyric_translation": "Your breathtaking neck when you / put it up and the strands that fall out",
+      "parts": [
+        {"lyric": "Ollyeo mukkeul ddaeui ajjilhan", "range": [21.69, 23.69], "ans": [2]},
+        {"lyric": "Mokseongwa heulleonaerin janmeori", "range": [23.69, 25.27], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "서로 같이 어딜 가든 내 핸드백은 니 허리",
+      "lyric_translation": "Wherever we go, my handbag is your waist / Yo ma honey, whenever I see you,",
+      "parts": [
+        {"lyric": "Seoro gati eodil gadeun", "range": [24.55, 26.53], "ans": [2]},
+        {"lyric": "Nae haendeubaegeun ni heori", "range": [26.53, 27.83], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "Yo' ma honey, 볼 때마다 숨이 막혀 명동 거리처럼",
+      "lyric_translation": "I run out of breath / Like the streets of Myungdong,",
+      "parts": [
+        {"lyric": "Yo ma honey bol ttaemada sumi makhyeo", "range": [27.1, 29.38], "ans": [2]},
+        {"lyric": "Myeongdong georicheoreom", "range": [29.38, 30.52], "ans": [2]}
+      ]
+    },
+    {"lyric": "Uriui bgm-eun sumsori", "lyric_hangul": "우리의 BGM은 숨소리", "lyric_translation": "our BGM is the sound of breathing", "range": [30.03, 32.23], "ans": [2]},
+    {"lyric": "Nae ireumeul bulleojul ttaeui ni moksorie", "lyric_hangul": "내 이름을 불러줄 때의 니 목소리에 (자기야)", "lyric_translation": "Your voice when you say my name", "range": [32.23, 34.85], "ans": [2]},
+    {
+      "lyric_hangul": "잠겨서 난 수영하고파, 너를 좀 더 알고파",
+      "lyric_translation": "I wanna be locked in you and swim in you, / I want to know you more. An explorer",
+      "parts": [
+        {"lyric": "Jamgyeoseo nan suyeonghagopa", "range": [34.85, 36.86], "ans": [2]},
+        {"lyric": "Neoreul jom deo algopa", "range": [36.86, 38.02], "ans": [2]}
+      ]
+    },
+    {"lyric": "Neoran mijiui supeul gipi moheomhaneun tamheomga", "lyric_hangul": "너란 미지의 숲을 깊이 모험하는 탐험가", "lyric_translation": "venturing through your deep forest of mystery", "range": [37.39, 40.64], "ans": [2]},
+    {"lyric": "Neoran jakpume daehae gamsangeul hae,", "lyric_hangul": "너란 작품에 대해 감상을 해", "lyric_translation": "I appreciate the masterpiece that is you", "range": [40.64, 42.9], "ans": [2]},
+    {"lyric": "Neoran jonjaega yesurinikka", "lyric_hangul": "너란 존재가 예술이니까", "lyric_translation": "because your existence alone is art", "range": [42.9, 44.59], "ans": [2]},
+    {"lyric": "Ireohge maeil nan bamsaedorok sangsangeul hae,", "lyric_hangul": "이렇게 매일 난 밤새도록 상상을 해", "lyric_translation": "I imagine this all night every day", "range": [44.59, 47.26], "ans": [2]},
+    {"lyric": "Eochapi naegeneun muuimihan kkuminikka", "lyric_hangul": "어차피 내게는 무의미한 꿈이니까", "lyric_translation": "because it’s a meaningless dream anyway", "range": [47.26, 49.54], "ans": [2]},
+    "",
+    {"lyric": "Haruman neowa naega hamkkehal su itdamyeon", "lyric_hangul": "하루만 너와 내가 함께할 수 있다면", "lyric_translation": "Just one day, if I can be with you", "range": [49.54, 54.29], "ans": [7]},
+    {"lyric": "Haruman neowa naega sonjabeul su itdamyeon", "lyric_hangul": "하루만 너와 내가 손잡을 수 있다면", "lyric_translation": "Just one day, if I can hold your hands", "range": [54.29, 59.59], "ans": [7]},
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면 하루만 (하루만)",
+      "lyric_translation": "Just one day, if I can be with you / Just one day (just one day)",
+      "parts": [
+        {"lyric": "Haruman neowa naega hamkkehal su itdamyeon", "range": [59.59, 64.87], "ans": [7]},
+        {"lyric": "Haruman (haruman)", "range": [64.8, 67.3], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와 내가 함께할 수 있다면",
+      "lyric_translation": "If only we can be together / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [67.1, 70.29], "ans": [7]},
+        {"lyric": "(Do It Do It Do It)", "range": [69.59, 71.46], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Do it, do it, do it) 너와 하루만 있기를 바래, 바래",
+      "lyric_translation": "I hope I can be with you for just one day / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa haruman itgireul barae barae", "range": [71.46, 75.07], "ans": [1]},
+        {"lyric": "(Do It Do It Do It)", "range": [74.37, 76.49], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Do it, do it, do it) 너와 단둘이 보내는 party, party",
+      "lyric_translation": "Having a party party with only you / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa danduri bonaeneun party party", "range": [76.49, 79.56], "ans": [3]},
+        {"lyric": "(Do It Do It Do It)", "range": [78.86, 81.57], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Do it, do it, do it) 너와 하루만 있기를 바래, 바래",
+      "lyric_translation": "I hope I can be with you for just one day / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa haruman itgireul barae barae", "range": [81.57, 85.22], "ans": [5]},
+        {"lyric": "(Do It Do It Do It)", "range": [84.52, 86.63], "ans": []}
+      ]
+    },
+    {"lyric": "Neowa danduri bonaeneun party party", "lyric_hangul": "(Do it, do it, do it) 너와 단 둘이 보내는 party, party", "lyric_translation": "A party party with only you", "range": [86.63, 90.44], "ans": [6]},
+    "",
+    {"lyric": "Geureol su itdamyeon eolmana joheulkka", "lyric_hangul": "그럴 수 있다면 얼마나 좋을까", "lyric_translation": "If only I could do that, how nice would it be", "range": [90.44, 92.9], "ans": []},
+    {"lyric": "Amudena gaseo bap meokgo yeonghwa", "lyric_hangul": "아무 데나 가서 밥 먹고 영화", "lyric_translation": "If only we could go anywhere", "range": [92.9, 95.31], "ans": []},
+    {"lyric": "Han pyeonman bol suman itdamyeon", "lyric_hangul": "한 편만 볼 수만 있다면", "lyric_translation": "to eat and watch a movie comfortably", "range": [95.31, 98.09], "ans": []},
+    {"lyric": "Naran ae jeongmal mwon jisirado hal tende girl", "lyric_hangul": "나란 애 정말 뭔 짓이라도 할 텐데, girl", "lyric_translation": "I would do anything girl", "range": [98.09, 101.15], "ans": []},
+    {"lyric": "I’m sorry, nae meoriga neom iseongjeok inga bwa", "lyric_hangul": "I'm sorry, 내 머리가 넘 이성적인가 봐", "lyric_translation": "I’m sorry, maybe I’m too rational", "range": [101.15, 103.82], "ans": []},
+    {"lyric": "Geuraedo eonjenga bomyeon useojwo", "lyric_hangul": "그래도 언젠가 보면 웃어줘", "lyric_translation": "But still, if you see me some day, smile", "range": [103.82, 105.86], "ans": []},
+    {
+      "lyric_hangul": "조금은, 아니, 어쩌면 많이, 날 원망하겠지",
+      "lyric_translation": "Maybe you resent me a little or no, a lot / I know, I couldn’t look",
+      "parts": [
+        {"lyric": "Jogeumeun, ani eojjeomyeon manhi", "range": [105.86, 108.34], "ans": []},
+        {"lyric": "Nal wonmanghagetji", "range": [108.34, 109.3], "ans": []}
+      ]
+    },
+    {"lyric": "Ara nae ggum ddaemune neol deo baraboji mothaeseo", "lyric_hangul": "알아 내 꿈 때문에 널 더 바라보지 못해서", "lyric_translation": "at you more because of my dream", "range": [108.53, 110.77], "ans": []},
+    {
+      "lyric_hangul": "그럼 내게 하루만 줘, 꿈 속이라도 하루만",
+      "lyric_translation": "Then just give me one day, / even if it’s in my dream, just one day",
+      "parts": [
+        {"lyric": "Geureom naege haruman jwo,", "range": [110.77, 112.54], "ans": []},
+        {"lyric": "Ggum sogirado haruman", "range": [112.54, 113.83], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "현실을 핑계 대며 삼켜야 했던 그 수많은 말",
+      "lyric_translation": "Out of all those words I had to swallow / because of the excuse of reality",
+      "parts": [
+        {"lyric": "Hyeonsireul pinggye daemyeo", "range": [113.6, 114.96], "ans": []},
+        {"lyric": "Samkyeoya haetdeon geu sumanheun mal", "range": [114.96, 116.46], "ans": []}
+      ]
+    },
+    {"lyric": "Jungeseo dak han madiman jedaero hal su itge", "lyric_hangul": "중에서 딱 한 마디만 제대로 할 수 있게", "lyric_translation": "I’ll pick one and tell it to you for sure", "range": [116.18, 118.5], "ans": []},
+    {
+      "lyric_hangul": "그래, 나팔꽃이 필 때 만나 헤어지자 꽃이 질 때",
+      "lyric_translation": "Let’s meet when the lilies bloom / and say goodbye when they wither",
+      "parts": [
+        {"lyric": "Geurae napalkkochi pil", "range": [118.5, 119.86], "ans": []},
+        {"lyric": "Ddae manna heeojija ggochi jil ddae", "range": [119.86, 121.44], "ans": []}
+      ]
+    },
+    {"lyric": "Swipge ichyeojil geora saenggak an haetjiman", "lyric_hangul": "쉽게 잊혀질 거라 생각 안 했지만", "lyric_translation": "I didn’t think I’d get over you easily but", "range": [121.12, 123.42], "ans": []},
+    {"lyric": "Neoege nan geuraesseum joketdamyeon igijeogilkka", "lyric_hangul": "너에게 난 그랬음 좋겠다면 이기적일까?", "lyric_translation": "Is it selfish of me to hope you are the same?", "range": [123.42, 125.46], "ans": []},
+    {"lyric": "Neol wihaeseoramyeo ajik nan geojitmalhago isseo", "lyric_hangul": "널 위해서라며 아직 난 거짓말하고 있어", "lyric_translation": "I’m still lying, saying that it’s all for you", "range": [125.46, 128.91], "ans": []},
+    {"lyric": "Neon nae hangaunde seo isseo", "lyric_hangul": "넌 내 한가운데 서 있어", "lyric_translation": "You are standing in the center of my life", "range": [128.91, 130.09], "ans": []},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면",
+      "lyric_translation": "Just one day, if I can be with you",
+      "parts": [
+        {"lyric": "Haruman", "range": [130.09, 132.1], "ans": [7]},
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [131.4, 135.59], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "하루만 너와 내가 손잡을 수 있다면",
+      "lyric_translation": "Just one day, if I can hold your hands",
+      "parts": [
+        {"lyric": "Haruman", "range": [135.16, 137.21], "ans": [7]},
+        {"lyric": "Neowa naega sonjabeul su itdamyeon", "range": [136.51, 140.68], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면 하루만 (하루만)",
+      "lyric_translation": "Just one day, if I can be with you / Just one day (just one day)",
+      "parts": [
+        {"lyric": "Haruman", "range": [140.38, 142.25], "ans": [7]},
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [141.55, 145.74], "ans": [6]},
+        {"lyric": "Haruman", "range": [145.74, 147.46], "ans": [7]},
+        {"lyric": "Haruman", "range": [146.76, 148.07], "ans": [6]}
+      ]
+    },
+    {"lyric": "Neowa naega hamkke hago itdamyeon, lets go time", "lyric_hangul": "Ayy, 너와 내가 함께 하고 있다면, let's go time", "lyric_translation": "If you are and I are together, let’s go time", "range": [147.95, 151.34], "ans": [3]},
+    {"lyric": "24 hours neowa danduri itdamyeon", "lyric_hangul": "24 hours 너와 단둘이", "lyric_translation": "24 hours, if I could only be with you", "range": [151.34, 153.54], "ans": [3]},
+    {"lyric": "Achimbuteo ibmatchumhae", "lyric_hangul": "있다면 아침부터 입맞춤 해", "lyric_translation": "I’d kiss you starting from the morning", "range": [153.54, 156.15], "ans": [3]},
+    {"lyric": "Ppajil su eomneun beureonchido han ib hae", "lyric_hangul": "빠질 수 없는 브런치도 한 입 해", "lyric_translation": "Can’t forget to grab some brunch", "range": [156.15, 158.71], "ans": [3]},
+    {"lyric": "Sonjapgo neowa haetbiche mom damgeune", "lyric_hangul": "손잡고 너와 햇빛에 몸 담그네", "lyric_translation": "I’d hold your hand and soak up the sun", "range": [158.71, 161.29], "ans": [3]},
+    {"lyric": "An kkeutnae, areumdaun bamjunge", "lyric_hangul": "안 끝내, 아름다운 밤중에", "lyric_translation": "It’s not over yet, in the middle of a beautiful night", "range": [161.29, 163.66], "ans": [3]},
+    {"lyric": "Neoege gobaekhae jomyeongeun dallo hae", "lyric_hangul": "너에게 고백해, 조명은 달로 해", "lyric_translation": "I’ll confess to you, with the moon as our light", "range": [163.66, 165.91], "ans": [3]},
+    {"lyric": "I sumanheun ildeuri naege mareul hae", "lyric_hangul": "이 수 많은 일들이 내게 말을 해", "lyric_translation": "All of these things tell me", "range": [165.91, 168.67], "ans": [3]},
+    {"lyric": "dan haruman isseumyeon ganeunghae", "lyric_hangul": "단 하루만 있으면 가능해", "lyric_translation": "“If I have just one day, it’s possible”", "range": [168.67, 173.12], "ans": [3]},
+    "",
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면",
+      "lyric_translation": "Just one day, if I can be with you",
+      "parts": [
+        {"lyric": "Haruman", "range": [173.12, 175.11], "ans": [7]},
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [174.41, 178.54], "ans": [1]}
+      ]
+    },
+    {"lyric": "Haruman neowa naega sonjabeul su itdamyeon", "lyric_hangul": "하루만 너와 내가 손잡을 수 있다면", "lyric_translation": "Just one day, if I can hold your hands", "range": [178.02, 183.24], "ans": [7, 5, 1]},
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면 하루만 (하루만)",
+      "lyric_translation": "Just one day, [J/JM] if I can be with you / Just one day (just one day)",
+      "parts": [
+        {"lyric": "Haruman [J/JM] neowa naega hamkkehal su itdamyeon", "range": [183.24, 188.67], "ans": [7, 1, 5]},
+        {"lyric": "Haruman", "range": [188.67, 190.52], "ans": [7]},
+        {"lyric": "Haruman", "range": [189.82, 191.05], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와 내가 함께할 수 있다면",
+      "lyric_translation": "If only we can be together / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [190.97, 194.06], "ans": [1, 5]},
+        {"lyric": "(Do It Do It Do It)", "range": [193.36, 195.23], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Do it, do it, do it) 너와 하루만 있기를 바래, 바래",
+      "lyric_translation": "I [V/JM] hope I can be with you for just one day / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa haruman itgireul [V/JM] barae barae", "range": [195.23, 198.88], "ans": [6, 5]},
+        {"lyric": "(Do It Do It Do It)", "range": [198.18, 200.28], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Do it, do it, do it) 너와 단둘이 보내는 party, party",
+      "lyric_translation": "Having a party party with only you / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "Neowa danduri bonaeneun party party", "range": [200.28, 203.35], "ans": [3]},
+        {"lyric": "(Do It Do It Do It)", "range": [202.65, 205.32], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Do it, do it, do it) 너와 하루만 있기를 바래, 바래",
+      "lyric_translation": "I hope I can be with you for just one day / (Do It Do It Do It)",
+      "parts": [
+        {"lyric": "[JK/JM] neowa haruman itgireul barae barae", "range": [205.32, 209.05], "ans": [7]},
+        {"lyric": "(Do It Do It Do It)", "range": [208.35, 210.32], "ans": []}
+      ]
+    },
+    {"lyric": "Neowa danduri bonaeneun party party", "lyric_hangul": "(Do it, do it, do it) 너와 단둘이 보내는 party, party", "lyric_translation": "Having a party party with only you", "range": [210.32, 213.58], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면",
+      "lyric_translation": "Just one day, if I can be with you",
+      "parts": [
+        {"lyric": "Haruman", "range": [213.58, 215.47], "ans": [7]},
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [214.77, 218.96], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "하루만 너와 내가 손잡을 수 있다면",
+      "lyric_translation": "Just one day, if I can hold your hands",
+      "parts": [
+        {"lyric": "Haruman", "range": [218.48, 220.53], "ans": [7]},
+        {"lyric": "Neowa naega sonjabeul su itdamyeon", "range": [219.83, 224.02], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "하루만 너와 내가 함께할 수 있다면 하루만 (하루만)",
+      "lyric_translation": "Just one day, if I can be with you / Just one day (just one day)",
+      "parts": [
+        {"lyric": "Haruman", "range": [223.5, 225.65], "ans": [7]},
+        {"lyric": "Neowa naega hamkkehal su itdamyeon", "range": [224.95, 229.08], "ans": [5]},
+        {"lyric": "Haruman", "range": [229.66, 230.93], "ans": [7]},
+        {"lyric": "Haruman", "range": [230.23, 231.86], "ans": [5]}
+      ]
+    },
+    {"lyric": "Neowa naega hamkkehal su itdamyeon", "lyric_hangul": "너와 내가 함께할 수 있다면", "lyric_translation": "If only we can be together", "range": [231.86, 236.43], "ans": [7]},
+    "",
+    {"lyric": "Can you please stay with me?", "lyric_hangul": "Can you please stay with me?", "lyric_translation": "Can you please stay with me?", "range": [236.43, 239.0], "ans": []}
+  ]
+}

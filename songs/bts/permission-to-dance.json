@@ -1,0 +1,173 @@
+{
+  "name": "Permission to Dance\r",
+  "ogg": "sound/kpop/permission_to_dance.ogg",
+  "id": "permission-to-dance",
+  "group": "bts",
+  "language": "en",
+  "released": "2021-07-09",
+  "album": "Butter / Permission to Dance",
+  "cover": "css/images/covers/permission-to-dance.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:06Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "It’s the thought of being young", "lyric_hangul": "It's the thought of being young", "lyric_translation": "", "range": [0.28, 2.16], "ans": [7]},
+    {"lyric": "When your heart’s just like a drum", "lyric_hangul": "When your heart's just like a drum", "lyric_translation": "", "range": [2.16, 4.17], "ans": [7]},
+    {"lyric": "Beating louder with no way to guard it", "lyric_hangul": "Beating louder with no way to guard it", "lyric_translation": "", "range": [4.17, 7.96], "ans": [7]},
+    {"lyric": "When it all seems like it’s wrong", "lyric_hangul": "When it all seems like it's wrong", "lyric_translation": "", "range": [7.96, 9.68], "ans": [4]},
+    {"lyric": "Just sing along to Elton John", "lyric_hangul": "Just sing along to Elton John", "lyric_translation": "", "range": [9.68, 12.08], "ans": [4]},
+    {"lyric": "And to that feeling, we’re just getting started", "lyric_hangul": "And to that feeling, we're just getting started", "lyric_translation": "", "range": [12.08, 15.57], "ans": [4]},
+    "",
+    {"lyric": "When the nights get colder", "lyric_hangul": "When the nights get colder", "lyric_translation": "", "range": [15.57, 18.03], "ans": [5]},
+    {"lyric": "And the rhythms got you falling behind", "lyric_hangul": "And the rhythms got you falling behind", "lyric_translation": "", "range": [18.03, 22.74], "ans": [5]},
+    {"lyric": "Just dream about that moment", "lyric_hangul": "Just dream about that moment", "lyric_translation": "", "range": [22.74, 26.04], "ans": [1]},
+    {
+      "lyric_hangul": "When you look yourself right in the eye, eye, eye",
+      "parts": [
+        {"lyric": "When you look yourself", "range": [26.04, 27.72], "ans": [1]},
+        {"lyric": "Right in the eye, eye, eye", "range": [27.72, 30.3], "ans": [1]}
+      ]
+    },
+    {"lyric": "Then you say", "lyric_hangul": "Then you say", "lyric_translation": "", "range": [29.67, 31.05], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "I wanna dance, the music's got me going",
+      "parts": [
+        {"lyric": "I wanna dance", "range": [31.05, 32.73], "ans": [7]},
+        {"lyric": "The music’s got me going", "range": [32.73, 34.19], "ans": [7]}
+      ]
+    },
+    {"lyric": "Ain’t nothing that can stop how we move yeah", "lyric_hangul": "Ain't nothing that can stop how we move, yeah", "lyric_translation": "", "range": [34.19, 38.38], "ans": [7]},
+    {
+      "lyric_hangul": "Let's break our plans and live just like we're golden",
+      "parts": [
+        {"lyric": "Let’s break our plans", "range": [38.38, 39.92], "ans": [6]},
+        {"lyric": "And live just like we’re golden", "range": [39.92, 41.82], "ans": [6]}
+      ]
+    },
+    {"lyric": "And roll in like we’re dancing fools", "lyric_hangul": "And roll in like we're dancing fools", "lyric_translation": "", "range": [41.33, 46.26], "ans": [6]},
+    "",
+    {"lyric": "We don’t need to worry", "lyric_hangul": "We don't need to worry", "lyric_translation": "", "range": [46.26, 49.4], "ans": [5]},
+    {"lyric": "‘Cause when we fall we know how to land", "lyric_hangul": "'Cause when we fall, we know how to land", "lyric_translation": "", "range": [49.4, 53.27], "ans": [5]},
+    {
+      "lyric_hangul": "Don't need to talk the talk, just walk the walk tonight",
+      "parts": [
+        {"lyric": "Don’t need to talk the talk", "range": [53.27, 55.75], "ans": [4]},
+        {"lyric": "Just walk the walk tonight", "range": [55.75, 58.68], "ans": [4]}
+      ]
+    },
+    {"lyric": "‘Cause we don’t need permission to dance", "lyric_hangul": "'Cause we don't need permission to dance", "lyric_translation": "", "range": [58.68, 61.31], "ans": [1]},
+    "",
+    {
+      "lyric_hangul": "There's always something that's standing in the way",
+      "parts": [
+        {"lyric": "There’s always something", "range": [61.31, 62.93], "ans": [3]},
+        {"lyric": "That’s standing in the way", "range": [62.93, 64.77], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "But if you don't let it faze ya, you'll know just how to break",
+      "parts": [
+        {"lyric": "But if you don’t let it faze ya", "range": [64.77, 67.11], "ans": [3]},
+        {"lyric": "You’ll know just how to break", "range": [67.11, 68.6], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "Just keep the right vibe, yeah, 'cause there's no looking back",
+      "parts": [
+        {"lyric": "Just keep the right vibe yeah", "range": [68.6, 70.99], "ans": [2, 3]},
+        {"lyric": "‘Cause there’s no looking back", "range": [70.29, 72.36], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "There ain't no one to prove, we don't got this on lock, yeah",
+      "parts": [
+        {"lyric": "There ain’t no one to prove", "range": [72.36, 74.78], "ans": [2]},
+        {"lyric": "We don’t got this on lock", "range": [74.78, 76.55], "ans": [2]},
+        {"lyric": "Yeah", "range": [75.85, 76.95], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "The wait is over", "lyric_hangul": "The wait is over", "lyric_translation": "", "range": [76.95, 79.78], "ans": [6]},
+    {"lyric": "The time is now so let’s do it right", "lyric_hangul": "The time is now, so let's do it right", "lyric_translation": "", "range": [79.78, 84.47], "ans": [6]},
+    {"lyric": "Yeah we’ll keep going", "lyric_hangul": "Yeah, we'll keep going", "lyric_translation": "", "range": [84.47, 87.17], "ans": [7]},
+    {"lyric": "And stay up until we see the sunrise", "lyric_hangul": "And stay up until we see the sunrise", "lyric_translation": "", "range": [87.17, 91.04], "ans": [7]},
+    {"lyric": "And we’ll say", "lyric_hangul": "And we'll say", "lyric_translation": "", "range": [91.04, 92.67], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "I wanna dance, the music's got me going",
+      "parts": [
+        {"lyric": "I wanna dance", "range": [92.67, 94.17], "ans": [6]},
+        {"lyric": "The music’s got me going", "range": [94.17, 95.67], "ans": [6]}
+      ]
+    },
+    {"lyric": "Ain’t nothing that can stop how we move yeah", "lyric_hangul": "Ain't nothing that can stop how we move, yeah", "lyric_translation": "", "range": [95.67, 99.7], "ans": [6]},
+    {
+      "lyric_hangul": "Let's break our plans and live just like we're golden",
+      "parts": [
+        {"lyric": "Let’s break our plans", "range": [99.7, 101.4], "ans": [1]},
+        {"lyric": "And live just like we’re golden", "range": [101.4, 103.3], "ans": [1]}
+      ]
+    },
+    {"lyric": "And roll in like we’re dancing fools", "lyric_hangul": "And roll in like we're dancing fools", "lyric_translation": "", "range": [102.83, 107.64], "ans": [1]},
+    "",
+    "[next-col]",
+    {"lyric": "We don’t need to worry", "lyric_hangul": "We don't need to worry", "lyric_translation": "", "range": [107.64, 110.98], "ans": [7]},
+    {"lyric": "‘Cause when we fall we know how to land", "lyric_hangul": "'Cause when we fall, we know how to land", "lyric_translation": "", "range": [110.98, 114.56], "ans": [7]},
+    {
+      "lyric_hangul": "Don't need to talk the talk, just walk the walk tonight",
+      "parts": [
+        {"lyric": "Don’t need to talk the talk", "range": [114.56, 117.18], "ans": [3]},
+        {"lyric": "Just walk the walk tonight", "range": [117.18, 120.04], "ans": [3]}
+      ]
+    },
+    {"lyric": "‘Cause we don’t need permission to dance", "lyric_hangul": "'Cause we don't need permission to dance", "lyric_translation": "", "range": [120.04, 123.37], "ans": [5]},
+    "",
+    {"lyric": "Da na na na na na na", "lyric_hangul": "Da-na-na-na-na-na-na, da-na-na-na-na-na-na", "lyric_translation": "", "range": [123.37, 127.13], "ans": [1]},
+    {"lyric": "Da na na na na na na", "lyric_hangul": "Da-na-na-na-na-na-na", "lyric_translation": "", "range": [126.62, 128.26], "ans": [1]},
+    {"lyric": "No, we don’t need permission to dance", "lyric_hangul": "No, we don't need permission to dance", "lyric_translation": "", "range": [128.26, 131.1], "ans": [7]},
+    "",
+    {"lyric": "Da na na na na na na", "lyric_hangul": "Da-na-na-na-na-na-na, da-na-na-na-na-na-na", "lyric_translation": "", "range": [131.1, 134.96], "ans": [1]},
+    {"lyric": "Da na na na na na na", "lyric_hangul": "Da-na-na-na-na-na-na", "lyric_translation": "", "range": [134.29, 138.93], "ans": [1]},
+    "",
+    {"lyric": "Well let me show ya", "lyric_hangul": "Well, let me show ya", "lyric_translation": "", "range": [138.93, 141.67], "ans": [5]},
+    {"lyric": "That we can keep the fire alive", "lyric_hangul": "That we can keep the fire alive, mmm", "lyric_translation": "", "range": [141.67, 146.16], "ans": [5]},
+    {"lyric": "‘Cause it’s not over", "lyric_hangul": "'Cause it's not over", "lyric_translation": "", "range": [146.16, 149.11], "ans": [6]},
+    {
+      "lyric_hangul": "Till it's over, say it one more time, say",
+      "parts": [
+        {"lyric": "Till it’s over say it one more time", "range": [149.11, 153.25], "ans": [6]},
+        {"lyric": "Say", "range": [153.25, 153.9], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I wanna dance, the music's got me going (the music's got me going)",
+      "parts": [
+        {"lyric": "I wanna dance", "range": [153.9, 156.18], "ans": [7]},
+        {"lyric": "The music’s got me going", "range": [156.18, 157.12], "ans": [7]}
+      ]
+    },
+    {"lyric": "Ain’t nothing that can stop how we move yeah", "lyric_hangul": "Ain't nothing that can stop how we move, yeah (hey)", "lyric_translation": "", "range": [157.09, 161.26], "ans": [7]},
+    {
+      "lyric_hangul": "Let's break our plans and live just like we're golden",
+      "parts": [
+        {"lyric": "Let’s break our plans", "range": [161.26, 162.82], "ans": [5]},
+        {"lyric": "And live just like we’re golden", "range": [162.82, 164.87], "ans": [5]}
+      ]
+    },
+    {"lyric": "And roll in like we’re dancing fools", "lyric_hangul": "And roll in like we're dancing fools (like we're dancing fools)", "lyric_translation": "", "range": [164.87, 169.12], "ans": [5]},
+    "",
+    {"lyric": "We don’t need to worry", "lyric_hangul": "We don't need to worry", "lyric_translation": "", "range": [169.12, 172.53], "ans": [1]},
+    {"lyric": "‘Cause when we fall we know how to land", "lyric_hangul": "'Cause when we fall, we know how to land (we know how to land)", "lyric_translation": "", "range": [172.53, 176.22], "ans": [1]},
+    {
+      "lyric_hangul": "Don't need to talk the talk, just walk the walk tonight",
+      "parts": [
+        {"lyric": "Don’t need to talk the talk", "range": [176.22, 178.62], "ans": [2]},
+        {"lyric": "Just walk the walk tonight", "range": [178.62, 181.53], "ans": [2]}
+      ]
+    },
+    {"lyric": "‘Cause we don’t need permission to dance", "lyric_hangul": "'Cause we don't need permission to dance", "lyric_translation": "", "range": [181.53, 188.0], "ans": [6]}
+  ]
+}

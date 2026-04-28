@@ -1,0 +1,260 @@
+{
+  "name": "Coffee\r",
+  "ogg": "sound/kpop/coffee.ogg",
+  "id": "coffee",
+  "group": "bts",
+  "language": "ko",
+  "released": "2013-09-11",
+  "album": "O!RUL8,2?",
+  "cover": "css/images/covers/coffee.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:37Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "Baby baby 그대는 Caramel Macchiato",
+      "lyric_translation": "Baby baby, you’re a / caramel macchiato",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [2.42, 3.62], "ans": [7]},
+        {"lyric": "Caramel Macchiato", "range": [3.62, 7.27], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여전히 내 입가엔 그대 향기 달콤해",
+      "lyric_translation": "Your scent is still / sweet on my lips",
+      "parts": [
+        {"lyric": "Yeojeonhi nae ipgaen", "range": [7.27, 9.89], "ans": [7]},
+        {"lyric": "Geudae hyanggi dalkomhae", "range": [9.89, 12.63], "ans": [7]}
+      ]
+    },
+    {"lyric": "Baby baby tonight", "lyric_hangul": "Baby baby tonight", "lyric_translation": "Baby baby tonight", "range": [12.42, 20.04], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "Girl 나 데뷔했어, 이 말 한 마디면 되겠지?",
+      "lyric_translation": "Girl, I debuted, that’s enough right? / I made a bet with the world",
+      "parts": [
+        {"lyric": "Girl na debwihaesseo,", "range": [22.54, 24.28], "ans": [4]},
+        {"lyric": "I mal han madimyeon doegetji?", "range": [24.28, 26.02], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "얼마나 성공할지 세상이랑 내기했어",
+      "lyric_translation": "on how much I’d succeed / My half-moon eye smile that I only showed you,",
+      "parts": [
+        {"lyric": "Eolmana seonggonghal ji", "range": [25.7, 26.92], "ans": [4]},
+        {"lyric": "Sesangirang naegihaesseo", "range": [26.92, 28.27], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "네게만 보여주던 내 반달 눈웃음, 요즘 다시 짓고 다녀",
+      "lyric_translation": "I’m doing it again these days / My fans are curious",
+      "parts": [
+        {"lyric": "Negeman boyeojudeon nae bandal nunuseum,", "range": [28.27, 30.39], "ans": [4]},
+        {"lyric": "Yojeum dasi jitgo danyeo", "range": [30.39, 31.89], "ans": [4]}
+      ]
+    },
+    {"lyric": "Nae paendeuri gunggeumhaehaejwo", "lyric_hangul": "내 팬들이 궁금해해줘", "lyric_translation": "Oh and I don’t drink macchiatos", "range": [31.33, 33.16], "ans": [4]},
+    {"lyric": "A geurigo jal an masyeo makkiatto", "lyric_hangul": "아 그리고 잘 안 마셔 마끼아또", "lyric_translation": "You know that I started", "range": [33.16, 35.26], "ans": [4]},
+    {"lyric": "Aljanha neo ttaeme seupgwani doen amerikano", "lyric_hangul": "알잖아 너 땜에 습관이 된 아메리카노", "lyric_translation": "drinking americanos because of you", "range": [35.26, 37.91], "ans": [4]},
+    {"lyric": "Sagwil ttaen ige museun masinga sipeosseonneunde", "lyric_hangul": "사귈 땐 이게 무슨 맛인가 싶었었는데", "lyric_translation": "When we dated, I wondered", "range": [37.91, 40.49], "ans": [4]},
+    {
+      "lyric_hangul": "차갑고 뒷맛은 씁쓸한 게 니가 없으니까 이젠 조금 이해가 돼 girl",
+      "lyric_translation": "what kind of taste this was / But this cold and bitter aftertaste",
+      "parts": [
+        {"lyric": "Chagapgo dwitmaseun sseupsseulhan ge niga eobseunikka", "range": [40.49, 42.79], "ans": [4]},
+        {"lyric": "Ijen jogeum ihaega dwae girl", "range": [42.79, 44.37], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "이렇게 다들 익숙해져 가는 거라면 후회 많을 불장난을 다시 선택하겠어 나는",
+      "lyric_translation": "makes sense now that you’re not here girl / If I’m gonna get used to everything like this,",
+      "parts": [
+        {"lyric": "Ireoke dadeul iksukhaejyeoganeun georamyeon", "range": [44.23, 46.79], "ans": [4]},
+        {"lyric": "Huhoe manheul buljangnaneul dasi seontaekhagesseo naneun", "range": [46.79, 49.36], "ans": [4]}
+      ]
+    },
+    {
+      "lyric_hangul": "우리의 야속하던 약속들, 수많던 잘못들과 또 다른 잘못들 사이 놓인 말 못할 잘잘못들",
+      "lyric_translation": "I would choose the full-of-regrets, playing with fire / Our heartless promises, / countless mistakes and other wrongs,",
+      "parts": [
+        {"lyric": "Uriui yasokhadeon yaksokdeul,", "range": [49.36, 50.95], "ans": [4]},
+        {"lyric": "Sumanteon jalmotdeulgwa", "range": [50.95, 52.12], "ans": [4]},
+        {"lyric": "Tto dareun jalmotdeul sai nohin mal motal jaljalmotdeul", "range": [52.12, 54.66], "ans": [4]}
+      ]
+    },
+    {"lyric": "Matbolsurok sseugiman haetdeon chueogi damgin jan", "lyric_hangul": "맛볼수록 쓰기만 했던 추억이 담긴 잔", "lyric_translation": "our unspeakable and small wounds", "range": [54.4, 56.92], "ans": [4]},
+    {"lyric": "Wae deurikige doeneunji al geot gatjiman", "lyric_hangul": "왜 들이키게 되는지 알 것 같지만", "lyric_translation": "The glass filled with memories is more bitter as I drink it", "range": [56.92, 59.73], "ans": [4]},
+    {
+      "lyric_hangul": "다 이렇게 사는 거란 말이 왜 이리 슬프지 나",
+      "lyric_translation": "But I think I know why I keep drinking it / Why am I getting so sad that everyone lives this way?",
+      "parts": [
+        {"lyric": "Da ireoke saneun georan mari", "range": [59.73, 62.41], "ans": [4]},
+        {"lyric": "Waeiri seulpeuji na", "range": [62.41, 64.74], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Oh oh oh baby baby 그대는 Caramel Macchiato",
+      "lyric_translation": "Baby baby, you’re a / caramel macchiato",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [64.74, 65.44], "ans": [7]},
+        {"lyric": "Caramel Macchiato", "range": [65.44, 70.04], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여전히 내 입가엔 그대 향기 달콤해",
+      "lyric_translation": "Your scent is still / sweet on my lips",
+      "parts": [
+        {"lyric": "Yeojeonhi nae ipgaen", "range": [70.04, 72.66], "ans": [7]},
+        {"lyric": "Geudae hyanggi dalkomhae", "range": [72.66, 75.29], "ans": [7]}
+      ]
+    },
+    {"lyric": "Baby baby tonight", "lyric_hangul": "Baby baby tonight", "lyric_translation": "Baby baby tonight", "range": [75.29, 85.69], "ans": [7]},
+    {
+      "lyric_hangul": "Baby baby 그대는 café latte 향보다",
+      "lyric_translation": "Baby baby, you were / warmer than the",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [85.69, 88.29], "ans": [6]},
+        {"lyric": "Café latte hyangboda", "range": [88.29, 90.79], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "포근했던 그 느낌 기억하고 있나요",
+      "lyric_translation": "scent of a cafe latte / Do you remember that feeling?",
+      "parts": [
+        {"lyric": "Pogeunhaetdeon geu neukkim", "range": [90.79, 93.47], "ans": [6]},
+        {"lyric": "Gieokhago innayo", "range": [93.47, 96.09], "ans": [6]}
+      ]
+    },
+    {"lyric": "Baby baby tonight", "lyric_hangul": "Baby baby tonight yeah", "lyric_translation": "Baby baby tonight", "range": [95.96, 103.72], "ans": [6]},
+    "",
+    {"lyric": "Baby tonight jal jayo oneul bam", "lyric_hangul": "Baby tonight 잘 자요 오늘 밤", "lyric_translation": "Baby tonight, have a good night", "range": [106.86, 109.43], "ans": [2]},
+    {"lyric": "Gwaenhi dul sai eosaekhan giryuman", "lyric_hangul": "괜히 둘 사이 어색한 기류만", "lyric_translation": "Our first text and phone call that", "range": [109.43, 112.14], "ans": [2]},
+    {"lyric": "Heureudeon cheot munjawa cheot tonghwa", "lyric_hangul": "흐르던 첫 문자와 첫 통화", "lyric_translation": "was filled with awkward moments", "range": [112.14, 114.15], "ans": [2]},
+    {"lyric": "Gidaehadeon cheot mannam geunde nan wae sontomman", "lyric_hangul": "기대하던 첫 만남 근데 난 왜 손톱만", "lyric_translation": "Our highly anticipated first date,", "range": [114.15, 117.02], "ans": [2]},
+    {"lyric": "Mureotteudeosseulkka ginjanghaeseoyeosseulkka", "lyric_hangul": "물어뜯었을까 긴장해서였을까", "lyric_translation": "why did I bite my nails? Why was I so nervous?", "range": [117.02, 119.57], "ans": [2]},
+    {"lyric": "Sigani heureugo jayeonseure uri dul sain", "lyric_hangul": "시간이 흐르고 자연스레 우리 둘 사인", "lyric_translation": "As time went by, we naturally developed into lovers", "range": [119.57, 122.48], "ans": [2]},
+    {"lyric": "Yeonin anim aein geureon maldeullo maeil", "lyric_hangul": "연인 아님 애인 그런 말들로 매일", "lyric_translation": "With those kinds of words,", "range": [122.48, 125.1], "ans": [2]},
+    {"lyric": "Seororeul hwaginhago hwaginhaetji mame saegin", "lyric_hangul": "서로를 확인하고 확인했지 맘에 새긴", "lyric_translation": "we checked each other’s feelings", "range": [125.1, 127.64], "ans": [2]},
+    {"lyric": "Uriui cheot mannameun kyaramel makkiatto", "lyric_hangul": "우리의 첫 만남은 캬라멜 마끼아또", "lyric_translation": "Our first date was sweet like a caramel macchiato", "range": [127.64, 130.21], "ans": [2]},
+    {"lyric": "Cheoreom dalkomhaetji eodideun gachi gago", "lyric_hangul": "처럼 달콤했지 어디든 같이 가고", "lyric_translation": "Wherever we went, we wanted to go together", "range": [130.21, 132.87], "ans": [2]},
+    {"lyric": "Sipdeon maeumdo sigani jinamyeonseo", "lyric_hangul": "싶던 마음도 시간이 지나면서", "lyric_translation": "But as time went by,", "range": [132.87, 135.06], "ans": [2]},
+    {"lyric": "Machi eseupeuresocheoreom naeryeonoke doeeosseo", "lyric_hangul": "마치 에스프레소처럼 내려놓게 되었어", "lyric_translation": "those feelings went down like dripping down espresso", "range": [135.06, 138.57], "ans": [2]},
+    {"lyric": "Uh gwaensiri sok apeune, uh urin cham johanneunde", "lyric_hangul": "Uh 괜시리 속아프네, uh 우린 참 좋았는데", "lyric_translation": "My insides ache for no reason, we used to be so good", "range": [138.57, 143.37], "ans": [2]},
+    {"lyric": "Ibyeoreun sseudisseun amerikano", "lyric_hangul": "이별은 쓰디쓴 아메리카노", "lyric_translation": "Breaking up was like a bitter americano", "range": [143.37, 145.53], "ans": [2]},
+    {"lyric": "Ajikdo chueogeun yeojeonhi geu kapero gago isseo", "lyric_hangul": "아직도 추억은 여전히 그 카페로 가고 있어", "lyric_translation": "My memories still go to that cafe", "range": [145.53, 148.3], "ans": [2]},
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "Baby baby 그대는 Caramel Macchiato",
+      "lyric_translation": "Baby baby, you’re a / caramel macchiato",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [148.3, 149.68], "ans": [7]},
+        {"lyric": "Caramel Macchiato", "range": [149.68, 153.33], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여전히 내 입가엔 그대 향기 달콤해",
+      "lyric_translation": "Your scent is still / sweet on my lips",
+      "parts": [
+        {"lyric": "Yeojeonhi nae ipgaen", "range": [153.33, 156.13], "ans": [7]},
+        {"lyric": "Geudae hyanggi dalkomhae", "range": [156.13, 158.77], "ans": [7]}
+      ]
+    },
+    {"lyric": "Baby baby tonight", "lyric_hangul": "Baby baby tonight", "lyric_translation": "Baby baby tonight", "range": [158.6, 169.02], "ans": [7]},
+    {
+      "lyric_hangul": "Baby baby 그대는 café latte 향보다",
+      "lyric_translation": "Baby baby, you were / warmer than the",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [169.02, 171.76], "ans": [1]},
+        {"lyric": "Café latte hyangboda", "range": [171.76, 174.28], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "포근했던 그 느낌 기억하고 있나요",
+      "lyric_translation": "scent of a cafe latte / Do you remember that feeling?",
+      "parts": [
+        {"lyric": "Pogeunhaetdeon geu neukkim", "range": [174.13, 176.95], "ans": [1]},
+        {"lyric": "Gieokhago innayo", "range": [176.95, 180.04], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "Baby baby tonight (One, two, three, four)",
+      "lyric_translation": "Baby baby tonight / 1,2,3,4",
+      "parts": [
+        {"lyric": "Baby baby tonight", "range": [180.04, 188.47], "ans": [1]},
+        {"lyric": "1,2,3,4", "range": [187.77, 190.14], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "그래 매일 하루 종일 니 향기 속에 취하던 시절과",
+      "lyric_translation": "The days when I used to be / intoxicated with your scent all day",
+      "parts": [
+        {"lyric": "Geurae maeil harujongil", "range": [190.14, 193.1], "ans": [3]},
+        {"lyric": "Ni hyanggi soge chwihadeon sijeolgwa", "range": [193.1, 195.96], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "서로 먼 훗날을 기약하며 이별을 택했던 기억이 나",
+      "lyric_translation": "I remember we chose to break up / after promising our futures together",
+      "parts": [
+        {"lyric": "Seoro meon hutnareul giyakhamyeo", "range": [195.31, 198.65], "ans": [3]},
+        {"lyric": "Ibyeoreul taekhaetdeon gieogi na", "range": [198.65, 201.54], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "너와 같이 좋아했던 민트향, 커피를 먹다 보니 너가 생각나며 rewind",
+      "lyric_translation": "As I drink this minty coffee that you / used to like, I think of you, rewind / A lot of time passed and these days,",
+      "parts": [
+        {"lyric": "Neowa gachi johahaetdeon minteuhyang,", "range": [201.54, 203.45], "ans": [3]},
+        {"lyric": "Keopireul meokda boni", "range": [203.45, 204.74], "ans": [3]},
+        {"lyric": "Neoga saenggangnamyeo rewind", "range": [204.74, 206.54], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "시간이 많이 지난 요즘 가끔 니가 보고픈 건 왜일까?",
+      "lyric_translation": "I sometimes miss you, / I wonder why?",
+      "parts": [
+        {"lyric": "Sigani manhi jinan yojeum gakkeum", "range": [206.54, 209.4], "ans": [3]},
+        {"lyric": "Niga bogopeun geon waeilkka?", "range": [209.4, 211.28], "ans": [3]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "Baby baby 그대는 Caramel Macchiato",
+      "lyric_translation": "Baby baby, you’re a / caramel macchiato",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [210.96, 212.34], "ans": [7]},
+        {"lyric": "Caramel Macchiato", "range": [212.34, 216.0], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여전히 내 입가엔 그대 향기 달콤해",
+      "lyric_translation": "Your scent is still / sweet on my lips",
+      "parts": [
+        {"lyric": "Yeojeonhi nae ipgaen", "range": [215.89, 218.73], "ans": [7]},
+        {"lyric": "Geudae hyanggi dalkomhae", "range": [218.73, 221.77], "ans": [7]}
+      ]
+    },
+    {"lyric": "Baby baby tonight", "lyric_hangul": "Baby baby tonight", "lyric_translation": "Baby baby tonight", "range": [221.37, 231.75], "ans": [7]},
+    {
+      "lyric_hangul": "Baby baby 그대는 café latte 향보다",
+      "lyric_translation": "Baby baby, you were / warmer than the",
+      "parts": [
+        {"lyric": "Baby baby geudaeneun", "range": [231.75, 234.35], "ans": [5]},
+        {"lyric": "Café latte hyangboda", "range": [234.35, 236.88], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "포근했던 그 느낌 기억하고 있나요",
+      "lyric_translation": "scent of a cafe latte / Do you remember that feeling?",
+      "parts": [
+        {"lyric": "Pogeunhaetdeon geu neukkim", "range": [236.88, 239.5], "ans": [5]},
+        {"lyric": "Gieokhago innayo", "range": [239.5, 242.54], "ans": [5]}
+      ]
+    },
+    {"lyric": "Baby baby tonight", "lyric_hangul": "Baby (baby) baby (baby) tonight", "lyric_translation": "Baby baby tonight", "range": [242.54, 249.14], "ans": [5]}
+  ]
+}

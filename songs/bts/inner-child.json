@@ -1,0 +1,172 @@
+{
+  "name": "Inner Child\r",
+  "ogg": "sound/kpop/inner_child.ogg",
+  "id": "inner-child",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "cover": "css/images/covers/inner-child.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:53Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "그때 우리 참 많이 힘들었지!",
+      "lyric_translation": "Back then / We had such a hard time, didn’t we",
+      "parts": [
+        {"lyric": "Geuttae uri", "range": [13.92, 16.74], "ans": [6]},
+        {"lyric": "Cham mani himdeureotji", "range": [16.74, 19.77], "ans": [6]}
+      ]
+    },
+    {"lyric": "Neomuna meon jeo haneure byeol", "lyric_hangul": "너무나 먼 저 하늘의 별", "lyric_translation": "Lifting my head to see", "range": [19.77, 23.72], "ans": [6]},
+    {"lyric": "Ollyeobomyeonseo", "lyric_hangul": "올려보면서", "lyric_translation": "The stars in the sky so far away", "range": [23.72, 27.73], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "그때의 넌 은하수를 믿지 않아",
+      "lyric_translation": "Back then, you / Didn’t believe the Milky Way",
+      "parts": [
+        {"lyric": "Geuttaeye neon", "range": [27.73, 29.29], "ans": [6]},
+        {"lyric": "Eunhasureul midji ana", "range": [29.29, 33.94], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "하지만 난 봐버렸는 걸 은색 galaxy",
+      "lyric_translation": "But what I saw was / A silver galaxy",
+      "parts": [
+        {"lyric": "Hajiman nan bwabeoryeotneun geol", "range": [33.94, 38.28], "ans": [6]},
+        {"lyric": "Eunsaek galaxy", "range": [38.28, 41.93], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "아팠을 거야 너무 힘들었을 거야",
+      "lyric_translation": "It must have hurt / It must have been so hard",
+      "parts": [
+        {"lyric": "Apasseul geoya", "range": [41.93, 43.47], "ans": [6]},
+        {"lyric": "Neomu himdeureosseul geoya", "range": [43.47, 48.39], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "끝없는 빛을 쫓아 난 달렸거든",
+      "lyric_translation": "The endless light / chased, and I ran",
+      "parts": [
+        {"lyric": "Kkeuteopneun bicheul", "range": [48.39, 52.45], "ans": [6]},
+        {"lyric": "Jjocha nan dallyeotgeodeun", "range": [52.45, 56.69], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Arithaewa geu yeoreumnare gonggi", "lyric_hangul": "아릿해와 그 여름날의 공기", "lyric_translation": "The tingling sun and the summer air,", "range": [56.69, 59.99], "ans": [6]},
+    {"lyric": "Neomu chagabdeon jaetbit georiye sori", "lyric_hangul": "너무 차갑던 잿빛 거리의 소리", "lyric_translation": "The sounds of the grey streets that were so cold", "range": [59.99, 63.56], "ans": [6]},
+    {"lyric": "Sumeul mashigo ne muneul dudeurine", "lyric_hangul": "숨을 마시고 네 문을 두드리네", "lyric_translation": "I take a breath and knock on the door", "range": [63.56, 67.64], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [67.64, 72.63], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [72.63, 76.35], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [76.35, 79.44], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [79.44, 81.98], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [81.98, 84.87], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "이제 우리 많이 웃었음 해",
+      "lyric_translation": "Now, I hope / We’ll laugh a lot",
+      "parts": [
+        {"lyric": "Ije uri", "range": [84.87, 88.09], "ans": [6]},
+        {"lyric": "Mani useosseum hae", "range": [88.09, 90.98], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "괜찮을 거야 오늘의 내가 괜찮으니까",
+      "lyric_translation": "It’s going to be okay, because the me of today / Is okay",
+      "parts": [
+        {"lyric": "Gwaenchaneul geoya oneure naega", "range": [90.98, 94.02], "ans": [6]},
+        {"lyric": "Gwaenchaneunikka", "range": [94.02, 98.8], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "어제의 너 이젠 다 보여",
+      "lyric_translation": "The you of yesterday / Now I see it all",
+      "parts": [
+        {"lyric": "Eojeye neo", "range": [98.8, 102.58], "ans": [6]},
+        {"lyric": "Ijen da boyeo", "range": [102.58, 105.14], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "움트던 장미 속 많은 가시 안아주고 싶어",
+      "lyric_translation": "The many thorns amongst the sprouting rose / I want to give them a hug",
+      "parts": [
+        {"lyric": "Umteudeon jangmi sok maneun gashi", "range": [105.14, 108.18], "ans": [6]},
+        {"lyric": "Anajugo shipeo", "range": [108.18, 113.28], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "미소진 꼬마 마냥 해맑게 웃던 아이",
+      "lyric_translation": "The smiling kid / That child that simply smiled happily",
+      "parts": [
+        {"lyric": "Misojin kkoma", "range": [113.28, 114.86], "ans": [6]},
+        {"lyric": "Manyang haemalkge utteon ai", "range": [114.86, 119.59], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "그런 널 보면 자꾸 웃음이 나와",
+      "lyric_translation": "When I see you like that, / A smile keeps breaking out",
+      "parts": [
+        {"lyric": "Geureon neol bomyeon", "range": [119.59, 123.43], "ans": [6]},
+        {"lyric": "Jakku useumi nawa", "range": [123.43, 127.6], "ans": [6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "Arithaewa geu yeoreumnare gonggi", "lyric_hangul": "아릿해와 그 여름날의 공기", "lyric_translation": "The tingling sun and the summer air,", "range": [127.6, 131.18], "ans": [6]},
+    {"lyric": "Neomu chagabdeon jaetbit georiye sori", "lyric_hangul": "너무 차갑던 잿빛 거리의 소리", "lyric_translation": "The sounds of the grey streets that were so cold", "range": [131.18, 134.67], "ans": [6]},
+    {"lyric": "Sumeul mashigo ne muneul dudeurine", "lyric_hangul": "숨을 마시고 네 문을 두드리네", "lyric_translation": "I take a breath and knock on the door", "range": [134.67, 139.14], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [139.14, 143.5], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [143.5, 147.53], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [147.53, 150.6], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [150.6, 153.12], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [153.12, 156.03], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Tonight 네게 내 손을 맞닿으면",
+      "lyric_translation": "Tonight / If you touch my hand",
+      "parts": [
+        {"lyric": "Tonight", "range": [156.03, 157.45], "ans": [6]},
+        {"lyric": "Nege nae soneul mattaheumyeon", "range": [157.45, 162.05], "ans": [6]}
+      ]
+    },
+    {"lyric": "Geu soneul jabajul su itni", "lyric_hangul": "그 손을 잡아줄 수 있니?", "lyric_translation": "Can you take hold of it", "range": [162.05, 165.74], "ans": [6]},
+    {
+      "lyric_hangul": "내가 너가 될 테니",
+      "lyric_translation": "I’ll become you / You can just",
+      "parts": [
+        {"lyric": "Naega neoga dwel teni", "range": [165.74, 168.06], "ans": [6]},
+        {"lyric": "Neon naye", "range": [168.06, 170.51], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Eunhasudeureul bomyeon dwae", "lyric_hangul": "넌 나의 은하수들을 보면 돼", "lyric_translation": "Look at my galaxies", "range": [170.51, 175.8], "ans": [6]},
+    {"lyric": "Jeo byeoldeureul majeumyeon dwae", "lyric_hangul": "저 별들을 맞으면 돼", "lyric_translation": "Just greet those stars", "range": [175.8, 180.08], "ans": [6]},
+    {"lyric": "Naye sesangeul nege julge", "lyric_hangul": "나의 세상을 네게 줄게", "lyric_translation": "I’ll give my world to you", "range": [180.08, 184.66], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "너의 눈을 비춘 빛들은 지금의 나니까",
+      "lyric_translation": "Because the lights that shine in your eyes / Are me from right now",
+      "parts": [
+        {"lyric": "Neoye nuneul bichun", "range": [184.66, 188.28], "ans": [6]},
+        {"lyric": "Bitteureun jigeume nanikka", "range": [188.28, 194.85], "ans": [6]}
+      ]
+    },
+    {"lyric": "You’re my boy, my boy", "lyric_hangul": "You're my boy, my boy", "lyric_translation": "You’re my boy, my boy", "range": [194.85, 196.79], "ans": [6]},
+    {"lyric": "My boy, my boy, my boy", "lyric_hangul": "My boy, my boy, my boy", "lyric_translation": "My boy, my boy, my boy", "range": [196.79, 200.75], "ans": [6]},
+    "",
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [200.75, 204.28], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [204.28, 207.44], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [207.44, 210.04], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [210.04, 215.12], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [215.12, 218.2], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [218.2, 221.77], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [221.77, 224.2], "ans": [6]},
+    {"lyric": "We gon’ change", "lyric_hangul": "We gon' change", "lyric_translation": "We gon’ change", "range": [224.2, 228.02], "ans": [6]}
+  ]
+}

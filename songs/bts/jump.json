@@ -1,0 +1,366 @@
+{
+  "name": "JUMP\r",
+  "ogg": "sound/kpop/jump.ogg",
+  "id": "jump",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-02-12",
+  "album": "Skool Luv Affair",
+  "cover": "css/images/covers/jump.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:58Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "(Let's jump) 손을 저 위로 들고 외쳐 다 같이 pump it up (Let's jump) 손을 저 위로 들고 외쳐",
+      "lyric_translation": "(Let’s jump!) / Throw your hands up and scream together, pump it up / (Let’s jump!)",
+      "parts": [
+        {"lyric": "(Lets jump!)", "range": [2.53, 3.47], "ans": [7]},
+        {"lyric": "Soneul jeo wiro deulgo oechyeo da gachi pump it up", "range": [3.47, 9.1], "ans": [7]},
+        {"lyric": "(Lets jump!)", "range": [9.1, 10.03], "ans": [7]}
+      ]
+    },
+    {"lyric": "Soneul jeo wiro deulgo oechyeo modu da jumpin up", "lyric_hangul": "모두 다 jumpin' up", "lyric_translation": "Throw your hands up and scream together, jumpin up", "range": [10.03, 11.77], "ans": [1]},
+    {
+      "lyric_hangul": "(Let's jump) 뛰어보자고",
+      "lyric_translation": "(Let’s jump!) Let’s jump",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [11.77, 13.44], "ans": [7]},
+        {"lyric": "Ttwieobojago", "range": [12.74, 14.21], "ans": [5]}
+      ]
+    },
+    {"lyric": "Let's jump, jump, ju-ju-ju-jump", "lyric_hangul": "Let's jump, jump, ju-ju-ju-jump", "lyric_translation": "", "range": [29.24, 31.43], "ans": []},
+    {"lyric": "Let's jump, jump, ju-ju-ju-jump", "lyric_hangul": "Let's jump, jump, ju-ju-ju-jump", "lyric_translation": "", "range": [38.69, 40.2], "ans": []},
+    {"lyric": "Eoril jeok kkumkkwowatdeon hieoro", "lyric_hangul": "Yah, 어릴 적 꿈꿔왔던 히어로", "lyric_translation": "The hero you’ve dreamed of since you were young", "range": [40.2, 41.99], "ans": [2]},
+    {
+      "lyric_hangul": "영웅이 되고파서 점프했던 때와는 달리 배로",
+      "lyric_translation": "We used to jump, / wanting to be heroes",
+      "parts": [
+        {"lyric": "Yeongungi doegopaseo jeompeuhaetdeon", "range": [41.99, 44.19], "ans": [2]},
+        {"lyric": "Ttaewaneun dalli baero", "range": [44.19, 45.43], "ans": [2]}
+      ]
+    },
+    "",
+    {"lyric": "Keojyeobeorin kiwa heulleobeorin sigan", "lyric_hangul": "커져 버린 키와 흘러버린 시간", "lyric_translation": "But now we’ve grown and time has passed", "range": [44.83, 47.47], "ans": [2]},
+    "",
+    {"lyric": "Neon eoreuni doeeogajiman I wanna rewind", "lyric_hangul": "넌 어른이 되어가지만, I wanna rewind", "lyric_translation": "You’re becoming an adult but I wanna rewind", "range": [47.47, 49.69], "ans": [2]},
+    {"lyric": "10sal kkomaengiga kkumkkwowasseotdeon meotjin", "lyric_hangul": "10살 꼬맹이가 꿈꿔왔었던", "lyric_translation": "To the times when the 10-year-old boy sang", "range": [49.69, 51.81], "ans": [2]},
+    {"lyric": "Yeongungmanhwa jujegareul bulleowasseotdeon", "lyric_hangul": "멋진 영웅만화 주제가를 불러왔었던", "lyric_translation": "the theme song to his favorite superhero comic", "range": [51.81, 54.23], "ans": [2]},
+    {"lyric": "Geu ttaero doragagopa nungamgo sorichyeo", "lyric_hangul": "그때로 돌아가고파 눈감고 소리쳐", "lyric_translation": "I wanna go back so I close my eyes and scream", "range": [54.23, 57.17], "ans": [2]},
+    "",
+    {"lyric": "Hajiman byeonhan geon eobtji hyeonsireun geudaero", "lyric_hangul": "하지만 변한 건 없지, 현실은 그대로", "lyric_translation": "But nothing changes, reality is the same", "range": [57.17, 59.31], "ans": [2]},
+    {"lyric": "Nuga nareul magado", "lyric_hangul": "누가 나를 막아도 (what?)", "lyric_translation": "No matter who tries to stop me", "range": [59.31, 61.76], "ans": [6]},
+    {"lyric": "Naui gal gireul gandago", "lyric_hangul": "나의 갈 길을 간다고 (what?)", "lyric_translation": "I will go on my way", "range": [61.76, 63.62], "ans": [6]},
+    {"lyric": "Insaeng han bangirago", "lyric_hangul": "인생 한 방이라고", "lyric_translation": "You only live once", "range": [63.62, 66.22], "ans": [6]},
+    "",
+    {
+      "lyric_hangul": "Leggo (leggo) leggo, oh-oh-oh",
+      "lyric_translation": "Leggo (Leggo!) / Leggoooo",
+      "parts": [
+        {"lyric": "Leggo (Leggo!)", "range": [66.22, 67.69], "ans": [6]},
+        {"lyric": "Leggoooo", "range": [67.69, 68.92], "ans": [6]}
+      ]
+    },
+    {"lyric": "Dan harureul sarado", "lyric_hangul": "단 하루를 살아도 (what?)", "lyric_translation": "Even if I live for a day", "range": [68.53, 71.18], "ans": [6]},
+    {"lyric": "Huhoeneun jeoldaero eopdago", "lyric_hangul": "후회는 절대로 없다고 (what?)", "lyric_translation": "I’ll have no regrets", "range": [71.18, 73.01], "ans": [6]},
+    {"lyric": "Han beon ttwieobojago", "lyric_hangul": "한번 뛰어보자고", "lyric_translation": "Let’s jump", "range": [73.01, 75.63], "ans": [6]},
+    {
+      "lyric_hangul": "Let's jump (jump, jump, jump, jump)",
+      "lyric_translation": "Let’s jump! / (Jump! Jump! Jump! Jump!) / (Let’s jump!)",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [75.63, 76.56], "ans": [6]},
+        {"lyric": "(Jump! Jump! Jump! Jump!)", "range": [75.86, 78.04], "ans": []},
+        {"lyric": "(Lets jump!)", "range": [77.34, 78.43], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 손을 저 위로 들고 외쳐 다 같이 pump it up (Let's jump) 손을 저 위로 들고 외쳐",
+      "lyric_translation": "Throw your hands up and scream together, pump it up / (Let’s jump!)",
+      "parts": [
+        {"lyric": "Soneul jeo wiro deulgo oechyeo da gachi pump it up", "range": [78.06, 84.92], "ans": [7]},
+        {"lyric": "(Lets jump!)", "range": [84.92, 86.12], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Soneul jeo wiro deulgo oechyeo modu da jumpin up", "lyric_hangul": "모두 다 jumpin' up", "lyric_translation": "Throw your hands up and scream together, jumpin up", "range": [85.66, 87.43], "ans": [1]},
+    {
+      "lyric_hangul": "(Let's jump) 뛰어보자고",
+      "lyric_translation": "(Let’s jump!) Let’s jump",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [87.43, 88.77], "ans": [7]},
+        {"lyric": "Ttwieobojago", "range": [88.07, 89.55], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 정신 붙잡어",
+      "lyric_translation": "(Let’s jump!) Pay attention / (Let’s jump!) / (Let’s jump!) Pay attention / (Let’s jump!)",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [89.55, 90.32], "ans": [7]},
+        {"lyric": "Jeongsin butjabeo", "range": [89.62, 90.98], "ans": [5]},
+        {"lyric": "(Lets jump!)", "range": [90.42, 91.03], "ans": [7]},
+        {"lyric": "Lets jump!", "range": [91.03, 91.54], "ans": [7]},
+        {"lyric": "Jeongsin butjabeo", "range": [91.08, 92.09], "ans": [5]},
+        {"lyric": "(Lets jump!)", "range": [91.39, 92.18], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 손을 하늘로 들고 외쳐 모두 다 jumpin' up (everybody say)",
+      "lyric_translation": "Put your hands to the sky and scream together, jumpin up / Everybody say / Put your hands to the sky and scream together, jumpin up / Everybody say",
+      "parts": [
+        {"lyric": "Soneul haneullo deulgo oechyeo modu da jumpin up", "range": [92.18, 94.49], "ans": [7]},
+        {"lyric": "Everybody say", "range": [93.79, 95.14], "ans": [2]},
+        {"lyric": "Soneul haneullo deulgo oechyeo modu da jumpin up", "range": [94.44, 97.1], "ans": [7]},
+        {"lyric": "Everybody say", "range": [96.4, 97.4], "ans": [2]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 꿈꾸는 자들이여",
+      "lyric_translation": "(Let’s jump!) All the dreamers / (Let’s jump!) All the dreamers",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [97.4, 98.1], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [97.45, 98.93], "ans": []},
+        {"lyric": "Lets jump!", "range": [98.41, 99.33], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [98.63, 99.96], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 모두 손을 위로",
+      "lyric_translation": "(Let’s jump!)  Put your hands up / (Let’s jump!)  Put your hands up",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [99.78, 100.56], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [99.86, 101.15], "ans": []},
+        {"lyric": "Lets jump!", "range": [100.46, 101.55], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [100.85, 102.22], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 근심 걱정은 뒤로",
+      "lyric_translation": "(Let’s jump!)  Throw your worries away / (Let’s jump!)  Throw your worries away",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [102.2, 103.07], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [102.37, 103.64], "ans": []},
+        {"lyric": "Lets jump!", "range": [103.09, 104.04], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [103.34, 104.54], "ans": []}
+      ]
+    },
+    {"lyric": "Lets jump! jump! ju-ju-ju-jump!", "lyric_hangul": "Let's jump, jump, ju-ju-ju-jump", "lyric_translation": "Let’s jump! jump! ju-ju-ju-jump! / Let’s jump! jump! ju-ju-ju-jump!", "range": [104.42, 107.2], "ans": []},
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 꿈꾸는 자들이여",
+      "lyric_translation": "(Let’s jump!) All the dreamers / (Let’s jump!) All the dreamers",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [106.82, 107.49], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [106.87, 108.35], "ans": []},
+        {"lyric": "Lets jump!", "range": [107.82, 108.75], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [108.05, 109.32], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 모두 손을 위로",
+      "lyric_translation": "(Let’s jump!)  Put your hands up / (Let’s jump!)  Put your hands up",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [108.86, 109.71], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [109.01, 110.56], "ans": []},
+        {"lyric": "Lets jump!", "range": [109.86, 110.99], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [110.29, 111.64], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 근심 걱정은 뒤로",
+      "lyric_translation": "(Let’s jump!)  Throw your worries away / (Let’s jump!)  Throw your worries away",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [111.23, 111.97], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [111.28, 112.8], "ans": []},
+        {"lyric": "Lets jump!", "range": [112.33, 113.2], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [112.5, 113.99], "ans": []}
+      ]
+    },
+    {"lyric": "Lets jump! jump! ju-ju-ju-jump!", "lyric_hangul": "Let's jump, jump, ju-ju-ju-jump", "lyric_translation": "Let’s jump! jump! ju-ju-ju-jump! / Let’s jump! jump! ju-ju-ju-jump!", "range": [113.59, 115.83], "ans": []},
+    "",
+    {"lyric": "Nae insaengi bakkwin 2007nyeon", "lyric_hangul": "내 인생이 바뀐 2007년", "lyric_translation": "2007 is when my life changed", "range": [115.26, 117.91], "ans": [3]},
+    {"lyric": "Tto geureoke norae bureunjido 7nyeon", "lyric_hangul": "또 그렇게 노래 부른지도 7년", "lyric_translation": "It’s been 7 years since I’ve sang", "range": [117.91, 120.84], "ans": [3]},
+    {"lyric": "Sonyeodeul mamui killer", "lyric_hangul": "소녀들 맘의 killer", "lyric_translation": "A killer of girls’ hearts", "range": [120.84, 121.94], "ans": [3]},
+    {
+      "lyric_hangul": "But 가끔 난 답답했던 그때로 돌아가",
+      "lyric_translation": "But sometimes, / I go back to those frustrating times",
+      "parts": [
+        {"lyric": "But gakkeum nan dapdaphaetdeon", "range": [121.94, 124.16], "ans": [3]},
+        {"lyric": "Geu ttaero doraga", "range": [124.16, 125.24], "ans": [3]}
+      ]
+    },
+    {
+      "lyric_hangul": "하얀 백지 같았던 내 자신과 대면해",
+      "lyric_translation": "Facing myself, / who was like a white piece of paper",
+      "parts": [
+        {"lyric": "Hayan baekji gatatdeon", "range": [124.6, 126.66], "ans": [3]},
+        {"lyric": "Nae jasingwa daemyeonhae", "range": [126.66, 128.04], "ans": [3]}
+      ]
+    },
+    {"lyric": "Geu mannami tto dareun nareul kkaewonae", "lyric_hangul": "그 만남이 또 다른 나를 깨워내", "lyric_translation": "That encounter awakens a different me", "range": [127.34, 130.22], "ans": [3]},
+    {"lyric": "Ja pomnage mudaereul olla", "lyric_hangul": "자 폼나게 무대를 올라", "lyric_translation": "Now I’ll go up on stage and", "range": [130.22, 132.15], "ans": [3]},
+    {
+      "lyric_hangul": "모두 다 놀라게, jump like Jordan (ball!)",
+      "lyric_translation": "surprise everyone by jumping like Jordan / Ball!",
+      "parts": [
+        {"lyric": "Modu da nollage jump like Jordan", "range": [132.15, 134.67], "ans": [3]},
+        {"lyric": "Ball!", "range": [134.67, 135.17], "ans": [3]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {
+      "lyric_hangul": "그대로 돌아가 수년간 방구석 자리에 박혀있던",
+      "lyric_translation": "Go back a few years / Taking out the trampoline from the corner",
+      "parts": [
+        {"lyric": "Geudaero doraga sunyeongan", "range": [134.01, 135.47], "ans": []},
+        {"lyric": "Bangguseok jarie bakhyeoitdeon teuraempollineul", "range": [135.47, 137.39], "ans": []}
+      ]
+    },
+    {"lyric": "Kkeonae deuneorbeun gongteoreul ttwinora", "lyric_hangul": "트램폴린을 꺼내 드넓은 공터를 뛰놀아", "lyric_translation": "of the room and jump around in the air", "range": [136.91, 138.91], "ans": []},
+    {
+      "lyric_hangul": "점프 한 번이면 그 환희, 모두 가질 듯했던 너와",
+      "lyric_translation": "You used to feel the joy of each jump, / feeling like you have everything",
+      "parts": [
+        {"lyric": "Jeompeu hanbeonimyeon geu hwanhui,", "range": [138.91, 140.91], "ans": []},
+        {"lyric": "Modu gajil deut haetdeon neowa", "range": [140.91, 142.47], "ans": []}
+      ]
+    },
+    {"lyric": "Sunsuhaetdeon kkumdeullo nal sunoha", "lyric_hangul": "순수했던 꿈들로 날 수놓아", "lyric_translation": "Letting myself go to the innocent dreams", "range": [141.86, 143.72], "ans": []},
+    {"lyric": "Eoreuni doego sipdeon nae eorin nareun", "lyric_hangul": "어른이 되고 싶던 내 어린 날은", "lyric_translation": "My childhood days was impatient to be an adult", "range": [143.72, 146.15], "ans": []},
+    {"lyric": "Maeiri gippeumeuro gadeuk chasseosseo", "lyric_hangul": "매일이 기쁨으로 가득 찼었어", "lyric_translation": "But each day was filled with joy", "range": [146.15, 148.5], "ans": []},
+    {"lyric": "So can I be the one?", "lyric_hangul": "So can I be the one?", "lyric_translation": "", "range": [148.5, 149.15], "ans": []},
+    {
+      "lyric_hangul": "So can I be the one? Just can I be the one that I- stop (oh)",
+      "lyric_translation": "So can I be the one, juss can i be the one / that i.. stop / (Let’s jump!)",
+      "parts": [
+        {"lyric": "So can I be the one, juss can i be the one", "range": [148.5, 151.95], "ans": []},
+        {"lyric": "That i.. stop", "range": [151.95, 153.04], "ans": []},
+        {"lyric": "(Lets jump!)", "range": [152.34, 153.18], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 손을 저 위로 들고 외쳐 다 같이 pump it up (Let's jump) 손을 저 위로 들고 외쳐",
+      "lyric_translation": "Throw your hands up and scream together, pump it up / (Let’s jump!)",
+      "parts": [
+        {"lyric": "Soneul jeo wiro deulgo oechyeo da gachi pump it up", "range": [153.18, 169.61], "ans": [7]},
+        {"lyric": "(Lets jump!)", "range": [169.61, 170.71], "ans": [7]}
+      ]
+    },
+    {"lyric": "Soneul jeo wiro deulgo oechyeo modu da jumpin up", "lyric_hangul": "모두 다 jumpin' up", "lyric_translation": "Throw your hands up and scream together, jumpin up", "range": [160.81, 162.74], "ans": [1]},
+    {
+      "lyric_hangul": "(Let's jump) 뛰어보자고",
+      "lyric_translation": "(Let’s jump!) Let’s jump",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [162.74, 164.07], "ans": [7]},
+        {"lyric": "Ttwieobojago", "range": [163.37, 164.86], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 정신 붙잡어",
+      "lyric_translation": "(Let’s jump!) Pay attention / (Let’s jump!)",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [164.86, 165.91], "ans": [7]},
+        {"lyric": "Jeongsin butjabeo", "range": [165.21, 167.1], "ans": [5]},
+        {"lyric": "(Lets jump!)", "range": [166.4, 167.41], "ans": [7]}
+      ]
+    },
+    {"lyric": "Soneul haneullo deulgo oechyeo modu da jumpin up", "lyric_hangul": "(Let's jump) 손을 하늘로 들고 외쳐 모두 다 jumpin' up", "lyric_translation": "Put your hands to the sky and scream together, jumpin up", "range": [167.41, 171.86], "ans": [5, 7]},
+    "",
+    {"lyric": "Lets jump & down,", "lyric_hangul": "Let's jump and down", "lyric_translation": "Let’s jump & down,", "range": [171.86, 173.69], "ans": [2]},
+    {"lyric": "Uriga wasseo we are BTS", "lyric_hangul": "우리가 왔어, we are BTS", "lyric_translation": "we are here, we are BTS", "range": [173.69, 175.97], "ans": [2]},
+    {"lyric": "Beat down! junbiga dwaesseumyeon", "lyric_hangul": "Beat down, 준비가 됐으면", "lyric_translation": "Beat down, if you’re ready, put your hands up high", "range": [175.97, 178.64], "ans": [2]},
+    {"lyric": "Soneul nopi deureo", "lyric_hangul": "손을 높이 들어", "lyric_translation": "It’s different from what you’ve", "range": [178.64, 179.78], "ans": [2]},
+    {"lyric": "Eoril jeok kkumkkudeon geotgwaneun dareujiman", "lyric_hangul": "어릴 적 꿈꾸던 것과는 다르지만", "lyric_translation": "dreamed of when you were little", "range": [179.78, 181.54], "ans": [2]},
+    {"lyric": "Biroso mannatji urin yeongung jimangsaeng raeppeo", "lyric_hangul": "비로소 만났지, 우린 영웅 지망생 랩퍼", "lyric_translation": "But we have met, we’re heroes, rappers in training", "range": [181.54, 184.09], "ans": [2]},
+    {"lyric": "Ijen mudae wiro jump!", "lyric_hangul": "이젠 무대 위로 jump", "lyric_translation": "Now jump to the stage,", "range": [184.09, 185.44], "ans": [2]},
+    {"lyric": "Uriga chasedae hieoro", "lyric_hangul": "우리가 차세대 히어로", "lyric_translation": "we are the new generation heroes", "range": [185.44, 187.35], "ans": [2]},
+    "",
+    {"lyric": "Cheoreopgiman haetdeon yeongung jimangsaeng", "lyric_hangul": "철없기만 했던 영웅 지망생", "lyric_translation": "Seven heroes-in-training,", "range": [187.35, 189.29], "ans": []},
+    {"lyric": "Ilgobi mandeureoganeun jump sound", "lyric_hangul": "일곱이 만들어가는 jump sound", "lyric_translation": "who were once immature, making a jump sound", "range": [189.29, 191.32], "ans": []},
+    {"lyric": "Teuraempollin daesin naega ttwieoya haneun", "lyric_hangul": "트램폴린 대신 내가 뛰어야", "lyric_translation": "Instead of a trampoline, the place I need", "range": [191.32, 192.57], "ans": []},
+    {"lyric": "Goseun mudae wi, michin deusi up down", "lyric_hangul": "하는 곳은 무대 위 미친 듯이 up, down", "lyric_translation": "to jump on is the stage, crazily, up down", "range": [192.57, 194.64], "ans": []},
+    {"lyric": "Ije malman malgo nalgaereul dal ttaeya", "lyric_hangul": "이제 말만 말고 날개를 달 때야", "lyric_translation": "Now don’t just talk about it, it’s time to", "range": [194.64, 196.82], "ans": []},
+    {"lyric": "Gal ttaekkaji dallinda lets get it started", "lyric_hangul": "갈 때까지 달린다, let's get it started", "lyric_translation": "spread my wings and go, let’s get it started", "range": [196.82, 198.94], "ans": []},
+    {"lyric": "Du eokkaereul pigo rock your body", "lyric_hangul": "두 어깨를 피고 rock your body", "lyric_translation": "Spread your shoulders, rock your body,", "range": [198.94, 200.77], "ans": []},
+    {"lyric": "Meorissogeul biugo lets go party", "lyric_hangul": "머릿속을 비우고, let's go party", "lyric_translation": "empty your head, let’s go party", "range": [200.77, 202.7], "ans": []},
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 꿈꾸는 자들이여",
+      "lyric_translation": "(Let’s jump!) All the dreamers",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [202.7, 203.81], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [203.11, 204.8], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 모두 손을 위로",
+      "lyric_translation": "(Let’s jump!)  Put your hands up",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [204.41, 205.79], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [205.09, 206.63], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 근심 걱정은 뒤로",
+      "lyric_translation": "(Let’s jump!)  Throw your worries away",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [206.23, 207.65], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [206.95, 209.96], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 꿈꾸는 자들이여",
+      "lyric_translation": "(Let’s jump!) All the dreamers",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [209.96, 211.43], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [210.73, 212.42], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 모두 손을 위로",
+      "lyric_translation": "(Let’s jump!)  Put your hands up",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [212.03, 213.38], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [212.68, 214.25], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 근심 걱정은 뒤로",
+      "lyric_translation": "(Let’s jump!)  Throw your worries away",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [214.19, 215.28], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [214.58, 217.87], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "(Let's jump) 꿈꾸는 자들이여",
+      "lyric_translation": "(Let’s jump!) All the dreamers",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [217.87, 219.09], "ans": [2]},
+        {"lyric": "Kkumkkuneun jadeuriyeo", "range": [218.39, 220.05], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 모두 손을 위로",
+      "lyric_translation": "(Let’s jump!)  Put your hands up",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [219.59, 220.39], "ans": [2]},
+        {"lyric": "Modu soneul wiro", "range": [219.69, 221.38], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "(Let's jump) 근심 걱정은 뒤로",
+      "lyric_translation": "(Let’s jump!)  Throw your worries away",
+      "parts": [
+        {"lyric": "Lets jump!", "range": [221.38, 222.86], "ans": [2]},
+        {"lyric": "Geunsim geokjeongeun dwiro", "range": [222.16, 225.42], "ans": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "name": "Look Here (여기 봐)\r",
+  "ogg": "sound/kpop/look_here.ogg",
+  "id": "look-here",
+  "group": "bts",
+  "language": "ko",
+  "released": "2014-08-20",
+  "album": "Dark & Wild",
+  "cover": "css/images/covers/look-here.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Cheoeumeneun danji hogisimeuro", "lyric_hangul": "처음에는 단지 호기심으로 시작해", "lyric_translation": "At first, I was only curious", "range": [7.53, 9.89], "ans": [2]},
+    {"lyric": "Sijakhae nege gwansimeul boiji", "lyric_hangul": "네게 관심을 보이지", "lyric_translation": "As I started to show interest in you", "range": [9.89, 11.59], "ans": [2]},
+    {"lyric": "Holy shhh geurae niga nal dooesihaedo", "lyric_hangul": "Holy shhh 그래 니가 날", "lyric_translation": "Holy shhh yeah, even if you ignore me", "range": [11.59, 13.09], "ans": [2]},
+    {"lyric": "Naege ppajyeodeuneun sigan for a minute", "lyric_hangul": "For a minute", "lyric_translation": "You’ll fall for me for a minute", "range": [14.66, 15.66], "ans": [2]},
+    {"lyric": "Jebeop urin eoulliji niga eobtneun", "lyric_hangul": "제법 우린 어울리지 니가 없는", "lyric_translation": "We look good together, without you,", "range": [15.66, 17.53], "ans": [2]},
+    {"lyric": "Naneun bicheul irheun Seoul city", "lyric_hangul": "나는 빛을 잃은 Seoul city", "lyric_translation": "I’m like a Seoul city without lights", "range": [17.53, 19.6], "ans": [2]},
+    {"lyric": "Hositamtam neoui binjarireul noryeo tokkigul geuraepiti", "lyric_hangul": "호시탐탐 너의 빈자리를 노려 토끼굴 그래피티", "lyric_translation": "I fiercely glare at your empty spot, a rabbit hole graffiti", "range": [19.6, 21.82], "ans": [2]},
+    {"lyric": "Neo eobtneun haruran danmakgeugeun tragedy", "lyric_hangul": "너 없는 하루란 단막극은 tragedy", "lyric_translation": "Without you, my days are like a tragedy", "range": [21.82, 23.58], "ans": [2]},
+    "",
+    {"lyric": "Uri mannameun uyeoni aniya", "lyric_hangul": "우리 만남은 우연이 아니야", "lyric_translation": "Us meeting isn’t just coincidence", "range": [23.58, 26.8], "ans": [7]},
+    {"lyric": "Neoreul mannan geon nae baraemieosseo", "lyric_hangul": "너를 만난 건 내 바램이었어", "lyric_translation": "Meeting you was what I wanted", "range": [26.8, 31.34], "ans": [7]},
+    {"lyric": "Neoneun kkochigo naneun beoriya", "lyric_hangul": "너는 꽃이고 나는 벌이야", "lyric_translation": "You’re a flower and I’m a bee", "range": [31.34, 34.9], "ans": [5]},
+    {"lyric": "Neoneun kkurigo naneun gomiya", "lyric_hangul": "너는 꿀이고 나는 곰이야", "lyric_translation": "You’re honey and I’m a bear", "range": [34.9, 38.98], "ans": [5]},
+    "",
+    {"lyric": "Eojjeomyeon chaek irkdeusi mari sulsul naolkka", "lyric_hangul": "어쩌면 책 읽듯이 말이 술술 나올까", "lyric_translation": "Words come out as if reading a book", "range": [38.98, 43.17], "ans": [6]},
+    {"lyric": "Eodinji moreuge neon nareul darmeun geot gata", "lyric_hangul": "어딘지 모르게 넌 나를 닮은 것 같아", "lyric_translation": "Seems like you resemble me somehow", "range": [43.17, 46.83], "ans": [6]},
+    {"lyric": "Neomu yeppeo neon neukkimi jom na", "lyric_hangul": "너무 예뻐 넌 느낌이 좀 나", "lyric_translation": "You’re so pretty, I’m getting a feeling", "range": [46.83, 50.51], "ans": [7]},
+    {"lyric": "Maeryeogi teojyeo ije naege jwobwa", "lyric_hangul": "매력이 터져 이제 내게 줘봐", "lyric_translation": "Your charms are exploding, come give it to me", "range": [50.51, 54.73], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [54.73, 56.39], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [56.39, 57.89], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [57.2, 58.46], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [58.46, 59.86], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [59.42, 60.42], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [60.42, 61.92], "ans": [7]}
+      ]
+    },
+    {"lyric": "Jomangan niga nal wonhal tenikka", "lyric_hangul": "조만간 니가 날 원할 테니까", "lyric_translation": "Because soon, you’ll want me", "range": [61.33, 63.34], "ans": [7]},
+    {"lyric": "Oeropdago jingjingdael ttaen imi neujeosseo", "lyric_hangul": "외롭다고 징징댈 땐 이미 늦었어", "lyric_translation": "When you’re crying because you’re lonely, it’s already", "range": [63.34, 67.31], "ans": [6, 7]},
+    {"lyric": "Ni arittaun maeryeok naega arabeoryeosseo", "lyric_hangul": "니 아리따운 매력 내가 알아버렸어", "lyric_translation": "too late – I already figured out your pretty charms", "range": [67.31, 71.0], "ans": [6, 7]},
+    {
+      "lyric_hangul": "Baby come on",
+      "lyric_translation": "Baby come on / At first,",
+      "parts": [
+        {"lyric": "Baby come on", "range": [71.0, 71.6], "ans": [6, 7]},
+        {"lyric": "Cheoeumen", "range": [71.56, 72.06], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "처음엔 열 번 문자에 한 번 답장하던 너",
+      "lyric_translation": "You answered once when I texted ten times / But later,",
+      "parts": [
+        {"lyric": "Yeol beon munjae han beon dapjanghadeon neo", "range": [71.56, 76.22], "ans": [1]},
+        {"lyric": "Najungen", "range": [75.57, 76.18], "ans": []}
+      ]
+    },
+    {"lyric": "Meonjeo jeonhwahae harujongil naman chajadae", "lyric_hangul": "나중엔 먼저 전화해 하루종일 나만 찾아대", "lyric_translation": "You call me first and look for me all day", "range": [75.57, 79.68], "ans": [7]},
+    {
+      "lyric_hangul": "여기 봐 도망가지마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [79.68, 80.4], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [80.4, 81.85], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [81.54, 82.44], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [82.44, 83.86], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지마 여기 봐",
+      "lyric_translation": "Look here, don’t run away / Look here",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [83.42, 84.44], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [84.44, 85.98], "ans": [7]},
+        {"lyric": "Yeogi bwa", "range": [85.42, 87.58], "ans": [5, 7]}
+      ]
+    },
+    {"lyric": "Naran namja neoege dagagan jaeju", "lyric_hangul": "나란 남자 너에게 다가간 재주", "lyric_translation": "A guy like me has talent for going to you", "range": [87.58, 89.75], "ans": [3]},
+    {"lyric": "Injeonghaejwo neol wihae dallin nae gyeju", "lyric_hangul": "인정해줘 널 위해 달린 내 계주", "lyric_translation": "Admit it, I ran my finances for you", "range": [89.75, 91.64], "ans": [3]},
+    {"lyric": "Echyu jaechaegi gateun mareul haedo Bless you", "lyric_hangul": "에츄 재채기 같은 말을 해도 Bless you", "lyric_translation": "Achoo, words like a sneeze, bless you", "range": [91.64, 94.15], "ans": [3]},
+    {"lyric": "Jiruhamyeon nae moseup maeju debut", "lyric_hangul": "지루하면 내 모습 매주 debut", "lyric_translation": "If you get bored, I’ll debut every week", "range": [94.15, 95.46], "ans": [3]},
+    {"lyric": "Han deusi neol hyanghae ga julge mwol barae", "lyric_hangul": "한 듯이 널 향해 가 줄게 뭘 바래", "lyric_translation": "I’ll go to you, what do you want?", "range": [95.46, 97.76], "ans": [3]},
+    {"lyric": "Neodo nawa hamkke sarangui bada hanghae", "lyric_hangul": "너도 나와 함께 사랑의 바다 항해", "lyric_translation": "Come with me to the sea of love", "range": [97.76, 99.68], "ans": [3]},
+    {"lyric": "Neon doduk nan gyeongchal humchin gabseun hae", "lyric_hangul": "넌 도둑 난 경찰 훔친 값은 해", "lyric_translation": "You’re a thief, I’m the police, pay for your crime", "range": [99.68, 101.27], "ans": [3]},
+    {
+      "lyric_hangul": "너 없으면 외로운 도시 속의 나그네 너를 원해",
+      "lyric_translation": "Without you, I’m a lonely city nomad / I want you",
+      "parts": [
+        {"lyric": "Neo eobseumyeon oeroun dosi sogui nageune", "range": [101.27, 103.65], "ans": [3]},
+        {"lyric": "Neoreul wonhae", "range": [103.65, 104.19], "ans": [3]}
+      ]
+    },
+    "",
+    {"lyric": "Uri mannameun uyeoni aniya", "lyric_hangul": "우리 만남은 우연이 아니야", "lyric_translation": "Us meeting isn’t just coincidence", "range": [103.68, 107.21], "ans": [7]},
+    {"lyric": "Neoreul mannan geon nae baraemieosseo", "lyric_hangul": "너를 만난 건 내 바램이었어", "lyric_translation": "Meeting you was what I wanted", "range": [107.21, 111.14], "ans": [7]},
+    {"lyric": "Neoneun kkochigo naneun beoriya", "lyric_hangul": "너는 꽃이고 나는 벌이야", "lyric_translation": "You’re a flower and I’m a bee", "range": [111.14, 114.82], "ans": [5]},
+    {"lyric": "Neoneun kkurigo naneun gomiya", "lyric_hangul": "너는 꿀이고 나는 곰이야", "lyric_translation": "You’re honey and I’m a bear", "range": [114.82, 118.91], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "Eojjeomyeon chaek irkdeusi mari sulsul naolkka", "lyric_hangul": "어쩌면 책 읽듯이 말이 술술 나올까", "lyric_translation": "Words come out as if reading a book", "range": [118.91, 123.06], "ans": [6]},
+    {"lyric": "Eodinji moreuge neon nareul darmeun geot gata", "lyric_hangul": "어딘지 모르게 넌 나를 닮은 것 같아", "lyric_translation": "Seems like you resemble me somehow", "range": [123.06, 127.11], "ans": [6]},
+    {"lyric": "Neomu yeppeo neon neukkimi jom na", "lyric_hangul": "너무 예뻐 넌 느낌이 좀 나", "lyric_translation": "You’re so pretty, I’m getting a feeling", "range": [127.11, 130.57], "ans": [7]},
+    {"lyric": "Maeryeogi teojyeo ije naege jwobwa", "lyric_hangul": "매력이 터져 이제 내게 줘봐", "lyric_translation": "Your charms are exploding, come give it to me", "range": [130.57, 135.02], "ans": [7]},
+    "",
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [135.02, 136.38], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [136.38, 137.94], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [137.39, 138.45], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [138.45, 139.93], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [139.33, 140.41], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [140.41, 141.91], "ans": [7]}
+      ]
+    },
+    {"lyric": "Jomangan niga nal wonhal tenikka", "lyric_hangul": "조만간 니가 날 원할 테니까", "lyric_translation": "Because soon, you’ll want me", "range": [141.37, 143.37], "ans": [7]},
+    {"lyric": "Oeropdago jingjingdael ttaen imi neujeosseo", "lyric_hangul": "외롭다고 징징댈 땐 이미 늦었어", "lyric_translation": "When you’re crying because you’re lonely, it’s already", "range": [143.37, 147.2], "ans": [6, 7]},
+    {"lyric": "Ni arittaun maeryeok naega arabeoryeosseo", "lyric_hangul": "니 아리따운 매력 내가 알아버렸어", "lyric_translation": "too late – I already figured out your pretty charms", "range": [147.2, 151.22], "ans": [6, 7]},
+    {"lyric": "Baby come on", "lyric_hangul": "Baby come on", "lyric_translation": "Baby come on", "range": [151.22, 151.72], "ans": [6, 7]},
+    "",
+    {"lyric": "Love your alexander wang love your isabel marang", "lyric_hangul": "Love your 알렉산더 왕 Love your 이자벨 마랑", "lyric_translation": "Love your Alexander Wang, love your Isabel Marant", "range": [151.52, 153.49], "ans": []},
+    {"lyric": "Baby goman twinggyeodae C’mon show me what you got", "lyric_hangul": "Baby 고만 튕겨대 C'mon show me what you got", "lyric_translation": "Baby stop playing hard to get, cmon show me what", "range": [153.49, 155.46], "ans": []},
+    {"lyric": "You sexy girl nahanten geuge jungyohae", "lyric_hangul": "You sexy girl 나한텐 그게 중요해", "lyric_translation": "you got – You sexy girl, that’s important to me", "range": [155.46, 157.61], "ans": []},
+    {"lyric": "(neon nae isanghyeong chungjok) uri gyeolhonhae", "lyric_hangul": "넌 내 이상형 충족 우리 결혼해", "lyric_translation": "(You’re my ideal type) let’s get married", "range": [157.61, 159.87], "ans": []},
+    {"lyric": "Nae ilsange fichyeoring jungin neo", "lyric_hangul": "내 일상에 피쳐링 중인 너", "lyric_translation": "You’re featuring in my daily life", "range": [159.87, 161.61], "ans": []},
+    {"lyric": "Mommugen gusipgukillo", "lyric_hangul": "몸무겐 99킬로", "lyric_translation": "Weighing 99kg", "range": [161.61, 163.56], "ans": []},
+    {"lyric": "Neol tteolchil su eobseo neomu miwo", "lyric_hangul": "널 떨칠 수 없어 너무 미워", "lyric_translation": "I can’t shake you off, I hate you", "range": [163.56, 165.64], "ans": []},
+    {"lyric": "Oneuldo ireoke un ttuiwo", "lyric_hangul": "오늘도 이렇게 운 띄워", "lyric_translation": "I’m wishing for some luck today", "range": [165.64, 167.67], "ans": []},
+    {"lyric": "Neoneun gwiti anim pretty hogeun jilli anim ichi", "lyric_hangul": "너는 귀티 아님 pretty 혹은 진리 아님 이치", "lyric_translation": "You’re cute and pretty, the truth and reason", "range": [167.67, 169.65], "ans": []},
+    {"lyric": "Yo my genie lamboreugini be my teenie weenie mini", "lyric_hangul": "Yo my genie 람보르기니 Be my teenie weenie mini", "lyric_translation": "Yo my genie, Lamborghini, be my teenie weenie mini", "range": [169.65, 171.53], "ans": []},
+    {"lyric": "Neon bikiniwa matini tto Mercedes cham meotjiji", "lyric_hangul": "넌 비키니와 마티니 또", "lyric_translation": "You’re a bikini and martini, Mercedes so hot", "range": [171.53, 172.56], "ans": []},
+    {"lyric": "Neomu imi niga jichini stop that eenie menie miny", "lyric_hangul": "너무 이미 니가 지치니 Stop that eenie menie miny", "lyric_translation": "It’s too tiring so stop that eenie menie miny", "range": [173.65, 175.42], "ans": []},
+    {"lyric": "Yeogiseo nal jebal kkeonaejwo", "lyric_hangul": "여기서 날 제발 꺼내줘", "lyric_translation": "Please take me out of here", "range": [175.42, 177.59], "ans": []},
+    {"lyric": "Let me switch your mind jebal byeonhaejwo", "lyric_hangul": "Let me switch your mind 제발 변해줘", "lyric_translation": "Let me switch your mind, please change", "range": [177.59, 179.45], "ans": []},
+    {"lyric": "A geogi seo bwa let me walk with ya", "lyric_hangul": "아 거기 서 봐 Let me walk with ya", "lyric_translation": "Stand over there, let me walk with ya", "range": [179.45, 181.48], "ans": []},
+    {"lyric": "Ujjujju geuraetjjyeo haejwo Get it?", "lyric_hangul": "우쭈쭈 그랬쪄 해줘 Get it", "lyric_translation": "Sweet talk to me. Get it?", "range": [181.48, 183.73], "ans": []},
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [183.73, 184.41], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [184.41, 185.95], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [185.4, 186.42], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [186.42, 187.92], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [187.47, 188.41], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [188.41, 189.91], "ans": [7]}
+      ]
+    },
+    {"lyric": "Jomangan niga nal wonhal tenikka", "lyric_hangul": "조만간 니가 날 원할 테니까", "lyric_translation": "Because soon, you’ll want me", "range": [189.35, 191.45], "ans": [7]},
+    {"lyric": "Oeropdago jingjingdael ttaen imi neujeosseo", "lyric_hangul": "외롭다고 징징댈 땐 이미 늦었어", "lyric_translation": "When you’re crying because you’re lonely, it’s already", "range": [191.45, 195.4], "ans": [6, 7]},
+    {"lyric": "Ni arittaun maeryeok naega arabeoryeosseo", "lyric_hangul": "니 아리따운 매력 내가 알아버렸어", "lyric_translation": "too late – I already figured out your pretty charms", "range": [195.4, 199.12], "ans": [6, 7]},
+    {
+      "lyric_hangul": "Baby come on",
+      "lyric_translation": "Baby come on / At first,",
+      "parts": [
+        {"lyric": "Baby come on", "range": [199.12, 199.98], "ans": [6, 7]},
+        {"lyric": "Cheoeumen", "range": [199.32, 200.03], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "처음엔 열 번 문자에 한 번 답장하던 너",
+      "lyric_translation": "You answered once when I texted ten times / But later,",
+      "parts": [
+        {"lyric": "Yeol beon munjae han beon dapjanghadeon neo", "range": [199.87, 204.12], "ans": [1]},
+        {"lyric": "Najungen", "range": [203.66, 204.21], "ans": []}
+      ]
+    },
+    {"lyric": "Meonjeo jeonhwahae harujongil naman chajadae", "lyric_hangul": "하루종일 나만 찾아대", "lyric_translation": "You call me first and look for me all day", "range": [205.58, 207.49], "ans": [7]},
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [207.49, 208.45], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [208.45, 209.95], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마",
+      "lyric_translation": "Look here, don’t run away",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [209.47, 210.41], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [210.41, 211.95], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "여기 봐 도망가지 마 여기 봐",
+      "lyric_translation": "Look here, don’t run away / Look here",
+      "parts": [
+        {"lyric": "Yeogi bwa", "range": [211.4, 212.42], "ans": [5]},
+        {"lyric": "Domanggaji ma", "range": [212.42, 214.29], "ans": [7]},
+        {"lyric": "Yeogi bwa", "range": [213.59, 216.25], "ans": [5, 7]}
+      ]
+    }
+  ]
+}

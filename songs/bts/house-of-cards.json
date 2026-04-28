@@ -1,0 +1,129 @@
+{
+  "name": "Outro : House Of Cards\r",
+  "ogg": "sound/kpop/house_of_cards.ogg",
+  "id": "house-of-cards",
+  "group": "bts",
+  "language": "ko",
+  "released": "2015-11-30",
+  "album": "화양연화 The Most Beautiful Moment In Life pt.2",
+  "cover": "css/images/covers/house-of-cards.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:50Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "Tto witaerowo tto wiheomhae", "lyric_hangul": "또 위태로워 또 위험해", "lyric_translation": "Insecure again, dangerous again", "range": [17.31, 22.39], "ans": [7]},
+    {
+      "lyric_hangul": "So bad (why) 우린 yeah",
+      "lyric_translation": "So bad (why?) us, yeah / So bad (so bad) us, yeah",
+      "parts": [
+        {"lyric": "So bad", "range": [22.39, 23.65], "ans": [7]},
+        {"lyric": "(why)", "range": [22.95, 24.93], "ans": [5]},
+        {"lyric": "Urin yeah", "range": [24.23, 26.12], "ans": [7]},
+        {"lyric": "So bad (so bad) urin yeah", "range": [25.42, 26.53], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "더 버티기도 지탱하기도",
+      "lyric_translation": "Enduring more, holding out / Enduring more, holding out",
+      "parts": [
+        {"lyric": "Deo beotigido jitaenghagido", "range": [26.5, 28.28], "ans": [6]},
+        {"lyric": "Deo beotigido jitaenghagido", "range": [28.28, 31.54], "ans": [1]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "So hard (hard) 안 돼",
+      "lyric_translation": "So hard (hard), we can’t",
+      "parts": [
+        {"lyric": "So hard", "range": [31.54, 32.58], "ans": [6]},
+        {"lyric": "(hard)", "range": [31.88, 34.09], "ans": [5]},
+        {"lyric": "An dwae", "range": [33.39, 35.96], "ans": [6]}
+      ]
+    },
+    {"lyric": "Imi algo isseodo", "lyric_hangul": "이미 알고 있어도", "lyric_translation": "Even if you already knew", "range": [35.96, 38.18], "ans": [5]},
+    "",
+    {"lyric": "Meomchul suga eobseosseo", "lyric_hangul": "멈출 수가 없었어", "lyric_translation": "We couldn’t stop", "range": [38.18, 40.74], "ans": [5]},
+    {"lyric": "No way, no way, no way sseureojyeo", "lyric_hangul": "No way, no way, no way 쓰러져", "lyric_translation": "No way, no way, no way, falling", "range": [40.74, 44.88], "ans": [1]},
+    {"lyric": "Sigani jinagalsurok", "lyric_hangul": "시간이 지나갈수록", "lyric_translation": "As time passes by", "range": [44.88, 47.02], "ans": [5]},
+    "",
+    {"lyric": "Deo manggajyeogagiman hae", "lyric_hangul": "더 망가져가기만 해", "lyric_translation": "We only mess it up even more", "range": [47.02, 49.85], "ans": [5]},
+    {
+      "lyric_hangul": "No way, no way 또 무너지는 걸",
+      "lyric_translation": "No way, no way, it’s collapsing again / So hard, it’s collapsing again",
+      "parts": [
+        {"lyric": "No way, no way tto muneojineun geol", "range": [49.85, 52.37], "ans": [1]},
+        {"lyric": "So hard tto muneojineun geol", "range": [52.37, 54.06], "ans": [1]}
+      ]
+    },
+    {
+      "lyric_hangul": "카드로 만든 집 그 속에서 우린",
+      "lyric_translation": "A house made of cards, and us inside / A house made of cards, and us inside",
+      "parts": [
+        {"lyric": "Kadeuro mandeun jip geu sogeseo urin", "range": [54.06, 56.57], "ans": [7]},
+        {"lyric": "Kadeuro mandeun jip geu sogeseo urin", "range": [55.87, 58.61], "ans": [7, 5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "끝이 보인대도 곧 쓰러진대도",
+      "lyric_translation": "Even if you say you see the end, even if you say it’ll collapse soon / Even if you say you see the end, even if you say it’ll collapse soon",
+      "parts": [
+        {"lyric": "Kkeuchi boindaedo got sseureojindaedo", "range": [58.61, 61.46], "ans": [6]},
+        {"lyric": "Kkeuchi boindaedo got sseureojindaedo", "range": [60.76, 63.33], "ans": [6, 5]}
+      ]
+    },
+    {
+      "lyric_hangul": "카드로 만든 집 바보같이 우린",
+      "lyric_translation": "A house made of cards, and stupidly, us / A house made of cards, and stupidly, us",
+      "parts": [
+        {"lyric": "Kadeuro mandeun jip babogachi urin", "range": [63.15, 65.21], "ans": [7]},
+        {"lyric": "Kadeuro mandeun jip babogachi urin", "range": [65.21, 67.67], "ans": [7, 5]}
+      ]
+    },
+    {
+      "lyric_hangul": "헛된 꿈이래도 이대로 조금 더 stay",
+      "lyric_translation": "Even if you say it’s a useless dream, just stay a little more like this / Even if you say it’s a useless dream, just stay a little more like this",
+      "parts": [
+        {"lyric": "Heotdoen kkumiraedo idaero jogeum deo stay", "range": [67.65, 69.75], "ans": [6]},
+        {"lyric": "Heotdoen kkumiraedo idaero jogeum deo stay", "range": [69.75, 90.73], "ans": [6, 5]}
+      ]
+    },
+    {"lyric": "Naeiriran ge eobtdeusi", "lyric_hangul": "내일이란 게 없듯이", "lyric_translation": "Like there’s no tomorrow", "range": [90.73, 92.98], "ans": [7]},
+    "",
+    "[next-col]",
+    {"lyric": "Daeumiran geon eobtdeusi", "lyric_hangul": "다음이란 건 없듯이", "lyric_translation": "Like there’s no next time", "range": [92.98, 95.14], "ans": [1]},
+    {"lyric": "Jigeum naegen nun ape neoreul ppaen modeun ge", "lyric_hangul": "[정/지] 지금 내겐 눈 앞에 너를 뺀 모든 게", "lyric_translation": "Everything that you’ve done in front of my eyes", "range": [95.14, 97.71], "ans": [7, 5]},
+    {"lyric": "Jidokhi kkamkkamhan eodumiji", "lyric_hangul": "[정/지] 지독히 깜깜한 어둠이지", "lyric_translation": "It’s a complete darkness", "range": [97.71, 99.92], "ans": [7, 5]},
+    "",
+    {"lyric": "Ipbeoreutcheoreom malhae", "lyric_hangul": "입버릇처럼 말해", "lyric_translation": "Say it like you mean it", "range": [99.92, 102.15], "ans": [7]},
+    {"lyric": "Urin gyeolgugen an dwae", "lyric_hangul": "[정/지] 우린 결국엔 안 돼", "lyric_translation": "In the end, we can’t make it", "range": [102.15, 104.38], "ans": [7, 5]},
+    {"lyric": "Geuraedo nan gyesok barae", "lyric_hangul": "그래도 난 계속 바래", "lyric_translation": "Even so, I keep hoping", "range": [104.38, 106.41], "ans": [7]},
+    "",
+    {"lyric": "Majimakdo neowa hamkkeramyeon I’m okay", "lyric_hangul": "[정/지] 마지막도 너와 함께라면 I'm okay", "lyric_translation": "Even at the end, if you’re with me, I’m okay", "range": [106.41, 108.93], "ans": [7, 5]},
+    {"lyric": "Imi algo isseodo", "lyric_hangul": "이미 알고 있어도", "lyric_translation": "Even if you already knew", "range": [108.93, 111.23], "ans": [5]},
+    {"lyric": "Meomchul suga eobseosseo", "lyric_hangul": "멈출 수가 없었어", "lyric_translation": "We couldn’t stop", "range": [111.23, 113.98], "ans": [5]},
+    {"lyric": "No way, no way, no way sseureojyeo", "lyric_hangul": "No way, no way, no way 쓰러져", "lyric_translation": "No way, no way, no way, falling", "range": [113.98, 118.05], "ans": [1]},
+    "",
+    {"lyric": "Sigani jinagalsurok", "lyric_hangul": "시간이 지나갈수록", "lyric_translation": "As time passes by", "range": [118.05, 120.35], "ans": [5]},
+    {"lyric": "Deo manggajyeo gagiman hae", "lyric_hangul": "더 망가져 가기만 해", "lyric_translation": "We only mess it up even more", "range": [120.35, 122.89], "ans": [5]},
+    {"lyric": "No way, no way tto muneojineun geol", "lyric_hangul": "No way, no way 또 무너지는 걸", "lyric_translation": "No way, no way, it’s collapsing again", "range": [122.89, 127.12], "ans": [1]},
+    {"lyric": "Kadeuro mandeun jip geu sogeseo urin", "lyric_hangul": "카드로 만든 집 그 속에서 우린", "lyric_translation": "A house made of cards, and us inside", "range": [127.12, 131.61], "ans": [7, 5]},
+    "",
+    {"lyric": "Kkeuchi boindaedo got sseureojindaedo", "lyric_hangul": "끝이 보인대도 곧 쓰러진대도", "lyric_translation": "Even if you say you see the end, even if you say it’ll collapse soon", "range": [131.61, 136.21], "ans": [6, 5]},
+    {"lyric": "Kadeuro mandeun jip babogachi urin", "lyric_hangul": "카드로 만든 집 바보같이 우린", "lyric_translation": "A house made of cards, and stupidly, us", "range": [136.21, 140.84], "ans": [7, 5]},
+    {
+      "lyric_hangul": "헛된 꿈이래도 이대로 조금 더 stay",
+      "lyric_translation": "Even if you say it’s a useless dream, just stay a little more like this / Slow down the time / Please stay just for a little more oh / Please Baby. Calm down / Just a little more / More insecure, more dangerous",
+      "parts": [
+        {"lyric": "Heotdoen kkumiraedo idaero jogeum deo stay", "range": [140.84, 142.66], "ans": [6, 5]},
+        {"lyric": "Siganeul Slow down", "range": [142.1, 142.71], "ans": [7]},
+        {"lyric": "Jogeumman deo, meomulleo jwo oh", "range": [142.71, 144.2], "ans": [7]},
+        {"lyric": "Please Baby. Calm down", "range": [143.5, 144.6], "ans": [5]},
+        {"lyric": "Jogeumman deo", "range": [144.6, 145.25], "ans": [5]},
+        {"lyric": "Deo witaerowo deo wiheomhae", "range": [144.65, 148.3], "ans": [6]}
+      ]
+    },
+    ""
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Life Goes On\r",
+  "ogg": "sound/kpop/life_goes_on.ogg",
+  "id": "life-goes-on",
+  "group": "bts",
+  "language": "ko",
+  "released": "2020-11-20",
+  "album": "BE",
+  "cover": "css/images/covers/life-goes-on.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:01:00Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {"lyric": "I remember (oh, ayy-yeah-yeah-yeah)", "lyric_hangul": "I remember (oh, ayy-yeah-yeah-yeah)", "lyric_translation": "", "range": [0.58, 5.91], "ans": []},
+    {"lyric": "I remember (oh-oh-oh-oh, oh-oh-oh-oh)", "lyric_hangul": "I remember (oh-oh-oh-oh, oh-oh-oh-oh)", "lyric_translation": "", "range": [5.91, 10.71], "ans": []},
+    {
+      "lyric_hangul": "어느 날 세상이 멈췄어, 아무런 예고도 하나 없이",
+      "lyric_translation": "One day the world stopped / Without any warning",
+      "parts": [
+        {"lyric": "Eoneu nal sesangi meomchweosseo", "range": [10.71, 13.71], "ans": [7]},
+        {"lyric": "Amureon yegodo hana eopshi", "range": [13.71, 16.77], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "봄은 기다림을 몰라서, 눈치 없이 와버렸어",
+      "lyric_translation": "Spring didn’t know to wait / Showed up not even a minute late",
+      "parts": [
+        {"lyric": "Bomeun gidarimeul mollaseo", "range": [16.77, 19.77], "ans": [7]},
+        {"lyric": "Nunchi eopshi wabeoryeosseo", "range": [19.77, 23.03], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "발자국이 지워진 거리, 여기 넘어져 있는 나",
+      "lyric_translation": "Streets erased of footprints / I lie here, fallen to the ground",
+      "parts": [
+        {"lyric": "Baljagugi jiweojin geori", "range": [22.92, 25.52], "ans": [5]},
+        {"lyric": "Yeogi neomeojyeoinneun na", "range": [25.52, 28.83], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "혼자 가네 시간이, 미안해 말도 없이, yeah",
+      "lyric_translation": "Time goes by on its own / Without a single apology",
+      "parts": [
+        {"lyric": "Honja gane shigani", "range": [28.83, 31.54], "ans": [5, 7]},
+        {"lyric": "Mianhae maldo eopshi", "range": [31.54, 35.29], "ans": [5, 7]}
+      ]
+    },
+    "",
+    {"lyric": "Oneuldo biga naeril geot gata", "lyric_hangul": "오늘도 비가 내릴 것 같아", "lyric_translation": "It looks like rain again today", "range": [34.83, 37.76], "ans": [4]},
+    {
+      "lyric_hangul": "흠뻑 젖어버렸네, 아직도 멈추질 않아",
+      "lyric_translation": "I’m soaked to the bone / Still won’t stop",
+      "parts": [
+        {"lyric": "Heumppeok jeojeobeoryeonne", "range": [37.76, 39.45], "ans": [4]},
+        {"lyric": "Ajikdo meomchujil ana", "range": [39.45, 41.08], "ans": [4]}
+      ]
+    },
+    {"lyric": "Jeo meokgureumboda ppalli dallyeoga", "lyric_hangul": "저 먹구름보다 빨리 달려가", "lyric_translation": "Running faster than that cloud of rain", "range": [40.65, 43.71], "ans": [4]},
+    {
+      "lyric_hangul": "그럼 될 줄 알았는데, 나 겨우 사람인가 봐",
+      "lyric_translation": "Thought that’d be enough / Guess I’m only human after all",
+      "parts": [
+        {"lyric": "Geureom dwel jul aranneunde", "range": [43.71, 45.88], "ans": [4]},
+        {"lyric": "Na gyeou saraminga bwa", "range": [45.18, 47.13], "ans": [4, 7]}
+      ]
+    },
+    {
+      "lyric_hangul": "몹시 아프네, 세상이란 놈이 준 감기",
+      "lyric_translation": "I’m in a world of pain / This cold the world gave to me",
+      "parts": [
+        {"lyric": "Mobshi apeune", "range": [46.84, 48.35], "ans": [4]},
+        {"lyric": "Sesangiran nomi jun gamgi", "range": [48.35, 50.28], "ans": [4]}
+      ]
+    },
+    {"lyric": "Deokbune nulleoboneun meonji ssain dwegamgi", "lyric_hangul": "덕분에 눌러보는 먼지 쌓인 되감기", "lyric_translation": "Prompts me to press the dust-covered rewind", "range": [49.79, 52.77], "ans": [4]},
+    {"lyric": "Neomeojin chae cheonghaneun eotbakjaye chum", "lyric_hangul": "넘어진 채 청하는 엇박자의 춤", "lyric_translation": "Dancing off-beat lying on the ground", "range": [52.77, 55.68], "ans": [4]},
+    {
+      "lyric_hangul": "겨울이 오면 내쉬자 더 뜨거운 숨",
+      "lyric_translation": "Once winter comes, let’s exhale / A warmer breath",
+      "parts": [
+        {"lyric": "Gyeouri omyeon naeshwija", "range": [55.68, 57.58], "ans": [4]},
+        {"lyric": "Deo tteugeoun sum", "range": [57.58, 59.4], "ans": [4]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "끝이 보이지 않아, 출구가 있긴 할까?",
+      "lyric_translation": "There’s no end in sight / Is there a way out?",
+      "parts": [
+        {"lyric": "Kkeuchi boiji ana", "range": [59.4, 62.56], "ans": [6]},
+        {"lyric": "Chulguga itgin halkka", "range": [62.56, 66.04], "ans": [6]}
+      ]
+    },
+    {"lyric": "Bari ttejijil ana ana oh", "lyric_hangul": "발이 떼지질 않아, 않아, oh", "lyric_translation": "My feet refuse to move oh", "range": [65.86, 71.55], "ans": [6]},
+    {
+      "lyric_hangul": "잠시 두 눈을 감아, 여기 내 손을 잡아",
+      "lyric_translation": "Close your eyes for a moment / Hold my hand",
+      "parts": [
+        {"lyric": "Jamshi du nuneul gama", "range": [71.55, 75.03], "ans": [7]},
+        {"lyric": "Yeogi nae soneul jaba", "range": [75.03, 77.47], "ans": [7]}
+      ]
+    },
+    {"lyric": "Jeo miraero daranaja", "lyric_hangul": "저 미래로 달아나자", "lyric_translation": "To that future, let’s run away", "range": [77.47, 81.96], "ans": [7]},
+    "",
+    {"lyric": "Like an echo in the forest", "lyric_hangul": "Like an echo in the forest", "lyric_translation": "Like an echo in the forest", "range": [81.96, 84.96], "ans": [1, 7]},
+    {"lyric": "Haruga doraogetji", "lyric_hangul": "하루가 돌아오겠지", "lyric_translation": "The day will come back around", "range": [84.96, 87.81], "ans": [1, 7]},
+    {"lyric": "Amu ildo eopttan deushi", "lyric_hangul": "아무 일도 없단 듯이", "lyric_translation": "As if nothing happened", "range": [87.81, 91.74], "ans": [1, 7]},
+    {"lyric": "Yeah life goes on", "lyric_hangul": "Yeah, life goes on", "lyric_translation": "Yeah life goes on", "range": [91.74, 93.68], "ans": [1, 7]},
+    {"lyric": "Like an arrow in the blue sky", "lyric_hangul": "Like an arrow in the blue sky", "lyric_translation": "Like an arrow in the blue sky", "range": [93.68, 96.67], "ans": [5, 6]},
+    {"lyric": "Tto haru deo naragaji", "lyric_hangul": "또 하루 더 날아가지", "lyric_translation": "Another day flying by", "range": [96.67, 100.01], "ans": [5, 6]},
+    {"lyric": "On my pillow, on my table", "lyric_hangul": "On my pillow, on my table", "lyric_translation": "On my pillow, on my table", "range": [100.01, 103.49], "ans": [5, 6]},
+    {
+      "lyric_hangul": "Yeah, life goes on like this again",
+      "lyric_translation": "Yeah life goes on / Like this again",
+      "parts": [
+        {"lyric": "Yeah life goes on", "range": [103.49, 105.63], "ans": [5, 6]},
+        {"lyric": "Like this again", "range": [105.63, 107.18], "ans": [5, 6]}
+      ]
+    },
+    "",
+    "[next-col]",
+    {"lyric": "I eumageul billyeo neoege na jeonhalge", "lyric_hangul": "이 음악을 빌려 너에게 나 전할게 (ayy)", "lyric_translation": "Let me tell you with this song", "range": [107.18, 110.05], "ans": [2, 5]},
+    {"lyric": "Saramdeureun malhae sesangi da byeonhaettae", "lyric_hangul": "사람들은 말해 세상이 다 변했대 (yo)", "lyric_translation": "People say the world has changed", "range": [110.05, 112.59], "ans": [2, 5]},
+    {"lyric": "Mmm-mmm-mmm-mmm", "lyric_hangul": "Mmm-mmm-mmm-mmm", "lyric_translation": "", "range": [112.59, 115.22], "ans": []},
+    {
+      "lyric_hangul": "다행히도 우리 사이는 아직 여태 안 변했네",
+      "lyric_translation": "But thankfully between you and me / Nothing’s changed",
+      "parts": [
+        {"lyric": "Dahaenghido uri saineun", "range": [115.22, 117.38], "ans": [2]},
+        {"lyric": "Ajik yeotae an byeonhaenne", "range": [116.68, 118.69], "ans": [2, 5]}
+      ]
+    },
+    "",
+    {"lyric": "Neul hadeon shijakkwa kkeut ‘annyeong’iran mallo", "lyric_hangul": "늘 하던 시작과 끝 \"안녕\"이란 말로", "lyric_translation": "With the “annyeong” that we start and finish the day*", "range": [118.26, 121.23], "ans": [3, 7]},
+    {"lyric": "Oneulgwa naeireul tto hamkke ieobojago", "lyric_hangul": "오늘과 내일을 또 함께 이어보자고", "lyric_translation": "Let us thread tomorrow with today", "range": [121.23, 124.88], "ans": [3, 7]},
+    {"lyric": "(Ooh-ooh-ooh-ooh-ooh-ah)", "lyric_hangul": "(Ooh-ooh-ooh-ooh-ooh-ah)", "lyric_translation": "", "range": [124.88, 126.45], "ans": []},
+    {
+      "lyric_hangul": "멈춰있지만 어둠에 숨지 마 빛은 또 떠오르니깐",
+      "lyric_translation": "Stopped for now but don’t hide in the shadow / Once again daylight will glow",
+      "parts": [
+        {"lyric": "Meomchweoitjiman eodume sumji ma", "range": [126.45, 129.28], "ans": [3]},
+        {"lyric": "Bicheun tto tteooreunikkan", "range": [128.58, 130.92], "ans": [3, 7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "끝이 보이지 않아, 출구가 있긴 할까?",
+      "lyric_translation": "There’s no end in sight / Is there a way out?",
+      "parts": [
+        {"lyric": "Kkeuchi boiji ana", "range": [130.92, 133.58], "ans": [6, 7]},
+        {"lyric": "Chulguga itgin halkka", "range": [133.58, 137.12], "ans": [6, 7]}
+      ]
+    },
+    {"lyric": "Bari ttejijil ana ana oh", "lyric_hangul": "발이 떼지질 않아, 않아, oh", "lyric_translation": "My feet refuse to move oh", "range": [136.99, 142.48], "ans": [6, 7]},
+    {
+      "lyric_hangul": "잠시 두 눈을 감아, 여기 내 손을 잡아",
+      "lyric_translation": "Close your eyes for a moment / Hold my hand",
+      "parts": [
+        {"lyric": "Jamshi du nuneul gama", "range": [142.48, 146.02], "ans": [1]},
+        {"lyric": "Yeogi nae soneul jaba", "range": [146.02, 148.52], "ans": [1]}
+      ]
+    },
+    {"lyric": "Jeo miraero daranaja", "lyric_hangul": "저 미래로 달아나자", "lyric_translation": "To that future, let’s run away", "range": [148.52, 152.99], "ans": [1]},
+    "",
+    {"lyric": "Like an echo in the forest", "lyric_hangul": "Like an echo in the forest", "lyric_translation": "Like an echo in the forest", "range": [152.99, 155.96], "ans": [5, 6]},
+    {"lyric": "Haruga doraogetji", "lyric_hangul": "하루가 돌아오겠지", "lyric_translation": "The day will come back around", "range": [155.96, 158.72], "ans": [5, 6]},
+    {"lyric": "Amu ildo eopttan deushi", "lyric_hangul": "아무 일도 없단 듯이", "lyric_translation": "As if nothing happened", "range": [158.72, 162.53], "ans": [5, 6]},
+    {"lyric": "Yeah life goes on", "lyric_hangul": "Yeah, life goes on", "lyric_translation": "Yeah life goes on", "range": [162.53, 164.8], "ans": [5, 6]},
+    {"lyric": "Like an arrow in the blue sky", "lyric_hangul": "Like an arrow in the blue sky", "lyric_translation": "Like an arrow in the blue sky", "range": [164.8, 168.1], "ans": [3, 7]},
+    {"lyric": "Tto haru deo naragaji", "lyric_hangul": "또 하루 더 날아가지 (날아가지)", "lyric_translation": "Another day flying by", "range": [168.1, 171.25], "ans": [3, 7]},
+    {"lyric": "On my pillow, on my table", "lyric_hangul": "On my pillow, on my table", "lyric_translation": "On my pillow, on my table", "range": [171.25, 174.3], "ans": [3, 7]},
+    {
+      "lyric_hangul": "Yeah, life goes on like this again",
+      "lyric_translation": "Yeah life goes on / Like this again",
+      "parts": [
+        {"lyric": "Yeah life goes on", "range": [174.3, 176.74], "ans": [3, 7]},
+        {"lyric": "Like this again", "range": [176.74, 178.2], "ans": [3, 7]}
+      ]
+    },
+    "",
+    {"lyric": "I remember", "lyric_hangul": "I remember (oh, ayy-yeah-yeah-yeah)", "lyric_translation": "I remember", "range": [178.2, 184.14], "ans": [5, 6]},
+    {"lyric": "I remember", "lyric_hangul": "I remember (oh-oh-oh-oh, oh-oh-oh-oh)", "lyric_translation": "I remember", "range": [184.14, 189.82], "ans": [5, 6]},
+    {"lyric": "I remember", "lyric_hangul": "I remember (oh, ayy-yeah-yeah-yeah)", "lyric_translation": "I remember", "range": [189.82, 196.17], "ans": [5, 6]},
+    {"lyric": "I remember", "lyric_hangul": "I remember (oh-oh-oh-oh, oh-oh-oh-oh)", "lyric_translation": "I remember", "range": [196.17, 202.97], "ans": [5, 6]}
+  ]
+}

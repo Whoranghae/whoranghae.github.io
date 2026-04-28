@@ -1,0 +1,247 @@
+{
+  "name": "Best Of Me\r",
+  "ogg": "sound/kpop/best_of_me.ogg",
+  "id": "best-of-me",
+  "group": "bts",
+  "language": "ko",
+  "released": "2017-09-18",
+  "album": "LOVE YOURSELF 承 ‘Her’",
+  "cover": "css/images/covers/best-of-me.jpg",
+  "added": "2026-04",
+  "generated": "2026-04-27T03:00:26Z",
+  "hidden": false,
+  "slots": [],
+  "lines": [
+    {
+      "lyric_hangul": "When you say that you love me, 난 하늘 위를 걷네",
+      "lyric_translation": "When you say that you love me / Feels like I’m walking across the sky",
+      "parts": [
+        {"lyric": "When you say that you love me", "range": [0.15, 2.24], "ans": [5]},
+        {"lyric": "Nan haneul wireul geonne", "range": [2.24, 5.24], "ans": [5]}
+      ]
+    },
+    {"lyric": "Yeongweoneul malhaejweo just one more time", "lyric_hangul": "영원을 말해줘, just one more time", "lyric_translation": "Tell me about forever, just one more time", "range": [5.24, 8.16], "ans": [5]},
+    {
+      "lyric_hangul": "When you say that you love me, 난 그 한 마디면 돼",
+      "lyric_translation": "When you say that you love me / I just need those words",
+      "parts": [
+        {"lyric": "When you say that you love me", "range": [8.16, 10.14], "ans": [7]},
+        {"lyric": "Nan geu han madimyeon dwae", "range": [10.14, 12.67], "ans": [7]}
+      ]
+    },
+    {"lyric": "Byeonhaji anneundago just one more time", "lyric_hangul": "변하지 않는다고, just one more time", "lyric_translation": "That you’ll never change, just one more time", "range": [12.67, 15.43], "ans": [7]},
+    "",
+    {"lyric": "Neon naege i segyeye jeonbu gata", "lyric_hangul": "넌 내게 이 세계의 전부 같아", "lyric_translation": "You’re everything in this world to me", "range": [15.43, 19.34], "ans": [1]},
+    {"lyric": "Deo sege apeuge nal kkwak kkyeoana", "lyric_hangul": "더 세게 아프게 날 꽉 껴안아", "lyric_translation": "Harder, so it hurts, hold me tight", "range": [19.34, 23.49], "ans": [1]},
+    {
+      "lyric_hangul": "우리가 나눈 something and you can't make it nothing",
+      "lyric_translation": "We shared something / And you can’t make it nothing",
+      "parts": [
+        {"lyric": "Uriga nanun something", "range": [23.49, 24.57], "ans": [6]},
+        {"lyric": "And you can’t make it nothing", "range": [24.57, 28.19], "ans": [6]}
+      ]
+    },
+    {
+      "lyric_hangul": "잊지 않아줬으면 해 넌 내",
+      "lyric_translation": "I hope you don’t forget / You’re my",
+      "parts": [
+        {"lyric": "Itji anajweosseumyeon hae", "range": [28.19, 30.55], "ans": [6]},
+        {"lyric": "Neon nae", "range": [30.55, 32.77], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "하루하루, 여름, 겨울",
+      "lyric_translation": "Day by day / Summer, winter",
+      "parts": [
+        {"lyric": "Haruharu", "range": [32.77, 35.63], "ans": [1]},
+        {"lyric": "Yeoreum, gyeoul", "range": [35.63, 40.16], "ans": [1]}
+      ]
+    },
+    {"lyric": "Neon mollado", "lyric_hangul": "넌 몰라도", "lyric_translation": "Even if you don’t know", "range": [40.16, 45.61], "ans": [6]},
+    "",
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me (the best of me)", "lyric_translation": "You got the best of me", "range": [45.61, 53.03], "ans": [7]},
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me", "lyric_translation": "You got the best of me", "range": [53.03, 57.14], "ans": [7]},
+    {
+      "lyric_hangul": "So, please, just don't leave me",
+      "lyric_translation": "So please just don’t leave me / So please just don’t leave me",
+      "parts": [
+        {"lyric": "So please just don’t leave me", "range": [57.14, 58.75], "ans": [7]},
+        {"lyric": "So please just don’t leave me", "range": [58.05, 60.96], "ans": [1]}
+      ]
+    },
+    "",
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me", "lyric_translation": "You got the best of me / You got the best of me", "range": [60.96, 63.22], "ans": [7]},
+    {
+      "lyric_hangul": "나도 나의 끝을 본 적 없지만 그게 있다면 너지 않을까?",
+      "lyric_translation": "I haven’t seen the end to myself either / But if there’s such a thing, wouldn’t it be you?",
+      "parts": [
+        {"lyric": "Nado naye kkeucheul bon jeok eopjiman", "range": [63.1, 64.44], "ans": []},
+        {"lyric": "Geuge ittamyeon neoji aneulkka", "range": [64.44, 66.78], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "다정한 파도고 싶었지만 네가 바다인 건 왜 몰랐을까?",
+      "lyric_translation": "I wanted to be a warm wave / But why didn’t I know you’re the ocean?",
+      "parts": [
+        {"lyric": "Dajeonghan padogo shipeotjiman", "range": [66.78, 68.32], "ans": []},
+        {"lyric": "Niga badain geon wae mollasseulkka", "range": [68.32, 70.92], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "어떡해? 너의 언어로 말을 하고 또 너의 숨을 쉬는데",
+      "lyric_translation": "What do I do? I’m speaking in your language / I’m breathing in your breath",
+      "parts": [
+        {"lyric": "Eotteokhae neoye eoneoro mareul hago", "range": [70.92, 72.92], "ans": []},
+        {"lyric": "Tto neoye sumeul shwineunde", "range": [72.92, 74.8], "ans": []}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "I'll be you, 날 쥐고 있는 너 (너), 난 너의 칼에 입맞춰",
+      "lyric_translation": "I’ll be you, you hold me / I’m kissing your sword",
+      "parts": [
+        {"lyric": "I’ll be you nal jwigo inneun neo", "range": [74.8, 76.02], "ans": []},
+        {"lyric": "Nan neoye kare ibmatchweo", "range": [76.02, 78.26], "ans": []}
+      ]
+    },
+    {
+      "lyric_hangul": "그러니, take my hand right now, 이런 내가 믿기지 않아",
+      "lyric_translation": "So take my hand right now / I can’t believe myself",
+      "parts": [
+        {"lyric": "Geureoni take my hand right now", "range": [78.26, 79.26], "ans": [2]},
+        {"lyric": "Ireon naega mitgiji ana", "range": [79.26, 82.1], "ans": [2]}
+      ]
+    },
+    {"lyric": "Sogeuroman sucheon beoneun deo malhaesseotteon geu mal", "lyric_hangul": "속으로만 수천 번은 더 말했었던 그 말", "lyric_translation": "Words I said thousands of times only to myself", "range": [82.07, 84.1], "ans": [2]},
+    {"lyric": "Geudaeneun nal tteonaji ma", "lyric_hangul": "그대는 날 떠나지 마, whoa", "lyric_translation": "Don’t leave me", "range": [84.1, 87.19], "ans": [2]},
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me, you got the best of me", "lyric_translation": "You got the best of me / You got the best of me", "range": [87.19, 90.55], "ans": [2]},
+    {"lyric": "Kkuminji hyeonshirinjineun ttakhi jungyochi anchi", "lyric_hangul": "꿈인지 현실인지는 딱히 중요치 않지", "lyric_translation": "Whether this is a dream or reality, it’s not important", "range": [90.24, 92.11], "ans": [2]},
+    "",
+    {
+      "lyric_hangul": "그저 네가 내 곁에 있다는 게, thanks",
+      "lyric_translation": "Just the fact that you’re by my side / Thanks",
+      "parts": [
+        {"lyric": "Geujeo niga nae gyeote ittaneun ge", "range": [92.11, 94.1], "ans": [2]},
+        {"lyric": "Thanks", "range": [94.1, 95.76], "ans": [2]}
+      ]
+    },
+    {
+      "lyric_hangul": "하루하루, 여름, 겨울",
+      "lyric_translation": "Day by day / Summer, winter",
+      "parts": [
+        {"lyric": "Haruharu", "range": [95.76, 98.74], "ans": [6]},
+        {"lyric": "Yeoreum, gyeoul", "range": [98.74, 103.3], "ans": [6]}
+      ]
+    },
+    "",
+    {"lyric": "Neon mollado", "lyric_hangul": "넌 몰라도", "lyric_translation": "Even if you don’t know", "range": [103.3, 108.47], "ans": [1]},
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me (the best of me)", "lyric_translation": "You got the best of me", "range": [108.47, 115.9], "ans": [5]},
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me", "lyric_translation": "You got the best of me", "range": [115.9, 119.95], "ans": [5]},
+    "",
+    "[next-col]",
+    {"lyric": "So please just don’t leave me", "lyric_hangul": "So, please, just don't leave me", "lyric_translation": "So please just don’t leave me", "range": [119.95, 123.81], "ans": [5]},
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me", "lyric_translation": "You got the best of me", "range": [123.81, 126.42], "ans": [7]},
+    {"lyric": "Neon naye guweon neon naye chang", "lyric_hangul": "넌 나의 구원, 넌 나의 창", "lyric_translation": "You’re my salvation, you’re my shield", "range": [126.42, 130.34], "ans": [5]},
+    {"lyric": "Nan neoman isseumyeon dwae", "lyric_hangul": "난 너만 있으면 돼 (you got the best of me)", "lyric_translation": "I just need you", "range": [130.34, 134.45], "ans": [5]},
+    {
+      "lyric_hangul": "You got the best of me",
+      "lyric_translation": "You got the best of me / I need you",
+      "parts": [
+        {"lyric": "You got the best of me", "range": [139.43, 141.26], "ans": [7]},
+        {"lyric": "Niga piryohae", "range": [140.56, 141.99], "ans": [5]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "비가 내리던 나, 눈이 내리던 나",
+      "lyric_translation": "It was raining / It was snowing",
+      "parts": [
+        {"lyric": "Biga naerideon na", "range": [141.84, 143.54], "ans": [5]},
+        {"lyric": "Nuni naerideon na", "range": [143.54, 145.54], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "모든 불행을 멈추고 천국을 데려와",
+      "lyric_translation": "But all unhappiness stopped / You brought heaven to me",
+      "parts": [
+        {"lyric": "Modeun bulhaengeul meomchugo", "range": [145.54, 147.68], "ans": [5]},
+        {"lyric": "Cheongugeul deryeowa", "range": [147.68, 149.77], "ans": [5]}
+      ]
+    },
+    {
+      "lyric_hangul": "쉽게 말하지 마, 너 없는 난 없어",
+      "lyric_translation": "Don’t speak so easily / Because without you, there’s no me",
+      "parts": [
+        {"lyric": "Shwibge malhaji ma", "range": [149.77, 151.3], "ans": [7]},
+        {"lyric": "Neo eopneun nan eopseo", "range": [151.3, 153.28], "ans": [7]}
+      ]
+    },
+    {
+      "lyric_hangul": "넌 내 best of me, the best of me (yeah)",
+      "lyric_translation": "You’re the best of me / The best of me",
+      "parts": [
+        {"lyric": "Neon nae best of me", "range": [153.28, 154.2], "ans": [7]},
+        {"lyric": "The best of me", "range": [154.2, 157.37], "ans": [7]}
+      ]
+    },
+    "",
+    {"lyric": "Geunyang nae daehan hwakshineul jwo", "lyric_hangul": "그냥 나에 대한 확신을 줘 (oh, yeah)", "lyric_translation": "Just give me assurance", "range": [157.3, 159.31], "ans": [3]},
+    {"lyric": "Geuge naega baran jeonbuinikka", "lyric_hangul": "그게 내가 바란 전부이니까 (ooh, ooh)", "lyric_translation": "That’s all I want", "range": [159.31, 161.33], "ans": [3]},
+    {"lyric": "Uriye gyuyureun eobtta haedo", "lyric_hangul": "우리의 규율은 없다 해도 (oh)", "lyric_translation": "Even if there are no rules", "range": [161.33, 163.19], "ans": [3]},
+    {"lyric": "Saranghaneun beobeun jonjaehanikka", "lyric_hangul": "사랑하는 법은 존재하니까 (ayy)", "lyric_translation": "Laws of love do exist", "range": [163.19, 165.86], "ans": [3]},
+    {"lyric": "Who got the best of me?", "lyric_hangul": "Who got the best of me? (Best of me)", "lyric_translation": "Who got the best of me?", "range": [165.86, 167.1], "ans": [3]},
+    {"lyric": "Who got the best of me?", "lyric_hangul": "Who got the best of me? (Ooh, ooh)", "lyric_translation": "Who got the best of me?", "range": [167.1, 168.31], "ans": [3]},
+    {"lyric": "Nugudo molla but I know me", "lyric_hangul": "누구도 몰라, but I know me", "lyric_translation": "No one knows but I know me", "range": [168.31, 169.06], "ans": [3]},
+    {"lyric": "Nae chwegoye juinin geol neon", "lyric_hangul": "내 최고의 주인인 걸 넌", "lyric_translation": "My greatest master is you", "range": [169.06, 170.98], "ans": [3]},
+    "",
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me", "lyric_translation": "You got the best of me", "range": [170.98, 178.99], "ans": [6, 5]},
+    {"lyric": "You got the best of me", "lyric_hangul": "You got the best of me", "lyric_translation": "You got the best of me", "range": [178.99, 183.13], "ans": [6, 5]},
+    {
+      "lyric_hangul": "So, please, just don't leave me",
+      "lyric_translation": "So please just don’t leave me / So please just don’t leave me",
+      "parts": [
+        {"lyric": "So please just don’t leave me", "range": [183.13, 184.68], "ans": [5]},
+        {"lyric": "So please just don’t leave me", "range": [183.98, 186.84], "ans": [6]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "You got the best of me",
+      "lyric_translation": "You got the best of me / You got the best of me",
+      "parts": [
+        {"lyric": "You got the best of me", "range": [186.84, 188.53], "ans": [7]},
+        {"lyric": "You got the best of me", "range": [187.83, 189.65], "ans": [7, 5]}
+      ]
+    },
+    {"lyric": "Neon naye guweon neon naye chang", "lyric_hangul": "넌 나의 구원, 넌 나의 창", "lyric_translation": "You’re my salvation, you’re my shield", "range": [189.65, 193.35], "ans": [7]},
+    {"lyric": "Nan neoman isseumyeon dwae", "lyric_hangul": "난 너만 있으면 돼 (you got the best of me)", "lyric_translation": "I just need you", "range": [193.35, 197.38], "ans": [7]},
+    {
+      "lyric_hangul": "You got the best of me",
+      "lyric_translation": "You got the best of me / I need you",
+      "parts": [
+        {"lyric": "You got the best of me", "range": [202.58, 204.27], "ans": [7, 5]},
+        {"lyric": "Niga piryohae", "range": [203.57, 204.84], "ans": [7]}
+      ]
+    },
+    "",
+    {
+      "lyric_hangul": "When you say that you love me, 난 하늘 위를 걷네",
+      "lyric_translation": "When you say that you love me / Feels like I’m walking across the sky",
+      "parts": [
+        {"lyric": "When you say that you love me", "range": [204.75, 206.87], "ans": [5]},
+        {"lyric": "Nan haneul wireul geonne", "range": [206.87, 209.77], "ans": [5]}
+      ]
+    },
+    {"lyric": "Yeongweoneul malhaejweo just one more time", "lyric_hangul": "영원을 말해줘, just one more time", "lyric_translation": "Tell me about forever, just one more time", "range": [209.77, 212.61], "ans": [5]},
+    {
+      "lyric_hangul": "When you say that you love me, 난 그 한 마디면 돼",
+      "lyric_translation": "When you say that you love me / I just need those words",
+      "parts": [
+        {"lyric": "When you say that you love me", "range": [212.61, 214.71], "ans": [7]},
+        {"lyric": "Nan geu han madimyeon dwae", "range": [214.71, 217.43], "ans": [7]}
+      ]
+    },
+    {"lyric": "Byeonhaji anneundago just one more time", "lyric_hangul": "변하지 않는다고, just one more time", "lyric_translation": "That you’ll never change, just one more time", "range": [217.43, 221.87], "ans": [7]}
+  ]
+}
