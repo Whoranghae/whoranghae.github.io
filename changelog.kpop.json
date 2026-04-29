@@ -1,0 +1,62 @@
+[
+  {
+    "date": "04/28/2026",
+    "change": "Phone view tightened — sidebar nav, player bar, and slot picker now lay out cleanly at narrow widths instead of overlapping each other"
+  },
+  {
+    "date": "04/27/2026",
+    "change": "Faster page loads — songs are fetched on demand instead of all upfront, the menu manifest is slimmer, and hashed assets cache aggressively across visits"
+  },
+  {
+    "date": "04/26/2026",
+    "change": "Added <strong>BTS</strong> — 107-song catalog spanning the studio albums, mini-albums, OSTs, and singles"
+  },
+  {
+    "date": "04/25/2026",
+    "change": "Sidebar now groups each artist's discography by album type (<em>Studio</em>, <em>Mini</em>, <em>Single</em>, <em>Compilation</em>, <em>Digital</em>) so the menu doesn't sprawl"
+  },
+  {
+    "date": "04/25/2026",
+    "change": "Added <strong>Stray Kids</strong> — 112 songs across studio releases, mini-albums, repackaged editions, compilations, and digital singles"
+  },
+  {
+    "date": "04/25/2026",
+    "change": "Added <strong>TWICE</strong> — 150-song catalog with the new album-type grouping baked in"
+  },
+  {
+    "date": "04/25/2026",
+    "change": "Added a <code>Hints</code> button — turn it on to show a <em>Singers: N</em> badge under each slot for the songs you can't crack"
+  },
+  {
+    "date": "04/25/2026",
+    "change": "Bubudle: added a <strong>Daily</strong> mode (one shared clip per day across all players) and a cross-group <em>All</em> scope"
+  },
+  {
+    "date": "04/24/2026",
+    "change": "Added a <strong>FULL COMBO</strong> banner that flashes when you finish a song at 100%"
+  },
+  {
+    "date": "04/24/2026",
+    "change": "Whoranghae is now packaged as an <strong>Android app</strong> — same site, no browser frame"
+  },
+  {
+    "date": "04/24/2026",
+    "change": "On mobile, the sidebar now layers above the player bar so the menu stops getting pinned underneath when you open it mid-song"
+  },
+  {
+    "date": "04/23/2026",
+    "change": "Added a small Ko-fi tip jar (bottom-left popover, dismissible) — totally optional, but if this game has been worth your time, tips are very welcome >.<"
+  },
+  {
+    "date": "04/23/2026",
+    "change": "Added the Japanese SEVENTEEN catalog — 5 JP releases — alongside a native-lyrics toggle that flips between <strong>한</strong> and JP"
+  },
+  {
+    "date": "04/21/2026",
+    "change": "Added <strong>SEVENTEEN</strong> as the founding K-pop group — 113 songs across the catalog, with member colors, group art, and per-album sidebar grouping"
+  },
+  {
+    "date": "04/21/2026",
+    "change": "<strong>Whoranghae launched.</strong> A brand-new K-pop mode of the site, branded and deployed separately from the anime side, built on the same engine that powers <a href=\"https://bubudesuwho.github.io/\">BubuDesuWho</a>"
+  }
+]
