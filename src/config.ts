@@ -7,6 +7,13 @@ import { registerGroup } from './groups';
 declare const __BUILD_VERSION__: string;
 const V = `?v=${__BUILD_VERSION__}`;
 
+// Songs JSON + changelog default to BASE_URL (web), but the Capacitor APK
+// builds set VITE_CONTENT_BASE to its deployed site so adding songs flows
+// to installed apps without an APK reinstall. See scripts/build-android.sh.
+function getContentBase(): string {
+  return import.meta.env.VITE_CONTENT_BASE || import.meta.env.BASE_URL;
+}
+
 const songCache = new Map<string, Song>();
 const indexCache = new Map<string, { file: string; cover?: string; menu: MenuSong }>();
 let indexPromise: Promise<MenuSong[]> | null = null;
@@ -15,11 +22,12 @@ const inFlight = new Map<string, Promise<Song | undefined>>();
 
 export function ensureGroups(): Promise<void> {
   if (groupsPromise) return groupsPromise;
-  groupsPromise = loadGroups(import.meta.env.BASE_URL, getMode());
+  groupsPromise = loadGroups(getMode());
   return groupsPromise;
 }
 
-async function loadGroups(base: string, mode: 'anime' | 'kpop'): Promise<void> {
+async function loadGroups(mode: 'anime' | 'kpop'): Promise<void> {
+  const base = getContentBase();
   const resp = await fetch(base + `songs/groups.${mode}.json` + V);
   if (!resp.ok) {
     console.warn(`songs/groups.${mode}.json missing (${resp.status}); registry will be empty`);
@@ -45,7 +53,7 @@ function getMode(): 'anime' | 'kpop' {
 
 async function ensureIndex(): Promise<MenuSong[]> {
   if (indexPromise) return indexPromise;
-  const base = import.meta.env.BASE_URL;
+  const base = getContentBase();
   const mode = getMode();
   indexPromise = (async () => {
     await ensureGroups();
@@ -95,7 +103,7 @@ export function loadSongById(id: string): Promise<Song | undefined> {
       console.warn(`loadSongById: no index entry for "${id}"`);
       return undefined;
     }
-    const base = import.meta.env.BASE_URL;
+    const base = getContentBase();
     const r = await fetch(base + 'songs/' + entry.file + V);
     if (!r.ok) {
       console.warn(`loadSongById: failed to fetch ${entry.file} (${r.status})`);
@@ -199,7 +207,7 @@ export function preprocessSong(cfg: SongConfig): Song {
       m.ans = findSingers(cfg.mapping ?? []).slice();
     }
     if (m.ans != null && m.ans.length > 1) {
-      m.ans = [...m.ans].sort((a, b) => a - b);
+      m.ans = Array.from(new Set(m.ans)).sort((a, b) => a - b);
     }
   });
 
@@ -222,10 +230,10 @@ export function preprocessSong(cfg: SongConfig): Song {
     calls,
     slotsBase,
     lyricsBase,
-    // Match the manifest derivation in scripts/build-index.js: a song "has
-    // lyrics" only if it carries at least one mapped line. String-only
-    // separators (e.g. "(intro)") produce text tokens but no mapping.
-    hasLyrics: mapping.length > 0,
+    // Match scripts/build-index.js: "has lyrics" means the song carries
+    // displayable lyric text. Legacy songs with mapping-only (timing +
+    // answers, no `lyrics` field) don't qualify.
+    hasLyrics: lyricsBase.some((t) => t.type === 'lyric'),
   };
 }
 
@@ -424,6 +432,6 @@ function preprocessLyrics(
 
 export async function loadChangelog(): Promise<{ date: string; change: string }[]> {
   const mode = getMode();
-  const resp = await fetch(import.meta.env.BASE_URL + `changelog.${mode}.json`);
+  const resp = await fetch(getContentBase() + `changelog.${mode}.json`);
   return resp.json();
 }
