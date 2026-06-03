@@ -1,5 +1,9 @@
 [
   {
+    "date": "05/03/2026",
+    "change": "Stats page redesign — <em>Total Mastery</em> dials, plus a profile <strong>Export/Import</strong> JSON to move your progress between devices"
+  },
+  {
     "date": "04/28/2026",
     "change": "Phone view tightened — sidebar nav, player bar, and slot picker now lay out cleanly at narrow widths instead of overlapping each other"
   },
