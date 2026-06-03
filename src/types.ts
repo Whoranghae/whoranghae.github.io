@@ -39,6 +39,13 @@ export interface SongConfig {
   released?: string;
   subunit?: string;
   album?: string;
+  /** MusicBrainz primary release-group type — 'Single' | 'Album' | 'EP' etc.
+   *  Lets the menu distinguish "Album: ..." from "Single: ..." headers. */
+  releaseType?: string;
+  /** MusicBrainz release-group MBID. Stable handle for future cross-references. */
+  albumMbid?: string;
+  /** Track number on the source release. Useful for sorting within an album. */
+  trackPosition?: number;
   menu?: GroupName;
   cover?: string;
   note?: 'unsynced';
@@ -166,6 +173,9 @@ export interface MenuSong {
   note?: 'unsynced';
   subunit?: string;
   album?: string;
+  releaseType?: string;
+  albumMbid?: string;
+  trackPosition?: number;
   released?: string;
   cover?: string;
   hasLyrics?: boolean;
@@ -202,8 +212,15 @@ export interface GameState {
   scrollLyricLock: number | null;
   callSFXch: number;
   sortMode: SortMode;
-  groupBySubunit: boolean;
+  /** Sidebar grouping flags. Both can be on simultaneously — when both
+   *  are active, songs bucket by subunit first, then by album within
+   *  each subunit. KPop never sets `subunit` (no subunit data). */
+  groupBy: { subunit: boolean; album: boolean };
   editMode: boolean;
+  /** When false, plays don't write to history or per-song selections — used
+   *  by the bubudle "count toward song progress" toggle. Defaults to true so
+   *  the play page always records. */
+  recordProgress: boolean;
   jpLyrics: boolean;
   controls: {
     lastSlotScroll: number;
