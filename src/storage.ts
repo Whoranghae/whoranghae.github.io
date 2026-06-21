@@ -48,6 +48,41 @@ export function saveChoicesForSong(songId: string, choices: Record<string, numbe
   setStorage(songId + '-selections', JSON.stringify(choices));
 }
 
+// ─── Mastery cache ──────────────────────────────────────────────────
+// Derived snapshot written by the stats page and read by the buddy on other
+// pages. One shape, shared by both ends — so a field rename breaks the build
+// instead of silently yielding NaN%/0 in the buddy. (Not in PROFILE_STATIC_KEYS:
+// it's derived from `hist` and rebuilt on each stats-page render.)
+export interface MasteryCacheEntry {
+  group: string;
+  id: number;
+  correct: number;
+  attempted: number;
+  totalLines: number;
+}
+
+/** Mastery percentage from a correct/total pair: 0 when there's nothing to
+ *  divide by, otherwise the rounded ratio clamped to 100. One formula shared
+ *  by the stats dials and the buddy badge so the two can't drift. (Callers
+ *  pre-clamp `correct <= total`, so the 100 ceiling is a guard, not a change.) */
+export function masteryPct(correct: number, total: number): number {
+  return total < 1 ? 0 : Math.min(100, Math.round((correct / total) * 100));
+}
+
+export function saveMasteryCache(entries: MasteryCacheEntry[]): void {
+  setStorage('mastery-cache', JSON.stringify(entries));
+}
+
+export function loadMasteryCache(): MasteryCacheEntry[] {
+  const raw = getStorage('mastery-cache');
+  if (!raw) return [];
+  try {
+    return JSON.parse(raw) as MasteryCacheEntry[];
+  } catch {
+    return [];
+  }
+}
+
 type HistTuple = [string, string, [number[], number[]][]];
 
 // Profile backup — every key here is something we want to round-trip across
